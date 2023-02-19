@@ -2655,10 +2655,16 @@
   "stage": 3
  },
  {
+  "key": "14ec91b26897b47582294b74c66fe911",
+  "original": "A crude paper talisman marked with strange patterns, anointed with a pure sacrifice.  Using it will heal any nearby ally, pet, or friendly creature near you, along with enhancing them temporarily.  Friendly NPCs and monsters alike will gain increased speed as well as immunities to various debuffs such as blindness, bleeding, or stunning; while friendly monsters/pets specfically will gain increased melee damage, accuracy, and dodge.",
+  "translation": "A crude paper talisman marked with strange patterns, anointed with a pure sacrifice.  Using it will heal any nearby ally, pet, or friendly creature near you, along with enhancing them temporarily.  Friendly NPCs and monsters alike will gain increased speed as well as immunities to various debuffs such as blindness, bleeding, or stunning; while friendly monsters/pets specfically will gain increased melee damage, accuracy, and dodge.",
+  "context": "ID: air_talisman\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→air_talisman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=air_talisman",
+  "stage": 1
+ },
+ {
   "key": "8cc710737aa27928c798b43d1d2cdfb8",
   "original": "A crude paper talisman marked with strange patterns, anointed with a pure sacrifice.  Using it will imbue any nearby summoned monster with protective energies, if they aren't hostile, granting immunity to most environmental hazards save fire.  It will also heal nearby allies, and bind transient summons to function as familiars until they vanish.  The protective effect will last a day and only affects summoned monsters, while the healing affects all allies.",
   "translation": "一种印有奇怪图案的粗糙的纸质护身符，涂抹着一些纯洁祭品。如果附近的召唤怪物没有敌意的话，使用它可以给予他们保护能量，使他们免受大多数环境危害，除了火灾。它还可以治疗附近的盟友，并且将短暂的召唤变成亲密者直到他们消失。保护效果持续一天，只影响召唤怪物，而治疗效果影响所有盟友。",
-  "context": "ID: air_talisman\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→air_talisman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=air_talisman",
   "stage": 1
  },
  {
@@ -4079,10 +4085,16 @@
   "stage": 3
  },
  {
+  "key": "9cb64f9f8834c31c09cacf08b0fe84b6",
+  "original": "A small copper device that channels magical flame, focusing it into a white-hot pinprick of searing heat.  Too narrow in focus and short-ranged to be useful as a weapon, instead designed for metalworking and repairing items.  With a source of eye protection it can be used to destroy metal barriers.",
+  "translation": "A small copper device that channels magical flame, focusing it into a white-hot pinprick of searing heat.  Too narrow in focus and short-ranged to be useful as a weapon, instead designed for metalworking and repairing items.  With a source of eye protection it can be used to destroy metal barriers.",
+  "context": "ID: thermic_essence_cutter\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→thermic_essence_cutter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thermic_essence_cutter",
+  "stage": 1
+ },
+ {
   "key": "7ec6c44df875af7f5a464d099ad78d16",
   "original": "A small copper device that channels magical flame, focusing it into a white-hot pinprick of searing heat.  Too narrow in focus and short-ranged to be useful as a weapon, instead designed for metalworking.  With a source of eye protection it can be used to destroy metal barriers.",
   "translation": "一种小型铜制装置，能引导魔法火焰，将其聚焦成灼热的白色针状火焰。焦点太窄，射程太短，不能用作武器，而是被设计用来切割金属。如果装备了护目镜，可以使用它来破坏金属屏障。",
-  "context": "ID: thermic_essence_cutter\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→thermic_essence_cutter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=thermic_essence_cutter",
   "stage": 1
  },
  {
@@ -7323,7 +7335,7 @@
   "key": "2422750ceb9f25fa06673d507454ab01",
   "original": "Binds friendly summoned monsters to you, making it serve as a pet if it isn't already fully tamed.",
   "translation": "Binds friendly summoned monsters to you, making it serve as a pet if it isn't already fully tamed.",
-  "context": "ID: arcana_item_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet_buff",
+  "context": "ID: arcana_item_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet_buff",
   "stage": 3
  },
  {
@@ -7770,6 +7782,13 @@
   "original": "Bring what you found to Sofia, she should be able to help.  I'll look into consulting with the others as well, until you come back with anything.",
   "translation": "把你找到的东西交给索菲亚，她会帮上忙的。我也会考虑和其他人商量，直到你拿了什么回来。",
   "context": "ID: TALK_CF_GM_PRELUDE_4_MID_ADVICE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_PRELUDE_4_MID_ADVICE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_GM_PRELUDE_4_MID_ADVICE",
+  "stage": 1
+ },
+ {
+  "key": "ec090e70fc1c735882d4ccd003bbc013",
+  "original": "Buffs any nearby allies and heals them.",
+  "translation": "Buffs any nearby allies and heals them.",
+  "context": "ID: arcana_item_pet\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet",
   "stage": 1
  },
  {
@@ -8605,6 +8624,13 @@
   "original": "Deal.  What do I need to do?",
   "translation": "成交。我需要做什么呢？",
   "context": "ID: TALK_SCIENCE_REP_NICHOLAS_7\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_SCIENCE_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_SCIENCE_REP_NICHOLAS_7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SCIENCE_REP_NICHOLAS_7",
+  "stage": 1
+ },
+ {
+  "key": "ab7173ad1e6a8c208f1c80175f9e29ff",
+  "original": "Defender's Ward",
+  "translation": "Defender's Ward",
+  "context": "ID: talisman_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→talisman_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=talisman_pet_buff",
   "stage": 1
  },
  {
@@ -10031,8 +10057,14 @@
   "key": "526abd43902bc31bb8fe461176ae7600",
   "original": "Faint wisps of mist fly from the talisman, to bring enlightenment through a bond with your own mind, and guard them against hazards.",
   "translation": "一缕稀薄的雾气从护身符中飞出，通过与你自己意识的联系带来启迪，并保护他们免受危险。",
-  "context": "ID: arcana_item_pet\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet",
   "stage": 3
+ },
+ {
+  "key": "bdc7bb55d704b3e7177dfde638f9b54f",
+  "original": "Faint wisps of mist fly from the talisman, to reinforce those who fight by your side.",
+  "translation": "Faint wisps of mist fly from the talisman, to reinforce those who fight by your side.",
+  "context": "ID: arcana_item_pet\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet",
+  "stage": 1
  },
  {
   "key": "3909d66cc600a4895b9a4f2441f2e8d4",
@@ -10045,14 +10077,13 @@
   "key": "099b3b1b2643fd0df7abead35caec936",
   "original": "Familiar Pact",
   "translation": "伙伴契约",
-  "context": "ID: arcana_item_pet\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet",
   "stage": 5
  },
  {
   "key": "5520332c0f63debf9ce56d4f052e36d1",
   "original": "Familiar Pact Buff Effect",
   "translation": "Familiar Pact Buff Effect",
-  "context": "ID: arcana_item_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet_buff",
+  "context": "ID: arcana_item_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_pet_buff",
   "stage": 5
  },
  {
@@ -14953,6 +14984,13 @@
   "original": "Immunity to blade and bullet, protection from anomalous effects.",
   "translation": "",
   "stage": -1
+ },
+ {
+  "key": "a1a8671aed80c9a0a838427f7286bda2",
+  "original": "Immunity to debuffs such as blindness, bleeding, stunning, etc.  Monsters (but not NPCs) additionally gain increased melee damage, accuracy, and dodge.",
+  "translation": "Immunity to debuffs such as blindness, bleeding, stunning, etc.  Monsters (but not NPCs) additionally gain increased melee damage, accuracy, and dodge.",
+  "context": "ID: talisman_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→talisman_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=talisman_pet_buff",
+  "stage": 1
  },
  {
   "key": "72ca73234e4667f7fe0f9e4354a334a7",
@@ -30677,7 +30715,6 @@
   "key": "7c7435748b26778e20bafec13e710e44",
   "original": "Warded",
   "translation": "被守护",
-  "context": "ID: talisman_pet_buff\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→talisman_pet_buff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=talisman_pet_buff",
   "stage": 3
  },
  {
