@@ -1019,15 +1019,15 @@
       "rows": [
         ".,,_____$......P.__.....",
         ".||&&&&&||.......__.....",
-        ".|______$|.......__.....",
-        ".|_______;_________.....",
-        "%|_______|%%%%...__.....",
-        "%w_______||ww|||.__.....",
-        "%w_______-b  T-||;;||||.",
-        "%|_______-b   -n     t|%",
-        ".|{_____g-   t-O      w%",
-        ".|cc____g-   S-F      w%",
-        ".|cc_____--+---S      |%",
+        ".|EEEEEE$|.......__.....",
+        ".|EEEEEEE;_________.....",
+        "%|EEEEEEE|%%%%...__.....",
+        "%wEEEEEEE||ww|||.__.....",
+        "%wEEEEEEE-b  T-||;;||||.",
+        "%|EEEEEEE-b   -n     t|%",
+        ".|{EEEEEg-   t-O      w%",
+        ".|ccEEEEg-   S-F      w%",
+        ".|ccEEEEE--+---S      |%",
         ".|---+----    -C  hh  |.",
         "%|            -  heeh |%",
         "%w            +  heeh w%",
@@ -1056,8 +1056,9 @@
         ";": "t_door_locked",
         "4": "t_gutter_downspout",
         "P": "t_grass",
-        "c": "t_concrete",
-        "g": "t_concrete",
+        "E": "t_thconc_floor",
+        "c": "t_thconc_floor",
+        "g": "t_thconc_floor",
         "w": "t_window_no_curtains_taped",
         "x": "t_door_locked_interior",
         "|": "t_brick_wall"
@@ -2710,10 +2711,7 @@
       },
       "toilets": { "T": {  } },
       "items": {
-        "C": [
-          { "item": "supplies_reagents_lab", "chance": 50, "repeat": 3 },
-          { "item": "lab_magitech_general", "chance": 10 }
-        ],
+        "C": [ { "item": "supplies_reagents_lab", "chance": 50, "repeat": 3 }, { "item": "lab_magitech_general", "chance": 10 } ],
         "d": { "item": "office", "chance": 75, "repeat": 2 },
         "l": [
           { "item": "tools_robotics", "chance": 25, "repeat": 3 },
