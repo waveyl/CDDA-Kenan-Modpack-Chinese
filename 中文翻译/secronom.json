@@ -1870,9 +1870,9 @@
  {
   "key": "dd2b3148f0e86012e6b9f09c8ea84b2f",
   "original": "<color_yellow>%1$s twitches.",
-  "translation": "<color_yellow>%1$s次抽搐。",
+  "translation": "<color_yellow>%1$s抽搐起来。",
   "context": "ID: mon_sflesh_veinstalk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_biome.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_veinstalk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_veinstalk",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "27a0f77d3ca1dacec8a0d1affc317d70",
@@ -2311,9 +2311,9 @@
  {
   "key": "7c927d6510174984a3b9ad4578a64ae4",
   "original": "A dangling vector sprout, as tall as a person.",
-  "translation": "摇曳的矢量芽，和人一样高。",
+  "translation": "摇曳的载体树幼苗，像人一样高。",
   "context": "ID: mon_vector_sprout\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Unknown/Vector.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_vector_sprout\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_vector_sprout",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9b4bb0c0490ffb50ed1d066fea1d63ed",
@@ -4781,7 +4781,7 @@
   "original": "Bye.",
   "translation": "再见。",
   "context": "ID: TALK_SECRO_FWEAVER_main\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_dialogue.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SECRO_FWEAVER_main",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5ae6740e863582aea1edf66bc349a760",
@@ -8097,7 +8097,7 @@
  {
   "key": "cc021b742cca2c94bcbf523ce511e8e6",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster reveals itself.'",
-  "translation": "怪物施放的咒语。如果你看到了这个，那就改读这个:\n\"施法者显现\"",
+  "translation": "怪物施放的咒语。如果你看到了这个，则改读这个：\n\"施法者显现\"",
   "context": "ID: mon_shifter_zombie_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_shifter_zombie_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_zombie_death",
   "stage": 1
  },
@@ -8349,9 +8349,9 @@
  {
   "key": "607bb479d2157c118eb153fc71e75d73",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster splits out black fogs.'",
-  "translation": "怪物施法的。如果你看到了这个，那就读这篇：\n“施法者驱散黑雾”",
+  "translation": "怪物施放的咒语。如果你看到了这个，则改读这个：\n“施法者驱散黑雾”",
   "context": "ID: mon_shifter_spawn_illu\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_shifter_spawn_illu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_spawn_illu",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "72bb20fd30c1a448f631f046b9ebd790",
@@ -8362,7 +8362,7 @@
  {
   "key": "e47aae48bdd9b2a318f094c36bfff189",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster splits.'",
-  "translation": "怪物施放的咒语。如果你看到了这个，那就改读这个:\n“施法者分裂”",
+  "translation": "怪物施放的咒语。如果你看到了这个，则改读这个：\n“施法者分裂”",
   "context": "ID: mon_zombie_nightwail_shadow_split\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_nightwail_shadow_split\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_nightwail_shadow_split",
   "stage": 3
  },
@@ -9101,9 +9101,9 @@
  {
   "key": "d9f36465ca42a138071248f2e877daeb",
   "original": "Spell casted by an monster. If you're seeing this, then read this one instead:\n'Caster teleports away.'",
-  "translation": "怪物施法的。如果你看到了这个，那就改读这个：\n“施法者传送离开”",
+  "translation": "怪物施放的咒语。如果你看到了这个，则改读这个：\n“施法者传送离开”",
   "context": "ID: mon_shifter_teleport\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_shifter_teleport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_teleport",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "903455edf3ebe41efa59fe2439cc9784",
