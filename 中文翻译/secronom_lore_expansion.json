@@ -1547,10 +1547,16 @@
   "stage": 5
  },
  {
+  "key": "fd45dc2cc33ac7b1e751767946ff0675",
+  "original": "A complex battle suit brought to existence using the latest technological advancements. Secronom exoskeleton type \"Vessel (Gunner)\" is an offbranch mutation of a standard vessel, having lesser flesh membranes and webbings in exchange for greater perception. Its body orientation is built to handle several projectile-shooting armaments and to quickly form a gunner creation. Thus, it is ideal for long- to mid-ranged combats. Like all other flesh vessels, it requires the wearer to feed it with flesh.\n\nSecronom exoskeleton type \"Vessel (Gunner)\" provides:\n<color_white>Perception: <color_light_green>+4</color>\nMetabolism: <color_light_green>-5%</color></color>",
+  "translation": "A complex battle suit brought to existence using the latest technological advancements. Secronom exoskeleton type \"Vessel (Gunner)\" is an offbranch mutation of a standard vessel, having lesser flesh membranes and webbings in exchange for greater perception. Its body orientation is built to handle several projectile-shooting armaments and to quickly form a gunner creation. Thus, it is ideal for long- to mid-ranged combats. Like all other flesh vessels, it requires the wearer to feed it with flesh.\n\nSecronom exoskeleton type \"Vessel (Gunner)\" provides:\n<color_white>Perception: <color_light_green>+4</color>\nMetabolism: <color_light_green>-5%</color></color>",
+  "context": "ID: secro_power_armor_flesh_range\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh_range\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_range",
+  "stage": 1
+ },
+ {
   "key": "893e84df5cb5c79cabc8165d126982c2",
   "original": "A complex battle suit brought to existence using the latest technological advancements. Secronom exoskeleton type \"Vessel (Gunner)\" is an offbranch mutation of a standard vessel, having lesser flesh membranes and webbings in exchange for greater perception. Its body orientation is built to handle several projectile-shooting armaments and to quickly form a gunner creation. Thus, it is ideal for long- to mid-ranged combats. Like all other flesh vessels, it requires the wearer to feed it with flesh.\n\nSecronom exoskeleton type \"Vessel (Gunner)\" provides:\n<color_white>Perception: <color_light_green>+4</color>\nSight range: <color_light_green>+10%</color>\nMetabolism: <color_light_green>-5%</color></color>",
   "translation": "一种利用最新研究成果制造出来的合成战斗服。Secronom外骨骼型号“脉管（神枪手型）”是一个标准脉管装甲的分支变异。它用较小的血肉肌膜和织带以换取更大的视野范围。它定位于处理多种投射物射击武装，并迅速形成一个神枪手造物。因此，它在中远程作战中令人满意。就像所有其他脉管装甲一样，它需要佩戴者用血肉来喂养它。\n\n Secronom外骨骼型号“脉管（神枪手型）”提供：\n <color_white>感知：<color_light_green>+4 </color>\n视野范围： <color_light_green>+10%</color>\n新陈代谢： <color_light_green>-5%</color></color>",
-  "context": "ID: secro_power_armor_flesh_range\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh_range\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_range",
   "stage": 5
  },
  {
@@ -2007,7 +2013,6 @@
   "key": "57010c97bdb074254fffdeb206821a14",
   "original": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception and slightly expands the sight range of its user. Uses a built-in UPS.",
   "translation": "一套电力装甲模块，安装各种先进的瞄准系统的眼睛。模块植入式“光学”显著提高了感知能力，并略微扩大了用户的视距。使用内置UPS。",
-  "context": "ID: secro_power_armor_module_optics\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_optics\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_optics",
   "stage": 5
  },
  {
@@ -2016,6 +2021,13 @@
   "translation": "一套电力装甲模块，安装各种先进的瞄准系统的眼睛。模块植入式“光学”显著提高了感知能力，并略微扩大了用户的视距。使用内置UPS。\n\n模块植入式“光学”提供：\n<color_white>感知：<color_light_green>+6</color>",
   "context": "ID: secro_power_armor_module_optics_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_optics_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_optics_act",
   "stage": 5
+ },
+ {
+  "key": "3131b25325267e806adde21e10a2ed3a",
+  "original": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.",
+  "translation": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.",
+  "context": "ID: secro_power_armor_module_optics\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_optics\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_optics",
+  "stage": 1
  },
  {
   "key": "b0ff8119470a11ce22f43c620da14f6f",
