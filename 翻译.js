@@ -1177,6 +1177,7 @@ ${getItemBrowserLink(fullItem)}`
   translators.region_settings = namePlDesc;
   translators.proficiency = namePlDesc;
   translators.overmap_location = namePlDesc;
+	translators.weather_type = namePlDesc;
 	translators.effect_on_condition = EOC
   translators.ITEM_BLACKLIST = noop;
   translators.MONSTER_BLACKLIST = noop;
