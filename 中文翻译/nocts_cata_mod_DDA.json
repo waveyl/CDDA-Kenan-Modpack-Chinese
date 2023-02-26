@@ -740,7 +740,7 @@
  {
   "key": "c818ae6bd8c11a229b62a8a8c566e59c",
   "original": "A deadly yard-long blade made of advanced material now resides inside your forearm, capable of being extended through the back of your wrist at the cost of a small amount of power.  Though exceptionally sharp, it will prevent you from holding anything else while extended.",
-  "translation": "约一码长的单分子刀片隐藏在你的前臂内侧，用一点点来自受体的生化能量便可从手腕的背面伸出。异常锋利，伸展时会妨碍你抱拿握其他物品。",
+  "translation": "约一码长的先进材料刀片隐藏在受体的前臂内部，使用少量能量可以从手腕背部伸出。异常锋利，伸展时会妨碍使用者拿取其他物品。",
   "context": "ID: bio_sword\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_bionics.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→BIONIC_ITEM→bio_sword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_sword",
   "stage": 5
  },
@@ -828,7 +828,7 @@
   "original": "A foot-long knife made from metal enclosed with flesh and bone.  Its blade consists of razor sharp saw-like protrusions, with a bone handle that fits well in the hand.  Holding it brings strange whispers to the back of your mind, as though it has a will of its own.",
   "translation": "用金属制成的一英尺长的刀，内有肉和骨头。它的刀片由剃刀般锋利的锯齿状突起组成，骨柄很合手。握着它会在你的脑海里带来奇怪的耳语，仿佛它有自己的意志。",
   "context": "ID: flesh_knife\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→flesh_knife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flesh_knife",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25ab63cc79faa28668604eb9d2ce2693",
@@ -860,7 +860,7 @@
  {
   "key": "9f6a3c2e2760857e6e1c3fca33af046a",
   "original": "A full-body suit of gray ballistic armor, one size fits most.  Made with leather lining and advanced composite plates, it provides adequate protection against anything up to intermediate caliber ammunition, but may fail against full-power rifle rounds.",
-  "translation": "一套尺寸适合大多数人的灰色连身防弹装甲。可以提供足够的防护来抵挡中等口径子弹，但可能无法防御全威力弹。",
+  "translation": "一套尺寸适合大多数人的灰色连身防弹装甲。以皮革内衬外搭载尖端复合板制成，可以提供足够的防护来抵挡中等口径子弹，但可能无法防御全威力弹。",
   "stage": 3
  },
  {
@@ -895,7 +895,7 @@
   "original": "A heavily-augmented mutant of some sort, deformed from its enhancements.  It seems even more indiscriminate in its rampage than the undead.",
   "translation": "一只因改造而失去了理智的生物武器。现在，他会猎杀一切生命体。",
   "context": "ID: mon_failed_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Monsters/c_monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→MONSTER→mon_failed_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_failed_weapon",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "672aa7eb1afe0eabc3fb6d835fb9a67a",
@@ -909,7 +909,7 @@
   "original": "A heavy set of armor plated boots, modified with kevlar to better protect from the elements.",
   "translation": "一套厚重的装甲靴，用凯夫拉改进以更好地提供环境防护。",
   "context": "ID: boots_plate_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→boots_plate_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boots_plate_surv",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4cc33ba7ea52db9ff93f7e054c3770ae",
@@ -1980,7 +1980,6 @@
   "key": "963bd96c7799799f13215a3f3b30357d",
   "original": "An ad-hoc conversion kit designed by Omnitech for experimental plasma weaponry.  Its purpose is to reconfigure the emitter to function with much lower compression rates, allowing it to use commercial-grade hydrogen instead of now-irreplaceable compressed hydrogen canisters.  This will give the weapon reduced power, range, and accuracy.",
   "translation": "Omnitech为实验性等离子武器设计的特殊转换套件。能重新配置发射器使其具有更低的压缩率，使武器能够使用商业级氢气，而不是现在无法替代的压缩氢罐。这将降低武器的威力、射程和精度。",
-  "context": "ID: hydrogen_convertor\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→hydrogen_convertor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hydrogen_convertor",
   "stage": 1
  },
  {
@@ -7675,6 +7674,13 @@
   "stage": 3
  },
  {
+  "key": "25b22a426d6ace02c4409fb3160968c0",
+  "original": "This item has been dummied out from the DDA version of Cata++, as pocket data has been set in such a way that ammo conversion gunmods no longer work as well as they used to, requiring overrides for any relevent weapon to prevent errors from occurring (and maybe compatibility with other mods that add more plasma weapons impossible without added patchmods).",
+  "translation": "This item has been dummied out from the DDA version of Cata++, as pocket data has been set in such a way that ammo conversion gunmods no longer work as well as they used to, requiring overrides for any relevent weapon to prevent errors from occurring (and maybe compatibility with other mods that add more plasma weapons impossible without added patchmods).",
+  "context": "ID: hydrogen_convertor\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→hydrogen_convertor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hydrogen_convertor",
+  "stage": 1
+ },
+ {
   "key": "11b607775b847de01bf2ab0977025ac0",
   "original": "This oversized pressure cooker uses diesel or other readily-available fuels to power a high-pressure sterilization chamber.  Less efficient than a commercial battery-powered autoclave and incompatible with a vehicle power grid, it does the job if nothing else is available.",
   "translation": "这个超大的高压锅使用柴油或其他现成的燃料来驱动高压灭菌室。效率低于商用电池驱动的高压灭菌器，并且与车辆电网不兼容，如果没有其他东西可用，它也能工作。",
@@ -9724,7 +9730,6 @@
   "key": "59d93bee66f39a1547a55c1e1877f01a",
   "original": "hydrogen density converter",
   "translation": "氢密度转换器",
-  "context": "ID: hydrogen_convertor\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→hydrogen_convertor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hydrogen_convertor",
   "stage": 3
  },
  {
@@ -10219,6 +10224,13 @@
   "translation": "废弃的生物长剑",
   "context": "ID: flesh_blade_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→flesh_blade_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flesh_blade_on",
   "stage": 5
+ },
+ {
+  "key": "0548ddce5a444a2805b0e3fbb74e4b49",
+  "original": "obsolete gunmod",
+  "translation": "obsolete gunmod",
+  "context": "ID: hydrogen_convertor\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→hydrogen_convertor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hydrogen_convertor",
+  "stage": 1
  },
  {
   "key": "5fbf36a788c4285f35ae5cfa02b6ccc5",

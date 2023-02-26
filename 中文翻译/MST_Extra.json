@@ -78,7 +78,7 @@
  {
   "key": "93b0e308d6096c0f8c62535207c2c6dc",
   "original": "A half-liter clay jar, glazed for waterproofing with a tight-fitting wooden stopper.  Sealed tightly with wax, to preserve contents from rot.",
-  "translation": "A half-liter clay jar, glazed for waterproofing with a tight-fitting wooden stopper.  Sealed tightly with wax, to preserve contents from rot.",
+  "translation": "一种半升装的陶罐,已经上了一层釉,有着一个紧紧的木塞来封住瓶口.瓶口已经用蜡密封,防止内容物变质.",
   "context": "ID: jar_clay_sealed\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→jar_clay_sealed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jar_clay_sealed",
   "stage": 3
  },
@@ -92,9 +92,9 @@
  {
   "key": "e40c8401ca606474c770f4e9bd49ae8b",
   "original": "A heavy door made from a log frame.  Solid construction means you can't see through it when closed.",
-  "translation": "A heavy door made from a log frame.  Solid construction means you can't see through it when closed.",
+  "translation": "一扇原木框架做成的车门.它是实心的,所以关上门时你不能透过它来观察.",
   "context": "ID: door_log_frame\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→door_log_frame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=door_log_frame",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "80fc5d4027a62a1713e9e776a12945fd",
@@ -140,7 +140,7 @@
  {
   "key": "e1e9de4d67f66a32408b0db1da519002",
   "original": "A large hand made straw basket, with shoulder straps to wear like a backpack.",
-  "translation": "A large hand made straw basket, with shoulder straps to wear like a backpack.",
+  "translation": "一个手工制作的大草篮，附带的肩带可以像背包一样戴着。",
   "context": "ID: pack_basket\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→pack_basket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pack_basket",
   "stage": 3
  },
@@ -238,21 +238,21 @@
  {
   "key": "d8cf3c9d411fe84570d4683b0071df03",
   "original": "A roof made from a mat of tightly-woven birchbark.  Good enough to keep the rain out at least.",
-  "translation": "A roof made from a mat of tightly-woven birchbark.  Good enough to keep the rain out at least.",
+  "translation": "由厚实紧密的桦树皮做成的车顶盖.起码能遮风挡雨",
   "context": "ID: roof_birchbark\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→roof_birchbark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roof_birchbark",
   "stage": 1
  },
  {
   "key": "dc7535cb42b936b5c662f0e28c3d1ea7",
   "original": "A scrap of animal hide, scraped of extraneous hair and flesh and treated to prevent decay.",
-  "translation": "A scrap of animal hide, scraped of extraneous hair and flesh and treated to prevent decay.",
+  "translation": "一张卷起来的硬皮.相比生皮,去除了多余的皮毛和残余肌肉脂肪组织,进行了防腐处理.仍需鞣制才能变成能用的皮革.",
   "context": "ID: cured_hide_small\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→cured_hide_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cured_hide_small",
   "stage": 3
  },
  {
   "key": "04941003c0f440f09b1add22fc6c8e9c",
   "original": "A scrap of animal pelt, scraped of extraneous hair and flesh and treated to prevent decay.",
-  "translation": "A scrap of animal pelt, scraped of extraneous hair and flesh and treated to prevent decay.",
+  "translation": "一张卷起来的硬化毛皮.相比生毛皮,去除了多余的皮毛和残余肌肉脂肪组织,进行了防腐处理.仍需鞣制才能变成能用的毛皮",
   "context": "ID: cured_pelt_small\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→cured_pelt_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cured_pelt_small",
   "stage": 3
  },
@@ -315,7 +315,7 @@
  {
   "key": "918b61f3887e0060a5b04dd54caba29f",
   "original": "A small but comfortable bed made from a mat of tightly-woven straw.",
-  "translation": "A small but comfortable bed made from a mat of tightly-woven straw.",
+  "translation": "用厚厚的稻草铺成的窄小但舒适的床.",
   "context": "ID: bed_straw_rollmat\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→bed_straw_rollmat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bed_straw_rollmat",
   "stage": 1
  },
@@ -329,21 +329,21 @@
  {
   "key": "d27429ba38179127279557c34ab3ed2a",
   "original": "A small improvised wood stove, placed on the ground.  It can only burn small amounts of wood at a time, but it will keep a fire safe from wind and rain.",
-  "translation": "A small improvised wood stove, placed on the ground.  It can only burn small amounts of wood at a time, but it will keep a fire safe from wind and rain.",
+  "translation": "放置在地上的小型的流浪汉火炉.一次性只能加入少量的木头进行燃烧,能够保证用火安全以及不怕刮风下雨.",
   "context": "ID: f_hobo_stove_placed\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_hobo_stove_placed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_hobo_stove_placed",
   "stage": 3
  },
  {
   "key": "f4053038989551e269ad7a33e579e86a",
   "original": "A small piece of treated animal hide, undergoing the chemical processes required to become leather.  You will be able to activate it to unroll and make use of it when it is done.",
-  "translation": "皮革一小块经过处理的动物皮,经过化学处理后制成皮革.你将能够激活它展开,并利用它当它完成。",
+  "translation": "一小块已经经过处理的动物皮,经过一系列必要的化学反应以变成鞣制皮革.当它鞣制完成后你就可以激活以展开并使用.",
   "context": "ID: tanning_hide_small\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tanning_hide_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tanning_hide_small",
   "stage": 3
  },
  {
   "key": "7d42f4a0ec51d2ce1e06a9cc6e5766ea",
   "original": "A small piece of treated animal pelt, undergoing the chemical processes required to become fur.  You will be able to activate it to unroll and make use of it when it is done.",
-  "translation": "毛皮一小块经过处理的动物毛皮,经过化学处理后变成毛皮.你将能够激活它展开,并利用它当它完成。",
+  "translation": "一小块已经经过处理的动物皮,经过一系列必要的化学反应以变成鞣制毛皮.当它鞣制完成后你就可以激活以展开并使用",
   "context": "ID: tanning_pelt_small\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tanning_pelt_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tanning_pelt_small",
   "stage": 3
  },
@@ -378,7 +378,7 @@
  {
   "key": "5c4c3d35e5ab136d55c3ada05363b004",
   "original": "A thick mat of tightly-woven straw or pine boughs.  It could be worn as a thick blanket, or used to deploy it as a mat to sleep on.",
-  "translation": "A thick mat of tightly-woven straw or pine boughs.  It could be worn as a thick blanket, or used to deploy it as a mat to sleep on.",
+  "translation": "用厚密的桦树皮或松枝编织的草毯.可以像厚毯子那样披在身上,或者在睡觉时铺在地上.",
   "context": "ID: straw_bed_rollmat\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→straw_bed_rollmat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=straw_bed_rollmat",
   "stage": 1
  },
@@ -405,7 +405,7 @@
  {
   "key": "44451fb80da600238ff7595f061ee727",
   "original": "A tightly-woven panel made of birch bark, for vehicle use.  It could be used for makeshift aisles and roofing, or with some waterproofing it could help keep a canoe afloat.",
-  "translation": "A tightly-woven panel made of birch bark, for vehicle use.  It could be used for makeshift aisles and roofing, or with some waterproofing it could help keep a canoe afloat.",
+  "translation": "一块用桦树皮制成的厚密编织板,用于载具部件.可以充当简易的过道或车顶，与一些防水材料一起可以帮助独木舟漂浮.",
   "context": "ID: birchbark_panel\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→birchbark_panel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=birchbark_panel",
   "stage": 1
  },
@@ -488,7 +488,7 @@
  {
   "key": "1a0b72e200b0e777abc2d55c1616970e",
   "original": "A wall made from a log frame.  Keeps zombies outside the vehicle and prevents people from seeing through it.",
-  "translation": "A wall made from a log frame.  Keeps zombies outside the vehicle and prevents people from seeing through it.",
+  "translation": "一扇原木框架做成的隔板.能够阻挡丧尸和其他人的视线.",
   "context": "ID: log_frame_board\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→log_frame_board\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=log_frame_board",
   "stage": 1
  },
@@ -502,7 +502,7 @@
  {
   "key": "54d21c01f5f67af6125d5866032e9004",
   "original": "A waterproofed board that keeps the water out of your boat.",
-  "translation": "A waterproofed board that keeps the water out of your boat.",
+  "translation": "一块防水船壳,防止你的船进水.",
   "context": "ID: boat_board_birchbark\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→boat_board_birchbark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boat_board_birchbark",
   "stage": 1
  },
@@ -529,7 +529,7 @@
  {
   "key": "8887eeb9730a5e10c4078958b26384a9",
   "original": "An aisle made from a mat of tightly-woven birchbark.",
-  "translation": "An aisle made from a mat of tightly-woven birchbark.",
+  "translation": "用厚实紧密的桦树皮做成的过道.",
   "context": "ID: birchbark_aisle\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→birchbark_aisle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=birchbark_aisle",
   "stage": 1
  },
@@ -1025,14 +1025,14 @@
  {
   "key": "4a24fc9f3414a28dd0c765ba5b90e267",
   "original": "This is a pseudo item.",
-  "translation": "This is a pseudo item.",
+  "translation": "这是一个虚拟物品.",
   "context": "ID: char_purifier_fake\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→char_purifier_fake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=char_purifier_fake",
   "stage": 3
  },
  {
   "key": "619c4915f8cab302121fc0e231c6f261",
   "original": "This is a small ceramic fire pot, with a lid and small holes for controlled airflow.  An ember is smoldering inside it, and can be used to start a campfire.",
-  "translation": "这是一个小的陶瓷火锅,有盖子和小孔以控制气流.余烬在里面闷烧,可以用来点燃篝火.",
+  "translation": "一个用来保存火种的小陶土罐,带有盖子和通气口,一小团余烬正在里面闷烧,可以用来生起篝火.",
   "context": "ID: tinderbox_clay_on\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay_on",
   "stage": 3
  },
@@ -1336,28 +1336,28 @@
  {
   "key": "cbd260d7f5eb9b75c4492d7f3dcd07e4",
   "original": "cured hide patch",
-  "translation": "硬皮小片",
+  "translation": "硬皮片",
   "context": "ID: cured_hide_small\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→cured_hide_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cured_hide_small",
   "stage": 3
  },
  {
   "key": "289f9dd08a4ef48cffc9864354a1d9ab",
   "original": "cured hide patches",
-  "translation": "硬皮小片",
+  "translation": "硬皮片",
   "context": "ID: cured_hide_small\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→cured_hide_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cured_hide_small",
   "stage": 3
  },
  {
   "key": "32374cbf96013f190297f78507206425",
   "original": "cured pelt patch",
-  "translation": "硬化毛皮小片",
+  "translation": "硬化毛皮片",
   "context": "ID: cured_pelt_small\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→cured_pelt_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cured_pelt_small",
   "stage": 3
  },
  {
   "key": "1c267767d7e35d882fc76a8354db2dd2",
   "original": "cured pelt patches",
-  "translation": "硬化毛皮小片",
+  "translation": "硬化毛皮片",
   "context": "ID: cured_pelt_small\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→cured_pelt_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cured_pelt_small",
   "stage": 3
  },
@@ -1729,7 +1729,7 @@
  {
   "key": "36dc94a318d6264a52367131c3b91930",
   "original": "pack basket",
-  "translation": "pack basket",
+  "translation": "草背篓",
   "context": "ID: pack_basket\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→pack_basket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pack_basket",
   "stage": 3
  },
