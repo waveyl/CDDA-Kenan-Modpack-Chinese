@@ -2249,7 +2249,7 @@
   "key": "b48201314d7a741aeba900886ff01a80",
   "original": "A blinding golden flash and thunderous bang erupts from the symbol!",
   "translation": "一道耀眼的金色闪光和雷鸣般的巨响从符号中爆发！",
-  "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
+  "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
   "stage": 0
  },
  {
@@ -2270,7 +2270,7 @@
   "key": "1ebea6b63b854e4c52f54e3f83d9a27a",
   "original": "A bolt of lightning erupts from the ground!",
   "translation": "一道闪电从地面迸射出！",
-  "context": "ID: arcana_trap_lightning\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lightning",
+  "context": "ID: arcana_trap_lightning\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lightning",
   "stage": 3
  },
  {
@@ -2684,13 +2684,13 @@
   "key": "0c1273c7b7d7113d53c265444fb88153",
   "original": "A curved bronze blade, decorated with silver and honed to an unnaturally sharp edge.  Using it will channel blood essence into ensnaring a nearby enemy in venomous tendrils, poisoning them and freezing them in place momentarily.  Zombies and other creatures immune to poison will not suffer damage from it.",
   "translation": "",
+  "context": "ID: lichhook\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lichhook",
   "stage": -1
  },
  {
   "key": "b5e63849a757dad8e493efbb510a9a05",
   "original": "A curved bronze blade, decorated with silver and honed to an unnaturally sharp edge.  Using it will channel blood essence into ensnaring a nearby enemy in venomous tendrils, poisoning them and freezing them in place momentarily.  Zombies and other creatures immune to poison will not suffer damage from it.  It can also place a rune that will trigger the same effect over a small area when something steps into it.",
   "translation": "一种弯曲的青铜刀片，用银装饰并打磨成不自然的锋利边缘。使用它将引导血液精华进入毒气触手中诱捕附近的敌人，使其中毒并瞬间冻结。僵尸和其他对毒药免疫的生物不会受到毒药的伤害。它还可以放置一个符文，当有东西进入它时，它会在一个小范围内触发同样的效果。",
-  "context": "ID: lichhook\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lichhook",
   "stage": 1
  },
  {
@@ -2896,6 +2896,12 @@
   "key": "1237e53cecdf5c2ead3ef3121a6de154",
   "original": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 36 hours to charge.",
   "translation": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 36 hours to charge.",
+  "stage": 1
+ },
+ {
+  "key": "c6c4a79577a20f63f8d4f876bef5910c",
+  "original": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 45 hours to charge.",
+  "translation": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 45 hours to charge.",
   "context": "ID: brooch_iridescent_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→brooch_iridescent_empowered\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=brooch_iridescent_empowered",
   "stage": 1
  },
@@ -2987,10 +2993,16 @@
   "stage": 3
  },
  {
+  "key": "34d3ef277d5a59266d6eb6b9806c6683",
+  "original": "A hatchet with its axehead lightened a bit, stained the dull color of dried blood.  Using it will channel blood essence into a nasty explosion, with a considerable blast radius.",
+  "translation": "A hatchet with its axehead lightened a bit, stained the dull color of dried blood.  Using it will channel blood essence into a nasty explosion, with a considerable blast radius.",
+  "context": "ID: bloodaxe\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→bloodaxe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bloodaxe",
+  "stage": 1
+ },
+ {
   "key": "ee8f7dd385d64b137f8060c3772454f6",
   "original": "A hatchet with its axehead lightened a bit, stained the dull color of dried blood.  Using it will channel blood essence into a nasty explosion, with a considerable blast radius.  It will give you little time to escape, to use it wisely.",
   "translation": "一把斧头上溅满了凝固血液的短柄小斧，整体呈暗红色，看起来十分诡异。引用猩血源质作为咒导源，仪式启动开始后激活半径相当大的爆炸。扔出的时间转瞬即逝，想要使用这个危险的禁忌之力前你必须合理规划接下来的每一步。",
-  "context": "ID: bloodaxe\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→bloodaxe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bloodaxe",
   "stage": 3
  },
  {
@@ -3011,13 +3023,13 @@
   "key": "c53a8b3e468899b1e55e7b027972a6cd",
   "original": "A heavy set of plate gauntlets, decorated with silver around the edges of each individual plate.  Touching the bare metal sends a faint electric tingle through you.  Use them to give a nearby enemy a powerful stunning jolt, draining health from your target.",
   "translation": "",
+  "context": "ID: gauntlets_necro\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→gauntlets_necro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_necro",
   "stage": -1
  },
  {
   "key": "e1ff41078317a638352f08c1eda77128",
   "original": "A heavy set of plate gauntlets, decorated with silver around the edges of each individual plate.  Touching the bare metal sends a faint electric tingle through you.  Use them to give a nearby enemy a powerful stunning jolt, draining health from your target.  It can also be used to place a rune that will blast an area with lightning if something steps on it.",
   "translation": "一套沉重的板手套，在每个板的边缘用银装饰。触摸裸露的金属会给你带来微弱的刺痛感。使用它们给附近的敌人一个强大的眩晕震动，消耗目标的生命值。它也可以用来放置一个符文，如果有什么东西踩到它，它会用闪电炸开一个区域。",
-  "context": "ID: gauntlets_necro\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→gauntlets_necro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_necro",
   "stage": 0
  },
  {
@@ -3307,10 +3319,16 @@
   "stage": 3
  },
  {
+  "key": "02aaeff7d518ef463b4f69ae301bc798",
+  "original": "A mighty lucerne hammer, decorated with archaic Latin engravings and silver counterbalancing to make it more usable at close range.  Many magical items can be purified with this item.  Activating it can be used to create a powerful flash, capable of searing anyone in range.  Though the user will not take damage from it, they will still be blinded if lacking protection.",
+  "translation": "A mighty lucerne hammer, decorated with archaic Latin engravings and silver counterbalancing to make it more usable at close range.  Many magical items can be purified with this item.  Activating it can be used to create a powerful flash, capable of searing anyone in range.  Though the user will not take damage from it, they will still be blinded if lacking protection.",
+  "context": "ID: lucern_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→lucern_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lucern_hexenhammer",
+  "stage": 1
+ },
+ {
   "key": "220cec5d7690512158929ea4e72636fa",
   "original": "A mighty lucerne hammer, decorated with archaic Latin engravings and silver counterbalancing to make it more usable at close range.  Many magical items can be purified with this item.  Activating it can be used to create a powerful flash, capable of searing anyone in range.  Though the user will not take damage from it, they will still be blinded if lacking protection.  It could also be used to deploy a rune with a weaker stunning effect on whatever steps on it.",
   "translation": "一把强大的卢塞恩锤子，饰有古老的拉丁雕刻和银制平衡锤，使其在近距离内更易使用。许多魔法物品可以用这个物品净化。激活它可以创建一个强大的闪光，能够灼伤范围内的任何人。虽然使用者不会受到伤害，但如果缺乏保护，他们仍然会失明。它也可以用来部署一个符文，在任何步骤上都有较弱的眩晕效果。",
-  "context": "ID: lucern_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→lucern_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lucern_hexenhammer",
   "stage": 0
  },
  {
@@ -3515,6 +3533,12 @@
   "key": "58f805d6b5a868f89527cb42b03067e2",
   "original": "A polished flute with five finger holes, carved from the stinger of some exotic monstrosity.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will greatly reduce movecosts and enhance evasion.  Stamina and attack speed are unaffected, however.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 32 hours to charge.",
   "translation": "A polished flute with five finger holes, carved from the stinger of some exotic monstrosity.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will greatly reduce movecosts and enhance evasion.  Stamina and attack speed are unaffected, however.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 32 hours to charge.",
+  "stage": 1
+ },
+ {
+  "key": "4c8b490aeb1fe93485bf36e5b293d1a5",
+  "original": "A polished flute with five finger holes, carved from the stinger of some exotic monstrosity.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will greatly reduce movecosts and enhance evasion.  Stamina and attack speed are unaffected, however.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 40 hours to charge.",
+  "translation": "A polished flute with five finger holes, carved from the stinger of some exotic monstrosity.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will greatly reduce movecosts and enhance evasion.  Stamina and attack speed are unaffected, however.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 40 hours to charge.",
   "context": "ID: stinger_flute_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→stinger_flute_empowered\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stinger_flute_empowered",
   "stage": 1
  },
@@ -3730,6 +3754,12 @@
   "key": "3818ebb4875ef2cb40522dccd5bd133e",
   "original": "A set of well-decorated leather armor, with serpentine patterns sewn into it and various adjustable straps added.  It can be used to conjure a long-lasting spray of acid, or it can place a rune that will explode with acid if something steps into it.",
   "translation": "一套装饰精美的皮革盔甲，上面缝有双翼龙形图案，并增加了各种可调节的肩带。使用它会产生持久的酸雾。使用它也可以向地上刻印一个符文，如果有什么东西踩上它，会发生一次酸液爆炸。",
+  "stage": 1
+ },
+ {
+  "key": "43958850c6bfc145a58d7c4d378e6d90",
+  "original": "A set of well-decorated leather armor, with serpentine patterns sewn into it and various adjustable straps added.  It can be used to conjure a long-lasting spray of acid.",
+  "translation": "A set of well-decorated leather armor, with serpentine patterns sewn into it and various adjustable straps added.  It can be used to conjure a long-lasting spray of acid.",
   "context": "ID: armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_wyrm",
   "stage": 1
  },
@@ -3818,13 +3848,13 @@
   "key": "7ff01454b6cd669af79909fcacabf536",
   "original": "A short wooden staff, entirely covered in decorative motifs worked from a symbol of judgment.  The symbol's otherworldly presence is still evident in the twisted, flame-like prongs now entwined around a charm of dark, iridescent metal.  Using it will allow you to smite enemies with lightning, protecting you from electrical harm briefly as well.",
   "translation": "一根短木棍，上面满是代表审判的装饰图案。尽管十分扭曲，但它超凡的存在感仍然十分明显，火焰般的分叉缠绕着黑色的魔力，散发出彩虹般的金属光泽。使用它可以让你用闪电攻击敌人，并保护你不受电流伤害。",
+  "context": "ID: verge_meteoric\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→verge_meteoric\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=verge_meteoric",
   "stage": 3
  },
  {
   "key": "25ad732b6732b0638b70e396a1b57db9",
   "original": "A short wooden staff, entirely covered in decorative motifs worked from a symbol of judgment.  The symbol's otherworldly presence is still evident in the twisted, flame-like prongs now entwined around a charm of dark, iridescent metal.  Using it will allow you to smite enemies with lightning, protecting you from electrical harm briefly as well.  It can also be used to place a rune that will blast an area with lightning if something steps on it.",
   "translation": "一根短木棍，完全覆盖着装饰图案，作为判断的象征。这个符号超凡脱俗的存在在扭曲的、火焰般的尖头上仍然很明显，这些尖头现在缠绕在一个黑色、彩虹色金属的魅力周围。使用它可以让你用闪电击打敌人，保护你免受电伤害。它也可以用来放置一个符文，如果有什么东西踩到它，它会用闪电炸开一个区域。",
-  "context": "ID: verge_meteoric\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→verge_meteoric\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=verge_meteoric",
   "stage": 0
  },
  {
@@ -4232,6 +4262,12 @@
   "key": "76b9e95f1f064459501c7b79470a3a0d",
   "original": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 16 hours to charge.",
   "translation": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 16 hours to charge.",
+  "stage": 1
+ },
+ {
+  "key": "57f890af3a9ac5fe6272861a3add4610",
+  "original": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
+  "translation": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
   "context": "ID: charm_bone_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→charm_bone_empowered\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=charm_bone_empowered",
   "stage": 1
  },
@@ -4317,10 +4353,16 @@
   "stage": 1
  },
  {
+  "key": "b32718759bb8bbf96efcaf137888e8fa",
+  "original": "A stout steel spear with a wicked sting, decorated with elaborate patterns carved from chitin.  Using it will blast nearby enemies with frost and temporarily summon mutant vermin to aid you, while wielding it makes movement easier.",
+  "translation": "A stout steel spear with a wicked sting, decorated with elaborate patterns carved from chitin.  Using it will blast nearby enemies with frost and temporarily summon mutant vermin to aid you, while wielding it makes movement easier.",
+  "context": "ID: spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spear_pestilence",
+  "stage": 1
+ },
+ {
   "key": "8dff265d121bb9a24f9031e72e896e25",
   "original": "A stout steel spear with a wicked sting, decorated with elaborate patterns carved from chitin.  Using it will blast nearby enemies with frost and temporarily summon mutant vermin to aid you, while wielding it makes movement easier.  It can also be used to place a rune focused purely on summoning vermin when something steps on it.",
   "translation": "一种结实的钢矛，有邪恶的刺，饰有甲壳质雕刻的精致图案。使用它会用冰霜攻击附近的敌人，并临时召唤变异害虫来帮助你，同时使用它会使移动更容易。它也可以用来放置一个符文，当有东西踩到它时，它只专注于召唤害虫。",
-  "context": "ID: spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spear_pestilence",
   "stage": 0
  },
  {
@@ -4413,7 +4455,6 @@
   "key": "5a5f263991f4bb9a936bb817d9e88642",
   "original": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to fatigue-draining Magic Signs.\n\nEach dose will restore 600 mana.",
   "translation": "这是一种奇怪的液体，看起来像水银，但密度要小一些，毒性也要小得多。喝下它会给你注入神奇的能量。对于使用法力施法的人来说非常有用，但对于仅限于消耗疲劳的魔法符号的人来说毫无价值。每剂\n\n将恢复600法力值。",
-  "context": "ID: arcana_mana_potion\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→arcana_mana_potion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_mana_potion",
   "stage": 0
  },
  {
@@ -4427,6 +4468,13 @@
   "original": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to fatigue-draining Magic Signs.  It will restore 1200 mana.",
   "translation": "",
   "stage": -1
+ },
+ {
+  "key": "bfac1119728e394110fd331d730b44a7",
+  "original": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to stamina-draining Magic Signs.\n\nEach dose will restore 750 mana.",
+  "translation": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to stamina-draining Magic Signs.\n\nEach dose will restore 750 mana.",
+  "context": "ID: arcana_mana_potion\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→arcana_mana_potion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_mana_potion",
+  "stage": 1
  },
  {
   "key": "f5317d3905d35fd68237e9c143bbea9d",
@@ -4961,8 +5009,14 @@
   "key": "dc7af378ce6b3d647c09b42af66fb8e3",
   "original": "A warhammer inlaid with silver, engraved with religious invocations in an archaic form of Latin.  Many magical items can be purified with this item.  It can be used to channel consecrated essence into a stunning flash, or place a rune that will release its stunning effect if something steps into it.  Though using it is a double-edged sword, it will have further effects on creatures of darkness.",
   "translation": "镶银战锤，用古老的拉丁语刻有宗教祈祷。很多魔法物品都可以用这个物品净化。它可以用来引导神圣精华进入一个令人眩晕的闪光，或者放置一个符文，如果有东西进入它，它会释放出令人眩晕的效果。虽然使用它是一把双刃剑，但它会对黑暗生物产生进一步的影响。",
-  "context": "ID: hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hexenhammer",
   "stage": 0
+ },
+ {
+  "key": "786843faadfdafa4f28da881bd5d9bb8",
+  "original": "A warhammer inlaid with silver, engraved with religious invocations in an archaic form of Latin.  Many magical items can be purified with this item.  It can be used to channel consecrated essence into a stunning flash.  Though using it is a double-edged sword, it will have further effects on creatures of darkness.",
+  "translation": "A warhammer inlaid with silver, engraved with religious invocations in an archaic form of Latin.  Many magical items can be purified with this item.  It can be used to channel consecrated essence into a stunning flash.  Though using it is a double-edged sword, it will have further effects on creatures of darkness.",
+  "context": "ID: hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hexenhammer",
+  "stage": 1
  },
  {
   "key": "491d1476bc1d813f731beb9a163e5b63",
@@ -4988,7 +5042,7 @@
   "key": "0bce1abd8a0f2e093458b54c3a08a852",
   "original": "A weaker version of Wyrm's Venom.",
   "translation": "暗龙毒液的较弱版本。",
-  "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
+  "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
   "stage": 1
  },
  {
@@ -5051,6 +5105,12 @@
   "key": "70c3368c3bc08b43afec1e8de3a54fea",
   "original": "A wreath of brightly-colored flowers from another world, worn around the neck.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will grant a burst of renewed stamina, recovering pain and speeding up the body's natural healing.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
   "translation": "A wreath of brightly-colored flowers from another world, worn around the neck.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will grant a burst of renewed stamina, recovering pain and speeding up the body's natural healing.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
+  "stage": 1
+ },
+ {
+  "key": "91bea2bd6544de5109b981e24343028b",
+  "original": "A wreath of brightly-colored flowers from another world, worn around the neck.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will grant a burst of renewed stamina, recovering pain and speeding up the body's natural healing.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 25 hours to charge.",
+  "translation": "A wreath of brightly-colored flowers from another world, worn around the neck.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will grant a burst of renewed stamina, recovering pain and speeding up the body's natural healing.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 25 hours to charge.",
   "context": "ID: triffid_garland_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→triffid_garland_empowered\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=triffid_garland_empowered",
   "stage": 1
  },
@@ -5817,6 +5877,13 @@
   "stage": 1
  },
  {
+  "key": "e973af21d4b9d1538ee5a9be6698a28e",
+  "original": "An alchemical mixture permeating a combustible base of charcoal or resin, resulting in a peculiar sort of incense.  Using it will invigorate the user with a focused effect similar to the potions originally used to make it.  Rather than affecting strength and speed, it will directly restore a large burst of stamina and fatigue.\n\nEach use will restore 30 fatigue, and 3000 stamina.",
+  "translation": "An alchemical mixture permeating a combustible base of charcoal or resin, resulting in a peculiar sort of incense.  Using it will invigorate the user with a focused effect similar to the potions originally used to make it.  Rather than affecting strength and speed, it will directly restore a large burst of stamina and fatigue.\n\nEach use will restore 30 fatigue, and 3000 stamina.",
+  "context": "ID: yellow_white_incense\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→yellow_white_incense\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yellow_white_incense",
+  "stage": 1
+ },
+ {
   "key": "a5b601eabfa22db111ff0b73984fb8f0",
   "original": "An alchemical mixture permeating a combustible base of charcoal or resin, resulting in a peculiar sort of incense.  Using it will invigorate the user with a focused effect similar to the potions originally used to make it.  Rather than affecting strength and speed, it will directly restore a large burst of stamina and fatigue.\n\nIt will restore 24 fatigue, and 6000 stamina.",
   "translation": "一种炼金术混合物，渗入木炭或树脂的可燃基底，产生一种特殊的香。使用它将使用户充满活力，其聚焦效果类似于最初用于制作它的药剂。它不会影响力量和速度，而是直接恢复体力和疲劳。它将恢复24点疲劳和6000点耐力。",
@@ -5826,7 +5893,6 @@
   "key": "ee82342e9e45e2bda50599c30dc54548",
   "original": "An alchemical mixture permeating a combustible base of charcoal or resin, resulting in a peculiar sort of incense.  Using it will invigorate the user with a focused effect similar to the potions originally used to make it.  Rather than affecting strength and speed, it will directly restore a large burst of stamina and fatigue.\n\nIt will restore 60 fatigue, and 6000 stamina.",
   "translation": "An alchemical mixture permeating a combustible base of charcoal or resin, resulting in a peculiar sort of incense.  Using it will invigorate the user with a focused effect similar to the potions originally used to make it.  Rather than affecting strength and speed, it will directly restore a large burst of stamina and fatigue.\n\nIt will restore 60 fatigue, and 6000 stamina.",
-  "context": "ID: yellow_white_incense\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→yellow_white_incense\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yellow_white_incense",
   "stage": 1
  },
  {
@@ -6261,6 +6327,13 @@
   "translation": "And this adds dazzling fields to potentially blind targets.",
   "context": "ID: arcana_item_mech_flare_dazzle\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_mech_flare_dazzle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_mech_flare_dazzle",
   "stage": 3
+ },
+ {
+  "key": "e855887f86ba337cc46689ad3dc85190",
+  "original": "And this adds fatigue restoaration.",
+  "translation": "And this adds fatigue restoaration.",
+  "context": "ID: arcana_item_orb_veil_wonder_citrine2\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_orb_veil_wonder_citrine2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_orb_veil_wonder_citrine2",
+  "stage": 1
  },
  {
   "key": "f8a3b1c8604141a10a9734e7439cd07b",
@@ -7363,7 +7436,7 @@
   "key": "5d0ee1bb5baba1f4d88b3628ec5ebd1c",
   "original": "Blast of lightning with random damage, used by both the thunder gauntlets and meteoric verge.",
   "translation": "随机伤害的闪电爆炸，由雷霆战锤和流星边缘使用。",
-  "context": "ID: arcana_trap_lightning\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lightning",
+  "context": "ID: arcana_trap_lightning\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lightning",
   "stage": 0
  },
  {
@@ -9665,6 +9738,13 @@
   "stage": 3
  },
  {
+  "key": "c21fee0b220a8e9a49a8a700e33897c3",
+  "original": "Elixir of Life",
+  "translation": "Elixir of Life",
+  "context": "ID: arcana_item_red_potion_healing\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_red_potion_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_red_potion_healing",
+  "stage": 1
+ },
+ {
   "key": "c01538e0a81111a174ec38e6f49faed6",
   "original": "Elusive Enhancement",
   "translation": "诡步",
@@ -9724,7 +9804,7 @@
   "key": "ea71b41d11b12729a25ac093cad7143a",
   "original": "Ensnares and poisons a single target, half the effect of item version.",
   "translation": "诱捕并毒害一个目标，物品版本效果的一半。",
-  "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
+  "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
   "stage": 0
  },
  {
@@ -10360,7 +10440,7 @@
   "key": "daf4fbc5bce4e725063c547fee0aa8b8",
   "original": "Flashbang effect comparable to the hammer of the hunter, but weaker.",
   "translation": "闪光弹效果堪比猎人之锤，但更弱。",
-  "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
+  "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
   "stage": 0
  },
  {
@@ -10388,7 +10468,7 @@
   "key": "01b4c7af6a9b6e4935bf085dcfc309fe",
   "original": "Flowing venom slithers forth!",
   "translation": "流动的毒液向前滑动！",
-  "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
+  "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
   "stage": 0
  },
  {
@@ -11432,10 +11512,16 @@
   "stage": 3
  },
  {
+  "key": "19c4f293a982d443154c48d799245ab9",
+  "original": "Heavy fingerless plate gauntlets, decorated with silver and leaving the user free to wear them even if they have claws or other mutations, or over gloves.  Touching the bare metal sends a faint electric tingle through you.  Use them to give a nearby enemy a powerful stunning jolt, draining health from your target.",
+  "translation": "Heavy fingerless plate gauntlets, decorated with silver and leaving the user free to wear them even if they have claws or other mutations, or over gloves.  Touching the bare metal sends a faint electric tingle through you.  Use them to give a nearby enemy a powerful stunning jolt, draining health from your target.",
+  "context": "ID: gauntlets_necro_xl\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→gauntlets_necro_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_necro_xl",
+  "stage": 1
+ },
+ {
   "key": "15709293b94e82d079cfbd435eacd23c",
   "original": "Heavy fingerless plate gauntlets, decorated with silver and leaving the user free to wear them even if they have claws or other mutations, or over gloves.  Touching the bare metal sends a faint electric tingle through you.  Use them to give a nearby enemy a powerful stunning jolt, draining health from your target.  It can also be used to place a rune that will blast an area with lightning if something steps on it.",
   "translation": "沉重的无指板手套，饰以银色，即使使用者有爪子或其他变异，或戴在手套上，也可以自由佩戴。触摸裸露的金属会给你带来微弱的刺痛感。使用它们给附近的敌人一个强大的眩晕震动，消耗目标的生命值。它也可以用来放置一个符文，如果有什么东西踩到它，它会用闪电炸开一个区域。",
-  "context": "ID: gauntlets_necro_xl\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→gauntlets_necro_xl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gauntlets_necro_xl",
   "stage": 0
  },
  {
@@ -19337,8 +19423,15 @@
   "key": "3dc4898bee8bb6adefe4ce7942f3260c",
   "original": "Mild damage and dazing for every vanilla monster with SUNDEATH/NIGHT_INVISIBILITY, and every summoned monster based off such creatures.",
   "translation": "对每一个具有SUNDEATH/NIGHT_隐身能力的香草怪物，以及每一个基于这种生物召唤的怪物，都有轻微的伤害和眩晕。",
-  "context": "ID: arcana_trap_hexenhammer_attack\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_attack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_attack",
+  "context": "ID: arcana_trap_hexenhammer_attack\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_attack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_attack",
   "stage": 0
+ },
+ {
+  "key": "96737c5ea828ea472206bf27cf0704ce",
+  "original": "Minor healing, and potion effects.",
+  "translation": "Minor healing, and potion effects.",
+  "context": "ID: arcana_item_red_potion_healing\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_red_potion_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_red_potion_healing",
+  "stage": 1
  },
  {
   "key": "0bf261fbbf5f8a3abe1c5b1af43734e6",
@@ -20399,6 +20492,13 @@
   "translation": "Orb: Incense",
   "context": "ID: arcana_item_orb_veil_wonder_citrine\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_orb_veil_wonder_citrine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_orb_veil_wonder_citrine",
   "stage": 3
+ },
+ {
+  "key": "9cf86d8a906c927254d2fb1eadbc03a4",
+  "original": "Orb: Incense 2",
+  "translation": "Orb: Incense 2",
+  "context": "ID: arcana_item_orb_veil_wonder_citrine2\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_orb_veil_wonder_citrine2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_orb_veil_wonder_citrine2",
+  "stage": 1
  },
  {
   "key": "e887591f5a1647dff79697574d7f50a7",
@@ -22260,8 +22360,14 @@
   "key": "98cf1e623b4726169fd0fad3300ee918",
   "original": "Restores 600 mana.",
   "translation": "恢复600法力。",
-  "context": "ID: arcana_item_mana_potion\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_mana_potion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_mana_potion",
   "stage": 3
+ },
+ {
+  "key": "a6b4a9ac8751388431da46d3a9727077",
+  "original": "Restores 750 mana.",
+  "translation": "Restores 750 mana.",
+  "context": "ID: arcana_item_mana_potion\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_mana_potion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_mana_potion",
+  "stage": 1
  },
  {
   "key": "3eb616d49a1c847374a1482851bb9995",
@@ -26361,8 +26467,14 @@
   "key": "87796c22a4c293f043aa261cf9aedcdb",
   "original": "The axe requires 3 blood essence to invoke this power.",
   "translation": "斧子需要3个猩血源质来激活这个咒语。",
-  "context": "ID: bloodaxe\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→bloodaxe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bloodaxe",
   "stage": 3
+ },
+ {
+  "key": "bafb155499acc8a5525f1028df10dfb3",
+  "original": "The axe requires 5 blood essence to invoke this power.",
+  "translation": "The axe requires 5 blood essence to invoke this power.",
+  "context": "ID: bloodaxe\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→bloodaxe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bloodaxe",
+  "stage": 1
  },
  {
   "key": "d92ae77d3f6a0fad06646eac79ab5cb7",
@@ -28380,7 +28492,7 @@
   "key": "7c0490503a7f1549e52b3bdff9f3aaea",
   "original": "This adds paralytic poison.",
   "translation": "This adds paralytic poison.",
-  "context": "ID: arcana_trap_lichhook_slow\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_slow",
+  "context": "ID: arcana_trap_lichhook_slow\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_slow",
   "stage": 3
  },
  {
@@ -28436,7 +28548,7 @@
   "key": "5acbe0e82580c571455739f8fd8f2c86",
   "original": "This adds the lower level poison, half duration.",
   "translation": "这会增加低等级毒药，持续时间减半。",
-  "context": "ID: arcana_trap_lichhook_poison\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_poison\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_poison",
+  "context": "ID: arcana_trap_lichhook_poison\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_poison\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_poison",
   "stage": 0
  },
  {
@@ -28493,6 +28605,13 @@
   "translation": "This commits the burnening.",
   "context": "ID: arcana_react_bloodscourge_fire\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_react.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_react_bloodscourge_fire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_react_bloodscourge_fire",
   "stage": 3
+ },
+ {
+  "key": "02df4ff0001a3ad2a76aaf3d89765ead",
+  "original": "This creates one crystallized essence, plus side effects.",
+  "translation": "This creates one crystallized essence, plus side effects.",
+  "context": "ID: arcana_item_coalescent_conversion\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_coalescent_conversion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_coalescent_conversion",
+  "stage": 1
  },
  {
   "key": "943bf620fb6e45af412e2986e5f31179",
@@ -28826,7 +28945,7 @@
   "key": "d093eee68675bb23923be4df3a24670c",
   "original": "This is a hack for the flashbang effect not affecting NPCs.",
   "translation": "This is a hack for the flashbang effect not affecting NPCs.",
-  "context": "ID: arcana_trap_hexenhammer_dazzle\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_dazzle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_dazzle",
+  "context": "ID: arcana_trap_hexenhammer_dazzle\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_dazzle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_dazzle",
   "stage": 3
  },
  {
@@ -29446,7 +29565,7 @@
   "key": "0ddce97ce4dd1b0edd6df551e6d9e1f8",
   "original": "This paralyzes the target for a few seconds.",
   "translation": "This paralyzes the target for a few seconds.",
-  "context": "ID: arcana_trap_lichhook_freeze\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_freeze\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_freeze",
+  "context": "ID: arcana_trap_lichhook_freeze\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_freeze\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_freeze",
   "stage": 3
  },
  {
@@ -29926,35 +30045,35 @@
   "key": "96a037c869ad895a38c97ff1ac621865",
   "original": "Trap: Hammer Blindness",
   "translation": "Trap: Hammer Blindness",
-  "context": "ID: arcana_trap_hexenhammer_dazzle\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_dazzle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_dazzle",
+  "context": "ID: arcana_trap_hexenhammer_dazzle\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_dazzle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_dazzle",
   "stage": 3
  },
  {
   "key": "34b0cf2fa4c91b0c4e0db98c6aeeffe4",
   "original": "Trap: Hammer Flash",
   "translation": "Trap: Hammer Flash",
-  "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
+  "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
   "stage": 3
  },
  {
   "key": "90fa5c171ccb697adc016bb488eca4a8",
   "original": "Trap: Hammer Secondary Effect",
   "translation": "Trap: Hammer Secondary Effect",
-  "context": "ID: arcana_trap_hexenhammer_attack\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_attack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_attack",
+  "context": "ID: arcana_trap_hexenhammer_attack\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer_attack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer_attack",
   "stage": 3
  },
  {
   "key": "45cc44efff2758281982ae8cdc56b598",
   "original": "Trap: Lightning",
   "translation": "Trap: Lightning",
-  "context": "ID: arcana_trap_lightning\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lightning",
+  "context": "ID: arcana_trap_lightning\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lightning",
   "stage": 3
  },
  {
   "key": "784970bf7ba3a1464ba5efa09e43c9d9",
   "original": "Trap: Pestilence",
   "translation": "Trap: Pestilence",
-  "context": "ID: arcana_trap_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_spear_pestilence",
+  "context": "ID: arcana_trap_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_spear_pestilence",
   "stage": 3
  },
  {
@@ -29982,28 +30101,28 @@
   "key": "d3edbb8bda1278cc46d866d39f9e45db",
   "original": "Trap: Sundering Flesh",
   "translation": "Trap: Sundering Flesh",
-  "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
+  "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
   "stage": 3
  },
  {
   "key": "d77b9ad8a6c8ae9fad98eafc9d41e3f6",
   "original": "Trap: Sundering Flesh Freeze",
   "translation": "Trap: Sundering Flesh Freeze",
-  "context": "ID: arcana_trap_lichhook_freeze\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_freeze\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_freeze",
+  "context": "ID: arcana_trap_lichhook_freeze\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_freeze\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_freeze",
   "stage": 3
  },
  {
   "key": "9ee2cb2b5b12b9d212da265ff45149df",
   "original": "Trap: Sundering Flesh Poison",
   "translation": "Trap: Sundering Flesh Poison",
-  "context": "ID: arcana_trap_lichhook_poison\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_poison\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_poison",
+  "context": "ID: arcana_trap_lichhook_poison\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_poison\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_poison",
   "stage": 3
  },
  {
   "key": "94d0d0ad82cbb346f6ff36ef595b712c",
   "original": "Trap: Sundering Flesh Slow",
   "translation": "Trap: Sundering Flesh Slow",
-  "context": "ID: arcana_trap_lichhook_slow\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_slow",
+  "context": "ID: arcana_trap_lichhook_slow\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook_slow",
   "stage": 3
  },
  {
@@ -30016,7 +30135,7 @@
   "key": "5e0c19848b47f4356bfabe3ed2405efb",
   "original": "Trap: Wyrmskin Acid",
   "translation": "Trap: Wyrmskin Acid",
-  "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
+  "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
   "stage": 3
  },
  {
@@ -30424,7 +30543,7 @@
   "key": "cc561cdaeb0c5d78992adb82010be0b7",
   "original": "Venomous tendrils erupt from the ground!",
   "translation": "剧毒的触手从地里冒了出来！",
-  "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
+  "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
   "stage": 3
  },
  {
@@ -30492,7 +30611,7 @@
   "key": "f9807a628613c72bc69471c3aae9e3a0",
   "original": "Vermin slither out from the earth to aid you!",
   "translation": "害虫从地球上溜出来帮助你！",
-  "context": "ID: arcana_trap_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_spear_pestilence",
+  "context": "ID: arcana_trap_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_spear_pestilence",
   "stage": 0
  },
  {
@@ -32967,7 +33086,7 @@
   "key": "2f6bbb3db1cd83878451ac75293b0c14",
   "original": "Works like the spear's effect but focused on minion summons.",
   "translation": "类似于长矛效果，但专注于仆从召唤。",
-  "context": "ID: arcana_trap_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_spear_pestilence",
+  "context": "ID: arcana_trap_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_spear_pestilence",
   "stage": 0
  },
  {
@@ -33535,7 +33654,7 @@
   "key": "e6a195f0be8092020206edb2c7b01d2d",
   "original": "You drink the potion and feel a pleasant warmth spread through your body.",
   "translation": "你喝了药水，感觉到一股令人舒畅的温暖蔓延到全身。",
-  "context": "ID: healing_potion\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→healing_potion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=healing_potion",
+  "context": "ID: arcana_item_red_potion_healing\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_red_potion_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_red_potion_healing",
   "stage": 3
  },
  {
@@ -36895,7 +37014,7 @@
   "key": "1c53bcd1f12679c736bb1943f46e1441",
   "original": "corrosive rune",
   "translation": "腐蚀符文",
-  "context": "ID: tr_arcana_item_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_armor_wyrm",
+  "context": "ID: tr_arcana_item_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_armor_wyrm",
   "stage": 3
  },
  {
@@ -37293,7 +37412,7 @@
   "key": "90fddba230d1e750209b7f9bdfa5ecf1",
   "original": "electrified rune",
   "translation": "电击符文",
-  "context": "ID: tr_arcana_item_lightning\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_lightning",
+  "context": "ID: tr_arcana_item_lightning\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_lightning",
   "stage": 3
  },
  {
@@ -38752,7 +38871,7 @@
   "key": "e9ac369ef8baee58fa7ef84e7af60b5f",
   "original": "pestilent rune",
   "translation": "瘟疫符文",
-  "context": "ID: tr_arcana_item_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_spear_pestilence",
+  "context": "ID: tr_arcana_item_spear_pestilence\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_spear_pestilence\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_spear_pestilence",
   "stage": 3
  },
  {
@@ -39314,7 +39433,7 @@
   "key": "1fc14be7e6d3e84a854f24276174f0a0",
   "original": "slithering rune",
   "translation": "蛇行符文",
-  "context": "ID: tr_arcana_item_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_lichhook",
+  "context": "ID: tr_arcana_item_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_lichhook",
   "stage": 3
  },
  {
@@ -39440,7 +39559,7 @@
   "key": "620493c9a33f121078652a2bdd08d9e8",
   "original": "stunning rune",
   "translation": "眩晕符文",
-  "context": "ID: tr_arcana_item_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_hexenhammer",
+  "context": "ID: tr_arcana_item_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_arcana_item_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_arcana_item_hexenhammer",
   "stage": 3
  },
  {
