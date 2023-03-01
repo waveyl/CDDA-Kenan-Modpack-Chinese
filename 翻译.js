@@ -1142,6 +1142,9 @@ ${getItemBrowserLink(fullItem)}`
       item.text = await translateFunction(item.text);
     }
   };
+	translator.morale_type = async (item) => {
+	  item.text = await translateFunction(item.text);
+	}
   translators.technique = namePlDesc;
   translators.vehicle_part = namePlDesc;
   translators.overlay_order = noop;
@@ -1188,7 +1191,8 @@ ${getItemBrowserLink(fullItem)}`
   translators.vehicle = namePlDesc;
   translators.vehicle_spawn = noop;
   translators.file = noop;
-	translators.charge_removal_blacklist = noop;
+  translators.charge_removal_blacklist = noop;
+  translators.harvest_drop_type = noop;
 
   return translators;
 }
