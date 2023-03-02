@@ -1142,7 +1142,7 @@ ${getItemBrowserLink(fullItem)}`
       item.text = await translateFunction(item.text);
     }
   };
-	translator.morale_type = async (item) => {
+	translators.morale_type = async (item) => {
 	  item.text = await translateFunction(item.text);
 	}
   translators.technique = namePlDesc;
