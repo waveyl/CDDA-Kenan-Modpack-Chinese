@@ -848,8 +848,12 @@ ${getItemBrowserLink(fullItem)}`
   };
 
 	const EOC = async (item) => {
+		if (item?.condition?.u_query){
+			item.condition.u_query = await translateFunction(item.condition.u_query)
+		}
 		if (Array.isArray(item.effect)){
 			for (let effects of item.effect){
+				effects.fail_message = await translateFunction(effects.fail_message);
 				effects.u_message = await translateFunction(effects.u_message);
 				if (effects?.u_cast_spell?.message)
 					effects.u_cast_spell.message = await translateFunction(effects.u_cast_spell.message)
