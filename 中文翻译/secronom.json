@@ -2976,9 +2976,9 @@
  {
   "key": "91d863ca6303cba9a2cdd5fe34b82c44",
   "original": "A large brute with several bone protrusions around its body. It's surprisingly quick despite the abnormal outgrowths.",
-  "translation": "身体周围有几块突出的骨头的大型野兽。尽管有不正常的生长，它还是出奇的快。",
+  "translation": "身体周围有几块突出的骨头的大型野兽。尽管长有不正常的变异，但它跑得出奇得快。",
   "context": "ID: mon_zombie_bone\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Titan.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_bone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_bone",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c24730c7904f83a9566935827c992086",
@@ -3340,9 +3340,9 @@
  {
   "key": "f32912538c6d74a47ac51cee162409ee",
   "original": "A normal humanoid body, almost in its decaying state. Despite that, its excitement for flesh makes it a threat.",
-  "translation": "一个正常的人形身体，几乎处于腐朽状态。尽管如此，它对肉体的兴奋使它成为一种威胁。",
+  "translation": "一个普通的人类躯体，几乎处于腐朽状态。尽管如此，它对血肉的兴奋使它成为了一个威胁。",
   "context": "ID: mon_zombie_swarmer_evo_hungry\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_hungry\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_swarmer_evo_hungry",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c1e8337a725d316d382376fa9e3febac",
@@ -3353,8 +3353,8 @@
  {
   "key": "8edaee795fe307533392bd12bc78ae0b",
   "original": "A normal humanoid body, almost in its decaying state. It's physique have somewhat swollen.",
-  "translation": "一个正常的人形身体，几乎处于腐朽状态。它的体格有几分肿胀。",
-  "stage": 0
+  "translation": "一个普通的人类躯体，几乎处于腐朽状态。它的体形有点肿胀。",
+  "stage": 1
  },
  {
   "key": "c81cfe777c34bad8f41505a18602135d",
@@ -3862,16 +3862,16 @@
  {
   "key": "6546ce4a51f1cb7122482a800c825b40",
   "original": "A swollen body covered in thick exoskeleton plates and protruding bones lay under its bulging muscles.",
-  "translation": "一个肿胀的身体覆盖着厚厚的外骨骼板和突出的骨头，躺在它凸出的肌肉下。",
+  "translation": "一个覆盖着厚重外骨骼板的肿胀身躯，凸起的骨头被它那鼓起的肌肉所覆盖。",
   "context": "ID: mon_zombie_titan\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Titan.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_titan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_titan",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "371deb7324b0089a73a4284953ce7669",
   "original": "A swollen body covered in thick exoskeleton plates and protruding bones lay under its bulging muscles. Its hands are crossed together.",
-  "translation": "一个肿胀的身体覆盖着厚厚的外骨骼板和突出的骨头躺在它隆起的肌肉下面。它的双手交叉在一起。",
+  "translation": "一个覆盖着厚重外骨骼板的肿胀身躯，凸起的骨头被它那鼓起的肌肉所覆盖。它的双手交叉在一起。",
   "context": "ID: mon_zombie_titan_charging\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Titan.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_titan_charging\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_titan_charging",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "65b065b067b7db275624c9b837594771",
@@ -4139,8 +4139,8 @@
  {
   "key": "bcf8e07c4ff7c71de48d54f19929332d",
   "original": "A writhing corpse with a unnervingly sly and cautious nature. Its pair of menacingly black eyes greedily seek the living with a predominant set of four protruding fangs. These inhumane teeth furiously gnash away while idle, creating a maddening and repetitive \"clack\".",
-  "translation": "一具扭动着的尸体，本性狡猾而谨慎。它那双威胁性的黑眼睛贪婪地寻找着有着突出的四颗尖牙的生物。这些不人道的牙齿在空闲时疯狂地咬牙切齿，制造出令人抓狂的重复“噼啪声”。",
-  "stage": 0
+  "translation": "一具蠕动着的尸体，狡猾而谨慎。它用那双威胁性的黑眼睛贪婪地寻找着活物，长有一组四颗显眼的尖牙。这些残忍的牙齿在它空闲时疯狂地摩擦，重复着一种令人发狂的“咔嗒”声。",
+  "stage": 1
  },
  {
   "key": "ef3d01dfd23cb1154196c8ae688d0c32",
@@ -5883,9 +5883,9 @@
  {
   "key": "8738760545e354ed58d7c8e2d87ca5e5",
   "original": "Heaps of greenish flesh has replaced the head under its undulating bulbous torso. Slow and is heavily hampered, yet opposes a big threat for its corrosive bodily fluids.",
-  "translation": "成堆的绿色果肉取代了它起伏的球状躯干下的头部。缓慢，严重阻碍，但反对一个大的威胁，其腐蚀性体液。",
+  "translation": "成堆的绿色肉瘤取代了它起伏的球状躯干下的头部。行动缓慢并且受到严重阻碍，但腐蚀性体液使其依旧是一个巨大的威胁。",
   "context": "ID: mon_zombie_ichorus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_ichorus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_ichorus",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d9630e586e108905f6d3fd06612ce1ad",
