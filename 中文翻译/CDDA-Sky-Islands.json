@@ -259,6 +259,13 @@
   "stage": 3
  },
  {
+  "key": "ed7e72c81af8f433c96c2753116c37e2",
+  "original": "Begin searching for a spot to teleport to? This may take a moment while we scan the world. Your game may appear to freeze for up to a few minutes, especially for your first expedition.",
+  "translation": "Begin searching for a spot to teleport to? This may take a moment while we scan the world. Your game may appear to freeze for up to a few minutes, especially for your first expedition.",
+  "context": "ID: EOC_warp_statue\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_warp_statue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_warp_statue",
+  "stage": 1
+ },
+ {
   "key": "41f267a467ed36f7a83fc1324201ea00",
   "original": "Build sofa",
   "translation": "建造沙发",
@@ -355,6 +362,41 @@
   "translation": "要是你想把你收集的战利品带回去,你需要找到附近的某个回归传送点.它们是唯一能让你完好无损回到岛上的东西.",
   "context": "ID: MISSION_REACH_EXTRACT\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_REACH_EXTRACT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_REACH_EXTRACT",
   "stage": 3
+ },
+ {
+  "key": "4c7a9951e458a0b52a58179cf8c210b4",
+  "original": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes. This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours. You will have more time for activities and reaching the extract should generally not be a problem.\n\nDo you wish to play in Casual Difficulty? Choosing no will provide other options.",
+  "translation": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes. This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours. You will have more time for activities and reaching the extract should generally not be a problem.\n\nDo you wish to play in Casual Difficulty? Choosing no will provide other options.",
+  "context": "ID: EOC_difficultycheck1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck1",
+  "stage": 1
+ },
+ {
+  "key": "51ce9521a4068fad89b671c2c9d2b82b",
+  "original": "In Hard difficulty, time limits are strict.\nWarp pulses occur every 30 minutes. This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours. You will have much less time to spare and must make getting to the exit your immediate priority.\n\nDo you wish to play in Hard Difficulty? Choosing no will provide other options.",
+  "translation": "In Hard difficulty, time limits are strict.\nWarp pulses occur every 30 minutes. This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours. You will have much less time to spare and must make getting to the exit your immediate priority.\n\nDo you wish to play in Hard Difficulty? Choosing no will provide other options.",
+  "context": "ID: EOC_difficultycheck2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck2",
+  "stage": 1
+ },
+ {
+  "key": "cb86c395a6f768f4ea7a0170c57dcc31",
+  "original": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes. This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours. Reaching the extract alive will take all the time you can spare, and warp sickness will be common. You will not be given mercy!\n\nDo you wish to play in Impossible Difficulty? Choosing no will restart this menu.",
+  "translation": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes. This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours. Reaching the extract alive will take all the time you can spare, and warp sickness will be common. You will not be given mercy!\n\nDo you wish to play in Impossible Difficulty? Choosing no will restart this menu.",
+  "context": "ID: EOC_difficultycheck3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck3",
+  "stage": 1
+ },
+ {
+  "key": "442182a4d36e985132bdc57d1f29e781",
+  "original": "In Normal Difficulty, pulses occur every 45 minutes. This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\nThis is the intended way to play. Getting to the exit is not a cakewalk, but you should have time to explore while earthside.\n\nDo you wish to play Normal Difficulty? Choosing no will provide other options.",
+  "translation": "In Normal Difficulty, pulses occur every 45 minutes. This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\nThis is the intended way to play. Getting to the exit is not a cakewalk, but you should have time to explore while earthside.\n\nDo you wish to play Normal Difficulty? Choosing no will provide other options.",
+  "context": "ID: EOC_difficultycheck0\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck0\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck0",
+  "stage": 1
+ },
+ {
+  "key": "78f24ed984aefd9a20d56a290457a398",
+  "original": "It seems the portal couldn't find a valid location.",
+  "translation": "It seems the portal couldn't find a valid location.",
+  "context": "ID: EOC_initiate_randomport\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_initiate_randomport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_initiate_randomport",
+  "stage": 1
  },
  {
   "key": "1049eaef6a782c75f8333b255f4e5e6f",
@@ -796,6 +838,13 @@
   "translation": "这块奇特的黑曜石板可以复现全自动外科医生中的先进技术,可以在你的避难空岛中创造出一个复制品.这块石板已经被成功激活,在建筑菜单中可以作为所需物品,在你所选定的地方来建造一个全自动外科医生. 请注意,一旦建造完毕后,它就不能被安全移动,并且还需要在旁边相邻的地方放上一个沙发,然后用复制盘将其转换为对应的手术台.",
   "context": "ID: warp_autodoc_active\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→GENERIC→warp_autodoc_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_active",
   "stage": 3
+ },
+ {
+  "key": "b27330e626c55cd9b4591fcb7d1e0a64",
+  "original": "This will teleport you back home with only the items on your person. Anything left behind will be as good as gone. Are you ready to leave?",
+  "translation": "This will teleport you back home with only the items on your person. Anything left behind will be as good as gone. Are you ready to leave?",
+  "context": "ID: EOC_statue_return\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_statue_return\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statue_return",
+  "stage": 1
  },
  {
   "key": "009ffb025f0e5512def7462e4cff4a34",
