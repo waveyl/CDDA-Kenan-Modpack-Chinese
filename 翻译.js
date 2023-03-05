@@ -69,6 +69,30 @@ const sourceModDirs = _.sortedUniq(
 // 别忘了把百度翻译 API 的 .env 文件黏贴到文件夹里！
 // 搜狗的网上搜到了别人的 https://github.com/lunaragon/Translator/blob/b91481c4254ee01b3ce8eae1cea6586c33066e69/competitors/sougou.js#L6  	const PID = '059ad85853c5f20e54508cebf85287cd' const SECRET_KEY = 'c447fe597dc86f8c586cf7adef9dec21'
 dotenv.config();
+
+async function caiyunTranslate(value) {
+  const endpointUrl = 'http://api.interpreter.caiyunai.com/v1/translator';
+  const token = process.env.CAIYUN_TRANSLATION_SECRET;
+  const payload = {
+    source: value,
+    trans_type: 'en2zh',
+    request_id: 'cdda-kenan-modpack',
+  };
+
+  const headers = {
+    'content-type': 'application/json',
+    'x-authorization': `token ${token}`,
+  };
+  const result = await fetch(endpointUrl, {
+    method: 'POST',
+    body: JSON.stringify(payload),
+    headers,
+  });
+  const json = await result.json();
+  const result = json.target;
+  return result;
+}
+
 const sougouTranslate = async (value) => {
   const random = Math.floor(Math.random() * 1000000);
   const toHash = `${process.env.SOUGOU_TRANSLATION_APP_ID}${value}${random}${process.env.SOUGOU_TRANSLATION_SECRET}`;
@@ -114,9 +138,11 @@ const baiduTranslate = async (value) => {
  */
 const unionTranslate = (value) =>
   baiduTranslate(value).catch((error) =>
-    sougouTranslate(value).catch((error2) => {
-      throw new Error(error.message + error2.message);
-    })
+    sougouTranslate(value).catch((error2) =>
+      caiyunTranslate(value).catch((error3) => {
+        throw new Error(error.message + error2.message + error3.message);
+      })
+    )
   );
 
 const tags = {
@@ -213,7 +239,6 @@ function replace1111toN(text) {
   // 防止 %2$s 影响了翻译
   return Object.keys(mapTo111).reduce((acc, key) => acc.replaceAll(mapTo111[key], key), text);
 }
-
 
 /**
  *  paratranz 的翻译条目格式，保存到文件时保存为此格式，读取时反序列化为 original: translation 放入 cache
@@ -826,94 +851,87 @@ ${getItemBrowserLink(fullItem)}`
     if (Array.isArray(item.responses)) {
       for (const response of item.responses) {
         response.text = await translateFunction(response.text);
-				if(Array.isArray(response?.effect)){
-					for(const res_effect of response.effect){
-						if(res_effect.u_message)
-							res_effect.u_message = await translateFunction(res_effect.u_message)
-					}
-				}
+        if (Array.isArray(response?.effect)) {
+          for (const res_effect of response.effect) {
+            if (res_effect.u_message) res_effect.u_message = await translateFunction(res_effect.u_message);
+          }
+        }
       }
     }
     if (item.dynamic_line) {
       if (typeof item.dynamic_line === 'string') {
         item.dynamic_line = await translateFunction(item.dynamic_line);
-      } else if (typeof item.dynamic_line === 'object'){
-				if (Array.isArray(item.dynamic_line)) {
-					item.dynamic_line = await Promise.all(item.dynamic_line.map((dynamic_line) => translateFunction(dynamic_line)));
-      } else {
-        await dynamicLine(item.dynamic_line);
-      }
+      } else if (typeof item.dynamic_line === 'object') {
+        if (Array.isArray(item.dynamic_line)) {
+          item.dynamic_line = await Promise.all(
+            item.dynamic_line.map((dynamic_line) => translateFunction(dynamic_line))
+          );
+        } else {
+          await dynamicLine(item.dynamic_line);
+        }
       }
     }
   };
 
-	const EOC = async (item) => {
-		if (item?.condition?.u_query){
-			item.condition.u_query = await translateFunction(item.condition.u_query)
-		}
-		if (Array.isArray(item.effect)){
-			for (let effects of item.effect){
-				effects.fail_message = await translateFunction(effects.fail_message);
-				effects.u_message = await translateFunction(effects.u_message);
-				if (effects?.u_cast_spell?.message)
-					effects.u_cast_spell.message = await translateFunction(effects.u_cast_spell.message)
-				if (Array.isArray(effects?.run_eocs)){
-					for (let run_eocs of effects.run_eocs){
-						if (Array.isArray(run_eocs?.effect)){
-							for (let effect of run_eocs.effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-						if (Array.isArray(run_eocs?.false_effect)){
-							for (let effect of run_eocs.false_effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-					}
-				}
-				if (Array.isArray(effects?.queue_eocs)){
-					for (let queue_eocs of effects.queue_eocs){
-						if (Array.isArray(queue_eocs?.effect)){
-							for (let effect of queue_eocs.effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-						if (Array.isArray(queue_eocs?.false_effect)){
-							for (let effect of queue_eocs.false_effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-					}
-				}
-			}
-		}
-		if (Array.isArray(item.false_effect)){
-			for (let false_effects of item.false_effect){
-				false_effects.u_message = await translateFunction(false_effects.u_message);
-				if (Array.isArray(false_effects?.run_eocs)){
-					for (let run_eocs of false_effects.run_eocs){
-						if (Array.isArray(run_eocs?.effect)){
-							for (let effect of run_eocs.effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-						if (Array.isArray(run_eocs?.false_effect)){
-							for (let effect of run_eocs.false_effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-					}
-				}
-				if (Array.isArray(false_effects?.queue_eocs)){
-					for (let queue_eocs of false_effects.queue_eocs){
-						if (Array.isArray(queue_eocs?.effect)){
-							for (let effect of queue_eocs.effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-						if (Array.isArray(queue_eocs?.false_effect)){
-							for (let effect of queue_eocs.false_effect)
-								effect.u_message = await translateFunction(effect.u_message);
-						}
-					}
-				}
-			}
-		}
-	}
-	
+  const EOC = async (item) => {
+    if (item?.condition?.u_query) {
+      item.condition.u_query = await translateFunction(item.condition.u_query);
+    }
+    if (Array.isArray(item.effect)) {
+      for (let effects of item.effect) {
+        effects.fail_message = await translateFunction(effects.fail_message);
+        effects.u_message = await translateFunction(effects.u_message);
+        if (effects?.u_cast_spell?.message)
+          effects.u_cast_spell.message = await translateFunction(effects.u_cast_spell.message);
+        if (Array.isArray(effects?.run_eocs)) {
+          for (let run_eocs of effects.run_eocs) {
+            if (Array.isArray(run_eocs?.effect)) {
+              for (let effect of run_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+            if (Array.isArray(run_eocs?.false_effect)) {
+              for (let effect of run_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+          }
+        }
+        if (Array.isArray(effects?.queue_eocs)) {
+          for (let queue_eocs of effects.queue_eocs) {
+            if (Array.isArray(queue_eocs?.effect)) {
+              for (let effect of queue_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+            if (Array.isArray(queue_eocs?.false_effect)) {
+              for (let effect of queue_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+          }
+        }
+      }
+    }
+    if (Array.isArray(item.false_effect)) {
+      for (let false_effects of item.false_effect) {
+        false_effects.u_message = await translateFunction(false_effects.u_message);
+        if (Array.isArray(false_effects?.run_eocs)) {
+          for (let run_eocs of false_effects.run_eocs) {
+            if (Array.isArray(run_eocs?.effect)) {
+              for (let effect of run_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+            if (Array.isArray(run_eocs?.false_effect)) {
+              for (let effect of run_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+          }
+        }
+        if (Array.isArray(false_effects?.queue_eocs)) {
+          for (let queue_eocs of false_effects.queue_eocs) {
+            if (Array.isArray(queue_eocs?.effect)) {
+              for (let effect of queue_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+            if (Array.isArray(queue_eocs?.false_effect)) {
+              for (let effect of queue_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
+            }
+          }
+        }
+      }
+    }
+  };
+
   const infoItem = async (item) => {
     // 注意可能有 <good>protection</good> 这样的标记
     item.info = await translateFunction(item.info);
@@ -935,7 +953,7 @@ ${getItemBrowserLink(fullItem)}`
     const translated = await translateFunction(realCategoryName);
     return prefix + translated;
   };
- 
+
   // 注册各种类型数据的翻译器
   translators.profession = namePlDesc;
   translators.scenario = async (item) => {
@@ -1146,9 +1164,9 @@ ${getItemBrowserLink(fullItem)}`
       item.text = await translateFunction(item.text);
     }
   };
-	translators.morale_type = async (item) => {
-	  item.text = await translateFunction(item.text);
-	}
+  translators.morale_type = async (item) => {
+    item.text = await translateFunction(item.text);
+  };
   translators.technique = namePlDesc;
   translators.vehicle_part = namePlDesc;
   translators.overlay_order = noop;
@@ -1173,9 +1191,9 @@ ${getItemBrowserLink(fullItem)}`
   translators.item_action = namePlDesc;
   translators.ENGINE = namePlDesc;
   translators.ITEM_CATEGORY = namePlDesc;
-	translators.weapon_category = namePlDesc;
-	translators.practice = namePlDesc;
-	translators.vitamin = namePlDesc;
+  translators.weapon_category = namePlDesc;
+  translators.practice = namePlDesc;
+  translators.vitamin = namePlDesc;
   translators.sound_effect = noop;
   translators.vehicle_placement = namePlDesc;
   translators.monster_attack = monsterAttack;
@@ -1184,8 +1202,8 @@ ${getItemBrowserLink(fullItem)}`
   translators.region_settings = namePlDesc;
   translators.proficiency = namePlDesc;
   translators.overmap_location = namePlDesc;
-	translators.weather_type = namePlDesc;
-	translators.effect_on_condition = EOC
+  translators.weather_type = namePlDesc;
+  translators.effect_on_condition = EOC;
   translators.ITEM_BLACKLIST = noop;
   translators.MONSTER_BLACKLIST = noop;
   translators.MONSTER_WHITELIST = noop;
