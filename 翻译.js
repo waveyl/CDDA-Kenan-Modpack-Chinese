@@ -89,8 +89,7 @@ async function caiyunTranslate(value) {
     headers,
   });
   const json = await result.json();
-  const result = json.target;
-  return result;
+  return json.target;
 }
 
 const sougouTranslate = async (value) => {
