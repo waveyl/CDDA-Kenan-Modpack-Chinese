@@ -66,7 +66,6 @@
   "key": "9ae5fc103afe0386a8768b845a3e89b9",
   "original": "105mm tank gun",
   "translation": "105mm 坦克炮",
-  "context": "ID: mounted_tank_manual_105mm\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_tank_manual_105mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_tank_manual_105mm",
   "stage": 5
  },
  {
@@ -87,7 +86,6 @@
   "key": "e55b1fa148989a4f0a058f2dde44ccef",
   "original": "120mm autoloading tank gun",
   "translation": "120mm 自动装填坦克炮",
-  "context": "ID: mounted_tank_auto\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_tank_auto\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_tank_auto",
   "stage": 5
  },
  {
@@ -108,7 +106,6 @@
   "key": "696131858a8d3667e1fafb42ea466020",
   "original": "120mm tank gun",
   "translation": "120mm 坦克炮",
-  "context": "ID: mounted_tank_manual\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_tank_manual\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_tank_manual",
   "stage": 5
  },
  {
@@ -129,7 +126,6 @@
   "key": "24880b5500a563080b9c0c138962ab31",
   "original": "155mm howitzer",
   "translation": "155mm榴弹炮",
-  "context": "ID: mounted_howitzer\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_howitzer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_howitzer",
   "stage": 5
  },
  {
@@ -157,7 +153,6 @@
   "key": "2de630f66125fcfd93b931d18d35e271",
   "original": "25mm chaingun",
   "translation": "25mm 机炮",
-  "context": "ID: mounted_25mm_autocannon\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_25mm_autocannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_25mm_autocannon",
   "stage": 5
  },
  {
@@ -465,7 +460,6 @@
   "key": "87b7045908560b5abe4b3a155271a571",
   "original": "ATGM turret",
   "translation": "反坦克导弹炮塔",
-  "context": "ID: tow_turret\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→tow_turret\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tow_turret",
   "stage": 5
  },
  {
@@ -936,7 +930,7 @@
   "key": "63ba8ec7afc15bef8e4522a411cde9dd",
   "original": "makeshift 105mm tank gun",
   "translation": "105mm 自制坦克炮",
-  "context": "ID: mounted_tank_crude_105mm\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_tank_crude_105mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_tank_crude_105mm",
+  "context": "ID: tank_gun_crude_105mm\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→GUN→tank_gun_crude_105mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tank_gun_crude_105mm",
   "stage": 3
  },
  {
@@ -964,14 +958,14 @@
   "key": "61ce5725a1c810d51257173433b43271",
   "original": "makeshift 120mm tank gun",
   "translation": "120mm 自制坦克炮",
-  "context": "ID: mounted_tank_crude\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_tank_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_tank_crude",
+  "context": "ID: tank_gun_crude\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→GUN→tank_gun_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tank_gun_crude",
   "stage": 3
  },
  {
   "key": "08434bb9db60e31ec2359f5d1b3f39af",
   "original": "makeshift 155mm howitzer",
   "translation": "155mm 自制榴弹炮",
-  "context": "ID: mounted_howitzer_crude\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_howitzer_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_howitzer_crude",
+  "context": "ID: howitzer_gun_crude\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→GUN→howitzer_gun_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=howitzer_gun_crude",
   "stage": 3
  },
  {
@@ -1013,7 +1007,6 @@
   "key": "c6752fa3ad3efb99d7c553b62d3fd426",
   "original": "makeshift25mm cannon",
   "translation": "155mm 自制机炮",
-  "context": "ID: mounted_25mm_autocannon_crude\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_25mm_autocannon_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_25mm_autocannon_crude",
   "stage": 3
  },
  {
@@ -1132,7 +1125,6 @@
   "key": "968b00040fd7a32f257d6141ea178d58",
   "original": "stripped-down 25mm gun",
   "translation": "车载 25mm 自制机炮",
-  "context": "ID: mounted_25mm_autocannon_sawn\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→mounted_25mm_autocannon_sawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_25mm_autocannon_sawn",
   "stage": 3
  },
  {
