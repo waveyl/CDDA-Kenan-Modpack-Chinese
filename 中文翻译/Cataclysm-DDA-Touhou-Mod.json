@@ -618,9 +618,9 @@
  {
   "key": "ef951ce9082e6ff8cff03e2271b59867",
   "original": "A member of the ancient and strictly hierarchical Tengu, you're agile and nimble, and your job is to gather information.",
-  "translation": "A member of the ancient and strictly hierarchical Tengu, you're agile and nimble, and your job is to gather information.",
+  "translation": "作为古老且尊从严密的等级制度的鸦天狗一族,你身手敏捷,擅长搜集信息.",
   "context": "ID: TENGUCROW_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TENGUCROW_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TENGUCROW_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2e32a8cb700058569ea1f366ed09e20a",
@@ -968,9 +968,9 @@
  {
   "key": "a797d49087098d2be5536a78c00ff2f2",
   "original": "A very famous Western youkai, you must feed upon humans to survive.  You're powerful, but at the same time have lots of weaknesses.",
-  "translation": "A very famous Western youkai, you must feed upon humans to survive.  You're powerful, but at the same time have lots of weaknesses.",
+  "translation": "你是一种非常出名的西方妖怪,必须以人类为食才能生存.你非常强大,但也有很多弱点.",
   "context": "ID: VAMPIRE_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMPIRE_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "49cb95e98cf85cefc61f2764613ac0fd",
@@ -2949,14 +2949,14 @@
  {
   "key": "652a01d3437effd9dfb4b523b34c4e59",
   "original": "Hourai fighting",
-  "translation": "蓬莱武姿",
+  "translation": "蓬莱武术",
   "context": "ID: style_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_mokou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_mokou",
   "stage": 1
  },
  {
   "key": "9afe3dbe44eb78f19c05dbedb7ebaaca",
   "original": "Hourai person",
-  "translation": "Hourai person",
+  "translation": "蓬莱人",
   "context": "ID: HOURAI_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HOURAI_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HOURAI_SPECIES",
   "stage": 1
  },
@@ -3019,9 +3019,9 @@
  {
   "key": "1d0a34a40f94c8eebd91664a4232e906",
   "original": "If nothing else revealed you're a vampire, this will surely do.  You're currently transformed into bat form.  Activate the mutation to switch forms.",
-  "translation": "If nothing else revealed you're a vampire, this will surely do.  You're currently transformed into bat form.  Activate the mutation to switch forms.",
+  "translation": "没有什么事情能比这个姿态更能证明你是一个吸血鬼.你目前处于蝙蝠形态.激活变异以切换形态.",
   "context": "ID: VAMPIRE_BAT_REMI_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMPIRE_BAT_REMI_active",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c0a7c731cbb95e4c0cc30db0de804a7e",
@@ -3481,7 +3481,7 @@
  {
   "key": "5fe08c1fbb47cbbdd4b3182f4742f3be",
   "original": "Magic, mana, qi, energy, all of it can also be described as spiritual energy.  You naturally generate it over time.",
-  "translation": "Magic, mana, qi, energy, all of it can also be described as spiritual energy.  You naturally generate it over time.",
+  "translation": "法力,魔力,气,能量,所有的这些存在都可以被描述为精神能量.随着时间的推移,你会自然而然地产生这些.",
   "context": "ID: SPIRIT_USER\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→SPIRIT_USER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SPIRIT_USER",
   "stage": 1
  },
@@ -3782,9 +3782,9 @@
  {
   "key": "96263c2bcbe0908711e488927fad8a0f",
   "original": "Not fully human, yet not fully inhuman, you have the best of both worlds.  Also, your phantom half is always following around.",
-  "translation": "Not fully human, yet not fully inhuman, you have the best of both worlds.  Also, your phantom half is always following around.",
+  "translation": "既不是完整的人类,也不是完全的非人存在, 你是两个世界的绝佳平衡. 你的半灵会永远跟在你身边.",
   "context": "ID: HALF_PHANTOM_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HALF_PHANTOM_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HALF_PHANTOM_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "73feaacd6d1ac9886ca40649e6d97fe8",
@@ -4027,9 +4027,9 @@
  {
   "key": "ebfc26a474835c1ad7c18f712064485f",
   "original": "Qi",
-  "translation": "Qi",
+  "translation": "气",
   "context": "ID: magic_qi\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_qi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magic_qi",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7583de4b9e83bc0b76dea41e2d47e42b",
@@ -5203,7 +5203,7 @@
  {
   "key": "b01b851c2c240c94d0844d0c545d47b1",
   "original": "Tengu sword",
-  "translation": "天狗之剑",
+  "translation": "Tengu sword",
   "context": "ID: tengu_sword\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL→tengu_sword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tengu_sword",
   "stage": 1
  },
@@ -5791,14 +5791,14 @@
  {
   "key": "8aee70dc7849e7e101d7f7b21aa021a3",
   "original": "Tsuchigumo (human form)",
-  "translation": "Tsuchigumo (human form)",
+  "translation": "土蜘蛛 (人类形态)",
   "context": "ID: TSUCHIGUMO_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TSUCHIGUMO_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TSUCHIGUMO_SPECIES",
   "stage": 1
  },
  {
   "key": "52bcbd04aaebd89491e7491568b88485",
   "original": "Tsuchigumo (youkai form)",
-  "translation": "Tsuchigumo (youkai form)",
+  "translation": "土蜘蛛 (妖怪形态)",
   "context": "ID: TSUCHIGUMO_SPECIES_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TSUCHIGUMO_SPECIES_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TSUCHIGUMO_SPECIES_active",
   "stage": 1
  },
@@ -6967,16 +6967,16 @@
  {
   "key": "6b88ccb586f3d563bdfd05b3757b8e2d",
   "original": "You're a spider youkai originating from caves and dark places in the Earth.  Currently, you're (partially) transformed into your youkai form, revealing your hidden legs.  Activate the mutation to switch forms.",
-  "translation": "You're a spider youkai originating from caves and dark places in the Earth.  Currently, you're (partially) transformed into your youkai form, revealing your hidden legs.  Activate the mutation to switch forms.",
+  "translation": "你是一只源自于地底风穴和黑暗洞窟的蜘蛛妖怪. 现在你展露出了你的 (一部分) 妖怪形态,隐藏的腿也伸展出来了. 激活变异以切换人类形态.",
   "context": "ID: TSUCHIGUMO_SPECIES_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TSUCHIGUMO_SPECIES_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TSUCHIGUMO_SPECIES_active",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cdd5214667d0d4d0cf48273b868fc423",
   "original": "You're a spider youkai originating from caves and dark places in the Earth.  Currently, you're posing as a human.  Activate the mutation to switch forms.",
-  "translation": "You're a spider youkai originating from caves and dark places in the Earth.  Currently, you're posing as a human.  Activate the mutation to switch forms.",
+  "translation": "你是一只源自于地底风穴和黑暗洞窟的蜘蛛妖怪,目前伪装成人类的外表.激活变异可以切换为妖怪形态.",
   "context": "ID: TSUCHIGUMO_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→TSUCHIGUMO_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TSUCHIGUMO_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1fa6fd8108f04c06a05734751da61bff",
@@ -7016,9 +7016,9 @@
  {
   "key": "f826b4584cf9e07e4ae1b802823d3126",
   "original": "You're fundamentally not human despite looking like one, and thus you're not bound by their customs and rules.  You naturally also find them appetizing.",
-  "translation": "You're fundamentally not human despite looking like one, and thus you're not bound by their customs and rules.  You naturally also find them appetizing.",
+  "translation": "尽管你的样子类似于人类,但你和人类完全不一样,因此你不受他们的习俗和规则的约束.自然的也会觉得它们很开胃.",
   "context": "ID: YOUKAI_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→YOUKAI_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=YOUKAI_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1dfa8a47313bbed0f42863f8fdb0e11",
@@ -7184,9 +7184,9 @@
  {
   "key": "97048cbf127098f4f878391359e13d7c",
   "original": "Your drank from the accursed Hourai Elixir ages ago.  You ceased to age, you never become ill, and you will never die.  At least that's how it was before the Cataclysm.",
-  "translation": "Your drank from the accursed Hourai Elixir ages ago.  You ceased to age, you never become ill, and you will never die.  At least that's how it was before the Cataclysm.",
+  "translation": "你很久以前曾喝过那个受诅咒的蓬莱之药.自那以后,你的容颜不会衰老,也不会生病,永远不会死去.至少在大灾变爆发前是这样的.",
   "context": "ID: HOURAI_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HOURAI_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HOURAI_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b72f2bfe21116f57d279952bc39697b8",
@@ -7247,9 +7247,9 @@
  {
   "key": "61d62952f90e9ec207047ebef4a7e55e",
   "original": "Your nature allows you to shapeshift, although almost completely as your bat wings are still visible.  Currently, you're posing as a human.  Activate the mutation to switch to youkai form.",
-  "translation": "Your nature allows you to shapeshift, although almost completely as your bat wings are still visible.  Currently, you're posing as a human.  Activate the mutation to switch to youkai form.",
+  "translation": "你有着变身的能力.你现在正在伪装成人类的外表,尽管你的蝙蝠翅膀仍然可见.激活变异以转换妖怪形态.",
   "context": "ID: VAMPIRE_BAT_REMI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMPIRE_BAT_REMI",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9ea02636ae76286e2db4baeae462d7f2",
