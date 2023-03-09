@@ -1731,9 +1731,9 @@
  {
   "key": "954ebc453866e9f5aa845f460ca00623",
   "original": "Create a tornado at the location, dealing damage and tossing into the air any enemies caught inside.",
-  "translation": "Create a tornado at the location, dealing damage and tossing into the air any enemies caught inside.",
+  "translation": "在指定位置发射出直达高空的龙卷风,造成伤害并将敌人抛上高空.",
   "context": "ID: aya_fantornado\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_fantornado\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_fantornado",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c79cc75a9f90b25d8885dd0b91299a0c",
@@ -3082,9 +3082,9 @@
  {
   "key": "205b28249dc72beae456d706ff8d1e3d",
   "original": "Invoke a wind gale that deals instant damage and pushes back those who're caught inside.",
-  "translation": "Invoke a wind gale that deals instant damage and pushes back those who're caught inside.",
+  "translation": "召唤一阵暴风,对敌人造成伤害,并击飞指定区域的敌人.",
   "context": "ID: aya_stormgust\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_stormgust\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_stormgust",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b5ae13a8a1cb5b95bd3f0bfeaea19344",
@@ -4125,16 +4125,16 @@
  {
   "key": "bdb2af12a1f50595a940c14f79539df8",
   "original": "Rainstorm gust",
-  "translation": "Rainstorm gust",
+  "translation": "天狗暴风雨",
   "context": "ID: aya_stormgust\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_stormgust\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_stormgust",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6cc37403069613f96c9ffc99a1f68ee0",
   "original": "Rainstorm gust (push)",
-  "translation": "Rainstorm gust (push)",
+  "translation": "天狗暴风雨 (推击)",
   "context": "ID: aya_stormgust2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_stormgust2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_stormgust2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8fca40d7d56f16c94399305d7ce42084",
@@ -5084,9 +5084,9 @@
  {
   "key": "0fe7980519df8e8e7ce05d34f8c937f1",
   "original": "Surround yourself with wind armor, blocking some blunt and sharp damage from incoming attacks for a short time.  Enemies that attack you are slashed by the furious winds.",
-  "translation": "Surround yourself with wind armor, blocking some blunt and sharp damage from incoming attacks for a short time.  Enemies that attack you are slashed by the furious winds.",
+  "translation": "在自身周围缠绕出风之铠,在短时间内能抵挡伤害; 当敌人接触到时会进行反击.",
   "context": "ID: aya_windsickle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_windsickle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_windsickle",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8e9014ddfce21beb1b3cd7da888cbdea",
@@ -6267,14 +6267,14 @@
  {
   "key": "1f389930f02c90bbec0b3b9b1522e6ff",
   "original": "Wind sickle veiling",
-  "translation": "Wind sickle veiling",
+  "translation": "镰风面纱",
   "context": "ID: aya_windsickle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_windsickle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_windsickle",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1ac7e784fc1645461b245d7f66d07404",
   "original": "Wind sickle veiling (aura)",
-  "translation": "Wind sickle veiling (aura)",
+  "translation": "镰风面纱 (aura)",
   "context": "ID: aura_windsickle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_windsickle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aura_windsickle",
   "stage": 1
  },
