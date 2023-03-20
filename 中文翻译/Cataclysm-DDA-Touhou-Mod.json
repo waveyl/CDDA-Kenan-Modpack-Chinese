@@ -51,9 +51,9 @@
  {
   "key": "30039aab6e1106cd36eb073e533d15b7",
   "original": "<npcname> bursts fire to push %s back!",
-  "translation": "<npcname> bursts fire to push %s back!",
+  "translation": "<npcname> 爆发出火焰将 %s 击退！",
   "context": "ID: tec_mokou_fire_burst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_fire_burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_mokou_fire_burst",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c262c0659d3a78140cc78c84f52cbde9",
@@ -324,9 +324,9 @@
  {
   "key": "e6c8de6f667948addfc1e28f81afcd19",
   "original": "A big green ribbon used on the head.  The design looks somewhat tattered.",
-  "translation": "A big green ribbon used on the head.  The design looks somewhat tattered.",
+  "translation": "一条大大的绿色丝带，穿戴在头上。它的设计看起来有些破烂。",
   "context": "ID: utsuho_ribbon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL_ARMOR→utsuho_ribbon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ribbon",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "658e337e215735e3409017d13d579616",
@@ -520,9 +520,9 @@
  {
   "key": "915882102b5b32597fb52fc9a7c66ec1",
   "original": "A heavy, large, tall granite rock, wrapped with a hemp rope.",
-  "translation": "A heavy, large, tall granite rock, wrapped with a hemp rope.",
+  "translation": "一块庞大且沉重的菱锥形花岗石, 上面绑着注连绳.(注连绳,一种用稻草织成的绳子，为神道信仰中用于洁净的咒具)",
   "context": "ID: f_keystone_pillar\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→furniture→f_keystone_pillar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_keystone_pillar",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43a398fdf1b244242d040eb2facbee0f",
@@ -821,9 +821,9 @@
  {
   "key": "55228bf5ded90ed23ac88651c3b2100e",
   "original": "A small black sun hovering over your head.  Looks like an eclipse.",
-  "translation": "A small black sun hovering over your head.  Looks like an eclipse.",
+  "translation": "一个小小的黑色太阳悬挂在你的头顶,看上去像日食了.",
   "context": "ID: utsuho_minisun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_etherealitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→utsuho_minisun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_minisun",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b00255d044b72a7b9e7eeeb7027b5104",
@@ -835,16 +835,16 @@
  {
   "key": "07dcc6f42458d434a4eb6ac18f5ab0b0",
   "original": "A small book holding all the knowledge a Kasha should have.",
-  "translation": "A small book holding all the knowledge a Kasha should have.",
+  "translation": "一本小小的书,写有一个火车妖怪应掌握的所有知识.",
   "context": "ID: kasha_book\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→kasha_book\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasha_book",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "287517037a43d7d9d8cae760e2832a4a",
   "original": "A small book holding all the knowledge a LDC conscript should have.",
-  "translation": "A small book holding all the knowledge a LDC conscript should have.",
+  "translation": "一本小小的书,写有作为月球防卫队士兵应掌握的所有知识.",
   "context": "ID: lunar_guide1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→lunar_guide1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lunar_guide1",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "33266b888f7d59407ff61649daae6541",
@@ -870,9 +870,9 @@
  {
   "key": "e91059834b195acb8d0821450b99590a",
   "original": "A small notebook, half full of the latest unpublished scoops.",
-  "translation": "A small notebook, half full of the latest unpublished scoops.",
+  "translation": "一本小小的笔记本, 里面有大半是尚未登刊的最新独家新闻.",
   "context": "ID: aya_notes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→aya_notes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_notes",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6769de7d9d55a35e0f068a54c6ea9e11",
@@ -1395,9 +1395,9 @@
  {
   "key": "da1b32123f02ea31177c647797dbc160",
   "original": "Bright web from the dark cave",
-  "translation": "Bright web from the dark cave",
+  "translation": "昏暗洞窟中明亮的网",
   "context": "ID: PROF_YAMAME\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_YAMAME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_YAMAME",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9e137b28508ab5b13cecaa5642037285",
@@ -1411,7 +1411,7 @@
   "original": "Burn your wounds, dealing a small amount of damage upfront, and healing a larger amount over time.",
   "translation": "灼烧你的伤口,会对自身造成少量伤害,之后随时间恢复大量伤害.",
   "context": "ID: mokou_cauterize\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_cauterize\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_cauterize",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0668597d3ed4faeaa9216035aeea582a",
@@ -1472,23 +1472,23 @@
  {
   "key": "d89ae88d9311472dedeb9f363c82416a",
   "original": "Cauterize",
-  "translation": "烧灼消毒",
+  "translation": "燃火重愈",
   "context": "ID: mokou_cauterize\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_cauterize\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_cauterize",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4617f3a099f3579cdd3d602eb7434262",
   "original": "Cauterize (healing)",
   "translation": "燃火重愈 (疗伤)",
   "context": "ID: mokou_cauterize2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_cauterize2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_cauterize2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e0ab011e145af333edccf1498d84975f",
   "original": "Celestial",
-  "translation": "Celestial",
+  "translation": "天人",
   "context": "ID: CELESTIAL_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→CELESTIAL_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CELESTIAL_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1cd9db22bdf44c8d91f8a315f5950dc",
@@ -1619,9 +1619,9 @@
  {
   "key": "6fe0f8df66714ec08f7d7b57d2dc45ef",
   "original": "Concentrate for a while to sense nearby sources of radiation.",
-  "translation": "Concentrate for a while to sense nearby sources of radiation.",
+  "translation": "精神集中后能感知到周围的辐射源.",
   "context": "ID: utsuho_detectrad\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_detectrad",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce3bdccab819a974aa860514fcac1c70",
@@ -1654,9 +1654,9 @@
  {
   "key": "54a9c5ad4da89b59f55013d05cab50f6",
   "original": "Corpse carrier cheering hellcat",
-  "translation": "Corpse carrier cheering hellcat",
+  "translation": "欢快运尸的地狱之猫",
   "context": "ID: PROF_KAENBYOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KAENBYOU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_KAENBYOU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "09e1d5b57937eac162b0c9b51deb852c",
@@ -1710,9 +1710,9 @@
  {
   "key": "20297e3df1efd9a5f1d95c4b5148979e",
   "original": "Create a jet of plasma from the tip of your control rod.  The jet deals damage to anything you hit.",
-  "translation": "Create a jet of plasma from the tip of your control rod.  The jet deals damage to anything you hit.",
+  "translation": "从你的制御棒中放出剑刃状的等离子体,能够对接触的任何东西造成损伤.",
   "context": "ID: utsuho_fusionblade\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_fusionblade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_fusionblade",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2fdb865704ed53457d879869b1cc13ac",
@@ -1738,9 +1738,9 @@
  {
   "key": "c79cc75a9f90b25d8885dd0b91299a0c",
   "original": "Create black sun",
-  "translation": "Create black sun",
+  "translation": "微光黑阳",
   "context": "ID: utsuho_blacksun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_blacksun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_blacksun",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6613b02a81b7be993521302ba7b41e33",
@@ -1885,9 +1885,9 @@
  {
   "key": "06698a9236897c81d32bf34232d7f072",
   "original": "Dash (levitation)",
-  "translation": "Dash (levitation)",
+  "translation": "冲刺 (浮空)",
   "context": "ID: dash_basic_levitate\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_basic_levitate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_basic_levitate",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9495a3458e9e7764ccebdc4a4a2d2e77",
@@ -1899,9 +1899,9 @@
  {
   "key": "81a129759cfed93b669d497c2ba51bbc",
   "original": "Dash towards a point, causing damage to the target.  You're invulnerable during the dash.",
-  "translation": "Dash towards a point, causing damage to the target.  You're invulnerable during the dash.",
+  "translation": "冲刺到指定位置,并对敌人造成伤害,在过程中你不会受到攻击.",
   "context": "ID: dash_utsuho\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_utsuho\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_utsuho",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fb760de58022c8c808684fca204b372b",
@@ -2487,9 +2487,9 @@
  {
   "key": "8d78f765778c31a0456bf63ef0212f33",
   "original": "Fire protecting talisman",
-  "translation": "防火符",
+  "translation": "防火符纸",
   "context": "ID: mokou_paper\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→mokou_paper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_paper",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bf150a67dce112997e01122207aa2c28",
@@ -2571,9 +2571,9 @@
  {
   "key": "393bc0958ff176c87fd3458b77582e82",
   "original": "Focus your qi on the friendly target, restoring some HP.",
-  "translation": "Focus your qi on the friendly target, restoring some HP.",
+  "translation": "集中精力将气运用于治疗,能回复友方目标的血量.",
   "context": "ID: meiling_qiheal\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_qiheal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_qiheal",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f408d17d358467462fe9dee7c21fd857",
@@ -2634,30 +2634,30 @@
  {
   "key": "989f12fae91ed08203fab139802c7121",
   "original": "Fusion blade",
-  "translation": "Fusion blade",
+  "translation": "聚变光刃",
   "context": "ID: utsuho_fusionblade\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_fusionblade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_fusionblade",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "618d6d01a6a5e836783646b68312bd5c",
   "original": "Fusion blade (aura)",
-  "translation": "Fusion blade (aura)",
+  "translation": "聚变光刃 (光环)",
   "context": "ID: fusion_blade\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_etherealitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→fusion_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fusion_blade",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb7722da75e713fe3421ff4904be6ff4",
   "original": "Fusion blade (damage)",
-  "translation": "Fusion blade (damage)",
+  "translation": "聚变光刃 (伤害)",
   "context": "ID: fusion_bonk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_etherealitems.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→fusion_bonk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fusion_bonk",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b1cc7505529a0c6aff2646956a266fe9",
   "original": "Fusion blades (aura)",
-  "translation": "Fusion blades (aura)",
+  "translation": "聚变光刃 (光环)",
   "context": "ID: fusion_blade\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_etherealitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→fusion_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fusion_blade",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6a23dda5579bb02aa57b88f1f50d2d78",
@@ -2676,16 +2676,16 @@
  {
   "key": "9d6256a47468002722eda20986b0c981",
   "original": "Geyser (knockback)",
-  "translation": "Geyser (knockback)",
+  "translation": "核焰岩浆 (击退)",
   "context": "ID: utsuho_ugeyser2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "098de20b0049acfc154b7b57234e35c8",
   "original": "Girl between the Spheres of Perception",
-  "translation": "Girl between the Spheres of Perception",
+  "translation": "非想非非想天之女",
   "context": "ID: PROF_TENKO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_TENKO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_TENKO",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2dfa031749a0d2854ef1798c0cecc7f0",
@@ -2732,30 +2732,30 @@
  {
   "key": "4881cfe6d3446cb3689bd44d93f2061b",
   "original": "Ground melt",
-  "translation": "Ground melt",
+  "translation": "地壳融熔",
   "context": "ID: utsuho_groundmelt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_groundmelt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_groundmelt",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5d177a6758c1b132df4a23d1bebcdda1",
   "original": "Gyokuto",
   "translation": "玉兔",
   "context": "ID: GYOKUTO_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GYOKUTO_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2ad6aa23fb4a7fd4e7ffc86de7bf27c1",
   "original": "Gyokuto ears",
   "translation": "玉兔耳朵",
   "context": "ID: GYOKUTO_EARS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_EARS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GYOKUTO_EARS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "214c18e5a89c5e3a93dfa80185d7ebf7",
   "original": "Gyokuto tail",
   "translation": "玉兔尾巴",
   "context": "ID: GYOKUTO_TAIL\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_TAIL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GYOKUTO_TAIL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0471c7f92bace54af613e45ae906c583",
@@ -2776,7 +2776,7 @@
   "original": "Half-Human Half-Phantom dual-wielding gardener",
   "translation": "半人半灵的二刀流庭师",
   "context": "ID: PROF_YOUMU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_YOUMU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_YOUMU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b14bab27bdbc3409ece2e9b526f3b20a",
@@ -2825,7 +2825,7 @@
   "original": "Healing over time effect for mokou_cauterize ",
   "translation": "燃火重愈的疗伤阶段",
   "context": "ID: mokou_cauterize2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_cauterize2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_cauterize2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c2f8a748db5058527b920d2705627fce",
@@ -2893,9 +2893,9 @@
  {
   "key": "62c2ada6e9e064f5dddc923ed1e31115",
   "original": "Hell wave cannon",
-  "translation": "Hell wave cannon",
+  "translation": "地狱波动炮",
   "context": "ID: utsuho_hellcannon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_hellcannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_hellcannon",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "00a3191ccb8e6fc360a1490ea7a5e34a",
@@ -3061,9 +3061,9 @@
  {
   "key": "1ebb2ffc9f30e5241da13de200b17e6b",
   "original": "Immortal Guide of the Bamboo Forest",
-  "translation": "Immortal Guide of the Bamboo Forest",
+  "translation": "不老不死的竹林引路人",
   "context": "ID: PROF_MOKOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_MOKOU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_MOKOU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a5b175e3a5a02633d16a1c50cd64aa17",
@@ -3145,37 +3145,37 @@
  {
   "key": "4a802e6b13b07c08bea8c61083d60473",
   "original": "Kasha",
-  "translation": "Kasha",
+  "translation": "火车(燐)",
   "context": "ID: KASHA_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KASHA_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KASHA_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "341ce0180b5ba2aab390ddf39709c0eb",
   "original": "Kasha (youkai form)",
-  "translation": "Kasha (youkai form)",
+  "translation": "火车 (妖怪形态)",
   "context": "ID: KASHA_SPECIES_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KASHA_SPECIES_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KASHA_SPECIES_active",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c23dcf698c27393ae97dd6878b374769",
   "original": "Kasha ears",
-  "translation": "Kasha ears",
+  "translation": "火车猫耳",
   "context": "ID: KASHA_EARS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KASHA_EARS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KASHA_EARS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "df57aff703a712d755e08606b97d9472",
   "original": "Kasha tails",
-  "translation": "Kasha tails",
+  "translation": "火车猫尾",
   "context": "ID: KASHA_TAILS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KASHA_TAILS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KASHA_TAILS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c77e6a9abe34a5cc28143acfa7e1c880",
   "original": "Kasha's knowledge",
-  "translation": "Kasha's knowledge",
+  "translation": "火车(燐)之识",
   "context": "ID: kasha_book\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→kasha_book\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasha_book",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aac28e848db5d7fb39fdc8dec0d3ed3c",
@@ -3278,9 +3278,9 @@
  {
   "key": "8eacb27bffd0d7b323fd3b96947364cb",
   "original": "LDC Field Guide",
-  "translation": "LDC Field Guide",
+  "translation": "月球防卫队指导手册",
   "context": "ID: lunar_guide1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→lunar_guide1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lunar_guide1",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5fe6f9161e97fd888518806bcb2ffbfa",
@@ -3658,7 +3658,7 @@
   "original": "Moon Rabbit Recruit",
   "translation": "月兔新兵",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→[6]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3515a79a62aaa46a91428635b87094dd",
@@ -3684,9 +3684,9 @@
  {
   "key": "aee0d04a906c36b04b330df9246e2f77",
   "original": "Move quickly towards a nearby position.",
-  "translation": "Move quickly towards a nearby position.",
+  "translation": "向附近的区域快速移动.",
   "context": "ID: dash_aya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_aya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_aya",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f7decf48ee8f6a4a8d76273c2f84cbb8",
@@ -3747,7 +3747,7 @@
  {
   "key": "29ba7f452d429684401f0e8158ccd2d0",
   "original": "Natural energy user",
-  "translation": "Natural energy user",
+  "translation": "自然能量掌控",
   "context": "ID: SPIRIT_HERMIT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→SPIRIT_HERMIT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SPIRIT_HERMIT",
   "stage": 1
  },
@@ -3796,7 +3796,7 @@
  {
   "key": "a099c11167dfcfa1c4208634da2119db",
   "original": "Nuclear explosion (fission)",
-  "translation": "Nuclear explosion (fission)",
+  "translation": "核能爆发 (裂变)",
   "context": "ID: utsuho_nuke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke",
   "stage": 1
  },
@@ -4118,9 +4118,9 @@
  {
   "key": "545859d391a0ccb427314c4f0148f020",
   "original": "Rainbow Gatekeeper",
-  "translation": "Rainbow Gatekeeper",
+  "translation": "色彩艳丽的门卫",
   "context": "ID: PROF_MEILING\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_MEILING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_MEILING",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bdb2af12a1f50595a940c14f79539df8",
@@ -4188,9 +4188,9 @@
  {
   "key": "78afd8e18061623238614a1afb7ca3ae",
   "original": "Reflection slash (aura)",
-  "translation": "反射下界斩 (aura)",
+  "translation": "反射下界斩 (光环)",
   "context": "ID: aura_reflectionslash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_reflectionslash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aura_reflectionslash",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "336da4bfe7bc984b6c97f8efc62d16a9",
@@ -4363,9 +4363,9 @@
  {
   "key": "2e7a917f173406b0aeb8908097249008",
   "original": "Rising Dragon kick",
-  "translation": "Rising Dragon kick",
+  "translation": "升龙踢",
   "context": "ID: dash_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_meiling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_meiling",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cdbc8b296ed07d92cb924c8062b2f767",
@@ -4475,9 +4475,9 @@
  {
   "key": "d98e6e502761685498f8ecfbdad95038",
   "original": "Scorch the targeted location with your control rod, infusing it with nuclear power and causing it to rapidly melt into lava.",
-  "translation": "Scorch the targeted location with your control rod, infusing it with nuclear power and causing it to rapidly melt into lava.",
+  "translation": "从制御棒中放出核热能，让指定的区域烧灼并熔化成熔岩.",
   "context": "ID: utsuho_groundmelt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_groundmelt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_groundmelt",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "10d8676de789d93d4f16d73458004be9",
@@ -4580,9 +4580,9 @@
  {
   "key": "a61bab056ee73136f49f200222d3b5df",
   "original": "Shoot a beam of solar energy, dealing damage to any affected enemy in the path.",
-  "translation": "Shoot a beam of solar energy, dealing damage to any affected enemy in the path.",
+  "translation": "放出一道太阳热能射线,能对经过路径上的敌人造成伤害.",
   "context": "ID: utsuho_hellcannon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_hellcannon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_hellcannon",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "af213b362d96e524210bc24f7d54f58b",
@@ -4762,9 +4762,9 @@
  {
   "key": "7e3af98b73cc2c74639a7f1c6b2553ea",
   "original": "Snap your fingers to create a black sun that automatically follows you, producing some light.",
-  "translation": "Snap your fingers to create a black sun that automatically follows you, producing some light.",
+  "translation": "打个响指生成一个黑阳,能自动跟随在你周围并提供一些光照.",
   "context": "ID: utsuho_blacksun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_blacksun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_blacksun",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e7bb046cd71d247adca743ec1a52fc50",
@@ -4993,9 +4993,9 @@
  {
   "key": "2887a237483d4e870003da848996ed27",
   "original": "Subterranean geyser",
-  "translation": "Subterranean geyser",
+  "translation": "核焰喷涌",
   "context": "ID: utsuho_ugeyser\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3aeae6f1926be316f2e2ad47cf74f86e",
@@ -5105,9 +5105,9 @@
  {
   "key": "0f02bd726de843cf5df94ae6446d9e9a",
   "original": "Switch places with the targeted creature.",
-  "translation": "Switch places with the targeted creature.",
+  "translation": "与指定的目标交换位置.",
   "context": "ID: reisen_entanglement\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_reisen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→reisen_entanglement\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reisen_entanglement",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8ae54ef0e9fe2b7a8fee22f6bbbdbfd7",
@@ -5203,7 +5203,7 @@
  {
   "key": "b01b851c2c240c94d0844d0c545d47b1",
   "original": "Tengu sword",
-  "translation": "Tengu sword",
+  "translation": "天狗之剑",
   "context": "ID: tengu_sword\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL→tengu_sword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tengu_sword",
   "stage": 1
  },
@@ -5336,9 +5336,9 @@
  {
   "key": "60c608dbf28f0112b6c7fbee5b0f5db5",
   "original": "The Devil's Destructive Little Sister",
-  "translation": "The Devil's Destructive Little Sister",
+  "translation": "吸血鬼的破坏性妹妹",
   "context": "ID: PROF_FLAN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_FLAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_FLAN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ff71d54e5accc87f3000672b9fda2eb4",
@@ -5406,9 +5406,9 @@
  {
   "key": "6db3d910ebde5a98c5e6ef92b286329f",
   "original": "The lowest part of the keystone that seems to enable floating.  Or not, and the entire thing just hovers.",
-  "translation": "要石最底部的部分,看上去就是这个给要石提供了浮力.如果上面没东西会一直悬浮在空中.",
+  "translation": "要石最底部的部分,看上去这部分给要石提供了浮力.如果上面没东西会一直悬浮在空中.",
   "context": "ID: wheel_keystone\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_floatingkeystone_items.json\n类型为 WHEEL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→WHEEL→wheel_keystone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wheel_keystone",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb60446697cf5e7bbb6539cb262f985a",
@@ -5777,9 +5777,9 @@
  {
   "key": "620e9a994e31a0c1995e4e3d9c264cb7",
   "original": "Trigger a small geyser at the location, dealing some damage to hostile creatures and pushing anything caught in the area.  It's not subterranean anymore, is it?",
-  "translation": "Trigger a small geyser at the location, dealing some damage to hostile creatures and pushing anything caught in the area.  It's not subterranean anymore, is it?",
+  "translation": "将核能打进地面,令岩浆从地面接连喷出的大技.在指定区域放出熔泉,对敌方人造成伤害,岩浆会连续移动并捕获任何东西.不再只是地下的太阳了.  ",
   "context": "ID: utsuho_ugeyser\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3e2242d10507d35538d79b36e93fde62",
@@ -6253,9 +6253,9 @@
  {
   "key": "3334e4c95407978d23cdaab8bf41389d",
   "original": "Wind god girl",
-  "translation": "Wind god girl",
+  "translation": "风神少女",
   "context": "ID: PROF_AYA\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_AYA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_AYA",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "78dbc913183c86c7563438b394f5ce06",
@@ -6274,9 +6274,9 @@
  {
   "key": "1ac7e784fc1645461b245d7f66d07404",
   "original": "Wind sickle veiling (aura)",
-  "translation": "镰风面纱 (aura)",
+  "translation": "镰风面纱 (光环)",
   "context": "ID: aura_windsickle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_windsickle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aura_windsickle",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3cd89b0aa3a972b56d75989412e21863",
@@ -6540,9 +6540,9 @@
  {
   "key": "306a0bd2f30404d0fd652c4cd9b16c76",
   "original": "You have a fluffy little rabbit tail.",
-  "translation": "You have a fluffy little rabbit tail.",
+  "translation": "你有毛茸茸的兔子短尾巴.",
   "context": "ID: GYOKUTO_TAIL\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_TAIL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GYOKUTO_TAIL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "be43318a2927add07f99dda6eb494ce3",
@@ -6659,7 +6659,7 @@
  {
   "key": "3065cfce4a3e4a479789dfe62c72690b",
   "original": "You naturally absorb and accumulate natural energy over time.  In contrast to normal energy users, your regeneration rate is slowed, but your experience and fine control makes up for it.",
-  "translation": "You naturally absorb and accumulate natural energy over time.  In contrast to normal energy users, your regeneration rate is slowed, but your experience and fine control makes up for it.",
+  "translation": "你天生能够吸收和积累自然能量,与普通能量使用者不同的是,你的恢复速度较慢,但你的经验和精细控制弥补了这一点.",
   "context": "ID: SPIRIT_HERMIT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→SPIRIT_HERMIT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SPIRIT_HERMIT",
   "stage": 1
  },
@@ -6953,9 +6953,9 @@
  {
   "key": "56fe360638e890f78a1456a698694333",
   "original": "You're a member of the Tengu, specifically of the Crow caste.",
-  "translation": "You're a member of the Tengu, specifically of the Crow caste.",
+  "translation": "你是天狗的一员, 属于鸦天狗阶层.",
   "context": "ID: PROF_AYA\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_AYA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_AYA",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fa44e71e8d3a204aa91446ea4cb6c7aa",
@@ -7030,9 +7030,9 @@
  {
   "key": "f67fd10ec0da9285de38486dc95ad2ef",
   "original": "You're one of the pets of the mistress of Chireiden, a Former Hell mansion.  Your job is to carry corpses to the Hell of Blazing fires (read: the Remains of Blazing Hell), to regulate its heat with your trusty corpse wheelbarrow.",
-  "translation": "You're one of the pets of the mistress of Chireiden, a Former Hell mansion.  Your job is to carry corpses to the Hell of Blazing fires (read: the Remains of Blazing Hell), to regulate its heat with your trusty corpse wheelbarrow.",
+  "translation": "你是被地灵殿的女主人饲养宠物之一。你的工作是用你可靠的猫车(运尸的手推车)将尸体运到燃烧地狱（即灼热地狱遗址）,并负责调节其温度.",
   "context": "ID: PROF_KAENBYOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KAENBYOU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_KAENBYOU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "57404bb3339ceff5111a295408c8282e",
@@ -7051,9 +7051,9 @@
  {
   "key": "e15558f7200ed739cc9cbeed83b5aed9",
   "original": "You're the Eldest daughter of the Hinanawi clan.  Very carefree, very problematic, and very spoiled, you do what you want whenever you want.",
-  "translation": "You're the Eldest daughter of the Hinanawi clan.  Very carefree, very problematic, and very spoiled, you do what you want whenever you want.",
+  "translation": "你是比那名居家的长女,一个温室娇女,常常任意妄为且自鸣得意,只要想做一件事就会不管不顾的去做.",
   "context": "ID: PROF_TENKO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_TENKO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_TENKO",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ba5015145f6620a4262c45bb33d35111",
@@ -7072,16 +7072,16 @@
  {
   "key": "ba014606a0fb4f1c6b9e67427ac885c8",
   "original": "You're the good-natured earth spider youkai living at the Underground entrance.",
-  "translation": "You're the good-natured earth spider youkai living at the Underground entrance.",
+  "translation": "你是生活在地下洞窟里的友善的土蜘蛛妖怪.",
   "context": "ID: PROF_YAMAME\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_YAMAME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_YAMAME",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "76124a44a9dca444a388840872cc5c0a",
   "original": "You're the laid back, sleepy, yet loyal guard and garden keeper of the Scarlet Devil Mansion.",
-  "translation": "You're the laid back, sleepy, yet loyal guard and garden keeper of the Scarlet Devil Mansion.",
+  "translation": "你是红魔馆那悠闲、爱打瞌睡但忠心耿耿的门卫和园丁.",
   "context": "ID: PROF_MEILING\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_MEILING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_MEILING",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "db05e2239ce9ee1aaf3551a88464aa11",
@@ -7170,16 +7170,16 @@
  {
   "key": "4d9c5279072daf088c40397e54e0b562",
   "original": "Your body's toughness and resilience to damage are out of this world.",
-  "translation": "Your body's toughness and resilience to damage are out of this world.",
+  "translation": "你的身体无比坚韧,且抗性和恢复能力无与伦比.",
   "context": "ID: CELESTIAL_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→CELESTIAL_SPECIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CELESTIAL_SPECIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aae771275ab6a308d17ca6381c1b7499",
   "original": "Your countless years of fighting your rival has granted you lots of fighting skills, primarily with kicking attacks and strong direct blows.",
-  "translation": "Your countless years of fighting your rival has granted you lots of fighting skills, primarily with kicking attacks and strong direct blows.",
+  "translation": "你在数不尽的岁月中与敌人不断厮杀,这让你拥有着丰富的战斗经验,尤其是踢击和猛烈的正面进攻.",
   "context": "ID: PROF_MOKOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_MOKOU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_MOKOU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "97048cbf127098f4f878391359e13d7c",
@@ -7261,9 +7261,9 @@
  {
   "key": "f53b60990c90b6152fb194be7933ed9d",
   "original": "Your pair of rabbit ears look normal to you but unlike anything to everyone else.",
-  "translation": "Your pair of rabbit ears look normal to you but unlike anything to everyone else.",
+  "translation": "你的兔耳对你来说很正常,但对于其他人就不一定了.",
   "context": "ID: GYOKUTO_EARS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_EARS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=GYOKUTO_EARS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b2ff706fb0c2e7d5fe681dfc797955cc",
@@ -7513,16 +7513,16 @@
  {
   "key": "9714717b03bd0f6af3be918be99e841b",
   "original": "copies of Kasha's knowledge",
-  "translation": "copies of Kasha's knowledge",
+  "translation": "火车(燐)之识",
   "context": "ID: kasha_book\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→kasha_book\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasha_book",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6da22f4876a56b4b347fdec2a4216621",
   "original": "copies of LDC Field Guides",
-  "translation": "copies of LDC Field Guides",
+  "translation": "月球防卫队指导手册",
   "context": "ID: lunar_guide1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→lunar_guide1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lunar_guide1",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e89196f1cb52069efe1f4bf0942bcb7f",
@@ -7800,9 +7800,9 @@
  {
   "key": "7e7f710e9d69a42da75c83c8cb604652",
   "original": "gossip notes",
-  "translation": "gossip notes",
+  "translation": "文花帖",
   "context": "ID: aya_notes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→BOOK→aya_notes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_notes",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5d7f107be7e04f40413954100585dbc8",

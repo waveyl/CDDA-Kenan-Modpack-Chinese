@@ -86,9 +86,9 @@
  {
   "key": "4d14d10d5ebfe3848806e015283c8bd6",
   "original": "Artifacts are the supreme objects scattered in this world. From cursed swords to precarious weapons, they are the artifacts.\nI will send you out of this place and look for these ancient objects, just ask me if you are curious about a thing.",
-  "translation": "文物是散落在这个世界上的至高无上的物品。从被诅咒的剑到不稳定的武器，它们都是神器。\n我会送你离开这个地方去寻找这些古老的东西，只要回答我你是否对什么东西好奇。",
+  "translation": "古物是散落在这个世界上的至高无上的物品。从被诅咒的剑到不稳定的武器，它们都是古物。\n只要你告诉我你对它们感兴趣，我就会送你离开这个地方去寻找这些古老的东西。",
   "context": "ID: VAMP_ASEEKER_main_artifactwhat\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_artifactwhat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_artifactwhat",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25da633e42083fcaa7f0015cff8f5c98",
@@ -135,23 +135,23 @@
  {
   "key": "fdca71443d67c3f2faa30b4b06695247",
   "original": "Exchange all your requested items with something else as rewards.",
-  "translation": "把你要的东西换成其他东西作为奖励。",
+  "translation": "我们需要一些你的物品，作为交换，我们会给你别的东西。",
   "context": "ID: VAMP_ASEEKER_main_collaborate\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_collaborate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_collaborate",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3535ceaa0eb916ae819d95c290ba76f5",
   "original": "For all of your pain, these items would help you out!",
-  "translation": "对于你所有的痛苦，这些东西会帮你解决的！",
+  "translation": "你所有的痛苦，这些东西都会帮你解决。",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_tokenexc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab7542bfbaaf175751eeb1c61e4b6774",
   "original": "Greetings, my fellow adventurer. What brings you to my safe haven?",
-  "translation": "你好，我的冒险伙伴。什么风把你吹来我的避风港？",
+  "translation": "你好啊，我的朋友。是什么风把你吹到我这儿来了？",
   "context": "ID: VAMP_ASEEKER_main\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dfa8370af69cb64165088fe522eef635",
@@ -163,9 +163,9 @@
  {
   "key": "7b47d0504ef5a7e6668d2fbfc8347ca6",
   "original": "I agree, but in form of tokens. Work hard, collect more and earn our exclusive items to fulfill your endeavors.",
-  "translation": "我同意，但以代币的形式。努力工作，收集更多，并赢得我们的独家项目，以满足您的努力。",
+  "translation": "我同意，但得以代币的形式交易。积极工作，尽你最大的努力来积攒和赚取我们的独家货币吧。",
   "context": "ID: VAMP_ASEEKER_main_collaborateforitem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_collaborateforitem\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_collaborateforitem",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e2414b0bda94651c38aa3f2419e1be9d",
@@ -177,9 +177,9 @@
  {
   "key": "92757bb9d80f31ae0ab35c2e7c80d37c",
   "original": "I also have grown fond to magic, so maybe we could collaborate with this.",
-  "translation": "我也越来越喜欢魔术了，也许我们可以合作。",
+  "translation": "我也越来越对魔法感兴趣了，也许我们可以进行合作。",
   "context": "ID: VAMP_ASEEKER_main_intro\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_intro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_intro",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1aeff8766c1597737b317c1d085c4b4",
@@ -200,56 +200,56 @@
   "original": "I change my mind...",
   "translation": "我改变主意了…",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_tokenexc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c21527eee1f77b5a5aa73557cbca0a9f",
   "original": "I don't know if I can accept that thing...",
   "translation": "我不知道我能不能接受…",
   "context": "ID: VAMP_ASEEKER_item_veilblade\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_veilblade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_item_veilblade",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f21dfe5b10409692a154af428af04ea3",
   "original": "I don't know if I have something for you to exchange at this moment...",
-  "translation": "我不知道此刻我是否有东西要和你交换…",
+  "translation": "我不认为此刻我有必要和你交换东西…",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_tokenexc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e1edd5bdc735cff6faa3f59f5e7fa092",
   "original": "I got no more...",
-  "translation": "我没有更多…",
+  "translation": "我没有更多了…",
   "context": "ID: VAMP_ASEEKER_questinquire_ihave_stormbringer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemprocess.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_ihave_stormbringer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_ihave_stormbringer",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5529250d5286c9385f1458b3f7686890",
   "original": "I got something that would interest you.",
-  "translation": "我有你感兴趣的东西。",
+  "translation": "我有一些你会感兴趣的东西。",
   "context": "ID: VAMP_ASEEKER_main\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6d4cd6c6e7dbc6542b9bf8762586588e",
   "original": "I guess I've collected everything...",
-  "translation": "我想我已经收集了所有的东西…",
+  "translation": "我想我已经集齐了所有东西…",
   "context": "ID: VAMP_ASEEKER_questinquire\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_validateitems.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5a5478dbcf5a1d253c2a2867c3f4bb20",
   "original": "I guess you're waiting for more contents... Don't wait for something else.",
-  "translation": "我猜你在等更多的内容…别再等了。",
+  "translation": "我猜你在等更多的东西…别再等了。",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_tokenexc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "68f7c04929cc71c873e46701c4977ed0",
   "original": "I have 15 essences!",
-  "translation": "我有15种香精！",
+  "translation": "我有15个源质！",
   "context": "ID: VAMP_ASEEKER_questinquire_ihave\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_processitems.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_ihave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_ihave",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43cfaf75cd58393511c778230d410540",
@@ -394,9 +394,9 @@
  {
   "key": "2394929979e4b743b36785ffbfd0d555",
   "original": "I have to gather more...",
-  "translation": "我要收集更多…",
+  "translation": "我需要收集更多…",
   "context": "ID: VAMP_ASEEKER_questinquire_ihave\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_processitems.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_ihave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_questinquire_ihave",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fdbd73654dd856bcb16ae3d6e37424a4",
@@ -1460,14 +1460,14 @@
   "original": "Structures in the forest surely hides something underneath it.",
   "translation": "森林里的建筑肯定藏着什么东西。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_tipsforu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e756efc094cabe308698d5b2f3e745f9",
   "original": "Swamps are not the only place you'll ever hate the most.",
-  "translation": "沼泽只你最讨厌的地方之一。",
+  "translation": "沼泽并不是你唯一一个会讨厌的地方。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_tipsforu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43fb1b2ddeee3dc53a3fd9c6741c57bd",
@@ -1481,14 +1481,14 @@
   "original": "Those anomalous creatures can provide you with something when you kill it.",
   "translation": "杀死这些异常生物能得到一些好东西。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_tipsforu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ec70e45e7ed8d248c47e774b42da0fc6",
   "original": "Those odd looking ruins from the past civilizations might have left something... Strange.",
-  "translation": "那些来自过去文明的奇怪遗迹可能留下了一些奇怪的...东西。",
+  "translation": "那些远古文明的遗迹可能留下了一些奇怪的…东西。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_tipsforu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bef2b69957eb25310cb86198964d37a7",
@@ -1759,9 +1759,9 @@
  {
   "key": "009c5bee371df495886a7206756fd18c",
   "original": "You can't get something if you don't put an effort to it.",
-  "translation": "如果你不努力，你就得不到什么。",
+  "translation": "如果你不努力，你将一无所获。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMP_ASEEKER_main_tipsforu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "89b76ef91a60c396d91953f1eddf301f",
