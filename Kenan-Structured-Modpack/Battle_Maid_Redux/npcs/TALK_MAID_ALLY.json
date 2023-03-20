@@ -43,10 +43,7 @@
         "text": "Mind if we just chat for a bit about your history?",
         "topic": "TALK_MAID_CONVERSATION",
         "condition": {
-          "and": [
-            "at_safe_space",
-            { "or": [{ "npc_has_flag": "BG_SURVIVAL_STORY" }, { "npc_has_trait": "NPC_STATIC_NPC" }] }
-          ]
+          "and": [ "at_safe_space", { "or": [ { "npc_has_flag": "BG_SURVIVAL_STORY" }, { "npc_has_trait": "NPC_STATIC_NPC" } ] } ]
         },
         "//": "If the NPC already has a BG story, or started out as a static NPC (and so probably doesn't need a random bg story), then go on.",
         "switch": true
@@ -97,11 +94,10 @@
     "type": "talk_topic",
     "dynamic_line": "Milking time♪ Please treat me well, master!",
     "responses": [
-      { "text": "Later, then.", "topic": "TALK_DONE", "condition": { "npc_has_effect": "maid_milked" } },
+      { "text": "Later, then.", "topic": "TALK_DONE"  },
       {
         "text": "Let's get to work.",
-        "topic": "TALK_MAID_MILK2",
-        "condition": { "not": { "npc_has_effect": "maid_milked" } }
+        "topic": "TALK_MAID_MILK2"
       }
     ]
   },
@@ -109,7 +105,13 @@
     "id": "TALK_MAID_MILK2",
     "type": "talk_topic",
     "dynamic_line": "Ah...Ahn♪ Oh master, that feels so...good...",
-    "speaker_effect": { "effect": [ { "u_spawn_item": "milk", "count": 4 }, { "npc_add_effect": "maid_milked", "duration": 28000 } ] },
+    "speaker_effect": {
+      "effect": [
+        { "u_consume_item": "bottle_glass", "count": 0 },
+        { "u_spawn_item": "milk", "container": "bottle_glass", "count": 3 },
+        { "npc_add_effect": "maid_milked", "duration": 21000 }
+      ]
+    },
     "responses": [
       {
         "text": "We're not done yet. I want your 'milk' too.",
@@ -123,7 +125,7 @@
     "id": "TALK_MAID_MILK3",
     "type": "talk_topic",
     "dynamic_line": "Th-there too? N-no, wait, I'm going to...! Master, please, I can't stop - urgh, please, just let me rest...!",
-    "speaker_effect": { "effect": [ { "u_spawn_item": "protein_milk", "count": 1 } ] },
+    "speaker_effect": { "effect": [ { "u_spawn_item": "protein_milk", "container": "bottle_glass", "count": 1 } ] },
     "responses": [ { "text": "That's all for now.", "topic": "TALK_DONE" } ]
   },
   {
@@ -174,11 +176,32 @@
       },
       {
         "text": "Let's trade items.",
-        "condition": { "not": { "or": [ "is_by_radio", { "npc_has_trait": "MAID_RESTRICT" } ] } },
+        "condition": {
+          "not": "is_by_radio",
+          "npc_has_trait": "MAID_RESTRICT"
+        },
         "topic": "TALK_MAID_ALLY",
         "effect": "start_trade",
         "switch": true,
         "default": true
+      },
+      {
+        "text": "I want you to use this item.",
+        "condition": {
+          "not": "is_by_radio",
+          "npc_has_trait": "MAID_RESTRICT"
+        },
+        "topic": "TALK_MAID_ALLY",
+        "effect": "npc_gets_item_to_use"
+      },
+      {
+        "text": "Hold on to this item.",
+        "condition": {
+          "not": "is_by_radio",
+          "npc_has_trait": "MAID_RESTRICT"
+        },
+        "topic": "TALK_MAID_ALLY",
+        "effect": "npc_gets_item"
       },
       {
         "text": "Let's trade items",
@@ -186,18 +209,6 @@
         "condition": { "npc_has_trait": "HALLUCINATION" },
         "switch": true,
         "default": false
-      },
-      {
-        "text": "I want you to use this item.",
-        "condition": { "not": { "or": [ "is_by_radio", { "npc_has_trait": "MAID_RESTRICT" } ] } },
-        "topic": "TALK_MAID_ALLY",
-        "effect": "npc_gets_item_to_use"
-      },
-      {
-        "text": "Hold on to this item.",
-        "condition": { "not": { "or": [ "is_by_radio", { "npc_has_trait": "MAID_RESTRICT" } ] } },
-        "topic": "TALK_MAID_ALLY",
-        "effect": "npc_gets_item"
       },
       {
         "text": "Guard this position.",
@@ -271,7 +282,7 @@
     "type": "talk_topic",
     "dynamic_line": "With my life, master!",
     "responses": [
-      { "text": "I need you to come with me.", "topic": "TALK_MAID_ALLY", "effect": "stop_guard" },
+      { "text": "I need you to come with me.", "topic": "TALK_MAID_ALLY", "effect": "follow_only" },
       { "text": "See you around.", "topic": "TALK_DONE" }
     ]
   },
