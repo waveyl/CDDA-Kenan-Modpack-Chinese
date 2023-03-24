@@ -8,9 +8,9 @@
  {
   "key": "6083f1267c21232f357936470b57db46",
   "original": "Adds new hairstyles, tattoos, makeup, and cosmetic injuries. Intended for use with player models from MSXotto+ and its derivative tilesets. Maintained by Neon. All sprites created by Whaley.",
-  "translation": "Adds new hairstyles, tattoos, makeup, and cosmetic injuries. Intended for use with player models from MSXotto+ and its derivative tilesets. Maintained by Neon. All sprites created by Whaley.",
+  "translation": "新增发型、纹身、美妆和伤痕妆。适用于MSXotto+及其衍生贴图中的角色模型。模组由Neon维护，其中贴图均由Whaley创作。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→MOD_INFO→[0]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0e0407fb14e399066e797c9866cea207",
@@ -28,23 +28,23 @@
  {
   "key": "7d9edf8dc6e6d5d5cb1fa672313897fb",
   "original": "Cosmetic wound: black eye",
-  "translation": "Cosmetic wound: black eye",
+  "translation": "伤痕妆：眼眶青肿",
   "context": "ID: COSMETIC_WOUND_BLACK_EYE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→COSMETIC_WOUND_BLACK_EYE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=COSMETIC_WOUND_BLACK_EYE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "30757faf60096183d60d1a2ddf5ff003",
   "original": "Cosmetic wound: bloodshot eyes",
-  "translation": "Cosmetic wound: bloodshot eyes",
+  "translation": "伤痕妆：带血双眼",
   "context": "ID: COSMETIC_WOUND_BLOODSHOT_EYES\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→COSMETIC_WOUND_BLOODSHOT_EYES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=COSMETIC_WOUND_BLOODSHOT_EYES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ae80cdd8985f6cbc8cebea44c903b75",
   "original": "Cosmetic wound: bloody face",
-  "translation": "Cosmetic wound: bloody face",
+  "translation": "伤痕妆： 血脸",
   "context": "ID: COSMETIC_WOUND_BLOODY_FACE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→COSMETIC_WOUND_BLOODY_FACE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=COSMETIC_WOUND_BLOODY_FACE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f8e6a4dc4eb935aa7026a92172045629",
@@ -127,40 +127,40 @@
  {
   "key": "ca8caf70f575980913f64eadd175f856",
   "original": "Facial hair: Fu Manchu moustache",
-  "translation": "Facial hair: Fu Manchu moustache",
+  "translation": "面部毛发：八字胡",
   "context": "ID: FACIAL_HAIR_FUMANCHU_MOUSTACHE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→FACIAL_HAIR_FUMANCHU_MOUSTACHE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FACIAL_HAIR_FUMANCHU_MOUSTACHE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6ad976b598c30fdc33b117c21186e961",
   "original": "Facial hair: long thin moustache",
-  "translation": "Facial hair: long thin moustache",
+  "translation": "面部毛发：细长胡",
   "context": "ID: FACIAL_HAIR_DALI_MOUSTACHE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→FACIAL_HAIR_DALI_MOUSTACHE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FACIAL_HAIR_DALI_MOUSTACHE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3a5b3be8df834b1422eb4a913311299b",
   "original": "Female Hair: Black Pigtail",
-  "translation": "女性头发：黑色长辫",
-  "stage": 5
+  "translation": "女性头发：黑色马尾",
+  "stage": 3
  },
  {
   "key": "6509048c07464249aab2fa9acf74168d",
   "original": "Female Hair: Blonde Pigtail",
-  "translation": "女性头发：金色长辫",
-  "stage": 5
+  "translation": "女性头发：金色马尾",
+  "stage": 3
  },
  {
   "key": "4ca72fa3970fd705c757897d48190bb7",
   "original": "Female Hair: Brunette Chelsea Cut",
-  "translation": "女性头发：深棕色切尔西式短发",
-  "stage": 5
+  "translation": "女性头发：深棕色切尔西短发",
+  "stage": 3
  },
  {
   "key": "c261707cb8ec9c9a99a2cebcfab31c98",
   "original": "Female Hair: Brunette Pigtail",
-  "translation": "女性头发：深棕色长辫",
-  "stage": 5
+  "translation": "女性头发：深棕色马尾",
+  "stage": 3
  },
  {
   "key": "4f849fbf6cf227b96e26895d05b7b30e",
@@ -183,7 +183,7 @@
  {
   "key": "77318e7064ffa1e6abdfa91b8d5d5197",
   "original": "Female Hair: Bushytail Brunette with Bow",
-  "translation": "女性头发：深棕色带蝴蝶结蓬松马尾",
+  "translation": "女性头发：带蝴蝶结深棕色蓬松马尾",
   "stage": 3
  },
  {
@@ -213,26 +213,26 @@
  {
   "key": "b459a8db1734a44e55253757b3daa9a8",
   "original": "Female Hair: Flapper Black",
-  "translation": "女性头发：黑色燕尾服头发",
-  "stage": 5
+  "translation": "女性头发：黑色燕尾服",
+  "stage": 3
  },
  {
   "key": "f4b969f2d33ea8e72c91b8cd984acb19",
   "original": "Female Hair: Flapper Blonde",
-  "translation": "女性头发：金色燕尾服头发",
-  "stage": 5
+  "translation": "女性头发：金色燕尾服短发",
+  "stage": 3
  },
  {
   "key": "bf05a6e6c29c6d5d2695f2ae2c747a0e",
   "original": "Female Hair: Flapper Blue Hair",
-  "translation": "女性头发：蓝色燕尾服头发",
-  "stage": 5
+  "translation": "女性头发：蓝色燕尾服短发",
+  "stage": 3
  },
  {
   "key": "d34df3f8f3cb479000cff63d1aa7e08c",
   "original": "Female Hair: Flapper Brunette",
-  "translation": "女性头发：深棕色燕尾服头发",
-  "stage": 5
+  "translation": "女性头发：深棕色燕尾服短发",
+  "stage": 3
  },
  {
   "key": "1d14f90a5046ac9ff09ee87d73817be0",
@@ -273,14 +273,8 @@
  {
   "key": "b0779aab8661db846ac2784f03ef9b58",
   "original": "Female Hair: Modern Green",
-  "translation": "女性头发：绿色太空时代",
-  "stage": 2
- },
- {
-  "key": "66199d46247650a702408fe8390b7452",
-  "original": "Female Hair: Modern Pink",
-  "translation": "",
-  "stage": 0
+  "translation": "女性头发：摩登绿",
+  "stage": 3
  },
  {
   "key": "a7083d9f9ae8569b4fd19e3030e0f2b7",
@@ -327,7 +321,7 @@
  {
   "key": "e8546268790cc4780bdc4581b86b936f",
   "original": "Female Hair: QuadTail Brunette with Bows.",
-  "translation": "女性的头发：深棕色带蝴蝶结四股马尾",
+  "translation": "女性的头发：带蝴蝶结深棕色四股马尾",
   "stage": 3
  },
  {
@@ -393,387 +387,387 @@
  {
   "key": "676b6e43cac400c7e818ed9fb8f72788",
   "original": "Hair: black, extra long",
-  "translation": "Hair: black, extra long",
+  "translation": "头发：超长黑发",
   "context": "ID: HAIR_EXTRALONG_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_EXTRALONG_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_EXTRALONG_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0128e618f5bf2579c4c1445e58c1ed17",
   "original": "Hair: black, flapper",
-  "translation": "Hair: black, flapper",
+  "translation": "头发：黑色燕尾服头发",
   "context": "ID: HAIR_FLAPPER_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_FLAPPER_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_FLAPPER_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8dc5e8fab44015029c4cf8f9d5c1e8b3",
   "original": "Hair: black, half ponytail",
-  "translation": "Hair: black, half ponytail",
+  "translation": "头发：黑色半扎马尾",
   "context": "ID: HAIR_LONGWAVY_PONY_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_PONY_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_PONY_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c26217cd74a39d21a50a2bcf01d35e30",
   "original": "Hair: black, long slick",
-  "translation": "Hair: black, long slick",
+  "translation": "头发：黑色梳背头",
   "context": "ID: HAIR_LONGSLICK_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGSLICK_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGSLICK_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a3140b4b130b0231e8fa763562f9f5a9",
   "original": "Hair: black, long wavy",
-  "translation": "Hair: black, long wavy",
+  "translation": "头发：黑色波浪长发",
   "context": "ID: HAIR_LONGWAVY_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "31d09cc19eac52556afe306031184bec",
   "original": "Hair: black, mullet",
-  "translation": "Hair: black, mullet",
+  "translation": "头发：黑色鲑鱼头",
   "context": "ID: HAIR_MULLET_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_MULLET_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_MULLET_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "50c094060638cf151d0728f8024b1e5f",
   "original": "Hair: black, nerdy",
-  "translation": "Hair: black, nerdy",
+  "translation": "头发：黑色宅卷发",
   "context": "ID: HAIR_NERDY_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_NERDY_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_NERDY_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "da85128307d6646f89d17291ef1130a4",
   "original": "Hair: black, pigtails",
-  "translation": "Hair: black, pigtails",
+  "translation": "头发：黑色双马尾",
   "context": "ID: HAIR_PIGTAILS_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PIGTAILS_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PIGTAILS_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cfc33689ad405c3a2fea914124da64bc",
   "original": "Hair: black, ponytail (alt)",
-  "translation": "Hair: black, ponytail (alt)",
+  "translation": "头发：黑色另类马尾",
   "context": "ID: HAIR_PONY_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PONY_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PONY_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d2e48a82f91b498d6ad3d2aa9e96517d",
   "original": "Hair: black, receding",
-  "translation": "Hair: black, receding",
+  "translation": "头发：黑色露额短发",
   "context": "ID: HAIR_RECEDING_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_RECEDING_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_RECEDING_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1a44ecd5785c1960425b2a6805fbf349",
   "original": "Hair: black, straight draped",
-  "translation": "Hair: black, straight draped",
+  "translation": "头发：黑色披肩长发",
   "context": "ID: HAIR_DRAPED_BLACK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_DRAPED_BLACK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_DRAPED_BLACK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "efd3cf7f8aa30e96b29a3f29b4d97537",
   "original": "Hair: blond, extra long",
-  "translation": "Hair: blond, extra long",
+  "translation": "头发：超长金发",
   "context": "ID: HAIR_EXTRALONG_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_EXTRALONG_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_EXTRALONG_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d5c9f498e06ebb126d2ee34115130286",
   "original": "Hair: blond, flapper",
-  "translation": "Hair: blond, flapper",
+  "translation": "头发：金色燕尾服短发",
   "context": "ID: HAIR_FLAPPER_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_FLAPPER_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_FLAPPER_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f683eece99197118738fae87fe73ded8",
   "original": "Hair: blond, half ponytail",
-  "translation": "Hair: blond, half ponytail",
+  "translation": "头发：金色半扎马尾",
   "context": "ID: HAIR_LONGWAVY_PONY_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_PONY_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_PONY_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7c1f8cfb877df98132838fdb8cefe54a",
   "original": "Hair: blond, long slick",
-  "translation": "Hair: blond, long slick",
+  "translation": "头发：金色梳背头",
   "context": "ID: HAIR_LONGSLICK_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGSLICK_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGSLICK_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "30a8c63d81ee0f91ede91f82928095c8",
   "original": "Hair: blond, long wavy",
-  "translation": "Hair: blond, long wavy",
+  "translation": "头发：金色波浪长发",
   "context": "ID: HAIR_LONGWAVY_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1896ffbede2c0233c29f9099bc0683b6",
   "original": "Hair: blond, mullet",
-  "translation": "Hair: blond, mullet",
+  "translation": "头发：金色鲑鱼头",
   "context": "ID: HAIR_MULLET_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_MULLET_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_MULLET_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "04d45dd9dc9a78cb46eb730506084028",
   "original": "Hair: blond, pigtails",
-  "translation": "Hair: blond, pigtails",
+  "translation": "头发：金色双马尾",
   "context": "ID: HAIR_PIGTAILS_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PIGTAILS_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PIGTAILS_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dd52bca799434a4df13aacbd0524560f",
   "original": "Hair: blond, ponytail (alt)",
-  "translation": "Hair: blond, ponytail (alt)",
+  "translation": "头发：金色另类马尾",
   "context": "ID: HAIR_PONY_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PONY_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PONY_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e37ce13e59947f0fcc75ba0d81ff028d",
   "original": "Hair: blond, quadtails",
-  "translation": "Hair: blond, quadtails",
+  "translation": "头发：金色四股马尾",
   "context": "ID: HAIR_QUADTAILS_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_QUADTAILS_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_QUADTAILS_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1ae8126b5597e8d33a3ab940298846a",
   "original": "Hair: blond, receding",
-  "translation": "Hair: blond, receding",
+  "translation": "头发：金色露额短发",
   "context": "ID: HAIR_RECEDING_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_RECEDING_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_RECEDING_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c40de0e5be3454ae5687cfa5ba1e107b",
   "original": "Hair: blond, straight draped",
-  "translation": "Hair: blond, straight draped",
+  "translation": "头发：金色披肩长发",
   "context": "ID: HAIR_DRAPED_BLONDE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_DRAPED_BLONDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_DRAPED_BLONDE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25ce66e66582e55cc6905971ef40c55e",
   "original": "Hair: blue, flapper",
-  "translation": "Hair: blue, flapper",
+  "translation": "头发：蓝色燕尾服短发",
   "context": "ID: HAIR_FLAPPER_BLUE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_FLAPPER_BLUE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_FLAPPER_BLUE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5a24b2ac6983cc34c867f63bb7f1eb29",
   "original": "Hair: brown, Chelsea",
-  "translation": "Hair: brown, Chelsea",
+  "translation": "头发：深棕色切尔西短发",
   "context": "ID: HAIR_CHELSEA_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_CHELSEA_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_CHELSEA_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "23270e7510827c3cd5ab4355b5c8c3cd",
   "original": "Hair: brown, dreads",
-  "translation": "Hair: brown, dreads",
+  "translation": "头发：深棕色脏辫",
   "context": "ID: HAIR_DREADS_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_DREADS_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_DREADS_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8ab901827cc21e40aa4133c57b41f0fd",
   "original": "Hair: brown, extra long",
-  "translation": "Hair: brown, extra long",
+  "translation": "头发：超长深棕发",
   "context": "ID: HAIR_EXTRALONG_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_EXTRALONG_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_EXTRALONG_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4300bbc768b2ff0ad31c0379bd44d946",
   "original": "Hair: brown, flapper",
-  "translation": "Hair: brown, flapper",
+  "translation": "头发：深棕色燕尾服短发",
   "context": "ID: HAIR_FLAPPER_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_FLAPPER_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_FLAPPER_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb91905ce693b7b4f15bc818e4d647fa",
   "original": "Hair: brown, half ponytail",
-  "translation": "Hair: brown, half ponytail",
+  "translation": "头发：深棕色半扎马尾",
   "context": "ID: HAIR_LONGWAVY_PONY_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_PONY_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_PONY_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f434771cb8df789926d5daeedfa58edf",
   "original": "Hair: brown, half ponytail with bow",
-  "translation": "Hair: brown, half ponytail with bow",
+  "translation": "头发：带蝴蝶结深棕色半扎马尾",
   "context": "ID: HAIR_LONGWAVY_PONY_BOW_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_PONY_BOW_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_PONY_BOW_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "139fdb9c7699a1b8fabbdd1f9b6f4efe",
   "original": "Hair: brown, long slick",
-  "translation": "Hair: brown, long slick",
+  "translation": "头发：深棕色梳背头",
   "context": "ID: HAIR_LONGSLICK_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGSLICK_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGSLICK_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "be63c592affa0d48453cda7d46e353ff",
   "original": "Hair: brown, long wavy",
-  "translation": "Hair: brown, long wavy",
+  "translation": "头发：深棕色波浪长发",
   "context": "ID: HAIR_LONGWAVY_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a26fc5739a201dd537b3d073e2a8cbda",
   "original": "Hair: brown, mullet",
-  "translation": "Hair: brown, mullet",
+  "translation": "头发：深棕色鲑鱼头",
   "context": "ID: HAIR_MULLET_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_MULLET_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_MULLET_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb9d04b6bbe9be07a596e4c474a8e97f",
   "original": "Hair: brown, nerdy",
-  "translation": "Hair: brown, nerdy",
+  "translation": "头发：深棕色宅卷发",
   "context": "ID: HAIR_NERDY_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_NERDY_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_NERDY_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "803a054544610d5babf5d1740f686e54",
   "original": "Hair: brown, pigtails",
-  "translation": "Hair: brown, pigtails",
+  "translation": "头发：深棕色双马尾",
   "context": "ID: HAIR_PIGTAILS_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PIGTAILS_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PIGTAILS_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "78cd62e0dd4233017c984939dd0ffc34",
   "original": "Hair: brown, ponytail (alt)",
-  "translation": "Hair: brown, ponytail (alt)",
+  "translation": "头发：深棕色另类马尾",
   "context": "ID: HAIR_PONY_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PONY_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PONY_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "53efd81a126456d788eddf3ffc9b2f06",
   "original": "Hair: brown, quadtails",
-  "translation": "Hair: brown, quadtails",
+  "translation": "头发：深棕色四股马尾",
   "context": "ID: HAIR_QUADTAILS_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_QUADTAILS_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_QUADTAILS_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f8339bc7834442577a80621f88551c1b",
   "original": "Hair: brown, quadtails with bows",
-  "translation": "Hair: brown, quadtails with bows",
+  "translation": "头发：带蝴蝶结深棕色四股马尾",
   "context": "ID: HAIR_QUADTAILS_BOW_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_QUADTAILS_BOW_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_QUADTAILS_BOW_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25a0d1729c28d04590ef64e6c5aebec7",
   "original": "Hair: brown, receding",
-  "translation": "Hair: brown, receding",
+  "translation": "头发：深棕色露额短发",
   "context": "ID: HAIR_RECEDING_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_RECEDING_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_RECEDING_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b47868884741f5e3841b11aaa6fea790",
   "original": "Hair: brown, straight draped",
-  "translation": "Hair: brown, straight draped",
+  "translation": "头发：深棕色披肩长发",
   "context": "ID: HAIR_DRAPED_BROWN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_DRAPED_BROWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_DRAPED_BROWN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "83d6ed953f2741a9e7769ea217205a26",
   "original": "Hair: elemental, fire ponytail",
-  "translation": "Hair: elemental, fire ponytail",
+  "translation": "头发：赤火马尾",
   "context": "ID: HAIR_PONY_FIRE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PONY_FIRE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PONY_FIRE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "48c37d7d96f4123af7c14a7dc998f31a",
   "original": "Hair: elemental, ice ponytail",
-  "translation": "Hair: elemental, ice ponytail",
+  "translation": "头发：冰霜马尾",
   "context": "ID: HAIR_PONY_ICE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_PONY_ICE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_PONY_ICE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ee7224e20cb4eefdb1a495646bfecfd7",
   "original": "Hair: gray, long slick",
-  "translation": "Hair: gray, long slick",
+  "translation": "头发：灰色梳背头",
   "context": "ID: HAIR_LONGSLICK_GRAY\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGSLICK_GRAY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGSLICK_GRAY",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a317e28c5931601f14c8af2ee3c303f8",
   "original": "Hair: green, space-age",
-  "translation": "Hair: green, space-age",
+  "translation": "头发：绿色太空时代短发",
   "context": "ID: HAIR_SPACEAGE_GREEN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_SPACEAGE_GREEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_SPACEAGE_GREEN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "58ac4cb223cb461928fdeb2dc482fb90",
   "original": "Hair: ombre, wavy blonde/blue",
-  "translation": "Hair: ombre, wavy blonde/blue",
+  "translation": "头发：金蓝渐变色波浪发",
   "context": "ID: HAIR_LONGWAVY_OMBRE_BLONDEBLUE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_OMBRE_BLONDEBLUE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_OMBRE_BLONDEBLUE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "34753af941f2b2720bf716774486bf3f",
   "original": "Hair: ombre, wavy green/pink",
-  "translation": "Hair: ombre, wavy green/pink",
+  "translation": "头发：绿粉渐变色波浪发",
   "context": "ID: HAIR_LONGWAVY_OMBRE_GREENPINK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_OMBRE_GREENPINK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_OMBRE_GREENPINK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "72fc675bf813cbba5c35f0fe3f188e03",
   "original": "Hair: ombre, wavy magenta/cyan",
-  "translation": "Hair: ombre, wavy magenta/cyan",
+  "translation": "头发：品红青渐变色波浪发",
   "context": "ID: HAIR_LONGWAVY_OMBRE_MAGENTACYAN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_LONGWAVY_OMBRE_MAGENTACYAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_LONGWAVY_OMBRE_MAGENTACYAN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1315daacdda2a2da58cd03c96dbfdbb3",
   "original": "Hair: pink, space-age",
-  "translation": "Hair: pink, space-age",
+  "translation": "头发：粉色太空时代短发",
   "context": "ID: HAIR_SPACEAGE_PINK\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_SPACEAGE_PINK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_SPACEAGE_PINK",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2021a1d21c1dbe167222e91247e742c7",
   "original": "Hair: red, extra long",
-  "translation": "Hair: red, extra long",
+  "translation": "头发：超长红发",
   "context": "ID: HAIR_EXTRALONG_RED\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_EXTRALONG_RED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_EXTRALONG_RED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e289f73c8d11f994206f974ffa6da733",
   "original": "Hair: red, front pigtails",
-  "translation": "Hair: red, front pigtails",
+  "translation": "头发：红色露额双马尾",
   "context": "ID: HAIR_FRONTPIGTAILS_RED\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→HAIR_FRONTPIGTAILS_RED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HAIR_FRONTPIGTAILS_RED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b53f79ab0ff11ed9588b888006665f1c",
   "original": "Makeup (eyes): angry eyebrows",
-  "translation": "Makeup (eyes): angry eyebrows",
+  "translation": "眼妆：怒眉",
   "context": "ID: MAKEUP_EYES_EYEBROWS_ANGRY\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→MAKEUP_EYES_EYEBROWS_ANGRY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAKEUP_EYES_EYEBROWS_ANGRY",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d69487e582eddc74ea73e34a0d22f495",
   "original": "Makeup (eyes): dark circles",
-  "translation": "Makeup (eyes): dark circles",
+  "translation": "眼妆：黑眼圈",
   "context": "ID: MAKEUP_EYES_DARK_CIRCLES\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→MAKEUP_EYES_DARK_CIRCLES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAKEUP_EYES_DARK_CIRCLES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f6dfe3fc959d863e80bd94ebd72ecff3",
   "original": "Makeup (eyes): eyeliner blue",
-  "translation": "Makeup (eyes): eyeliner blue",
+  "translation": "眼妆：蓝色眼线",
   "context": "ID: MAKEUP_EYES_EYELINER_BLUE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→MAKEUP_EYES_EYELINER_BLUE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAKEUP_EYES_EYELINER_BLUE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "02180ba05b271a06798f9ed5fa6adb5e",
   "original": "Makeup (eyes): eyeliner green",
-  "translation": "Makeup (eyes): eyeliner green",
+  "translation": "眼妆：绿色眼线",
   "context": "ID: MAKEUP_EYES_EYELINER_GREEN\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→MAKEUP_EYES_EYELINER_GREEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAKEUP_EYES_EYELINER_GREEN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8cbee5b1f5529fb7984b1a7b6fb57184",
   "original": "Makeup (eyes): eyeliner red",
-  "translation": "Makeup (eyes): eyeliner red",
+  "translation": "眼妆：红色眼线",
   "context": "ID: MAKEUP_EYES_EYELINER_RED\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→MAKEUP_EYES_EYELINER_RED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAKEUP_EYES_EYELINER_RED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bd0f002397b91534aaa77d4f58225336",
   "original": "Makeup (eyes): mascara running",
-  "translation": "Makeup (eyes): mascara running",
+  "translation": "眼妆：睫毛膏晕染",
   "context": "ID: MAKEUP_EYES_MASCARA_RUNNING\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→MAKEUP_EYES_MASCARA_RUNNING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAKEUP_EYES_MASCARA_RUNNING",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "94978873ca451816f121a477ab98cfd3",
@@ -841,67 +835,67 @@
  {
   "key": "2786d32fc378bf8dc8d9acfccd15ef7c",
   "original": "Male Hair: Nerdy Black",
-  "translation": "男性头发：黑色书呆子发型",
-  "stage": 2
+  "translation": "男性头发：黑色宅卷发",
+  "stage": 3
  },
  {
   "key": "442d76d1105c56bef8f1486a28ab45ed",
   "original": "Male Hair: Nerdy Brunette",
-  "translation": "男性头发：深棕色书呆子发型",
-  "stage": 2
+  "translation": "男性头发：深棕色宅卷发",
+  "stage": 3
  },
  {
   "key": "e535dddb959dfb23c966c8f2f2a21c6d",
   "original": "Male Hair: Slicked Back Black",
-  "translation": "男性头发：黑色背头",
-  "stage": 3
+  "translation": "男性头发：黑色梳背头",
+  "stage": 5
  },
  {
   "key": "cbc476f5d9058228490f8fce5bb0ee11",
   "original": "Male Hair: Slicked Back Blonde",
-  "translation": "男性头发：金色背头",
-  "stage": 3
+  "translation": "男性头发：金色梳背头",
+  "stage": 5
  },
  {
   "key": "03eef3f2bd3d03ea2a9011f3461676c6",
   "original": "Male Hair: Slicked Back Brunette",
-  "translation": "男性头发：深棕色背头",
-  "stage": 3
+  "translation": "男性头发：深棕色梳背头",
+  "stage": 5
  },
  {
   "key": "5014aed30da871e62f0064b142022ee6",
   "original": "Male Hair: Slicked Back Gray",
-  "translation": "男性头发：灰色背头",
-  "stage": 3
+  "translation": "男性头发：灰色梳背头",
+  "stage": 5
  },
  {
   "key": "4149b9f10e7160ebe818615445b85414",
   "original": "Male Tattoo: Chest Cross",
-  "translation": "男性纹身：胸口十字",
-  "stage": 3
+  "translation": "男性纹身：胸前十字纹身",
+  "stage": 5
  },
  {
   "key": "0df44e9d9dae482633a295b0cdb942c3",
   "original": "Male Tattoo: Face Covered",
-  "translation": "男性纹身：脸部全遮",
-  "stage": 3
+  "translation": "男性纹身：全脸纹身",
+  "stage": 5
  },
  {
   "key": "71f6dca8d13cb6cec2df114f5d8c690f",
   "original": "Male Tattoo: Face Less Covered",
-  "translation": "男性纹身：脸部半遮",
-  "stage": 3
+  "translation": "男性纹身：半脸纹身",
+  "stage": 5
  },
  {
   "key": "ec468db5b14089da478ae87049d374cd",
   "original": "Male Tattoo: Left Arm Blackout",
-  "translation": "男性纹身：左臂黑块",
-  "stage": 3
+  "translation": "男性纹身：左臂黑洞",
+  "stage": 5
  },
  {
   "key": "fe112c1f7de67178e3cb8e8a42ff5a94",
   "original": "Male Tattoo: Right Arm Wire",
-  "translation": "男性纹身：右臂折线",
+  "translation": "男性纹身：右臂线条纹身",
   "stage": 3
  },
  {
@@ -991,13 +985,13 @@
  {
   "key": "676227f9a02c4cf736eebf2e6767e0a0",
   "original": "Whaleys Hair Mod (UDP Tweaks)",
-  "translation": "威利的头发mod（微调UDP）",
-  "stage": 5
+  "translation": "威利的头发Mod（微调UDP）",
+  "stage": 3
  },
  {
   "key": "44d0ca870e6998f8a63e5f4568fd3189",
   "original": "You have Black Flapper Hair.",
-  "translation": "你有一头黑色的燕尾服头发。",
+  "translation": "你有一头黑色的燕尾服短发。",
   "stage": 3
  },
  {
@@ -1009,7 +1003,7 @@
  {
   "key": "978a38fe362c628a7e330671fb2ba430",
   "original": "You have Blonde Flapper Hair.",
-  "translation": "你有一头金色的新潮短发。",
+  "translation": "你有一头金色的燕尾服短发。",
   "stage": 3
  },
  {
@@ -1021,7 +1015,7 @@
  {
   "key": "a738e8fdc4ee1b80c618f85c4f665983",
   "original": "You have Blue Flapper Hair.",
-  "translation": "你有一头蓝色的新潮短发。",
+  "translation": "你有一头蓝色的燕尾服短发。",
   "stage": 3
  },
  {
@@ -1033,37 +1027,37 @@
  {
   "key": "8f5250f8e5515d2c67a31fdf497760f1",
   "original": "You have Brunette Flapper Hair.",
-  "translation": "你有一头深褐色的新潮短发。",
+  "translation": "你有一头深棕色的燕尾服头发。",
   "stage": 3
  },
  {
   "key": "96db208d65194970aeeeaed3727198f7",
   "original": "You have Brunette Receeding Hair.",
-  "translation": "你有一头深褐色的露额短发。",
+  "translation": "你有一头深棕色的露额短发。",
   "stage": 3
  },
  {
   "key": "377248beb9dcac815343dd808132fd11",
   "original": "You have Brunette dreads Hair.",
-  "translation": "你有一头深褐色的脏辫。",
+  "translation": "你有一头深棕色的脏辫。",
   "stage": 3
  },
  {
   "key": "6131b55cd1c1745d805f5acf9afc1e78",
   "original": "You have Long Wavy Blue and Yellow Hair.",
-  "translation": "你有一头蓝黄相间的长卷发。",
+  "translation": "你有一头蓝黄相间的波浪长发。",
   "stage": 3
  },
  {
   "key": "13c80a09e76b42923ad0fa3489a482e2",
   "original": "You have Long Wavy Pink and Green Hair.",
-  "translation": "你有一头粉绿相间的长卷发。",
+  "translation": "你有一头粉绿相间的波浪长发。",
   "stage": 3
  },
  {
   "key": "fdf664b29727bee8806e629e0e4ec110",
   "original": "You have Long Wavy Purple and Blue Hair.",
-  "translation": "你有一头紫蓝相间的长卷发。",
+  "translation": "你有一头紫蓝相间的波浪长发。",
   "stage": 3
  },
  {
@@ -1081,37 +1075,37 @@
  {
   "key": "ff5ee66cec8f6ef94d2510b393c1538a",
   "original": "You have Long brunette Hair with bits hanging in front.",
-  "translation": "你有一头前发下垂的深褐色长发。",
+  "translation": "你有一头前发下垂的深棕色长发。",
   "stage": 3
  },
  {
   "key": "ea30b1ff87c98819ce7f41e34bd156e5",
   "original": "You have Long slicked back black Hair.",
-  "translation": "你有一头黑色的大背头。",
+  "translation": "你有一头黑色的梳背头。",
   "stage": 3
  },
  {
   "key": "c880401836616bc3c958c9ae8a74140b",
   "original": "You have Long slicked back blonde Hair.",
-  "translation": "你有一头金色的大背头。",
+  "translation": "你有一头金色的梳背头。",
   "stage": 3
  },
  {
   "key": "cafdbce95bf8abc0ece27387ff4cff7b",
   "original": "You have Long slicked back brunette Hair.",
-  "translation": "你有一头褐色的大背头。",
+  "translation": "你有一头深棕色的梳背头。",
   "stage": 3
  },
  {
   "key": "f3a94aa44da7aac0942ef7ba29cb5b6f",
   "original": "You have Long slicked back gray Hair.",
-  "translation": "你有一头灰色的大背头。",
+  "translation": "你有一头灰色的梳背头。",
   "stage": 3
  },
  {
   "key": "809867ed58b37714dcd28dc1895590e0",
   "original": "You have Mascara running down your face.",
-  "translation": "你把睫毛膏晕染在脸上。",
+  "translation": "你的睫毛膏晕染在脸上。",
   "stage": 3
  },
  {
@@ -1123,13 +1117,13 @@
  {
   "key": "b23ca67977eb5efd0213e5c62e9df178",
   "original": "You have QuadTail Brunette Hair with Bows.",
-  "translation": "你有一头深褐色的带蝴蝶结的四股马尾。",
+  "translation": "你有一头带蝴蝶结的深棕色四股马尾。",
   "stage": 3
  },
  {
   "key": "68e91e1ee9b9d6c462c6ad30c0cf30f8",
   "original": "You have QuadTail Brunette Hair.",
-  "translation": "你有一头深褐色的四股马尾。",
+  "translation": "你有一头深棕色的四股马尾。",
   "stage": 3
  },
  {
@@ -1168,7 +1162,7 @@
  {
   "key": "7d9de4db3d44ac95b2a1022907e4b5dc",
   "original": "You have a black eye.",
-  "translation": "你的眼睛是黑的。",
+  "translation": "你的眼睛是黑色的。",
   "context": "ID: COSMETIC_WOUND_BLACK_EYE\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→COSMETIC_WOUND_BLACK_EYE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=COSMETIC_WOUND_BLACK_EYE",
   "stage": 3
  },
@@ -1195,14 +1189,14 @@
  {
   "key": "37dda7f709d03c007bf529947fcca559",
   "original": "You have a blackout tattoo on your left arm.",
-  "translation": "你的左臂上有个黑刺青。",
+  "translation": "你的左臂上有黑洞般的纹身。",
   "context": "ID: TATTOO_LARM_BLACKOUT\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→TATTOO_LARM_BLACKOUT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TATTOO_LARM_BLACKOUT",
   "stage": 3
  },
  {
   "key": "c473697a19ac079cb64c3975a26152a5",
   "original": "You have a blackout tattoo on your right arm.",
-  "translation": "你的右臂上有个黑刺青。",
+  "translation": "你的右臂上有黑洞般的纹身。",
   "context": "ID: TATTOO_RARM_BLACKOUT\n位于 /Kenan-Structured-Modpack/whaleys-hair-and-tattoo/whaley_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#whaleys-hair-and-tattoo→mutation→TATTOO_RARM_BLACKOUT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TATTOO_RARM_BLACKOUT",
   "stage": 3
  },
