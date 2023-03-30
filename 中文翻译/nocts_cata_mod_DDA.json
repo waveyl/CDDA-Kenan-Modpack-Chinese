@@ -3185,8 +3185,8 @@
  {
   "key": "d95bf4cefba65990728708a41ff6aaa5",
   "original": "Find A Bio-Weapon Badge",
-  "translation": "找到一个生化武器徽章。",
-  "stage": 1
+  "translation": "寻找一枚生化武器徽章。",
+  "stage": 3
  },
  {
   "key": "2ec37168e4995a5a01a3e3259e9ee0da",
@@ -3268,16 +3268,16 @@
  {
   "key": "12c9952b7a74e813e305a05efb7aafc9",
   "original": "Further building on the developments that went into the UPS rifle, this integrates a hand crank and capacitors to charge a custom-made power cell.  Activate it to recharge a loaded capacitor bank, or to ready it for firing.",
-  "translation": "在幸存者 UPS步枪的基础上进一步改造，用集成的手摇柄和电容器为自制动力电池充电。无限弹药，以可靠性为代价。激活它以充能电容器，或准备发射。",
+  "translation": "在幸存者UPS步枪的基础上进一步改造，用集成的手摇柄和电容器为自制动力电池充电。无限弹药，但可靠性有所不足。激活它以充能电容器，或准备发射。",
   "context": "ID: ups_rifle_crank_charge\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→ups_rifle_crank_charge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ups_rifle_crank_charge",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9cc0dcbffd964b6334f5e9d22f68edfd",
   "original": "Further building on the developments that went into the UPS rifle, this integrates a hand crank and capacitors to charge a custom-made power cell.  Infinite ammo at the cost of reliability.  Use it to ready the hand-crank charger, allowing you to recharge loaded capacitor banks.",
-  "translation": "在幸存者 UPS步枪的基础上进一步改造，用集成的手摇柄和电容器为自制动力电池充电。无限弹药，以可靠性为代价。激活它以使用手摇柄，为电容器充电。",
+  "translation": "在幸存者 UPS步枪的基础上进一步改造，用集成的手摇柄和电容器为自制动力电池充电。无限弹药，但可靠性有所不足。激活它以使用手摇柄，为电容器充电。",
   "context": "ID: ups_rifle_crank\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→ups_rifle_crank\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ups_rifle_crank",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5079555f2c740ccae580ced38455f7b7",
@@ -4073,9 +4073,9 @@
  {
   "key": "0fe023e764308f0abe2a6a04e3b4242f",
   "original": "I'm one of the super soldiers, in fact.",
-  "translation": "事实上，我是超级战士之一。",
+  "translation": "事实上，我是超级战士的一员。",
   "context": "ID: TALK_BIO_2_U_BIO\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BIO_2.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BIO_2_U_BIO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BIO_2_U_BIO",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2f75f37879a1f69d2989974162317443",
@@ -6549,7 +6549,7 @@
  {
   "key": "36b8ab6a0a73a62dd0ed1c8dfa451e2b",
   "original": "That thing you are wearing… a Bio-Weapon Badge…",
-  "translation": "你戴的那个……一个生物武器徽章……",
+  "translation": "你戴的那个……生物武器徽章……",
   "context": "ID: TALK_BHUNTER\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BHUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BHUNTER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BHUNTER",
   "stage": 3
  },
@@ -8637,9 +8637,9 @@
  {
   "key": "1bc522de801a4ae821d4c87e6568b718",
   "original": "You stash your %s",
-  "translation": "你收好了%s。",
+  "translation": "你收好%s。",
   "context": "ID: legrig_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→ARMOR→legrig_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=legrig_surv",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eef99cc1bfae6d3f03a574a26bd00b35",
@@ -8672,16 +8672,16 @@
  {
   "key": "126cc74729ec66342c95b4c3e89d56ce",
   "original": "You switch the %s to its normal mode",
-  "translation": "你将%s切换到其正常模式",
+  "translation": "你将%s切换到普通模式",
   "context": "ID: c_mi_go_extruder_salvaged_alt\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→c_mi_go_extruder_salvaged_alt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_extruder_salvaged_alt",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "531884ac93ea36aee0bfb2a265d41a8a",
   "original": "You switch the %s to weaving mode",
   "translation": "你将%s切换到编织模式",
   "context": "ID: c_mi_go_extruder_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→c_mi_go_extruder_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_extruder_salvaged",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ba79dd3788cddcee7d3c28573006720a",
