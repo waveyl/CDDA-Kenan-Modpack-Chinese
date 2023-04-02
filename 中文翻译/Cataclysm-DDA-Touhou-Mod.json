@@ -1465,9 +1465,9 @@
  {
   "key": "7c2b11080ae307d81619869492330bd3",
   "original": "Cause a small burst of fire beneath your feet to launch yourself forward.",
-  "translation": "Cause a small burst of fire beneath your feet to launch yourself forward.",
+  "translation": "在脚下造成小范围的火焰爆炸使自己向前推进.",
   "context": "ID: dash_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d89ae88d9311472dedeb9f363c82416a",
@@ -1724,9 +1724,9 @@
  {
   "key": "47ca509ff9e2dd891b39adbc727c18a4",
   "original": "Create a small tornado at the location, which deals some damage and caughts the targeted enemies for a short time.",
-  "translation": "Create a small tornado at the location, which deals some damage and caughts the targeted enemies for a short time.",
+  "translation": "扇起一道小型龙卷,造成伤害并在短时间内牵制敌人.",
   "context": "ID: aya_fanwind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_fanwind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_fanwind",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "954ebc453866e9f5aa845f460ca00623",
@@ -1871,7 +1871,7 @@
  {
   "key": "3663598d5c5858b5a6040b1bbed4f187",
   "original": "Dash",
-  "translation": "火焰冲刺",
+  "translation": "冲刺",
   "context": "ID: dash_mokou2_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou2_OLD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou2_OLD",
   "stage": 1
  },
@@ -1913,9 +1913,9 @@
  {
   "key": "86af5a9941c80861ae5f8aa66ee6a897",
   "original": "Dash with great force, slashing at your enemy.",
-  "translation": "Dash with great force, slashing at your enemy.",
+  "translation": "全力冲刺, 斩向你的敌人.",
   "context": "ID: dash_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_youmu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_youmu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bdea3a5f7024712f35e4ef35afb9b5bf",
@@ -2410,9 +2410,9 @@
  {
   "key": "6ccc58c13d767efc8a1ed03ede17e365",
   "original": "Fill your legs with qi, kicking into an enemy from a distance.",
-  "translation": "Fill your legs with qi, kicking into an enemy from a distance.",
+  "translation": "使气充盈于腿部并踢向远处的敌人.",
   "context": "ID: dash_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_meiling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_meiling",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8a8f0b801308712db238ae2fde8c49e6",
@@ -3432,30 +3432,30 @@
  {
   "key": "ff575b4b39647b8fa1cf9c7ab68887c4",
   "original": "Lunatic gun",
-  "translation": "狂气之枪",
+  "translation": "月狂之枪",
   "context": "ID: bio_udonge_gun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→bionic→bio_udonge_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_udonge_gun",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "61caf4fc810120c00e69ede2e49c6f65",
   "original": "Lunatic gun (semi)",
-  "translation": "狂气之枪 (半自动)",
+  "translation": "月狂之枪(半自动)",
   "context": "ID: bio_reisen_shot\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_bionic_items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GUN→bio_reisen_shot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_reisen_shot",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "85ac02fa61648dd9acbdb6bea9c01c1c",
   "original": "Lunatic gun (shot)",
-  "translation": "狂气之枪 (射击)",
+  "translation": "月狂之枪 (射击)",
   "context": "ID: bio_udonge_shot\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_bionic_items.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GUN→bio_udonge_shot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_udonge_shot",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aff7aea0e37b97ba53fa4b2c9319d793",
   "original": "Lunatic shot",
-  "translation": "狂气射击",
+  "translation": "月狂射击",
   "context": "ID: bio_reisen_gun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→bionic→bio_reisen_gun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_reisen_gun",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "13d2e48b2e3d975cb7441c8f7b2ee70c",
@@ -4419,9 +4419,9 @@
  {
   "key": "684013067c6952936bfdfe42dfd832fb",
   "original": "Sakura slash",
-  "translation": "Sakura slash",
+  "translation": "樱花闪闪",
   "context": "ID: dash_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_youmu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_youmu",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "32aa781140c760d90051878baeadddfd",
@@ -5924,9 +5924,9 @@
  {
   "key": "bd9552b26f50708b72d5c567c34fd803",
   "original": "Use your [Unknown ability] to blink between positions.  Or vanish and reappear? For you, it's just natural.",
-  "translation": "Use your [Unknown ability] to blink between positions.  Or vanish and reappear? For you, it's just natural.",
+  "translation": "运用你的[不明能力] 在不同位置之间闪烁,又或者是凭空消失然后传送? 对你来说只是在顺其自然.",
   "context": "ID: dash_reisen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_reisen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_reisen",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2d042de93acb1b2ebe2bab41bc03be3e",
@@ -7338,9 +7338,9 @@
  {
   "key": "27ca087eee0ef0d86365d6c2654757a1",
   "original": "[Unknown ability]",
-  "translation": "[Unknown ability]",
+  "translation": "[不明能力]",
   "context": "ID: dash_reisen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_reisen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_reisen",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5ca282c8b9481c3818f05c74301e35c1",
