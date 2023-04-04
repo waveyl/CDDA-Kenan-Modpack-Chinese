@@ -4110,9 +4110,9 @@
  {
   "key": "39c6ed017654fdaa9702acc7e84557e7",
   "original": "A small container made out of a polished, glassy material resembling stone.  A shimmer of precious metal occasionally appears within the surface, as though its internal structure flowed like liquid.  Deploying it will create a temporary workspace of shifting earth, providing a hard surface usable as an anvil as well as shifting stones that can assist in metalworking and alchemy.  It can be examined afterward to reclaim it.\n\nWhen deployed it provides the following:\n* Level 3 anvil quality.\n* Level 2 boiling quality.\n* Level 2 chemical making quality.\n* Level 1 containing quality.\n* Level 1 food cooking quality.\n* Level 2 clean surface quality.\n* Additionally serves as a crucible.",
-  "translation": "一种小容器，由类似石头的抛光玻璃材料制成。贵金属的微光偶尔会出现在表面，好像它的内部结构像液体一样流动。部署它将创造一个移动地球的临时工作空间，提供一个可用作铁砧的坚硬表面，以及可以帮助金属加工和炼金术的移动石头。之后可以检查以回收它。\n\n展开时，它提供了以下特性:\n * 3级铁砧质量。\n *二级沸腾品质。\n *二级化工制造质量。\n *包含质量的1级。\n *一级食品烹饪质量。\n *二级洁净表面质量。\n *还可用作坩埚。",
+  "translation": "一个由抛光的玻璃材质制成的小容器。贵金属的微光偶尔会出现在表面，似乎它的内部结构像液体一样流动。部署它将创造一个临时的工作空间，提供一个可用作铁砧的坚硬表面，以及可以帮助金属加工和化工制造的工具。之后可以通过检视来回收。\n\n部署时，它提供了以下特性:\n *3级铁砧。\n *2级煮沸。\n *2级化工制造。\n *1级敞口容器。\n *1级食物烹调。\n *2级清洁表面。\n *还可用作坩埚。",
   "context": "ID: transmutation_crucible\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→transmutation_crucible\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=transmutation_crucible",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1173dee3598e5079053b410193062ec1",
@@ -5000,9 +5000,9 @@
  {
   "key": "cd6a3e4f16fab10e0d30a6e58286eb0d",
   "original": "A wall of solid earth permeated by thick roots.",
-  "translation": "一堵被厚厚的树根渗透的坚实的土墙。",
+  "translation": "一堵由坚实的泥土构成，穿插着粗厚根系的墙。",
   "context": "ID: t_root_wall_arcana\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→terrain→t_root_wall_arcana\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_root_wall_arcana",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b32abf0167d46175a4f8a80e311cb952",
@@ -6146,8 +6146,8 @@
  {
   "key": "c7ff28ede4e6f2d547cef0e9b1f6e4a3",
   "original": "An ornate round mirror in an archaic style, unnaturally light for its size.  Natural scenery appears to be engraved into it, and light reflected from it projects a completely different, otherworldly pattern.  It is capable of moving on its own when equipped, blocking melee attacks like a small shield.  When fueled by essence, it projects a barrier that provides less physical defense, but protects against electricity and radiation, along with partial resistance to psychic influence and extreme temperatures.",
-  "translation": "一面古旧风格的华丽的圆镜，就其尺寸而言，光线不自然。自然风光似乎被刻入其中，从它反射的光线投射出一种完全不同的、超凡脱俗的图案。装备后能够自行移动，像小盾一样阻挡近战攻击。当由精华提供燃料时，它投射出一个屏障，提供较少的物理防御，但保护免受电和辐射，以及对精神影响和极端温度的部分抵抗。",
-  "stage": 0
+  "translation": "一面有着古老的风格的华丽圆形镜子，尺寸不大但重量异常的轻。它的表面仿佛刻有自然景色，从它反射的光线中投射出完全不同的异世界图案。当被装备时，它能够自行移动，像小盾牌一样阻挡近身攻击。当使用精华激活时，它会投射出一道屏障，提供较少的物理防御，但可防止电击和辐射，同时部分抵抗心灵影响和极端温度。",
+  "stage": 3
  },
  {
   "key": "d9a81ca3fc2ff0921f1adc43180bfd48",
@@ -6166,8 +6166,8 @@
  {
   "key": "88ecd62608a3d1561b70f73795e64064",
   "original": "An ornate round mirror in an archaic style.  It has shifted into a brightly-glowing barrier that protects the user from electricity and radiation, along with partial protection from psychic influence, some resistance to extreme temperatures, and minor environmental protection.  The barrier's physical protection is half that of the mirror itself, but protects your body fully.",
-  "translation": "古旧风格的华丽圆镜。它已经转变成一个明亮发光的屏障，保护用户免受电和辐射的影响，同时部分保护用户免受精神影响，对极端温度有一定的抵抗力，以及轻微的环境保护。屏障的物理保护是镜子本身的一半，但能充分保护你的身体。",
-  "stage": 0
+  "translation": "一面有着古老风格的华丽圆形镜子。它已经转化成一个明亮发光的屏障，可保护使用者免受电击和辐射伤害，同时部分抵抗心灵影响，有一定的极端温度防护和少量的环境防护。屏障的物理保护能力是镜子本身的一半，但能完全保护你的身体。",
+  "stage": 3
  },
  {
   "key": "2a4bb7f0bdec1561dee721aa290f7c09",
@@ -17411,9 +17411,9 @@
  {
   "key": "dc4e4b3b55fb4e0800545b685eddba50",
   "original": "Magic Sign\nUsing this spell will grant protection against paralytic effects, grabs, and other hindrances, along with freezing time briefly to allow an escape.  It can be used on yourself or an ally.",
-  "translation": "魔法符号\n使用这个法术将提供对麻痹效果、抓取和其他障碍的保护，以及短暂的冻结时间以允许逃跑。可以用在自己身上，也可以用在盟友身上。",
+  "translation": "法术魔印\n将获得对瘫痪效果、抓取和其他障碍的保护，同时短暂冻结时间以允许逃跑。它可以在自己或盟友身上使用。",
   "context": "ID: arcana_magic_free_action\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_free_action\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_free_action",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a7aa7d2041ce939b95f9d65c4203d497",
@@ -20640,9 +20640,9 @@
  {
   "key": "cfe03b77e8447461f761eb6330a6e62f",
   "original": "Overuse of Magic Signs increases fatigue gain.",
-  "translation": "过度使用魔法符号会增加疲劳增益。",
+  "translation": "过度使用法术魔印会增加疲劳。",
   "context": "ID: magic_sign_exertion\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→magic_sign_exertion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magic_sign_exertion",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "6f134bcc8f466a86c5ef6b6929d4e484",
