@@ -2502,7 +2502,7 @@
  {
   "key": "8a7d1ba1d7fff7e6c264b5a4290d385a",
   "original": "A charm of living essence wrapped around what looks to be a ghostly image of a silver glyph.  A mi-go has been bound into this after a successful summon, activate to redeploy it.",
-  "translation": "一个被幽灵般的银色符文包裹着的生命源质护符。一只米·戈与之绑定，激活它来召唤米·戈。",
+  "translation": "一个被幽灵般的银色符文包裹着的生命源质护符，一只米·戈与之绑定。激活它来召唤米·戈。",
   "context": "ID: summon_mi_go_bound\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go_bound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go_bound",
   "stage": 3
  },
@@ -4679,16 +4679,16 @@
  {
   "key": "e6bfc3c5f0eeedee14ed9d9b879f0bee",
   "original": "A strange silver emblem, engraved with depictions of strange chitinous entities.  Using it will call forth a mi-go, and bind it to your will.  Hopefully.",
-  "translation": "一种奇怪的银徽章，上面刻有奇怪的几丁质实体的描绘。使用它会将一个米·戈与你的意志绑定在一起。如果成功的话。",
+  "translation": "一个奇怪的银徽章，上面刻有奇怪的几丁质实体的图案。使用它会召唤一个米·戈并将其束缚在你的意志之下。——但愿如此。",
   "context": "ID: summon_mi_go_on\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go_on",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3f3ddd098192e8946b6e77f0776bd472",
   "original": "A strange silver emblem, engraved with depictions of strange chitinous entities.  Using it will call forth a mi-go, and bind it to your will.  Hopefully.  It is somewhat difficult to control.",
-  "translation": "一种奇怪的银徽章，上面刻有奇怪的几丁质实体。使用它会将一个米·戈与你的意志绑定在一起。如果成功的话。这有点难以控制。",
+  "translation": "一种奇怪的银徽章，上面刻有奇怪的几丁质实体的图案。使用它会召唤一个米·戈并将其束缚在你的意志之下。——但愿如此，它有点难以控制。",
   "context": "ID: summon_mi_go\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43d26d47e5cfcdd172bc5b97bdaaad6c",
@@ -33424,9 +33424,9 @@
  {
   "key": "9c42958b2adfcecc2346a0f9844049e4",
   "original": "You begin to recite an incantation, only for the mi-go to parrot your words, mocking your effort to control it!",
-  "translation": "你开始念诵咒语，当米·戈听到你的声音时，它开始嘲笑你努力控制它！",
+  "translation": "你开始念诵咒语，但米·戈却模仿着你的话语，它在嘲笑你试图努力控制住它！",
   "context": "ID: summon_mi_go_on\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go_on",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "91b27ceda80d00d3a9dddb283015aa0b",
@@ -34782,9 +34782,9 @@
  {
   "key": "581ec833296c8bbd8e3a9b4f4438990d",
   "original": "You recite an incantation, and the mi-go's response is a quiet murmur in some unknown language.  It seems to be friendly.",
-  "translation": "你念诵咒语，米-戈用某种未知的语言轻声回应你。感觉它很友好。",
+  "translation": "你念诵咒语，米·戈用某种未知的语言轻声回应你。看起来它很友好。",
   "context": "ID: summon_mi_go_on\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go_on",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "870da149ae23c89a8357a2cd5718d0a6",
@@ -34998,9 +34998,9 @@
  {
   "key": "5375d2a529c31e6c9606f232e50a3c6d",
   "original": "You undo the energy binding the summoned mi-go, causing it to reappear.",
-  "translation": "You undo the energy binding the summoned mi-go, causing it to reappear.",
+  "translation": "你解除了束缚召唤米·戈的能量，使它重新出现。",
   "context": "ID: summon_mi_go_bound\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go_bound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go_bound",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0b67657c407e57314536a7aed50c68ae",
@@ -36806,9 +36806,9 @@
  {
   "key": "091511ff68f82030a32622fe1a4ae5cf",
   "original": "bound summoned mi-go",
-  "translation": "召唤米戈（已绑定）",
+  "translation": "召唤米·戈（已绑定）",
   "context": "ID: summon_mi_go_bound\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_mi_go_bound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=summon_mi_go_bound",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dbe2ff5f1f9b3de6518525e8773910a5",
@@ -39650,9 +39650,9 @@
  {
   "key": "7833772bcb067058716a4f03c297faf2",
   "original": "summoned mi-go",
-  "translation": "召唤米戈",
+  "translation": "召唤米·戈",
   "context": "ID: mon_mi_go_summoned\n位于 /Kenan-Structured-Modpack/Arcana/monsters/monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→MONSTER→mon_mi_go_summoned\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mi_go_summoned",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "22195dd134e0266a3b165c6eff32ac33",
