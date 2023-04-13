@@ -170,29 +170,29 @@
   {
     "key": "dd03492a0aeed1592745180a9896a4a4",
     "original": "300 blackout",
-    "translation": ".300 BLK弹",
-    "stage": 5,
+    "translation": ".300BLK弹",
+    "stage": 3,
     "context": "ID: 300blk\n位于 /Kenan-Modpack/aaa_NO_blacklist/ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→ammunition_type→300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=300blk"
   },
   {
     "key": "74a00134f1d233fa5a96d1c8932fa7cd",
     "original": "300 blackout AP",
     "translation": ".300BLK 穿甲弹",
-    "stage": 5,
+    "stage": 3,
     "context": "ID: 300blk_ap\n位于 /Kenan-Modpack/aaa_NO_blacklist/ammo/300blk.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→AMMO→300blk_ap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=300blk_ap"
   },
   {
     "key": "d3e8a7aa55d957028cbab661cc5e2a5d",
     "original": "300 blackout FMJ",
     "translation": ".300BLK 全金属披甲弹",
-    "stage": 5,
+    "stage": 3,
     "context": "ID: 300blk_fmj\n位于 /Kenan-Modpack/aaa_NO_blacklist/ammo/300blk.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→AMMO→300blk_fmj\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=300blk_fmj"
   },
   {
     "key": "bda5a63fab7e17a7a576d2bc3d5805d0",
     "original": "300 blackout JHP",
-    "translation": ".300 BLK 空尖弹",
-    "stage": 5,
+    "translation": ".300BLK 空尖弹",
+    "stage": 3,
     "context": "ID: 300blk_jhp\n位于 /Kenan-Modpack/aaa_NO_blacklist/ammo/300blk.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→AMMO→300blk_jhp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=300blk_jhp"
   },
   {
@@ -205,8 +205,8 @@
   {
     "key": "9b2461d98af755d14c0b3c82687ae617",
     "original": "300 blackout rounds with a 125gr full metal jacket bullet",
-    "translation": "一枚125格令的 .300BLK 全金属披甲弹。",
-    "stage": 5,
+    "translation": "一枚125格令的.300BLK 全金属披甲弹。",
+    "stage": 3,
     "context": "ID: 300blk_fmj\n位于 /Kenan-Modpack/aaa_NO_blacklist/ammo/300blk.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→AMMO→300blk_fmj\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=300blk_fmj"
   },
   {
@@ -366,14 +366,14 @@
   {
     "key": "3f9be6257e5056a2d34030fb96e1a49a",
     "original": "A complete M16a1 upper receiver. It's not terribly reliable and is prone to fouling farily easily. This upper is chambered in 300 blackout.",
-    "translation": "一个完整的M16a1 上机匣。它并不十分可靠，很容易积累残渣。这个机匣的口径是.300BLK。",
+    "translation": "一个完整的M16a1上机匣。它并不十分可靠，很容易积累残渣。这个机匣的口径是.300BLK。",
     "stage": 3,
     "context": "ID: a1_upper_receiver_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/generic/gun_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GENERIC→a1_upper_receiver_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=a1_upper_receiver_300blk"
   },
   {
     "key": "08fa7f99502a1daeefbe1a3c3a0b9d40",
     "original": "A complete M16a2 lower receiver. Any AR platform rifle built with this lower will have both semi-automatic and burst firemodes.",
-    "translation": "一个完整的M16A2下机匣。任何装有此机匣的AR平台步枪将同时拥有半自动和爆发开火两种射击模式。",
+    "translation": "一个完整的M16A2下机匣。任何装有此机匣的AR平台步枪将同时拥有半自动和连发射击两种射击模式。",
     "stage": 3,
     "context": "ID: a2_lower_receiver\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/generic/gun_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GENERIC→a2_lower_receiver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=a2_lower_receiver"
   },
@@ -394,7 +394,7 @@
   {
     "key": "a838cd21d6ca6e3a177cad4a7732bef6",
     "original": "A complete M16a3 lower receiver. Any AR platform rifle built with this lower will have semi-automatic, fully-automatic and burst firemodes.",
-    "translation": "一个完整的M16A3 下机匣。任何装有此机匣的AR系列步枪将同时拥有半自动和爆发开火两种射击模式。",
+    "translation": "一个完整的M16A3 下机匣。任何装有此机匣的AR系列步枪将同时拥有半自动和连发射击两种射击模式。",
     "stage": 3,
     "context": "ID: a3_lower_receiver\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/generic/gun_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GENERIC→a3_lower_receiver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=a3_lower_receiver"
   },
@@ -408,7 +408,7 @@
   {
     "key": "07eb5477b3d9c7bbf6fe21b2d7793462",
     "original": "A complete M16a3 upper receiver. It's more customizeable than any of the previous m16 upper receivers. This upper is chambered in 300 blackout.",
-    "translation": "一个完好的M16a3 上机匣。它比以往任何一款m16 上机匣都更具可定制性。这个机匣的口径是.300BLK。",
+    "translation": "一个完好的M16a3 上机匣。它比以往任何一款m16上机匣都更具可定制性。这个机匣的口径是.300BLK。",
     "stage": 3,
     "context": "ID: a3_upper_receiver_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/generic/gun_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GENERIC→a3_upper_receiver_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=a3_upper_receiver_300blk"
   },
@@ -1311,15 +1311,15 @@
   {
     "key": "0a303c7b6d0457827761696d4c22662f",
     "original": "M16a1 (auto/burst)",
-    "translation": "M16A1（自动/爆炸开火）",
+    "translation": "M16A1（全自动/连发射击）",
     "stage": 3,
     "context": "ID: m16a1/a3_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1/a3_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1/a3_300blk"
   },
   {
     "key": "f3eb604623a2dfd306658cf136a37f87",
     "original": "M16a1 (burst)",
-    "translation": "M16A1（爆炸开火）",
-    "stage": 3,
+    "translation": "M16A1（连发射击）",
+    "stage": 5,
     "context": "ID: m16a1burst_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1burst_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1burst_300blk"
   },
   {
@@ -1360,8 +1360,8 @@
   {
     "key": "aab9fa5c097de55631182c6271a049f0",
     "original": "M16a2 (auto/burst)",
-    "translation": "M16A2（全自动/爆炸开火）",
-    "stage": 5,
+    "translation": "M16A2（全自动/连发射击）",
+    "stage": 3,
     "context": "ID: m16a2/a3_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2/a3_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2/a3_300blk"
   },
   {
@@ -1409,7 +1409,7 @@
   {
     "key": "faee41f5c4ae7918cc1bf8328d5c4b0b",
     "original": "M16a3 (burst)",
-    "translation": "M16A3（爆炸开火）",
+    "translation": "M16A3（连发射击）",
     "stage": 3,
     "context": "ID: m16a3burst_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3burst_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3burst_300blk"
   },
@@ -1913,21 +1913,21 @@
   {
     "key": "e3c93c2b42a48731c70d543bfe3d3f62",
     "original": "The first generation of the M16. Introduced in vietnam as a replacement for the m14 this rifle suffered from many mechanical failures and was over all a very poor weapon. This rifle has an a2 lower receiver giving it burst fire capabilities instead of full-auto.",
-    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪配有一个a2 下机匣，使它用爆发射击替代了全自动射击。",
-    "stage": 3,
+    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪配有一个a2 下机匣，使它用连发射击替代了全自动射击。",
+    "stage": 5,
     "context": "ID: m16a1burst\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1burst"
   },
   {
     "key": "4eff44fc8494342380747d1868a7383c",
     "original": "The first generation of the M16. Introduced in vietnam as a replacement for the m14 this rifle suffered from many mechanical failures and was over all a very poor weapon. This rifle has an a3 lower receiver giving it burst fire and full-auto capabilities.",
-    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪有一个a3 下机匣，使它同时拥有爆发射击和全自动射击能力。",
+    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪有一个a3 下机匣，使它同时拥有连发射击和全自动射击能力。",
     "stage": 3,
     "context": "ID: m16a1/a3\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1/a3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1/a3"
   },
   {
     "key": "de7ec0bfecd4efbe7778fb2911178e16",
     "original": "The first generation of the M16. Introduced in vietnam as a replacement for the m14 this rifle suffered from many mechanical failures and was over all a very poor weapon. This rifle is a civilian reproduction chambered in 300 blackout.",
-    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪是一种民用复制品，适用于.300 blackout 口径。",
+    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪是一种民用复制品，适用于.300BLK口径。",
     "stage": 3,
     "context": "ID: ar15a1_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→ar15a1_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ar15a1_300blk"
   },
@@ -1941,21 +1941,21 @@
   {
     "key": "68b1def8ff07a262057ef8feb135bc64",
     "original": "The first generation of the M16. Introduced in vietnam as a replacement for the m14 this rifle suffered from many mechanical failures and was over all a very poor weapon. This rifle is chambered in 300 blackout",
-    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪适用于.300    blckout 口径。",
+    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪适用于.300BLK口径。",
     "stage": 3,
     "context": "ID: m16a1_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1_300blk"
   },
   {
     "key": "1655fd06da4fabc4e3611714753bad53",
     "original": "The first generation of the M16. Introduced in vietnam as a replacement for the m14 this rifle suffered from many mechanical failures and was over all a very poor weapon. This rifle is chambered in 300 blackout and has an a2 lower receiver giving it burst fire capabilities instead of full-auto.",
-    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪适用于 .300 blackout 口径，并配有一个a2 下机匣，使它用爆发射击替代了全自动射击。",
+    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪适用于 .300BLK口径，并配有一个a2 下机匣，使它用连发射击替代了全自动射击。",
     "stage": 3,
     "context": "ID: m16a1burst_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1burst_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1burst_300blk"
   },
   {
     "key": "f57ad6dc2f9385b2b7be3724f794158f",
     "original": "The first generation of the M16. Introduced in vietnam as a replacement for the m14 this rifle suffered from many mechanical failures and was over all a very poor weapon. This rifle is chambered in 300 blackout and has an a3 lower receiver giving it burst fire and full-auto capabilities.",
-    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪适用于 .300 blackout 口径，并配有一个a3 下机匣，使它同时拥有爆发射击和全自动射击的能力。",
+    "translation": "第一代M16。被作为m14步枪的替代品在越南引进，但它有许多机械故障，总体来说是一种非常糟糕的武器。这把步枪适用于 .300BLK口径，并配有一个a3 下机匣，使它同时拥有连发射击和全自动射击的能力。",
     "stage": 3,
     "context": "ID: m16a1/a3_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a1/a3_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a1/a3_300blk"
   },
@@ -2011,35 +2011,35 @@
   {
     "key": "d79c5431dbcdc4b1348295bf13e94edf",
     "original": "The second generation of the M16. Full-auto was phased out in favor of a 3 shot burst mode.",
-    "translation": "第二代M16。全自动射击被淘汰了，取而代之的是3发点射模式。",
+    "translation": "第二代M16。全自动射击被淘汰了，取而代之的是三连发射击模式。",
     "stage": 3,
     "context": "ID: m16a2\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2"
   },
   {
     "key": "6401ad2ee3dcdf66ced14293f3fca4fe",
     "original": "The second generation of the M16. Full-auto was phased out in favor of a 3 shot burst mode. This rifle is chambered in 300 blackout",
-    "translation": "第二代M16。全自动射击被淘汰了，取而代之的是3发点射模式。这把步枪适用于 .300 blackout 口径。",
+    "translation": "第二代M16。全自动射击被淘汰了，取而代之的是三连发射击模式。这把步枪适用的弹药为 .300BLK。",
     "stage": 3,
     "context": "ID: m16a2_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2_300blk"
   },
   {
     "key": "756e34a1a5ae1a9b3786f020bc52e656",
     "original": "The second generation of the M16. This rifle has an a1 lower reciver giving full-auto capabilities instead of 3 shot burst.",
-    "translation": "第二代M16。这把步枪有一个a1 下机匣，使它用全自动射击代替了三发点射。",
+    "translation": "第二代M16。这把步枪有一个a1 下机匣，它用全自动射击代替了三连发射击。",
     "stage": 3,
     "context": "ID: m16a2auto\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2auto\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2auto"
   },
   {
     "key": "04da208c8fbcd390249f20ce6c3a9039",
     "original": "The second generation of the M16. This rifle has an a3 lower reciver giving full-auto and 3 shot burst capabilities.",
-    "translation": "第二代M16。这种步枪配有一个a3 下机匣，提供全自动射击和三发点射能力。",
+    "translation": "第二代M16。这种步枪配有一个a3 下机匣，提供全自动射击和三连发射击模式。",
     "stage": 3,
     "context": "ID: m16a2/a3\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2/a3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2/a3"
   },
   {
     "key": "4209f64338dd188ed4391789ae21979f",
     "original": "The second generation of the M16. This rifle is a civilian variant chambered in 300 blackout, as such it only has semi-auto capabilities.",
-    "translation": "第二代M16。这把步枪是一种民用衍生型，适用于 .300 blackout 口径，因此它只有半自动射击能力。",
+    "translation": "第二代M16。这把步枪是一种民用衍生型，适用于 .300BLK口径，因此它只有半自动射击能力。",
     "stage": 3,
     "context": "ID: ar15a2_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→ar15a2_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ar15a2_300blk"
   },
@@ -2053,14 +2053,14 @@
   {
     "key": "17befe8c2d13d6369fe019ced51dc4b8",
     "original": "The second generation of the M16. This rifle is chambered in 300 blackout and has an a1 lower reciver giving full-auto capabilities instead of 3 shot burst.",
-    "translation": "第二代M16。这把步枪适用于 .300 blackout 口径，并有一个a1下机匣来提供全自动射击能力，而不是3发点射。",
+    "translation": "第二代M16。这把步枪适用弹药为.300BLK。它有一个a1下机匣来提供全自动射击模式，而不是三连发射击。",
     "stage": 3,
     "context": "ID: m16a2auto_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2auto_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2auto_300blk"
   },
   {
     "key": "e803e050c166074482f2053b59198873",
     "original": "The second generation of the M16. This rifle is chambered in 300 blackout and has an a3 lower reciver giving full-auto and 3 shot burst capabilities",
-    "translation": "第二代M16。这把步枪适用于 .300 blackout 口径，配有一个a3下机匣来提供全自动射击和3发点射模式。",
+    "translation": "第二代M16。这把步枪适用弹药为 .300BLK，配有一个a3下机匣来提供全自动射击和三连发射击模式。",
     "stage": 3,
     "context": "ID: m16a2/a3_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a2/a3_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a2/a3_300blk"
   },
@@ -2088,7 +2088,7 @@
   {
     "key": "fc59d3c84eb12015ea95bca2b213bb84",
     "original": "This ubiquitous rifle is the forefather of M16 rifle series.  It is lightweight and accurate, but will malfunction if not properly maintained.  This one is a semi automatic civilian version and is chambered in 300 blackout",
-    "translation": "这种无处不在的步枪是M16步枪系列的祖先。它重量轻，精度高，但如果维护不当就会故障频出。这是一把半自动民用版，适用于 .300 blackout 口径。",
+    "translation": "这种无处不在的步枪是M16步枪系列的祖先。它重量轻，精度高，但如果维护不当就会故障频出。这是一把半自动民用版，适用于 .300BLK口径。",
     "stage": 3,
     "context": "ID: ar15_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→ar15_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ar15_300blk"
   },
@@ -2347,7 +2347,7 @@
   {
     "key": "9a531088dfe310f67d2f809645a21e20",
     "original": "m16a3 (burst)",
-    "translation": "M16A3（爆发开火）",
+    "translation": "M16A3（连发射击）",
     "stage": 3,
     "context": "ID: m16a3burst\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3burst"
   },
@@ -2607,7 +2607,7 @@
     "key": "4ba0cfaf09fdeeb6e4fce147e810c4b7",
     "original": "the third generation of the M16 series of rifles. The a3 variants have an integrated quad-rail and a detachable carry handle for mounting optics, as well as semi-auto, burst, and full-auto fire modes.",
     "translation": "M16系列步枪的第三代产品。A3版本有一个集成的四导轨枪前身和一个可拆卸的提手，用于安装光学器件，当然其也拥有半自动、连发和全自动射击模式。",
-    "stage": 3,
+    "stage": 5,
     "context": "ID: m16a3\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3"
   },
   {
@@ -2620,28 +2620,28 @@
   {
     "key": "18da8189c6f4c5dbb300fb0021de0ac2",
     "original": "the third generation of the M16 series of rifles. The a3 variants have an integrated quad-rail and a detachable carry handle for mounting optics. This rifle has an a2 lower receiver and as such only has semi-auto and burst capabilities.",
-    "translation": "第三代M16系列步枪。a3衍生型配有一个集成的四面导轨和一个可拆卸的提把，用于安装光学瞄准镜。这把步枪配有一个a1 下机匣，因此只有半自动射击和爆发射击能力。",
+    "translation": "第三代M16系列步枪。a3衍生型配有一个集成的四面导轨和一个可拆卸的提把，用于安装光学瞄准镜。这把步枪配有一个a1 下机匣，因此只有半自动射击和连发射击模式。",
     "stage": 3,
     "context": "ID: m16a3burst\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/223.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3burst"
   },
   {
     "key": "3f450bbcbddb4d875745de6f00eee02f",
     "original": "the third generation of the M16 series of rifles. The a3 variants have an intigrated quad-rail and a detachable carry handle for mounting optics, as well as semi-auto, burst, and full-auto fire modes. This rifle is chambered in 300 blackout",
-    "translation": "M16系列步枪的第三代产品。A3版本有一个集成的四导轨枪前身和一个可拆卸的提手，用于安装光学器件，当然其也拥有半自动、连发和全自动射击模式。这只枪使用.300BLK口径枪膛。",
-    "stage": 3,
+    "translation": "M16系列步枪的第三代产品。A3版本有一个集成的四导轨枪前身和一个可拆卸的提手，用于安装光学器件，当然其也拥有半自动、连发和全自动射击模式。这只枪适用弹药为.300BLK。",
+    "stage": 5,
     "context": "ID: m16a3_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3_300blk"
   },
   {
     "key": "a20f284459ea20037822aadded776400",
     "original": "the third generation of the M16 series of rifles. The a3 variants have an intigrated quad-rail and a detachable carry handle for mounting optics. This rifle has an a1 lower receiver and as such only has semi-auto and full-auto capabilities. This rifle is chambered in 300 blackout",
-    "translation": "第三代M16系列步枪。a3衍生型配有一个集成的四面导轨和一个可拆卸的提把，用于安装光学瞄准镜。这把步枪配有一个a1 下机匣，因此只有半自动射击和全自动射击能力。这把步枪适用于 .300 blackout 口径。",
+    "translation": "第三代M16系列步枪。a3衍生型配有一个集成的四面导轨和一个可拆卸的提把，用于安装光学瞄准镜。这把步枪配有一个a1 下机匣，因此只有半自动射击和全自动射击能力。这把步枪适用于 .300BLK口径。",
     "stage": 3,
     "context": "ID: m16a3auto_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3auto_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3auto_300blk"
   },
   {
     "key": "5bb03e1b3e876a4c2618e96266eefb04",
     "original": "the third generation of the M16 series of rifles. The a3 variants have an intigrated quad-rail and a detachable carry handle for mounting optics. This rifle has an a2 lower receiver and as such only has semi-auto and burst capabilities. This rifle is chambered in 300 blackout",
-    "translation": "第三代M16系列步枪。a3衍生型配有一个集成的四面导轨和一个可拆卸的提把，用于安装光学瞄准镜。这把步枪配有一个a2 下机匣，因此只有半自动射击和爆发射击能力。这把步枪适用于 .300 blackout 口径。",
+    "translation": "第三代M16系列步枪。a3衍生型配有一个集成的四面导轨和一个可拆卸的提把，用于安装光学瞄准镜。这把步枪配有一个a2 下机匣，因此只有半自动射击和爆发射击能力。这把步枪适用于 .300BLK口径。",
     "stage": 3,
     "context": "ID: m16a3burst_300blk\n位于 /Kenan-Structured-Modpack/aaa_NO_blacklist/gun/300blk.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#aaa_NO_blacklist→GUN→m16a3burst_300blk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=m16a3burst_300blk"
   },

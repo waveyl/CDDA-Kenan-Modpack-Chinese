@@ -219,8 +219,8 @@
   {
     "key": "185164c013dfc1a2df6f9579502baef9",
     "original": "\"You know, I tried to measure my Charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames.\"",
-    "translation": "“你知道吗，有一次我试着用Vit-o-matic活力测试仪来衡量自己的魅力。机器突然起火。”",
-    "stage": 1,
+    "translation": "“你知道吗，有一次我试着用Vit-o-matic活力测试仪来测试自己的魅力值，结果机器突然爆炸了。”",
+    "stage": 3,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→speech→mon_eyebot_mrnewvegas→32\n"
   },
   {
@@ -1045,15 +1045,15 @@
   {
     "key": "c6d7c53959f18184115f266908cd2097",
     "original": "A 25mm grenade with a small napalm load, designed to create a burst of flame.",
-    "translation": "装有少量凝固汽油的25mm榴弹，设计用来制造火焰爆发。",
-    "stage": 3,
+    "translation": "一颗25毫米的手榴弹，内部装有少量凝固汽油，旨在创造一股火焰爆炸。",
+    "stage": 5,
     "context": "ID: 25mm_incendiary\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/ammo_heavy.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→25mm_incendiary\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=25mm_incendiary"
   },
   {
     "key": "c7c4f913cd3a8ccaf1664e8c269b2c9b",
     "original": "A 25mm grenade with a teargas load.  It will burst in a cloud of highly incapacitating gas.",
-    "translation": "一枚装有催泪瓦斯的25mm催泪榴弹，它会在爆炸时释放出一大团高度失能性毒气",
-    "stage": 3,
+    "translation": "一颗25毫米的催泪手榴弹，内部装有催泪气体，当爆炸时会释放出高度使人失去行动能力的烟雾。",
+    "stage": 5,
     "context": "ID: 25mm_teargas\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/ammo_heavy.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→25mm_teargas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=25mm_teargas"
   },
   {
@@ -2459,7 +2459,7 @@
   {
     "key": "3ed60a02a6757332e24fffb505bcfec2",
     "original": "A popular compact carbine, long used by paradroopers in the U.S. air force. Its incredibly accurate and fires in decently sized bursts.",
-    "translation": "卡宾枪一种流行的小型卡宾枪，长期被美国空军的骑兵使用。它的精确性令人难以置信，而且能以相当大的爆发力开火。",
+    "translation": "一种广受欢迎的轻便型卡宾枪，长期以来一直是美国空军伞兵部队所使用的武器。它极其精准，并能使用相当大的子弹连发射击。",
     "stage": 1,
     "context": "ID: carbine_marksman\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/gun_556.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→carbine_marksman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=carbine_marksman"
   },
@@ -3341,8 +3341,8 @@
   {
     "key": "380d9fe7ccfe859b1004ec530dd5e697",
     "original": "An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the cataclysm. Can fire single-shot or burst, using the high velocity 5mm rounds.",
-    "translation": "AK-1125mm突击步枪。一个旧的军用模型，在大灾难发生的时候就不用了。使用高速5毫米子弹，可以发射单发或爆炸。",
-    "stage": 1,
+    "translation": "一把AK-112 5毫米突击步枪。这是一款旧的军用型号，在大灾变时期之前就已经停止使用。它使用高速5毫米子弹，可以进行单发或连发射击。",
+    "stage": 3,
     "context": "ID: ak112\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/gun_5mm.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→ak112\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ak112"
   },
   {
@@ -4559,8 +4559,8 @@
   {
     "key": "cc643ff2ed67356f144ebbf5c5c2ebf7",
     "original": "H&K MP9 submachinegun (10mm variant). A medium-sized SMG, capable of single shot and burst mode.",
-    "translation": "H&K MP9冲锋枪（10mm 口径）。一种中等尺寸的冲锋枪，拥有单发和爆发开火两种射击模式。",
-    "stage": 3,
+    "translation": "H&K MP9冲锋枪（10mm 口径）。一种中等尺寸的冲锋枪，拥有单发和连发射击开火两种射击模式。",
+    "stage": 5,
     "context": "ID: 10mmsmg\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/gun_10mm.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→10mmsmg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=10mmsmg"
   },
   {
