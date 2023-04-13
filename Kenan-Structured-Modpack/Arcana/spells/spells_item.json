@@ -64,6 +64,8 @@
     "flags": [ "NO_HANDS", "NO_LEGS", "SILENT" ],
     "effect_str": "halo_brooch_effect",
     "extra_effects": [ { "id": "arcana_item_brooch_iridescent_empowered_fatigue", "hit_self": true } ],
+    "min_damage": 1,
+    "max_damage": 1,
     "min_duration": 198000,
     "max_duration": 198000
   },
@@ -231,6 +233,8 @@
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "essence_pure",
+    "min_damage": 1,
+    "max_damage": 1,
     "min_duration": 1,
     "max_duration": 1
   },
@@ -373,6 +377,8 @@
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "essence_pure",
+    "min_damage": 1,
+    "max_damage": 1,
     "base_casting_time": 90000,
     "final_casting_time": 90000
   },
@@ -473,6 +479,8 @@
     "flags": [ "NO_HANDS", "NO_LEGS", "SILENT" ],
     "effect_str": "halo_amulet_effect",
     "extra_effects": [ { "id": "arcana_item_amulet_exotic_empowered_fatigue", "hit_self": true } ],
+    "min_damage": 1,
+    "max_damage": 1,
     "min_duration": 450000,
     "max_duration": 450000
   },
@@ -500,7 +508,9 @@
     "flags": [ "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect_str": "essence_blood",
     "effect": "spawn_item",
-    "shape": "blast"
+    "shape": "blast",
+    "min_damage": 1,
+    "max_damage": 1
   },
   {
     "id": "arcana_item_gilded_aegis_healing",
@@ -1192,8 +1202,7 @@
     "id": "arcana_item_orb_veil_wonder_citrine2",
     "type": "SPELL",
     "name": { "str": "Orb: Incense 2" },
-    "description": "And this adds fatigue restoaration.",
-    "sprite": "fd_veil_light",
+    "description": "And this adds fatigue restoration.",
     "message": "",
     "valid_targets": [ "self" ],
     "flags": [ "SILENT", "RANDOM_DURATION", "NO_HANDS", "NO_LEGS" ],
@@ -1670,6 +1679,8 @@
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "scroll_blank",
+    "min_damage": 1,
+    "max_damage": 1,
     "min_duration": 1,
     "max_duration": 1
   },
@@ -2138,6 +2149,8 @@
     "flags": [ "NO_HANDS", "NO_LEGS", "SILENT" ],
     "effect_str": "halo_flute_effect",
     "extra_effects": [ { "id": "arcana_item_amulet_exotic_empowered_fatigue", "hit_self": true } ],
+    "min_damage": 1,
+    "max_damage": 1,
     "min_duration": 522000,
     "max_duration": 522000
   },

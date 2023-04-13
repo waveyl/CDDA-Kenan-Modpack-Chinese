@@ -409,7 +409,7 @@
     "dispersion": 60,
     "durability": 7,
     "loudness": 35,
-    "ups_charges": 120,
+    "energy_drain": "120 kJ",
     "reload": 0,
     "valid_mod_locations": [
       [ "accessories", 4 ],
@@ -422,7 +422,7 @@
       [ "underbarrel", 1 ]
     ],
     "ammo_effects": [ "PLASMA", "AMMO_ELECTROTHERMAL_LIGHTNING", "AMMO_ELECTROTHERMAL_FIRE", "BOUNCE" ],
-    "flags": [ "NEVER_JAMS", "NO_UNLOAD", "NON-FOULING", "NEEDS_NO_LUBE" ]
+    "flags": [ "NEVER_JAMS", "NO_UNLOAD", "NON-FOULING", "NEEDS_NO_LUBE", "USE_UPS" ]
   },
   {
     "id": "rift_focus_cannon",
@@ -570,6 +570,7 @@
     "dispersion": 90,
     "durability": 10,
     "loudness": 9,
+    "energy_drain": "80 kJ",
     "ammo_effects": [ "AMMO_ELECTROTHERMAL_LIGHTNING", "AMMO_ELECTROTHERMAL_FIRE_SMALL", "BOUNCE" ],
     "flags": [ "NEVER_JAMS", "TRADER_AVOID", "USES_BIONIC_POWER" ]
   },
@@ -590,6 +591,7 @@
     "dispersion": 30,
     "durability": 10,
     "loudness": 9,
+    "energy_drain": "60 kJ",
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "burst", 3 ] ],
     "ammo_effects": [ "LASER", "BLINDS_EYES", "BEANBAG", "AMMO_RIFT_FOCUS_SHADOWS", "AMMO_RIFT_FOCUS_TINDALOS" ],
     "flags": [ "NEVER_JAMS", "TRADER_AVOID", "USES_BIONIC_POWER" ]
@@ -616,7 +618,7 @@
     "dispersion": 15,
     "durability": 8,
     "loudness": 1,
-    "ups_charges": 240,
+    "energy_drain": "240 kJ",
     "reload": 0,
     "relic_data": {
       "passive_effects": [
@@ -645,7 +647,8 @@
       "NO_REPAIR",
       "UNBREAKABLE_MELEE",
       "NON-FOULING",
-      "NEEDS_NO_LUBE"
+      "NEEDS_NO_LUBE",
+      "USE_UPS"
     ]
   }
 ]
