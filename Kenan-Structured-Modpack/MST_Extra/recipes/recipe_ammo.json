@@ -21,10 +21,11 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ [ "survival", 2 ], [ "throw", 2 ] ],
+    "skills_required": [ [ "survival", 2 ], [ "throw", 1 ] ],
     "difficulty": 2,
-    "time": "15 m",
+    "time": "10 m",
     "autolearn": true,
+    "charges": 5,
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "tools": [ [ [ "fire", -1 ] ] ],
     "proficiencies": [ { "proficiency": "prof_carving" } ],
@@ -37,10 +38,11 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ [ "survival", 2 ], [ "throw", 2 ] ],
+    "skills_required": [ [ "survival", 2 ], [ "throw", 1 ] ],
     "difficulty": 4,
-    "time": "30 m",
+    "time": "15 m",
     "autolearn": true,
+    "charges": 5,
     "using": [ [ "blacksmithing_standard", 1 ] ],
     "proficiencies": [
       { "proficiency": "prof_metalworking" },
@@ -58,17 +60,14 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ [ "survival", 2 ], [ "throw", 2 ] ],
+    "skills_required": [ [ "survival", 2 ], [ "throw", 1 ] ],
     "difficulty": 3,
-    "time": "30 m",
+    "time": "10 m",
+    "charges": 5,
     "qualities": [ { "id": "HAMMER", "level": 1 }, { "id": "CUT", "level": 1 } ],
     "book_learn": [ [ "manual_survival", 2 ], [ "textbook_survival", 2 ], [ "survival_book", 2 ] ],
     "autolearn": [ [ "fabrication", 3 ], [ "survival", 3 ] ],
-    "proficiencies": [
-      { "proficiency": "prof_knapping" },
-      { "proficiency": "prof_knapping_speed" },
-      { "proficiency": "prof_carving" }
-    ],
+    "proficiencies": [ { "proficiency": "prof_knapping" }, { "proficiency": "prof_knapping_speed" }, { "proficiency": "prof_carving" } ],
     "components": [
       [ [ "stick", 1 ], [ "2x4", 1 ], [ "broom", 1 ], [ "pool_cue", 1 ], [ "pointy_stick", 1 ] ],
       [ [ "rock", 1 ], [ "ceramic_shard", 1 ], [ "sharp_rock", 1 ] ]
@@ -81,21 +80,17 @@
     "category": "CC_AMMO",
     "subcategory": "CSC_AMMO_OTHER",
     "skill_used": "fabrication",
-    "skills_required": [ [ "survival", 2 ], [ "throw", 2 ] ],
+    "skills_required": [ [ "survival", 2 ], [ "throw", 1 ] ],
     "difficulty": 3,
     "time": "15 m",
-    "reversible": true,
     "autolearn": true,
+    "charges": 5,
     "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 1 } ],
-    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
-    "proficiencies": [
-      { "proficiency": "prof_metalworking" },
-      { "proficiency": "prof_redsmithing" },
-      { "proficiency": "prof_carving" }
-    ],
+    "tools": [ [ [ "surface_heat", 5, "LIST" ] ] ],
+    "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_redsmithing" }, { "proficiency": "prof_carving" } ],
     "components": [
       [ [ "stick", 1 ], [ "2x4", 1 ], [ "broom", 1 ], [ "pool_cue", 1 ], [ "pointy_stick", 1 ] ],
-      [ [ "scrap_copper", 1 ], [ "copper", 100 ] ]
+      [ [ "copper_scrap_equivalent", 1, "LIST" ] ]
     ]
   }
 ]
