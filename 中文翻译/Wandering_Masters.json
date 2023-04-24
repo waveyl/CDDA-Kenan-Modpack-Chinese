@@ -156,7 +156,7 @@
   {
     "key": "f9b1abce58c2f0977cf14a62b3c41fc8",
     "original": "<no>, <name_b>. <ill_kill_you>, <name_b>. You've helped me enough, so I can finish my mission without you, <name_b>!",
-    "translation": "<no>, <name_b>. <ill_kill_you>, <name_b>。你已经帮了我很多，现在没有你我也足够完成任务了，<name_b>！",
+    "translation": "<no>，<name_b>。<ill_kill_you>，<name_b>。你已经帮了我很多，现在没有你我也足够完成任务了，<name_b>！",
     "stage": 3,
     "context": "ID: TALK_captain_cost_lie\n位于 /Kenan-Structured-Modpack/Wandering_Masters/npc/Teachers/captain_cost.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Wandering_Masters→talk_topic→TALK_captain_cost_lie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_captain_cost_lie"
   },
@@ -3663,8 +3663,8 @@
   {
     "key": "764705fe789aca33ecac6d8b41609495",
     "original": "So, for the next drink I need: pinecone, 12 pieces; birchbark, 8 pieces; cattail stalk, 4 pieces; lotus flower, 2 pieces.  Bring me these ingredients and I'll try to brew something out of it.",
-    "translation": "所以，下一杯我需要：松果，12片；桦皮，8片；蒲茎，4片；莲花，2片。把这些配料给我，我要试着从中煮些东西。",
-    "stage": 1,
+    "translation": "所以，下一个饮料我需要松果12个，桦树皮8片，香蒲茎4条，莲花2朵。给我这些材料，我会尝试酿出一些东西。",
+    "stage": 3,
     "context": "ID: MISSION_drunken_master_1\n位于 /Kenan-Structured-Modpack/Wandering_Masters/npc/Teachers/drunken_master.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Wandering_Masters→mission_definition→MISSION_drunken_master_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_drunken_master_1"
   },
   {
@@ -5378,7 +5378,7 @@
   {
     "key": "8bf9c6572f448b1e91ff447fa7be3571",
     "original": "You will tell me the truth, right NOW, or <ill_kill_you>, <name_b>!",
-    "translation": "你现在就告诉我真相，否则<ill_kill_you>, <name_b>!",
+    "translation": "你现在就告诉我真相，否则<ill_kill_you>，<name_b>!",
     "stage": 1,
     "context": "ID: TALK_captain_cost_traitor\n位于 /Kenan-Structured-Modpack/Wandering_Masters/npc/Teachers/captain_cost.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Wandering_Masters→talk_topic→TALK_captain_cost_traitor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_captain_cost_traitor"
   },

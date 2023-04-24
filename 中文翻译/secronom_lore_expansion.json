@@ -283,19 +283,19 @@
   "key": "495a82ad8d50bca81bd3843cc4691186",
   "original": "*is shaking vigoriously.",
   "translation": "*它在起劲儿地摆动。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "520ed477473dba4ee0acbc0757a1fd03",
   "original": "*is shaking violently.",
   "translation": "*它在剧烈地摆动。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "75864e9541e8e3b6a352f9ae0ed4a4bf",
   "original": "*is shaking.",
   "translation": "*它在颤动。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9d6a8bcd9cbbe3afd2b5ad4b181ae211",
@@ -385,13 +385,13 @@
   "key": "b4d52e7e33d7c830aaf0b2c707ef5bad",
   "original": "*shakes violently.",
   "translation": "*剧烈地摆动。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ad1722972d72b7349fdb067ac84f416",
   "original": "*shakes.",
   "translation": "*颤动。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4ecc3bb498e3f70724bd04cd3b58a9f2",
@@ -451,7 +451,7 @@
   "key": "2600e008da09b486d412996b32676716",
   "original": "*trembles",
   "translation": "*颤抖",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "785e196e29d3945c2a08a0324cd3bb5a",
@@ -546,9 +546,9 @@
  {
   "key": "296b9e9f3b94beb44a1a80a96fb90f94",
   "original": "+266% bash, +199% movecost, down 6 turns, knocks adjacent, crit only",
-  "translation": "+266%钝击，+199%移动消耗，击倒2回合，击倒相邻，仅暴击",
+  "translation": "+266%钝击伤害，+199%移动耗时，击倒目标2回合，同时击倒相邻单位；仅暴击时生效。",
   "context": "ID: tec_secro_morph_fleshpound_quake\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_fleshpound_quake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_fleshpound_quake",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "742d9e3274faeb5c899b923038b7b7fa",
@@ -1365,7 +1365,7 @@
   "original": "<npcname> thrashed %s into the ground with tremendous power.",
   "translation": "<npcname>用巨大的力量将%s击倒在地。",
   "context": "ID: tec_secro_morph_fleshpound_quake\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_fleshpound_quake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_fleshpound_quake",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6d5d86e6f3d571c2368e25e4f3625e5f",
@@ -2389,9 +2389,9 @@
  {
   "key": "8ce25770d73d8c33ad99a544ac8ebe91",
   "original": "All of <npcname>'s tentacles strike at %s",
-  "translation": "<npcname>所有的触手击打%s",
+  "translation": "<npcname>所有的触手都在击打%s",
   "context": "ID: tec_secro_morph_tents_barrage\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_tents_barrage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_tents_barrage",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "28cc441dbece323588ca7b24e658c08c",
@@ -2726,13 +2726,13 @@
   "original": "Biomorph",
   "translation": "肉机建模",
   "context": "ID: secro_style_biomorph\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→martial_art→secro_style_biomorph\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_style_biomorph",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7ec9a45a32a82d6c604b2613438b1bc6",
   "original": "Biomorph's Stance",
   "translation": "生物立场",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e545ff517bca0397924c67f6cdb4324",
@@ -2753,7 +2753,7 @@
   "original": "Blood Acid Spit",
   "translation": "血酸",
   "context": "ID: secro_pafv_morphed_gun_spit_3\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_pafv_morphed_gun_spit_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_pafv_morphed_gun_spit_3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2ad6bdd40e3b3010d5364fa177a97fd0",
@@ -4321,7 +4321,7 @@
   "original": "Movecost",
   "translation": "移动耗时",
   "context": "ID: secro_pafv_morphed_cost\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_pafv_morphed_cost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_pafv_morphed_cost",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "685e48a2f58934e4e8d08193ec3b1a1b",
@@ -4493,7 +4493,7 @@
   "original": "Oh no...",
   "translation": "哦，不...",
   "context": "ID: bot_secro_laserturret_mod\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/secro_bots.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL→bot_secro_laserturret_mod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_secro_laserturret_mod",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5289fc6400dfcb9345cc1da7500467b9",
@@ -4505,9 +4505,9 @@
  {
   "key": "c5617f5bfefffb8ff6337248de075149",
   "original": "Oh yes, it took many years to gather funds, collect gear and set it all up down here. Through years of my research I was leading various projects and collected quite a lot of funds. Later on I had to tightly lock this place and move permanently to other facility.",
-  "translation": "哦，是的，它花了很多年的时间来筹集资金，收集装备，并在这里建立起来。通过多年的研究，我领导了各种项目，并筹集了大量资金。后来，我不得不把这个地方紧紧地锁起来，永久地搬到其他地方去。",
+  "translation": "哦，是的，我花了很多年的时间来筹集资金和收集设备，终于在这里把它建立起来。在此我进行了多年研究，还领导了各种项目，并积攒了大量资金。可后来我不得不把这个地方紧紧地封闭起来，人也永远的神转移到其他地方去了。",
   "context": "ID: TALK_SECRO_SCIENTIST1_where_info\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/Dialogues/secro_s1.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→talk_topic→TALK_SECRO_SCIENTIST1_where_info\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SECRO_SCIENTIST1_where_info",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b6446c64615b7591a9ffcf57dd9ab0c8",
@@ -4582,9 +4582,9 @@
  {
   "key": "0cb46410778783b0424d1d22c552064d",
   "original": "One of your arms have swollen into a mass of flesh, with half of its proportion imitates that of a gun barrel. If fed, lines of strangely-shaped teeth quickly grows from it. Consumes a large amount of flesh to prepare a shot and some bionic power to fire.",
-  "translation": "你的一只胳膊已经被一团肉覆盖，其前面一半的部分模仿成了一只枪管。如果你用血肉块喂食它的话，一排奇形怪状的牙齿会在其内部长出。消耗大量的肉来准备射击和一些生化能量来开火。",
+  "translation": "你的一只胳膊已经被一团血肉覆盖，其前面一半的部分好似一个枪管。如果用血肉喂食它，一排奇形怪状的牙齿会在其内部长出，并作为它的弹药。消耗生化能量进行射击。",
   "context": "ID: secro_power_armor_flesh_morphed_gun_bonelance\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Weapons/secro_BOW_armaments_ranged.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→secro_power_armor_flesh_morphed_gun_bonelance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_morphed_gun_bonelance",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7b3f1f59d745128f81b88e15673a04f0",
@@ -4734,9 +4734,9 @@
  {
   "key": "c64c84c88b991458b38eeaaa0bbd44cb",
   "original": "Quake",
-  "translation": "地震术",
+  "translation": "撼地术",
   "context": "ID: tec_secro_morph_fleshpound_quake\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_fleshpound_quake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_fleshpound_quake",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e52dc64016cf5fe680602a6973208833",
@@ -4757,7 +4757,7 @@
   "original": "Ravage",
   "translation": "猛刺",
   "context": "ID: tec_secro_morph_blades_ravage\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_blades_ravage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_blades_ravage",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f24e892c9b3516176764f368d2bdfb06",
@@ -5578,9 +5578,9 @@
  {
   "key": "3d72dd1c56877e065309dac6a8eb7125",
   "original": "Spits blood acid at target.",
-  "translation": "向目标吐血酸。",
+  "translation": "向目标喷吐血酸。",
   "context": "ID: secro_pafv_morphed_gun_spit_3\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_pafv_morphed_gun_spit_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_pafv_morphed_gun_spit_3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f9a091799c3d9068c6a7579f401df603",
@@ -5873,7 +5873,7 @@
   "original": "The technique pushes the surrounding enemies.",
   "translation": "这个战技可以推开周围的敌人。",
   "context": "ID: tec_secro_morph_fleshpound_quake_push\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→tec_secro_morph_fleshpound_quake_push\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_fleshpound_quake_push",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab7c4c5d08aa1209e37a3c06fd134999",
@@ -6183,7 +6183,7 @@
   "original": "Vessel Growth",
   "translation": "脉管生长",
   "context": "ID: secro_pafv_grow3\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_eoc.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_pafv_grow3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_pafv_grow3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cd9c16bb1ca6817d86183b7bb47f8fcd",
@@ -6537,8 +6537,8 @@
  {
   "key": "d0ffb7d897cb0ca87194d2dfb546d096",
   "original": "You always take on a defensive stance, and with the help of your suit, blocking greatly reduces damage taken.\n\n+1 Block attempts, blocked damage decreased by 66% of Strength.",
-  "translation": "你总是采取一种防御姿态，在你的套装的帮助下，阻挡大大减少了受到的伤害。\n\n +1 格挡，并根据你66%的力量值降低格挡伤害",
-  "stage": 1
+  "translation": "你保持着防御姿态，在你的武装的帮助下，大大减少了受到的伤害。\n\n +1 格挡，并根据你66%的力量值降低受到的伤害",
+  "stage": 3
  },
  {
   "key": "af0bcf7f1c4d1cb25bfc84fadef443a5",
@@ -6571,9 +6571,9 @@
  {
   "key": "c50cbdf7284702731997eef40610243e",
   "original": "You bite down %s with your arms",
-  "translation": "你用胳膊咬下了%s",
+  "translation": "你用胳膊啃食%s",
   "context": "ID: tec_secro_morph_jawarms_munch\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_jawarms_munch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_jawarms_munch",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4869a2fad5c2e6f39f9153386b582235",
@@ -6766,9 +6766,9 @@
  {
   "key": "83ddebd646f73a8a1aa70822a899b8d7",
   "original": "You mutilate %s",
-  "translation": "你砍残 %s",
+  "translation": "你致残了%s",
   "context": "ID: tec_secro_morph_blades_ravage\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_blades_ravage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_blades_ravage",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3b9ef6a0ee6ad633e343281b27c64fc1",
@@ -6845,7 +6845,7 @@
   "original": "You thrash %s into the ground with tremendous power.",
   "translation": "你用巨大的力量将%s击倒在地。",
   "context": "ID: tec_secro_morph_fleshpound_quake\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_fleshpound_quake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_fleshpound_quake",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e11cfefd9bd2e3acdf13d6f6a1f33b60",
@@ -7002,9 +7002,9 @@
  {
   "key": "e6046efac227ddbf14dbe5b7ef985774",
   "original": "Your body have merged with the experimental exoskeleton \"flesh vessel\". Crimson horrors are less likely to provoke you.",
-  "translation": "你的身体已经与实验性外骨骼“脉管装甲”融合。深红色的恐怖不太可能激怒你。",
+  "translation": "你的身体已经与实验性外骨骼“脉管装甲”融合。深红色的恐怖不太可能影响到你。",
   "context": "ID: SECRO_WEARING_FLESH_VESSEL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mutation→SECRO_WEARING_FLESH_VESSEL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SECRO_WEARING_FLESH_VESSEL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b95ca52db861074224b550393a1d287c",
@@ -7162,7 +7162,7 @@
   "original": "Your spitter armament launches a glob of blood acid.",
   "translation": "你的喷吐器发射出一团血酸。",
   "context": "ID: secro_pafv_morphed_gun_spit_check\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_pafv_morphed_gun_spit_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_pafv_morphed_gun_spit_check",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1789e55841f21ba329e1f4eb824e4a1",
@@ -7279,7 +7279,7 @@
   "original": "Your tentacles strike %s all at once",
   "translation": "你的触手同时击打%s",
   "context": "ID: tec_secro_morph_tents_barrage\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→technique→tec_secro_morph_tents_barrage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_secro_morph_tents_barrage",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dce58e3e48a3e2df24a70b9c218e5981",
@@ -11386,7 +11386,7 @@
   "key": "597fdce8eb0c7d55a30e7c164fec0366",
   "original": "nothing to see here.",
   "translation": "这里没什么可看的。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8c31d5371e0f16ba852edfa127009b83",

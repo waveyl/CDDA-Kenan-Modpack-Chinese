@@ -78,7 +78,7 @@
  {
   "key": "93b0e308d6096c0f8c62535207c2c6dc",
   "original": "A half-liter clay jar, glazed for waterproofing with a tight-fitting wooden stopper.  Sealed tightly with wax, to preserve contents from rot.",
-  "translation": "一种半升装的陶罐,已经上了一层釉,有着一个紧紧的木塞来封住瓶口.瓶口已经用蜡密封,防止内容物变质.",
+  "translation": "一种半升装的陶罐，已经上了一层釉，有着一个紧紧的木塞来封住瓶口。瓶口已经用蜡密封，防止内容物变质。",
   "context": "ID: jar_clay_sealed\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→jar_clay_sealed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jar_clay_sealed",
   "stage": 3
  },
@@ -92,7 +92,7 @@
  {
   "key": "e40c8401ca606474c770f4e9bd49ae8b",
   "original": "A heavy door made from a log frame.  Solid construction means you can't see through it when closed.",
-  "translation": "一扇原木框架做成的车门.它是实心的,所以关上门时你不能透过它来观察.",
+  "translation": "一扇用原木制成的车门。它是十分厚重，还是实心的，所以关上门时你不能透过它来观察。",
   "context": "ID: door_log_frame\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→door_log_frame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=door_log_frame",
   "stage": 3
  },
@@ -113,9 +113,9 @@
  {
   "key": "e0bafa7356afe3093bf6511fc6f0185c",
   "original": "A heavy section of frame carved from a log, serving as a foundation or to keep a raft afloat.  Other vehicle components can be mounted on it.  If all the frames and components of a vehicle are foldable, the vehicle can be folded into a small package and picked up as a normal item.",
-  "translation": "一个由原木雕刻而成的重型木筏框架，使木筏漂浮。其他载具部件能够安装在它上面。如果构成载具的所有框架和部件都可折叠，那么这辆载具能够被打包折叠并可像普通物品一样被拾取带走。",
+  "translation": "一个由原木雕刻而成的重型木筏框架，用作木筏漂于水上，其他载具部件能够安装在它上面。如果其构成载具后的所有框架和部件都可折叠，那么它就能够被打包折叠并像普通物品一样被拾取带走。",
   "context": "ID: log_frame_part\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→log_frame_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=log_frame_part",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f866b56d7d79971de81c6b771c4fe6f4",
@@ -133,7 +133,7 @@
  {
   "key": "6b8ca381a659c0c5f9d985a46e21c407",
   "original": "A large bucket for holding water, made from hollowing out a log and adding handles made of natural cordage.  Can hold 7 liters.",
-  "translation": "用来盛水的手工大木桶, 直接用一根粗大的原木挖空制成，带有用植物纤维制成的绳索. 可以容纳7升的液体。",
+  "translation": "用来盛水的手工大木桶，直接用一根粗大的原木挖空制成，带有用植物纤维制成的绳索。可以容纳7升的液体。",
   "context": "ID: bucket_log\n位于 /Kenan-Structured-Modpack/MST_Extra/items/containers.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→bucket_log\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bucket_log",
   "stage": 3
  },
@@ -154,63 +154,63 @@
  {
   "key": "ee8c56f6f8e99126489ee9a2cea5f87c",
   "original": "A leather quiver worn at the waist, lengthened to hold atlatl darts.  Activate to store up to 10 darts.",
-  "translation": "一种皮革箭筒,可佩戴在腰部,加长可容纳10支梭镖.使用它以存储梭镖.",
+  "translation": "一种皮革箭筒，可佩戴在腰部，加长可容纳10支梭镖。使用它以存储梭镖。",
   "context": "ID: quiver_atlatl\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→quiver_atlatl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quiver_atlatl",
   "stage": 3
  },
  {
   "key": "cb0d12a2ffe709ffa5491ad6444709bf",
   "original": "A long, flexible dart for a spear-thrower, with a copper spear point.",
-  "translation": "掷矛器用的一种长而灵活的梭镖,有一个铜矛尖.",
+  "translation": "掷矛器用的一种长而灵活的梭镖，有一个铜矛尖。",
   "context": "ID: atlatl_dart_copper\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→atlatl_dart_copper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=atlatl_dart_copper",
   "stage": 3
  },
  {
   "key": "beac07b498717574a3a7f19795b4603a",
   "original": "A long, flexible dart for a spear-thrower, with a fire-hardened sharpened point.",
-  "translation": "掷矛器用的一种长而灵活的梭镖,前端被火烤硬化.",
+  "translation": "掷矛器用的一种长而灵活的梭镖，前端被火烤硬化。",
   "context": "ID: atlatl_dart_wood\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→atlatl_dart_wood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=atlatl_dart_wood",
   "stage": 3
  },
  {
   "key": "36695fcaae3693694f0b4b78ed29e1e2",
   "original": "A long, flexible dart for a spear-thrower, with a small stone spearhead.",
-  "translation": "掷矛器所用的一种长而灵活的梭镖,有一个小石质矛头.",
+  "translation": "掷矛器所用的一种长而灵活的梭镖，有一个小石质矛头。",
   "context": "ID: atlatl_dart_stone\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→atlatl_dart_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=atlatl_dart_stone",
   "stage": 3
  },
  {
   "key": "17c2cf37ce63718673e09796cf9c4235",
   "original": "A long, flexible dart for a spear-thrower, with an iron spear point.",
-  "translation": "掷矛器用的一种长而灵活的梭镖,有一个铁矛尖.",
+  "translation": "掷矛器用的一种长而灵活的梭镖，有一个铁矛尖。",
   "context": "ID: atlatl_dart_iron\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→atlatl_dart_iron\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=atlatl_dart_iron",
   "stage": 3
  },
  {
   "key": "bde2f009b1ba688ed5f4eb247e888e65",
   "original": "A makeshift filter constructed to hold a supply of charcoal, for purifying water.",
-  "translation": "用来容纳木炭的临时过滤器,用于净化水.",
+  "translation": "用来容纳木炭的临时过滤器，用于净化水。",
   "context": "ID: f_char_purifier\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_char_purifier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_char_purifier",
   "stage": 3
  },
  {
   "key": "1754991c397a329c0b8d0470e9f97dcf",
   "original": "A makeshift shelter made from a lather tarp and stakes driven into the ground.",
-  "translation": "用一大块防水皮革以及插入地面的木桩做成的简单棚屋,一个供你休息的小避难所.",
+  "translation": "用一大块防水皮革以及插入地面的木桩做成的简单棚屋，一个供你休息的小避难所。",
   "context": "ID: t_tarptent_leather\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→terrain→t_tarptent_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tarptent_leather",
   "stage": 3
  },
  {
   "key": "50a278d6656532190036c86e05d8a181",
   "original": "A pair of glass bottles insulated with dirt or sand.  With careful alignment, it serves as a crude alembic by boiling away liquid in the first container, condensing into the second.",
-  "translation": "一对用沙土进行隔热的玻璃瓶,通过排序后的第一个瓶子加热煮沸液体后,水蒸气在第二个瓶子中冷凝,相当于一个简易的蒸馏器",
+  "translation": "一对用沙土进行隔热的玻璃瓶，通过排序后的第一个瓶子加热煮沸液体后，水蒸气在第二个瓶子中冷凝，相当于一个简易的蒸馏器。",
   "context": "ID: f_still_mounds\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_still_mounds\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_still_mounds",
   "stage": 3
  },
  {
   "key": "733fe21b5b2b7ac79f6432cd23065966",
   "original": "A portable clay oven, placed on the ground.  It can't hold much wood at once, but it will keep a fire safe from wind and rain.",
-  "translation": "一个放在地上的便携式陶烤炉.它一次装不下多少木头,但它能使火免受风吹雨打.",
+  "translation": "一个放在地上的便携式陶烤炉。它一次装不下多少木头，但它能使火免受风吹雨打。",
   "context": "ID: f_hobo_stove_clay_placed\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_hobo_stove_clay_placed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_hobo_stove_clay_placed",
   "stage": 3
  },
@@ -231,16 +231,16 @@
  {
   "key": "175866d85357f88708ea098c9cde2718",
   "original": "A quiver woven from strips of birch bark, worn at the waist, lengthened to hold atlatl darts.  Activate to store up to 10 darts.",
-  "translation": "一种由桦树皮条编织而成的梭镖筒,可佩戴在腰部,加长可容纳10支梭镖.使用它以存储梭镖.",
+  "translation": "一种由桦树皮条编织而成的梭镖筒，可佩戴在腰部，加长可容纳10支梭镖。使用它以存储梭镖。",
   "context": "ID: quiver_birchbark_atlatl\n位于 /Kenan-Structured-Modpack/MST_Extra/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→quiver_birchbark_atlatl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quiver_birchbark_atlatl",
   "stage": 3
  },
  {
   "key": "d8cf3c9d411fe84570d4683b0071df03",
   "original": "A roof made from a mat of tightly-woven birchbark.  Good enough to keep the rain out at least.",
-  "translation": "由厚实紧密的桦树皮做成的车顶盖.起码能遮风挡雨",
+  "translation": "只是用桦树皮紧密编织而成的车顶罢了，但好歹能遮风挡雨。",
   "context": "ID: roof_birchbark\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→roof_birchbark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=roof_birchbark",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dc7535cb42b936b5c662f0e28c3d1ea7",
@@ -315,9 +315,9 @@
  {
   "key": "918b61f3887e0060a5b04dd54caba29f",
   "original": "A small but comfortable bed made from a mat of tightly-woven straw.",
-  "translation": "用厚厚的稻草铺成的窄小但舒适的床.",
+  "translation": "用厚厚的稻草铺成的窄小但舒适的床。",
   "context": "ID: bed_straw_rollmat\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→bed_straw_rollmat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bed_straw_rollmat",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7f501f51bdec19469edded529263b08c",
@@ -378,9 +378,9 @@
  {
   "key": "5c4c3d35e5ab136d55c3ada05363b004",
   "original": "A thick mat of tightly-woven straw or pine boughs.  It could be worn as a thick blanket, or used to deploy it as a mat to sleep on.",
-  "translation": "用厚密的桦树皮或松枝编织的草毯.可以像厚毯子那样披在身上,或者在睡觉时铺在地上.",
+  "translation": "由厚密的桦树皮和松枝编织而成的草毯。可以像厚毯子那样披在身上，或者在睡觉时铺在地上。",
   "context": "ID: straw_bed_rollmat\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL_ARMOR→straw_bed_rollmat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=straw_bed_rollmat",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "47b88dd93f56c70677c72ed22f037248",
@@ -405,9 +405,9 @@
  {
   "key": "44451fb80da600238ff7595f061ee727",
   "original": "A tightly-woven panel made of birch bark, for vehicle use.  It could be used for makeshift aisles and roofing, or with some waterproofing it could help keep a canoe afloat.",
-  "translation": "一块用桦树皮制成的厚密编织板,用于载具部件.可以充当简易的过道或车顶，与一些防水材料一起可以帮助独木舟漂浮.",
+  "translation": "由桦树皮紧密编织制成的厚板，用作载具部件。可以充当简易的过道或车顶，与一些防水材料一起使用还可以帮助独木舟漂浮。",
   "context": "ID: birchbark_panel\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→birchbark_panel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=birchbark_panel",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0d006cc360723832ab3b367943bbc7f6",
@@ -461,13 +461,13 @@
  {
   "key": "5120dc7ae974169cd4b0ec16d5fff697",
   "original": "A traditional dugout boat made from logs burned and carved to shape, along with handmade oars.  Bulky as it is, it can still be picked up and carried by a reasonably fit person.  Use it to deploy and make ready.",
-  "translation": "一种传统的独木舟,直接用一根原木用火烧空中间,不断凿刻而成,还有一根手工制作的桨.虽然它体积庞大,但它仍然可以由一个健康的成年人拿起和携带.使用它以激活。",
+  "translation": "一种传统的独木舟，还有一根手工制作的桨。独木舟直接用一根原木用火烧空中间，不断凿刻而成。虽然它体积庞大，但它仍然可以由一个健康的成年人拿起和携带。使用它以激活。",
   "stage": 3
  },
  {
   "key": "2d7115938d034c91b034eb52b82f9303",
   "original": "A traditional dugout boat made from logs burned and carved to shape, along with handmade oars.  Heavy and bulky as it is, it can still be picked up and carried by a reasonably fit person.  Use it to deploy and make ready.",
-  "translation": "一种传统的独木舟,直接用一根原木用火烧空中间,不断凿刻而成,还有一根手工制作的桨.虽然它体积庞大,但它仍然可以由一个健康的成年人拿起和携带.使用它以激活.",
+  "translation": "一种传统的独木舟，还有一根手工制作的桨。独木舟直接用一根原木用火烧空中间，不断凿刻而成。虽然它体积庞大，但它仍然可以由一个健康的成年人拿起和携带。使用它以激活。",
   "context": "ID: log_canoe_item\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→log_canoe_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=log_canoe_item",
   "stage": 3
  },
@@ -481,16 +481,16 @@
  {
   "key": "1d5b44703fbf4a86e39fb59ee142f936",
   "original": "A waist-high barricade made of stout saplings, held in place by poles hammered into the ground.  Primarily used to keep the wind out, but also works to fence in  a campsite.",
-  "translation": "用树枝与长木棍制成的齐腰的木制防风篱,用锤子使其牢牢地扎在地面下,主要用于防风,也可以作为营地围栏.",
+  "translation": "用树枝与长木棍制成的齐腰的木制防风篱，用锤子使其牢牢地扎在地面下，主要用于防风，也可以作为营地围栏。",
   "context": "ID: f_barricade_windbreak\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_barricade_windbreak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_barricade_windbreak",
   "stage": 3
  },
  {
   "key": "1a0b72e200b0e777abc2d55c1616970e",
   "original": "A wall made from a log frame.  Keeps zombies outside the vehicle and prevents people from seeing through it.",
-  "translation": "一扇原木框架做成的隔板.能够阻挡丧尸和其他人的视线.",
+  "translation": "一扇原木框架做成的隔板。能够将丧尸和其他人的视线隔绝在载具外。",
   "context": "ID: log_frame_board\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→log_frame_board\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=log_frame_board",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2aaf2bda1e45935c45f32149de5a675a",
@@ -502,9 +502,9 @@
  {
   "key": "54d21c01f5f67af6125d5866032e9004",
   "original": "A waterproofed board that keeps the water out of your boat.",
-  "translation": "一块防水船壳,防止你的船进水.",
+  "translation": "一块防水船壳，防止你的船进水。",
   "context": "ID: boat_board_birchbark\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→boat_board_birchbark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boat_board_birchbark",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bacb3b5bc630ad7a5d94e559bdc2fcc4",
@@ -529,9 +529,9 @@
  {
   "key": "8887eeb9730a5e10c4078958b26384a9",
   "original": "An aisle made from a mat of tightly-woven birchbark.",
-  "translation": "用厚实紧密的桦树皮做成的过道.",
+  "translation": "用桦树皮紧密编织制成的过道。",
   "context": "ID: birchbark_aisle\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→birchbark_aisle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=birchbark_aisle",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "79d02c0564347b697a70e356b4ac4eaa",
@@ -782,7 +782,7 @@
  {
   "key": "893cea9b9530589362ba0b4c67fd4cb9",
   "original": "Meat cooked and preserved in butter or melted fat, a form of food preservation from the days before canning.  Also known as confit.  Rich and fattening, it will last for a long time.",
-  "translation": "将肉类烹调煮熟,浸没在黄油或融化的脂肪中进行保存,这是种在罐装技术出现之前的一种食品保存形式.也被称为油封肉.味道浓郁且富含脂肪,可以保存很长时间.",
+  "translation": "将肉类烹调煮熟，浸没在黄油或融化的脂肪中进行保存，这是种在罐装技术出现之前的一种食品保存形式.也被称为油封肉。味道浓郁且富含脂肪，可以保存很长时间。",
   "stage": 3
  },
  {
@@ -859,7 +859,7 @@
  {
   "key": "3eaf56f3371de716923a1f31099370fb",
   "original": "Sit down, have a drink.  It probably won't fall apart if you do, the joinery looks sturdy enough.",
-  "translation": "坐下,享受一杯茶.你坐在上面它不会散架的,细木工板看起来足够结实,应该吧.",
+  "translation": "快来坐下，享受一杯热茶。你坐在上面它不会散架的，细木工板看起来足够结实。——应该吧。",
   "context": "ID: f_chair_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_chair_makeshift\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_chair_makeshift",
   "stage": 3
  },
@@ -873,15 +873,21 @@
  {
   "key": "519aa85608ed03b346b707bbb7febacc",
   "original": "Spicy chili pepper, lightly seasoned and roasted.",
-  "translation": "微辣的红辣椒,经过些许调味料调味之后烤熟,椒香扑鼻.“来四川有你好辣椒吃”",
+  "translation": "微辣的红辣椒，经过些许调味料调味之后烤熟,椒香扑鼻。“来四川有你好辣椒吃”。",
   "stage": 3
  },
  {
   "key": "f671cf5289727977f6eaf6d357e59668",
   "original": "Sticky resin made from pine or birch tar.  The adhesive isn't strong enough for heavy duty usages, but it can be used as a varnish or holding together small items, or for improvised repairs with the right tools.",
-  "translation": "松木或桦木树脂制成的粘性树脂胶.这种黏合剂的强度不足以承受重负荷的使用,但它可用作清漆或把小物件粘在一起,或用合适的工具进行修理.",
-  "context": "ID: pitch_wood\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→pitch_wood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pitch_wood",
+  "translation": "松木或桦木树脂制成的粘性树脂胶。这种黏合剂的强度不足以承受重负荷的使用，但它可用作清漆或把小物件粘在一起，或用合适的工具进行修理。",
   "stage": 3
+ },
+ {
+  "key": "b54605c7eb665ee25d90bbbbd021a5d6",
+  "original": "Sticky resin made from pine or birch tar.  The adhesive isn't strong enough for heavy duty uses, but it can be used as a varnish or holding together small items, or for improvised repairs with the right tools.",
+  "translation": "Sticky resin made from pine or birch tar.  The adhesive isn't strong enough for heavy duty uses, but it can be used as a varnish or holding together small items, or for improvised repairs with the right tools.",
+  "context": "ID: pitch_wood\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→pitch_wood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pitch_wood",
+  "stage": 1
  },
  {
   "key": "266f03e7fd83637cdd99d7684550d32c",
@@ -985,14 +991,14 @@
  {
   "key": "7503c2b80f46e5835d3e84adb4850d06",
   "original": "This is a ancient style of portable ceramic oven.  Use it to place on the ground, allowing you to keep a small fire safe from wind and rain.",
-  "translation": "一种古老的便携小陶土烤炉.放置在地上后,能够为你提供一个能保证用火安全以及不怕刮风下雨的小烤炉.",
+  "translation": "一种古老的便携小陶土烤炉。放置在地上后，能够为你提供一个能保证用火安全以及不怕刮风下雨的小烤炉。",
   "context": "ID: hobo_stove_clay\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→hobo_stove_clay\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hobo_stove_clay",
   "stage": 3
  },
  {
   "key": "6823584def086c50ada392736bf4812b",
   "original": "This is a farming implement made with a broad stone blade, that can be used to till earth.",
-  "translation": "一种农具,用一块宽大的石片做成,可以用来耕作.",
+  "translation": "一种用一块宽大的石片做成农具，可以用来耕作。",
   "context": "ID: primitive_hoe\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→primitive_hoe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=primitive_hoe",
   "stage": 3
  },
@@ -1013,7 +1019,7 @@
  {
   "key": "e958cfe51ba8ea912db5ed5fd0eaf6d4",
   "original": "This is a portable toolkit, consisting of a primitive knife for carving replacement parts, an adze for more heavy-duty wood cutting, and a patch of soft material for cleaning surfaces.  It can be used to repair certain items if supplied with pitch, though it isn't ideal for complex work.",
-  "translation": "一个便携式的简易修理包,包括用于从原材料中替换部件的石刀、用于切割木材的石锛以及用于清洁表面的柔软布条.配合足够的树脂,可勉强胜任于修复部分材质不那么特殊的小物品.",
+  "translation": "一个便携式的简易修理包，包括用于从原材料中替换部件的石刀，用于切割木材的石锛以及用于清洁表面的柔软布条。配合足够的树脂，可勉强胜任于修复部分材质不那么特殊的小物品。",
   "context": "ID: misc_repairkit_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→misc_repairkit_makeshift\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=misc_repairkit_makeshift",
   "stage": 3
  },
@@ -1027,27 +1033,27 @@
  {
   "key": "619c4915f8cab302121fc0e231c6f261",
   "original": "This is a small ceramic fire pot, with a lid and small holes for controlled airflow.  An ember is smoldering inside it, and can be used to start a campfire.",
-  "translation": "一个用来保存火种的小陶土罐,带有盖子和通气口,一小团余烬正在里面闷烧,可以用来生起篝火.",
+  "translation": "一个用来保存火种的小陶土罐，带有盖子和通气口，一小团余烬正在里面闷烧，可以用来生起篝火。",
   "context": "ID: tinderbox_clay_on\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay_on",
   "stage": 3
  },
  {
   "key": "0ac4b63e22910f3fa0769194dc683802",
   "original": "This is a small ceramic fire pot, with a lid and small holes for controlled airflow.  It can nurture a smoldering ember for a long time, to start fires without modern tools.",
-  "translation": "一个用来保存火种的小陶土罐子,带有盖子和通气口,能够让余火保持一段时间,缺乏现代工具时可以用于生火.",
+  "translation": "一个用来保存火种的小陶土罐子，带有盖子和通气口，能够让余火保持一段时间，缺乏现代工具时可以用于生火。",
   "context": "ID: tinderbox_clay\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay",
   "stage": 3
  },
  {
   "key": "de0c56c62bc6e21953402c42e1f80bc4",
   "original": "This is a small clay container with a wick, an ancient form of oil lamp.  It does not provide much light, but it lasts a long time.  It does not provide much light, but it lasts a long time.  It is turned on.  Use it to turn it off.",
-  "translation": "这是一个有着灯芯的小陶土罐子,一种有着悠久历史的油灯.它的光线较为微弱,但可以持续很长时间.它现在正在被点亮着.激活以熄灭油灯.",
+  "translation": "这是一个有着灯芯的小陶土罐子，一种有着悠久历史的油灯。它的光线较为微弱，但可以持续很长时间。它现在正在被点亮着，激活以熄灭油灯。",
   "stage": 3
  },
  {
   "key": "63e5b9208434b226527722f53ac1e9eb",
   "original": "This is a small clay container with a wick, an ancient form of oil lamp.  It does not provide much light, but it lasts a long time.  Use it to turn it on.",
-  "translation": "一个有着灯芯的小陶土罐子,是一种有着悠久历史的古老油灯.它的光线较为微弱,但可以持续很长时间.激活以使用油灯.",
+  "translation": "一个有着灯芯的小陶土罐子，是一种有着悠久历史的古老油灯。它的光线较为微弱，但可以持续很长时间。激活以使用油灯。",
   "stage": 3
  },
  {
@@ -1066,7 +1072,7 @@
  {
   "key": "db69f48263d5c2a42c2c13a2235672ab",
   "original": "Tree bacon, slices of inner bark from birch or pine that have been roasted, to render them less stringy and more edible.  Can be eaten as-is, or dried and milled into flour.  While commonly considered a survival food, it is relatively palatable.",
-  "translation": "一份从桦树或松树上取下来的树内皮,烘烤之后分成了可以吃的小块烤树皮,口感脆脆的.不仅可以直接吃掉,还可以磨干成面粉.虽然经常作为野外的应急食物,但味道相对来讲很美味.",
+  "translation": "一份从桦树或松树上取下来的树内皮，烘烤之后分成了可以吃的小块烤树皮，口感脆脆的。不仅可以直接吃掉，还可以磨干成面粉。虽然经常作为野外的应急食物，但味道相对来讲很美味。",
   "context": "ID: tree_bacon\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→tree_bacon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tree_bacon",
   "stage": 3
  },
