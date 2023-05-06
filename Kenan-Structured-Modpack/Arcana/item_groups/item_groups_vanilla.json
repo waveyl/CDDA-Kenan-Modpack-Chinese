@@ -32,9 +32,32 @@
     "subtype": "distribution",
     "extend": {
       "entries": [
-        { "item": "book_hexenhammer", "prob": 1 },
-        { "item": "book_scrollcraft", "prob": 1 },
-        { "item": "book_sacrifice", "prob": 1 }
+        {
+          "distribution": [
+            { "item": "book_hexenhammer", "prob": 1 },
+            { "item": "book_scrollcraft", "prob": 1 },
+            { "item": "book_sacrifice", "prob": 1 }
+          ],
+          "prob": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "cathedral_archives",
+    "copy-from": "cathedral_archives",
+    "type": "item_group",
+    "subtype": "collection",
+    "extend": {
+      "entries": [
+        {
+          "distribution": [
+            { "item": "book_hexenhammer", "prob": 20 },
+            { "item": "book_scrollcraft", "prob": 10 },
+            { "item": "book_sacrifice", "prob": 5 }
+          ],
+          "prob": 10
+        }
       ]
     }
   },
