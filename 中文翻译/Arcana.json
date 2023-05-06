@@ -1909,7 +1909,7 @@
  {
   "key": "fbf3c75ae1d9bcaf3ccf89315603db1e",
   "original": "%s focuses and readies their weapon.",
-  "translation": "%s focuses and readies their weapon.",
+  "translation": "%s 集中精力，准备好他们的武器。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_veil_chosen",
   "stage": 1
  },
@@ -2271,7 +2271,7 @@
  {
   "key": "7e05cc5c822349ca1da5f2be0a5e1f27",
   "original": "A bespoke power cell designed specifically for a rare and valuable type of prototype mech, using anomalous technology to burn exotic energy sources, with spatial anomaly technology in the machine itself massively increasing efficiency.  Even then, it requires a lot of esoteric essence to make each power cell, and they need to be taken apart and remade once depleted.",
-  "translation": "一种专门为一种罕见而有价值的原型机械设计的定制动力电池，使用异常技术燃烧外来能源，机器本身的空间异常技术大大提高了效率。即便如此，制造每个动力电池也需要大量深奥的精华，一旦耗尽，它们需要被拆开并重新制造。",
+  "translation": "一种专门为一种罕见而有价值的原型机械设计的定制动力电池，使用异常技术燃烧外来能源，机器本身的空间异常技术大大提高了效率。即便如此，制造每个动力电池也需要大量深奥的源质，一旦耗尽，它们需要被拆开并重新制造。",
   "context": "ID: arcana_mech_power_cell\n位于 /Kenan-Structured-Modpack/Arcana/items/magazine.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→MAGAZINE→arcana_mech_power_cell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_mech_power_cell",
   "stage": 1
  },
@@ -2601,6 +2601,12 @@
   "key": "fae9d7495f49c3d26bfd9a1262ff6f26",
   "original": "A compact device built using otherworldly mechanisms of arcane nature.  Originally an unnaturally efficient motor, it has been \"upgraded\" with mechanisms that draw power from the fabric of reality itself.  A true source of perpetual kinetic energy when installed on a vehicle, though it still cannot be used to power batteries, and its output is weaker than it originally was.",
   "translation": "A compact device built using otherworldly mechanisms of arcane nature.  Originally an unnaturally efficient motor, it has been \"upgraded\" with mechanisms that draw power from the fabric of reality itself.  A true source of perpetual kinetic energy when installed on a vehicle, though it still cannot be used to power batteries, and its output is weaker than it originally was.",
+  "stage": 1
+ },
+ {
+  "key": "f57098fd64261288a5f02c62bf82295e",
+  "original": "A compact device built using otherworldly mechanisms of arcane nature.  Originally an unnaturally efficient motor, it has been \"upgraded\" with mechanisms that draw power from the fabric of reality itself.  A true source of perpetual kinetic energy when installed on a vehicle, though it still cannot be used to power batteries.",
+  "translation": "A compact device built using otherworldly mechanisms of arcane nature.  Originally an unnaturally efficient motor, it has been \"upgraded\" with mechanisms that draw power from the fabric of reality itself.  A true source of perpetual kinetic energy when installed on a vehicle, though it still cannot be used to power batteries.",
   "context": "ID: displacement_surge_generator_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→displacement_surge_generator_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=displacement_surge_generator_item",
   "stage": 1
  },
@@ -2611,11 +2617,38 @@
   "stage": 3
  },
  {
+  "key": "365f7cab57d1999064d7865c2036991f",
+  "original": "A compact device built using otherworldly mechanisms to burn crystalized essence for power, if integrated into a vehicle.  Somehow not a bomb despite the immense energy density and unnatural efficiency, but surely highly-concentrated magic energy would be complete overkill for all but the hungriest of rolling bunkers?",
+  "translation": "A compact device built using otherworldly mechanisms to burn crystalized essence for power, if integrated into a vehicle.  Somehow not a bomb despite the immense energy density and unnatural efficiency, but surely highly-concentrated magic energy would be complete overkill for all but the hungriest of rolling bunkers?",
+  "context": "ID: essence_pure_surge_generator_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→essence_pure_surge_generator_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_pure_surge_generator_item",
+  "stage": 1
+ },
+ {
+  "key": "02541b1af796b101ada4f270f557a7b6",
+  "original": "A compact device built using otherworldly mechanisms to convert blood essence into electricity, providing a good source of power if integrated into a vehicle.  Safe to use despite its nature and unnaturally efficient, assuming one can afford the cost of obtaining essence fron life force in such quantities.",
+  "translation": "A compact device built using otherworldly mechanisms to convert blood essence into electricity, providing a good source of power if integrated into a vehicle.  Safe to use despite its nature and unnaturally efficient, assuming one can afford the cost of obtaining essence fron life force in such quantities.",
+  "context": "ID: essence_blood_surge_generator_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→essence_blood_surge_generator_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_blood_surge_generator_item",
+  "stage": 1
+ },
+ {
+  "key": "68e8cd4c75c65aa783cf844935b321f0",
+  "original": "A compact device built using otherworldly mechanisms to convert different types essence into electricity, yielding double the energy each essence holds if integrated into a vehicle.  Safe to use, but using magic essence might be prohibitively expensive for most purposes.",
+  "translation": "A compact device built using otherworldly mechanisms to convert different types essence into electricity, yielding double the energy each essence holds if integrated into a vehicle.  Safe to use, but using magic essence might be prohibitively expensive for most purposes.",
+  "context": "ID: essence_surge_generator_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→essence_surge_generator_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_surge_generator_item",
+  "stage": 1
+ },
+ {
   "key": "adea7a80d83cf5dcfce64def75c41b2d",
   "original": "A compact device built using otherworldly mechanisms to convert essence into electricity, providing considerable power if integrated into a vehicle.  Unnaturally efficient yet safe to use, though using magic essence might be prohibitively expensive for most purposes.",
   "translation": "一个小巧的装置，利用超凡脱俗的机制将源质转化为电能，如果集成到车辆中，可提供相当大的电力。虽然在大多数情况下使用魔法源质可能会贵得让人望而却步，但使用起来却非常安全。",
-  "context": "ID: essence_surge_generator_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→essence_surge_generator_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_surge_generator_item",
   "stage": 3
+ },
+ {
+  "key": "d8a27068de965f4277077a2584c0d62a",
+  "original": "A compact device built using otherworldly mechanisms to turn dull essence into a reliable source of power, if integrated into a vehicle.  Unnaturally efficient yet safe to use, assuming one can obtain large quantities of consecrated essence.",
+  "translation": "A compact device built using otherworldly mechanisms to turn dull essence into a reliable source of power, if integrated into a vehicle.  Unnaturally efficient yet safe to use, assuming one can obtain large quantities of consecrated essence.",
+  "context": "ID: essence_dull_surge_generator_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→essence_dull_surge_generator_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_dull_surge_generator_item",
+  "stage": 1
  },
  {
   "key": "cee7e8256abcf0dfddd310e9c62e9195",
@@ -3408,48 +3441,48 @@
  {
   "key": "863eb67667afe0bf70cae0442bd4492e",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored blood essence.",
-  "translation": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored blood essence.",
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗四种不同类型的源质中的一种。该组件能利用任何存储的猩血源质。",
   "context": "ID: bio_essence_blood_surge_cell\n位于 /Kenan-Structured-Modpack/Arcana/bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→bionic→bio_essence_blood_surge_cell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_essence_blood_surge_cell",
   "stage": 1
  },
  {
   "key": "07f4821612f845cdd082d3d7622e762a",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored crystallized essence.",
-  "translation": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored crystallized essence.",
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗四种不同类型的源质中的一种。该组件能利用任何存储的璀璨源质。",
   "context": "ID: bio_essence_pure_surge_cell\n位于 /Kenan-Structured-Modpack/Arcana/bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→bionic→bio_essence_pure_surge_cell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_essence_pure_surge_cell",
   "stage": 1
  },
  {
   "key": "49c87411e8b17d7bb66989bb5e7ce0b4",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored dull essence.",
-  "translation": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored dull essence.",
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗四种不同类型的源质中的一种。该组件能利用任何存储的阴黯源质。",
   "context": "ID: bio_essence_dull_surge_cell\n位于 /Kenan-Structured-Modpack/Arcana/bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→bionic→bio_essence_dull_surge_cell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_essence_dull_surge_cell",
   "stage": 1
  },
  {
   "key": "0db2bc9a74e3c55ff249abc6e9bcd934",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored standard essence.",
-  "translation": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of four different types of essence at the same time.  This component will draw on any stored standard essence.",
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗四种不同类型的源质中的一种。该组件能利用任何存储的源质。",
   "context": "ID: bio_essence_surge_cell\n位于 /Kenan-Structured-Modpack/Arcana/bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→bionic→bio_essence_surge_cell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_essence_surge_cell",
   "stage": 1
  },
  {
   "key": "cd80638fdb9e0cd1c5c0e9aa9b0e50e8",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of three different types of essence at the same time.  This component will draw on any stored blood essence.",
-  "translation": "一种独特制造的微型反应器，具有单独的腔室，可同时储存和消耗三种不同类型的香精中的一种。该成分将吸收任何储存的血液精华。",
-  "stage": 0
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗三种不同类型的源质中的一种。该组件能利用任何储存的猩血源质。",
+  "stage": 1
  },
  {
   "key": "ef6ebea1380c204f61d3add9f4c51cb7",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of three different types of essence at the same time.  This component will draw on any stored dull essence.",
-  "translation": "一种独特制造的微型反应器，具有单独的腔室，可同时储存和消耗三种不同类型的香精中的一种。该成分将吸收任何储存的沉闷精华。",
-  "stage": 0
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗三种不同类型的源质中的一种。该组件能利用任何储存的阴黯源质。",
+  "stage": 1
  },
  {
   "key": "b4286d96c0e344cf3585695ae4f34b51",
   "original": "A miniaturized reactor of exotic manufacture, with separate chambers to store and consume one of three different types of essence at the same time.  This component will draw on any stored standard essence.",
-  "translation": "一种独特制造的微型反应器，具有单独的腔室，可同时储存和消耗三种不同类型的香精中的一种。该组件将利用任何存储的标准精华。",
-  "stage": 0
+  "translation": "一种以独特工艺制造的微型反应堆，具有单独的腔室，可同时储存和消耗三种不同类型的源质中的一种。该组件能利用任何存储的源质。",
+  "stage": 1
  },
  {
   "key": "0e1447aa0cb98b7a22fb4b3b71e9e801",
@@ -3618,10 +3651,16 @@
   "stage": 3
  },
  {
+  "key": "a731c55826da39626e47392a8e7fd97d",
+  "original": "A powerful electric motor relying on a spatial distortion, amplifying electrical current.  It suffers no skill penalty if multiple are installed.  While unnaturally efficient, its anomalous nature makes it impossible to attach an alternator to it.",
+  "translation": "A powerful electric motor relying on a spatial distortion, amplifying electrical current.  It suffers no skill penalty if multiple are installed.  While unnaturally efficient, its anomalous nature makes it impossible to attach an alternator to it.",
+  "context": "ID: distortion_amp_motor_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→distortion_amp_motor_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=distortion_amp_motor_item",
+  "stage": 1
+ },
+ {
   "key": "a2aa9e65f222c7d203d36b254400dbb1",
   "original": "A powerful electric motor relying on a spatial distortion, amplifying electrical current.  Multiple can be installed for escalating power demands.  While unnaturally efficient, its anomalous nature makes it impossible to attach an alternator to it.",
   "translation": "A powerful electric motor relying on a spatial distortion, amplifying electrical current.  Multiple can be installed for escalating power demands.  While unnaturally efficient, its anomalous nature makes it impossible to attach an alternator to it.",
-  "context": "ID: distortion_amp_motor_item\n位于 /Kenan-Structured-Modpack/Arcana/items/vehiclepart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→distortion_amp_motor_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=distortion_amp_motor_item",
   "stage": 1
  },
  {
@@ -3637,10 +3676,16 @@
   "stage": 1
  },
  {
+  "key": "8fbbcf53576133d589fdbe5d94869e3a",
+  "original": "A powerful electric motor relying on spatial distortion.  Outputs more energy than it consumes, but unusable as a source of free energy.  Multiple can be installed with no skill penalty, but alternators cannot be installed on it.",
+  "translation": "A powerful electric motor relying on spatial distortion.  Outputs more energy than it consumes, but unusable as a source of free energy.  Multiple can be installed with no skill penalty, but alternators cannot be installed on it.",
+  "context": "ID: distorion_amp_motor_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→distorion_amp_motor_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=distorion_amp_motor_part",
+  "stage": 1
+ },
+ {
   "key": "42fea349324c188df33f06d42b5f5737",
   "original": "A powerful electric motor relying on spatial distortion.  Outputs more energy than it consumes, but unusable as a source of free energy.  Multiple can be installed without penalty, but alternators cannot be installed on it.",
   "translation": "A powerful electric motor relying on spatial distortion.  Outputs more energy than it consumes, but unusable as a source of free energy.  Multiple can be installed without penalty, but alternators cannot be installed on it.",
-  "context": "ID: distorion_amp_motor_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→distorion_amp_motor_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=distorion_amp_motor_part",
   "stage": 1
  },
  {
@@ -3756,7 +3801,7 @@
  {
   "key": "873f2ac6f3fafaa3c43d9b50957001a1",
   "original": "A series of translated, annotated excerpts from several ancient books on the concept of alchemy.  This book presents an unconventional interpretation of the works discussed, haphazardly segueing into the author's own failed attempt to create the \"lapis philosophorum\" and \"alkahest\".  Some of the unconventional chemistry discussed might still be useful.\n\"Through all the cycles of putrefaction and purification, we have fallen short of refinement into the Rubedo stage.  We are missing a catalyst, something even purer than gold, energy embodied in matter...\"",
-  "translation": "一系列关于炼金术概念的古籍，经过了翻译和注释摘录。书中所讲述的内容进行了不同寻常的解释,不经意间插入一些了作者自己创造“点金石”和“万能溶剂”的失败经历。其中涉及的某些不同寻常的化学方法可能仍然会派上用场。\n“在所有的腐化和纯化周期中，我们都无法进行赤化阶段的精制。我们缺少一种蕴含能量比金更纯净的催化剂…”",
+  "translation": "一系列关于炼金术概念的古籍，经过了翻译和注释摘录。书中所讲述的内容进行了不同寻常的解释，不经意间插入一些了作者自己创造“点金石”和“万能溶剂”的失败经历。其中涉及的某些不同寻常的化学方法可能仍然会派上用场。\n“在所有的腐化和纯化周期中，我们都无法进行赤化阶段的精制。我们缺少一种蕴含能量比金更纯净的催化剂…”",
   "stage": 3
  },
  {
@@ -4198,15 +4243,15 @@
  {
   "key": "8fa2474535817a2da121c9d84b5760d8",
   "original": "A small generator that converts essence into bionic power, with four separate chambers for different essence types.  Able to hold 5 motes of crystallized essence, 50 motes of standard essence, 150 motes of blood essence, and 1500 motes of dull essence.",
-  "translation": "A small generator that converts essence into bionic power, with four separate chambers for different essence types.  Able to hold 5 motes of crystallized essence, 50 motes of standard essence, 150 motes of blood essence, and 1500 motes of dull essence.",
+  "translation": "一个能够将源质转化为生化能量的微型灵能转换器，有四个单独的腔室用于不同的源质类型。可容纳5单位的璀璨源质、50单位的源质、150单位的猩血源质、1500单位的阴黯源质。",
   "context": "ID: bio_essence_surge_cell\n位于 /Kenan-Structured-Modpack/Arcana/items/bionic_items.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→BIONIC_ITEM→bio_essence_surge_cell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_essence_surge_cell",
   "stage": 1
  },
  {
   "key": "b33bcc58ef95881d3b790aeb0b91c346",
   "original": "A small generator that converts essence into bionic power, with three separate chambers for different essence types.  Able to hold 20 motes of standard essence, 60 motes of blood essence, and 300 motes of dull essence.",
-  "translation": "一种将精华转化为仿生能量的小型发电机，有三个单独的腔室用于不同的精华类型。可容纳20粒标准精华、60粒血液精华、300粒暗沉精华。",
-  "stage": 0
+  "translation": "一个能够将源质转化为生化能量的微型灵能转换器，有三个单独的腔室用于不同的源质类型。可容纳20单位的源质、60单位的猩血源质、300单位的阴黯源质。",
+  "stage": 1
  },
  {
   "key": "59bdea545e72f190cc34d376f522224b",
@@ -4509,14 +4554,14 @@
  {
   "key": "5a5f263991f4bb9a936bb817d9e88642",
   "original": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to fatigue-draining Magic Signs.\n\nEach dose will restore 600 mana.",
-  "translation": "这是一种奇怪的液体，看起来像水银，但密度要小一些，毒性也要小得多。喝下它会给你注入神奇的能量。对于使用法力施法的人来说非常有用，但对于仅限于消耗疲劳的魔法符号的人来说毫无价值。每剂\n\n将恢复600法力值。",
-  "stage": 0
+  "translation": "一种看起来像水银的奇怪液体，尽管密度小一点，毒性明显减少。喝下它补充魔法能量。对于使用魔力施法的人非常有用，但对仅用感到疲劳来使用魔法符号的人来说毫无用处。\n\n每剂恢复600点魔力。",
+  "stage": 1
  },
  {
   "key": "10d8095375d248b9d3fdf9f7aa3d9647",
   "original": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to fatigue-draining Magic Signs.  Each dose will restore 600 mana.",
-  "translation": "这是一种奇怪的液体，看起来像水银，但密度要小一些，毒性也要小得多。喝下它会给你注入神奇的能量。对于使用法力施法的人来说非常有用，但对于仅限于消耗疲劳的魔法符号的人来说毫无价值。每剂可恢复600法力值。",
-  "stage": 0
+  "translation": "一种看起来像水银的奇怪液体，尽管密度小一点，毒性明显减少。喝下它补充魔法能量。对于使用魔力施法的人非常有用，但对仅用感到疲劳来使用魔法符号的人来说毫无用处。每剂恢复600点魔力。",
+  "stage": 1
  },
  {
   "key": "28a85fa1b9666d602846f9f5eb92250b",
@@ -4527,7 +4572,7 @@
  {
   "key": "bfac1119728e394110fd331d730b44a7",
   "original": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to stamina-draining Magic Signs.\n\nEach dose will restore 750 mana.",
-  "translation": "A strange liquid that looks like mercury, albeit quite a bit less dense and significantly less toxic.  Drinking it will imbue you with magical energy.  Highly useful to someone who uses mana for spells, but worthless to someone limited to stamina-draining Magic Signs.\n\nEach dose will restore 750 mana.",
+  "translation": "一种看起来像水银的奇怪液体，尽管密度小一点，毒性明显减少。喝下它补充魔法能量。对于使用魔力施法的人非常有用，但对仅用感到疲劳来使用魔法符号的人来说毫无用处。\n\n每剂恢复750点魔力。",
   "context": "ID: arcana_mana_potion\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→arcana_mana_potion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_mana_potion",
   "stage": 1
  },
@@ -4961,9 +5006,9 @@
  {
   "key": "70e7e2ca6562c6f1e030c3171cca99e6",
   "original": "A two-handed sword richly engraved with exotic runes, all in scripts not of this world.  Once corrupted and now restored, it can only serve a fragment of its original purpose.  Linger near a portal to collapse it into a form you can harvest crystallized essence from.  It will grant great gifts, but set you down a path you can't return from.",
-  "translation": "一把双手剑，上面雕刻着丰富的异国情调的符文，所有的文字都不属于这个世界。一旦损坏，现在恢复，它只能服务于其原始目的的一部分。徘徊在一个入口附近，将其折叠成一种形式，你可以从中收获结晶的精华。它会给你带来巨大的礼物，但会让你走上一条无法回头的路。",
+  "translation": "一把雕刻着大量奇异符文的双手剑，所有的文字都不属于这个世界。一旦损坏便会立即修复，只能实现于其原始目的的一部分。在门户旁逗留使其坍缩成可收集的璀璨源质。它会给你带来巨大的礼物，但会让你走上一条无法回头的路。",
   "context": "ID: veilblade\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→veilblade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=veilblade",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "16004350dd411c20560118989c0b92ee",
@@ -5619,7 +5664,6 @@
   "key": "facc278edd4df9f2a80fcfaa59821165",
   "original": "Aikido",
   "translation": "合气道",
-  "context": "ID: style_aikido\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_aikido\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_aikido",
   "stage": 5
  },
  {
@@ -5927,6 +5971,13 @@
   "stage": 1
  },
  {
+  "key": "e6ccda71c0651d8c411763d4e41d83af",
+  "original": "An abstract part that essence surge generators inherit from.",
+  "translation": "An abstract part that essence surge generators inherit from.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→[1]\n",
+  "stage": 1
+ },
+ {
   "key": "927cc3f3dd04861715d4ff4fca26b249",
   "original": "An advanced, though somewhat bulky, energy weapon exploiting exotic phenomenon.  Fires an anomalous bolt of energy that can jump from target to target, generating an electrothermal effect that leaves burning plasma and explosive bursts of electricity in its wake.  Highly indiscriminate, but equally destructive if used in a target-rich environment.",
   "translation": "An advanced, though somewhat bulky, energy weapon exploiting exotic phenomenon.  Fires an anomalous bolt of energy that can jump from target to target, generating an electrothermal effect that leaves burning plasma and explosive bursts of electricity in its wake.  Highly indiscriminate, but equally destructive if used in a target-rich environment.",
@@ -6082,13 +6133,46 @@
   "key": "c13466c0318bca256267d27a92106881",
   "original": "An exotic motor, converted into a endless source of kinetic energy with even more anomalous technology.  It serves as a motor that never drains power, though less powerful than its original form.  Still cannot be equiped with an alternator, but multiple can be installed if needed.",
   "translation": "An exotic motor, converted into a endless source of kinetic energy with even more anomalous technology.  It serves as a motor that never drains power, though less powerful than its original form.  Still cannot be equiped with an alternator, but multiple can be installed if needed.",
+  "stage": 1
+ },
+ {
+  "key": "b30ed08aa8ebffde49a1d444d1dccdcb",
+  "original": "An exotic motor, converted into a endless source of kinetic energy with even more anomalous technology.  It serves as a motor that never drains power.  Still cannot be equipped with an alternator, but multiple can be installed without skill penalty.",
+  "translation": "An exotic motor, converted into a endless source of kinetic energy with even more anomalous technology.  It serves as a motor that never drains power.  Still cannot be equipped with an alternator, but multiple can be installed without skill penalty.",
   "context": "ID: surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surge_generator_part",
   "stage": 1
  },
  {
   "key": "7f275e0796ce31ab7f08174b56c0d322",
   "original": "An exotic reactor designed to be charged with essence, broken down in a reaction that increases its potential output.  Unnaturally efficient and reliable, though limited by how precious a fuel source such otherworldly energies are.",
-  "translation": "一种奇特的反应堆，被设计用来充注香精，在一次反应中被破坏，从而增加了它的潜在产量。不自然的高效和可靠，尽管受到燃料来源的限制，这种超现实的能量是多么的珍贵。",
+  "translation": "一个奇特的反应堆，被设计用来充注源质，在一次反应中被破坏，从而增加了它的潜在产量。不自然的高效和可靠，尽管受到燃料来源的限制，这种超现实的能量是多么的珍贵。",
+  "stage": 1
+ },
+ {
+  "key": "0a58416b7c003597b075b63ceeda2982",
+  "original": "An exotic reactor that breaks down blood essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though sustaining it with magical energy made from life force may be difficult.",
+  "translation": "An exotic reactor that breaks down blood essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though sustaining it with magical energy made from life force may be difficult.",
+  "context": "ID: essence_blood_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_blood_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_blood_surge_generator_part",
+  "stage": 1
+ },
+ {
+  "key": "6d8b23f21aaaf67ffb81aa9401b97223",
+  "original": "An exotic reactor that breaks down crystallized essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though surely such enormous energy density is overkill for all but the hungriest of rolling bunkers?",
+  "translation": "An exotic reactor that breaks down crystallized essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though surely such enormous energy density is overkill for all but the hungriest of rolling bunkers?",
+  "context": "ID: essence_pure_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_pure_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_pure_surge_generator_part",
+  "stage": 1
+ },
+ {
+  "key": "9a2737336e2c001d1099d882ebcff75f",
+  "original": "An exotic reactor that breaks down dull essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though it may be prohibitive to sustain it with large amounts of consecrated energy.",
+  "translation": "An exotic reactor that breaks down dull essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though it may be prohibitive to sustain it with large amounts of consecrated energy.",
+  "context": "ID: essence_dull_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_dull_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_dull_surge_generator_part",
+  "stage": 1
+ },
+ {
+  "key": "16ad23991e754a88df80c8ac3b285763",
+  "original": "An exotic reactor that breaks down essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though limited by how precious a fuel source such otherworldly energies are.",
+  "translation": "An exotic reactor that breaks down essence, in a reaction that doubles power output.  Unnaturally efficient and reliable, though limited by how precious a fuel source such otherworldly energies are.",
   "context": "ID: essence_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_surge_generator_part",
   "stage": 1
  },
@@ -6184,9 +6268,9 @@
  {
   "key": "3d998c2363fe62df60c61c965659a591",
   "original": "An ornate necklace with a small charm resembling a round shield, made from a hard iridescent metal.  Activating it will ward against electricity at the expense of slowing you down slightly, consuming dull essence while active.",
-  "translation": "一种华丽的项链，有一个类似圆形盾牌的小饰物，由坚硬的彩虹色金属制成。激活它可以抵抗电流，但代价是稍微减慢你的速度，在活动时消耗沉闷的精华。",
+  "translation": "一种装饰华丽的项链，带有类似圆形盾牌的小饰物，由坚硬的彩虹色金属制成。激活它会产生电流防护结界，但代价是稍微减慢你的速度，在活动时消耗阴黯源质。",
   "context": "ID: meteoric_talisman\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→meteoric_talisman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meteoric_talisman",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "677ef4feb440ea258cfc5d0767374e83",
@@ -7313,7 +7397,7 @@
  {
   "key": "d4fbb347905d4743ea59e68d41fa8ebd",
   "original": "Attuning to the ebb and flow of this reality, you more easily avoid threats.\n\n+2 Dodge attempts, Dodge Skill increased by 50% of Intelligence.",
-  "translation": "Attuning to the ebb and flow of this reality, you more easily avoid threats.\n\n+2 Dodge attempts, Dodge Skill increased by 50% of Intelligence.",
+  "translation": "适应这个现实的起伏，你更容易避开威胁。\n\n问避次数 +2，闪避技能按智力的 50% 提升。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_veil_chosen",
   "stage": 1
  },
@@ -7398,7 +7482,6 @@
   "key": "b73c90c7e2ec6aa4b963d4da63abd43d",
   "original": "Barbaran Montante",
   "translation": "巴尔瓦兰剑术",
-  "context": "ID: style_barbaran\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_barbaran\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_barbaran",
   "stage": 3
  },
  {
@@ -9542,6 +9625,12 @@
   "key": "9acfa1a66287594fac45d8a08ae54494",
   "original": "Drawing upon power from Beyond to heal the body can overtax body and mind.  The effects don't feel very severe now, but it might be best to recover unless it's an emergency.",
   "translation": "利用来自外界的力量来治愈身体会使身心负担过重。现在感觉不太严重，但最好是恢复，除非是紧急情况。",
+  "stage": 1
+ },
+ {
+  "key": "ddc70a0d82952de521f211231673c485",
+  "original": "Drawing upon power from Beyond to heal the body can overtax the body.  The effects don't feel very severe now, but it might be best to recover unless it's an emergency.",
+  "translation": "Drawing upon power from Beyond to heal the body can overtax the body.  The effects don't feel very severe now, but it might be best to recover unless it's an emergency.",
   "context": "ID: arcane_healing_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcane_healing_side_effects\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcane_healing_side_effects",
   "stage": 1
  },
@@ -9549,6 +9638,12 @@
   "key": "cf30d97464105c96bddfc24f4d71fd3b",
   "original": "Drawing upon power from Beyond to heal the body is slowing your natural healing, and making exertion more difficult.",
   "translation": "从外而来的力量来治疗身体会减慢你的自然愈合，并使努力变得更加困难。",
+  "stage": 1
+ },
+ {
+  "key": "3f29a0890846a3df89a9933c616395a9",
+  "original": "Drawing upon power from Beyond to heal the body is wearing you down and slowing your natural healing.",
+  "translation": "Drawing upon power from Beyond to heal the body is wearing you down and slowing your natural healing.",
   "context": "ID: arcane_healing_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcane_healing_side_effects\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcane_healing_side_effects",
   "stage": 1
  },
@@ -9954,7 +10049,6 @@
   "key": "8be066c4409d4e61f51de88506e2a16c",
   "original": "Eskrima",
   "translation": "菲律宾剑棍术",
-  "context": "ID: style_eskrima\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_eskrima\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_eskrima",
   "stage": 5
  },
  {
@@ -10293,7 +10387,6 @@
   "key": "ad0b8f049250bca671aabed2ff32fd89",
   "original": "Fencing",
   "translation": "击剑",
-  "context": "ID: style_fencing\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_fencing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_fencing",
   "stage": 5
  },
  {
@@ -10493,7 +10586,6 @@
   "key": "713a24ccefa1279fb888fa17a0780459",
   "original": "Fior Di Battaglia",
   "translation": "战斗之花",
-  "context": "ID: style_medievalpole\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_medievalpole\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_medievalpole",
   "stage": 5
  },
  {
@@ -10915,8 +11007,14 @@
   "key": "685aaef144309ce7b6aa2c397994d340",
   "original": "Gods above and below, to think this thing caused one of our holiest places to fall to ruin.  I doubt it will be safe to reclaim that place anytime soon.  Anything you found down their is yours to use as you see fit.  I hope that those who fell holding that thing back are are peace.  Speak with me when you see fit.",
   "translation": "上上下下的诸神，想想这件事导致了我们最神圣的地方之一的毁灭。我怀疑很快收回那个地方是否安全。你从他们那里找到的任何东西都是你的，只要你觉得合适就可以使用。我希望那些阻止这件事的人是和平的。你觉得合适的时候跟我说。",
-  "context": "ID: MISSION_CF_GM_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_GM_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CF_GM_2",
   "stage": 0
+ },
+ {
+  "key": "bbf4cbaf0d602dde45fbf4ec0d896816",
+  "original": "Gods above and below, to think this thing caused one of our holiest places to fall to ruin.  I doubt it will be safe to reclaim that place anytime soon.  Anything you found down there is yours to use as you see fit.  I hope that those who fell holding that thing back are at peace.  Speak with me when you see fit.",
+  "translation": "Gods above and below, to think this thing caused one of our holiest places to fall to ruin.  I doubt it will be safe to reclaim that place anytime soon.  Anything you found down there is yours to use as you see fit.  I hope that those who fell holding that thing back are at peace.  Speak with me when you see fit.",
+  "context": "ID: MISSION_CF_GM_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_GM_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CF_GM_2",
+  "stage": 1
  },
  {
   "key": "3811252d61b81dda5e20e3c69b56df5e",
@@ -12727,7 +12825,7 @@
  {
   "key": "b07509a3b39ae6b286a5a7ad3169685e",
   "original": "I hadn't been in the Order for very long when one of the magi had everyone gathered up.  We were in this other place at the time with a couple others, and initially I thought she was preparing another lesson.",
-  "translation": "我没等多久，就有一个博士叫大家集合起来。当时我们和其他几个人在另一个地方，起初我以为她在准备另一节课。",
+  "translation": "我没等多久，就有一个魔奇叫大家集合起来。当时我们和其他几个人在另一个地方，起初我以为她在准备另一节课。",
   "context": "ID: BGSS_BLOOD_MAGE_1_STORY1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_APPRENTICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_BLOOD_MAGE_1_STORY1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_BLOOD_MAGE_1_STORY1",
   "stage": 1
  },
@@ -15145,7 +15243,7 @@
  {
   "key": "fb4982115e5f86ac2c43f8a86f6dc3bb",
   "original": "Immersed in The Beyond, you have learned to defend against unconventional threats with otherworldly weapons, rewarding high intelligence and perception.  Though not of mortal origin, this art's greatest secrets resonate with specific ritual weapons, destined for their Chosen wielders.",
-  "translation": "Immersed in The Beyond, you have learned to defend against unconventional threats with otherworldly weapons, rewarding high intelligence and perception.  Though not of mortal origin, this art's greatest secrets resonate with specific ritual weapons, destined for their Chosen wielders.",
+  "translation": "浸礼于超越，你已经学会了用异域的武器来抵御非常规的威胁，加成随智力和感知提升。尽管不起源于凡人，但这门艺术最伟大的秘密与特定的仪式武器产生的共鸣，注定是为他们的天选者而设。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_veil_chosen",
   "stage": 1
  },
@@ -15769,7 +15867,7 @@
  {
   "key": "f95da6cf6eef2352d92940ad9344fa84",
   "original": "Is there a risk that the magi might find this place?",
-  "translation": "博士们有可能找到这个地方吗？",
+  "translation": "魔奇们有可能找到这个地方吗？",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER_WHERE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER_WHERE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BLOOD_MAGE_SHRIKE_SPLINTER_WHERE",
   "stage": 1
  },
@@ -16267,7 +16365,6 @@
   "key": "73a1b10caa8e81aad9a45a5de0258b7a",
   "original": "Judo",
   "translation": "柔道",
-  "context": "ID: style_judo\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_judo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_judo",
   "stage": 5
  },
  {
@@ -16525,7 +16622,6 @@
   "key": "aa95ebe972f668b08409cfddf74ba1a8",
   "original": "Krav Maga",
   "translation": "马伽术",
-  "context": "ID: style_krav_maga\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_krav_maga\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_krav_maga",
   "stage": 5
  },
  {
@@ -16807,7 +16903,7 @@
  {
   "key": "21106e0839fd47b9d359174ee5075ac0",
   "original": "Liminal Stance",
-  "translation": "Liminal Stance",
+  "translation": "阈限姿态",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_veil_chosen",
   "stage": 1
  },
@@ -17089,107 +17185,107 @@
  {
   "key": "40cb767d81dae8744bf49c979d9e666a",
   "original": "Magic Seal (Agility)",
-  "translation": "Magic Seal (Agility)",
+  "translation": "法术魔印 (敏捷)",
   "context": "ID: totem_agile\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_agile\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_agile",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4913056b15b333d3648a34bdca6733cc",
   "original": "Magic Seal (Clairvoyance)",
-  "translation": "Magic Seal (Clairvoyance)",
+  "translation": "法术魔印 (透视)",
   "context": "ID: totem_clairvoyance\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_clairvoyance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_clairvoyance",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9a7e737670b45a94d507159934a0ae72",
   "original": "Magic Seal (Clarity of Blood)",
-  "translation": "Magic Seal (Clarity of Blood)",
+  "translation": "法术魔印 (净化血液)",
   "context": "ID: totem_clarity\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_clarity\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_clarity",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3951851422804b4424a7bc0ee8087a87",
   "original": "Magic Seal (Confuse Monsters)",
-  "translation": "Magic Seal (Confuse Monsters)",
+  "translation": "法术魔印 (迷惑怪物)",
   "context": "ID: totem_confusion\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_confusion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_confusion",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "98d41cd6a1d2e9b92c4cba3ff205a15b",
   "original": "Magic Seal (Conjure Acid)",
-  "translation": "Magic Seal (Conjure Acid)",
+  "translation": "法术魔印 (召唤酸)",
   "context": "ID: totem_acidspray\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_acidspray\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_acidspray",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cc288970e127008821f976a3555a3588",
   "original": "Magic Seal (Free Action)",
-  "translation": "Magic Seal (Free Action)",
+  "translation": "法术魔印 (挣脱束缚)",
   "context": "ID: totem_free_action\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_free_action\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_free_action",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "38b25e2195b333efd5f77b804eca0bd1",
   "original": "Magic Seal (Healing)",
-  "translation": "Magic Seal (Healing)",
+  "translation": "法印魔印 (治愈)",
   "context": "ID: totem_heal\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_heal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_heal",
   "stage": 1
  },
  {
   "key": "6fa3c765fbe7bdf81c8749e1fa301253",
   "original": "Magic Seal (Heat Ward)",
-  "translation": "Magic Seal (Heat Ward)",
+  "translation": "法术魔印 (避热)",
   "context": "ID: totem_flamearmor\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_flamearmor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_flamearmor",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f7f66c49df0205b6ba85d0af4bd27be0",
   "original": "Magic Seal (Insight)",
-  "translation": "Magic Seal (Insight)",
+  "translation": "法术魔印 (洞察)",
   "context": "ID: totem_insight\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_insight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_insight",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8f4b6c27b9c36f02de8762d5d54bbf2c",
   "original": "Magic Seal (Lightning Ward)",
-  "translation": "Magic Seal (Lightning Ward)",
+  "translation": "法术魔印 (抗电)",
   "context": "ID: totem_elecresist\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_elecresist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_elecresist",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cbc07dfbfd85498edc531808995f400d",
   "original": "Magic Seal (Might)",
-  "translation": "Magic Seal (Might)",
+  "translation": "法术魔印 (强力)",
   "context": "ID: totem_strength\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_strength\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_strength",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d94f8bf6ebedda43db839ffb6b7c0833",
   "original": "Magic Seal (Overgrowth)",
-  "translation": "Magic Seal (Overgrowth)",
+  "translation": "法术魔印 (过度生长)",
   "context": "ID: totem_plants\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_plants\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_plants",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dae7c7f0fca623174deea55b8a1f98f6",
   "original": "Magic Seal (Shadowy Shield)",
-  "translation": "Magic Seal (Shadowy Shield)",
+  "translation": "法术魔印 (暗影盾)",
   "context": "ID: totem_invis\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_invis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_invis",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e22026c9ba03e56bd969fa04ade8419c",
   "original": "Magic Seal (Shockstorm)",
-  "translation": "Magic Seal (Shockstorm)",
+  "translation": "法术魔印 (冲击波)",
   "context": "ID: totem_lightning\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_lightning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_lightning",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2d903036c1578e0b2934fbb1abff7cc8",
   "original": "Magic Seal (Ward Against Evil)",
-  "translation": "Magic Seal (Ward Against Evil)",
+  "translation": "法术魔印 (辟邪)",
   "context": "ID: totem_cleric\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→totem_cleric\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=totem_cleric",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "47c5b0f594aedbd91cd2aa05efff39d7",
@@ -17327,7 +17423,7 @@
  {
   "key": "01fc6f3342b39269399dec1e8f0885fd",
   "original": "Magic Sign\nUsing this spell will anoint you with a sunstone halo, granting a temporary defensive effect that will push any nearby attackers away from you in random directions, activating at random when you're struck.",
-  "translation": "Magic Sign\nUsing this spell will anoint you with a sunstone halo, granting a temporary defensive effect that will push any nearby attackers away from you in random directions, activating at random when you're struck.",
+  "translation": "魔法符号\n使用此魔法将为你涂上太阳石光环，给予一个临时防御效果将任何接近的攻击者推开，在被打中时随机启动。",
   "context": "ID: arcana_magic_phase_shield\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_phase_shield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_phase_shield",
   "stage": 1
  },
@@ -17380,9 +17476,9 @@
  {
   "key": "03116d08c6a5d87452f3eb76c244808a",
   "original": "Magic Sign\nUsing this spell will call forth lightning all around you.  Anything close to you will take double damage.  Beware using it around allies.",
-  "translation": "使用此咒语的魔法符号\n将在你周围发出闪电。任何靠近你的东西都会受到双倍伤害。小心在盟友周围使用它。",
+  "translation": "魔法符号\n使用这个法术会在你周围召唤闪电。任何靠近你的东西都会受到双倍伤害。小心在盟友周围使用它。",
   "context": "ID: arcana_magic_shockstorm\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_shockstorm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_shockstorm",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9092059b01a273f8ea14e99a6253fd05",
@@ -17467,7 +17563,7 @@
  {
   "key": "c318ca3afee72789d8dc63acd1e67269",
   "original": "Magic Sign\nUsing this spell will grant a temporary boost to perception, and night vision.  It can be used on yourself or an ally.",
-  "translation": "Magic Sign\nUsing this spell will grant a temporary boost to perception, and night vision.  It can be used on yourself or an ally.",
+  "translation": "魔法符号\n使用此咒语将暂时增强感知能力和夜视能力。它可以在自己或盟友身上使用。",
   "context": "ID: arcana_magic_insight\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_insight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_insight",
   "stage": 1
  },
@@ -17534,7 +17630,7 @@
  {
   "key": "763e36d5376d8096a13a58f09a920609",
   "original": "Magic Sign\nUsing this spell will loose a beam of otherworldly energy, blinding all in its path.  Machines and some otherworldly creatures will be immune, and its use will attract otherworldly attention.",
-  "translation": "Magic Sign\nUsing this spell will loose a beam of otherworldly energy, blinding all in its path.  Machines and some otherworldly creatures will be immune, and its use will attract otherworldly attention.",
+  "translation": "魔法符号\n使用此法术来释放一道超自然能量，区域内全部对象致盲。对机械和部分异域生物无效，并吸引异界注意。",
   "context": "ID: arcana_magic_dark_lance\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_dark_lance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_dark_lance",
   "stage": 1
  },
@@ -17555,7 +17651,7 @@
  {
   "key": "b8f193352e24d728bd08953637daf057",
   "original": "Magic Sign\nUsing this spell will shroud you with a faded halo, which will make you undetectable to otherworldly creatures (Nether creatures, fungus, triffids, etc), in exchange for being easier to spot by any other creatures.",
-  "translation": "Magic Sign\nUsing this spell will shroud you with a faded halo, which will make you undetectable to otherworldly creatures (Nether creatures, fungus, triffids, etc), in exchange for being easier to spot by any other creatures.",
+  "translation": "魔法符号\n使用此法术将为你笼罩一层褪色光环，使你无法被异域生物发现（异界生物，真菌，三尖树等），作为交换更容易被其他生物发现。",
   "context": "ID: arcana_magic_temporal_aura\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_temporal_aura\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_temporal_aura",
   "stage": 1
  },
@@ -17748,9 +17844,9 @@
  {
   "key": "35c41963401df2745d9620c3e58d8c75",
   "original": "Magic Sign: Capacitance",
-  "translation": "Magic Sign: Capacitance",
+  "translation": "魔法符号：电容",
   "context": "ID: SPELL_CAPACITANCE\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_magic_signs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SPELL_CAPACITANCE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SPELL_CAPACITANCE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fa41bc42427a756ff93098ff04ca65b1",
@@ -18984,9 +19080,9 @@
  {
   "key": "68b3e57f162006aab0bfdde7af99ac01",
   "original": "Magic Sign: Transcendent Aura",
-  "translation": "Magic Sign: Transcendent Aura",
+  "translation": "魔法符号：超越",
   "context": "ID: SPELL_TRANSCENDENTAURA\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_magic_signs.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SPELL_TRANSCENDENTAURA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SPELL_TRANSCENDENTAURA",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "80b4de3ff950b9c0cc811a6b153394bb",
@@ -19357,7 +19453,6 @@
   "key": "c49fe35865d3514e183b252f13dbae89",
   "original": "Medieval Swordsmanship",
   "translation": "中世纪剑术",
-  "context": "ID: style_swordsmanship\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_swordsmanship\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_swordsmanship",
   "stage": 5
  },
  {
@@ -19933,7 +20028,6 @@
   "key": "685dd67df50f5ceff56f17fef611bece",
   "original": "Ninjutsu",
   "translation": "忍术",
-  "context": "ID: style_ninjutsu\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_ninjutsu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_ninjutsu",
   "stage": 5
  },
  {
@@ -21879,9 +21973,9 @@
  {
   "key": "ca72a66e8005aa06cc693e898b904b3c",
   "original": "Prepares a ritual to obtain crystallized essence.  Doing so will take 15 minutes, inflicting harm upon your body at the end, as well as dire consequences if overused…",
-  "translation": "准备仪式以获得结晶的精华。这样做需要15分钟，最终会对你的身体造成伤害，如果过度使用也会造成可怕的后果…",
+  "translation": "准备仪式以获得璀璨源质。这样做需要15分钟，并会对你的身体造成伤害，如果过度使用还会造成可怕的后果…",
   "context": "ID: arcana_item_coalescent_offering\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_coalescent_offering\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_coalescent_offering",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8f49f46acd6f0a3edf4a9445da6a7b07",
@@ -22003,9 +22097,9 @@
  {
   "key": "e924a85ed652c31a25272aaebdf1cadd",
   "original": "Provide essence, and the fallen angel shall spread its wings.",
-  "translation": "提供精华，堕落的天使将展开翅膀。",
+  "translation": "献上源质，堕落的天使将展开翅膀。",
   "context": "ID: cleric_ring\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→cleric_ring\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cleric_ring",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d6acb82b85ef5e91d9f508e016b13218",
@@ -22612,7 +22706,7 @@
  {
   "key": "c290009052ed3c9b2f438421ff23b304",
   "original": "Ritual Art",
-  "translation": "Ritual Art",
+  "translation": "仪式之道",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_veil_chosen",
   "stage": 1
  },
@@ -23627,7 +23721,7 @@
  {
   "key": "fbb8253127e95ac59119ee5ccf985c63",
   "original": "Sign: Confuse Monsters",
-  "translation": "Sign: Confuse Monsters",
+  "translation": "符号：迷惑怪物",
   "context": "ID: arcana_magic_confuse_monster\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_confuse_monster\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_magic_confuse_monster",
   "stage": 1
  },
@@ -23858,7 +23952,6 @@
   "key": "47540830cfa149067a9c8cfd8aab48a0",
   "original": "Silat",
   "translation": "班卡苏拉刀术",
-  "context": "ID: style_silat\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_silat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_silat",
   "stage": 5
  },
  {
@@ -24080,7 +24173,7 @@
  {
   "key": "4c44aa856c158ee398fee26e3479474c",
   "original": "So that is why you seek information from us.  I guess will trust you with this.  The truth is, we seek to preserve and adapt as well.  That is the purpose of a shrike, to use what we have gained for the sake of others.  It's only now, after all this bloodshed, that it seems we can do more than protect the magi with this gift.",
-  "translation": "所以这就是你们向我们寻求信息的原因。我想我会相信你的。事实是，我们也在寻求保护和适应。这就是屠猎者的目的，为了他人的利益而利用我们所获得的。直到现在，在经历了这么多的流血事件之后，我们似乎能做的不仅仅是用这个天赋来保护麦琪。",
+  "translation": "所以这就是你们向我们寻求信息的原因。我想我会相信你的。事实是，我们也在寻求保护和适应。这就是屠猎者的目的，为了他人的利益而利用我们所获得的。直到现在，在经历了这么多的流血事件之后，我们似乎能做的不仅仅是用这个天赋来保护魔奇。",
   "stage": 1
  },
  {
@@ -25464,7 +25557,6 @@
   "key": "b2c1dfb8e7c54b00a41db997f608dade",
   "original": "Sōjutsu",
   "translation": "日本枪术",
-  "context": "ID: style_sojutsu\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_sojutsu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_sojutsu",
   "stage": 5
  },
  {
@@ -27094,7 +27186,7 @@
  {
   "key": "c8b98540a1a47ba0ca1a17aa6f1c5298",
   "original": "The magi liked to isolate us from civilization at large.  Typical cult stuff now that I think about it, plus made it easier to cover our tracks.  But, for all the talk of preparation and adaptation, I don't know if they really predicted this, but our isolation kept us from suffering the same fate as those in the cities.  Now it's just a matter of surviving, I guess.",
-  "translation": "博士们喜欢把我们与整个文明隔离开来。典型的邪教的东西，现在我想，加上更容易掩盖我们的踪迹。但是，对于所有关于准备和适应的讨论，我不知道他们是否真的预测到了这一点，但是我们的与世隔绝使我们免于遭受和城市里那些人一样的命运。我想现在只是生存的问题了。",
+  "translation": "魔奇们喜欢把我们与整个文明隔离开来。典型的邪教的东西，现在我想，加上更容易掩盖我们的踪迹。但是，对于所有关于准备和适应的讨论，我不知道他们是否真的预测到了这一点，但是我们的与世隔绝使我们免于遭受和城市里那些人一样的命运。我想现在只是生存的问题了。",
   "context": "ID: BGSS_BLOOD_MAGE_1_IDEAS2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_APPRENTICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_BLOOD_MAGE_1_IDEAS2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_BLOOD_MAGE_1_IDEAS2",
   "stage": 1
  },
@@ -28879,17 +28971,29 @@
   "stage": -1
  },
  {
+  "key": "a9fbe37f53fcaf8e024619f41addcc07",
+  "original": "This exists to grant long-term side effects to Wave of Destruction, 2 minutes per mana cost.",
+  "translation": "This exists to grant long-term side effects to Wave of Destruction, 2 minutes per mana cost.",
+  "context": "ID: arcana_aftermath_wave_destruction_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_wave_destruction_side_effects\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_aftermath_wave_destruction_side_effects",
+  "stage": 1
+ },
+ {
   "key": "ddfee48513e88fadc6c8417c44558e05",
   "original": "This exists to grant long-term side effects to Wave of Destruction.",
   "translation": "This exists to grant long-term side effects to Wave of Destruction.",
-  "context": "ID: arcana_aftermath_wave_destruction_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_wave_destruction_side_effects\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_aftermath_wave_destruction_side_effects",
   "stage": 3
+ },
+ {
+  "key": "8741071d77c74cdea0224a304cf237ca",
+  "original": "This exists to grant the long-term side effects of Healing, 12 seconds per stamina cost of the spell.",
+  "translation": "This exists to grant the long-term side effects of Healing, 12 seconds per stamina cost of the spell.",
+  "context": "ID: arcana_aftermath_healing_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_healing_side_effects\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_aftermath_healing_side_effects",
+  "stage": 1
  },
  {
   "key": "d02fca50fb8bc7d239569abb86eb43f5",
   "original": "This exists to grant the long-term side effects of Healing.",
   "translation": "This exists to grant the long-term side effects of Healing.",
-  "context": "ID: arcana_aftermath_healing_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_healing_side_effects\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_aftermath_healing_side_effects",
   "stage": 3
  },
  {
@@ -29033,17 +29137,29 @@
   "stage": 3
  },
  {
+  "key": "632a7e6b1c5aedce8f5cb8963ae4dadb",
+  "original": "This inflicts the more insidious effects of the athame, at a rate of 50 minutes per fatigue cost.",
+  "translation": "This inflicts the more insidious effects of the athame, at a rate of 50 minutes per fatigue cost.",
+  "context": "ID: arcana_item_athame_sanguine_art_corruption\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_athame_sanguine_art_corruption\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_athame_sanguine_art_corruption",
+  "stage": 1
+ },
+ {
   "key": "27770d7a7ea1ed54adfe39ae375b8d3a",
   "original": "This inflicts the more insidious effects of the athame.  That's 2 entire days of side-effect buildup per use, by the way.",
   "translation": "This inflicts the more insidious effects of the athame.  That's 2 entire days of side-effect buildup per use, by the way.",
-  "context": "ID: arcana_item_athame_sanguine_art_corruption\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_athame_sanguine_art_corruption\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_athame_sanguine_art_corruption",
   "stage": 3
+ },
+ {
+  "key": "a6073da13297a0f9c41c7fd3c5e66266",
+  "original": "This inflicts the more insidious effects of the chalice, at a rate of 50 minutes per fatigue cost.",
+  "translation": "This inflicts the more insidious effects of the chalice, at a rate of 50 minutes per fatigue cost.",
+  "context": "ID: arcana_item_chalice_offering_corruption\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_chalice_offering_corruption\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_chalice_offering_corruption",
+  "stage": 1
  },
  {
   "key": "444cc83597ae929888439784abfb35fb",
   "original": "This inflicts the more insidious effects of the chalice.  That's 2 entire days of side-effect buildup per use, by the way.",
   "translation": "This inflicts the more insidious effects of the chalice.  That's 2 entire days of side-effect buildup per use, by the way.",
-  "context": "ID: arcana_item_chalice_offering_corruption\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_chalice_offering_corruption\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_chalice_offering_corruption",
   "stage": 3
  },
  {
@@ -29401,7 +29517,7 @@
  {
   "key": "4fe0b385059f30ee54b599cea1a99b68",
   "original": "This is a scroll, with odd writing and scenes of endless battle on it, representing an otherworldly war god.  Using it will call forth a thunderous boom, toppling structures and harming creatures all around, at the cost of attracting otherworldly attention.",
-  "translation": "这是一幅卷轴，上面写着奇怪的文字和无尽的战斗场面，代表着一个超凡脱俗的战神。使用它会引起雷鸣般的轰鸣，倒塌建筑物，伤害周围的生物，代价是吸引超自然的注意力。",
+  "translation": "这是一幅卷轴，上面写着奇怪的文字和无尽的战斗场面，代表着一个超凡脱俗的战神。使用它会引起雷鸣般的轰鸣，倒塌建筑物，伤害周围的生物，代价是吸引异界的注意。",
   "context": "ID: scroll_destruction\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→scroll_destruction\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scroll_destruction",
   "stage": 1
  },
@@ -32002,44 +32118,44 @@
  {
   "key": "c6e3ffd3f43e275512c9b1b662c1cc6c",
   "original": "What can you tell me about Agility?",
-  "translation": "What can you tell me about Agility?",
+  "translation": "关于敏捷你能告诉我什么？",
   "context": "ID: TALK_CF_AUX_MAGE_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MAGE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MAGE_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_AUX_MAGE_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c68fcd9d910ce65199f5ca82e5555486",
   "original": "What can you tell me about Capacitance?",
-  "translation": "What can you tell me about Capacitance?",
+  "translation": "关于电容你能告诉我什么？",
   "context": "ID: TALK_CF_PURIFIER_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_PURIFIER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_PURIFIER_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_PURIFIER_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "465cb0904bda9f0ba2e27695e519fe9c",
   "original": "What can you tell me about Conjure Flame?",
-  "translation": "What can you tell me about Conjure Flame?",
+  "translation": "关于召唤火焰你能告诉我什么？",
   "context": "ID: TALK_CF_AUX_MAGE_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MAGE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MAGE_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_AUX_MAGE_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "021f5b17e6af82a254acd16bd0faeb1b",
   "original": "What can you tell me about Consecrate?",
-  "translation": "What can you tell me about Consecrate?",
+  "translation": "关于祝圣你能告诉我什么？",
   "context": "ID: TALK_CF_PURIFIER_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_PURIFIER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_PURIFIER_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_PURIFIER_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b72ba98367c841666ffcf92bedb405d8",
   "original": "What can you tell me about Displacement?",
-  "translation": "What can you tell me about Displacement?",
+  "translation": "关于移形换影你能告诉我什么？",
   "context": "ID: TALK_CF_AUX_MAGE_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MAGE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MAGE_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_AUX_MAGE_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "90eb160b2b33e6c875d422d0d38ff869",
   "original": "What can you tell me about Free Action?",
-  "translation": "What can you tell me about Free Action?",
+  "translation": "关于挣脱束缚你能告诉我什么？",
   "context": "ID: TALK_HERMIT_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "264dbf1fa9e0e73fd86a24a16d144116",
@@ -32051,44 +32167,44 @@
  {
   "key": "5426cde1ed0874f2548e56e52a632f84",
   "original": "What can you tell me about Heat Ward?",
-  "translation": "What can you tell me about Heat Ward?",
+  "translation": "关于避热你能告诉我什么？",
   "context": "ID: TALK_CF_REP_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6b129deeb7ddf9cc77b0aab0bdd60876",
   "original": "What can you tell me about Opening?",
-  "translation": "What can you tell me about Opening?",
+  "translation": "关于开启你能告诉我什么？",
   "context": "ID: TALK_CF_PURIFIER_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_PURIFIER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_PURIFIER_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_PURIFIER_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fb8d1011dd2ba2d6faff39f84ea1f1b0",
   "original": "What can you tell me about Phase Shield?",
-  "translation": "What can you tell me about Phase Shield?",
+  "translation": "关于相位盾你能告诉我什么？",
   "context": "ID: TALK_HERMIT_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "77bffc014680ed2f025df1b57a728cde",
   "original": "What can you tell me about Poison Armor?",
-  "translation": "What can you tell me about Poison Armor?",
+  "translation": "关于防毒装甲你能告诉我什么？",
   "context": "ID: TALK_CF_REP_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "34bedc6f6534d902ad20b7e9a44c25dc",
   "original": "What can you tell me about Transcendent Aura?",
-  "translation": "What can you tell me about Transcendent Aura?",
+  "translation": "关于超越你能告诉我什么？",
   "context": "ID: TALK_HERMIT_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bb7622a2681e3222072ba1c3a5fa0810",
   "original": "What can you tell me about Ward Against Evil?",
-  "translation": "What can you tell me about Ward Against Evil?",
+  "translation": "关于辟邪你能告诉我什么？",
   "context": "ID: TALK_CF_REP_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SPELL_MENU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_SPELL_MENU",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d1e9109fc7aed3e8e198077585e78b2e",
@@ -34069,7 +34185,7 @@
  {
   "key": "850a7f981624892b7c5475b1eb23259b",
   "original": "You focus your will through your weapon.",
-  "translation": "You focus your will through your weapon.",
+  "translation": "你通过武器集中意志。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_veil_chosen",
   "stage": 1
  },
@@ -36854,6 +36970,13 @@
   "stage": 3
  },
  {
+  "key": "dbcf11ed391bd96aa3f8f9984551ddf2",
+  "original": "blood essence surge generator",
+  "translation": "blood essence surge generator",
+  "context": "ID: essence_blood_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_blood_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_blood_surge_generator_part",
+  "stage": 1
+ },
+ {
   "key": "2bf3943b39c3c78108012f0f4b49be32",
   "original": "blood-stained note",
   "translation": "血迹斑斑的便条",
@@ -37183,6 +37306,13 @@
   "stage": 3
  },
  {
+  "key": "62eb5fa7b00e3d0defee35e6abac6568",
+  "original": "crystallized essence surge generator",
+  "translation": "crystallized essence surge generator",
+  "context": "ID: essence_pure_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_pure_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_pure_surge_generator_part",
+  "stage": 1
+ },
+ {
   "key": "d97472f498eb1c5ad371f5eb56c9ba3a",
   "original": "crystallized portal",
   "translation": "结晶传送门",
@@ -37504,6 +37634,13 @@
   "stage": 3
  },
  {
+  "key": "3bf0721e0a5afcb2a8fcf3b0e7e0f566",
+  "original": "dull essence surge generator",
+  "translation": "dull essence surge generator",
+  "context": "ID: essence_dull_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_dull_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_dull_surge_generator_part",
+  "stage": 1
+ },
+ {
   "key": "9525be5c72d514973814a37ddb8f473d",
   "original": "earth talisman",
   "translation": "大地护身符",
@@ -37614,6 +37751,13 @@
   "translation": "源质浪涌反应堆",
   "context": "ID: essence_surge_generator_part\n位于 /Kenan-Structured-Modpack/Arcana/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→vehicle_part→essence_surge_generator_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_surge_generator_part",
   "stage": 3
+ },
+ {
+  "key": "8c32c64aae9a5be599cdd5613fe5aa6c",
+  "original": "essence surge part abstract",
+  "translation": "essence surge part abstract",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/items/classes.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→[4]\n",
+  "stage": 1
  },
  {
   "key": "cd4da57e06aae378b8f86abe70c53b0b",
@@ -38455,7 +38599,6 @@
   "key": "88a484d6a201a0ea042dbdbae5a2a563",
   "original": "magical essence",
   "translation": "源质",
-  "context": "ID: essence_type\n位于 /Kenan-Structured-Modpack/Arcana/items/ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→ammunition_type→essence_type\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=essence_type",
   "stage": 3
  },
  {
