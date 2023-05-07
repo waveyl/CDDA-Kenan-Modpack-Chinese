@@ -836,7 +836,6 @@
   "key": "0c8c68be3becdd9c14d276a87ba9f667",
   "original": "<color_dark_gray>%1$s glares...</color>",
   "translation": "<color_dark_gray>%1$s怒视着…</color>",
-  "context": "ID: mon_zombie_revenant_idle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_idle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_idle",
   "stage": 3
  },
  {
@@ -850,7 +849,6 @@
   "key": "a4fc3141df16f9b8ca3b7b4bfa4dbc2e",
   "original": "<color_dark_gray>%1$s stares...</color>",
   "translation": "<color_dark_gray>%1$s凝视着…</color>",
-  "context": "ID: mon_zombie_revenant_allure_idle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_allure_idle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_idle",
   "stage": 3
  },
  {
@@ -971,7 +969,6 @@
   "key": "b122292c026d0a20b770fcb8d0d0c490",
   "original": "<color_light_red>%1$s spews out concentrated glob of blood acid!</color>",
   "translation": "<color_light_red>%1$s喷出了一个浓缩的酸血球！</color>",
-  "context": "ID: mon_sflesh_zombie_spitter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_spitter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_spitter",
   "stage": 5
  },
  {
@@ -1415,7 +1412,7 @@
   "key": "bbdb8ef37c6cdf0375157fb8a1da715c",
   "original": "<color_light_red>The taken bursts, letting loose of its content!</color>",
   "translation": "<color_light_red>它被撑到爆炸，其内容物被释放出来了！</color>",
-  "context": "ID: mon_sflesh_taken_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_potent",
+  "context": "ID: mon_sflesh_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_potent",
   "stage": 3
  },
  {
@@ -1590,10 +1587,16 @@
   "stage": 3
  },
  {
+  "key": "4cd317a0039666c181894bef03e839f8",
+  "original": "<color_red>Brings your Cataclysm experience into a hellish nightmare…</color>\n<color_dark_gray>◆ Not recommended for new players ◆</color>\n\n<color_light_cyan>Note that this mod is currently in <color_light_green>stable</color> state. If you encounter a bug or a recent CDDA update has caused an error, feel free to notify the maintainer by creating an issue on its GitHub repository or by sending a DM on Discord.</color>\n\n<color_light_cyan>Add <color_yellow>Secronom+</color> for extended content (WIP).</color>",
+  "translation": "<color_red>Brings your Cataclysm experience into a hellish nightmare…</color>\n<color_dark_gray>◆ Not recommended for new players ◆</color>\n\n<color_light_cyan>Note that this mod is currently in <color_light_green>stable</color> state. If you encounter a bug or a recent CDDA update has caused an error, feel free to notify the maintainer by creating an issue on its GitHub repository or by sending a DM on Discord.</color>\n\n<color_light_cyan>Add <color_yellow>Secronom+</color> for extended content (WIP).</color>",
+  "context": "ID: secronom\n位于 /Kenan-Structured-Modpack/secronom/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MOD_INFO→secronom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secronom",
+  "stage": 1
+ },
+ {
   "key": "88ecdd4bfc510b3a0d07c087bee52b97",
   "original": "<color_red>Brings your Cataclysm experience into a hellish nightmare…</color>\n<color_dark_gray>◆ Not recommended for newbs ◆</color>\n\n<color_light_cyan>Note that this mod is currently in <color_light_green>stable</color> state. Bugs rarely appears, but if you encounter one or a recent CDDA update has caused an error, feel free to notify the maintainer by creating an issue on its GitHub repository or by sending a DM on Discord.</color>\n\n<color_light_cyan>Add <color_yellow>Secronom+</color> for extended content.</color>",
   "translation": "<color_red>将你的劫后余生的破碎世界带入地狱般的梦魇之地…</color> \n <color_dark_gray>◆不建议初入末世者窥探◆</color> \n\n <color_light_cyan>注意，这个MOD目前处于<color_light_green>稳定</color>状态。基本上没有bug，但如果您不幸遇到了bug，可以在 GitHub项目 中创建 issues 或加入 Discord频道 发送消息来告知维护者。</color> \n\n <color_light_cyan>使用配套的 <color_yellow>Secronom+</color> 模组以添加相关扩展内容。</color>",
-  "context": "ID: secronom\n位于 /Kenan-Structured-Modpack/secronom/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MOD_INFO→secronom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secronom",
   "stage": 5
  },
  {
@@ -2098,7 +2101,6 @@
   "key": "3a5cd1a22e3665236193b66a3f2e8e32",
   "original": "A blackened and twisted naked human body, strips of flesh hang from its body, and it emits a constant haze of thick, velvety smoke.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个黑色扭曲的丧尸，肉块挂在其身上，不停地发出阴霾的黑烟。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_smoker\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_smoker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_smoker",
   "stage": 3
  },
  {
@@ -2250,7 +2252,7 @@
   "key": "a2d8d67e9e3ae00da40a74cfb68544c6",
   "original": "A corpse devoured by the flesh, with complete manipulation over its mindless thoughts.",
   "translation": "一具被血肉吞噬的尸体，它脆弱的思想已经被完全控制了。",
-  "context": "ID: mon_sflesh_taken_zombie\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_zombie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_zombie",
+  "context": "ID: mon_sflesh_zombie\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_z_classic.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie",
   "stage": 3
  },
  {
@@ -2298,14 +2300,12 @@
   "key": "8f74f6ad2b255670cd80dc6ff356085f",
   "original": "A cuddly kitten of unknown breed, meowing and scampering amidst the death.  Currently feral.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend..",
   "translation": "一只不知名品种的可爱小猫，在死亡中喵喵叫着和跳跃着。现在已经恢复野性了。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_cat_kitten\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cat_kitten\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cat_kitten",
   "stage": 3
  },
  {
   "key": "951be2e43d7fe861593ed87cf0304fbd",
   "original": "A cunning pack predator, once extinct in the New England area, the wolf was successfully reintroduced and their numbers reached record highs in the decade before the Cataclysm.  Lucky you.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一只生活在新英格兰地区的狡猾捕猎者，曾经一度灭绝。但是大灾变让他们成功的恢复了种群数量，有着出色的团队协作捕猎能力。祝你面对它们时还能好运。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_wolf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_wolf",
   "stage": 3
  },
  {
@@ -2346,7 +2346,6 @@
   "key": "508947acad7359d93445a3da44d6f8a7",
   "original": "A degenerate corpse, shambling as it walks.  Several junks and waste materials have unified into its skin and wounds around it reeks in black goo.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具蹒跚移动的腐化尸体。许多垃圾和废弃材料已经融入了它的皮肤，周围的伤口渗出黑色粘液并散发出臭味。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_wretched\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_wretched\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_wretched",
   "stage": 3
  },
  {
@@ -2373,21 +2372,18 @@
   "key": "17ba371d18efd33b207d80f547ced6fc",
   "original": "A distorted and swollen human body.  Its jaws have elongated into a crocodile like snout, dripping with foul smelling saliva.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个扭曲而膨胀的人体。它的颌已经延长的如同鳄鱼的长吻一般，滴落着恶臭的唾液。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_biter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_biter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_biter",
   "stage": 3
  },
  {
   "key": "a0445d6b9b2dcab246179037ed8ffed3",
   "original": "A domesticated omnivore descended from the wild boar, intelligent and inquisitive.  Left to its own devices, it has gone feral.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种源自于野猪的杂食性驯养后裔，既聪明又好奇，还很美味。现在它已恢复了野性，蓄势待发。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_pig\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_pig\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_pig",
   "stage": 3
  },
  {
   "key": "ea03663d7aebee70e2e34af986f35de0",
   "original": "A domesticated omnivore descended from the wild boar, intelligent and inquisitive.  Left to its own devices, it has gone feral.  Unlike the fully grown version it can be tamed.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种源自于野猪的杂食性驯养后裔，既聪明又好奇，还很美味。现在它已恢复了野性，蓄势待发。不同于成年个体，它还能被再次驯服。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_pig_piglet\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_pig_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_pig_piglet",
   "stage": 3
  },
  {
@@ -2401,7 +2397,6 @@
   "key": "8f7945cf48c1425519b5662d83afe193",
   "original": "A feline predator of unknown lineage.  Harried by the elements and the rigors of survival, it is scruffy and skittish.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种未知血统的猫科食肉动物。在恶劣的环境和严酷的生存条件下，它变得肮脏又不安分。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_cat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cat",
   "stage": 3
  },
  {
@@ -2490,7 +2485,6 @@
   "key": "c50f22e1cf23948fe5f261875de035c9",
   "original": "A fox with a bloodshot fur... literally.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一只长着血色皮毛的狐狸…真的。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_fox\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_fox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fox",
   "stage": 3
  },
  {
@@ -2733,21 +2727,18 @@
   "key": "0af7478f9c481893e0caa539e80aec47",
   "original": "A hooved grazing mammal with a mane of hair, a sweeping tail, and powerful-looking muscles.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一匹拥有浓密的鬃毛，摇晃的尾巴和强壮的肌肉的哺乳动物。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_horse\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_horse\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_horse",
   "stage": 3
  },
  {
   "key": "4e791be66a100013214f2fcdb05facee",
   "original": "A huge beast covered in visible scarring from what you can only guess was 'research'.  Being near it, you can hear a slight humming, like that of an electrical transformer.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个覆盖着疤痕的巨型丧尸，那些疤痕是某种明显是由于某种“研究”造成的。当靠近它的时候，你可以听到轻微而又低沉的嗡嗡声，像是工作中的交流电变压器一样。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_brute_shocker\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute_shocker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute_shocker",
   "stage": 3
  },
  {
   "key": "e6a13cf3f407adfc1341a45392286d05",
   "original": "A huge bloated zombie that appears to have fed upon gasoline; fumes and flames escape from its mouth and fuel leaks from its waddling form.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一只体型巨大的爆浆丧尸，似乎以汽油为食；烟雾和火焰从它的口中喷出，燃料从它的摇摇晃晃的身体中泄漏出来。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_gas_zombie\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_gas_zombie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_gas_zombie",
   "stage": 3
  },
  {
@@ -2768,7 +2759,6 @@
   "key": "cd422cf1ed0124637942da1d8092a01b",
   "original": "A huge, rumbling mutated mass of wrinkly, nearly translucent skin that has been toughened by constant tunneling.  Its hide is riddled with giant scabs, as a pair of incisors the size of an industrial excavator's buckets gnash constantly and several car-length whiskers twitch in the air.  It regularly makes high-pitched chirps as it roams around.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种巨大的、遍布皱纹的变异裸鼹鼠，皮肤几乎呈半透明，通过不断的挖掘，已经变得更加坚韧。它的身体布满了巨大的疥疮，有着一架工业挖掘机般的体型与几根长如轿车的胡须。经常发出尖锐的唧唧声，它正在四处游荡觅食。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_nakedmolerat_giant\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_nakedmolerat_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_nakedmolerat_giant",
   "stage": 3
  },
  {
@@ -2789,7 +2779,6 @@
   "key": "966e23ca52921e20cd91c62637323273",
   "original": "A human body now swollen to the size of six men, with arms as wide as a trash can.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个全身肌肉都发生了变异的超大块头丧尸，体型约为六个人大小，双臂极为强壮，力量之大足以击碎墙壁，愤怒的破坏欲支配着它粉碎着所能见到的一切，极为危险。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_hulk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_hulk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_hulk",
   "stage": 3
  },
  {
@@ -2803,7 +2792,6 @@
   "key": "f8ff023a7b809f799925a7928da3ca21",
   "original": "A human body with pale blue flesh, crackling with electrical energy.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具身体呈现淡蓝色的丧尸，由于生化插件的异常放电，其周围不断有噼啪的电流环绕。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_electric\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_electric\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_electric",
   "stage": 3
  },
  {
@@ -2928,7 +2916,6 @@
   "key": "08eafdefaec1e76846574fc367adfebf",
   "original": "A hunched human body with its eyes pushed up into its forehead and drooping cheeks, most of its face is occupied by a puckered mouth. Its stomach is swollen and nearly translucent, with a sickly velvet tint.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个弯腰驼背的丧尸，他的面部下垂，大部分的皮肤都有皱褶，几乎半透明，身上慢慢滴下病态的黄色液体。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_spitter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_spitter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_spitter",
   "stage": 3
  },
  {
@@ -2942,14 +2929,12 @@
   "key": "aa711d1ca4cd3bee22acaf40f56d5991",
   "original": "A juvenile American black bear.  This one isn't much of a threat, but be wary of its parent; black bears are known for their protectiveness.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "美国黑熊的幼体。这个小家伙虽然看上去没啥威胁，但是你需要当心它的父母；人人都知道黑熊有保护幼崽的习性。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_bear_cub\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_bear_cub\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_bear_cub",
   "stage": 3
  },
  {
   "key": "a89a559e833a4f4dff4d02355adbb565",
   "original": "A juvenile northern woodland white-tailed deer, a quick and strong grazing animal.  Favored prey of coyotes, wolves, and giant spider mutants.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "北方森林中的栖居的白尾鹿的幼体，快速灵敏且健壮，狼和巨型变异蛛最喜爱的猎物。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_deer_fawn\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_deer_fawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_deer_fawn",
   "stage": 3
  },
  {
@@ -3024,7 +3009,6 @@
   "key": "b6aabcea89cbf76936069931044694cf",
   "original": "A large omnivorous rodent with a thick furry pelt, found in wetlands across the northern hemisphere.  It marks its territory with a musky odor for which it is named.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一只大型杂食性啮齿动物，浑身长着浓密的毛皮，在整个北半球的湿地中均有出没。它用一种类似麝香的气味来标记自己的领地，而这也正是它的名字的由来。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_muskrat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_muskrat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_muskrat",
   "stage": 3
  },
  {
@@ -3196,21 +3180,21 @@
   "key": "3401ff86c4288e25ce2ea21c804159ab",
   "original": "A membranous pod emerges from the flesh underneath!",
   "translation": "A membranous pod emerges from the flesh underneath!",
-  "context": "ID: eoc_secro_mon_sflesh_flesh_taken_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_sflesh_flesh_taken_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_sflesh_flesh_taken_check",
+  "context": "ID: eoc_secro_mon_sflesh_flesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_sflesh_flesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_sflesh_flesh_check",
   "stage": 1
  },
  {
   "key": "7fd192d19a5a97039a851f66f08bca2d",
   "original": "A membranous pod of flesh, filled with putrid yellow-ish fluid. Hanging from the ceiling, a creature seems to be trapped inside, but unknown to what it is.",
   "translation": "一种膜状的血肉荚，里面充满了腐烂的黄色液体。有一只不明生物似乎被困在了里面，悬挂在天花板上。",
-  "context": "ID: mon_sflesh_taken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken",
+  "context": "ID: mon_sflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh",
   "stage": 3
  },
  {
   "key": "6a670e2af3a422e295b201a07b82493e",
   "original": "A membranous pod of flesh, filled with putrid yellow-ish fluid. Sprouting from the flesh, a creature seems to be trapped inside, but unknown to what it is.",
   "translation": "一种膜状的血肉荚，里面充满了腐烂的黄色液体。有一只不明生物似乎被困在了里面，正从血肉中冒了出来。",
-  "context": "ID: mon_sflesh_taken_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_potent",
+  "context": "ID: mon_sflesh_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_potent",
   "stage": 3
  },
  {
@@ -3238,7 +3222,6 @@
   "key": "f40a60b77a9e2bb8b82e1707b90cfcfd",
   "original": "A monstrous overgrowth of ossified tissue has replaced this zombie's rotting skin with an organic armor of dense bone.  Large clumps of black goo seep from its joints as it shambles aimlessly, with sickening crackling sounds filling the air around it.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一层巨大的过度生长而成的骨化组织已经形成了致密有机的骨制盔甲并取代了这只丧尸表面原来早已腐烂的皮肤。大块的黑色粘液从其关节不断渗出，它毫无目的蹒跚而行，全身的关节随着移动不断发出令人作呕的咔嗒声。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_skeleton\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_skeleton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_skeleton",
   "stage": 3
  },
  {
@@ -3448,7 +3431,6 @@
   "key": "8254c48a14f39af95c36858f5af733cc",
   "original": "A puppy, nothing more like a bloody fuzball.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一只小狗，看起来更像一个血毛球。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_dog_pup\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_pup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_pup",
   "stage": 3
  },
  {
@@ -3511,7 +3493,6 @@
   "key": "1fe271368fe592831e84fe2eb508491d",
   "original": "A rotund human body, bloated beyond belief and layered in rolls of fat.  It emits a horrible odor, and a putrid pink sludge dribbles from its mouth.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个臃肿的难以相信的躯体，脂肪堆积在一起，它发出一种可怕的气味，粉红色的腐烂粘液从它口中滴下来。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_boomer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boomer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boomer",
   "stage": 3
  },
  {
@@ -3636,7 +3617,6 @@
   "key": "b186e930b17b6a46e5929caea58a9992",
   "original": "A shambling undead humanoid, body overgrown with a tangled mass of otherworldly vegetation.  Hunched over and dragging its feet as it moves, the bramble utterly enveloping its upper half twitches and moves with a life of its own, tendrils tipped with a paralytic sting.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个蹒跚的人形不死生物，身上长满了纠缠成团的异界植物，只能驼着背拖着脚行动。随着它的行动，完全包裹了它上半身的荆棘似乎活着一般，不断抽搐蠕动，卷弄着致人麻痹的尖刺。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_thorny\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_thorny\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_thorny",
   "stage": 3
  },
  {
@@ -3650,7 +3630,6 @@
   "key": "1d05e947ff4f9fb658ed5c1e2b122414",
   "original": "A sickly-looking dead one.  Its skin looks especially thin, with a sticky, yellow fluid flowing through the clearly visible veins.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个看上去很恶心的丧尸。它的皮肤看上去非常薄，你都能看到它的静脉下面流动着粘粘的黄色液体。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_acidic\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_acidic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_acidic",
   "stage": 3
  },
  {
@@ -3691,7 +3670,6 @@
   "key": "4802f4f843e9dbcfa4f17494e35ea24b",
   "original": "A slab of festering muscle the size of a well-toned bodybuilder.  Seems eager to strangle the life from you.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一只肌肉溃烂的健壮丧尸，威风犹在的健美身姿让这货看起来仍然块头不小。看上去他迫不及待的想把你活活掐死。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_brute_grappler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute_grappler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute_grappler",
   "stage": 3
  },
  {
@@ -3719,21 +3697,18 @@
   "key": "4b22c2edf299b4bace1b9c4ff2e4ce71",
   "original": "A small granivorous rodent with a long bushy tail, often seen darting amid the branches of trees.  A skittish varmint with an expression of unwavering austerity, it is the mortal enemy of cat and dog alike.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一只小型食谷类啮齿动物，长有浓密毛发的尾巴，经常可以看到它在树枝间穿梭，表情坚定又淘气，惧怕猫和狗。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_squirrel\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_squirrel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_squirrel",
   "stage": 3
  },
  {
   "key": "1789033dbdad4b323ae348e2f50d52d2",
   "original": "A small mammal native to North America, distinctive for its dexterous paws and facial markings.  It is resourceful and agile enough to open sealed containers with its paws.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "北美本土的小型哺乳动物，具有灵巧的爪子和显著的面部特征。它足智多谋，且足够灵活，据说可以用爪子打开密封的容器。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_raccoon\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_raccoon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_raccoon",
   "stage": 3
  },
  {
   "key": "645e2c05832430cc102260819e153d02",
   "original": "A small mammal with a cute wiggling nose, cotton tail, and made of delicious flesh.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种小型哺乳动物，有着毛茸茸的尾巴，鼻子翼动的时候很可爱，由美味的肉制成。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_rabbit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_rabbit",
   "stage": 5
  },
  {
@@ -3843,7 +3818,6 @@
   "key": "d1af55d488113b6b9afa45ec91e7ada2",
   "original": "A stray dog, unknown to its breed as it is covered in thick, membranous veins.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种流浪狗，身上覆盖着厚厚的膜状脉管，分辨不出它的品种。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_dog\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog",
   "stage": 3
  },
  {
@@ -3945,7 +3919,6 @@
   "key": "1b747778e58f81a47ec857725dd64e40",
   "original": "A thin corpse, its chest is swollen in what appears to be preparation.  A thick black ooze drips from its open mouth.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具瘦弱的尸体，它的胸口已经肿胀，浸透了类似某种试剂的液体。一种浓稠漆黑的粘液正从它张大的口中滴落下来。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_screecher\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_screecher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_screecher",
   "stage": 3
  },
  {
@@ -3959,14 +3932,12 @@
   "key": "41eb51a3de0711f8aa3807d1728e29b8",
   "original": "A timid, hooved grazing mammal, and one of the first animals ever domesticated.  Its body is covered in a thick layer of wool, and the males have long, spiraling horns.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种胆小的四蹄食草哺乳动物，是人类最早驯化的动物之一。它的身体覆盖着一层厚厚的毛皮，雄性有长长的螺旋状的角。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_sheep_lamb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_sheep_lamb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_sheep_lamb",
   "stage": 3
  },
  {
   "key": "c5f145099e38ad9852525e82b71fe968",
   "original": "A timid, hooved grazing mammal, and one of the first animals ever domesticated.  Its body is covered in a thick layer of wool, and the males have long, spiralling horns.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一种胆小的四蹄食草哺乳动物，是人类最早驯化的动物之一。它的身体覆盖着一层厚厚的毛皮，雄性有长长的螺旋状的角。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_sheep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_sheep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_sheep",
   "stage": 3
  },
  {
@@ -4029,7 +4000,6 @@
   "key": "13224951414b6da2063788bb4f465eec",
   "original": "A twisted mockery of the human form, emaciated, with jet black skin and glowing red eyes.  It is somehow painful to look at, awakening fears deep within your psyche, and even the air around it seems more sinister, somehow darker and more dangerous\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具被扭曲得变形的人形丧尸，十分瘦弱，有着乌黑的皮肤和发光的红色瞳孔，看着它让你感到莫名的痛苦，仿佛唤醒你内心深处的恐惧，甚至连周围的空气都似乎变得更恶毒，更黑暗，更危险了。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_necro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_necro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_necro",
   "stage": 3
  },
  {
@@ -4064,7 +4034,6 @@
   "key": "48c3442b654f26642daca292d9a0f456",
   "original": "A very pale dead body with the worst case of static hair you have ever seen.  Sometimes, you can see sparks of electricity around it.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具非常苍白的尸体，长着你所见过的最糟糕的带电头发。偶尔你可以看到它四周的电火花。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_static\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_static\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_static",
   "stage": 3
  },
  {
@@ -4166,7 +4135,6 @@
   "key": "5abda74398d950f117ee74c8afb00edb",
   "original": "A zombie like any other, except that its features and skull have been devastated.  It's unclear what caused the damage, but between the scraps of flesh you can see that its face and brain are gone, though its ears are intact.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一只除了面部和头骨被完全毁坏之外，与其它丧尸差不多的丧尸。虽然原因不明，但在一团模糊的血肉中，你能看到它失去了脸和大脑，只有耳朵还算完整。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_brainless\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brainless\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brainless",
   "stage": 3
  },
  {
@@ -4194,21 +4162,18 @@
   "key": "696bf49cbbd65c2493a239e49161b8ec",
   "original": "A zombified omnivore descended from the wild boar.  Now it's got black goo all over it, instead of mud.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一种从野猪驯化而来的杂食动物，不过现在已经丧尸化了。它鼻子上通常全是泥巴的位置现在满是黑色粘液。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_pig\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_pig\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_pig",
   "stage": 3
  },
  {
   "key": "b8ddfd47aee7c402fd27b22c11e0ce25",
   "original": "A zombified version of one of the German shepherd dogs used in law enforcement.  Its deformed body is encased in a protective Kevlar harness.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一只已经变成丧尸的德国牧羊警犬。它早已变形的身躯上仍然套着残存的凯夫拉犬具。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_dog_zombie_cop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_zombie_cop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_zombie_cop",
   "stage": 3
  },
  {
   "key": "91b2bd2f897198eeeafea3d4d1ac72a7",
   "original": "A zombified wolf.  Its mouth oozes with a black substance, coating the vicious-looking white fangs.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一条丧尸化的野狼。它的嘴里流淌着黑色物质，长长的白色獠牙外翻着。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zolf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zolf",
   "stage": 3
  },
  {
@@ -4270,7 +4235,6 @@
   "key": "5043faeb0eb2f11b9948142309a8a745",
   "original": "Acrid smell accompanies this corpse of canine.  Its whole body is covered in chains of pulsing cysts and slime-dribbling ulcers.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这具犬类尸体散发着刺鼻的气味。它全身都布满了一串串不断搏动的囊肿，从中滴下粘稠的溃疡脓汁。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_dog_zombie_rot\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_zombie_rot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_zombie_rot",
   "stage": 3
  },
  {
@@ -4312,14 +4276,12 @@
   "key": "8ccb2ea59651caf251455f801157f103",
   "original": "Also known as the Caribou, this deer is native to North America and parts of Eurasia, although usually friendly, they can be aggressive during mating season as well as when hungry, something seems off about this one and it seems more hostile than normal.",
   "translation": "这种鹿也被称为驯鹿，原产于北美和欧亚大陆的部分地区，虽然通常是友好的，但它们在交配季节以及饥饿的时候都很有攻击性，这只鹿似乎有点不对劲，似乎比平常更具敌意。",
-  "context": "ID: mon_sflesh_taken_reindeer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_reindeer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_reindeer",
   "stage": 1
  },
  {
   "key": "09a35dc03ae6877ba315bf5dd7dbf06e",
   "original": "Also known as the woodchuck, this ground squirrel has no actual talent for chucking wood.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "被称为土拨鼠，这只生活在地面上的松鼠科动物喜欢掘土，神出鬼没，会“啊啊啊”的叫。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_groundhog\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_groundhog\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_groundhog",
   "stage": 3
  },
  {
@@ -4540,7 +4502,6 @@
   "key": "82e30bad3ecb67289287ee70c1606075",
   "original": "An otherwise normal-looking cougar, except that its hind legs are swollen, and its eyes bulge with black goo.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一条看似正常的美洲狮，但仔细观察会发现它的后腿肿了，眼睛凸起并流着黑色的粘液。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zougar\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zougar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zougar",
   "stage": 3
  },
  {
@@ -4567,7 +4528,6 @@
   "key": "de172655a2f42b2b4830089005e65382",
   "original": "An undead humanoid, its elongated arms drag along the ground as it moves.  It looks to almost have a hunch from the swollen back and shoulder muscles tearing though its skin.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个近似人形的丧尸，它走起来的时候两条长手臂就拖在地上。肿胀的背后看上去就像是驼背了，肩膀上的肌肉也从撕破的皮里露出来。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_grappler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_grappler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_grappler",
   "stage": 3
  },
  {
@@ -4581,7 +4541,6 @@
   "key": "f315cbdf7ff2435030699895b6da55d3",
   "original": "Apart from the jet-black eyes, this zombie looks less decomposed and inhuman than most.  Clad in a tattered lab coat, it seems to have a glimmer of awareness - not a human awareness, but something more sinister.  As you watch it, its movements look almost marionette-like.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "除了乌黑的眼睛，这只丧尸看起来不像其他丧尸那样腐臭和非人。它穿着破烂的实验服，似乎还有一丝意识——不是人类的意识，而是更险恶的东西。当你看着它的时候，它的动作看起来就像是木偶。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_scientist\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_scientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_scientist",
   "stage": 3
  },
  {
@@ -4670,7 +4629,6 @@
   "key": "bdf8f2401ce67cbb3170d18cb765c050",
   "original": "Black hollow eyes survey the surroundings as the zombie stretches and bends in ways that whoever the original body belonged to never could.  The only thing that seems solid, on this flexible black-veined body, is the rows of sharp black teeth.  You get the feeling that the only human thing remaining is the skin, worn as one would wear clothes.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "它那黝黑阴森的眼窝中空无一物，然而你却能感到它在巡视着周围。它的身体以一种原来主人永远无法达到的姿势卷曲变幻、辗转腾挪。在布满黑色血管的躯体上，唯一看起来还结实的是那一排尖锐而漆黑的獠牙。你有一种感觉，那东西唯一能算是人体的东西就是剩下的那层皮，就像你穿着你的衣服那般。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_hollow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_hollow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_hollow",
   "stage": 3
  },
  {
@@ -4911,7 +4869,6 @@
   "key": "5c1b29797a25e5ba55c08dc546991ca5",
   "original": "Concealed beneath a thick, eerie fog, a slim humanoid figure stands firm. Mischievous, its claws drip with peculiar black goo.",
   "translation": "一个苗条的人形身影，隐藏在浓雾之下，显得很诡异。调皮的，它的爪子上滴着奇怪的黑色粘液。",
-  "context": "ID: mon_zombie_revenant_allure_idle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_allure_idle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_idle",
   "stage": 5
  },
  {
@@ -5200,7 +5157,6 @@
   "key": "c9cb64148fbf26990d99583213f885bc",
   "original": "Distorted outgrowths of calcified bone plates cover this zombie's rotten skin.  Joints and cracks around its body ooze with black goo.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "扭曲生长的钙化骨板覆盖了这个丧尸的腐烂皮肤，关节和遍及全身的裂缝渗出黑色粘液。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_skeleton_brute\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_skeleton_brute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_skeleton_brute",
   "stage": 3
  },
  {
@@ -5351,7 +5307,6 @@
   "key": "f1344ee34b2a03fdb7a9ea1c9363d35e",
   "original": "Enveloped in odd stench, this severely diluted corpse has became an overseer for its fiendish undeads.",
   "translation": "笼罩在奇怪的恶臭中，这具被严重稀释的尸体成了恶魔亡灵的监管者。",
-  "context": "ID: mon_zombie_revenant_idle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_idle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_idle",
   "stage": 5
  },
  {
@@ -5505,7 +5460,7 @@
   "key": "68344f03d081825997d874ac19aa450e",
   "original": "Flesh - Taken",
   "translation": "肉身",
-  "context": "ID: mon_sflesh_flesh_taken_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_taken_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_flesh_taken_check",
+  "context": "ID: mon_sflesh_flesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_flesh_check",
   "stage": 0
  },
  {
@@ -5690,7 +5645,6 @@
   "key": "38c18de1111a73a449b8ec3e9970edad",
   "original": "Fragments of visible uniform hint that this monstrosity was once a soldier.  Anything human is invisible, hidden inside a sheath of living shadow.  It moves with preternatural fluidity and grace.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "身上残留的制服碎片表明这个怪物曾经是一名士兵。它失去了人类的所有特征，隐藏在仿佛有生命的阴影中。它的移动方式不可思议的优雅和灵动。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_soldier_blackops_2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_blackops_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_blackops_2",
   "stage": 3
  },
  {
@@ -5979,6 +5933,13 @@
   "stage": 5
  },
  {
+  "key": "8831ea95d412f00a1449ef668d946dc8",
+  "original": "Incite Immune",
+  "translation": "Incite Immune",
+  "context": "ID: mon_zombie_revenant_allure_incite_immune\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_revenant_allure_incite_immune\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_incite_immune",
+  "stage": 1
+ },
+ {
   "key": "aa0b25dd05478412240367b1f3a869ea",
   "original": "Incited",
   "translation": "煽动",
@@ -5996,7 +5957,7 @@
   "key": "e34d464b3689cee2a87f67e78532749a",
   "original": "Infect",
   "translation": "感染",
-  "context": "ID: mon_flesh_infect_zombie_wretched_yes\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_flesh_infect_zombie_wretched_yes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_flesh_infect_zombie_wretched_yes",
+  "context": "ID: secro_flesh_infect_success_bleed\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_success_bleed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_success_bleed",
   "stage": 5
  },
  {
@@ -6045,7 +6006,6 @@
   "key": "96f7a79a4b57a92250a422c0695ae6f4",
   "original": "It was only a child, and little is different about it now aside from the hungry look in its eyes.  You'd be hard pressed to not feel like you were killing an actual child by putting it down.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个不幸在年幼时期就被感染为丧尸的孩子，有着失神无助与痛苦饥渴的外表，情感正常的人类杀死这样的孩子通常会感到难过与悲伤。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_child\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_child\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_child",
   "stage": 3
  },
  {
@@ -6059,7 +6019,6 @@
   "key": "36502bd81e21a150322ee64aa3ad16bc",
   "original": "Its entire body bulges with distended muscles and swollen, festering wounds.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个肌肉发生了突变的巨型丧尸，浑身上下都是畸形的巨型肌肉与肿胀化脓的伤口。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_brute\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute",
   "stage": 3
  },
  {
@@ -6080,14 +6039,12 @@
   "key": "945790cbf7ef0e411a955f818901cddc",
   "original": "Kevlar hulk",
   "translation": "凯夫拉浩克",
-  "context": "ID: mon_sflesh_zombie_kevlar_2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_kevlar_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_kevlar_2",
   "stage": 5
  },
  {
   "key": "ed90353466e4473bbc069cea5233fb9c",
   "original": "Kevlar zombie",
   "translation": "凯夫拉丧尸",
-  "context": "ID: mon_sflesh_zombie_kevlar_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_kevlar_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_kevlar_1",
   "stage": 5
  },
  {
@@ -6101,14 +6058,12 @@
   "key": "087160cbd02798e7bf126ae0919e6173",
   "original": "Labrador puppies",
   "translation": "拉布拉多小狗",
-  "context": "ID: mon_sflesh_dog_pup\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_pup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_pup",
   "stage": 5
  },
  {
   "key": "56cf082d38156c97e20fa40d850dad0b",
   "original": "Labrador puppy",
   "translation": "拉布拉多幼犬",
-  "context": "ID: mon_sflesh_dog_pup\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_pup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_pup",
   "stage": 5
  },
  {
@@ -6242,7 +6197,7 @@
   "key": "ab58c3d23f25832de807772cb54f5627",
   "original": "Morph",
   "translation": "变形",
-  "context": "ID: mon_insect_saddler_baby_potent_grow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_insect_saddler_baby_potent_grow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_saddler_baby_potent_grow",
+  "context": "ID: secro_flesh_infect_zombie_pupa_shady\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_zombie_pupa_shady\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_zombie_pupa_shady",
   "stage": 3
  },
  {
@@ -6382,28 +6337,24 @@
   "key": "676a2c40ecb1da2272409a942a89d9dc",
   "original": "Once a pilot, it is dressed in basic military fatigues, aviator sunglasses, and a sturdy looking helmet.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "它曾经是个飞行员，穿着基本的军装、飞行员太阳镜和一个看上去很坚固的头盔。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_military_pilot\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_military_pilot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_military_pilot",
   "stage": 3
  },
  {
   "key": "4ea31a1d5c9d51c25bc9a4eeabce2f11",
   "original": "Once a soldier, it is dressed head to toe in combat gear and carries itself rather steadily for a zombie.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个曾经是一名军人的丧尸，从头到脚包裹着战斗服，隐藏在基因里的本能与尚存的肌肉记忆使其比普通丧尸更加可怕。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_soldier\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier",
   "stage": 3
  },
  {
   "key": "e4d6c7d825c5a84e6ee4bd4bc5326ce5",
   "original": "Once an athletic human, now a brutal monster. Its facial features are twisted into an expression of pure rage.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个丧尸的生前矫健的如同一名运动员，如今成为了凶残的丧尸怪物。它面孔扭曲，每一个毛孔都释放出纯粹的破坏欲望。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_tough\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_tough\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_tough",
   "stage": 3
  },
  {
   "key": "ea12c599ac93fb502b9b14c9d30cb358",
   "original": "Once human, its features have tightened, its lips pulled back into an unnatural grin, revealing rows of blackened teeth beneath its large, piercing eyes.  It stands tall and its movements are fluid and tightly controlled.  A feeling of danger permeates the air around it, and the light that falls on it seems somehow harsher and more glaring.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "曾经是个人类，这只怪物的五官风干收紧，它的嘴唇回缩让它露出不自然的诡异笑容，暴露出在它炯炯有神的大眼睛下方的一排黝黑发亮的牙齿。它体型庞大，移动起来流畅而又如同经过严密控制一般。它周围的空气弥漫着一股危险的气息，而照落在它身上的光线似乎变得更明亮刺眼。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_master\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_master\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_master",
   "stage": 3
  },
  {
@@ -6431,7 +6382,6 @@
   "key": "17406f50fba42449251af65f207d516b",
   "original": "Originally not native in the US, this wild omnivore is a crossbreed between the Eurasian wild boar escaped from hunting reserves and the domesticated pig went feral in the wilderness.  Its population has skyrocketed in the US during the last few decades.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "这种野生杂食性动物并非原产于美国，是由从狩猎保护区逃出来的欧亚野猪和野外野化后的家猪杂交而成的品种。在过去的几十年里，它们在美国的种群数量猛增。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_boar_wild\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boar_wild\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boar_wild",
   "stage": 3
  },
  {
@@ -6627,7 +6577,6 @@
   "key": "38eb8ec61d23e8b58a593f7c02c3bcb5",
   "original": "Reindeer",
   "translation": "驯鹿",
-  "context": "ID: mon_sflesh_taken_reindeer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_reindeer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_reindeer",
   "stage": 5
  },
  {
@@ -7262,7 +7211,6 @@
   "key": "6c15c9929197edde1ef12554732b32a0",
   "original": "Somehow this brute hides in the dark like some kind of boogeyman.  Very agile for such a large zombie.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具不知何故像某种恶灵一样躲在黑暗之中的巨型丧尸，体型庞大但其行动十分敏捷。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_brute_ninja\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute_ninja\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute_ninja",
   "stage": 3
  },
  {
@@ -7296,7 +7244,7 @@
   "key": "3581fde8ba4b67c5e593d3dbf8231631",
   "original": "Spawn Takens",
   "translation": "产卵塔肯",
-  "context": "ID: mon_sflesh_taken_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_taken_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_death",
+  "context": "ID: mon_sflesh_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_death",
   "stage": 0
  },
  {
@@ -7317,7 +7265,7 @@
   "key": "f839f7a510723b59c271290eb45a999a",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'1/2 chance to spawn a potent taken near the target.'",
   "translation": "怪物施法的咒语。如果你看到了这一点，那么请阅读这一条：\n“有1/2的几率在目标附近产生一个强效。”",
-  "context": "ID: mon_sflesh_flesh_taken_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_taken_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_flesh_taken_check",
+  "context": "ID: mon_sflesh_flesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_flesh_check",
   "stage": 0
  },
  {
@@ -7461,7 +7409,6 @@
   "key": "670c5b101ff8e460aea0fd1690864dff",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster becomes idle.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这个：\n“施法者闲置”",
-  "context": "ID: mon_zombie_revenant_allure_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_revenant_allure_stop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_stop",
   "stage": 5
  },
  {
@@ -7928,7 +7875,7 @@
   "key": "63f92b8c421a4d18e2d4a22855a4a546",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster infects the target, turning them into a crimson horror.'",
   "translation": "怪物施法的。如果你看到这个目标变成了一个恐怖的目标，那你就把它变成了一个恐怖的目标",
-  "context": "ID: mon_flesh_infect_zombie_wretched_yes\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_flesh_infect_zombie_wretched_yes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_flesh_infect_zombie_wretched_yes",
+  "context": "ID: secro_flesh_infect_zombie_pupa_shady\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_zombie_pupa_shady\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_zombie_pupa_shady",
   "stage": 5
  },
  {
@@ -8268,7 +8215,7 @@
   "key": "1c030958f2d74ad0f106a98aabd8c4f8",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster spawns a crimson horror on-death.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这篇：\n“施法者在死亡时产生深红恐怖。”",
-  "context": "ID: mon_sflesh_taken_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_taken_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_death",
+  "context": "ID: mon_sflesh_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_death",
   "stage": 0
  },
  {
@@ -8450,7 +8397,6 @@
   "key": "e55e93428a9ad622ca27cb1ffdf9b6b8",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster starts to get close to its allies and ignore its enemies.'",
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者开始接近它的盟友而忽略它的敌人。”",
-  "context": "ID: mon_zombie_revenant_allure_idle_support\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_revenant_allure_idle_support\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_idle_support",
   "stage": 5
  },
  {
@@ -8697,7 +8643,6 @@
   "key": "9b11358c4bd2b5e00b8f360a4f5796c0",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster will try to infect the target by dealing 5 up to 25 biological damage. If the target dies, they succumb to the flesh.'",
   "translation": "怪物施法的。如果你看到了这一点，那么请阅读这一条：\n'施法者将试图通过造成5到25点生物伤害来感染目标。如果目标死了，他们就会屈服于肉体",
-  "context": "ID: mon_flesh_infect_zombie_wretched\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_flesh_infect_zombie_wretched\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_flesh_infect_zombie_wretched",
   "stage": 5
  },
  {
@@ -8956,6 +8901,20 @@
   "stage": 5
  },
  {
+  "key": "21587d00045f73c266e6b72cfc518e0c",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Infected target has its bleeding effect removed.",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Infected target has its bleeding effect removed.",
+  "context": "ID: secro_flesh_infect_success_bleed\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_success_bleed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_success_bleed",
+  "stage": 1
+ },
+ {
+  "key": "9d7263f5932f6b925e9678946473b896",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Infected target heals a moderate amount.",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Infected target heals a moderate amount.",
+  "context": "ID: secro_flesh_infect_success_heal\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_success_heal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_success_heal",
+  "stage": 1
+ },
+ {
   "key": "5c41931415ab153d142f36c2ae40aee7",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Main damage for devastate attack. Used on EOC to hit the target.'",
   "translation": "怪物施法的咒语。如果你看到了这一点，那么改读这一条：\n毁灭打击的主要伤害。在EOC上用于命中目标。”",
@@ -8977,6 +8936,13 @@
   "stage": 5
  },
  {
+  "key": "d9529ff3ed4092244266204c7facd2fb",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Prevent caater from gaining this buff.'",
+  "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Prevent caater from gaining this buff.'",
+  "context": "ID: mon_zombie_revenant_allure_incite_immune\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_revenant_allure_incite_immune\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_incite_immune",
+  "stage": 1
+ },
+ {
   "key": "cb327f64dcf4d602ca802664bb103c3b",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Pulled hostile targets are stunned for 1 turn.'",
   "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个:\n“被拉的敌对目标被晕眩1圈。”",
@@ -8988,6 +8954,13 @@
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Target is afflicted by an ominous curse and is dealt with light true damage..'",
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n'目标受到不祥诅咒的折磨，受到轻微的真实伤害。'",
   "stage": 5
+ },
+ {
+  "key": "201fa9687e0455ceecfd0c37647f0257",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Target is converted into its flesh variant'",
+  "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Target is converted into its flesh variant'",
+  "context": "ID: secro_flesh_infect_zombie_grappler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_zombie_grappler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_zombie_grappler",
+  "stage": 1
  },
  {
   "key": "11765b1a0c322a827b55e2367e8d3556",
@@ -9185,7 +9158,6 @@
   "key": "e85d8732fdcde756e4ca5d679f08f0ef",
   "original": "Still wearing the tattered remnants of improvised armor and weaponry, it is plain to see that this zombie was once a survivor like you.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具穿着破旧的自制装甲，武器仍旧挂在身上的丧尸，看样子他曾经也是与你一样的幸存者。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_survivor\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_survivor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_survivor",
   "stage": 3
  },
  {
@@ -9206,7 +9178,6 @@
   "key": "842c12e840417c19ed7517c53741eee3",
   "original": "Stumbling as it moves, this corpse of an overweight human regards its surroundings with an empty black gaze.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一只身体脂肪层发生了变异的肥胖丧尸，它臃肿的尸体踉跄着，吞下的恶心食物在胃中腐烂，散发着浓烈的恶臭，空洞的黑色眼眶扫视四周。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_fat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_fat",
   "stage": 3
  },
  {
@@ -9314,7 +9285,7 @@
   "key": "d7ed541b53f6f1e7b6f8f361fc638169",
   "original": "Support!",
   "translation": "支持！",
-  "context": "ID: mon_zombie_revenant_allure_idle_support\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_revenant_allure_idle_support\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_idle_support",
+  "context": "ID: mon_zombie_skittyweavy_sickly_idle_support\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_skittyweavy_sickly_idle_support\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_skittyweavy_sickly_idle_support",
   "stage": 5
  },
  {
@@ -10304,35 +10275,30 @@
   "key": "8fb8f0960ee04f94d20f82d63a51f3b9",
   "original": "The American black bear.  A large omnivorous scavenger, it has powerful claws and jaws, and is an effective ambush hunter.  Most individuals are shy around humans, but they're fiercely protective of their cubs.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "美洲黑熊，一种大型杂食性动物。有着强有力的爪子和下颚，而且是一名出色的伏击捕食者。大多数个体一般会避开人类生存，但是对幼崽的保护欲非常强。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_taken_bear\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_bear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_bear",
   "stage": 5
  },
  {
   "key": "a8df19bbc630843b66b52e48abf197e7",
   "original": "The American mink, a partially aquatic weasel, once factory-farmed for its fur.  It is a capable fisher, but the presence of otters in these parts makes it rely more on food from the land.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "美洲貂，一种半水栖鼬，因为皮毛的缘故曾被集中养殖。它是能干的渔夫，但来自当地水獭的竞争压力使其转为更频繁地于陆地觅食。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_mink\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_mink\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_mink",
   "stage": 3
  },
  {
   "key": "b753854f2d131c4fb726eafed7183ac1",
   "original": "The Eastern cougar, a large feline predator.  Once thought extinct in this region, conservation efforts were successful in restoring a thriving population.  Fast and silent, this predator can cover long distances with powerful leaps and pounces, catching its prey with its deadly claws before delivering the finishing blow with its enormous fangs.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "东部美洲狮，大型猫科食肉动物。曾经在这一地区被认为已经灭绝，但是经过保育，在大灾变之后，成功的恢复了往日的荣光。迅捷而安静，这只捕猎者能够远距离跳扑，并用致命的爪子抓住猎物，最后用巨大的獠牙给它致命一击。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_taken_cougar\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_cougar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_cougar",
   "stage": 3
  },
  {
   "key": "b4ebc6afc339c688879b3614fe5d252b",
   "original": "The Eastern coyote, also called the tweed wolf, is a territorial canine descended from the offspring of gray wolves and true coyotes.  It is intimidated by humans and other predators, but it will still fight if threatened, and the Cataclysm has made it more fearless than usual.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "东部郊狼，也被称作花呢狼，是一种由灰狼和土狼杂交而成的后代。它面对人类或其他食肉动物时会胆怯，但一旦受到威胁，它仍然会战斗，而且大灾变使它的胆子比以往更大了些。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_coyote\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_coyote\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_coyote",
   "stage": 3
  },
  {
   "key": "e7ad67734e90323144bbf64df8cee81b",
   "original": "The Eastern moose, the largest living species of deer.  While they aren't aggressive unless angered, the mating season can make the bulls quite ill-tempered.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "东部驼鹿，当今世界上种群数量最多的鹿类。虽然不被激怒时不会攻击别人，但发情季节会使得雄性驼鹿脾气火爆。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_taken_moose\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_moose\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_moose",
   "stage": 3
  },
  {
@@ -10346,21 +10312,18 @@
   "key": "fb1663a225efc4f15d126859bd03f590",
   "original": "The North American beaver, the continent's largest rodent.  Its paddle-shaped tail helps ferry it through the water, and its prominent teeth can chew through wood, which it uses to build dam-like nests in lakes and streams.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "北美海狸，世上最大的啮齿动物，他的浆状尾巴可以帮其穿过湖面，其突出的门牙可以咬断木头，喜欢在湖面与溪流建造大坝。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_beaver\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_beaver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_beaver",
   "stage": 3
  },
  {
   "key": "c6dbcb69c8e1d802949c912e47b9cba2",
   "original": "The North American river otter is a shy water dwelling relative of the weasel, living in large families along the banks of streams.  It is an excellent fisher and a resourceful survivor, using the abandoned dens of beavers and other animals to raise its own young.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "北美水獭，一种害羞的半水栖哺乳动物，广泛成群生活在溪流沿岸，是黄鼠狼的近亲。它是优秀的渔民和足智多谋的幸存者，利用海狸和其他动物的废弃巢穴来养活自己的幼崽。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_otter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_otter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_otter",
   "stage": 3
  },
  {
   "key": "f5ccaa3212872d183fc5ac0a28eee0cf",
   "original": "The Northern bog lemming, a small, predominantly vegetarian rodent that spends its life in the murk of swamps and other wetlands.  Contrary to popular belief, these creatures are not particularly hapless or suicidal, but they can eat themselves into scarcity within a few generations.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "北美沼泽旅鼠，以素食为主的小型啮齿动物，一生都在深水沼或其他湿地中度过。与大众的看法“为了保证物种延续、控制种群大小，有组织地集群跳海”相反，它们不是特别倒霉或喜欢集体自杀的动物，它们也许更愿意相互厮杀同类相食而不是自杀，这导致了经常的世代数量消长。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_lemming\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_lemming\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_lemming",
   "stage": 3
  },
  {
@@ -10374,7 +10337,6 @@
   "key": "de9dd348d9eed4a896fb88f4861b1b1e",
   "original": "The Virginia opossum, a small omnivorous marsupial native to North America.  About the size of a cat, it is hardy and adaptive, and a fairly common sight in urban areas.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "弗吉尼亚负鼠，一种小型的杂食性有袋类，原产于北美洲。大小犹如正常猫，耐寒，适应性极强，常见于城市附近。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_opossum\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_opossum\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_opossum",
   "stage": 3
  },
  {
@@ -10442,14 +10404,12 @@
   "key": "ef1d4dd9df2ac26bfc51fd0ad880242a",
   "original": "The black rat, an omnivorous rodent with sheer black fur and a long, rough tail.  Harbinger of pestilence, famine, and mange, it will sometimes swarm over the dead or dying.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "黑鼠，一种杂食性的啮齿动物，拥有纯黑色的皮毛和粗糙的长尾巴。它的出现预示着瘟疫、饥荒、兽疥癣。它有时成群结对地出现在已死或将死的人、畜上。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_taken_rat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_rat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_rat",
   "stage": 3
  },
  {
   "key": "07e63fd32cd04fc369f0d0b75ec7242b",
   "original": "The corrosive zombie spits a glob of blood acid!",
   "translation": "腐蚀丧尸吐出一团血酸！",
-  "context": "ID: mon_sflesh_zombie_corrosive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_corrosive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_corrosive",
   "stage": 3
  },
  {
@@ -10476,14 +10436,12 @@
   "key": "9ac84dcad5cd601d07e4e8c57380ab36",
   "original": "The deformed, animated corpse of a canine, a sinewy beast which can easily outpace its two-legged friends.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具畸形的，活动着的狗的尸体，这种矫健的野兽比它那两只脚的朋友快得多。\n膜状的血管覆盖了它绝大部分的表皮，并不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_dog\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_dog\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_dog",
   "stage": 3
  },
  {
   "key": "783a9a32f68a94ecc2cb87a73d0a223b",
   "original": "The domestic cow, a baleful, ruminating farm animal.  It is quite muscular, and the males can have a violent streak to accompany their nasty-looking horns.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一头被圈养的牛，一种反刍类农场动物，肌肉相当发达，雄性个体长着凶恶的角并且具有威胁性。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_cow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cow",
   "stage": 3
  },
  {
@@ -10497,7 +10455,6 @@
   "key": "90013d0567421607104874a1868df052",
   "original": "The eastern chipmunk, a tiny omnivorous rodent with a characteristic striped coat.  It spends much of the day patrolling its elaborate burrow and the precious stores of foraged food within.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "一只小栗鼠，非常小巧的杂食性啮齿动物，它花了很多时间游荡在商店城镇收集食物，然后将食物藏在洞穴之中。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_chipmunk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_chipmunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_chipmunk",
   "stage": 3
  },
  {
@@ -10688,7 +10645,6 @@
   "key": "a8b91f3a6b0163b1a973884f32034813",
   "original": "The head of this zombie was once obviously destroyed, the gaps in its scraps of face now filling with a peculiar gray goo.  Human ears hang from the sides, enormous and unsettling.  Thin slits at the front suggest it may be able to see.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只丧尸的头很明显曾经被摧毁过，它脸上的裂口充满了一种特殊的灰色粘液。人类的耳朵从侧面垂下，巨大而令人恶心。眼睛前的狭缝表明它还可能还保留着一定的视力。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_ears\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_ears\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_ears",
   "stage": 3
  },
  {
@@ -10702,7 +10658,6 @@
   "key": "90366089376aae4c59e8d8d848aebcc9",
   "original": "The long-tailed weasel, a small but ubiquitous predator whose range extends across the continent.  It forms its den in small burrows, preferring to occupy the nesting holes of its prey.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "长尾黄鼠狼，虽然体型很小，但是活动范围蔓延到整个欧洲大陆，他不喜欢窝在小洞穴里，而是喜欢猎食其他动物。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_weasel\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_weasel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_weasel",
   "stage": 3
  },
  {
@@ -10716,7 +10671,6 @@
   "key": "7698c3d0f0c866a0fada0e9d04a318d3",
   "original": "The northern woodland white-tailed deer, a quick and strong grazing animal.  Favored prey of coyotes, wolves, and giant spider mutants.\nInfested by flesh, this once living creature no longer act as an animal, but a bloodthirsty fiend.",
   "translation": "北方森林中的栖居的白尾鹿，快速灵敏且健壮，狼和巨型变异蛛最喜爱的猎物。\n受到血肉的侵蚀，这只往日活蹦乱跳的生灵不再是动物了，而是变成了一只嗜血的恶魔。",
-  "context": "ID: mon_sflesh_deer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_deer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_deer",
   "stage": 3
  },
  {
@@ -11108,21 +11062,18 @@
   "key": "5884d22d847f599d0bed0c4d6b45986e",
   "original": "This armored and augmented soldier's bionics crackle with energy.  Worse, it appears to remember its training.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一个身着增强装甲并发出生化能量噼啪声的人类士兵尸体，更糟的是，它显然仍记得战斗与杀人技巧。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_bio_op\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_bio_op\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_bio_op",
   "stage": 3
  },
  {
   "key": "e87a03459c69c34a0758b10e60617cfa",
   "original": "This black bear's eyes ooze with dark, oily fluid, and its flesh is torn and scarred.  It shuffles as it walks.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只黑熊的眼睛渗出深色油状液体，撕裂的肉体瘢痕累累。它的步伐拖曳蹒跚。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombear\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombear",
   "stage": 3
  },
  {
   "key": "3c59dbca051a76065a026699df7902a9",
   "original": "This body has swollen to immense proportions, but still manages to hold itself together with semi-congealed acid all over its bloated body.  It clumsily moves around, but attacks with a large reserve of acid.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一只全身大部分都浮肿的丧尸，但是在他臃肿的身体里由于一些半凝固的胶体酸液，仍然能够保持着大概的轮廓。它很笨拙地走动，但是会喷出一大滩的酸液来攻击。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_corrosive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_corrosive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_corrosive",
   "stage": 3
  },
  {
@@ -11136,7 +11087,6 @@
   "key": "47ccb1a033374ac644bfd2e8101d5dd6",
   "original": "This boomer, normally swollen and ready to burst, has strengthened and solidified.  The bile dribbling from its mouth also appears to have changed.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "和一般的爆汁丧尸不同，这只爆汁丧尸的表皮已经变异得更加坚硬，嘴中溢出的胆汁颜色似乎也产生了变化。\n膜状的血管覆盖了它绝大部分的表皮，并不断脉动着。",
-  "context": "ID: mon_sflesh_boomer_huge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boomer_huge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boomer_huge",
   "stage": 3
  },
  {
@@ -11150,14 +11100,12 @@
   "key": "4b7c445a837b896543ad876915d69317",
   "original": "This creature's head is a hideous gray skull, formed of human bone fragments and some sort of goo.  Jagged teeth are visible as the thing works its jaw and disturbingly human, lidless eyes stare at you from their sockets.  The thing's fleshy ears are four sizes too large and droop under their own weight.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个生物的头是一个可怕的灰色头骨，由人类的骨头碎片和某种粘液组成。当它活动下颚时你能看到锯齿状的牙齿，相当令人不安。它的眼睛裸露在眼窝里，死死盯着你。它的肉质耳朵有正常的四倍大，在自身重量的作用下下垂。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_skull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_skull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_skull",
   "stage": 3
  },
  {
   "key": "875db7902bd3f379c763ac7806ce14ac",
   "original": "This crouching child-mutant's face is dominated by a pair of huge black eyes and its fingertips end in sharp claws.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个蜷缩着的变异小孩的脸上有着一对巨大的黑眼睛，它的指尖末端有着锋利的爪子。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_sproglodyte\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_sproglodyte\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_sproglodyte",
   "stage": 3
  },
  {
@@ -11178,7 +11126,6 @@
   "key": "3bcbe3564f6b32c44801672295b82e4c",
   "original": "This formerly-majestic moose has succumbed to the infection which is killing the world.  Shiny green blowflies swarm the vast suppurated patches of purulent flesh where its skin has sloughed away, and its remaining fur is black and matted with necrotic discharge.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只曾经高贵强壮的驼鹿已经向正在毁灭世界的感染屈服。脱落的皮肤将化脓溃烂的血肉暴漏在外，滋生大量的绿头苍蝇。残余的毛皮则被腐败物染成了黑色。\n膜状静脉覆盖了它的大部分表面，在不断跳动。",
-  "context": "ID: mon_sflesh_zoose\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zoose\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zoose",
   "stage": 3
  },
  {
@@ -11192,28 +11139,24 @@
   "key": "20a286ae733dde8be8f7e71023d726a5",
   "original": "This heavily mutated child zombie twitches and flails its limbs in painful looking spasms as it runs about.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个严重变异的儿童丧尸移动时四肢四处抽搐，看着如同痉挛疼痛一般。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_shriekling\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_shriekling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_shriekling",
   "stage": 3
  },
  {
   "key": "1d48a57b710d1df885b60140862c5303",
   "original": "This hideous golem of plated bones and misshapen flesh drags its heavy, pointed limbs behind it like an unwanted burden.  Formerly soft and vulnerable, bones grew around its form to protect it - only, they kept growing.  And growing.  And growing.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只丑陋的巨型怪兽浑身布满了骨板，畸形的血肉拖拽着其沉重而尖锐的四肢，如同无用的负担一般。曾经柔软脆弱的躯体长出了许多保护的骨甲。而这骨甲还在增长、增长、不断增长。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_skeleton_hulk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_skeleton_hulk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_skeleton_hulk",
   "stage": 3
  },
  {
   "key": "feee0945aaff38c8da4490bae8e76407",
   "original": "This horrifying little mutated wretch looks to have once been a child, but its massive gaping jaws are now far more suggestive of a predatory beast.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个可怕的小型变异怪胎看上去曾经是一个小孩，但其巨大的大颚让它看上去更像一只食肉的野兽。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_anklebiter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_anklebiter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_anklebiter",
   "stage": 3
  },
  {
   "key": "732f7945a7037fd2a535d2a92c6c28d0",
   "original": "This human corpse drags itself along slowly with its arms.  Its legs are damaged beyond repair.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具只靠着上肢缓慢地爬行的人类尸体，而它的下肢已经腐坏得原形崩坏了。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_crawler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_crawler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_crawler",
   "stage": 3
  },
  {
@@ -11275,21 +11218,18 @@
   "key": "a5fa41489ff1113ce756cbb12f000b3f",
   "original": "This once-canine has shed all of its skin, revealing a carapace of fused bones and ribs.  Devoid entirely of flesh, this walking suit of bone seems to be controlled by a net of veins and sinews which pulse with glistening black goo.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只曾经的犬科生物的表皮早已全部脱落，露出了内部由骨骼和肋骨融合而成的甲壳。这套缺少血肉覆盖的会行走的骨甲似乎被一团充满了闪闪发光的黑色粘液的血管和肌腱网所驱动。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_dog_skeleton\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_skeleton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_skeleton",
   "stage": 3
  },
  {
   "key": "f776fa9dc32cadc6970a478ef3b2a32b",
   "original": "This once-human body is barely recognizable, scrambling about on all fours, its nails and teeth both sharpened into dangerous looking spikes.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这具曾经的人体几乎无法辨认，四肢着地四处乱爬，它的指甲和牙齿都磨成了危险的尖刺。\n膜状静脉覆盖了它的大部分表面，在不断跳动。",
-  "context": "ID: mon_sflesh_zombie_hunter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_hunter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_hunter",
   "stage": 3
  },
  {
   "key": "f9edff7f5fbf6084d0821f77a81c6421",
   "original": "This once-human is visible only as a glowing white silhouette that you have to squint to see, cloaked in a crackling field of lightning that pulses like a beating heart.  It walks slowly and deliberately, the thunderstorm surrounding it eagerly jumping to anything conductive within its grasp.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个曾经的人类只能看到一个发光的白色轮廓，你必须眯着眼睛才能看到，披着一片噼啪作响的闪电场，像跳动的心脏一样跳动。它慢条斯理地走着，周围的雷雨迫不及待地跳到它能抓住的任何导电物上。\n膜状静脉覆盖了它的大部分表面，在不断跳动。",
-  "context": "ID: mon_sflesh_zombie_nullfield\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_nullfield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_nullfield",
   "stage": 3
  },
  {
@@ -11308,56 +11248,48 @@
   "key": "d0a6d275679baa267cc15b9380ee2052",
   "original": "This soldier zombie's skin radiates a sort of shadowy smoke that obscures its outline, making its camouflage even harder to see against the background.  In the darkness it would be nigh invisible.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只士兵丧尸的皮肤散发出一种模糊的烟雾，模糊了它的轮廓，使得它的伪装在背景下更难看到。在黑暗中它几乎看不见。\n膜状静脉覆盖了它的大部分表面，在不断跳动。",
-  "context": "ID: mon_sflesh_zombie_soldier_blackops_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_blackops_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_blackops_1",
   "stage": 3
  },
  {
   "key": "011376f26466231c713247683f3cece2",
   "original": "This staggering soldier wears a burnt gasmask, now fused to its face.  Through the melted, bile-encrusted ruination of the mask comes some sort of hardened fleshy proboscis, with steaming corrosive fluid leaking from the end.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个摇摇晃晃的士兵戴着一个燃烧过的防毒面具，现在已经粘在脸上了。通过融化的，胆汁结痂的口罩的破坏来某种硬化肉质的长鼻，与蒸汽腐蚀性液体泄漏的结束。\n膜状静脉覆盖了它的大部分表面，在不断跳动。",
-  "context": "ID: mon_sflesh_zombie_soldier_acid_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_acid_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_acid_1",
   "stage": 3
  },
  {
   "key": "9cb749ad53bea0777bc8c7e887f61a7a",
   "original": "This swollen, gooey looking mutant child looks bad, even for a zombie.  Maybe that's why it seems to want a hug so badly.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个肿胀的，黏糊糊的变种孩子看起来很糟糕，甚至对一个丧尸来说。也许这就是为什么它如此渴望拥抱。\n膜状静脉覆盖了它的大部分表面，在不断跳动。",
-  "context": "ID: mon_sflesh_zombie_snotgobbler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_snotgobbler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_snotgobbler",
   "stage": 3
  },
  {
   "key": "5a55ce3b799d9467bc7a3fb89fd2357b",
   "original": "This wall-eyed beast has a large wound on its side, and ribs with some flesh on them are seen through it.  The most prominent feature of this abomination is large incisors in its ominously open mouth, strange black goo is oozing out of it.  Seems like it isn't interested in trees anymore and is looking for some warm flesh to feed.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只长着白星眼的怪兽身体侧面有个巨大伤口，其中可以看到黏着血肉的肋骨。它最突出的特征是一对可怕的门牙和嘴中厚厚的黑色粘液。它似乎对树木不再感兴趣，而是在寻找一些新鲜的肉来喂饱自己。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombeaver\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombeaver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombeaver",
   "stage": 3
  },
  {
   "key": "c9fd06ec9429bb811e53ce92c8be6a78",
   "original": "This zombie once was a survivor like you, and a pretty good one at that.  Unfortunately they didn't make it, despite the custom-made, heavy armor pieces they wear and the gear that they are still lugging around.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这个丧尸曾经是一个像你一样的幸存者，而且是一个相当优秀的幸存者。但是，他们没有一直幸运下去。现在他们仍穿着生前自制的重型盔甲和装备。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_survivor_elite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_survivor_elite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_survivor_elite",
   "stage": 3
  },
  {
   "key": "901d32decd183b20212a8a008f53b03b",
   "original": "This zombie was once wearing some kind of now long-shredded uniform with heavy, bulletproof materials sewn in.  It has grown into a hulking, leatherbacked beast, its mutated skin taking on a strange texture similar to the Kevlar bits embedded in it.  Its arms have twisted into enormous clubs of misshapen bone that it drags on the ground behind it.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只丧尸曾经穿着一种有重型防弹材料夹层的制服，但现在它已经长成了一只巨大的厚皮怪物，它变异的皮肤呈现出一种奇怪的纹理，类似于嵌入其中的凯夫拉甲块。它的手臂扭曲成了巨大的畸形骨头棒，在它身后拖行。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_kevlar_2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_kevlar_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_kevlar_2",
   "stage": 3
  },
  {
   "key": "1949d5cdae4ed8c14b03924e72d0c047",
   "original": "This zombie was once wearing some kind of uniform with heavy, bulletproof materials sewn in.  At this point it's impossible to tell what kind of uniform it was: the monster's skin has grown over the fabric, splitting and tearing it to shreds, turning the remaining Kevlar and other bits of armor material into part of its hide.  Its hands, similarly, have fused into large leathery cudgels.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只丧尸曾经穿着一种有重型防弹材料夹层的制服，但现在怪物的外皮已经覆盖在原有布料上，将制服撕裂成碎片，把剩下的凯夫拉装甲和其他防弹材料变成了它的一部分。同样的，它的双手也融合成了巨大的厚皮粗棒。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_kevlar_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_kevlar_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_kevlar_1",
   "stage": 3
  },
  {
   "key": "8dd8978347f7046d6eef3e37235f5df5",
   "original": "This zombie wears what appears to have once been a soldier's uniform and armor, now a series of cracked and melted plates that have fused to its skin and thickened hide.  Its face and arms blister with strange mutated tubes that pulse and drip with acid.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "这只丧尸穿着一件看起来曾经是士兵制服和盔甲的东西，现在已经变成了几块破裂融化的金属板，融到了它外表的厚皮之中。它的脸和胳膊被变异血管涨破，酸液不断随着血管的跳动滴落在地上。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_soldier_acid_2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_acid_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_acid_2",
   "stage": 3
  },
  {
@@ -11394,6 +11326,13 @@
   "stage": 5
  },
  {
+  "key": "b6f1a65fe6f488d155bfc01b285b430b",
+  "original": "Trigger Immune",
+  "translation": "Trigger Immune",
+  "context": "ID: mon_zombie_revenant_trigger_immune\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_revenant_trigger_immune\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_trigger_immune",
+  "stage": 1
+ },
+ {
   "key": "073b1bbd5b71098e61f7c3b8240a29bf",
   "original": "Triggered",
   "translation": "触发",
@@ -11424,7 +11363,6 @@
   "key": "6654be0d25e86dadacdc8281d9a14476",
   "original": "Undeath has not been kind to the children of the apocalypse.  This one is little more than a reanimated membrane of skin stretched across tiny brittle bones.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "不死者并没有善待末日的孩子们。这只小怪物就只是一个活动的，被薄薄皮肤包裹着的小小脆弱的骨架。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_waif\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_waif\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_waif",
   "stage": 5
  },
  {
@@ -11629,7 +11567,6 @@
   "key": "3a4dc79f71c80026526081c8f37429ce",
   "original": "What was once a child is now a mutant beast with blackened skin and massive eyes.  This abomination's vile form makes mockery of its human origin.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "曾经是个小孩，但现在已经成了变异怪兽，有着发黑的表皮及巨大的眼睛。这可憎的邪恶生物就是对其人类起源的嘲弄。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_creepy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_creepy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_creepy",
   "stage": 3
  },
  {
@@ -11669,7 +11606,6 @@
   "key": "e7a921161361cdd965e467ede920addb",
   "original": "With a crocodile-like snout and rows of protruding teeth, this swimwear-clad zombie lurks in the water.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "首先入眼的是一张鳄鱼般的大嘴和外突的牙齿，这种穿着泳衣的丧尸潜伏在水里。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_mancroc\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_mancroc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_mancroc",
   "stage": 3
  },
  {
@@ -11697,14 +11633,12 @@
   "key": "9501671a4b3c10eac8367c111fb4c1d9",
   "original": "With its gray skin swollen to near rupture with putrid gas, this cyst covered zombie looks like it could violently burst under the slightest of disturbances.\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "一具灰白的皮肤下充满了臌胀的腐败气体的尸体，隆起的皮肤遍布着黑色的血管，随时都可能爆出大量浆液。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_gasbag\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_gasbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_gasbag",
   "stage": 5
  },
  {
   "key": "6d70a816828bb481d279174bacccb175",
   "original": "With its joints in odd places and angles, this humanoid creature prowls across the landscape with surprising speed.  Its teeth and arms are sharpened into fine points, and black ooze seeps out from cuts between its muscles\nMembranous veins cover most of its surface that pulsates in constant beats.",
   "translation": "它四肢的关节以奇怪的角度弯折，但是这只人型生物仍能以惊人的速度飞快移动。它的牙齿和手臂都磨成了尖刺型，身上深可见骨的伤口缓缓地流出着黑色的粘液。\n膜状脉管覆盖了它绝大部分的表皮，还在不断脉动着。",
-  "context": "ID: mon_sflesh_zombie_predator\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_predator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_predator",
   "stage": 5
  },
  {
@@ -12244,7 +12178,6 @@
   "key": "2b3ab440a89f64b816675334a2e442e5",
   "original": "Z-9",
   "translation": "Z-9",
-  "context": "ID: mon_sflesh_dog_zombie_cop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_zombie_cop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_zombie_cop",
   "stage": 3
  },
  {
@@ -12349,21 +12282,18 @@
   "key": "5c1a91e850eac57a700b3924b4e93ced",
   "original": "acid-sniper zombie",
   "translation": "酸液狙击手丧尸",
-  "context": "ID: mon_sflesh_zombie_soldier_acid_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_acid_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_acid_1",
   "stage": 3
  },
  {
   "key": "d72ebb546eb7e9eb7e0c2bed74a9b633",
   "original": "acid-support zombie",
   "translation": "酸液支援兵丧尸",
-  "context": "ID: mon_sflesh_zombie_soldier_acid_2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_acid_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_acid_2",
   "stage": 3
  },
  {
   "key": "f279663aedf594c33d1b400eb306a761",
   "original": "acidic zombie",
   "translation": "酸液丧尸",
-  "context": "ID: mon_sflesh_zombie_acidic\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_acidic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_acidic",
   "stage": 3
  },
  {
@@ -12377,7 +12307,7 @@
   "key": "4229587c2d87aa966635646a23e825f8",
   "original": "alluring revenant",
   "translation": "阴影复仇丧尸",
-  "context": "ID: mon_zombie_revenant_allure_idle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_allure_idle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure_idle",
+  "context": "ID: mon_zombie_revenant_allure\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_allure\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure",
   "stage": 3
  },
  {
@@ -12412,14 +12342,12 @@
   "key": "db7c43662f9ea9266a6589f06b91da31",
   "original": "anklebiter",
   "translation": "小不点啃蚀者",
-  "context": "ID: mon_sflesh_zombie_anklebiter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_anklebiter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_anklebiter",
   "stage": 3
  },
  {
   "key": "408003a759baa0fc67e3229329d37d52",
   "original": "antlered horror",
   "translation": "恐怖鹿角兽",
-  "context": "ID: mon_sflesh_zoose\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zoose\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zoose",
   "stage": 3
  },
  {
@@ -12461,7 +12389,6 @@
   "key": "3eba9a0d2274b11693fd821353a6149f",
   "original": "beaver",
   "translation": "河狸",
-  "context": "ID: mon_sflesh_beaver\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_beaver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_beaver",
   "stage": 3
  },
  {
@@ -12489,21 +12416,18 @@
   "key": "e4f1f4e66a926fb728e1c5adc2811cee",
   "original": "black bear",
   "translation": "黑熊",
-  "context": "ID: mon_sflesh_taken_bear\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_bear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_bear",
   "stage": 3
  },
  {
   "key": "5b21f44f4147f0f4a3398e9032d87cba",
   "original": "black bear cub",
   "translation": "黑熊幼兽",
-  "context": "ID: mon_sflesh_bear_cub\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_bear_cub\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_bear_cub",
   "stage": 3
  },
  {
   "key": "dd08fe44364484a501f552f36ca6cd41",
   "original": "black rat",
   "translation": "黑鼠",
-  "context": "ID: mon_sflesh_taken_rat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_rat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_rat",
   "stage": 3
  },
  {
@@ -12517,7 +12441,6 @@
   "key": "13e72a99aeb20748e9b7dc377b6e5808",
   "original": "black-ops zombie",
   "translation": "黑雾丧尸",
-  "context": "ID: mon_sflesh_zombie_soldier_blackops_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_blackops_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_blackops_1",
   "stage": 3
  },
  {
@@ -12531,7 +12454,6 @@
   "key": "a58a0de0e24e31ab763c6f4f7bebeb44",
   "original": "bloated zombie",
   "translation": "爆浆丧尸",
-  "context": "ID: mon_sflesh_zombie_gasbag\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_gasbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_gasbag",
   "stage": 3
  },
  {
@@ -12573,28 +12495,24 @@
   "key": "f49a2d8a11396bdab11fc873893c8fd7",
   "original": "boomer",
   "translation": "爆汁丧尸",
-  "context": "ID: mon_sflesh_boomer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boomer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boomer",
   "stage": 3
  },
  {
   "key": "d0e591640719f4335c4446b6678c83f7",
   "original": "brainless zombie",
   "translation": "无脑丧尸",
-  "context": "ID: mon_sflesh_zombie_brainless\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brainless\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brainless",
   "stage": 3
  },
  {
   "key": "6ece4fa02d083a4412dd94a236fa2a93",
   "original": "calf",
   "translation": "牛犊",
-  "context": "ID: mon_sflesh_cow_calf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cow_calf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cow_calf",
   "stage": 3
  },
  {
   "key": "bb808da8ca944ebdbd9f1d2688237b0b",
   "original": "calves",
   "translation": "牛犊",
-  "context": "ID: mon_sflesh_cow_calf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cow_calf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cow_calf",
   "stage": 3
  },
  {
@@ -12636,7 +12554,6 @@
   "key": "d077f244def8a70e5ea758bd8352fcd8",
   "original": "cat",
   "translation": "猫",
-  "context": "ID: mon_sflesh_cat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cat",
   "stage": 3
  },
  {
@@ -12657,7 +12574,6 @@
   "key": "2bad2d5947dd6f15fdf7a62311d08b3f",
   "original": "chipmunk",
   "translation": "花栗鼠",
-  "context": "ID: mon_sflesh_chipmunk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_chipmunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_chipmunk",
   "stage": 3
  },
  {
@@ -12706,7 +12622,6 @@
   "key": "82b91e471ad5a515f0fe3bffad7e318e",
   "original": "corrosive zombie",
   "translation": "腐蚀丧尸",
-  "context": "ID: mon_sflesh_zombie_corrosive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_corrosive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_corrosive",
   "stage": 3
  },
  {
@@ -12727,21 +12642,18 @@
   "key": "0dc42522a42a9050841d4e81d3808c91",
   "original": "cougar",
   "translation": "美洲狮",
-  "context": "ID: mon_sflesh_taken_cougar\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_cougar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_cougar",
   "stage": 3
  },
  {
   "key": "81566e986cf8cc685a05ac5b634af7f8",
   "original": "cow",
   "translation": "牛",
-  "context": "ID: mon_sflesh_cow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cow",
   "stage": 3
  },
  {
   "key": "8dbfcfc23f22c58c1b200821f89fc103",
   "original": "coyote",
   "translation": "郊狼",
-  "context": "ID: mon_sflesh_coyote\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_coyote\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_coyote",
   "stage": 3
  },
  {
@@ -12755,7 +12667,6 @@
   "key": "1a7c2bb5a0d9d85172e60c4d95e4f472",
   "original": "crawling zombie",
   "translation": "爬行丧尸",
-  "context": "ID: mon_sflesh_zombie_crawler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_crawler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_crawler",
   "stage": 3
  },
  {
@@ -12768,7 +12679,6 @@
   "key": "4739278e511a7c69414e08dd1b5bd48f",
   "original": "creepy crawler",
   "translation": "恐怖爬行者",
-  "context": "ID: mon_sflesh_zombie_creepy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_creepy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_creepy",
   "stage": 3
  },
  {
@@ -12782,7 +12692,6 @@
   "key": "73ccc53a7bcb1d3e21d9a715ef17f080",
   "original": "decayed pouncer",
   "translation": "腐朽突袭兽",
-  "context": "ID: mon_sflesh_zougar\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zougar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zougar",
   "stage": 3
  },
  {
@@ -12796,7 +12705,6 @@
   "key": "cd6c416546d256996e4941fe1170458e",
   "original": "deer",
   "translation": "鹿",
-  "context": "ID: mon_sflesh_deer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_deer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_deer",
   "stage": 3
  },
  {
@@ -12817,7 +12725,6 @@
   "key": "06d80eb0c50b49a509b49f2424e8c805",
   "original": "dog",
   "translation": "狗",
-  "context": "ID: mon_sflesh_dog\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog",
   "stage": 3
  },
  {
@@ -12873,35 +12780,30 @@
   "key": "de7ed0b37007de2429112f01d827f36b",
   "original": "fat zombie",
   "translation": "肥胖丧尸",
-  "context": "ID: mon_sflesh_zombie_fat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_fat",
   "stage": 3
  },
  {
   "key": "ada94287eb54ca7f3b3ebdeffb7a8faf",
   "original": "fawn",
   "translation": "小鹿",
-  "context": "ID: mon_sflesh_deer_fawn\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_deer_fawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_deer_fawn",
   "stage": 3
  },
  {
   "key": "def806a77009d6d99c14ca312ac6511e",
   "original": "feral hunter",
   "translation": "野性疯人",
-  "context": "ID: mon_sflesh_zombie_hunter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_hunter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_hunter",
   "stage": 3
  },
  {
   "key": "1d9badb4a4c7cdebbd772c2b9a895f5d",
   "original": "feral predator",
   "translation": "野性捕猎者",
-  "context": "ID: mon_sflesh_zombie_predator\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_predator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_predator",
   "stage": 3
  },
  {
   "key": "4ba6c21ac161c25cddc2b2a5aa86162b",
   "original": "festering boar",
   "translation": "溃烂野猪",
-  "context": "ID: mon_sflesh_zombie_pig\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_pig\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_pig",
   "stage": 3
  },
  {
@@ -13048,7 +12950,7 @@
   "key": "acbb81fa514b2a117dd1ece115720ecc",
   "original": "flesh zombie",
   "translation": "血肉丧尸",
-  "context": "ID: mon_sflesh_taken_zombie\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_zombie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_zombie",
+  "context": "ID: mon_sflesh_zombie\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_z_classic.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie",
   "stage": 3
  },
  {
@@ -13552,14 +13454,12 @@
   "key": "2b95d1f09b8b66c5c43622a4d9ec9a04",
   "original": "fox",
   "translation": "狐狸",
-  "context": "ID: mon_sflesh_fox\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_fox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fox",
   "stage": 3
  },
  {
   "key": "f14801c76eeebcbeb53118f36cc4f21f",
   "original": "foxes",
   "translation": "狐狸",
-  "context": "ID: mon_sflesh_fox\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_fox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fox",
   "stage": 3
  },
  {
@@ -13580,7 +13480,6 @@
   "key": "2b4b8595a62faf3ed50d33b1829bce55",
   "original": "gasoline zombie",
   "translation": "汽油丧尸",
-  "context": "ID: mon_sflesh_gas_zombie\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_gas_zombie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_gas_zombie",
   "stage": 3
  },
  {
@@ -13594,7 +13493,6 @@
   "key": "6fb34c2af23b676e34264230cae7b7a6",
   "original": "gigantic naked mole-rat",
   "translation": "巨型裸鼹鼠",
-  "context": "ID: mon_sflesh_nakedmolerat_giant\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_nakedmolerat_giant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_nakedmolerat_giant",
   "stage": 3
  },
  {
@@ -13628,7 +13526,6 @@
   "key": "cde484d0305036dc3dc61498a4f26dd2",
   "original": "grappler zombie",
   "translation": "长臂丧尸",
-  "context": "ID: mon_sflesh_zombie_grappler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_grappler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_grappler",
   "stage": 3
  },
  {
@@ -13642,14 +13539,12 @@
   "key": "31d9f01ff1ae8fcf66f57f53f0dab063",
   "original": "grim howler",
   "translation": "狰狞狂吠兽",
-  "context": "ID: mon_sflesh_zolf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zolf",
   "stage": 3
  },
  {
   "key": "d1ed02c0f1a2beaf96727a65c531c3b3",
   "original": "groundhog",
   "translation": "土拨鼠",
-  "context": "ID: mon_sflesh_groundhog\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_groundhog\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_groundhog",
   "stage": 3
  },
  {
@@ -13732,7 +13627,6 @@
   "key": "f1bdf5ed1d7ad7ede4e3809bd35644b0",
   "original": "horse",
   "translation": "马",
-  "context": "ID: mon_sflesh_horse\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_horse\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_horse",
   "stage": 3
  },
  {
@@ -13774,14 +13668,12 @@
   "key": "8607c9cedbbed73c650ba82c323c904c",
   "original": "howling waif",
   "translation": "嚎叫流浪者",
-  "context": "ID: mon_sflesh_zombie_waif\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_waif\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_waif",
   "stage": 3
  },
  {
   "key": "a216d4ed8253af7ede5f6b34b7b77c18",
   "original": "huge boomer",
   "translation": "巨型爆汁丧尸",
-  "context": "ID: mon_sflesh_boomer_huge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boomer_huge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boomer_huge",
   "stage": 3
  },
  {
@@ -13795,7 +13687,6 @@
   "key": "00347e44275a39f432e06439f20661b4",
   "original": "hunter-killer zombie",
   "translation": "猎杀者丧尸",
-  "context": "ID: mon_sflesh_zombie_soldier_blackops_2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier_blackops_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier_blackops_2",
   "stage": 3
  },
  {
@@ -13823,7 +13714,6 @@
   "key": "b74da0fba4601522f0bfde03160d8b94",
   "original": "incandescent husk",
   "translation": "电炽躯壳",
-  "context": "ID: mon_sflesh_zombie_nullfield\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_nullfield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_nullfield",
   "stage": 3
  },
  {
@@ -13872,7 +13762,6 @@
   "key": "6da89cd09ab7937478a1d47d20938536",
   "original": "kitten",
   "translation": "小猫",
-  "context": "ID: mon_sflesh_cat_kitten\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_cat_kitten\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_cat_kitten",
   "stage": 3
  },
  {
@@ -13893,7 +13782,6 @@
   "key": "236eb95c2806c6c711a77068c8af5c70",
   "original": "lamb",
   "translation": "小羊羔",
-  "context": "ID: mon_sflesh_sheep_lamb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_sheep_lamb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_sheep_lamb",
   "stage": 3
  },
  {
@@ -13907,7 +13795,6 @@
   "key": "af82463fb7b862a169463ad9dab07809",
   "original": "lemming",
   "translation": "旅鼠",
-  "context": "ID: mon_sflesh_lemming\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_lemming\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_lemming",
   "stage": 3
  },
  {
@@ -13935,7 +13822,6 @@
   "key": "a595b4b651996d106a77332cc383c619",
   "original": "listener zombie",
   "translation": "循声者丧尸",
-  "context": "ID: mon_sflesh_zombie_ears\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_ears\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_ears",
   "stage": 3
  },
  {
@@ -13977,14 +13863,12 @@
   "key": "419d4fe3e94268555ba7253517068b36",
   "original": "mink",
   "translation": "貂",
-  "context": "ID: mon_sflesh_mink\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_mink\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_mink",
   "stage": 3
  },
  {
   "key": "2fe7cec3131fa9662906ecfb2eac8a49",
   "original": "moose",
   "translation": "驼鹿",
-  "context": "ID: mon_sflesh_taken_moose\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_moose\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_moose",
   "stage": 3
  },
  {
@@ -14019,7 +13903,6 @@
   "key": "4f868ebc113364a11da8c4a0f182a671",
   "original": "muskrat",
   "translation": "麝鼠",
-  "context": "ID: mon_sflesh_muskrat\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_muskrat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_muskrat",
   "stage": 3
  },
  {
@@ -14138,14 +14021,12 @@
   "key": "fb9292caae82acbb28c1afbebcf26594",
   "original": "opossum",
   "translation": "负鼠",
-  "context": "ID: mon_sflesh_opossum\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_opossum\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_opossum",
   "stage": 3
  },
  {
   "key": "d8e265f13545e890c178a34a72f62c43",
   "original": "otter",
   "translation": "獭",
-  "context": "ID: mon_sflesh_otter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_otter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_otter",
   "stage": 3
  },
  {
@@ -14217,14 +14098,12 @@
   "key": "f74c6af46a78becb2f1bd3f95bbd5858",
   "original": "pig",
   "translation": "猪",
-  "context": "ID: mon_sflesh_pig\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_pig\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_pig",
   "stage": 3
  },
  {
   "key": "a9781d0ca6abb43812a28783ccb3bbaa",
   "original": "piglet",
   "translation": "小猪",
-  "context": "ID: mon_sflesh_pig_piglet\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_pig_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_pig_piglet",
   "stage": 3
  },
  {
@@ -14245,14 +14124,12 @@
   "key": "a51e47f646375ab6bf5dd2c42d3e6181",
   "original": "rabbit",
   "translation": "野兔",
-  "context": "ID: mon_sflesh_rabbit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_rabbit",
   "stage": 3
  },
  {
   "key": "3f5b31f8506cfb9a606553978da02d9f",
   "original": "raccoon",
   "translation": "浣熊",
-  "context": "ID: mon_sflesh_raccoon\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_raccoon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_raccoon",
   "stage": 3
  },
  {
@@ -14329,14 +14206,13 @@
   "key": "78b2dc153195786383e54d57672fe2f0",
   "original": "revenant",
   "translation": "复仇者丧尸",
-  "context": "ID: mon_zombie_revenant_idle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_idle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_idle",
+  "context": "ID: mon_zombie_revenant\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant",
   "stage": 3
  },
  {
   "key": "7aa64e07315e56e10f0bd4f17ca394a8",
   "original": "rot-weiler",
   "translation": "腐烂犬尸",
-  "context": "ID: mon_sflesh_dog_zombie_rot\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_zombie_rot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_zombie_rot",
   "stage": 3
  },
  {
@@ -14405,7 +14281,6 @@
   "key": "4b373df77b0bff607b0fa2b6185cfdca",
   "original": "screecher zombie",
   "translation": "尖啸丧尸",
-  "context": "ID: mon_sflesh_zombie_screecher\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_screecher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_screecher",
   "stage": 3
  },
  {
@@ -14461,7 +14336,6 @@
   "key": "23ec24c5ca59000543cee1dfded0cbea",
   "original": "sheep",
   "translation": "羊",
-  "context": "ID: mon_sflesh_sheep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_sheep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_sheep",
   "stage": 3
  },
  {
@@ -14475,14 +14349,12 @@
   "key": "63138c5855942e4d7dd51d56afd07e5c",
   "original": "shocker brute",
   "translation": "放电丧尸兽",
-  "context": "ID: mon_sflesh_zombie_brute_shocker\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute_shocker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute_shocker",
   "stage": 3
  },
  {
   "key": "ad38eacde666a3ffc9df3602021963bb",
   "original": "shocker zombie",
   "translation": "放电丧尸",
-  "context": "ID: mon_sflesh_zombie_electric\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_electric\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_electric",
   "stage": 3
  },
  {
@@ -14496,7 +14368,6 @@
   "key": "f8488ba4aa7d5b53109faba1c56ec41a",
   "original": "shriekling",
   "translation": "小尖叫丧尸",
-  "context": "ID: mon_sflesh_zombie_shriekling\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_shriekling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_shriekling",
   "stage": 3
  },
  {
@@ -14517,28 +14388,24 @@
   "key": "2432175bc89e0ebc9632e4633f53ff88",
   "original": "skeletal brute",
   "translation": "骸骨丧尸兽",
-  "context": "ID: mon_sflesh_skeleton_brute\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_skeleton_brute\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_skeleton_brute",
   "stage": 3
  },
  {
   "key": "b25f4b6bf96e35ec331c5cc20a0d6182",
   "original": "skeletal dog",
   "translation": "骷髅犬",
-  "context": "ID: mon_sflesh_dog_skeleton\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_dog_skeleton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_dog_skeleton",
   "stage": 3
  },
  {
   "key": "be13740c42a23c04cb02cef72f0733d9",
   "original": "skeletal juggernaut",
   "translation": "骷髅巨兽",
-  "context": "ID: mon_sflesh_skeleton_hulk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_skeleton_hulk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_skeleton_hulk",
   "stage": 3
  },
  {
   "key": "84df077bcb1bd39ab1a3294de0cf655b",
   "original": "skeleton",
   "translation": "骷髅",
-  "context": "ID: mon_sflesh_skeleton\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_skeleton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_skeleton",
   "stage": 3
  },
  {
@@ -14552,14 +14419,12 @@
   "key": "2c0901ec6ab5fa595eb099b0d8a99409",
   "original": "skull zombie",
   "translation": "颅骨丧尸",
-  "context": "ID: mon_sflesh_zombie_skull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_skull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_skull",
   "stage": 3
  },
  {
   "key": "80b88361b7101eb47b3c15355a23a738",
   "original": "slavering biter",
   "translation": "流涎啃蚀者",
-  "context": "ID: mon_sflesh_zombie_biter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_biter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_biter",
   "stage": 3
  },
  {
@@ -14587,7 +14452,6 @@
   "key": "4e922702e1e5850547b603774d79d3cd",
   "original": "smoker zombie",
   "translation": "烟雾丧尸",
-  "context": "ID: mon_sflesh_zombie_smoker\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_smoker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_smoker",
   "stage": 3
  },
  {
@@ -14608,7 +14472,6 @@
   "key": "5380268f17220211e3e85c9118c838a6",
   "original": "snotgobbler",
   "translation": "小鼻涕鬼丧尸",
-  "context": "ID: mon_sflesh_zombie_snotgobbler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_snotgobbler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_snotgobbler",
   "stage": 3
  },
  {
@@ -14622,21 +14485,18 @@
   "key": "9a513aea03b5ff211b909186cdb26d87",
   "original": "spitter zombie",
   "translation": "吐酸丧尸",
-  "context": "ID: mon_sflesh_zombie_spitter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_spitter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_spitter",
   "stage": 5
  },
  {
   "key": "42c9e14eb23d83b3f110ffa364b045ab",
   "original": "sproglodyte",
   "translation": "小穴居者丧尸",
-  "context": "ID: mon_sflesh_zombie_sproglodyte\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_sproglodyte\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_sproglodyte",
   "stage": 3
  },
  {
   "key": "eac074b0503b45740d49b18eb659bcfc",
   "original": "squirrel",
   "translation": "松鼠",
-  "context": "ID: mon_sflesh_squirrel\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_squirrel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_squirrel",
   "stage": 3
  },
  {
@@ -14678,7 +14538,6 @@
   "key": "087cf9b477a29a7da998496a74ab5e72",
   "original": "survivor zombie",
   "translation": "幸存者丧尸",
-  "context": "ID: mon_sflesh_zombie_survivor\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_survivor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_survivor",
   "stage": 3
  },
  {
@@ -14699,7 +14558,7 @@
   "key": "bad841dbbeb7132a68b2c649f4a7b875",
   "original": "taken",
   "translation": "肉荚",
-  "context": "ID: mon_sflesh_taken_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_taken_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_taken_potent",
+  "context": "ID: mon_sflesh_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_spawns.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_potent",
   "stage": 3
  },
  {
@@ -14740,7 +14599,6 @@
   "key": "cd0cc9a9c01644beca3c86d5d3232bca",
   "original": "thorny shambler",
   "translation": "荆棘蹒跚者",
-  "context": "ID: mon_sflesh_zombie_thorny\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_thorny\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_thorny",
   "stage": 3
  },
  {
@@ -14761,7 +14619,6 @@
   "key": "cebaad50266d80ed5af30963542286e0",
   "original": "tough zombie",
   "translation": "健壮丧尸",
-  "context": "ID: mon_sflesh_zombie_tough\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_tough\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_tough",
   "stage": 3
  },
  {
@@ -14922,7 +14779,6 @@
   "key": "997cb146a38d96f99daacbf18bb19c3d",
   "original": "veteran survivor zombie",
   "translation": "资深幸存者丧尸",
-  "context": "ID: mon_sflesh_zombie_survivor_elite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_survivor_elite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_survivor_elite",
   "stage": 3
  },
  {
@@ -14950,35 +14806,30 @@
   "key": "cfa6f4fd02ca48c68f224224f8996e0f",
   "original": "weasel",
   "translation": "黄鼠狼",
-  "context": "ID: mon_sflesh_weasel\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_weasel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_weasel",
   "stage": 3
  },
  {
   "key": "29a663549e500ccd247b601c5a5812d6",
   "original": "wild boar",
   "translation": "野猪",
-  "context": "ID: mon_sflesh_boar_wild\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boar_wild\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boar_wild",
   "stage": 3
  },
  {
   "key": "32507ae92038ff9dc761a92dc811f100",
   "original": "wild boar piglet",
   "translation": "小野猪",
-  "context": "ID: mon_sflesh_boar_wild_piglet\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_boar_wild_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_boar_wild_piglet",
   "stage": 3
  },
  {
   "key": "bf4397d8b4dc061e1b6d191a352e9134",
   "original": "wolf",
   "translation": "狼",
-  "context": "ID: mon_sflesh_wolf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_wolf",
   "stage": 3
  },
  {
   "key": "8a195bf6e12531dcc1c2a65ccc50180f",
   "original": "wolves",
   "translation": "狼",
-  "context": "ID: mon_sflesh_wolf\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_live.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_wolf",
   "stage": 3
  },
  {
@@ -14999,7 +14850,6 @@
   "key": "c61d668d2ac4dce0945e7431b09d7fd2",
   "original": "wretched puker",
   "translation": "可怖呕吐者",
-  "context": "ID: mon_sflesh_zombie_wretched\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_wretched\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_wretched",
   "stage": 3
  },
  {
@@ -15034,7 +14884,6 @@
   "key": "0a7bf746e0329acb98361747b55d93a6",
   "original": "zapper zombie",
   "translation": "静电丧尸",
-  "context": "ID: mon_sflesh_zombie_static\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_static\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_static",
   "stage": 3
  },
  {
@@ -15048,14 +14897,12 @@
   "key": "11ce5b136c7e246f0135ee504f71f018",
   "original": "zombear",
   "translation": "丧尸熊",
-  "context": "ID: mon_sflesh_zombear\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombear",
   "stage": 3
  },
  {
   "key": "d94b9292bc925c648cdebdfb544acf58",
   "original": "zombeaver",
   "translation": "丧尸河狸",
-  "context": "ID: mon_sflesh_zombeaver\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombeaver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombeaver",
   "stage": 3
  },
  {
@@ -15069,7 +14916,6 @@
   "key": "f32dc97b73ebf00b2b463080f12b6057",
   "original": "zombie bio-operator",
   "translation": "生化战士丧尸",
-  "context": "ID: mon_sflesh_zombie_bio_op\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_bio_op\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_bio_op",
   "stage": 3
  },
  {
@@ -15083,14 +14929,12 @@
   "key": "5a8af9f5521fbb2c1c8f6e24ad64ee5d",
   "original": "zombie child",
   "translation": "儿童丧尸",
-  "context": "ID: mon_sflesh_zombie_child\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_child\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_child",
   "stage": 3
  },
  {
   "key": "967cc1223ea7b5ab6a6f0522ab8331ba",
   "original": "zombie children",
   "translation": "儿童丧尸",
-  "context": "ID: mon_sflesh_zombie_child\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_child\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_child",
   "stage": 3
  },
  {
@@ -15104,49 +14948,42 @@
   "key": "c6cc5e9ec2492cf13ec28a06f6558081",
   "original": "zombie dog",
   "translation": "丧尸犬",
-  "context": "ID: mon_sflesh_zombie_dog\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_dog\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_dog",
   "stage": 3
  },
  {
   "key": "7cdfd33b580a33b8796de80c82e1c519",
   "original": "zombie hollow",
   "translation": "变形丧尸",
-  "context": "ID: mon_sflesh_zombie_hollow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_hollow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_hollow",
   "stage": 3
  },
  {
   "key": "fcad596c3cbee6198b4211942b6fc6c8",
   "original": "zombie hulk",
   "translation": "丧尸浩克",
-  "context": "ID: mon_sflesh_zombie_hulk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_hulk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_hulk",
   "stage": 3
  },
  {
   "key": "3bfa4fd733399ba40a2611eac5f7bcea",
   "original": "zombie master",
   "translation": "丧尸主宰",
-  "context": "ID: mon_sflesh_zombie_master\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_master\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_master",
   "stage": 3
  },
  {
   "key": "2bb12fde7b753389a19c94fa5da305cd",
   "original": "zombie military pilot",
   "translation": "飞行员丧尸",
-  "context": "ID: mon_sflesh_zombie_military_pilot\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_military_pilot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_military_pilot",
   "stage": 3
  },
  {
   "key": "edb19030c0c1ee2f2ea99df4a7eaa699",
   "original": "zombie necromancer",
   "translation": "死灵法尸",
-  "context": "ID: mon_sflesh_zombie_necro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_necro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_necro",
   "stage": 3
  },
  {
   "key": "1d81667a5057cb0d5a52b2e704842331",
   "original": "zombie nightstalker",
   "translation": "丧尸夜魔",
-  "context": "ID: mon_sflesh_zombie_brute_ninja\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute_ninja\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute_ninja",
   "stage": 3
  },
  {
@@ -15160,7 +14997,6 @@
   "key": "4703fb042ee45e46b44218df0920464d",
   "original": "zombie scientist",
   "translation": "研究员丧尸",
-  "context": "ID: mon_sflesh_zombie_scientist\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_scientist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_scientist",
   "stage": 3
  },
  {
@@ -15174,21 +15010,18 @@
   "key": "34e5f32b27bfbb71fd2c877491c2e880",
   "original": "zombie snapper",
   "translation": "类鱼丧尸",
-  "context": "ID: mon_sflesh_zombie_mancroc\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_mancroc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_mancroc",
   "stage": 3
  },
  {
   "key": "2869fb0cf311a0369f94f1bf79723c40",
   "original": "zombie soldier",
   "translation": "士兵丧尸",
-  "context": "ID: mon_sflesh_zombie_soldier\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_soldier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_soldier",
   "stage": 3
  },
  {
   "key": "af2820458e440edd9ac214e995935426",
   "original": "zombie wrestler",
   "translation": "摔跤手丧尸",
-  "context": "ID: mon_sflesh_zombie_brute_grappler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_undead.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_zombie_brute_grappler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_zombie_brute_grappler",
   "stage": 3
  },
  {
