@@ -19666,6 +19666,13 @@
   "stage": 0
  },
  {
+  "key": "92166351bde6ef3578b328076b975c1a",
+  "original": "Mimics the effect of one of the blast canister items.",
+  "translation": "Mimics the effect of one of the blast canister items.",
+  "context": "ID: arcana_trap_canister_air\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_canister_air",
+  "stage": 1
+ },
+ {
   "key": "96737c5ea828ea472206bf27cf0704ce",
   "original": "Minor healing, and potion effects.",
   "translation": "Minor healing, and potion effects.",
@@ -29590,56 +29597,104 @@
   "key": "02bbaf9f4aff9cd22a9fbc4ef0c99863",
   "original": "This is a small canister with elemental energy bound to it.  Activate to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area immediately around it with acid.  It will also arm on its own if thrown.",
   "translation": "这是一个小罐子，上面绑着元素能量。激活以准备使用，然后几秒钟后爆炸。它的效果会立即用酸将周围区域炸毁。如果被扔出去，它也会自己武装起来。",
-  "context": "ID: blast_canister_arcana_earth\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_earth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_earth",
   "stage": 0
  },
  {
   "key": "76aa34ad8479303bae8aaf03059484eb",
   "original": "This is a small canister with elemental energy bound to it.  Activate to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area immediately around it with flames.  It will also arm on its own if thrown.",
   "translation": "这是一个小罐子，上面绑着元素能量。激活以准备使用，然后几秒钟后爆炸。它的效果会立即用火焰将其周围的区域炸毁。如果被扔出去，它也会自己武装起来。",
-  "context": "ID: blast_canister_arcana_flame\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_flame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_flame",
   "stage": 0
  },
  {
   "key": "a90d1528338fbf4c0c42fd4e6a4d22b9",
   "original": "This is a small canister with elemental energy bound to it.  Activate to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area immediately around it with lightning.  It will also arm on its own if thrown.",
   "translation": "这是一个小罐子，上面绑着元素能量。激活以准备使用，然后几秒钟后爆炸。它的效果会立即用闪电将其周围的区域炸毁。如果被扔出去，它也会自己武装起来。",
-  "context": "ID: blast_canister_arcana_air\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_air",
   "stage": 0
  },
  {
   "key": "252a5e63c83f449e2c1b65211074ec40",
   "original": "This is a small canister with elemental energy bound to it.  Activate to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area immediately around it with supernatural cold.  It will also arm on its own if thrown.",
   "translation": "这是一个小罐子，上面绑着元素能量。激活以准备使用，然后几秒钟后爆炸。它的效果会让它周围的区域立刻产生超自然的寒冷。如果被扔出去，它也会自己武装起来。",
-  "context": "ID: blast_canister_arcana_water\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_water\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_water",
   "stage": 0
+ },
+ {
+  "key": "cb0350a9684a5370439ce6b23b3de1dd",
+  "original": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with acid.  You can also opt to set it up as an explosive trap.",
+  "translation": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with acid.  You can also opt to set it up as an explosive trap.",
+  "context": "ID: blast_canister_arcana_earth\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_earth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_earth",
+  "stage": 1
+ },
+ {
+  "key": "c873b6ef7af94a046e0076bb37f0135c",
+  "original": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with flames.  You can also opt to set it up as an explosive trap.",
+  "translation": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with flames.  You can also opt to set it up as an explosive trap.",
+  "context": "ID: blast_canister_arcana_flame\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_flame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_flame",
+  "stage": 1
+ },
+ {
+  "key": "bf8dc8c6df56de217d985292c7d7ecce",
+  "original": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with lightning.  You can also opt to set it up as an explosive trap.",
+  "translation": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with lightning.  You can also opt to set it up as an explosive trap.",
+  "context": "ID: blast_canister_arcana_air\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_air",
+  "stage": 1
+ },
+ {
+  "key": "6c0badf03b1fac73ffbf64b0b46b9b9b",
+  "original": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with supernatural cold.  You can also opt to set it up as an explosive trap.",
+  "translation": "This is a small canister with elemental energy bound to it.  Arm it to ready it for use, after which it will explode in a few seconds.  Its effect will blast the area around it with supernatural cold.  You can also opt to set it up as an explosive trap.",
+  "context": "ID: blast_canister_arcana_water\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_water\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_water",
+  "stage": 1
+ },
+ {
+  "key": "03f9e56c5123874bd6f779e3b970da79",
+  "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with acid.",
+  "translation": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with acid.",
+  "context": "ID: blast_canister_arcana_earth_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_earth_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_earth_act",
+  "stage": 1
+ },
+ {
+  "key": "082aca16385428852aef237e8359dba9",
+  "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with flames.",
+  "translation": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with flames.",
+  "context": "ID: blast_canister_arcana_flame_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_flame_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_flame_act",
+  "stage": 1
+ },
+ {
+  "key": "170c471b8898fc71c2a523f4a0394d93",
+  "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with lightning.",
+  "translation": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with lightning.",
+  "context": "ID: blast_canister_arcana_air_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_air_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_air_act",
+  "stage": 1
+ },
+ {
+  "key": "a55183e351b0ad057bab71fb0dd6df46",
+  "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with supernatural cold.",
+  "translation": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area around it with supernatural cold.",
+  "context": "ID: blast_canister_arcana_water_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_water_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_water_act",
+  "stage": 1
  },
  {
   "key": "d9222315ac98588a12ff20f1a07880ec",
   "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area immediately around it with acid.",
   "translation": "这是一个小罐子，上面绑着元素能量。它会在几秒钟内爆炸，立即用酸将周围区域炸开。",
-  "context": "ID: blast_canister_arcana_earth_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_earth_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_earth_act",
   "stage": 0
  },
  {
   "key": "60e6a88139f293b47173868adef6abe8",
   "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area immediately around it with flames.",
   "translation": "这是一个小罐子，上面绑着元素能量。它将在几秒钟内爆炸，并立即用火焰将周围区域炸开。",
-  "context": "ID: blast_canister_arcana_flame_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_flame_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_flame_act",
   "stage": 0
  },
  {
   "key": "3070f193b6493b897a8fbcc27a7e9c32",
   "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area immediately around it with lightning.",
   "translation": "这是一个小罐子，上面绑着元素能量。它将在几秒钟内爆炸，并立即用闪电将其周围的区域炸开。",
-  "context": "ID: blast_canister_arcana_air_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_air_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_air_act",
   "stage": 0
  },
  {
   "key": "552924ff169d263b994a5cba37babebe",
   "original": "This is a small canister with elemental energy bound to it.  It will go off in a few seconds, blasting the area immediately around it with supernatural cold.",
   "translation": "这是一个小罐子，上面绑着元素能量。它将在几秒钟内爆炸，用超自然的寒冷将它周围的区域炸开。",
-  "context": "ID: blast_canister_arcana_water_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_water_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_water_act",
   "stage": 0
  },
  {
@@ -30314,6 +30369,13 @@
   "stage": 3
  },
  {
+  "key": "5965703d9f4f5833a08a8bee7c0a977a",
+  "original": "Trap: Air Canister",
+  "translation": "Trap: Air Canister",
+  "context": "ID: arcana_trap_canister_air\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_canister_air",
+  "stage": 1
+ },
+ {
   "key": "f96714a78f294301adc9513bff0eed53",
   "original": "Trap: Chill",
   "translation": "Trap: Chill",
@@ -30321,11 +30383,25 @@
   "stage": 3
  },
  {
+  "key": "2814d3d249e4e34c455093ba56f55935",
+  "original": "Trap: Earth Canister",
+  "translation": "Trap: Earth Canister",
+  "context": "ID: arcana_trap_canister_earth\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_earth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_canister_earth",
+  "stage": 1
+ },
+ {
   "key": "76fb2fbde962ff8f60ca0b52b29b739a",
   "original": "Trap: Fake Shadow Snakes",
   "translation": "Trap: Fake Shadow Snakes",
   "context": "ID: arcana_trap_archon_shadows_4\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_archon_shadows_4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_archon_shadows_4",
   "stage": 3
+ },
+ {
+  "key": "b007c0ea5c1585f78c43866e5fe5f8dd",
+  "original": "Trap: Flame Canister",
+  "translation": "Trap: Flame Canister",
+  "context": "ID: arcana_trap_canister_flame\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_flame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_canister_flame",
+  "stage": 1
  },
  {
   "key": "bd7e2c09a5bb13aad69c7c6de7db3412",
@@ -30430,6 +30506,13 @@
   "original": "Trap: This adds paralytic poison.",
   "translation": "Trap: This adds paralytic poison.",
   "stage": 3
+ },
+ {
+  "key": "20fa28260032ac931b6e35d0bdcfc004",
+  "original": "Trap: Water Canister",
+  "translation": "Trap: Water Canister",
+  "context": "ID: arcana_trap_canister_water\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_trap.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_canister_water\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_canister_water",
+  "stage": 1
  },
  {
   "key": "5e0c19848b47f4356bfabe3ed2405efb",
@@ -39230,6 +39313,34 @@
   "translation": "一片无定形琥珀",
   "context": "ID: blob_gem\n位于 /Kenan-Structured-Modpack/Arcana/items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→blob_gem\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blob_gem",
   "stage": 3
+ },
+ {
+  "key": "dda17077889a8e59e45aaf8b1650e10b",
+  "original": "placed earthen blast canister",
+  "translation": "placed earthen blast canister",
+  "context": "ID: tr_blast_canister_arcana_earth\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_blast_canister_arcana_earth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_blast_canister_arcana_earth",
+  "stage": 1
+ },
+ {
+  "key": "4fdc86e5228c518aef6c904fed2becd2",
+  "original": "placed searing blast canister",
+  "translation": "placed searing blast canister",
+  "context": "ID: tr_blast_canister_arcana_flame\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_blast_canister_arcana_flame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_blast_canister_arcana_flame",
+  "stage": 1
+ },
+ {
+  "key": "75c3f94f5d101e142d65471dda835182",
+  "original": "placed thunderous blast canister",
+  "translation": "placed thunderous blast canister",
+  "context": "ID: tr_blast_canister_arcana_air\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_blast_canister_arcana_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_blast_canister_arcana_air",
+  "stage": 1
+ },
+ {
+  "key": "588707d338a045c5196f1df47c9d7c7f",
+  "original": "placed wintry blast canister",
+  "translation": "placed wintry blast canister",
+  "context": "ID: tr_blast_canister_arcana_water\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→trap→tr_blast_canister_arcana_water\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_blast_canister_arcana_water",
+  "stage": 1
  },
  {
   "key": "b398e15867140f958e2ea9b2ac1a49d7",

@@ -862,9 +862,9 @@
  {
   "key": "373bd69ba839616938bfc9d35c7c2648",
   "original": "A very long light cloth scarf, worn over the mouth for warmth.  With the extra length, it's enough to handle nonstandard facial features and accommodate your hands too.  Use it to wear it tighter if you get too cold.",
-  "translation": "一条非常长且质地轻巧的围巾，可穿戴以覆盖嘴部保持温暖。因为特别加长的缘故，足以同时保暖脸部以及双手。如果太冷了，使用它来围紧些吧。",
+  "translation": "一条重量较轻且非常长的围巾，穿戴时能覆盖到嘴部保持温暖。这围巾真的特别长！因此它还能为你的双手提供保暖。如果感觉冷，就把它围紧些。",
   "context": "ID: maids_scarf_loss\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL_ARMOR→maids_scarf_loss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maids_scarf_loss",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cbeff19d4edfaf2009aa494161cea3aa",
@@ -1996,7 +1996,6 @@
   "key": "955bad668418bbe580bfa8c640e8b2e2",
   "original": "Practicality is far less important than style.  Your morale is improved by wearing fashionable and attractive clothing.",
   "translation": "对你来说，实用的重要性远远低于好看。即使是在末世，把自己打扮的光彩照人和是很重要的。你的心情值会随着自己穿着的时髦衣着而增加。",
-  "context": "ID: STYLISH\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→mutation→STYLISH\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STYLISH",
   "stage": 3
  },
  {
@@ -2199,7 +2198,6 @@
   "key": "a576b03ebee19f09be9a50b397bc3d10",
   "original": "Stylish",
   "translation": "时尚范",
-  "context": "ID: STYLISH\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→mutation→STYLISH\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=STYLISH",
   "stage": 5
  },
  {
@@ -2267,9 +2265,9 @@
  {
   "key": "c51fe8943751e3047ae2cda80b8f5393",
   "original": "Test Effect Name",
-  "translation": "Test Effect Name",
+  "translation": "测试效果名称",
   "context": "ID: master_doll_vibe_spell\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→SPELL→master_doll_vibe_spell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_spell",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "462f0312df6deec28f6682884abee910",
@@ -2629,7 +2627,7 @@
   "original": "Wrap tighter",
   "translation": "围紧",
   "context": "ID: maids_scarf_loss\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL_ARMOR→maids_scarf_loss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maids_scarf_loss",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9fd8732cb954b0be5e7932983358a197",
@@ -3050,8 +3048,8 @@
  {
   "key": "b29851569565e525c3fc3f49869bb7f5",
   "original": "You use master doll.",
-  "translation": "You use master doll.",
-  "stage": 1
+  "translation": "你使用了主人玩偶。",
+  "stage": 3
  },
  {
   "key": "28c943b918f67f06c682157fd56c2646",
@@ -3077,9 +3075,9 @@
  {
   "key": "24371ffb08940d6238307d25e8a33535",
   "original": "You wrap your scarf a bit tighter.",
-  "translation": "你稍稍裹紧你的 %s。",
+  "translation": "你稍稍围紧了你的 %s。",
   "context": "ID: maids_scarf_loss\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL_ARMOR→maids_scarf_loss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maids_scarf_loss",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f2c52e9b8db744adf9dfae3d72495325",
@@ -3572,23 +3570,23 @@
  {
   "key": "827c6f5ae91b19244b874d637635d163",
   "original": "maid's scarf (loose)",
-  "translation": "maid's scarf (loose)",
+  "translation": "女仆围巾(宽松)",
   "context": "ID: maids_scarf_loss\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL_ARMOR→maids_scarf_loss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maids_scarf_loss",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "028452a3acbee0f96c558aaa3a934293",
   "original": "maid's scarves",
-  "translation": "maid's scarves",
+  "translation": "女仆围巾",
   "context": "ID: maids_scarf\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL_ARMOR→maids_scarf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maids_scarf",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2058f0de001f4d3514f71c0d175f3547",
   "original": "maid's scarves (loose)",
-  "translation": "maid's scarves (loose)",
+  "translation": "女仆围巾(宽松)",
   "context": "ID: maids_scarf_loss\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL_ARMOR→maids_scarf_loss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maids_scarf_loss",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e240410adbdf1686f9431480d5fa9140",
@@ -3930,6 +3928,6 @@
   "original": "♂♀",
   "translation": "♂♀",
   "context": "ID: TALK_VIBE2\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/items/effects.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→talk_topic→TALK_VIBE2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_VIBE2",
-  "stage": 1
+  "stage": 3
  }
 ]
