@@ -1096,7 +1096,6 @@
   "key": "499c430f3d25a62efecb0f01bf25be8c",
   "original": "<color_light_red>(Secronom)</color> A Greedy Mutant",
   "translation": "<color_light_red>（Secronom）</color>贪婪的变异体",
-  "context": "ID: achievement_secronom_see_texplode\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→achievement→achievement_secronom_see_texplode\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_secronom_see_texplode",
   "stage": 3
  },
  {
@@ -1145,7 +1144,6 @@
   "key": "8491a9767b32e0a02069451144f915c0",
   "original": "<color_light_red>(Secronom)</color> Deadly Risk Of Forced Growth",
   "translation": "<color_light_red>（Secronom）</color>强制生长的致命风险",
-  "context": "ID: achievement_secronom_see_grow_null\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→achievement→achievement_secronom_see_grow_null\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_secronom_see_grow_null",
   "stage": 3
  },
  {
@@ -1278,7 +1276,6 @@
   "key": "9df60bc205793a24b70d6e5894a1c15e",
   "original": "<color_light_red>(Secronom)</color> Meat-eor Shower!",
   "translation": "<color_light_red> （Secronom） </color>用肉淋浴！",
-  "context": "ID: achievement_secronom_see_nimplode\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→achievement→achievement_secronom_see_nimplode\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_secronom_see_nimplode",
   "stage": 3
  },
  {
@@ -1320,7 +1317,6 @@
   "key": "d93e2b3f49f8bb97984e93c87f9e6219",
   "original": "<color_light_red>(Secronom)</color> Shocking Performance!",
   "translation": "<color_light_red> （Secronom） </color>令人震惊的表演！",
-  "context": "ID: achievement_secronom_see_edischarge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→achievement→achievement_secronom_see_edischarge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_secronom_see_edischarge",
   "stage": 3
  },
  {
@@ -1719,7 +1715,6 @@
   "key": "11217c11c735970ce2958800ae25c119",
   "original": "<color_yellow>%1$s curses the surrounding area as it enshrouds itself in shadows!</color>",
   "translation": "<color_yellow>%1$s诅咒周围的区域，并将它自己笼罩在阴影中！</color>",
-  "context": "ID: mon_zombie_uruxis\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_uruxis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis",
   "stage": 3
  },
  {
@@ -2042,6 +2037,13 @@
   "original": "<color_yellow>Errant shadows emerges from %1$s as they perform an onslaught!</color>",
   "translation": "<color_yellow>错误的阴影从%1$s中浮现出来，它们正在进行一次攻击！</color>",
   "stage": 5
+ },
+ {
+  "key": "818e7d6c8f4550c0e798f6a278aa5b77",
+  "original": "<color_yellow>Shadows around %1$s intensifies!</color>",
+  "translation": "<color_yellow>Shadows around %1$s intensifies!</color>",
+  "context": "ID: mon_zombie_uruxis\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_uruxis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis",
+  "stage": 1
  },
  {
   "key": "034888c12b7778a914df9303b38b34c1",
@@ -4300,14 +4302,12 @@
   "key": "2c0df65a10fae5d461816400de81eee1",
   "original": "After a brief moment, a temporary force field has been generated surrounding the secronom dragon!",
   "translation": "很快，生物武器-龙的周围产生了一个会持续一段时间的力场！",
-  "context": "ID: mon_secrodragon_barrier_target_random_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_secrodragon_barrier_target_random_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_barrier_target_random_YES",
   "stage": 3
  },
  {
   "key": "74cce25751fbd9e50ced351fc6a57674",
   "original": "After a short period of time, the equinox flung its rancid flesh into the sky!",
   "translation": "过了一会儿，探界者把它那腐臭的血肉抛向天空！",
-  "context": "ID: mon_zombie_equinox_nimplode_target_random_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_equinox_nimplode_target_random_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_equinox_nimplode_target_random_YES",
   "stage": 3
  },
  {
@@ -4437,14 +4437,12 @@
   "key": "a8d4fa90202d6be1a3a1dd335c27e89d",
   "original": "An errant silhouette flies toward its target, then shreds them!",
   "translation": "一个漫游的阴影飞向它的目标，然后撕碎了它们！",
-  "context": "ID: mon_shifter_target_atk_onslaught_dmgcutlow_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_shifter_target_atk_onslaught_dmgcutlow_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_target_atk_onslaught_dmgcutlow_YES",
   "stage": 3
  },
  {
   "key": "1b1eed4f82d5fcefa6da77641d5db6aa",
   "original": "An errant silhouette rakes through their target!",
   "translation": "一个漫游的阴影掠过他们的目标！",
-  "context": "ID: mon_shifter_target_atk_onslaught_dmgcuthigh_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_shifter_target_atk_onslaught_dmgcuthigh_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_target_atk_onslaught_dmgcuthigh_YES",
   "stage": 3
  },
  {
@@ -4620,7 +4618,6 @@
   "key": "99d92b45710a2f0618ebd88e9530875e",
   "original": "As the flesh trembles further, the tower's tentacle veins suddenly moves and thrashes the entire area!",
   "translation": "随着血肉进一步颤动，血肉高塔的触手脉突然移动并在整个区域扭动起来！",
-  "context": "ID: mon_sflesh_flesh_city_fturmoil_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_flesh_city_fturmoil_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_flesh_city_fturmoil_YES",
   "stage": 3
  },
  {
@@ -4776,14 +4773,12 @@
   "key": "b1088c71e0b88a2c5bcab190df5eaf44",
   "original": "But suddenly its volatile core explodes violently, spreading corrupted acid everywhere!\n<color_light_green>The corrupted devourer suffers from the explosion!</color>",
   "translation": "但突然间，它的不稳定核心发生了剧烈爆炸，腐化的酸液溅得到处都是！\n<color_light_green>腐化吞噬者承受了爆炸！</color>",
-  "context": "ID: mon_zombie_cordev_texplode_target_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_cordev_texplode_target_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_cordev_texplode_target_YES",
   "stage": 3
  },
  {
   "key": "3f162a7c66ab2a0a9ba05bae29b3c89c",
   "original": "But while the corrupted devourer looks at them, its arm biters suddenly eats away the flesh it touches!",
   "translation": "但当腐化吞噬者看着他们的时候，它的咬人手臂突然吃掉了它接触到的血肉！",
-  "context": "ID: mon_zombie_cordev_mincem_target_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_cordev_mincem_target_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_cordev_mincem_target_YES",
   "stage": 3
  },
  {
@@ -5070,7 +5065,6 @@
   "key": "7f2a60eda02e2f6f59a5f3079c03e1a0",
   "original": "Cursed Lands",
   "translation": "被诅咒的土地",
-  "context": "ID: mon_zombie_uruxis_spawn\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis_spawn",
   "stage": 5
  },
  {
@@ -5676,7 +5670,6 @@
   "key": "f55843789f6f7703722d710b12ccfa00",
   "original": "Flesilisk's body then barrages its bone spikes into them!",
   "translation": "然后，肉甲的身体会把它的骨钉塞进去！",
-  "context": "ID: mon_zombie_fleshysnaky_pmissile_target_random_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_fleshysnaky_pmissile_target_random_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshysnaky_pmissile_target_random_YES",
   "stage": 5
  },
  {
@@ -5689,7 +5682,6 @@
   "key": "77c5e31d780927f12f63f15564eeff5d",
   "original": "For a short moment, the flesilisk's bone spikes shoots into the sky then swoops down towards them!",
   "translation": "一小会儿，飞龙的骨钉射向天空，然后向它们俯冲而下！",
-  "context": "ID: mon_zombie_fleshysnaky_sbomb_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_fleshysnaky_sbomb_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshysnaky_sbomb_YES",
   "stage": 5
  },
  {
@@ -6534,7 +6526,6 @@
   "key": "9a51cfac2e2610cdd86c09f1327ae903",
   "original": "Performed by a monster.\n",
   "translation": "由怪物表演。\n",
-  "context": "ID: achievement_secronom_see_edischarge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_achievements.json\n类型为 achievement\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→achievement→achievement_secronom_see_edischarge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=achievement_secronom_see_edischarge",
   "stage": 5
  },
  {
@@ -6901,7 +6892,6 @@
   "key": "cb0e9fadd1ad2c5294a08e678d878867",
   "original": "Shadow Mended",
   "translation": "阴影已修补",
-  "context": "ID: secro_uruxis_shroud\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_uruxis_shroud\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_uruxis_shroud",
   "stage": 5
  },
  {
@@ -6920,7 +6910,6 @@
   "key": "19d680a24fc425e78085b092f4c29831",
   "original": "Shadow enshrouds you that heals and protects, but burdens.",
   "translation": "阴影笼罩着你，治愈和保护你的人，但负担。",
-  "context": "ID: secro_uruxis_shroud\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_uruxis_shroud\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_uruxis_shroud",
   "stage": 5
  },
  {
@@ -6941,14 +6930,19 @@
   "key": "ae6e72a3c206f64457f309b6ea027854",
   "original": "Shrouded in ominous black mist, this corpse's horrid visage strikes fear to the minds of the conscious ones.",
   "translation": "笼罩在不祥的黑色薄雾中，这具尸体可怕的面容使有意识的人感到恐惧。",
-  "context": "ID: mon_zombie_uruxis\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_uruxis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis",
   "stage": 3
+ },
+ {
+  "key": "5249542b7fd7f6738ba176c19bd16558",
+  "original": "Shrouded in ominous black mist, this corpse's horrid visage strikes fear to the minds of the conscious.",
+  "translation": "Shrouded in ominous black mist, this corpse's horrid visage strikes fear to the minds of the conscious.",
+  "context": "ID: mon_zombie_uruxis\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_uruxis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis",
+  "stage": 1
  },
  {
   "key": "7c3671afa1106f26f7cd4ce8bfcaaffd",
   "original": "Silhouettes were formed around the shapeshifter!",
   "translation": "变形者的四周形成了阴影！",
-  "context": "ID: mon_shifter_target_atk_illu_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_shifter_target_atk_illu_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_target_atk_illu_YES",
   "stage": 3
  },
  {
@@ -7326,6 +7320,12 @@
   "stage": 5
  },
  {
+  "key": "4fd1dddbd78f7f7cdcd62e926266611e",
+  "original": "Spawn",
+  "translation": "生成",
+  "context": "ID: mon_zombie_uruxis_spawn_passive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn_passive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis_spawn_passive"
+ },
+ {
   "key": "aec757c86820a0b39d0475722d3889bf",
   "original": "Spawn Parasite Swarms",
   "translation": "产卵寄生虫群",
@@ -7352,6 +7352,12 @@
   "translation": "产卵塔肯",
   "context": "ID: mon_sflesh_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_death",
   "stage": 0
+ },
+ {
+  "key": "c7359eeaca4b19723132339a8deade87",
+  "original": "Spawned",
+  "translation": "召唤数量",
+  "context": "ID: mon_zombie_uruxis_spawn_passive_eff\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn_passive_eff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis_spawn_passive_eff"
  },
  {
   "key": "a50efb9122cc6cb7583070a3aa6c0e14",
@@ -7454,6 +7460,13 @@
   "translation": "怪物施法。如果你看到了这一点，那么改为阅读这一条：\n“施法者和目标都无法行动。”",
   "context": "ID: mon_fleshweaver_operate\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_fleshweaver_operate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_fleshweaver_operate",
   "stage": 0
+ },
+ {
+  "key": "4a50e63c0a80586b74ff6ffb68b6966d",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caater's ability goes on a cooldown.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caater's ability goes on a cooldown.'",
+  "context": "ID: mon_zombie_uruxis_spawn_passive_eff\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn_passive_eff\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis_spawn_passive_eff",
+  "stage": 1
  },
  {
   "key": "c2da212b98d8383e1f71d80259482168",
@@ -7713,7 +7726,6 @@
   "key": "a05ecb4eabc8008aab2f2be7d2e2032c",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster channels itself, creating a lingering curse that calls zeds in its area while enshrouds the caster with the black mist to heal and protect.'",
   "translation": "怪物施法的。如果你看到了这一点，那就改读这篇：\n“施法者通道本身，制造了一个挥之不去的诅咒，在它的区域召唤宙斯，同时用黑雾笼罩施法者来治疗和保护。”",
-  "context": "ID: mon_zombie_uruxis_spawn\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis_spawn",
   "stage": 5
  },
  {
@@ -8361,6 +8373,13 @@
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者在死亡时会产生大量寄生蜂群，然后是气体爆炸。”",
   "context": "ID: mon_zombie_glut_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_glut_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_glut_death",
   "stage": 0
+ },
+ {
+  "key": "36c518994f70fb58cbe55b33a8fb9f13",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster spawns in a zombie.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster spawns in a zombie.'",
+  "context": "ID: mon_zombie_uruxis_spawn_passive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn_passive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_uruxis_spawn_passive",
+  "stage": 1
  },
  {
   "key": "72a58d399727aa38608cd43d1800d411",
@@ -9314,7 +9333,6 @@
   "key": "62f759a4d7921ccad9059d4d9f3b938d",
   "original": "Suddenly it erupts into gore!",
   "translation": "突然它爆发成血迹！",
-  "context": "ID: mon_insect_saddler_baby_potent_grow_null_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_insect_saddler_baby_potent_grow_null_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_saddler_baby_potent_grow_null_YES",
   "stage": 5
  },
  {
@@ -10480,7 +10498,6 @@
   "key": "30f98f5caa6e415eee017a148d3bfcc5",
   "original": "The air thickens as the shapeshifter moves.",
   "translation": "变形者移动时，空气都变得厚重了。",
-  "context": "ID: mon_shifter_stun_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_shifter_stun_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_stun_YES",
   "stage": 3
  },
  {
@@ -10501,14 +10518,12 @@
   "key": "82fdfbb9f287c7cf7c9bc6aaf1f55148",
   "original": "The amalagam stinger slashes in a wide arc!",
   "translation": "毒刺混合怪来了一记大幅度的挥砍！",
-  "context": "ID: mon_sflesh_fleshling_stingy_whiplash_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_fleshling_stingy_whiplash_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fleshling_stingy_whiplash_YES",
   "stage": 3
  },
  {
   "key": "6383dac030c4519449cb96f7093566a4",
   "original": "The amalgam stinger thrusts its stinger at them!",
   "translation": "毒刺混合怪用它的毒刺刺向了他们！",
-  "context": "ID: mon_sflesh_fleshling_stingy_sting_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_fleshling_stingy_sting_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fleshling_stingy_sting_YES",
   "stage": 3
  },
  {
@@ -10553,7 +10568,6 @@
   "key": "7ad5b3949f4e446ac56d5dc872304482",
   "original": "The corrupted devourer's core quickly forms numerous errant tendrils that lashes towards them!",
   "translation": "腐化吞噬者的核心迅速形成无数乱甩的触手向他们猛击！",
-  "context": "ID: mon_zombie_cordev_whip_target_random_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_cordev_whip_target_random_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_cordev_whip_target_random_YES",
   "stage": 3
  },
  {
@@ -10673,21 +10687,18 @@
   "key": "8539a38eebf6462d5145df991ea7c30b",
   "original": "The fleshed ravager's body bursts a chunk of flesh!",
   "translation": "这个血肉横飞的掠夺者的身体爆开了一大块肉！",
-  "context": "ID: mon_sflesh_fleshling_ravagy_fburst_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_fleshling_ravagy_fburst_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fleshling_ravagy_fburst_YES",
   "stage": 5
  },
  {
   "key": "b40ca400bf1da9ff7c8e5a88e33d4b62",
   "original": "The fleshed ravager's extra appendages flings in every direction!",
   "translation": "血肉掠夺者的额外附属物向四面八方投掷！",
-  "context": "ID: mon_sflesh_fleshling_ravagy_outb_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_fleshling_ravagy_outb_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fleshling_ravagy_outb_YES",
   "stage": 5
  },
  {
   "key": "a9bd247768925cf3eafdd058bf29b56a",
   "original": "The fleshed stinger bursts a bulbous wart!",
   "translation": "肉刺破了一个球茎疣！",
-  "context": "ID: mon_sflesh_fleshling_stingy_bb_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_fleshling_stingy_bb_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_fleshling_stingy_bb_YES",
   "stage": 5
  },
  {
@@ -10729,14 +10740,12 @@
   "key": "5fbc86c97b5d07bcbba4067a435ab23f",
   "original": "The flesilisk then suddenly spew its fang at them!",
   "translation": "然后，肉兽突然向他们吐出它的尖牙！",
-  "context": "ID: mon_zombie_fleshysnaky_ppoint_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_fleshysnaky_ppoint_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshysnaky_ppoint_YES",
   "stage": 5
  },
  {
   "key": "210c3ecb72b1c7d66d5c1581df09f42f",
   "original": "The flesilisk then undulates hastily, creating a hail of bone spikes in every direction!",
   "translation": "然后，肉甲迅速波动，向四面八方产生骨钉的冰雹！",
-  "context": "ID: mon_zombie_fleshysnaky_hails_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_fleshysnaky_hails_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshysnaky_hails_YES",
   "stage": 5
  },
  {
@@ -11057,63 +11066,54 @@
   "key": "90e55ac1d8d766306c34c6990b770be2",
   "original": "Then grows into a saddler brute!",
   "translation": "然后长成一只狂暴异形萨德勒",
-  "context": "ID: mon_insect_saddler_baby_potent_grow_brute_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_insect_saddler_baby_potent_grow_brute_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_saddler_baby_potent_grow_brute_YES",
   "stage": 3
  },
  {
   "key": "9349fc4ee25edb138945d6fc8f60302b",
   "original": "Then grows into a saddler scout!",
   "translation": "然后长成一只迅捷异形萨德勒！",
-  "context": "ID: mon_insect_saddler_baby_potent_grow_scout_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_insect_saddler_baby_potent_grow_scout_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_saddler_baby_potent_grow_scout_YES",
   "stage": 3
  },
  {
   "key": "6a3ad93d09f8d2bcf624dde3b1552fa4",
   "original": "Then grows into a saddler!",
   "translation": "然后长成一只异形萨德勒！",
-  "context": "ID: mon_insect_saddler_baby_potent_grow_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_insect_saddler_baby_potent_grow_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_saddler_baby_potent_grow_YES",
   "stage": 3
  },
  {
   "key": "9148508c66bcdff0aec1b705f732fb11",
   "original": "Then its arm biters vomit a large amount of polluted acid at their location!",
   "translation": "然后它的咬人手臂在它所在的位置吐出大量被污染的酸！",
-  "context": "ID: mon_zombie_cordev_corrupt_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_cordev_corrupt_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_cordev_corrupt_YES",
   "stage": 3
  },
  {
   "key": "0d65910d5f90a9de9db5153ff9720efc",
   "original": "Then its dreadful inner mouth stretches its way to crunch at them!",
   "translation": "然后它可怕的内嘴向他们张开嘎吱嘎吱！",
-  "context": "ID: mon_zombieworm_mawy_crunch_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombieworm_mawy_crunch_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombieworm_mawy_crunch_YES",
   "stage": 5
  },
  {
   "key": "366e17f4ad758e6a1559b85c618f8f7e",
   "original": "Then its muscles suddenly mutates!",
   "translation": "然后它的肌肉突然变异！",
-  "context": "ID: mon_zombie_swarmer_evo_savage_tension_target_random_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_swarmer_evo_savage_tension_target_random_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_swarmer_evo_savage_tension_target_random_YES",
   "stage": 5
  },
  {
   "key": "6c8bb890e3a0468ed1943dff09808de9",
   "original": "Then several sparks of electric discharge archs through the vicinity!",
   "translation": "然后几个电火花从附近划过！",
-  "context": "ID: mon_secrodragon_edischarge_target_random_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_secrodragon_edischarge_target_random_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_edischarge_target_random_YES",
   "stage": 5
  },
  {
   "key": "6a4a6c8df6e9cd97a991e2977f37bca6",
   "original": "Then spews out flesh webs at their surroundings!",
   "translation": "然后向周围喷出肉网！",
-  "context": "ID: mon_zombieworm_mawy_web_target_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombieworm_mawy_web_target_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombieworm_mawy_web_target_YES",
   "stage": 5
  },
  {
   "key": "c24be9d754cb6bf0a1d8eaf0b810704d",
   "original": "Then suddenly, a flash flood of liquidated vile flesh were sent into a direction!",
   "translation": "突然间，一股邪恶的血肉涌向一个方向！",
-  "context": "ID: mon_zombie_equinox_ndischarge_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_zombie_equinox_ndischarge_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_equinox_ndischarge_YES",
   "stage": 5
  },
  {
