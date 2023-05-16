@@ -38,7 +38,6 @@
   "key": "3ffe0962950e28c5feca6d8f0a18459c",
   "original": "\"Feed\" the bio-organic exoskeleton by activating <color_light_blue>Feed</color> command under the spellcasting tab (undefined by default). Alternatively, you can activate the <color_yellow>Metabolic Distribution</color> bionic, but it is advisable to use it only if you ran out of flesh.\n\nTo complete this mission, obtain a <color_light_green>blob glob</color>. It's the main ingredient in creating food for your suit.",
   "translation": "通过激活“施法”选项卡下的<color_light_blue>喂养</color>命令（默认情况下未设定）来“喂养”生物有机外骨骼。或者，你可以激活<color_yellow>代谢供能</color>CBM，但只有当你的肉类用完了才建议使用它。\n\n想要完成喂食，需要<color_light_green>变形怪糊</color>。它是为你的生物有机外骨骼制作食物的主要成分。",
-  "context": "ID: MISSION_SECRO_FV_TUTORIAL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mission_definition→MISSION_SECRO_FV_TUTORIAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SECRO_FV_TUTORIAL",
   "stage": 5
  },
  {
@@ -666,10 +665,16 @@
   "stage": 5
  },
  {
+  "key": "4e6b34fa51530b33b4ef2e5bc29bc3cd",
+  "original": "<color_cyan>An expansion mod for secronom. (WIP)</color>",
+  "translation": "<color_cyan>An expansion mod for secronom. (WIP)</color>",
+  "context": "ID: secronom_lore_expansion\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→MOD_INFO→secronom_lore_expansion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secronom_lore_expansion",
+  "stage": 1
+ },
+ {
   "key": "12eebd696d981b0c08b3cc73d30fcbbd",
   "original": "<color_cyan>An expansion mod for secronom.</color>",
   "translation": "<color_cyan>一个 secronom mod的扩展mod。</color>",
-  "context": "ID: secronom_lore_expansion\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→MOD_INFO→secronom_lore_expansion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secronom_lore_expansion",
   "stage": 3
  },
  {
@@ -4029,6 +4034,13 @@
   "stage": 5
  },
  {
+  "key": "367439e5e3d48c20321813ab8b507d76",
+  "original": "Internal storage for articifial flesh.",
+  "translation": "Internal storage for articifial flesh.",
+  "context": "ID: internal_secro_fv_core\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_bionics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→internal_secro_fv_core\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=internal_secro_fv_core",
+  "stage": 1
+ },
+ {
   "key": "2fbf8d67fb493f001f4b6ce46c1d1b40",
   "original": "Irregular Bone Outgrowths",
   "translation": "不规则骨生长",
@@ -6669,7 +6681,6 @@
   "key": "42bea92fd336772defdb411217298626",
   "original": "You felt uncomfortable for a split second․",
   "translation": "You felt uncomfortable for a split second․",
-  "context": "ID: eoc_secro_pafv_growth\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_growth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_pafv_growth",
   "stage": 1
  },
  {
@@ -6971,6 +6982,13 @@
   "translation": "你的手臂被一对又硬又细的卷须取代了。很好的战斗，但它的僵硬，防止你戴手套。",
   "context": "ID: SECRO_TENDRIL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mutation→SECRO_TENDRIL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SECRO_TENDRIL",
   "stage": 5
+ },
+ {
+  "key": "4f138eaead8fdab92904fcb7e2c7d680",
+  "original": "Your bio-organic exoskeleton needs a constant supply of artificial flesh in your inventory to remain functional.\n\nTo complete this mission, obtain a <color_light_green>blob glob</color>.",
+  "translation": "Your bio-organic exoskeleton needs a constant supply of artificial flesh in your inventory to remain functional.\n\nTo complete this mission, obtain a <color_light_green>blob glob</color>.",
+  "context": "ID: MISSION_SECRO_FV_TUTORIAL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mission_definition→MISSION_SECRO_FV_TUTORIAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_SECRO_FV_TUTORIAL",
+  "stage": 1
  },
  {
   "key": "a5f365e2bbef10427520a649b1a52ab5",
@@ -11056,6 +11074,13 @@
   "stage": 5
  },
  {
+  "key": "a53c347fe591bd0f4e173bb792f45ca1",
+  "original": "flesh core",
+  "translation": "flesh core",
+  "context": "ID: internal_secro_fv_core\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_bionics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→internal_secro_fv_core\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=internal_secro_fv_core",
+  "stage": 1
+ },
+ {
   "key": "fcdac0630f19d5dcdf9f78b2db198e85",
   "original": "flesh frame",
   "translation": "血肉车架",
@@ -11106,7 +11131,7 @@
   "key": "db76fceaeb39bb37ced5a084a4446e67",
   "original": "flesh vessel",
   "translation": "脉管装甲",
-  "context": "ID: secro_power_armor_flesh3_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_flesh.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh3_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh3_act",
+  "context": "ID: secro_power_armor_flesh3\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_flesh.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh3",
   "stage": 3
  },
  {
@@ -11143,6 +11168,20 @@
   "translation": "脉管装甲-“战士型”",
   "context": "ID: secro_power_armor_flesh_fite\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh_fite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_fite",
   "stage": 5
+ },
+ {
+  "key": "7108b3d84d5d3ccb7b6773971fd4a97e",
+  "original": "flesh vessel (on)",
+  "translation": "flesh vessel （on）",
+  "context": "ID: secro_power_armor_flesh3_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_flesh.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh3_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh3_act",
+  "stage": 1
+ },
+ {
+  "key": "7ba7e22d21e10a60c1eb7ce940eeadd1",
+  "original": "flesh vessels (on)",
+  "translation": "flesh vessels （on）",
+  "context": "ID: secro_power_armor_flesh3_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_flesh.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh3_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh3_act",
+  "stage": 1
  },
  {
   "key": "dc88b8323d355d87deb5e2696617ffd9",

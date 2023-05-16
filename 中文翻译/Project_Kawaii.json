@@ -29,25 +29,25 @@
  {
   "key": "ea2bd30e6317f6e937d1895c03c1f361",
   "original": "<color_pink>[AMTS]</color> A&M Employee's Manual Tier 1 (About Packaging)",
-  "translation": "<color_pink>[AMTS]</color>A&M员工手册 第1章（关于包装）",
+  "translation": "<color_pink>[AMTS]</color>A&M员工手册 第1章（关于封装）",
   "stage": 3
  },
  {
   "key": "e5d07afe7a0dd88455b5ed5663c9e6f1",
   "original": "<color_pink>[AMTS]</color> A&M Employee's Manual Tier 2 (About Efficient Packaging)",
-  "translation": "<color_pink>[AMTS]</color>A&M员工手册 第2章（关于高效打包）",
+  "translation": "<color_pink>[AMTS]</color>A&M员工手册 第2章（关于高效封装）",
   "stage": 3
  },
  {
   "key": "ea213264616650292cb935a321b09273",
   "original": "<color_pink>[AMTS]</color> A&M Employee's Manual Tier 3 (About Gear Packaging)",
-  "translation": "<color_pink>[AMTS]</color>A&M员工手册 第3章（关于装备打包）",
+  "translation": "<color_pink>[AMTS]</color>A&M员工手册 第3章（关于装备封装）",
   "stage": 3
  },
  {
   "key": "d6a764e94f35fb661a7cc13e0bdfd477",
   "original": "<color_pink>[AMTS]</color> A&M Employee's Manual Tier Kawaii (About Kawaii Packaging)",
-  "translation": "<color_pink>[AMTS]</color>A&M员工手册 终章（关于KAWAII包装）",
+  "translation": "<color_pink>[AMTS]</color>A&M员工手册 终章（关于卡哇伊封装）",
   "stage": 3
  },
  {
@@ -65,8 +65,8 @@
  {
   "key": "bea4798e316cf74f4d912967025a7c86",
   "original": "<color_pink>[AMTS]</color> Packaging System",
-  "translation": "<color_pink>[AMTS]</color>包装系统",
-  "stage": 5
+  "translation": "<color_pink>[AMTS]</color>封装系统",
+  "stage": 3
  },
  {
   "key": "54a307b9e727a0598b316a35bfbfc059",
@@ -109,58 +109,58 @@
  {
   "key": "89484d30179ed7ab7af01a36f8ac29c4",
   "original": "A UPS by A&M that stores more charge with less weight than standard UPS modules.",
-  "translation": "一种A&M公司生产的UPS，比普通的UPS模块可以存储更多的电量，且更轻。",
+  "translation": "一款由A&M制造的UPS，其储存更多电荷，重量却比标准UPS模块轻。",
   "context": "ID: kawaii_UPS\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/AMTS_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→TOOL→kawaii_UPS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_UPS",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "bd4068faedc82a81580ea2eaa2668e81",
   "original": "A beautiful but simple wedding veil.",
-  "translation": "一顶简单美丽的婚礼面纱。",
+  "translation": "一个既美丽又简约的婚礼面纱。",
   "context": "ID: kawaii_wedding_veil_a\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→ARMOR→kawaii_wedding_veil_a\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_wedding_veil_a",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "d9d5cfeef0d1dec9ebbf1f9cc2f682e3",
   "original": "A beautiful two-ended polearm with beautiful crystalline blades... though it seems pretty fragile.",
-  "translation": "一个两端有着美丽的水晶刀片的剑......不过它看起来很易碎。",
+  "translation": "一柄亮丽的双头剑，其由夺目的晶片构成……看起来十分易碎。",
   "context": "ID: kawaii_crystal_tr_prot\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→GENERIC→kawaii_crystal_tr_prot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_crystal_tr_prot",
   "stage": 3
  },
  {
   "key": "44f7e06629b564172ff46beddec3a009",
   "original": "A beautiful wedding veil with additional adornments.",
-  "translation": "一顶有着额外装饰品的婚礼面纱。",
+  "translation": "一顶有着额外装饰的婚礼面纱。",
   "context": "ID: kawaii_wedding_veil_b\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→ARMOR→kawaii_wedding_veil_b\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_wedding_veil_b",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "fef977cd5213e5d234b5213c176f3008",
   "original": "A big scythe, rumored to have been used by shinigami (death spirits)",
-  "translation": "一把大镰刀，据传是死神（shinigami）曾经用过的。",
+  "translation": "一把巨大镰刀，传闻曾被死神所使用。",
   "context": "ID: kawaii_death_scythe\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→GENERIC→kawaii_death_scythe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_death_scythe",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "18970561038ad89b68b9db63737433a1",
   "original": "A black garter belt, designed to be worn with stockings.",
-  "translation": "一种黑色吊袜带，与长筒袜非常搭配。",
+  "translation": "一个黑色吊袜带，用于防止丝袜滑落。",
   "context": "ID: kawaii_maid_garter\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→ARMOR→kawaii_maid_garter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_maid_garter",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "844b79fdf907509e194422e7029c9bc3",
   "original": "A bra with green stripes.",
-  "translation": "有着绿色条纹的胸罩。",
+  "translation": "一款有着绿色条纹的胸罩。",
   "context": "ID: kawaii_maid_simabura_green\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→ARMOR→kawaii_maid_simabura_green\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_maid_simabura_green",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "1c8dcb69aa1b041ec4ca56294ad2f74a",
   "original": "A bra with pink stripes.",
-  "translation": "有着粉色条纹的胸罩。",
+  "translation": "一款有着粉色条纹的胸罩。",
   "context": "ID: kawaii_maid_simabura_pink\n位于 /Kenan-Structured-Modpack/Project_Kawaii/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Project_Kawaii→ARMOR→kawaii_maid_simabura_pink\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kawaii_maid_simabura_pink",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "cc2c8eba6621462f5c82cbe5a4e424c6",
