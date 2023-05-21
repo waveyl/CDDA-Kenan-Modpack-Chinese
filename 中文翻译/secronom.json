@@ -4275,7 +4275,7 @@
   "key": "76d7fea10aec86caa3797d143ea0026e",
   "original": "Acid Spit",
   "translation": "酸液",
-  "context": "ID: mon_szombie_vessel_spitter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_spitter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_spitter",
+  "context": "ID: mon_sflesh_camp_turret_aspit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_camp_turret_aspit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_aspit",
   "stage": 5
  },
  {
@@ -4597,21 +4597,21 @@
   "key": "99660b09c5718a25a2959d0106f2c243",
   "original": "Armament - Biters",
   "translation": "武装 - 啃咬者",
-  "context": "ID: mon_szombie_vessel_biters\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_biters\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_biters",
+  "context": "ID: mon_szombie_vessel_arma_biters\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_szombie_vessel_arma_biters\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_arma_biters",
   "stage": 3
  },
  {
   "key": "950e21bb48a117a01be955edc7edf68e",
   "original": "Armament - Blades",
   "translation": "武装 - 刀刃",
-  "context": "ID: mon_szombie_vessel_blades\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_blades\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_blades",
+  "context": "ID: mon_szombie_vessel_arma_blades\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_szombie_vessel_arma_blades\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_arma_blades",
   "stage": 3
  },
  {
   "key": "cc6f127861af766ff94897e69ebb7e67",
   "original": "Armament - Tentacles",
   "translation": "武装 - 触手",
-  "context": "ID: mon_szombie_vessel_tents\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_tents\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_tents",
+  "context": "ID: mon_szombie_vessel_arma_tents\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_szombie_vessel_arma_tents\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_arma_tents",
   "stage": 3
  },
  {
@@ -5037,7 +5037,6 @@
   "key": "44a16808b85645d31aee29048cc1a111",
   "original": "Crimson Shower",
   "translation": "深红色淋浴",
-  "context": "ID: mon_szombie_vessel_spitter_cs\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_spitter_cs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_spitter_cs",
   "stage": 5
  },
  {
@@ -6282,7 +6281,7 @@
   "key": "ab58c3d23f25832de807772cb54f5627",
   "original": "Morph",
   "translation": "变形",
-  "context": "ID: secro_flesh_infect_feral_human_archaeologist\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_feral_human_archaeologist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_feral_human_archaeologist",
+  "context": "ID: secro_flesh_infect_scorpion_larva\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_scorpion_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_scorpion_larva",
   "stage": 3
  },
  {
@@ -6383,7 +6382,7 @@
   "key": "e9d8728bbb44195002172ae5787b4c63",
   "original": "Note spell casted by a monster. If you're seeing this, then read this one instead:\n'Provides a notice about the casted spell's result.'",
   "translation": "注意怪物施法。如果你看到了这个，那就改读这个：\n提供了一个关于施法结果的通知",
-  "context": "ID: mon_szombie_vessel_spitter_cs_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_spitter_cs_note\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_spitter_cs_note",
+  "context": "ID: mon_sflesh_camp_turret_hravager_swing_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_camp_turret_hravager_swing_note\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_swing_note",
   "stage": 5
  },
  {
@@ -7487,14 +7486,12 @@
   "key": "c426d5ec83551a9b65758720b784e555",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster augments their arms into arm biters.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这篇：\n“施法者将他们的手臂扩大成咬人的手臂。”",
-  "context": "ID: mon_szombie_vessel_biters\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_biters\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_biters",
   "stage": 5
  },
  {
   "key": "8baa573485e03d7d117aadd4d12193f1",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster augments their arms into sharp, bone blades.'",
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者将他们的手臂扩张成锋利的骨刃。”",
-  "context": "ID: mon_szombie_vessel_blades\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_blades\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_blades",
   "stage": 5
  },
  {
@@ -8825,7 +8822,6 @@
   "key": "d1aab58388382209841a934dc68bc405",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster's body sprouts several strong and slender tentacles.'",
   "translation": "怪物施法的。如果你看到了这个，那就读这篇：\n“施法者的身体长出了几根又粗又细的触角。”",
-  "context": "ID: mon_szombie_vessel_tents\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_tents\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_tents",
   "stage": 5
  },
  {
@@ -9103,7 +9099,7 @@
   "key": "e27f5e4f08ba56d71705480b447296e5",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Target is converted into its flesh variant.'",
   "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Target is converted into its flesh variant.'",
-  "context": "ID: secro_flesh_infect_feral_human_archaeologist\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_feral_human_archaeologist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_feral_human_archaeologist",
+  "context": "ID: secro_flesh_infect_scorpion_larva\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_scorpion_larva\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_scorpion_larva",
   "stage": 1
  },
  {
@@ -9198,14 +9194,12 @@
   "key": "32a91c5bea8a66f9e4231ddad518290b",
   "original": "Spell casted by an item. If you're seeing this, then read this one instead:\n'Caster's spitter armament performs crimson shower at the target - dealing acid damage and spreading blood acid fields.'",
   "translation": "由物品施法。如果你看到了这个，那就改读这篇：\n“施法者的唾沫武器对目标进行深红冲锋-造成酸伤害并传播血酸场。”",
-  "context": "ID: mon_szombie_vessel_spitter_cs\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_spitter_cs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_spitter_cs",
   "stage": 5
  },
  {
   "key": "7e398d38491fe35822b4e406a3035528",
   "original": "Spell casted by an item. If you're seeing this, then read this one instead:\n'Caster's spitter armament spits acid at the target.'",
   "translation": "由物品施法。如果你看到了这个，那就改读这个：\n“施法者的喷吐武器向目标吐酸。”",
-  "context": "ID: mon_szombie_vessel_spitter\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_spitter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_spitter",
   "stage": 5
  },
  {
@@ -12386,7 +12380,7 @@
   "key": "3403af8117ebb858a392014b80cb3833",
   "original": "a note",
   "translation": "一张便条",
-  "context": "ID: mon_szombie_vessel_spitter_cs_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_szombie_vessel_spitter_cs_note\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_szombie_vessel_spitter_cs_note",
+  "context": "ID: mon_sflesh_camp_turret_hravager_swing_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_camp_turret_hravager_swing_note\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_swing_note",
   "stage": 3
  },
  {
