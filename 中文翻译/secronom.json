@@ -42,101 +42,127 @@
   "stage": 3
  },
  {
+  "key": "9e213d3398aae3a4686567413854158f",
+  "original": "%1$s bashes <npcname>!",
+  "translation": "%1$s bashes <npcname>!",
+  "context": "ID: secro_swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbash",
+  "stage": 1
+ },
+ {
   "key": "c7088fd7dd03ae9fcf657246b03142b8",
   "original": "%1$s bashes you with its sword!",
   "translation": "%1$s bashes you with its sword!",
-  "context": "ID: swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbash",
+  "stage": 1
+ },
+ {
+  "key": "9187beeffcaf1e9f1c2ae8b20148a2d5",
+  "original": "%1$s bashes your %2$s!",
+  "translation": "%1$s bashes your %2$s！",
+  "context": "ID: secro_swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbash",
   "stage": 1
  },
  {
   "key": "49b8cf4c682924e2dd87c083940f7e91",
   "original": "%1$s bashes your leg with its sword!",
   "translation": "%1$s bashes your leg with its sword!",
-  "context": "ID: swordbashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbashtrip",
   "stage": 1
  },
  {
   "key": "2a47ff16b5fc308f44b463be7e89f611",
   "original": "%1$s bites <npcname> into the ground!",
   "translation": "%1$s bites <npcname> into the ground!",
-  "context": "ID: ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_bitedown",
+  "context": "ID: secro_ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_bitedown",
   "stage": 1
  },
  {
   "key": "ba17fc033c77223d7da64c71795934f0",
   "original": "%1$s bites <npcname>!",
   "translation": "%1$s bites <npcname>！",
-  "context": "ID: swarmerzed_bite_stro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_bite_stro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_bite_stro",
+  "context": "ID: secro_swarmerzed_bite_stro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_stro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_bite_stro",
+  "stage": 1
+ },
+ {
+  "key": "fb5040483b2cc988901cf40ef8f63c83",
+  "original": "%1$s bites <npcname>'s %2$s and latches on tightly!",
+  "translation": "%1$s bites <npcname>'s %2$s and latches on tightly！",
+  "context": "ID: secro_insect_parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_insect_parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_insect_parasiteworm_weaken",
   "stage": 1
  },
  {
   "key": "2f4e8da31333e0126b5bc7a6ae996972",
   "original": "%1$s bites <npcname>, stumbling onto them!",
   "translation": "%1$s bites <npcname>, stumbling onto them!",
-  "context": "ID: swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_bite_vstro",
+  "context": "ID: secro_swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_bite_vstro",
   "stage": 1
  },
  {
   "key": "829d8011699c022de0187d06f3ad97d3",
   "original": "%1$s bites as it grasps at you!",
   "translation": "%1$s bites as it grasps at you！",
-  "context": "ID: swarmerzed_bite_stro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_bite_stro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_bite_stro",
+  "context": "ID: secro_swarmerzed_bite_stro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_stro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_bite_stro",
   "stage": 1
  },
  {
   "key": "a4ced154c25a80e7c0308d25603c7bac",
   "original": "%1$s bites as it stumbles onto you!",
   "translation": "%1$s bites as it stumbles onto you!",
-  "context": "ID: swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_bite_vstro",
+  "context": "ID: secro_swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_bite_vstro",
   "stage": 1
  },
  {
   "key": "09a56d49d0911d436e49a18ed1b0ae0b",
   "original": "%1$s bites at your %2$s!",
   "translation": "%1$s bites at your %2$s!",
-  "context": "ID: maneater_floralbite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→maneater_floralbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maneater_floralbite",
+  "context": "ID: secro_maneater_floralbite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_floralbite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_maneater_floralbite",
+  "stage": 1
+ },
+ {
+  "key": "ef2c4ff4f00954c23e11e8fb820fefa0",
+  "original": "%1$s bites your %2$s and latches on tightly!",
+  "translation": "%1$s bites your %2$s and latches on tightly！",
+  "context": "ID: secro_insect_parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_insect_parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_insect_parasiteworm_weaken",
   "stage": 1
  },
  {
   "key": "0674eeae01ae5ce086b4cd3c3ef0ebe9",
   "original": "%1$s charged at <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s charged at <npcname>，but fails to penetrate their armor！",
-  "context": "ID: charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=charger_vanguard_tackle",
+  "context": "ID: secro_charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_charger_vanguard_tackle",
   "stage": 1
  },
  {
   "key": "56bbd5c7574a61224ced12d233a7b4c0",
   "original": "%1$s charged at you!",
   "translation": "%1$s charged at you！",
-  "context": "ID: charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=charger_vanguard_tackle",
+  "context": "ID: secro_charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_charger_vanguard_tackle",
   "stage": 1
  },
  {
   "key": "bc79a34f566189d45f499d9e9bc88650",
   "original": "%1$s charged into you, but fails to penetrate your armor!",
   "translation": "%1$s charged into you，but fails to penetrate your armor！",
-  "context": "ID: charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=charger_vanguard_tackle",
+  "context": "ID: secro_charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_charger_vanguard_tackle",
   "stage": 1
  },
  {
   "key": "77f706e82b748483eb7da7214a09638d",
   "original": "%1$s charges and bites you down into the floor!",
   "translation": "%1$s charges and bites you down into the floor!",
-  "context": "ID: swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_savage_charge_bite",
+  "context": "ID: secro_swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_savage_charge_bite",
   "stage": 1
  },
  {
   "key": "177a203743868a59c6e2c4793021e4ce",
   "original": "%1$s charges at <npcname>!",
   "translation": "%1$s charges at <npcname>！",
-  "context": "ID: swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_savage_charge_bite",
+  "context": "ID: secro_swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_savage_charge_bite",
   "stage": 1
  },
  {
   "key": "160979fc51d2f4086cd4e6ad2814d875",
   "original": "%1$s claws <npcname>!",
   "translation": "%1$s claws <npcname>!",
-  "context": "ID: nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_nsweep",
+  "context": "ID: secro_nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_nsweep",
   "stage": 1
  },
  {
@@ -150,70 +176,97 @@
   "key": "8e82bb87a148944976e8b8ab43486dd0",
   "original": "%1$s grasps <npcname>!",
   "translation": "%1$s grasps <npcname>!",
-  "context": "ID: spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiderbodyhug",
+  "context": "ID: secro_spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_spiderbodyhug",
   "stage": 1
  },
  {
   "key": "59ac93315a8dc00102dccea55412f620",
   "original": "%1$s grasps you widely with its arms!",
   "translation": "%1$s grasps you widely with its arms!",
-  "context": "ID: spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiderbodyhug",
+  "context": "ID: secro_spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_spiderbodyhug",
   "stage": 1
  },
  {
   "key": "1b597a83a54077a7e80d9ad1444d85ab",
   "original": "%1$s grips <npcname>!",
   "translation": "%1$s grips <npcname>!",
-  "context": "ID: tendrilgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilgrip",
+  "context": "ID: secro_tendrilgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilgrip",
   "stage": 1
  },
  {
   "key": "8fad1b2fa9008ff1bede58f579c819b1",
   "original": "%1$s grips <npcname>'s head!",
   "translation": "%1$s grips <npcname>'s head!",
-  "context": "ID: tendrilheadgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilheadgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilheadgrip",
+  "context": "ID: secro_tendrilheadgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilheadgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilheadgrip",
   "stage": 1
  },
  {
   "key": "c682145781c9c69001da2f93f49bf65a",
   "original": "%1$s grips you!",
   "translation": "%1$s grips you!",
-  "context": "ID: tendrilgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilgrip",
+  "context": "ID: secro_tendrilgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilgrip",
   "stage": 1
  },
  {
   "key": "2bc92dda54f484d9be0e74755f1806c7",
   "original": "%1$s grips your head!",
   "translation": "%1$s grips your head!",
-  "context": "ID: tendrilheadgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilheadgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilheadgrip",
+  "context": "ID: secro_tendrilheadgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilheadgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilheadgrip",
   "stage": 1
  },
  {
   "key": "b27f807ae631caffca812e82b63cb5a1",
   "original": "%1$s hits <npcname> with a tendril!",
   "translation": "%1$s hits <npcname> with a tendril!",
-  "context": "ID: tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilswing",
+  "stage": 1
+ },
+ {
+  "key": "7f77b082ef49028029c5bacf46a27351",
+  "original": "%1$s hits <npcname>, but fails to penetrate armor!",
+  "translation": "%1$s hits <npcname>, but fails to penetrate armor!",
+  "context": "ID: secro_tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilswing",
+  "stage": 1
+ },
+ {
+  "key": "3510a5a01fd7ae4a1f7a6d8cc97e4af8",
+  "original": "%1$s hits your %2$s, but fails to penetrate armor!",
+  "translation": "%1$s hits your %2$s, but fails to penetrate armor!",
+  "context": "ID: secro_tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilswing",
   "stage": 1
  },
  {
   "key": "6b37e0fdddaecf8b22c7601307cbda70",
   "original": "%1$s lashes <npcname>!",
   "translation": "%1$s lashes <npcname>!",
-  "context": "ID: sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_vbeast_wlace",
+  "context": "ID: secro_sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_sflesh_vbeast_wlace",
+  "stage": 1
+ },
+ {
+  "key": "3323e2a27076c561e42f63d460151343",
+  "original": "%1$s latches onto <npcname>'s %2$s without penetrating their armor.",
+  "translation": "%1$s latches onto <npcname>'s %2$s without penetrating their armor.",
+  "context": "ID: secro_insect_parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_insect_parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_insect_parasiteworm_weaken",
+  "stage": 1
+ },
+ {
+  "key": "dfd35fe7eef70e60d67e4c2fa12a5f53",
+  "original": "%1$s latches onto your %2$s without penetrating your armor.",
+  "translation": "%1$s latches onto your %2$s without penetrating your armor.",
+  "context": "ID: secro_insect_parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_insect_parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_insect_parasiteworm_weaken",
   "stage": 1
  },
  {
   "key": "4ac116a1c25fe51aedf26c26fbd08cff",
   "original": "%1$s pierces <npcname>!",
   "translation": "%1$s pierces <npcname>!",
-  "context": "ID: xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xlicker_pstab",
+  "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 1
  },
  {
   "key": "f6bf236265461c181f0728fe1e26888b",
   "original": "%1$s pierces at your %2$s with its tongue!",
   "translation": "%1$s pierces at your %2$s with its tongue!",
-  "context": "ID: xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xlicker_pstab",
+  "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 1
  },
  {
@@ -224,24 +277,30 @@
   "stage": 1
  },
  {
+  "key": "d93d833e07c4614595ae52cc354d21a5",
+  "original": "%1$s pierces your %2$s!",
+  "translation": "%1$s pierces your %2$s!",
+  "context": "ID: secro_tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilstab",
+  "stage": 1
+ },
+ {
   "key": "a2015d3eae804f512a2ba3fd347c4604",
   "original": "%1$s pummels <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s pummels <npcname>, but fails to penetrate their armor!",
-  "context": "ID: gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_hswing",
+  "context": "ID: secro_gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_hswing",
   "stage": 1
  },
  {
   "key": "decadb28f310906263d40e5b4e3777d8",
   "original": "%1$s pummels your %2$s, but fails to penetrate your armor!",
   "translation": "%1$s pummels your %2$s, but fails to penetrate your armor!",
-  "context": "ID: gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_hswing",
+  "context": "ID: secro_gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_hswing",
   "stage": 1
  },
  {
   "key": "73aacf47a87236f80f2f088094a89bdb",
   "original": "%1$s quickly swings a tendril!",
   "translation": "%1$s quickly swings a tendril!",
-  "context": "ID: tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilswing",
   "stage": 1
  },
  {
@@ -262,14 +321,13 @@
   "key": "887c03eb2c752dc64701463200c6f5f1",
   "original": "%1$s shadowstrikes <npcname>!",
   "translation": "%1$s shadowstrikes <npcname>!",
-  "context": "ID: nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_sstrike",
+  "context": "ID: secro_nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_sstrike",
   "stage": 1
  },
  {
   "key": "f97b2249324def696b6b1a35b62429d3",
   "original": "%1$s slammed you with its tendril!",
   "translation": "%1$s slammed you with its tendril!",
-  "context": "ID: tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilslam",
   "stage": 1
  },
  {
@@ -280,10 +338,17 @@
   "stage": 1
  },
  {
+  "key": "4b878eb76157a2818c7bcecf560fb208",
+  "original": "%1$s slams <npcname>!",
+  "translation": "%1$s slams <npcname>!",
+  "context": "ID: secro_tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilslam",
+  "stage": 1
+ },
+ {
   "key": "d4f27a13d43b06a00cac7243fd116729",
   "original": "%1$s slams at <npcname>!",
   "translation": "%1$s slams at <npcname>!",
-  "context": "ID: gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_slam",
+  "context": "ID: secro_gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_slam",
   "stage": 1
  },
  {
@@ -308,52 +373,64 @@
   "stage": 1
  },
  {
+  "key": "d6f9c6ff615f921fa62fe0457743a155",
+  "original": "%1$s slams at your %2$s!",
+  "translation": "%1$s slams at your %2$s!",
+  "context": "ID: secro_tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilslam",
+  "stage": 1
+ },
+ {
   "key": "00a8a2d01670e79bbafd168b710d0d40",
   "original": "%1$s slams into your %2$s!",
   "translation": "%1$s slams into your %2$s!",
-  "context": "ID: gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_slam",
+  "context": "ID: secro_gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_slam",
   "stage": 1
  },
  {
   "key": "a2578de8eece5d783476db974ace6d3f",
   "original": "%1$s slams into your %2$s, but fails to penetrate your armor!",
   "translation": "%1$s slams into your %2$s, but fails to penetrate your armor!",
-  "context": "ID: gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_slam",
+  "context": "ID: secro_gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_slam",
   "stage": 1
  },
  {
   "key": "6c6e1d6621accc01a82fc8aab88b22ff",
   "original": "%1$s slams you to the floor with its mouth!",
   "translation": "%1$s slams you to the floor with its mouth!",
-  "context": "ID: ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_bitedown",
+  "context": "ID: secro_ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_bitedown",
   "stage": 1
  },
  {
   "key": "d8588a1c4df4661a572d966268df54db",
   "original": "%1$s slams you with its tendril core!",
   "translation": "%1$s slams you with its tendril core!",
-  "context": "ID: flesh_vrumbler_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→flesh_vrumbler_thrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flesh_vrumbler_thrash",
+  "context": "ID: secro_flesh_vrumbler_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_flesh_vrumbler_thrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_vrumbler_thrash",
+  "stage": 1
+ },
+ {
+  "key": "26cf636145462557ca1b2ec8cce7eecd",
+  "original": "%1$s slashed a sword at your %2$s, but fails to penetrate your armor!",
+  "translation": "%1$s slashed a sword at your %2$s, but fails to penetrate your armor!",
+  "context": "ID: secro_ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_swing",
   "stage": 1
  },
  {
   "key": "873ae7f3e988d2107c1348885ebec7b8",
   "original": "%1$s slashed a sword on you, but fails to penetrate your armor!",
   "translation": "%1$s slashed a sword on you, but fails to penetrate your armor!",
-  "context": "ID: ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_swing",
   "stage": 1
  },
  {
   "key": "8c2c141082b1813967ce5e8ff73c0b59",
   "original": "%1$s slashed its sword on <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s slashed its sword on <npcname>, but fails to penetrate their armor!",
-  "context": "ID: ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_swing",
+  "context": "ID: secro_ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_swing",
   "stage": 1
  },
  {
   "key": "65c4b7f854e8842547aea9797d2f0afc",
   "original": "%1$s slashed you with its sword!",
   "translation": "%1$s slashed you with its sword！",
-  "context": "ID: swordslashsrt\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashsrt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashsrt",
   "stage": 1
  },
  {
@@ -378,17 +455,22 @@
   "stage": 1
  },
  {
+  "key": "7f095f07eab6aa66bc6d12d19ebaa6b3",
+  "original": "%1$s slashes your %2$s!",
+  "translation": "%1$s slashes your %2$s！",
+  "context": "ID: secro_swordslash_serrated\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordslash_serrated\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordslash_serrated",
+  "stage": 1
+ },
+ {
   "key": "b36fcb0dd7e6724cbad1652547810efa",
   "original": "%1$s slashes your leg with its sword!",
   "translation": "%1$s slashes your leg with its sword!",
-  "context": "ID: swordslashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashtrip",
   "stage": 1
  },
  {
   "key": "669638513550acd1275322a800f1ca87",
   "original": "%1$s stabbed you with its tendril!",
   "translation": "%1$s stabbed you with its tendril!",
-  "context": "ID: tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilstab",
   "stage": 1
  },
  {
@@ -423,14 +505,14 @@
   "key": "ba90635ce79183435d8347e971dbb27d",
   "original": "%1$s swings a sword on <npcname>!",
   "translation": "%1$s swings a sword on <npcname>!",
-  "context": "ID: ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_swing",
+  "context": "ID: secro_ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_swing",
   "stage": 1
  },
  {
   "key": "e8f4440efe93ebfe6b3b855312a244a8",
   "original": "%1$s swings a tendril at your %2$s!",
   "translation": "%1$s swings a tendril at your %2$s!",
-  "context": "ID: sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_vbeast_wlace",
+  "context": "ID: secro_sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_sflesh_vbeast_wlace",
   "stage": 1
  },
  {
@@ -448,66 +530,81 @@
   "stage": 1
  },
  {
+  "key": "6307fa8e81c8150c7fb4218c9023dc49",
+  "original": "%1$s swings at <npcname>!",
+  "translation": "%1$s swings at <npcname>!",
+  "context": "ID: secro_tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilswing",
+  "stage": 1
+ },
+ {
+  "key": "3b96d6066e633b5b81ecf3187f9114c6",
+  "original": "%1$s swings at your %2$s!",
+  "translation": "%1$s swings at your %2$s!",
+  "context": "ID: secro_tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilswing",
+  "stage": 1
+ },
+ {
+  "key": "e2cbc4de98f9ff2435ebe03dbb8671a5",
+  "original": "%1$s swings its wide sword at your %2$s!",
+  "translation": "%1$s swings its wide sword at your %2$s!",
+  "context": "ID: secro_ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_swing",
+  "stage": 1
+ },
+ {
   "key": "9e0a4d67d6dc9e13f5c07462bd0f7e6a",
   "original": "%1$s swings its wide sword on you!",
   "translation": "%1$s swings its wide sword on you!",
-  "context": "ID: ayenel_swing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_swing",
   "stage": 1
  },
  {
   "key": "9ea7eb0fd03746691a7ce0ba4fbf8a15",
   "original": "%1$s swings onto <npcname>!",
   "translation": "%1$s swings onto <npcname>!",
-  "context": "ID: gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_hswing",
+  "context": "ID: secro_gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_hswing",
   "stage": 1
  },
  {
   "key": "73579ce8d9ee1179b5dd30544f39504a",
   "original": "%1$s swings onto your %2$s!",
   "translation": "%1$s swings onto your %2$s!",
-  "context": "ID: gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_hswing",
+  "context": "ID: secro_gorepit_tent_hswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_hswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_hswing",
   "stage": 1
  },
  {
   "key": "8410176cd5a5ce04c22d1284257554cb",
   "original": "%1$s swordbashed <npcname>!",
   "translation": "%1$s swordbashed <npcname>!",
-  "context": "ID: swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbash",
   "stage": 1
  },
  {
   "key": "1714edfbf5fb7d7d1e0b260a3b703910",
   "original": "%1$s swordbashed <npcname>'s leg!",
   "translation": "%1$s swordbashed <npcname>'s leg!",
-  "context": "ID: swordbashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbashtrip",
+  "context": "ID: secro_swordbashlow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbashlow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbashlow",
   "stage": 1
  },
  {
   "key": "9e3f0dc35bdcd230366c853481b4f8e1",
   "original": "%1$s swordslashed <npcname>!",
   "translation": "%1$s swordslashed <npcname>！",
-  "context": "ID: swordslashsrt\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashsrt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashsrt",
   "stage": 1
  },
  {
   "key": "0bc5f34e879bd3571a008556cc16f3eb",
   "original": "%1$s swordslashed <npcname>'s leg!",
   "translation": "%1$s swordslashed <npcname>'s leg!",
-  "context": "ID: swordslashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashtrip",
   "stage": 1
  },
  {
   "key": "85753619e0e3026e83df7c1ee6d03aaa",
   "original": "%1$s tendril slammed <npcname>!",
   "translation": "%1$s tendril slammed <npcname>!",
-  "context": "ID: tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilslam",
   "stage": 1
  },
  {
   "key": "d75d61cb60498cc76017b56e56028187",
   "original": "%1$s tendril stabbed <npcname>!",
   "translation": "%1$s tendril stabbed <npcname>!",
-  "context": "ID: tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilstab",
   "stage": 1
  },
  {
@@ -528,56 +625,91 @@
   "key": "c31395aae119c86cb1ccf410170690b0",
   "original": "%1$s thrusts at <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s thrusts at <npcname>, but fails to penetrate their armor!",
-  "context": "ID: gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_stab",
+  "context": "ID: secro_gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_stab",
   "stage": 1
  },
  {
   "key": "fd33a06d74fe4b683ba9985c3e8b789c",
   "original": "%1$s thrusts at your %2$s, but fails to penetrate your armor!",
   "translation": "%1$s thrusts at your %2$s, but fails to penetrate your armor!",
-  "context": "ID: gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_stab",
+  "context": "ID: secro_gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_stab",
   "stage": 1
  },
  {
   "key": "0cec5ff3c5573d707aac3c18a34b956b",
   "original": "%1$s thrusts into <npcname>!",
   "translation": "%1$s thrusts into <npcname>!",
-  "context": "ID: gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_stab",
+  "context": "ID: secro_gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_stab",
   "stage": 1
  },
  {
   "key": "0070e7de9bda39c948ae43375150c636",
   "original": "%1$s thrusts into your %2$s!",
   "translation": "%1$s thrusts into your %2$s!",
-  "context": "ID: gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gorepit_tent_stab",
+  "context": "ID: secro_gorepit_tent_stab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_stab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_tent_stab",
+  "stage": 1
+ },
+ {
+  "key": "dd86bd8a9eb17969727454cdb39d2eab",
+  "original": "%1$s tries to bash <npcname>'s leg, but fails to penetrate their armor!",
+  "translation": "%1$s tries to bash <npcname>'s leg, but fails to penetrate their armor!",
+  "context": "ID: secro_swordbashlow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbashlow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbashlow",
+  "stage": 1
+ },
+ {
+  "key": "75f2cd47783be7175ea4a4703b78569f",
+  "original": "%1$s tries to bash <npcname>, but fails to penetrate their armor!",
+  "translation": "%1$s tries to bash <npcname>, but fails to penetrate their armor!",
+  "context": "ID: secro_swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbash",
+  "stage": 1
+ },
+ {
+  "key": "252670a72d8412e1b9f931b37900a196",
+  "original": "%1$s tries to bash your %2$s, but fails to penetrate your armor!",
+  "translation": "%1$s tries to bash your %2$s，but fails to penetrate your armor！",
+  "context": "ID: secro_swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbash",
   "stage": 1
  },
  {
   "key": "12fbdbc35f4a6d2f758d59e8a162fcf6",
   "original": "%1$s tries to bite <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to bite <npcname>，but fails to penetrate their armor！",
-  "context": "ID: swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_savage_charge_bite",
+  "context": "ID: secro_swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_savage_charge_bite",
+  "stage": 1
+ },
+ {
+  "key": "d6fa7b98677761ec1eb9eeffe72e7741",
+  "original": "%1$s tries to bite <npcname>, but they dodge!",
+  "translation": "%1$s tries to bite <npcname>，but they dodge！",
+  "context": "ID: secro_insect_parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_insect_parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_insect_parasiteworm_weaken",
   "stage": 1
  },
  {
   "key": "6080a342830b9190e861082c9e51f2fe",
   "original": "%1$s tries to bite down <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to bite down <npcname>, but fails to penetrate their armor!",
-  "context": "ID: ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_bitedown",
+  "context": "ID: secro_ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_bitedown",
   "stage": 1
  },
  {
   "key": "7a9f3de4c6c3add27eefd9528308d982",
   "original": "%1$s tries to bite you down, but fails to penetrate your armor!",
   "translation": "%1$s tries to bite you down, but fails to penetrate your armor!",
-  "context": "ID: ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ayenel_bitedown",
+  "context": "ID: secro_ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_bitedown\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_ayenel_bitedown",
   "stage": 1
  },
  {
   "key": "d6566c08dfe28f1a0a9a3c6f4e2b4a6c",
   "original": "%1$s tries to bite you, but fails to penetrate your armor!",
   "translation": "%1$s tries to bite you，but fails to penetrate your armor！",
-  "context": "ID: swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_savage_charge_bite",
+  "context": "ID: secro_swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_savage_charge_bite",
+  "stage": 1
+ },
+ {
+  "key": "f884b5ada87e7fef53120516f132dcc0",
+  "original": "%1$s tries to bite you, but you dodge!",
+  "translation": "%1$s tries to bite you，but you dodge！",
+  "context": "ID: secro_insect_parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_insect_parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_insect_parasiteworm_weaken",
   "stage": 1
  },
  {
@@ -595,73 +727,79 @@
   "stage": 1
  },
  {
+  "key": "fccc65d32559b88b2d54d75e60833fdd",
+  "original": "%1$s tries to grasp <npcname>, but fails to take effect!",
+  "translation": "%1$s tries to grasp <npcname>, but fails to take effect!",
+  "context": "ID: secro_spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_spiderbodyhug",
+  "stage": 1
+ },
+ {
+  "key": "6aeb9ea8442af41a12796606ed415e6d",
+  "original": "%1$s tries to grasp you, but fails to take effect!",
+  "translation": "%1$s tries to grasp you, but fails to take effect!",
+  "context": "ID: secro_spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_spiderbodyhug",
+  "stage": 1
+ },
+ {
   "key": "4e761a613337ae418773a085182b4acb",
   "original": "%1$s tries to grip <npcname>'s head, but fails to take effect!",
   "translation": "%1$s tries to grip <npcname>'s head, but fails to take effect!",
-  "context": "ID: tendrilheadgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilheadgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilheadgrip",
   "stage": 1
  },
  {
   "key": "8a2a29265d2013b06aaa4efb3b377798",
   "original": "%1$s tries to grip <npcname>, but fails to take effect!",
   "translation": "%1$s tries to grip <npcname>, but fails to take effect!",
-  "context": "ID: tendrilgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilgrip",
   "stage": 1
  },
  {
   "key": "420a196d652f9a543988bd11d40bb6c2",
   "original": "%1$s tries to grip you, but fails to take effect!",
   "translation": "%1$s tries to grip you, but fails to take effect!",
-  "context": "ID: tendrilgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilgrip",
   "stage": 1
  },
  {
   "key": "3e52af108754f551a9aa1acd316bc545",
   "original": "%1$s tries to grip your head, but fails to take effect!",
   "translation": "%1$s tries to grip your head, but fails to take effect!",
-  "context": "ID: tendrilheadgrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilheadgrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilheadgrip",
   "stage": 1
  },
  {
   "key": "7be4ae7b2a519ce5033b10b13fb0e086",
   "original": "%1$s tries to hug <npcname>, but fails to take effect!",
   "translation": "%1$s tries to hug <npcname>, but fails to take effect!",
-  "context": "ID: spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiderbodyhug",
   "stage": 1
  },
  {
   "key": "77ebd9e10f1c2616e0b131022309559d",
   "original": "%1$s tries to hug you, but fails to take effect!",
   "translation": "%1$s tries to hug you, but fails to take effect!",
-  "context": "ID: spiderbodyhug\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→spiderbodyhug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiderbodyhug",
   "stage": 1
  },
  {
   "key": "57c40801e1268f4b9a2338acdaa3c557",
   "original": "%1$s tries to hurt <npcname> with tendril, but fails to penetrate armor!",
   "translation": "%1$s tries to hurt <npcname> with tendril, but fails to penetrate armor!",
-  "context": "ID: tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilswing",
   "stage": 1
  },
  {
   "key": "02e4a4a268fe5cd726aba1d82f8e0345",
   "original": "%1$s tries to hurt you with tendril, but fails to penetrate armor!",
   "translation": "%1$s tries to hurt you with tendril, but fails to penetrate armor!",
-  "context": "ID: tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilswing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilswing",
   "stage": 1
  },
  {
   "key": "8cf2a2102962b99d4b96889f3e7badef",
   "original": "%1$s tries to lash <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to lash <npcname>, but fails to penetrate their armor!",
-  "context": "ID: sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_vbeast_wlace",
+  "context": "ID: secro_sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_sflesh_vbeast_wlace",
   "stage": 1
  },
  {
   "key": "772bfad9f802c29bb97ed771be57acbb",
   "original": "%1$s tries to lash at you, but fails to penetrate your armor!",
   "translation": "%1$s tries to lash at you, but fails to penetrate your armor!",
-  "context": "ID: sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_vbeast_wlace",
+  "context": "ID: secro_sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_sflesh_vbeast_wlace\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_sflesh_vbeast_wlace",
   "stage": 1
  },
  {
@@ -682,42 +820,42 @@
   "key": "62785fc695c8cc5adb4dbd804e021fea",
   "original": "%1$s tries to scratch <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to scratch <npcname>，but fails to penetrate their armor！",
-  "context": "ID: nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_sstrike",
+  "context": "ID: secro_nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_sstrike",
   "stage": 1
  },
  {
   "key": "756f5cf5643009db4817c904a8aa54a9",
   "original": "%1$s tries to scratch you, but fails to penetrate your armor!",
   "translation": "%1$s tries to scratch you，but fails to penetrate your armor！",
-  "context": "ID: nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_sstrike",
+  "context": "ID: secro_nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_sstrike",
   "stage": 1
  },
  {
   "key": "df739619bb605eaa648cd4293259cc4e",
   "original": "%1$s tries to slam <npcname>, but fails to penetrate armor!",
   "translation": "%1$s tries to slam <npcname>, but fails to penetrate armor!",
-  "context": "ID: tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilslam",
+  "context": "ID: secro_tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilslam",
   "stage": 1
  },
  {
   "key": "cc8e27a603a0d921a88892c7ca0cabd2",
   "original": "%1$s tries to slam <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to slam <npcname>, but fails to penetrate their armor!",
-  "context": "ID: flesh_vrumbler_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→flesh_vrumbler_thrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flesh_vrumbler_thrash",
+  "context": "ID: secro_flesh_vrumbler_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_flesh_vrumbler_thrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_vrumbler_thrash",
   "stage": 1
  },
  {
   "key": "e933ce02545751c91ffd54ba1504940d",
   "original": "%1$s tries to slam you, but fails to penetrate armor!",
   "translation": "%1$s tries to slam you, but fails to penetrate armor!",
-  "context": "ID: tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilslam",
+  "context": "ID: secro_tendrilslam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilslam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilslam",
   "stage": 1
  },
  {
   "key": "0ee0ed09e6d272bf1f61154fb2e6c4f0",
   "original": "%1$s tries to slam you, but fails to penetrate your armor!",
   "translation": "%1$s tries to slam you, but fails to penetrate your armor!",
-  "context": "ID: flesh_vrumbler_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→flesh_vrumbler_thrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=flesh_vrumbler_thrash",
+  "context": "ID: secro_flesh_vrumbler_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_flesh_vrumbler_thrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_vrumbler_thrash",
   "stage": 1
  },
  {
@@ -735,87 +873,92 @@
   "stage": 1
  },
  {
+  "key": "fd41d55b5d073ca5679717aaf2af6216",
+  "original": "%1$s tries to slash your %2$s, but fails to penetrate your armor!",
+  "translation": "%1$s tries to slash your %2$s，but fails to penetrate your armor！",
+  "context": "ID: secro_swordslash_serrated\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordslash_serrated\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordslash_serrated",
+  "stage": 1
+ },
+ {
   "key": "33e8ccb09417a7e0b1e7c06d2c7b5af2",
   "original": "%1$s tries to stab <npcname>, but fails to penetrate armor!",
   "translation": "%1$s tries to stab <npcname>, but fails to penetrate armor!",
-  "context": "ID: tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilstab",
+  "context": "ID: secro_tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilstab",
   "stage": 1
  },
  {
   "key": "69ec0a34848466ef2f9dd87854ede1f6",
   "original": "%1$s tries to stab <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to stab <npcname>, but fails to penetrate their armor!",
-  "context": "ID: xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xlicker_pstab",
+  "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 1
  },
  {
   "key": "234dce18056ddff92b4ada412294a025",
   "original": "%1$s tries to stab you afar, but fails to penetrate your armor!",
   "translation": "%1$s tries to stab you afar, but fails to penetrate your armor!",
-  "context": "ID: xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xlicker_pstab",
+  "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 1
  },
  {
   "key": "ae98527a5d71116e4e4f56149f4dca6d",
   "original": "%1$s tries to stab you, but fails to penetrate armor!",
   "translation": "%1$s tries to stab you, but fails to penetrate armor!",
-  "context": "ID: tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tendrilstab",
+  "stage": 1
+ },
+ {
+  "key": "b2cfdc89c56637e8a67c03426bccf824",
+  "original": "%1$s tries to stab your %2$s, but fails to penetrate armor!",
+  "translation": "%1$s tries to stab your %2$s, but fails to penetrate armor!",
+  "context": "ID: secro_tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilstab",
   "stage": 1
  },
  {
   "key": "9556f3fd6ca09b78eb96ca05d0358bbc",
   "original": "%1$s tries to swordbash <npcname>'s leg, but fails to penetrate their armor!",
   "translation": "%1$s tries to swordbash <npcname>'s leg, but fails to penetrate their armor!",
-  "context": "ID: swordbashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbashtrip",
   "stage": 1
  },
  {
   "key": "817dca3d59c0b2ea6480898632a2f700",
   "original": "%1$s tries to swordbash <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to swordbash <npcname>, but fails to penetrate their armor!",
-  "context": "ID: swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbash",
   "stage": 1
  },
  {
   "key": "caa8942d1b0af00ea646b093b584c64d",
   "original": "%1$s tries to swordbash you, but fails to penetrate your armor!",
   "translation": "%1$s tries to swordbash you, but fails to penetrate your armor!",
-  "context": "ID: swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbash",
   "stage": 1
  },
  {
   "key": "6697145dcacbc50bd660da331d3eca56",
   "original": "%1$s tries to swordbash your leg, but fails to penetrate your armor!",
   "translation": "%1$s tries to swordbash your leg, but fails to penetrate your armor!",
-  "context": "ID: swordbashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordbashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordbashtrip",
   "stage": 1
  },
  {
   "key": "2d306f0d3d1882e6fa3357b87404db10",
   "original": "%1$s tries to swordslash <npcname>'s leg, but fails to penetrate their armor!",
   "translation": "%1$s tries to swordslash <npcname>'s leg, but fails to penetrate their armor!",
-  "context": "ID: swordslashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashtrip",
   "stage": 1
  },
  {
   "key": "99396b6271adbb5ca534792a2e7190c3",
   "original": "%1$s tries to swordslash <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to swordslash <npcname>，but fails to penetrate their armor！",
-  "context": "ID: swordslashsrt\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashsrt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashsrt",
   "stage": 1
  },
  {
   "key": "2e286022a349faf10ab7c9b161fb3c48",
   "original": "%1$s tries to swordslash you, but fails to penetrate your armor!",
   "translation": "%1$s tries to swordslash you，but fails to penetrate your armor！",
-  "context": "ID: swordslashsrt\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashsrt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashsrt",
   "stage": 1
  },
  {
   "key": "2b4e2d53869f9325ec3c8e4e99a2af73",
   "original": "%1$s tries to swordslash your leg, but fails to penetrate your armor!",
   "translation": "%1$s tries to swordslash your leg, but fails to penetrate your armor!",
-  "context": "ID: swordslashtrip\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swordslashtrip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swordslashtrip",
   "stage": 1
  },
  {
@@ -836,7 +979,7 @@
   "key": "8b8ef002c43f6b2f968d46ed0218ebe7",
   "original": "%1$s's claw reaches at your %2$s!",
   "translation": "%1$s's claw reaches at your %2$s!",
-  "context": "ID: nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_nsweep",
+  "context": "ID: secro_nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_nsweep",
   "stage": 1
  },
  {
@@ -1442,21 +1585,18 @@
   "key": "dff544e346eaf25695f25262c2addded",
   "original": "<color_light_red>The flesh heap (blade) projects several bone spikes!</color>",
   "translation": "<color_light_red>刀锋肉堆射出了几根骨刺！</color>",
-  "context": "ID: mon_sflesh_camp_turret_blade_swirl_target_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_blade_swirl_target_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_blade_swirl_target_YES",
   "stage": 3
  },
  {
   "key": "1dfb881685095b61e4f89429ce9b9921",
   "original": "<color_light_red>The flesh heap (tendril) slams a tentacle at its target!</color>",
   "translation": "<color_light_red>触手肉堆用一根触手猛击它的目标！</color>",
-  "context": "ID: mon_sflesh_camp_turret_tendril_slam_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_tendril_slam_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_tendril_slam_YES",
   "stage": 3
  },
  {
   "key": "940c367fe1e1d01c5814df0700a726bc",
   "original": "<color_light_red>The ravager flesh heap swings its bladed tentacle!</color>",
   "translation": "<color_light_red>掠夺者肉堆挥动它带刃的触手！</color>",
-  "context": "ID: mon_sflesh_camp_turret_hravager_swing_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_hravager_swing_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_swing_YES",
   "stage": 3
  },
  {
@@ -1529,7 +1669,6 @@
   "key": "712e77a59f38d20c2009e5ea4506c5db",
   "original": "<color_magenta>The ravager flesh heap slashes!</color>",
   "translation": "<color_magenta>掠夺者肉堆斩击了！</color>",
-  "context": "ID: mon_sflesh_camp_turret_hravager_slam_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_hravager_slam_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_slam_YES",
   "stage": 3
  },
  {
@@ -1564,28 +1703,24 @@
   "key": "faa333904b68d0392e16d0c2fffcff34",
   "original": "<color_pink>The flesh heap (mouthswell) crunches at its target!</color>",
   "translation": "<color_pink>肿口肉堆啃咬着它的目标！</color>",
-  "context": "ID: mon_sflesh_camp_turret_mouth_crunch_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_mouth_crunch_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_mouth_crunch_YES",
   "stage": 3
  },
  {
   "key": "7d1a306884c2cfdfecd2ce29da67fa41",
   "original": "<color_pink>The flesh heap (tendril) thrusts a tentacle vein!</color>",
   "translation": "<color_pink>触手肉堆刺出了一个触手脉！</color>",
-  "context": "ID: mon_sflesh_camp_turret_tendril_thrust_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_tendril_thrust_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_tendril_thrust_YES",
   "stage": 3
  },
  {
   "key": "1d0df7a86bab8b7f039cce9e48205b3c",
   "original": "<color_pink>The flesh heap (unifier) forms blood creatures!</color>",
   "translation": "<color_pink>整合体肉堆形成了血肉生物！</color>",
-  "context": "ID: mon_sflesh_camp_turret_unify_form_target_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_unify_form_target_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_unify_form_target_YES",
   "stage": 3
  },
  {
   "key": "cda25c306c99a9a6885d7252226c2e80",
   "original": "<color_pink>The ravager flesh heap rakes at its target!</color>",
   "translation": "<color_pink>掠夺者肉堆抓向它的目标！</color>",
-  "context": "ID: mon_sflesh_camp_turret_hravager_thrust_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_hravager_thrust_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_thrust_YES",
   "stage": 3
  },
  {
@@ -2067,14 +2202,12 @@
   "key": "2aa2fe35c68d119b2a3ab9f397f8ff55",
   "original": "<color_yellow>The flesh heap (blade) slashes wildly!</color>",
   "translation": "<color_yellow>刀锋肉堆疯狂地砍着！</color>",
-  "context": "ID: mon_sflesh_camp_turret_blade_slice_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_blade_slice_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_blade_slice_YES",
   "stage": 3
  },
  {
   "key": "abafc71a8bda9cd7571b6db7b3086be9",
   "original": "<color_yellow>The flesh heap (tendril) sweeps its tentacle veins!</color>",
   "translation": "<color_yellow>触手肉堆甩动它的触手脉！</color>",
-  "context": "ID: mon_sflesh_camp_turret_tendril_swing_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_tendril_swing_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_tendril_swing_YES",
   "stage": 3
  },
  {
@@ -3657,7 +3790,7 @@
   "key": "3050a929b2c584d3ca36e6d76062d8e5",
   "original": "A shadow emerges from %1$s and scratches you!",
   "translation": "%1$s出现了一个阴影，划伤了你！",
-  "context": "ID: nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_sstrike",
+  "context": "ID: secro_nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_sstrike",
   "stage": 0
  },
  {
@@ -3690,7 +3823,6 @@
   "key": "b8d14640b8a2f4a85518f31eea02d348",
   "original": "A silhouette were formed before the shapeshifter!",
   "translation": "变形者前形成了一团阴影！",
-  "context": "ID: mon_shifter_target_atk_onslaught_illu_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_shifter_target_atk_onslaught_illu_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_target_atk_onslaught_illu_YES",
   "stage": 3
  },
  {
@@ -3925,14 +4057,19 @@
   "key": "4d714604a66dda526792d36263f4f97c",
   "original": "A tendril zombie with its tentacle pairs thickened from prolonged mutations.",
   "translation": "一种触手僵尸，它的触手因长期突变而变厚。",
-  "context": "ID: mon_zombie_thicktendrils\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_thicktendrils\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_thicktendrils",
   "stage": 3
+ },
+ {
+  "key": "21c80647a7e85b2e7c339cd8d3aec366",
+  "original": "A tendril zombie with larger and thicker set of tentacle limbs.",
+  "translation": "A tendril zombie with larger and thicker set of tentacle limbs.",
+  "context": "ID: mon_zombie_thicktendrils\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_thicktendrils\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_thicktendrils",
+  "stage": 1
  },
  {
   "key": "da55a825edd639bc93e277273602dae3",
   "original": "A tentacle bursts out of the ground!",
   "translation": "A tentacle bursts out of the ground!",
-  "context": "ID: eoc_secro_mon_zombie_tentawraith_summon_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_tentawraith_summon_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_zombie_tentawraith_summon_check",
   "stage": 1
  },
  {
@@ -4361,7 +4498,7 @@
   "key": "2c621068bd002dbf6eb7bc03547f1da9",
   "original": "An ally or foe locks its line of sight onto you!",
   "translation": "一个盟友或敌人把视线锁定在你身上！",
-  "context": "ID: secro_magic_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_magic_target\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_magic_target",
+  "context": "ID: secro_magic_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects_self.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_magic_target\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_magic_target",
   "stage": 5
  },
  {
@@ -5050,7 +5187,7 @@
   "key": "8bfcde5ea78c6dc5e516f0ddd80c53bd",
   "original": "Crippled",
   "translation": "残废的",
-  "context": "ID: secro_zombie_spider_cripple\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_zombie_spider_cripple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_zombie_spider_cripple",
+  "context": "ID: secro_cordev_cripple\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_cordev_cripple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_cordev_cripple",
   "stage": 3
  },
  {
@@ -5262,8 +5399,14 @@
   "key": "6f7ac500086a6e9e8b19a6411fd9cf05",
   "original": "Dreadful outgrowths of savage tentacles accompanies this corpse's crimson body, thrashing anything in its path as it moves aimlessly. Within a closer look, one of its arm pulsates that burdens the body, dragging the heavily mutated portion into the ground.",
   "translation": "这具尸体深红色的身体伴随着可怕的野蛮触角，当它漫无目的地移动时，它会猛击任何在其路径上的东西。近距离观察，它的一只手臂跳动着，给身体带来负担，把变异严重的部分拖到地上。",
-  "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
   "stage": 3
+ },
+ {
+  "key": "725fa1e562e0ef145951bb817178f2d4",
+  "original": "Dreadful outgrowths of savage tentacles accompanies this corpse's crimson body, thrashing anything in its path. Within a closer look, one of its arm pulsates that burdens the body, dragging the heavily mutated portion into the ground.",
+  "translation": "Dreadful outgrowths of savage tentacles accompanies this corpse's crimson body, thrashing anything in its path. Within a closer look, one of its arm pulsates that burdens the body, dragging the heavily mutated portion into the ground.",
+  "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
+  "stage": 1
  },
  {
   "key": "fb188b7848ebb956c0a3fad7d333626e",
@@ -5581,7 +5724,6 @@
   "key": "7ec1f7f627274706f2fbfb41d35075fa",
   "original": "Flesh Mending",
   "translation": "血肉修补",
-  "context": "ID: secro_power_armor_fleshmend_ing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_fleshmend_ing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_fleshmend_ing",
   "stage": 3
  },
  {
@@ -6241,7 +6383,6 @@
   "key": "6a355c3b774d01a86f37f5555e043083",
   "original": "Metabolic Distribution",
   "translation": "代谢分布",
-  "context": "ID: secro_power_armor_feed_metabolic_act_cost\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_feed_metabolic_act_cost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_feed_metabolic_act_cost",
   "stage": 3
  },
  {
@@ -6382,7 +6523,6 @@
   "key": "e9d8728bbb44195002172ae5787b4c63",
   "original": "Note spell casted by a monster. If you're seeing this, then read this one instead:\n'Provides a notice about the casted spell's result.'",
   "translation": "注意怪物施法。如果你看到了这个，那就改读这个：\n提供了一个关于施法结果的通知",
-  "context": "ID: mon_sflesh_camp_turret_hravager_swing_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_camp_turret_hravager_swing_note\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_swing_note",
   "stage": 5
  },
  {
@@ -6520,6 +6660,13 @@
   "original": "Parasitic Influence",
   "translation": "寄生影响",
   "stage": 5
+ },
+ {
+  "key": "703637c18b8b5cd7912765e6b92b6196",
+  "original": "Parasitic Swarm Limit",
+  "translation": "Parasitic Swarm Limit",
+  "context": "ID: mon_insect_parasiteworm_limit_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_insect_parasiteworm_limit_initial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_parasiteworm_limit_initial",
+  "stage": 1
  },
  {
   "key": "9a51cfac2e2610cdd86c09f1327ae903",
@@ -7233,7 +7380,7 @@
   "key": "48026207a7610ea01590d3f307c6021f",
   "original": "Slithering parasite worms of unknown origin, still coated in fresh zombie blood.",
   "translation": "来源不明的蠕动寄生蠕虫，仍覆盖着新鲜的丧尸血液。不管这些东西是什么，你可能需要马上处理掉。",
-  "context": "ID: mon_insect_parasiteworm_stomach\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/ZombieParasiteWorms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_insect_parasiteworm_stomach\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_parasiteworm_stomach",
+  "context": "ID: mon_insect_parasiteworm\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/ZombieParasiteWorms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_insect_parasiteworm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_parasiteworm",
   "stage": 3
  },
  {
@@ -7474,6 +7621,13 @@
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster accurately converts the flesh underneath the target into a biohazard.'",
   "translation": "怪物施法的。如果你看到了这一点，那么请阅读这一条：\n“施法者准确地将目标下方的肉体转化为生物危害。”",
   "stage": 5
+ },
+ {
+  "key": "055db5a0b5a945cc09b462f8cb627db5",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster applies the effect on its own upon spawning.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster applies the effect on its own upon spawning.'",
+  "context": "ID: mon_insect_parasiteworm_limit_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_insect_parasiteworm_limit_initial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_parasiteworm_limit_initial",
+  "stage": 1
  },
  {
   "key": "ce3e0f8cce123c3e0c71bea4fec7288a",
@@ -9092,7 +9246,7 @@
   "key": "201fa9687e0455ceecfd0c37647f0257",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Target is converted into its flesh variant'",
   "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Target is converted into its flesh variant'",
-  "context": "ID: secro_flesh_infect_zombie_grappler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_trans.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→secro_flesh_infect_zombie_grappler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_flesh_infect_zombie_grappler",
+  "context": "ID: mon_zombie_fake_psyrus_poly\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fake_psyrus_poly\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fake_psyrus_poly",
   "stage": 1
  },
  {
@@ -9335,7 +9489,6 @@
   "key": "e17a9005c7d880574d63b18573439a38",
   "original": "Suddenly, the flesh heap discharges of blood acid!",
   "translation": "突然，肉堆里排出血酸！",
-  "context": "ID: mon_sflesh_camp_turret_adischarge_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_adischarge_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_adischarge_YES",
   "stage": 5
  },
  {
@@ -9462,7 +9615,7 @@
   "key": "c41a31890959544c6523af684561abe5",
   "original": "Target",
   "translation": "目标",
-  "context": "ID: secro_magic_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_magic_target\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_magic_target",
+  "context": "ID: secro_magic_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects_self.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_magic_target\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_magic_target",
   "stage": 3
  },
  {
@@ -10309,42 +10462,42 @@
   "key": "4eb8830a7904d9d0eaec26a51fcc5e11",
   "original": "The %s bites <npcname>, but they dodge!",
   "translation": "%s咬向<npcname>，却被躲开了！",
-  "context": "ID: swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_bite_vstro",
+  "context": "ID: secro_swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_bite_vstro",
   "stage": 3
  },
  {
   "key": "b721e8cb65e93833ba251e8c86e56374",
   "original": "The %s bites you, but you dodge!",
   "translation": "%s咬向了你，不过你躲开了！",
-  "context": "ID: swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_bite_vstro",
+  "context": "ID: secro_swarmerzed_bite_vstro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_vstro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_bite_vstro",
   "stage": 3
  },
  {
   "key": "00ad9c8c9e1168c396b5db4824934060",
   "original": "The %s charges at <npcname>, but they dodge!",
   "translation": "%s冲向了<npcname>，但他们躲开了！",
-  "context": "ID: swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_savage_charge_bite",
+  "context": "ID: secro_swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_savage_charge_bite",
   "stage": 3
  },
  {
   "key": "434d1138a8dde9499ac12e6ecad37aa3",
   "original": "The %s charges at you, but you dodge!",
   "translation": "%s冲向了你，但你躲开了！",
-  "context": "ID: swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swarmerzed_savage_charge_bite",
+  "context": "ID: secro_swarmerzed_savage_charge_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_savage_charge_bite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swarmerzed_savage_charge_bite",
   "stage": 3
  },
  {
   "key": "cc819e08689177d618c72d1b1ac2c328",
   "original": "The %s charges into you, but you dodge!",
   "translation": "The %s charges into you，but you dodge！",
-  "context": "ID: charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=charger_vanguard_tackle",
+  "context": "ID: secro_charger_vanguard_tackle\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_charger_vanguard_tackle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_charger_vanguard_tackle",
   "stage": 1
  },
  {
   "key": "7116866e57364abb7fe17776f151a4b9",
   "original": "The %s claws at <npcname>, but they dodge!",
   "translation": "%s只爪子在<npcname>，但它们躲闪！",
-  "context": "ID: nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_nsweep",
+  "context": "ID: secro_nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_nsweep",
   "stage": 0
  },
  {
@@ -10357,14 +10510,14 @@
   "key": "59d26a0c5abc0b588a70f3650b25f1fc",
   "original": "The %s pierces <npcname>, but they dodge!",
   "translation": "%s刺穿<npcname>，但他们躲闪！",
-  "context": "ID: xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xlicker_pstab",
+  "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 0
  },
  {
   "key": "3ad37b9470a6ed09790f7234b249afc0",
   "original": "The %s slashes <npcname>, but they dodge!",
   "translation": "%s砍了<npcname>，但他们躲闪了！",
-  "context": "ID: maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→maneater_vineslash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maneater_vineslash",
+  "context": "ID: secro_maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_vineslash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_maneater_vineslash",
   "stage": 0
  },
  {
@@ -10388,24 +10541,50 @@
   "stage": 3
  },
  {
+  "key": "c783bf331b5419855d7757f02eec18e9",
+  "original": "The %s's arms fly out at <npcname>, but they dodge!",
+  "translation": "%s 的双臂飞向 <npcname>，但被躲开了！",
+  "context": "ID: sflesh_flesh_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_flesh_pull"
+ },
+ {
+  "key": "70f45e7b6cd200120aeab5f4cd6bfe8b",
+  "original": "The %s's arms fly out at you, but you dodge!",
+  "translation": "%s 的双臂飞向你，但你躲开了！",
+  "context": "ID: sflesh_flesh_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_flesh_pull"
+ },
+ {
   "key": "f5936ff9e6bd32841ba009948a3eaf94",
   "original": "The %s's claw reaches at you, but you dodge!",
   "translation": "%s的爪子伸向你，但你躲闪了！",
-  "context": "ID: nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nocturne_nsweep",
+  "context": "ID: secro_nocturne_nsweep\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_nsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_nsweep",
   "stage": 0
+ },
+ {
+  "key": "8dc62105aebcbdae64b9dce6207579f8",
+  "original": "The %s's tentacle reaches at <npcname>, but they dodge!",
+  "translation": "The %s's tentacle reaches at <npcname>, but they dodge!",
+  "context": "ID: secro_tendril_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendril_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendril_pull",
+  "stage": 1
+ },
+ {
+  "key": "7691137c644d7b2fbbff41c907e88151",
+  "original": "The %s's tentacle reaches out at you, but you dodge!",
+  "translation": "The %s's tentacle reaches out at you, but you dodge!",
+  "context": "ID: secro_tendril_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendril_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendril_pull",
+  "stage": 1
  },
  {
   "key": "71dbeb5ff513b66d4186b8f3bd7ff1bd",
   "original": "The %s's tongue reaches at you, but you dodge!",
   "translation": "%s的舌头伸到你身上，你却躲开了！",
-  "context": "ID: xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=xlicker_pstab",
+  "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 0
  },
  {
   "key": "df5aaf1dd3a9fff7d243245e19226414",
   "original": "The %s's vine reaches at you, but you dodge!",
   "translation": "%s的藤蔓向你伸出，但你躲闪了！",
-  "context": "ID: maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→maneater_vineslash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maneater_vineslash",
+  "context": "ID: secro_maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_vineslash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_maneater_vineslash",
   "stage": 0
  },
  {
@@ -10532,7 +10711,6 @@
   "key": "f4ea10e168f7f0d7303041143c12f6e8",
   "original": "The bio-organic exoskeleton isn't responding to you!",
   "translation": "生物有机外骨骼对你没有反应！",
-  "context": "ID: secro_power_armor_flesh_resist\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_flesh_resist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_resist",
   "stage": 5
  },
  {
@@ -10628,7 +10806,6 @@
   "key": "489b11865f9c2f302098872ab2e67f2e",
   "original": "The flesh heap's orifice spews out globs of blood acid!",
   "translation": "肉堆的孔口喷出血酸球！",
-  "context": "ID: mon_sflesh_camp_turret_aspit_target_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_sflesh_camp_turret_aspit_target_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_aspit_target_YES",
   "stage": 5
  },
  {
@@ -10655,7 +10832,6 @@
   "key": "2144ee1a4fc5dbd551f9174d69e332f0",
   "original": "The flesh vessel starts burning your calories!",
   "translation": "脉管装甲开始燃烧你的卡路里！",
-  "context": "ID: secro_power_armor_feed_metabolic_act_cost\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_feed_metabolic_act_cost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_feed_metabolic_act_cost",
   "stage": 3
  },
  {
@@ -10874,7 +11050,6 @@
   "key": "0687ac72e273e8772659f0942181a57d",
   "original": "The shapeshifter sets out a harrowing shriek before reaping their target!",
   "translation": "变形者在他们的收割目标之前，发出了一声恐怖的尖啸！",
-  "context": "ID: mon_shifter_target_atk_onslaught_dmgpure_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→mon_shifter_target_atk_onslaught_dmgpure_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shifter_target_atk_onslaught_dmgpure_YES",
   "stage": 3
  },
  {
@@ -11597,7 +11772,6 @@
   "key": "955b626377fc081f54325078855473ea",
   "original": "Vessel Resistance",
   "translation": "脉管抵抗",
-  "context": "ID: secro_power_armor_flesh_resist\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_flesh_resist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_resist",
   "stage": 3
  },
  {
@@ -11924,6 +12098,13 @@
   "stage": 3
  },
  {
+  "key": "ad7bfb92e828604642bdd232e94807c2",
+  "original": "You feel a burning sensation from your wound!",
+  "translation": "You feel a burning sensation from your wound!",
+  "context": "ID: parasiteworm_pain\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→parasiteworm_pain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=parasiteworm_pain",
+  "stage": 1
+ },
+ {
   "key": "b1d9744c4b23aacab9d244ec39521366",
   "original": "You feel bad inside.",
   "translation": "你感觉到身体很难受。",
@@ -11970,6 +12151,13 @@
   "translation": "你感到非常僵硬...",
   "context": "ID: secro_necros_para\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_necros_para\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_necros_para",
   "stage": 3
+ },
+ {
+  "key": "91f6f2fcfc9fe4acb13221ef9cd19a14",
+  "original": "You feel weakened.",
+  "translation": "You feel weakened.",
+  "context": "ID: parasiteworm_weaken\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→parasiteworm_weaken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=parasiteworm_weaken",
+  "stage": 1
  },
  {
   "key": "c54f01ae56a5d3caab07bd3f0a7a5aad",
@@ -12249,7 +12437,6 @@
   "key": "9225ba13283272029295084a0b9d1ffd",
   "original": "Your internal flesh weavers are repairing sustained damage!",
   "translation": "你内部的血肉织工正在修复持续伤害！",
-  "context": "ID: secro_power_armor_fleshmend_ing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_fleshmend_ing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_fleshmend_ing",
   "stage": 3
  },
  {
@@ -12263,8 +12450,14 @@
   "key": "a163bac0a74d0899b6c45d7a59a1110f",
   "original": "Your movement is hampered!",
   "translation": "你的行动受阻了！",
-  "context": "ID: secro_power_armor_feed_metabolic_act_cost\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_feed_metabolic_act_cost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_feed_metabolic_act_cost",
   "stage": 3
+ },
+ {
+  "key": "11aaa0fae030c0beb609b2a018ff524e",
+  "original": "Your movement suddenly felt stiff!",
+  "translation": "Your movement suddenly felt stiff!",
+  "context": "ID: parasiteworm_move\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→parasiteworm_move\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=parasiteworm_move",
+  "stage": 1
  },
  {
   "key": "e47219e6b3258f83099ae353da46ac97",
@@ -12290,7 +12483,6 @@
   "key": "8354fad31a0112a3c2fc37ba6196d3b9",
   "original": "Your spitter armament shoots a glob of blood acid!",
   "translation": "你的喷吐器武装喷射出一团血酸！",
-  "context": "ID: secro_power_armor_flesh_morphed_gun_spit_as_YES\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_power_armor_flesh_morphed_gun_spit_as_YES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_morphed_gun_spit_as_YES",
   "stage": 3
  },
  {
@@ -12380,7 +12572,6 @@
   "key": "3403af8117ebb858a392014b80cb3833",
   "original": "a note",
   "translation": "一张便条",
-  "context": "ID: mon_sflesh_camp_turret_hravager_swing_note\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_camp_turret_hravager_swing_note\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_camp_turret_hravager_swing_note",
   "stage": 3
  },
  {
@@ -14196,7 +14387,7 @@
   "key": "659dab76899567b4ce199eb7d4d5343a",
   "original": "parasitic swarm",
   "translation": "血腥寄生群",
-  "context": "ID: mon_insect_parasiteworm_stomach\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/ZombieParasiteWorms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_insect_parasiteworm_stomach\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_parasiteworm_stomach",
+  "context": "ID: mon_insect_parasiteworm\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/ZombieParasiteWorms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_insect_parasiteworm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_insect_parasiteworm",
   "stage": 3
  },
  {
