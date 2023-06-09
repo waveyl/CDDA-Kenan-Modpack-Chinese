@@ -108,7 +108,6 @@
   "key": "5eae4ca0d02dd551f5a91314c730e8ad",
   "original": "A strange cube, deceptively bulky and heavy. It flickers and shimmers, a thousand possible realities stretching out in as many directions. It can be activated by touch to permanently transform it into an artifact of truly random design.",
   "translation": "一个怪异的立方体，给人一种厚重的感觉. 它闪烁着，微光摇曳. 千种可能的现实向各处延伸.可以通过触摸来激活，能够永久转变为一件随机的神器.",
-  "context": "ID: artifactbox\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→artifactbox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artifactbox",
   "stage": 3
  },
  {
@@ -458,8 +457,14 @@
   "key": "39d2a14b98126335c89e9cce61d9e3c1",
   "original": "Kill the guarded interloper!",
   "translation": "消灭守卫闯入者!",
-  "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3",
   "stage": 3
+ },
+ {
+  "key": "e70b8f539bc461dc8003336a56beb918",
+  "original": "Kill the guarded interlopers!",
+  "translation": "Kill the guarded interlopers!",
+  "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3",
+  "stage": 1
  },
  {
   "key": "973f4dfb1f14f0616619592c4e0fd85c",
@@ -602,17 +607,29 @@
   "stage": 3
  },
  {
+  "key": "a5aa6d0cf2ce79a87942369ccbec4b87",
+  "original": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. Its strange nature allows you to shift it around like furniture. You can harvest sticks, logs, and other materials from it using the construction menu.",
+  "translation": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. Its strange nature allows you to shift it around like furniture. You can harvest sticks, logs, and other materials from it using the construction menu.",
+  "context": "ID: f_infinitree1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→furniture→f_infinitree1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_infinitree1",
+  "stage": 1
+ },
+ {
+  "key": "e805b85a5c329f17f19119d6a2016321",
+  "original": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. Its strange nature allows you to shift it around like furniture. You could probably use this in some recipes.",
+  "translation": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds，as if in a timelapse，and yet there never seem to be too many branches. It's always in equilibrium. Its strange nature allows you to shift it around like furniture. You could probably use this in some recipes.",
+  "context": "ID: f_infinitree3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→furniture→f_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_infinitree3",
+  "stage": 1
+ },
+ {
   "key": "18bf85059f739bf2b55d968f86582a6c",
   "original": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. You can harvest sticks, logs, and other materials from it using the construction menu.",
   "translation": "这棵树苗的叶片周围闪烁着紫蓝色光芒。树枝的生长似乎在几秒钟之内就完成了，就像时光快进一样，而且似乎不会再进一步生长。无论怎样树苗总是保持着原状，可以在建筑菜单里收获树枝、原木和其他材料。",
-  "context": "ID: t_infinitree1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→terrain→t_infinitree1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_infinitree1",
   "stage": 3
  },
  {
   "key": "606acdc9065205a2dce686ee7b32bb5a",
   "original": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. You could probably use this in some recipes.",
   "translation": "这棵树苗的叶片周围闪烁着紫蓝色光芒。树枝的生长似乎在几秒钟之内就完成了，就像时光快进一样，而且似乎不会再进一步生长。无论怎样树苗总是保持着先前的状态。也许一些配方用得到这个。",
-  "context": "ID: t_infinitree3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→terrain→t_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_infinitree3",
   "stage": 3
  },
  {
@@ -724,7 +741,6 @@
   "key": "3f26e69b21a0d9ccba6785601d939ac1",
   "original": "The warp has marked a single human being for death. They may be accompanied. Their sins are not your concern. All you need to know is that it must be done.",
   "translation": "扭曲标记了一个应死之人。他们可能会相互配合。他们身上背负的罪与你无关，你只需要知道任务必须完成。",
-  "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3",
   "stage": 3
  },
  {
@@ -740,6 +756,13 @@
   "translation": "扭曲标记了一个应死之人。他们可能装备了近战武器。他们孤立无援，他们身上背负的罪与你无关，你只需要知道任务必须完成。",
   "context": "ID: MISSION_BONUS_ASSASSIN1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN1",
   "stage": 3
+ },
+ {
+  "key": "38c660ba4325728727c71bdfa6b372d9",
+  "original": "The warp has marked human beings for death. They may be accompanied. Their sins are not your concern. All you need to know is that it must be done.",
+  "translation": "The warp has marked human beings for death. They may be accompanied. Their sins are not your concern. All you need to know is that it must be done.",
+  "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3",
+  "stage": 1
  },
  {
   "key": "779131901f4c3e757613c5ccfcc6350d",
@@ -859,6 +882,13 @@
   "translation": "探险总次数: <u_val:raidstotal> \n存活次数: <u_val:raidswon> \n死亡次数: <u_val:raidslost> \n任务完成数: <u_val:missionswon> \n歼灭类任务完成数: <u_val:slaughterswon>\n\n当前难度设置:\n扭曲病时限: 8 次“脉冲”\n解体时限: 12 次“脉冲”\n扭曲脉冲间隔: <global_val:readablesicknessintervals> minutes.",
   "context": "ID: EOC_statcheck\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_statcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statcheck",
   "stage": 3
+ },
+ {
+  "key": "277a2652b4ac888dd624c688b5a989cb",
+  "original": "Utilizing the unstable, reality-changing nature of the warp shards, you could combine several to create a powerful semi-magical item. This is a skill you have no way of practicing and a field of science no one's ever really touched, so exactly what you'd get from it is anyone's guess.",
+  "translation": "Utilizing the unstable, reality-changing nature of the warp shards, you could combine several to create a powerful semi-magical item. This is a skill you have no way of practicing and a field of science no one's ever really touched, so exactly what you'd get from it is anyone's guess.",
+  "context": "ID: recipe_craft_random_artifact\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→recipe→recipe_craft_random_artifact\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_craft_random_artifact",
+  "stage": 1
  },
  {
   "key": "79822fd162e5972b832f47175ee073da",
@@ -1137,8 +1167,15 @@
   "key": "a164e1d957412423a4a0065b325e28f7",
   "original": "infinitree sapling",
   "translation": "无尽树种苗",
-  "context": "ID: t_infinitree3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→terrain→t_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_infinitree3",
+  "context": "ID: f_infinitree3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→furniture→f_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_infinitree3",
   "stage": 3
+ },
+ {
+  "key": "2a6d57718a6a9f622a10ad50b0583f30",
+  "original": "materialize random artifact",
+  "translation": "materialize random artifact",
+  "context": "ID: recipe_craft_random_artifact\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→recipe→recipe_craft_random_artifact\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_craft_random_artifact",
+  "stage": 1
  },
  {
   "key": "9ca4d5087b8d2cfefa0cc99f118c7dad",
@@ -1165,7 +1202,6 @@
   "key": "01ba48df4b3cba1549d204819a7e9e2f",
   "original": "potential artifact",
   "translation": "未知神器",
-  "context": "ID: artifactbox\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→artifactbox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artifactbox",
   "stage": 3
  },
  {

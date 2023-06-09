@@ -1031,7 +1031,7 @@
   "key": "79540a4108d598d8041adf2cccdd900d",
   "original": "A large tin can held together by a tab and seal.  Remove the seal to split the container into two smaller cans and reveal its contents.  It contains carefully packed survival items with a list of them on the side of the can.  You could not possibly put its contents back together.",
   "translation": "一个被标签和封条固定在一起的大锡罐。拆下封条可以将容器分成两个小罐并露出其中的内容物。里面有精心包装的救生物品，并在罐头的一侧列出了它们的清单。拆开后无法还原。",
-  "context": "ID: surcan\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→surcan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surcan",
+  "context": "ID: surcan\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→surcan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surcan",
   "stage": 3
  },
  {
@@ -1938,8 +1938,14 @@
   "key": "1d0b6681bbbc2fda35d4a0a19251dab4",
   "original": "All your life you have been experimented on and forced to fight others for the amusement of your masters. Never having seen the sun or the outside the cataclysm gave you a chance at freedom. Now you just have to escape from your fellow combatants...",
   "translation": "你一生都在被试验，并为了取悦你的主人而被迫与他人战斗，你从来没有见过太阳和外界，大灾变给了你自由的机会，现在你只需逃离你的“战友”……",
-  "context": "ID: house_fight_scenario\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→house_fight_scenario\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=house_fight_scenario",
   "stage": 3
+ },
+ {
+  "key": "2c77811d231c0d8eda73fa63d5609730",
+  "original": "All your life, you have been experimented on and forced to fight others for the amusement of your masters.  Never having seen the sun or the outside, the cataclysm gave you a chance at freedom.  Now you just have to escape from your fellow combatants…",
+  "translation": "All your life, you have been experimented on and forced to fight others for the amusement of your masters.  Never having seen the sun or the outside, the cataclysm gave you a chance at freedom.  Now you just have to escape from your fellow combatants…",
+  "context": "ID: house_fight_scenario\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→house_fight_scenario\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=house_fight_scenario",
+  "stage": 1
  },
  {
   "key": "3dce0611957f0a0932a0a71e4ec6637e",
@@ -2300,6 +2306,13 @@
   "stage": 3
  },
  {
+  "key": "e41519560a60bed59b765b5acd6702cd",
+  "original": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and make it less encumbering to wear, but the motors make things warm and make stealth harder.",
+  "translation": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and make it less encumbering to wear, but the motors make things warm and make stealth harder.",
+  "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv",
+  "stage": 1
+ },
+ {
   "key": "e11bac267e94f8a4078b6cab5ce13798",
   "original": "An incredibly heavy suit of steel plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  It's cumbersome but provides considerable protection aside from gaps in the joints and vision slits, and the servos offer quite a bit of power when active.",
   "translation": "这是一套由覆盖着液压系统的钢板组成的极其沉重的盔甲，由一台被拆卸下来的柴油发动机驱动来辅助穿着者的行动。它很笨重但能提供相当大的保护，除了关节和眼部缝隙外，伺服系统在激活时会提供相当大的功率。“大灾变后幸存者生存智慧的结晶”。",
@@ -2316,7 +2329,6 @@
   "key": "79fea8e870d98cc5894684da25475ad9",
   "original": "An incredibly heavy suit of steel plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and make it less encumbering to wear, but the motors make things warm and make stealth harder.",
   "translation": "这是一套由覆盖着液压系统的钢板组成的极其沉重的盔甲，用一台被拆卸下来的柴油发动机作为动力来辅助穿着者的行动。当它启动时，会提升你的力量并且减少装甲的累赘，但会让身体变热并且让潜行变得更加困难。",
-  "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv",
   "stage": 3
  },
  {
@@ -2864,7 +2876,6 @@
   "key": "edc71f61faa74c105ea30a646cc1a981",
   "original": "Canned Survivor",
   "translation": "忙碌准备者",
-  "context": "ID: can_sur\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_r.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→can_sur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_sur",
   "stage": 3
  },
  {
@@ -8497,7 +8508,6 @@
   "key": "08067362e1b51ea8d409b54c66347316",
   "original": "You have been augmented with many 'passive' combat bionics, they merely aid you but are not weapons in and of themselves. You have been trained to use all sorts of different weapons, including your fists. You can pretty much weaponize a sock.",
   "translation": "你被植入了许多强化身体的仿生插件，他们可以帮助你增强战斗能力。你被训练使用各种不同的武器进行战斗，除开你的拳头以外，你甚至可以使用一只袜子。",
-  "context": "ID: sf_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_weapon",
   "stage": 3
  },
  {
@@ -8770,7 +8780,6 @@
   "key": "0d067876d43177e291dcc8dab8dca32c",
   "original": "You were a very busy person.  That's why you bought a can of survival items and called it a day.  Now it's the only thing you have.",
   "translation": "你是一个非常忙碌的人，这就是为什么你只是买了一罐生存物品就收手了。但现在这就是你唯一拥有的东西了。",
-  "context": "ID: can_sur\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_r.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→can_sur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=can_sur",
   "stage": 3
  },
  {
@@ -8783,21 +8792,18 @@
   "key": "e5394387be32b7d003ae7e3e47fdb291",
   "original": "You were augmented with a blade, and enhancements to your speed and reaction time. You can hit an opponent multiple times before they land a blow.",
   "translation": "你的手背上被植入高强度生化合金刀片，和死侍相比可就差多了。被CBM增强了速度和反应，因此你可以在对手攻击之前进行多次敏攻来手刃敌人。",
-  "context": "ID: sf_blade\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_blade",
   "stage": 3
  },
  {
   "key": "5100ff94e9ab220003afba9eb19b7e5c",
   "original": "You were augmented with electrical generators and protection from them. You hit multiple foes with electricity, frying them until their nervous system gives up.",
   "translation": "你拥有近远程放电能力，可以使用闪电链同时攻击多个敌人，直到电到他们的神经感官崩溃为止。正如杨教授那样，今天不是你死就是断闸。",
-  "context": "ID: sf_shock\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_shock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_shock",
   "stage": 3
  },
  {
   "key": "c617673746d61b89794f4cda55383585",
   "original": "You were augmented with some claws, and enhancements to your reflexes. You deliver a powerful strike that neutralizes foes in few hits.",
   "translation": "你被植入了高强度生化合金利爪，但你可不像金刚狼那样承受住艾德拉合金.CBM增强的速度和反应，使你可以在对手攻击之前直接如同野兽一般撕碎敌人。",
-  "context": "ID: sf_claw\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_claw",
   "stage": 3
  },
  {
@@ -8806,6 +8812,34 @@
   "translation": "你被绑架了，被迫参加地下血腥角斗，为了取悦富有的客户而被迫与他人战斗。你可能不是唯一一个幸运地活下来而没有受伤的人。",
   "context": "ID: PROF_GLADIATOR\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Mutations/c_bio_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→PROF_GLADIATOR\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_GLADIATOR",
   "stage": 3
+ },
+ {
+  "key": "b75ff348c9e56d0e246c260385100583",
+  "original": "You were kidnapped for some sort of underground bloodsport, augmented with a blade and enhancements to your speed and reaction time.  Forced through rudimentary training as a novelty fighter, you were expected to be able to be down opponents with ease.",
+  "translation": "You were kidnapped for some sort of underground bloodsport, augmented with a blade and enhancements to your speed and reaction time.  Forced through rudimentary training as a novelty fighter, you were expected to be able to be down opponents with ease.",
+  "context": "ID: sf_blade\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_blade",
+  "stage": 1
+ },
+ {
+  "key": "2276367e7553f390f2eda99751a3e59d",
+  "original": "You were kidnapped for some sort of underground bloodsport, augmented with bionic claws and enhancements to your reflexes.  Forced through rudimentary training as a novelty fighter, you were expected to tear your foes apart like an animal.",
+  "translation": "You were kidnapped for some sort of underground bloodsport, augmented with bionic claws and enhancements to your reflexes.  Forced through rudimentary training as a novelty fighter, you were expected to tear your foes apart like an animal.",
+  "context": "ID: sf_claw\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_claw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_claw",
+  "stage": 1
+ },
+ {
+  "key": "cb0f79f5d23fe2eaa4e2d8ce28aceb98",
+  "original": "You were kidnapped for some sort of underground bloodsport, augmented with electrical generation and protection bionics.  It was expected that you'd be a living tesla coil in the ring, frying victims until they roll over and die.",
+  "translation": "You were kidnapped for some sort of underground bloodsport, augmented with electrical generation and protection bionics.  It was expected that you'd be a living tesla coil in the ring, frying victims until they roll over and die.",
+  "context": "ID: sf_shock\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_shock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_shock",
+  "stage": 1
+ },
+ {
+  "key": "20079b5c87b7238f6768308e93722236",
+  "original": "You were kidnapped for some sort of underground bloodsport.  Augmented with a mish-mash of support bionics and put through hellish training, you were intended to be a wild card to spice up matches, able to weaponize whatever you could get your hands on.",
+  "translation": "You were kidnapped for some sort of underground bloodsport.  Augmented with a mish-mash of support bionics and put through hellish training, you were intended to be a wild card to spice up matches, able to weaponize whatever you could get your hands on.",
+  "context": "ID: sf_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_weapon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sf_weapon",
+  "stage": 1
  },
  {
   "key": "02c1256860d694fc10507de936dd65d6",
@@ -8844,8 +8878,14 @@
   "key": "d82a3f63a1c5ec3c00cfeb30c21b0075",
   "original": "You woke up, where are you?  Who are you?  What are you?!  That doesn't matter right now... you have a bad feeling...",
   "translation": "你醒来了，你在哪里？你是谁？你是什么？！现在没关系了……一脸懵逼的你却有一种不好的感觉……",
-  "context": "ID: bio_weapon_lab\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→bio_weapon_lab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_weapon_lab",
   "stage": 3
+ },
+ {
+  "key": "77f8eb61358444d3440a648d0d65e895",
+  "original": "You woke up, where are you?  Who are you?  What are you?!  That doesn't matter right now… you have a bad feeling…",
+  "translation": "You woke up, where are you?  Who are you?  What are you?!  That doesn't matter right now… you have a bad feeling…",
+  "context": "ID: bio_weapon_lab\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→bio_weapon_lab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_weapon_lab",
+  "stage": 1
  },
  {
   "key": "e5721318e40a90b336e1093da1d476bc",
@@ -10865,14 +10905,14 @@
   "key": "8bf74cdcab287f5e4259a649e105a00b",
   "original": "survival kit in a can",
   "translation": "罐装救生用具",
-  "context": "ID: surcan\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→surcan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surcan",
+  "context": "ID: surcan\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→surcan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surcan",
   "stage": 3
  },
  {
   "key": "ff495b708e61775de8b603dee65fb087",
   "original": "survival kits in cans",
   "translation": "罐装救生用具",
-  "context": "ID: surcan\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→surcan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surcan",
+  "context": "ID: surcan\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL→surcan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surcan",
   "stage": 3
  },
  {
