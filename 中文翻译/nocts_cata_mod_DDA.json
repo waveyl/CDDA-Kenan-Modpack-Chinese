@@ -919,10 +919,16 @@
   "stage": 3
  },
  {
+  "key": "aade0075ef6dc3ac5b6790337a854a0c",
+  "original": "A glassy green pellet of alien resin, molded in a shape resembling an elongated rifle bullet.  Designed for an exotic pneumatic weapon.",
+  "translation": "A glassy green pellet of alien resin, molded in a shape resembling an elongated rifle bullet.  Designed for an exotic pneumatic weapon.",
+  "context": "ID: c_alien_resin_bullet\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet",
+  "stage": 1
+ },
+ {
   "key": "73ffed483431db114a65df768ef8ebff",
   "original": "A glassy green pellet of alien resin, molded in a shape vaguely resembling a modern rifle bullet, albeit elongated.",
   "translation": "一个玻璃状的绿色异界树脂小球，形状像是被拉长的现代步枪子弹。",
-  "context": "ID: c_alien_resin_bullet\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet",
   "stage": 3
  },
  {
@@ -1253,18 +1259,30 @@
   "stage": 3
  },
  {
+  "key": "45d79f76e1e6417a060e42960dc553ad",
+  "original": "A mi-go beam weapon repurposed for human use using pre-cataclysm developments in bio-technology, crudely interfacing artificial nerves with wiring and converting it into a bulky pistol.  Its strange lens fires short-ranged beams that deal low damage, but are highly effective at stunning targets.  Wielding it gives a faint sense of focus, like it's almost but not quite alive.",
+  "translation": "A mi-go beam weapon repurposed for human use using pre-cataclysm developments in bio-technology, crudely interfacing artificial nerves with wiring and converting it into a bulky pistol.  Its strange lens fires short-ranged beams that deal low damage, but are highly effective at stunning targets.  Wielding it gives a faint sense of focus, like it's almost but not quite alive.",
+  "context": "ID: c_mi_go_beam_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_beam_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_salvaged",
+  "stage": 1
+ },
+ {
   "key": "addbf82eacafc02e3c8e28b65f733c31",
   "original": "A mi-go beam weapon repurposed for human use using pre-cataclysm developments in bio-technology, crudely interfacing artificial nerves with wiring and converting it into a bulky pistol.  Its strange lens fires short-ranged beams that low damage, but are highly effective at stunning targets.  Having been converted for human use, it draws power from a UPS connection.",
   "translation": "利用大灾变前发展的生物技术将米·戈光束武器改造为人类使用，将人工神经与电线粗糙地连接起来将其改造成一把笨重的手枪。它那奇怪的透镜只能发射出低伤害的近距离光束，但能有效击晕目标。经过改装后使用UPS供能。",
-  "context": "ID: c_mi_go_beam_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_beam_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_beam_salvaged",
   "stage": 3
  },
  {
   "key": "15d4479d5a56ab315d0690bd24a64432",
   "original": "A mi-go weapon that projects pieces of hardened alien resin at high velocities, its exotic controls stripped down and interfaced with something more fitting human anatomy.  The product of pre-cataclysm biotechnology applied to solve an outside-context problem.  Although it relies on special ammunition, it is relatively easy to mold resin into compatible projectiles, and it packs a decent punch with very little noise.",
   "translation": "一种能发射高速硬化异界树脂碎片的米·戈武器，其奇特的控制装置被剥离并与更适合人类生物工程学的东西相连接。它是大灾变前生物技术的产物，用于解决空间外部环境的问题。 虽然它依赖于特殊的弹药，但相对来说，将树脂塑造成与其兼容的弹丸是很容易的，而且它的冲击力很强，噪音很小。",
-  "context": "ID: c_mi_go_rifle_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_rifle_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_rifle_salvaged",
   "stage": 5
+ },
+ {
+  "key": "f501f19180a38bedbc3967e569496502",
+  "original": "A mi-go weapon that projects pieces of hardened alien resin at high velocities, its exotic controls stripped down it fit human anatomy.  The product of pre-cataclysm biotechnology applied to solve an outside-context problem.  Although it relies on special ammunition, it is relatively easy to mold resin or metal into compatible projectiles, and it packs a decent punch with very little noise.",
+  "translation": "A mi-go weapon that projects pieces of hardened alien resin at high velocities, its exotic controls stripped down it fit human anatomy.  The product of pre-cataclysm biotechnology applied to solve an outside-context problem.  Although it relies on special ammunition, it is relatively easy to mold resin or metal into compatible projectiles, and it packs a decent punch with very little noise.",
+  "context": "ID: c_mi_go_rifle_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_rifle_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_rifle_salvaged",
+  "stage": 1
  },
  {
   "key": "a177bf26ea9ec7301611243a29dc834f",
@@ -1279,6 +1297,13 @@
   "translation": "一个微型的自制喷火器，可以连接到各种武器上。它可以使用多种燃料，而且相对节油。但没有普通的火焰喷射器那么有效，而且给内置油箱加压需要时间。",
   "context": "ID: aux_flamer_diesel\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→aux_flamer_diesel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aux_flamer_diesel",
   "stage": 3
+ },
+ {
+  "key": "84875fe595128074a3265fa94617f893",
+  "original": "A molded metal projectile for an exotic pneumatic weapon, resembling an elongated rifle bullet.  Inferior to purpose-built resin bullets, but easier to make.",
+  "translation": "A molded metal projectile for an exotic pneumatic weapon, resembling an elongated rifle bullet.  Inferior to purpose-built resin bullets, but easier to make.",
+  "context": "ID: c_alien_resin_bullet_makeshift\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet_makeshift\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet_makeshift",
+  "stage": 1
  },
  {
   "key": "de6d06ad38d22519e352405209731e82",
@@ -1515,6 +1540,13 @@
   "translation": "一张废纸。上面印着什么东西。",
   "context": "ID: note_apophis\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_books.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→note_apophis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=note_apophis",
   "stage": 3
+ },
+ {
+  "key": "89066ef77ad73a7638b0a82f4be9fcfa",
+  "original": "A second skin of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Activating it will reduce the suit's encumbrance, make your attacks faster, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  Recharges in sunlight, being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
+  "translation": "A second skin of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Activating it will reduce the suit's encumbrance, make your attacks faster, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  Recharges in sunlight, being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
+  "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged",
+  "stage": 1
  },
  {
   "key": "d2a5602349b472b9988bfa46568b65c5",
@@ -1761,7 +1793,6 @@
   "key": "0258b8d87aace64a763a253f722db499",
   "original": "A vaguely human-shaped second skin of alien sinew and steel support, covered in armor plates made of resin.  Effectively mutilated to fit a human (or mutant) wearer, somehow it's still functional, almost alive in fact.  Activating it will reduce the suit's encumbrance, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  It seems to recharge from sunlight, and being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
   "translation": "一个隐约看得出人形的外壳，由外星肌腱和钢支架构成，外面覆盖着树脂制成的网状装甲板。大灾变前通过对其他活武器的研究并改装而来，它经过了大量的切割以适合人类（或变种人）穿戴，但不知为何它仍然具有功能，实际上它几乎是活的。激活它可以减少装甲的累赘，增强使用者的力量和敏捷，保护穿戴者免受有毒气体的伤害，同时其可以作为一个呼吸器，增强使用者的耐力和负重能力，并提供一定程度的外界温度防护。 它似乎可以从阳光下充电，但会加快使用者疲劳并且影响其健康，而且更容易受到电击。",
-  "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged",
   "stage": 3
  },
  {
@@ -1774,8 +1805,14 @@
   "key": "847e28014635f2771fc532a3df3bfd8d",
   "original": "A vaguely human-shaped shell of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Activating it will reduce the suit's encumbrance, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  It seems to recharge from sunlight, and being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
   "translation": "一个隐约看得出人形的外壳，由外星肌腱和钢支架构成，外面覆盖着树脂制成的网状装甲板。大灾变前通过对其他活体武器的研究并改装而来，它经过了大量的切割以适合人类（或变种人）穿戴。激活它可以减少装甲的累赘，增强使用者的力量和敏捷，保护穿戴者免受有毒气体的伤害，同时其可以作为一个呼吸器，增强使用者的耐力和负重能力，并提供一定程度的外界温度防护。 它似乎可以从阳光下充电，但会加快使用者疲劳并且影响其健康，而且更容易受到电击。",
-  "context": "ID: c_mi_go_carapace_salvaged_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged_on",
   "stage": 3
+ },
+ {
+  "key": "cf88d72fd6464761488088fc6f4e4199",
+  "original": "A vaguely human-shaped shell of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Currently active, it enhances strength and dexterity, make your attacks faster, protects the wearer from toxic gas, serves as a rebreather, enhances stamina and carry capacity, and provides some protection from outside temperature.  Recharges in sunlight, being active also gradually fatigues the user and affects healthiness, plus renders them more vulnerable to electric shocks.",
+  "translation": "A vaguely human-shaped shell of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Currently active, it enhances strength and dexterity, make your attacks faster, protects the wearer from toxic gas, serves as a rebreather, enhances stamina and carry capacity, and provides some protection from outside temperature.  Recharges in sunlight, being active also gradually fatigues the user and affects healthiness, plus renders them more vulnerable to electric shocks.",
+  "context": "ID: c_mi_go_carapace_salvaged_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_mi_go_carapace_salvaged_on",
+  "stage": 1
  },
  {
   "key": "393d740ce9a9f4b75a64dae6f339ec5c",
@@ -2266,10 +2303,16 @@
   "stage": 3
  },
  {
+  "key": "eaec8322ab024fd865a27ef68cf3c253",
+  "original": "An experimental compact plasma projector developed by Omnitech, designed to be assembled in the field.  Given the complexity of its components, they made some ambitious assumptions about the availability of parts mid-mission.  Remarkably powerful though short-ranged, its variable-pressure design allows it to use commercial-grade hydrogen or military plasma cells.",
+  "translation": "An experimental compact plasma projector developed by Omnitech, designed to be assembled in the field.  Given the complexity of its components, they made some ambitious assumptions about the availability of parts mid-mission.  Remarkably powerful though short-ranged, its variable-pressure design allows it to use commercial-grade hydrogen or military plasma cells.",
+  "context": "ID: omnitech_plasma_pistol\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→omnitech_plasma_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=omnitech_plasma_pistol",
+  "stage": 1
+ },
+ {
   "key": "e522b7b6a08cc562fe08fa49b9a7209e",
   "original": "An experimental compact plasma projector developed by Omnitech, designed to be assembled in the field.  Given the complexity of its components, they made some ambitious assumptions about the availability of parts mid-mission.  Remarkably powerful though short-ranged, its varible-pressure design allows it to use commercial-grade hydrogen or military plasma cells.",
   "translation": "由Omnitech开发的小型实验性等离子发射器，设计用于现场组装。考虑到其组件的复杂性，他们对任务中期的零件的可用性做出了一些雄心勃勃的设想。虽然射程较短但威力巨大，可以使用商用级氢或军用等离子电池。",
-  "context": "ID: omnitech_plasma_pistol\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→omnitech_plasma_pistol\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=omnitech_plasma_pistol",
   "stage": 3
  },
  {
@@ -2306,9 +2349,9 @@
   "stage": 3
  },
  {
-  "key": "e41519560a60bed59b765b5acd6702cd",
-  "original": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and make it less encumbering to wear, but the motors make things warm and make stealth harder.",
-  "translation": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and make it less encumbering to wear, but the motors make things warm and make stealth harder.",
+  "key": "6ca083ed905ebf06cd768340820f8740",
+  "original": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and raw speed, plus make it less encumbering to wear, but the motors make things warm and make stealth harder.",
+  "translation": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and raw speed, plus make it less encumbering to wear, but the motors make things warm and make stealth harder.",
   "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv",
   "stage": 1
  },
@@ -2322,8 +2365,14 @@
   "key": "b3c74504f8e633bc86b104b986b9aa5e",
   "original": "An incredibly heavy suit of steel plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  It's currently active, strengthening the wearer and making the armor less encumbering, but also being warmer and making stealth more difficult.",
   "translation": "这是一套由覆盖着液压系统的钢板组成的极其沉重的盔甲，由一台被拆卸下来的柴油发动机驱动来辅助穿着者的行动。它目前处于开启状态，会提升你的力量并且减少装甲的累赘，但会让身体变热并且让潜行变得更加困难。 ",
-  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv_on",
   "stage": 3
+ },
+ {
+  "key": "8478eeec69a3227d178707671a4579b2",
+  "original": "An incredibly heavy suit of steel plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  It's currently active, strengthening the wearer, increasing raw speed and making the armor less encumbering, but also being warmer and making stealth more difficult.",
+  "translation": "An incredibly heavy suit of steel plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  It's currently active, strengthening the wearer, increasing raw speed and making the armor less encumbering, but also being warmer and making stealth more difficult.",
+  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv_on",
+  "stage": 1
  },
  {
   "key": "79fea8e870d98cc5894684da25475ad9",
@@ -7474,7 +7523,6 @@
   "key": "6b0c9fc3fe10519bc3416e48f4dc12db",
   "original": "There's no fuel in the makeshift power armor's tank.",
   "translation": "自制动力装甲油箱里的燃料耗尽了。",
-  "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv",
   "stage": 3
  },
  {
@@ -8675,7 +8723,6 @@
   "key": "9ae44f7a284442de54b3402f641c0327",
   "original": "You shut the makeshift power armor off.",
   "translation": "你关闭了自制动力护甲。",
-  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv_on",
   "stage": 3
  },
  {
@@ -9229,7 +9276,6 @@
   "key": "d1f240eae65e35fcb0a94db98d287b0a",
   "original": "Your makeshift power armor roars to life, servos kicking into gear!",
   "translation": "你的自制动力装甲呼啸而起，伺服装置启动！",
-  "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_power_armor_surv",
   "stage": 3
  },
  {
@@ -10212,6 +10258,13 @@
   "translation": "模铸锅",
   "context": "ID: molded_pot\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_tools.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→molded_pot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=molded_pot",
   "stage": 3
+ },
+ {
+  "key": "76e230057d10e7db16b243bdea986c5b",
+  "original": "molded projector bullet",
+  "translation": "molded projector bullet",
+  "context": "ID: c_alien_resin_bullet_makeshift\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet_makeshift\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=c_alien_resin_bullet_makeshift",
+  "stage": 1
  },
  {
   "key": "54a1e954d02d4c36bed2495b26fd1460",

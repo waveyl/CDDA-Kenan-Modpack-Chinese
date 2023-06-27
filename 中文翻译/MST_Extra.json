@@ -58,7 +58,7 @@
   "key": "8b10e7b249f31751e1e4352214c3e8fb",
   "original": "A flexible frame made from wooden crosspieces lashed together.",
   "translation": "用长条木板绑在一起的可弯曲的木框架。",
-  "context": "ID: makeshift_sled_frame_item\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→makeshift_sled_frame_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_sled_frame_item",
+  "context": "ID: makeshift_sled_frame_item\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→makeshift_sled_frame_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_sled_frame_item",
   "stage": 3
  },
  {
@@ -1213,6 +1213,13 @@
   "stage": 3
  },
  {
+  "key": "869df2d9cb8842cf02273a10d658ffae",
+  "original": "birchbark boat hull",
+  "translation": "birchbark boat hull",
+  "context": "ID: boat_board_birchbark\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→boat_board_birchbark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boat_board_birchbark",
+  "stage": 1
+ },
+ {
   "key": "9df9a35b393f99d8322cb27882a08742",
   "original": "birchbark canteen",
   "translation": "桦皮水壶",
@@ -1534,7 +1541,7 @@
   "key": "0a0046bd6a51ace1b91deb8734c1fdfc",
   "original": "light woven frame",
   "translation": "轻型板条车架",
-  "context": "ID: makeshift_sled_frame_item\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→makeshift_sled_frame_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_sled_frame_item",
+  "context": "ID: makeshift_sled_frame_item\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→makeshift_sled_frame_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_sled_frame_item",
   "stage": 3
  },
  {
@@ -2047,7 +2054,6 @@
   "key": "d3693700b06aafa80ad28a7c8d6aed24",
   "original": "wbirchbark boat hull",
   "translation": "桦皮船壳",
-  "context": "ID: boat_board_birchbark\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→boat_board_birchbark\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=boat_board_birchbark",
   "stage": 3
  },
  {
