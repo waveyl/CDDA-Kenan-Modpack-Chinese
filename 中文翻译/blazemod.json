@@ -2216,7 +2216,6 @@
   "key": "cffaa1987cd58b6f2c3d0c1787b7ed2d",
   "original": "coilgun turret",
   "translation": "自制电磁枪炮塔",
-  "context": "ID: mounted_coilgun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_coilgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_coilgun",
   "stage": 5
  },
  {
@@ -2951,7 +2950,6 @@
   "key": "698957ae789a1cdec06dc906e9a004e9",
   "original": "heavy rail rifle turret",
   "translation": "重型轨道步枪炮塔",
-  "context": "ID: mounted_heavy_rail_rifle\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_heavy_rail_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_heavy_rail_rifle",
   "stage": 5
  },
  {
@@ -3035,7 +3033,6 @@
   "key": "901ec8caadb569ae2f79909fb1c71c2d",
   "original": "lacerator turret",
   "translation": "圆盘加速器炮塔",
-  "context": "ID: mounted_cutter\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_cutter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_cutter",
   "stage": 5
  },
  {
@@ -3063,7 +3060,6 @@
   "key": "b796d0abc79cd408d7622d1f517a14ea",
   "original": "laser cannon turret",
   "translation": "激光炮炮塔",
-  "context": "ID: mounted_lasgun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgun",
   "stage": 5
  },
  {
@@ -3505,8 +3501,14 @@
   "key": "b0bdcc2ab95d23966ca444caca2ed1fe",
   "original": "mounted coilgun",
   "translation": "车载自制线圈枪",
-  "context": "ID: mounted_coilgun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_coilgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_coilgun",
   "stage": 3
+ },
+ {
+  "key": "393051c122e49c2141380e79ecb0fb79",
+  "original": "mounted coilgun turret",
+  "translation": "mounted coilgun turret",
+  "context": "ID: mounted_coilgun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_coilgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_coilgun",
+  "stage": 1
  },
  {
   "key": "f51d1f054e6b773b7bf671e1c82ea364",
@@ -3524,8 +3526,14 @@
   "key": "854a56ea0c0a0ea5b9c26648f0a7311d",
   "original": "mounted ferromagnetic rail rifle",
   "translation": "车载磁轨步枪",
-  "context": "ID: mounted_rebar_rifle\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_rebar_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_rebar_rifle",
   "stage": 3
+ },
+ {
+  "key": "d2ef141661bfe45154286752c7ad4d27",
+  "original": "mounted ferromagnetic rail rifle turret",
+  "translation": "mounted ferromagnetic rail rifle turret",
+  "context": "ID: mounted_rebar_rifle\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_rebar_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_rebar_rifle",
+  "stage": 1
  },
  {
   "key": "850302a774164669859d7d23fb539923",
@@ -3549,22 +3557,40 @@
   "key": "8f46d232c097926fe06d27b4f4a4bd6c",
   "original": "mounted heavy rail rifle",
   "translation": "车载 重型轨道步枪",
-  "context": "ID: mounted_heavy_rail_rifle\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_heavy_rail_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_heavy_rail_rifle",
   "stage": 3
+ },
+ {
+  "key": "13b7f4c8ed6b41379cdb7c4ee2800d96",
+  "original": "mounted heavy rail rifle turret",
+  "translation": "mounted heavy rail rifle turret",
+  "context": "ID: mounted_heavy_rail_rifle\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_heavy_rail_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_heavy_rail_rifle",
+  "stage": 1
  },
  {
   "key": "586b01c98b0be2feff1f14c6c0507ad2",
   "original": "mounted lacerator",
   "translation": "车载 圆盘加速器",
-  "context": "ID: mounted_cutter\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_cutter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_cutter",
   "stage": 5
+ },
+ {
+  "key": "e28865f9121f3f52ef8cf98e195d83d4",
+  "original": "mounted lacerator turret",
+  "translation": "mounted lacerator turret",
+  "context": "ID: mounted_cutter\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_cutter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_cutter",
+  "stage": 1
  },
  {
   "key": "6b79ca0c94c860f3686a30f2bb147f6f",
   "original": "mounted laser cannon",
   "translation": "车载 激光炮",
-  "context": "ID: mounted_lasgun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgun",
   "stage": 5
+ },
+ {
+  "key": "c03b7a37ac8c9325cd2fcc0a89c600b8",
+  "original": "mounted laser cannon turret",
+  "translation": "mounted laser cannon turret",
+  "context": "ID: mounted_lasgun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgun",
+  "stage": 1
  },
  {
   "key": "2a156586fdf8099d97d16fdf8259dd2e",
@@ -3583,8 +3609,14 @@
   "key": "d4b01cc2060ea3144d4f99bc7a982296",
   "original": "mounted pulse laser",
   "translation": "车载 脉冲激光炮",
-  "context": "ID: mounted_lasgunp\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgunp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgunp",
   "stage": 5
+ },
+ {
+  "key": "810f7db313da31e1bd06c063cf869aa9",
+  "original": "mounted pulse laser turret",
+  "translation": "mounted pulse laser turret",
+  "context": "ID: mounted_lasgunp\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgunp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgunp",
+  "stage": 1
  },
  {
   "key": "6e9a17899461cd45792d2430b3384e14",
@@ -3602,22 +3634,40 @@
   "key": "6d9320011c720a7e0268caef389686f7",
   "original": "mounted ripper",
   "translation": "车载 撕裂者",
-  "context": "ID: mounted_ripper\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_ripper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_ripper",
   "stage": 3
+ },
+ {
+  "key": "802aacfed922f52abfe0776be6268066",
+  "original": "mounted ripper turret",
+  "translation": "mounted ripper turret",
+  "context": "ID: mounted_ripper\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_ripper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_ripper",
+  "stage": 1
  },
  {
   "key": "1b456415a9fec3697fa2bb95081481c8",
   "original": "mounted rotary cannon",
   "translation": "车载 转轮式加农炮",
-  "context": "ID: mounted_gattler\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_gattler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_gattler",
   "stage": 3
+ },
+ {
+  "key": "a6f61d2b096064bc32ec35c7be3755ab",
+  "original": "mounted rotary cannon turret",
+  "translation": "mounted rotary cannon turret",
+  "context": "ID: mounted_gattler\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_gattler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_gattler",
+  "stage": 1
  },
  {
   "key": "22a38586d7c2673872cd97b4ce8d9aec",
   "original": "mounted scorpion ballista",
   "translation": "车载 毒蝎型弩炮",
-  "context": "ID: mounted_scorpion\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_scorpion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_scorpion",
   "stage": 5
+ },
+ {
+  "key": "d534e7212689f2cb88a5f450c77dfc1e",
+  "original": "mounted scorpion ballista turret",
+  "translation": "mounted scorpion ballista turret",
+  "context": "ID: mounted_scorpion\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_scorpion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_scorpion",
+  "stage": 1
  },
  {
   "key": "d57b465d0af9768eeb6fe5e1cae6b4b7",
@@ -3629,29 +3679,53 @@
   "key": "2a3d2deba37f46f547abe1503a8d229e",
   "original": "mounted slingshot cannon",
   "translation": "车载 弹射加农炮",
-  "context": "ID: mounted_cangun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_cangun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_cangun",
   "stage": 5
+ },
+ {
+  "key": "e99534d85c10af9b8b35cf92e98c8de7",
+  "original": "mounted slingshot cannon turret",
+  "translation": "mounted slingshot cannon turret",
+  "context": "ID: mounted_cangun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_cangun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_cangun",
+  "stage": 1
  },
  {
   "key": "a1a4ec8e1bf8a5b90dd23fe9590d101c",
   "original": "mounted speargun",
   "translation": "车载 矛枪",
-  "context": "ID: mounted_slauncher\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_slauncher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_slauncher",
   "stage": 5
+ },
+ {
+  "key": "b83480a3b05e46b7d1b87bb780f2b2d9",
+  "original": "mounted speargun turret",
+  "translation": "mounted speargun turret",
+  "context": "ID: mounted_slauncher\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_slauncher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_slauncher",
+  "stage": 1
  },
  {
   "key": "2bf594b756d05676f05c83cdfe97bbfd",
   "original": "mounted tesla cannon",
   "translation": "车载 特斯拉加农炮",
-  "context": "ID: mounted_teslagun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_teslagun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_teslagun",
   "stage": 5
+ },
+ {
+  "key": "2f9516026fd548f90a0b21793252b72f",
+  "original": "mounted tesla cannon turret",
+  "translation": "mounted tesla cannon turret",
+  "context": "ID: mounted_teslagun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_teslagun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_teslagun",
+  "stage": 1
  },
  {
   "key": "e73d9f90ec0f99869506477563e21cf4",
   "original": "mounted turbolaser",
   "translation": "车载 高能激光炮",
-  "context": "ID: mounted_lasgunx\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgunx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgunx",
   "stage": 5
+ },
+ {
+  "key": "9e0299f7f47681fedab3201950544ed0",
+  "original": "mounted turbolaser turret",
+  "translation": "mounted turbolaser turret",
+  "context": "ID: mounted_lasgunx\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_custom_turret.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgunx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgunx",
+  "stage": 1
  },
  {
   "key": "e1a5ec495addd69051ea65d17933a842",
@@ -3986,14 +4060,12 @@
   "key": "0b1ffa5540ac6508f883c1e21281a0bd",
   "original": "pulse laser turret",
   "translation": "脉冲激光炮炮塔",
-  "context": "ID: mounted_lasgunp\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgunp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgunp",
   "stage": 5
  },
  {
   "key": "d2bfc6cc36e9dc7564013a2927588f78",
   "original": "rail rifle turret",
   "translation": "轨道步枪炮塔",
-  "context": "ID: mounted_rebar_rifle\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_rebar_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_rebar_rifle",
   "stage": 5
  },
  {
@@ -4042,7 +4114,6 @@
   "key": "473c81d25652cefedcdb8b11847d945d",
   "original": "ripper turret",
   "translation": "撕裂者炮塔",
-  "context": "ID: mounted_ripper\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_ripper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_ripper",
   "stage": 5
  },
  {
@@ -4056,7 +4127,6 @@
   "key": "8cbf13b213474c5cb43e9f693c310276",
   "original": "rotary cannon turret",
   "translation": "转轮式加农炮炮塔",
-  "context": "ID: mounted_gattler1\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_gattler1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_gattler1",
   "stage": 5
  },
  {
@@ -4098,7 +4168,6 @@
   "key": "fead2950c6c7ac157ad239ce158e3b7f",
   "original": "scorpion turret",
   "translation": "毒蝎型 弩机炮塔",
-  "context": "ID: mounted_scorpion\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_scorpion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_scorpion",
   "stage": 5
  },
  {
@@ -4167,7 +4236,6 @@
   "key": "ab4b66466306e79e691b8d4e5bfb8f4b",
   "original": "slingshot cannon turret",
   "translation": "弹弓炮炮塔",
-  "context": "ID: mounted_cangun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_cangun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_cangun",
   "stage": 5
  },
  {
@@ -4209,7 +4277,6 @@
   "key": "4e1cc5db042c829119d8e16add9d3603",
   "original": "speargun turret",
   "translation": "矛枪炮塔",
-  "context": "ID: mounted_slauncher\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_slauncher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_slauncher",
   "stage": 5
  },
  {
@@ -4299,7 +4366,6 @@
   "key": "e8957d78a1390e570ad5a66ef3dcfefd",
   "original": "tesla turret",
   "translation": "磁暴线圈炮炮塔",
-  "context": "ID: mounted_teslagun\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_teslagun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_teslagun",
   "stage": 5
  },
  {
@@ -4320,7 +4386,6 @@
   "key": "40779c80ec7c2a9d2b34dc2f211ae834",
   "original": "turbolaser turret",
   "translation": "高能激光炮塔",
-  "context": "ID: mounted_lasgunx\n位于 /Kenan-Structured-Modpack/blazemod/vehicleparts/blaze_weapons_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#blazemod→vehicle_part→mounted_lasgunx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_lasgunx",
   "stage": 5
  },
  {
