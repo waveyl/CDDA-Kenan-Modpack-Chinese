@@ -107,7 +107,7 @@
   "key": "4cec00664e23ad7acad6966bd919b74c",
   "original": "\"Vessel\" module - <color_light_green>online",
   "translation": "“船舶”模块-<color_light_green>在线",
-  "context": "ID: secro_power_armor_atk\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_atk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_atk",
+  "context": "ID: secro_power_armor_module_vessel\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_vessel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_vessel",
   "stage": 5
  },
  {
@@ -121,7 +121,7 @@
   "key": "0e7062088cba8055f1bea756c08dadf7",
   "original": "\"Vessel\" module - <color_red>offline",
   "translation": "“船只”模块- <color_red>离线",
-  "context": "ID: secro_power_armor_atk_on\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_atk_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_atk_on",
+  "context": "ID: secro_power_armor_module_vessel_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_vessel_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_vessel_act",
   "stage": 5
  },
  {
@@ -722,14 +722,12 @@
   "key": "a57cfe4237765bc04eb4adacce2dde82",
   "original": "<color_light_blue>gunner creation</color> - bone rifle",
   "translation": "<color_light_blue>神枪手造物</color>-骨步枪",
-  "context": "ID: secro_power_armor_flesh_created_gun_bonerifle\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GUN→secro_power_armor_flesh_created_gun_bonerifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_gun_bonerifle",
   "stage": 5
  },
  {
   "key": "ecac7b2d21e296f06e9fadabde626153",
   "original": "<color_light_green>Forming successful!</color>",
   "translation": "<color_light_green>成型成功！</color>",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
   "stage": 5
  },
  {
@@ -1020,7 +1018,6 @@
   "key": "99a5298f63728582d2b246b2d0f6bfa3",
   "original": "<color_light_red>fighter creation</color> - bone spear",
   "translation": "<color_light_red>战士造物</color>-骨矛",
-  "context": "ID: secro_power_armor_flesh_created_fite_bspear\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→secro_power_armor_flesh_created_fite_bspear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_fite_bspear",
   "stage": 5
  },
  {
@@ -1048,21 +1045,18 @@
   "key": "4c4b76e149da91b5b4f5be4054ef8e3c",
   "original": "<color_pink>[FORM]</color> <color_light_blue>gunner creation</color> - bone rifle\n\nCommands the flesh vessel to form <color_light_blue>gunner creation</color> - bone rifle for a limited time. Requires flesh to perform.",
   "translation": "<color_pink>[形成]</color><color_light_blue>神枪手造物</color>-骨步枪\n\n命令脉管装甲在一定时间内形成<color_light_blue>神枪手造物</color>-骨步枪。需要血肉来运行。",
-  "context": "ID: secro_power_armor_flesh_created_gun_bonerifle_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_gun_bonerifle_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_gun_bonerifle_give",
   "stage": 3
  },
  {
   "key": "3c2a3f8b7770bfdea3b751bcd26b1ef0",
   "original": "<color_pink>[FORM]</color> <color_light_red>fighter creation</color> - bone spear\n\nCommands the flesh vessel to form <color_light_red>fighter creation</color> - bone spear for a limited time. Requires flesh to perform.",
   "translation": "<color_pink>[形成]</color><color_light_red>战士造物</color>-骨矛\n\n命令肉身血管在一定时间内形成<color_light_red>战士造物</color>-骨矛。需要血肉来完成。",
-  "context": "ID: secro_power_armor_flesh_created_fite_bspear_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_fite_bspear_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_fite_bspear_give",
   "stage": 3
  },
  {
   "key": "63ba7428f545c7d077d913da8fe4364d",
   "original": "<color_pink>[FORM]</color> <color_yellow>juggernaut creation</color> - bone pick\n\nCommands the flesh vessel to form <color_yellow>juggernaut creation</color> - bone pick for a limited time. Requires flesh to perform.",
   "translation": "<color_pink>[形成]</color><color_yellow>巨像造物</color>-骨镐 \n\n命令脉管装甲在一定时间内形成<color_yellow>巨像造物</color>-骨镐 。需要血肉来完成。",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
   "stage": 5
  },
  {
@@ -1305,7 +1299,6 @@
   "key": "b26ce97230d20b5b299c23d86ff75056",
   "original": "<color_yellow>juggernaut creation</color> - bone pick",
   "translation": "<color_yellow>巨像造物</color> - 骨镐",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL→secro_power_armor_flesh_created_jugg_bpick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick",
   "stage": 3
  },
  {
@@ -2310,7 +2303,7 @@
   "key": "ccc385ef88d1162adf22d77ad46706b9",
   "original": "Activate \"Vessel\" module",
   "translation": "激活“容器”模块",
-  "context": "ID: secro_power_armor_atk\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_atk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_atk",
+  "context": "ID: secro_power_armor_module_vessel\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_vessel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_vessel",
   "stage": 5
  },
  {
@@ -2825,21 +2818,18 @@
   "key": "d951dc871b0ee65502665dd27320cf8c",
   "original": "Bone Pick",
   "translation": "骨镐",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
   "stage": 5
  },
  {
   "key": "713e82ef8e5bfddc3cbb2f625edeada7",
   "original": "Bone Rifle",
   "translation": "骨步枪",
-  "context": "ID: secro_power_armor_flesh_created_gun_bonerifle_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_gun_bonerifle_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_gun_bonerifle_give",
   "stage": 5
  },
  {
   "key": "2a921ea5dc2643a463530ef74947b9e7",
   "original": "Bone Spear",
   "translation": "骨矛",
-  "context": "ID: secro_power_armor_flesh_created_fite_bspear_give\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→secro_power_armor_flesh_created_fite_bspear_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_fite_bspear_give",
   "stage": 5
  },
  {
@@ -3288,7 +3278,7 @@
   "key": "c98dc471097bf4dcee510abd00322c36",
   "original": "Deactivate \"Vessel\" module",
   "translation": "停用“容器”模块",
-  "context": "ID: secro_power_armor_atk_on\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_atk_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_atk_on",
+  "context": "ID: secro_power_armor_module_vessel_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_vessel_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_module_vessel_act",
   "stage": 5
  },
  {
@@ -3602,21 +3592,18 @@
   "key": "d7d599d2cda2fdac493a3af31093956d",
   "original": "Formed using the flesh's versatile cell reconstruction. This bio-organic pickaxe has an intensely compressed bone on its head and a calcified flesh as its handle.",
   "translation": "利用肌肉的多功能细胞重建而成。这种生物有机鹤嘴锄头上有一块高度压缩的骨头，柄上有一块钙化的肉。",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL→secro_power_armor_flesh_created_jugg_bpick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick",
   "stage": 5
  },
  {
   "key": "1e9fd8252345de851aae71cba9a0c230",
   "original": "Formed using the flesh's versatile cell reconstruction. This bio-organic rifle shoots needle-like bone projectiles toward its target. It has no trigger mechanism, the rifle only responds to the user's command. Once it receives an input, it generates a tendon shock in the chamber that projects the bullet through its long barrel with high velocity.\n\nActivate to perform:\n<color_cyan><color_pink>[FORM]</color> Replenish</color> - <color_yellow>800 moves</color>/<color_light_red>5 hp (random)</color>\n<color_white>* Your bone rifle creation commands the vessel to form a stack of bone needles by processing the user's flesh.</color>",
   "translation": "利用肉体的多功能细胞重建而成。这种生物有机步枪向目标发射针状骨弹。它没有触发机制，步枪只响应用户的命令。一旦它接收到输入，它就会在弹膛中产生肌腱冲击，以高速将子弹穿过它的长筒。\n\n激活执行：\n <color_cyan> <color_pink>[表单] </color>补充- <color_yellow> 800移动/ <color_light_red> 5 hp（随机）\n<color_white> *你创建的骨步枪命令血管通过处理用户的肉来形成一堆骨针。</color>",
-  "context": "ID: secro_power_armor_flesh_created_gun_bonerifle\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GUN→secro_power_armor_flesh_created_gun_bonerifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_gun_bonerifle",
   "stage": 5
  },
  {
   "key": "e8479fe189761642952d0507e47b8c75",
   "original": "Formed using the flesh's versatile cell reconstruction. This bio-organic spear is tipped with a barbed bone head, while the rest is made of flesh webbings and fibers.",
   "translation": "利用肌肉的多功能细胞重建而成。这种生物有机长矛顶端有一个带刺的骨头，而其余的是由肉织带和纤维制成的。",
-  "context": "ID: secro_power_armor_flesh_created_fite_bspear\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→secro_power_armor_flesh_created_fite_bspear\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_fite_bspear",
   "stage": 5
  },
  {
@@ -4750,7 +4737,6 @@
   "key": "80670492d36c396051d77bf5602f301b",
   "original": "Protruding from your shoulders are small, oddly-shaped and short-lived frond emitting strong light. Can be detached.",
   "translation": "从你的肩膀突出的是小的、形状奇怪的、寿命短暂的叶子，散发出强烈的光。可以超脱。",
-  "context": "ID: secro_power_armor_flesh_biolight\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→ARMOR→secro_power_armor_flesh_biolight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_biolight",
   "stage": 1
  },
  {
@@ -10973,7 +10959,6 @@
   "key": "ddda9477961c23c3968a8845037c6935",
   "original": "bioluminescent frond",
   "translation": "生物发光叶",
-  "context": "ID: secro_power_armor_flesh_biolight\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_creation.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→ARMOR→secro_power_armor_flesh_biolight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_biolight",
   "stage": 1
  },
  {
