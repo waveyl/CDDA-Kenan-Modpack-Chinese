@@ -434,6 +434,13 @@
   "stage": 3
  },
  {
+  "key": "28d5d53226be8aa8da42d9cbdd312e62",
+  "original": "Casual",
+  "translation": "Casual",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 1
+ },
+ {
   "key": "9635c4817dfa223f82bdc13b3335a7fc",
   "original": "Chop some wood from Infinitree",
   "translation": "砍伐无尽树",
@@ -465,7 +472,6 @@
   "key": "418e617541bc8803319287f41fa4bb45",
   "original": "Difficulty set to Casual.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
   "translation": "难度设定为普通难度.你可以随时通过难度调整石板重新设置.",
-  "context": "ID: EOC_difficulty1\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty1",
   "stage": 3
  },
  {
@@ -478,7 +484,6 @@
   "key": "ac199a99609deee321b8146f14b4b735",
   "original": "Difficulty set to Hard.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
   "translation": "难度设定为困难模式.你可以随时通过难度调整石板重新设置.",
-  "context": "ID: EOC_difficulty2\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty2",
   "stage": 3
  },
  {
@@ -491,7 +496,6 @@
   "key": "010221793564d737bfcc315ec225f29b",
   "original": "Difficulty set to Impossible.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
   "translation": "难度设定为极难模式.你可以随时通过难度调整石板重新设置.",
-  "context": "ID: EOC_difficulty3\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty3",
   "stage": 3
  },
  {
@@ -883,7 +887,6 @@
   "key": "8508e55edea97d43ca7276d303e972bd",
   "original": "Take a full minute of concentration and return to the safety of your home base.  THIS SPELL IS FOR EMERGENCIES AND CHEATERS ONLY -- USE IN THE EVENT YOUR EXIT ROOM DID NOT SPAWN SUCCESSFULLY.",
   "translation": "只需花上一分钟来集中注意力，然后你就回到安全的浮空岛上了！此法术仅适用于作弊或特殊情况使用——在你的回归点未正常生成时使用。",
-  "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home",
   "stage": 3
  },
  {
@@ -987,7 +990,6 @@
   "key": "02c20259eaa4142c31011c4aab0c409c",
   "original": "The warding stone crackles with static electricity.",
   "translation": "驱散石发出噼啪的静电声.",
-  "context": "ID: EOC_CHECK_ISLANDSTORM\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_CHECK_ISLANDSTORM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_CHECK_ISLANDSTORM",
   "stage": 3
  },
  {
@@ -1164,7 +1166,6 @@
   "key": "393172eb672ddbf8139ba8a0e0e5cb67",
   "original": "This stone can only be used in your sanctuary!",
   "translation": "这块石头只能在岛上激活!",
-  "context": "ID: EOC_CHECK_ISLANDSTORM\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_CHECK_ISLANDSTORM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_CHECK_ISLANDSTORM",
   "stage": 3
  },
  {
@@ -1223,7 +1224,6 @@
   "key": "dc236b9736b1bf838333a51c94947fdf",
   "original": "Total expeditions: <u_val:raidstotal> \nWins: <u_val:raidswon> \nLosses: <u_val:raidslost> \nMissions complete: <u_val:missionswon> \nSlaughter missions complete: <u_val:slaughterswon>\n\nCurrent difficulty settings:\nWarpsickness at: 8 pulses.\nDisintegration at: 12 pulses.\nPulses every: <global_val:readablesicknessintervals> minutes.",
   "translation": "探险总次数: <u_val:raidstotal> \n存活次数: <u_val:raidswon> \n死亡次数: <u_val:raidslost> \n任务完成数: <u_val:missionswon> \n歼灭类任务完成数: <u_val:slaughterswon>\n\n当前难度设置:\n扭曲病时限: 8 次“脉冲”\n解体时限: 12 次“脉冲”\n扭曲脉冲间隔: <global_val:readablesicknessintervals> minutes.",
-  "context": "ID: EOC_statcheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_statcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statcheck",
   "stage": 3
  },
  {
@@ -1251,7 +1251,6 @@
   "key": "0f906eb81ee3500e17b032f765c129d5",
   "original": "Warp Home",
   "translation": "回归传送术",
-  "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home",
   "stage": 3
  },
  {

@@ -878,6 +878,12 @@ ${getItemBrowserLink(fullItem)}`
     }
     if (Array.isArray(item.effect)) {
       for (let effects of item.effect) {
+        if (Array.isArray(effects.names)){
+          effects.names = await Promise.all(effects.names.map((msg) => translateFunction(msg)));
+        }
+        if (Array.isArray(effects.descriptions)){
+          effects.descriptions = await Promise.all(effects.descriptions.map((msg) => translateFunction(msg)));
+        }
         effects.fail_message = await translateFunction(effects.fail_message);
         effects.u_message = await translateFunction(effects.u_message);
         if (effects?.u_cast_spell?.message)
