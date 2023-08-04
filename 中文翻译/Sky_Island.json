@@ -472,6 +472,7 @@
   "key": "418e617541bc8803319287f41fa4bb45",
   "original": "Difficulty set to Casual.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
   "translation": "难度设定为普通难度.你可以随时通过难度调整石板重新设置.",
+  "context": "ID: EOC_difficulty1\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty1",
   "stage": 3
  },
  {
@@ -484,6 +485,7 @@
   "key": "ac199a99609deee321b8146f14b4b735",
   "original": "Difficulty set to Hard.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
   "translation": "难度设定为困难模式.你可以随时通过难度调整石板重新设置.",
+  "context": "ID: EOC_difficulty2\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty2",
   "stage": 3
  },
  {
@@ -496,6 +498,7 @@
   "key": "010221793564d737bfcc315ec225f29b",
   "original": "Difficulty set to Impossible.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
   "translation": "难度设定为极难模式.你可以随时通过难度调整石板重新设置.",
+  "context": "ID: EOC_difficulty3\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty3",
   "stage": 3
  },
  {
@@ -545,6 +548,12 @@
   "stage": 3
  },
  {
+  "key": "3656183169810334a96b91129dc9d881",
+  "original": "Hard",
+  "translation": "困难",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+ },
+ {
   "key": "dc072828abaa1968f84275d0861de1d1",
   "original": "If you want to get home with your stuff, you'll need to reach one of these nearby warp points.  They're only things that can bring you back to your sanctuary island in one piece.",
   "translation": "要是你想把你收集的战利品带回去，你需要找到附近的某个回归传送点。它们是唯一能让你完好无损回到岛上的东西。",
@@ -558,10 +567,30 @@
   "stage": 3
  },
  {
+  "key": "011d7bb0c88f95394e3a8d417304b218",
+  "original": "Impossible",
+  "translation": "不可能",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+ },
+ {
+  "key": "b83360989f53e6deb9eead45138b20d5",
+  "original": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes.  This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours.  You will have more time for activities and reaching the extract should generally not be a problem.",
+  "translation": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes.  This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours.  You will have more time for activities and reaching the extract should generally not be a problem.",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 1
+ },
+ {
   "key": "4c7a9951e458a0b52a58179cf8c210b4",
   "original": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes. This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours. You will have more time for activities and reaching the extract should generally not be a problem.\n\nDo you wish to play in Casual Difficulty? Choosing no will provide other options.",
   "translation": "休闲模式，时间限制更为宽松。\n此难度下“扭曲脉冲”的间隔为90分钟。这意味着你拥有12个小时来进行探险，停留超过18小时才会受到“解体”状态影响。此难度下你拥有充裕的时间进行活动或收集额外物资。\n\n确定以休闲模式进行游玩？按否以切换难度。",
   "stage": 3
+ },
+ {
+  "key": "5bcc544e5cc80f3e951880318d3e017b",
+  "original": "In Hard difficulty, time limits are strict.\nWarp pulses occur every 30 minutes.  This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours.  You will have much less time to spare and must make getting to the exit your immediate priority.",
+  "translation": "In Hard difficulty, time limits are strict.\nWarp pulses occur every 30 minutes.  This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours.  You will have much less time to spare and must make getting to the exit your immediate priority.",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 1
  },
  {
   "key": "51ce9521a4068fad89b671c2c9d2b82b",
@@ -570,10 +599,24 @@
   "stage": 3
  },
  {
+  "key": "aa6b5fe9a9835f5e4cb3d938870b97e5",
+  "original": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes.  This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours.  Reaching the extract alive will take all the time you can spare, and warp sickness will be common.  You will not be given mercy!",
+  "translation": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes.  This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours.  Reaching the extract alive will take all the time you can spare, and warp sickness will be common.  You will not be given mercy!",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 1
+ },
+ {
   "key": "cb86c395a6f768f4ea7a0170c57dcc31",
   "original": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes. This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours. Reaching the extract alive will take all the time you can spare, and warp sickness will be common. You will not be given mercy!\n\nDo you wish to play in Impossible Difficulty? Choosing no will restart this menu.",
   "translation": "极难模式,每次探索都刻不容缓.\n此难度下“扭曲脉冲”的间隔仅为15分钟.仅仅2小时后你便会受到“扭曲病”的影响, 停留超过3小时就会获得“解体”状态. 活着抵达撤离点将会花费你的所有精力.扭曲病也将变得习以为常.一切事物都不会怜悯你!\n\n确定以极难模式进行游玩?.",
   "stage": 3
+ },
+ {
+  "key": "38b0476cfd2cf2b793f02da40ac7ec13",
+  "original": "In Normal Difficulty, pulses occur every 45 minutes.  This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\nThis is the intended way to play.  Getting to the exit is not a cakewalk, but you should have time to explore while earthside.",
+  "translation": "In Normal Difficulty, pulses occur every 45 minutes.  This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\nThis is the intended way to play.  Getting to the exit is not a cakewalk, but you should have time to explore while earthside.",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 1
  },
  {
   "key": "442182a4d36e985132bdc57d1f29e781",
@@ -762,6 +805,12 @@
   "stage": 3
  },
  {
+  "key": "960b44c579bc2f6818d2daaf9e4c16f0",
+  "original": "Normal",
+  "translation": "普通",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+ },
+ {
   "key": "a43ceae0d38c98438c1cd5953f1db554",
   "original": "Now, let's select your difficulty mode!\n\nThis only affects how long the expedition timer is.  It won't change combat difficulty or any other settings.",
   "translation": "现在，请选择你想要的游戏难度！\n\n游戏难度只会影响你的最大探险时长。除此之外不会影响其他参数和设置。",
@@ -887,6 +936,7 @@
   "key": "8508e55edea97d43ca7276d303e972bd",
   "original": "Take a full minute of concentration and return to the safety of your home base.  THIS SPELL IS FOR EMERGENCIES AND CHEATERS ONLY -- USE IN THE EVENT YOUR EXIT ROOM DID NOT SPAWN SUCCESSFULLY.",
   "translation": "只需花上一分钟来集中注意力，然后你就回到安全的浮空岛上了！此法术仅适用于作弊或特殊情况使用——在你的回归点未正常生成时使用。",
+  "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home",
   "stage": 3
  },
  {
@@ -990,6 +1040,7 @@
   "key": "02c20259eaa4142c31011c4aab0c409c",
   "original": "The warding stone crackles with static electricity.",
   "translation": "驱散石发出噼啪的静电声.",
+  "context": "ID: EOC_CHECK_ISLANDSTORM\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_CHECK_ISLANDSTORM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_CHECK_ISLANDSTORM",
   "stage": 3
  },
  {
@@ -1166,6 +1217,7 @@
   "key": "393172eb672ddbf8139ba8a0e0e5cb67",
   "original": "This stone can only be used in your sanctuary!",
   "translation": "这块石头只能在岛上激活!",
+  "context": "ID: EOC_CHECK_ISLANDSTORM\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_CHECK_ISLANDSTORM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_CHECK_ISLANDSTORM",
   "stage": 3
  },
  {
@@ -1224,6 +1276,7 @@
   "key": "dc236b9736b1bf838333a51c94947fdf",
   "original": "Total expeditions: <u_val:raidstotal> \nWins: <u_val:raidswon> \nLosses: <u_val:raidslost> \nMissions complete: <u_val:missionswon> \nSlaughter missions complete: <u_val:slaughterswon>\n\nCurrent difficulty settings:\nWarpsickness at: 8 pulses.\nDisintegration at: 12 pulses.\nPulses every: <global_val:readablesicknessintervals> minutes.",
   "translation": "探险总次数: <u_val:raidstotal> \n存活次数: <u_val:raidswon> \n死亡次数: <u_val:raidslost> \n任务完成数: <u_val:missionswon> \n歼灭类任务完成数: <u_val:slaughterswon>\n\n当前难度设置:\n扭曲病时限: 8 次“脉冲”\n解体时限: 12 次“脉冲”\n扭曲脉冲间隔: <global_val:readablesicknessintervals> minutes.",
+  "context": "ID: EOC_statcheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_statcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statcheck",
   "stage": 3
  },
  {
@@ -1251,6 +1304,7 @@
   "key": "0f906eb81ee3500e17b032f765c129d5",
   "original": "Warp Home",
   "translation": "回归传送术",
+  "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home",
   "stage": 3
  },
  {
