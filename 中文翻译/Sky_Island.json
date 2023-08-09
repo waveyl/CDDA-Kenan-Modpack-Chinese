@@ -436,9 +436,9 @@
  {
   "key": "28d5d53226be8aa8da42d9cbdd312e62",
   "original": "Casual",
-  "translation": "Casual",
+  "translation": "休闲",
   "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9635c4817dfa223f82bdc13b3335a7fc",
@@ -551,7 +551,8 @@
   "key": "3656183169810334a96b91129dc9d881",
   "original": "Hard",
   "translation": "困难",
-  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 3
  },
  {
   "key": "dc072828abaa1968f84275d0861de1d1",
@@ -569,15 +570,16 @@
  {
   "key": "011d7bb0c88f95394e3a8d417304b218",
   "original": "Impossible",
-  "translation": "不可能",
-  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  "translation": "极难",
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 3
  },
  {
   "key": "b83360989f53e6deb9eead45138b20d5",
   "original": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes.  This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours.  You will have more time for activities and reaching the extract should generally not be a problem.",
-  "translation": "In Casual difficulty, time limits are more relaxed.\nWarp pulses occur every 90 minutes.  This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours.  You will have more time for activities and reaching the extract should generally not be a problem.",
+  "translation": "休闲模式,时间限制更为宽松.\n此难度下\"扭曲脉冲\"的间隔为90分钟.这意味着你拥有12个小时来进行探险,停留超过18小时才会受到\"解体\"状态影响.此难度下你拥有充裕的时间进行活动或收集额外物资.",
   "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4c7a9951e458a0b52a58179cf8c210b4",
@@ -588,9 +590,9 @@
  {
   "key": "5bcc544e5cc80f3e951880318d3e017b",
   "original": "In Hard difficulty, time limits are strict.\nWarp pulses occur every 30 minutes.  This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours.  You will have much less time to spare and must make getting to the exit your immediate priority.",
-  "translation": "In Hard difficulty, time limits are strict.\nWarp pulses occur every 30 minutes.  This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours.  You will have much less time to spare and must make getting to the exit your immediate priority.",
+  "translation": "困难模式,时间变得更为紧迫.\n此难度下“扭曲脉冲”的间隔为30分钟. 这意味着你只有4个小时来进行探险,停留超过6小时就会受到“解体”状态影响.你可以腾出手的时间会少得多,最好把抵达撤离点作为你的首要目标.",
   "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "51ce9521a4068fad89b671c2c9d2b82b",
@@ -601,9 +603,9 @@
  {
   "key": "aa6b5fe9a9835f5e4cb3d938870b97e5",
   "original": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes.  This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours.  Reaching the extract alive will take all the time you can spare, and warp sickness will be common.  You will not be given mercy!",
-  "translation": "In Impossible difficulty, time limits are extremely tight.\nWarp pulses occur every 15 minutes.  This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours.  Reaching the extract alive will take all the time you can spare, and warp sickness will be common.  You will not be given mercy!",
+  "translation": "极难模式,每次探索都刻不容缓.\n此难度下“扭曲脉冲”的间隔仅为15分钟.仅仅2小时后你便会受到“扭曲病”的影响, 停留超过3小时就会获得“解体”状态. 活着抵达撤离点将会花费你的所有精力.扭曲病也将变得习以为常.一切事物都不会怜悯你!",
   "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb86c395a6f768f4ea7a0170c57dcc31",
@@ -614,9 +616,9 @@
  {
   "key": "38b0476cfd2cf2b793f02da40ac7ec13",
   "original": "In Normal Difficulty, pulses occur every 45 minutes.  This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\nThis is the intended way to play.  Getting to the exit is not a cakewalk, but you should have time to explore while earthside.",
-  "translation": "In Normal Difficulty, pulses occur every 45 minutes.  This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\nThis is the intended way to play.  Getting to the exit is not a cakewalk, but you should have time to explore while earthside.",
+  "translation": "普通难度.\n此难度下“扭曲脉冲”的间隔为45分钟,这意味着你拥有6个小时进行探险、消灭敌人、寻找物资、以及找到回归传送点.在此之后你会逐渐受到“扭曲病”的影响. 停留超过8小时,你会受到“解体”状态影响.\n此难度为默认难度,此难度下玩家有足够的搜索时间以及不算轻松的回归难度.",
   "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "442182a4d36e985132bdc57d1f29e781",
@@ -808,7 +810,8 @@
   "key": "960b44c579bc2f6818d2daaf9e4c16f0",
   "original": "Normal",
   "translation": "普通",
-  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck",
+  "stage": 3
  },
  {
   "key": "a43ceae0d38c98438c1cd5953f1db554",
