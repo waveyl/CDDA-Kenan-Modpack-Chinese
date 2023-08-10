@@ -1276,10 +1276,16 @@
   "stage": 3
  },
  {
+  "key": "76371591ff70599076375e3df6188cd0",
+  "original": "Total expeditions: <global_val:raidstotal> \nWins: <global_val:raidswon> \nLosses: <global_val:raidslost> \nMissions complete: <u_val:missionswon> \nSlaughter missions complete: <global_val:slaughterswon>\n\nCurrent difficulty settings:\nWarpsickness at: 8 pulses.\nDisintegration at: 12 pulses.\nPulses every: <global_val:readablesicknessintervals> minutes.",
+  "translation": "Total expeditions: <global_val:raidstotal> \nWins: <global_val:raidswon> \nLosses: <global_val:raidslost> \nMissions complete: <u_val:missionswon> \nSlaughter missions complete: <global_val:slaughterswon>\n\nCurrent difficulty settings:\nWarpsickness at: 8 pulses.\nDisintegration at: 12 pulses.\nPulses every: <global_val:readablesicknessintervals> minutes.",
+  "context": "ID: EOC_statcheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_statcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statcheck",
+  "stage": 1
+ },
+ {
   "key": "dc236b9736b1bf838333a51c94947fdf",
   "original": "Total expeditions: <u_val:raidstotal> \nWins: <u_val:raidswon> \nLosses: <u_val:raidslost> \nMissions complete: <u_val:missionswon> \nSlaughter missions complete: <u_val:slaughterswon>\n\nCurrent difficulty settings:\nWarpsickness at: 8 pulses.\nDisintegration at: 12 pulses.\nPulses every: <global_val:readablesicknessintervals> minutes.",
   "translation": "探险总次数: <u_val:raidstotal> \n存活次数: <u_val:raidswon> \n死亡次数: <u_val:raidslost> \n任务完成数: <u_val:missionswon> \n歼灭类任务完成数: <u_val:slaughterswon>\n\n当前难度设置:\n扭曲病时限: 8 次“脉冲”\n解体时限: 12 次“脉冲”\n扭曲脉冲间隔: <global_val:readablesicknessintervals> minutes.",
-  "context": "ID: EOC_statcheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_statcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statcheck",
   "stage": 3
  },
  {
