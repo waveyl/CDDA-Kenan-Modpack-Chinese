@@ -28,7 +28,7 @@
  {
   "key": "54e6225c3e3955f004c56ce7f6027886",
   "original": "A crude wooden shield, lacking any metal or leather reinforcement.  Tolerable weight but not very tough.",
-  "translation": "A crude wooden shield, lacking any metal or leather reinforcement.  Tolerable weight but not very tough.",
+  "translation": "这是一面粗糙的木盾，没有任何金属或皮革加固。 重量尚可，但并不坚硬。",
   "context": "ID: shield_wooden\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_wooden\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_wooden",
   "stage": 1
  },
@@ -42,14 +42,14 @@
  {
   "key": "505442e19961238b6e2be7f396614d63",
   "original": "A large shield made of wood with leather reinforcement.  Sturdier and stronger than a basic wooden shield, and less encumbering than a metal one.",
-  "translation": "A large shield made of wood with leather reinforcement.  Sturdier and stronger than a basic wooden shield, and less encumbering than a metal one.",
+  "translation": "用皮革加固的木制大盾牌。 它比基本的木盾更坚固结实，也没有金属盾那么笨重。",
   "context": "ID: shield_leather_large\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_leather_large\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_leather_large",
   "stage": 1
  },
  {
   "key": "57a163df9ad0c13d501087b98bddbd21",
   "original": "A large shield made of wood with steel bands reinforcing it.  Stronger than a simple wooden shield, but also more encumbering.",
-  "translation": "A large shield made of wood with steel bands reinforcing it.  Stronger than a simple wooden shield, but also more encumbering.",
+  "translation": "用钢带加固的木质大盾。 比简单的木盾更坚固，但也更笨重。",
   "context": "ID: shield_banded_large\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_banded_large\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_banded_large",
   "stage": 1
  },
@@ -109,14 +109,14 @@
  {
   "key": "828d151e469112f39a403efbf657a937",
   "original": "A simple round shield made of wood with bands of steel reinforcing it.  Stronger than a simple wooden shield, but also more encumbering.",
-  "translation": "A simple round shield made of wood with bands of steel reinforcing it.  Stronger than a simple wooden shield, but also more encumbering.",
+  "translation": "一种用木头制成的简单的圆形盾牌，用钢带加固。比简单的木质盾牌更坚固，但也更笨重。",
   "context": "ID: shield_banded\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_banded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_banded",
   "stage": 1
  },
  {
   "key": "86c310cd1787e0cefad23d84e5e87650",
   "original": "A simple round shield made of wood with leather reinforcement.  Sturdier and stronger than a simple wooden shield, and less encumbering than a metal one.",
-  "translation": "A simple round shield made of wood with leather reinforcement.  Sturdier and stronger than a simple wooden shield, and less encumbering than a metal one.",
+  "translation": "木质加固的简易圆盾。 比简单的木盾更坚固，比金属盾更轻便。",
   "context": "ID: shield_leather\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_leather",
   "stage": 1
  },
@@ -135,8 +135,15 @@
  {
   "key": "9492efc33c8e32d8a4dea7cd9dd24b5e",
   "original": "A small metal shield historically used for dueling rather than protection from arrows.  It's small and light enough to not hinder the use of your hands.",
-  "translation": "A small metal shield historically used for dueling rather than protection from arrows.  It's small and light enough to not hinder the use of your hands.",
+  "translation": "一种小型金属盾牌，历史上曾用于决斗而非防箭。 它小巧轻便，不会妨碍双手的使用。",
   "context": "ID: shield_buckler\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_buckler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_buckler",
+  "stage": 1
+ },
+ {
+  "key": "557672f4628f53943e1e769fd190f7c5",
+  "original": "A steel spear with a small tube attached, to hold an incendiary charge of gunpowder.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "translation": "A steel spear with a small tube attached, to hold an incendiary charge of gunpowder.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "context": "ID: fire_lance\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→GUN→fire_lance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fire_lance",
   "stage": 1
  },
  {
@@ -163,7 +170,6 @@
   "key": "97832390140891a6bdd02d0f5bbf8c67",
   "original": "An ancient Chinese spear, with a small tube attached for an incendiary charge of gunpowder.  While it has an extremely short range, it gives a powerful edge in close combat.",
   "translation": "中国古代的原始火枪，在枪头有个小型铁管可发射单发自制火药弹。虽然它的有效射程极短，但在近战中却能起到强大的优势。",
-  "context": "ID: fire_lance\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→GUN→fire_lance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fire_lance",
   "stage": 1
  },
  {
@@ -175,7 +181,7 @@
  {
   "key": "5d877fa6d5a736c42a5fcbb721d734f5",
   "original": "An crude wooden tower shield, lacking any metal or leather reinforcement.  Bulky, but offers a decent amount of protection.",
-  "translation": "An crude wooden tower shield, lacking any metal or leather reinforcement.  Bulky, but offers a decent amount of protection.",
+  "translation": "简陋的木质塔盾，没有任何金属或皮革加固。 虽然笨重，但能提供不错的保护。",
   "context": "ID: shield_wooden_large\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_wooden_large\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_wooden_large",
   "stage": 1
  },
@@ -338,6 +344,12 @@
   "key": "ca9dbca5a3d56c11dfcaf717e7f86c02",
   "original": "Little more than a small tube capable of holding a charge of gunpowder, secured to a long stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
   "translation": "只不过是一个可以装火药的小管子，固定在一根长棍上。虽然它的有效射程极短，但在近战中却能起到强大的优势。 ",
+  "stage": 1
+ },
+ {
+  "key": "0f6ffa1054f25d4e530d2e3839472418",
+  "original": "Little more than a small tube capable of holding a charge of gunpowder, secured to a stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "translation": "Little more than a small tube capable of holding a charge of gunpowder, secured to a stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
   "context": "ID: fire_lance_crude\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→GUN→fire_lance_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fire_lance_crude",
   "stage": 1
  },
