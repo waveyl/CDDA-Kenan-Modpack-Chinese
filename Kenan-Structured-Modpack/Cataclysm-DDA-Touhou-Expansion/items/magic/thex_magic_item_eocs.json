@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wind_blessing_eoc",
+    "type": "effect_on_condition",
+    "recurrence": "30 m",
+    "condition": { "u_has_trait": "wind_priestess_charm_mut" },
+    "deactivate_condition": { "not": { "u_has_trait": "wind_priestess_charm_mut" } },
+    "effect": [
+      {
+        "queue_eocs": [
+          {
+            "id": "wind_blessing_randomization_eoc",
+            "condition": { "u_has_trait": "wind_priestess_charm_mut" },
+            "effect": [
+              { "math": [ "var_wind_blessing_dex", "=", "rand(3)" ] },
+              { "math": [ "var_wind_blessing_int", "=", "rand(3)" ] },
+              { "math": [ "var_wind_blessing_per", "=", "rand(3)" ] },
+              { "math": [ "var_wind_blessing_str", "=", "rand(3)" ] }
+            ],
+            "false_effect": [
+              { "math": [ "var_wind_blessing_dex", "=", "0" ] },
+              { "math": [ "var_wind_blessing_int", "=", "0" ] },
+              { "math": [ "var_wind_blessing_per", "=", "0" ] },
+              { "math": [ "var_wind_blessing_str", "=", "0" ] }
+            ]
+          }
+        ],
+        "time_in_future": "30 m"
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "night_parade",
+    "type": "weather_type",
+    "name": "Misty",
+    "color": "red",
+    "map_color": "h_red",
+    "sym": "x",
+    "ranged_penalty": 0,
+    "sight_penalty": 1.0,
+    "light_modifier": -10,
+    "sound_attn": 0,
+    "dangerous": true,
+    "precip": "none",
+    "rains": false,
+    "duration_min": "8 h",
+    "duration_max": "10 h",
+    "required_weathers": [ "sunny" ],
+    "priority": 50,
+    "condition": {
+      "and": [ "is_night", { "math": [ "night_parade_proc", "<", "4" ] } ]
+    },
+    "//": "Should happen ONLY at night !!!",
+    "//2": "Super WIP: this should spawn lots of hostile youkai enemies, probably a mid-endgame weather or triggered event"
+  },
+  {
+    "id": "scarlet_fog",
+    "type": "weather_type",
+    "name": "Foggy",
+    "color": "red",
+    "map_color": "h_light_red",
+    "sym": ".",
+    "ranged_penalty": 3,
+    "sight_penalty": 1.2,
+    "light_modifier": -20,
+    "sun_multiplier": 0.35,
+    "sound_attn": 0,
+    "dangerous": false,
+    "precip": "none",
+    "rains": false,
+    "sound_category": "cloudy",
+    "required_weathers": [ "scarlet_mist" ],
+    "priority": 50,
+    "condition": {
+      "or": [
+        { "math": [ "weather('humidity')", ">=", "97" ] },
+        { "math": [ "weather('pressure')", ">", "1005" ] },
+        { "math": [ "weather('windpower')", "<", "5" ] },
+        { "math": [ "weather('windpower')", ">", "1" ] }
+      ]
+    }
+  },
+  {
+    "id": "scarlet_mist",
+    "type": "weather_type",
+    "name": "Misty",
+    "color": "red",
+    "map_color": "h_light_red",
+    "sym": ".",
+    "ranged_penalty": 1,
+    "sight_penalty": 1.1,
+    "light_modifier": -15,
+    "sun_multiplier": 0.25,
+    "sound_attn": 0,
+    "dangerous": false,
+    "precip": "none",
+    "rains": false,
+    "sound_category": "cloudy",
+    "required_weathers": [ "cloudy" ],
+    "priority": 50,
+    "condition": {
+      "and": [
+        { "math": [ "weather('humidity')", ">=", "98" ] },
+        { "math": [ "weather('pressure')", ">", "1010" ] },
+        { "math": [ "weather('windpower')", "<", "5" ] },
+        { "math": [ "weather('windpower')", ">", "1" ] }
+      ]
+    }
+  },
+  {
+    "id": "silence_hour",
+    "type": "weather_type",
+    "name": "Silence hour",
+    "color": "white",
+    "map_color": "white",
+    "sym": "x",
+    "ranged_penalty": 0,
+    "sight_penalty": 1.0,
+    "light_modifier": 0,
+    "sound_attn": 7,
+    "dangerous": true,
+    "precip": "none",
+    "rains": false,
+    "duration_min": "1 h",
+    "duration_max": "1 h",
+    "priority": 50,
+    "condition": {
+      "and": [
+        { "math": [ "silence_hour_proc", "<", "4" ] },
+        {
+          "math": [ "hour", "==", "silence_hour_hour" ]
+        }
+      ]
+    },
+    "//": "Super WIP: this should temporarily block enemy spawn and replace them for hostile special, fast ghost-like enemies, that don't attack but heavily debuff the PC"
+  }
+]

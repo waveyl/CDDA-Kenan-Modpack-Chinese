@@ -1,0 +1,85 @@
+[
+  {
+    "id": "thex_everything_eoc",
+    "type": "effect_on_condition",
+    "eoc_type": "SCENARIO_SPECIFIC",
+    "effect": [
+      { "u_add_var": "var_wind_blessing_dex", "type": "number", "context": "wind_priestess_charm", "value": "0" },
+      { "u_add_var": "var_wind_blessing_int", "type": "number", "context": "wind_priestess_charm", "value": "0" },
+      { "u_add_var": "var_wind_blessing_per", "type": "number", "context": "wind_priestess_charm", "value": "0" },
+      { "u_add_var": "var_wind_blessing_str", "type": "number", "context": "wind_priestess_charm", "value": "0" },
+      { "run_eocs": [ "daily_randomization_eoc" ] },
+      {
+        "run_eocs": [
+          {
+            "id": "vampire_bloodthirst_start_ex",
+            "condition": { "u_has_trait": "VAMPIRE_SPECIES" },
+            "effect": [
+              {
+                "math": [ "u_val('vitamin', 'name:hblood_vitamin')", "=", "648 + rand(144)" ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+	"//": "It's the same as touhou_everything_eoc from the main mod, except it adds more stuff (eocs can't be copy-from )"
+  },
+  {
+    "id": "daily_randomization_eoc",
+    "type": "effect_on_condition",
+    "recurrence": "24 hours",
+    "effect": [
+      { "math": [ "night_parade_proc", "=", "rand(99)" ] },
+      { "math": [ "silence_hour_proc", "=", "rand(99)" ] },
+      { "math": [ "silence_hour_hour", "=", "rand(23)" ] },
+      { "math": [ "silence_hour_minute", "=", "rand(59)" ] },
+      { "math": [ "silence_hour_second", "=", "rand(59)" ] }
+    ],
+    "//": "These re-roll daily, for use in special events "
+  },
+  {
+    "id": "impurity_eoc",
+    "type": "effect_on_condition",
+    "recurrence": "20 m",
+    "effect": [
+      {
+        "run_eocs": [
+          {
+            "id": "impurity_none",
+            "condition": { "math": [ "u_val('vitamin', 'name:impurity')", "<", "0" ] },
+            "effect": [ { "math": [ "var_impurity", "=", "0" ] } ]
+          },
+          {
+            "id": "impurity_verylow",
+            "condition": {
+              "and": [
+                { "math": [ "u_val('vitamin', 'name:impurity')", ">=", "1" ] },
+                { "math": [ "u_val('vitamin', 'name:impurity')", "<=", "72" ] }
+              ]
+            },
+            "effect": [ { "math": [ "var_impurity", "=", "1" ] } ]
+          },
+          {
+            "id": "impurity_low",
+            "condition": {
+              "and": [
+                { "math": [ "u_val('vitamin', 'name:impurity')", ">=", "73" ] },
+                { "math": [ "u_val('vitamin', 'name:impurity')", "<=", "504" ] }
+              ]
+            },
+            "effect": [ { "math": [ "var_impurity", "=", "2" ] } ]
+          },
+          {
+            "id": "impurity_high",
+            "condition": { "math": [ "u_val('vitamin', 'name:impurity')", ">=", "505" ] },
+            "effect": [ { "math": [ "var_impurity", "=", "3" ] } ]
+          }
+        ]
+      }
+    ],
+    "//": "1 impurity every 20 min equals 72 impurity per day or 504 in 7 days, and that's not considering consuming Earthly stuff during that period of time",
+    "//2": "Boundaries for each impure tier: 0 - 24 h (verylow), 1 - 7 days (low), >7 days (high)",
+    "//3": "Impurity tiers are named: Pure, Slight impurity, Impure, Impure (2) "
+  }
+]
