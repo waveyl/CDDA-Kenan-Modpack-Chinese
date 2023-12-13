@@ -1867,6 +1867,13 @@
   "stage": 3
  },
  {
+  "key": "98a8574a2060e793399cb665a413b564",
+  "original": "<color_yellow>%1$s generates a forcefield!</color>",
+  "translation": "<color_yellow>%1$s generates a forcefield!</color>",
+  "context": "ID: mon_secrodragon_woke\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Bots/SecronomDragon.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_secrodragon_woke\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke",
+  "stage": 1
+ },
+ {
   "key": "1fc6ac5d8e201c4834d8f82e8d93c2ab",
   "original": "<color_yellow>%1$s generates a noxious, corrosive gas then sends it to %3$s!</color>",
   "translation": "<color_yellow>%1$s产生一种有毒的腐蚀性气体，然后将其送向%3$s！</color>",
@@ -3022,6 +3029,13 @@
   "original": "A human body, swaying as it moves, an unstoppable rage visible in its oily black eyes. Its hands mutated into a pair of bone blades.",
   "translation": "一个人类的身体，随着它的移动而摇摆，在它油亮的黑眼睛中可以看到一种不可阻挡的愤怒。它的手变异成了一对骨刃。",
   "context": "ID: mon_secrozombie_blade\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Zombie.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_secrozombie_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrozombie_blade",
+  "stage": 1
+ },
+ {
+  "key": "6c949a196d3df3f61429affa395aaf8a",
+  "original": "A human body, swaying as it moves, an unstoppable rage visible in its oily black eyes. Its veins oddly pulsates in constant beats.",
+  "translation": "A human body, swaying as it moves, an unstoppable rage visible in its oily black eyes. Its veins oddly pulsates in constant beats.",
+  "context": "ID: mon_secrozombie_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Zombie.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_secrozombie_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrozombie_potent",
   "stage": 1
  },
  {
@@ -5419,7 +5433,7 @@
   "key": "db231e1408673e38deec9b26c65aed9a",
   "original": "Electric discharges arc from the secronom dragon!",
   "translation": "Electric discharges arc from the secronom dragon!",
-  "context": "ID: eoc_secro_mon_secrodragon_woke_ranged_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_secrodragon_woke_ranged_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_secrodragon_woke_ranged_check",
+  "context": "ID: eoc_secro_mon_secrodragon_woke_elec_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_secrodragon_woke_elec_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_secrodragon_woke_elec_check",
   "stage": 1
  },
  {
@@ -6735,6 +6749,12 @@
   "stage": 5
  },
  {
+  "key": "d88cb78337033dbe37064436f909f115",
+  "original": "Pull pin",
+  "translation": "拉开保险",
+  "context": "ID: SSimpactgrenade\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_ammo_zombie.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→TOOL→SSimpactgrenade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SSimpactgrenade"
+ },
+ {
   "key": "9c6a9d9f033001a9b3104984d319563b",
   "original": "Push",
   "translation": "推开",
@@ -6963,8 +6983,21 @@
   "key": "d62bdc7b158316961f91d17be2fcf9de",
   "original": "Secronom Dragon",
   "translation": "赛科龙",
-  "context": "ID: mon_secrodragon_woke_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_woke_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke_check",
   "stage": 0
+ },
+ {
+  "key": "01fceaefff2b75e9ccdedcac9137ff6d",
+  "original": "Secronom Dragon - Barrier",
+  "translation": "Secronom Dragon - Barrier",
+  "context": "ID: mon_secrodragon_woke_barrier_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_woke_barrier_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke_barrier_check",
+  "stage": 1
+ },
+ {
+  "key": "407efccf797641e295266a6233f8aeb0",
+  "original": "Secronom Dragon - Electricity",
+  "translation": "Secronom Dragon - Electricity",
+  "context": "ID: mon_secrodragon_woke_elec_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_woke_elec_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke_elec_check",
+  "stage": 1
  },
  {
   "key": "c495c5f4326320abad4e16b7d4457376",
@@ -8023,6 +8056,13 @@
   "stage": 5
  },
  {
+  "key": "73b8a46e4fcff1b3b8a6576317dd97f1",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster discharges arcs of electricity.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster discharges arcs of electricity.'",
+  "context": "ID: mon_secrodragon_woke_elec_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_woke_elec_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke_elec_check",
+  "stage": 1
+ },
+ {
   "key": "6a94ba6e4f64da9c905f743f7e0dcf2b",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster disconnects itself from the dead body.'",
   "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个吧：\n《施法者与尸体分离》",
@@ -8088,6 +8128,13 @@
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains momentum, increasing their movement speed.'",
   "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Caster gains momentum，increasing their movement speed.'",
   "context": "ID: mon_zombie_charger_vanguard_charge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_vanguard_charge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_vanguard_charge",
+  "stage": 1
+ },
+ {
+  "key": "c987d6faad0008b3e0887e5f1344dab1",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster generates a forcefield that pushes nearby creatures.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster generates a forcefield that pushes nearby creatures.'",
+  "context": "ID: mon_secrodragon_woke_barrier_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_woke_barrier_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke_barrier_check",
   "stage": 1
  },
  {
@@ -9031,7 +9078,6 @@
   "key": "21a509312753aeb6a762d55169d67640",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster's initial attack.'",
   "translation": "怪物施法的咒语。如果你看到了这个，那就改读这个：\n“施法者的初始攻击”",
-  "context": "ID: mon_secrodragon_woke_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_woke_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrodragon_woke_check",
   "stage": 0
  },
  {
@@ -11038,14 +11084,13 @@
   "key": "396e6347078bcdb6340e5b616f187a25",
   "original": "The secronom dragon accumulates electricity.",
   "translation": "The secronom dragon accumulates electricity.",
-  "context": "ID: eoc_secro_mon_secrodragon_woke_ranged_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_secrodragon_woke_ranged_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_secrodragon_woke_ranged_check",
+  "context": "ID: eoc_secro_mon_secrodragon_woke_elec_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_secrodragon_woke_elec_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_secrodragon_woke_elec_check",
   "stage": 1
  },
  {
   "key": "a4e04e902dd71b572a56241690d61f2f",
   "original": "The secronom dragon generates a forcefield, pushing you!",
   "translation": "The secronom dragon generates a forcefield, pushing you!",
-  "context": "ID: eoc_secro_mon_secrodragon_woke_barrier_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_secrodragon_woke_barrier_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_secrodragon_woke_barrier_check",
   "stage": 1
  },
  {
@@ -12257,6 +12302,13 @@
   "translation": "你中毒了！",
   "context": "ID: secro_fleshknot_poison\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_fleshknot_poison\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_fleshknot_poison",
   "stage": 3
+ },
+ {
+  "key": "c21cf47a0a2aded11d6a5c69724ff101",
+  "original": "You pull the pin on the SS grenade.",
+  "translation": "You pull the pin on the SS grenade.",
+  "context": "ID: SSimpactgrenade\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_ammo_zombie.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→TOOL→SSimpactgrenade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SSimpactgrenade",
+  "stage": 1
  },
  {
   "key": "8163affc759bbfd354292e0545a2aa1e",
@@ -15248,7 +15300,7 @@
   "key": "0eda241fc65ccf35d9743309ac395215",
   "original": "zombie",
   "translation": "伪装丧尸",
-  "context": "ID: mon_secrozombie_blade\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Zombie.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_secrozombie_blade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrozombie_blade",
+  "context": "ID: mon_secrozombie_potent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Zombie.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_secrozombie_potent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_secrozombie_potent",
   "stage": 3
  },
  {
