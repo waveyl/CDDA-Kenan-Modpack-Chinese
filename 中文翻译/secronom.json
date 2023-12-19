@@ -1606,6 +1606,27 @@
   "stage": 3
  },
  {
+  "key": "94df32c0aa1d4a86b5696271b42cbe78",
+  "original": "<color_magenta>%1$s absorbs the bits of gore on the ground.</color>",
+  "translation": "<color_magenta>%1$s absorbs the bits of gore on the ground.</color>",
+  "context": "ID: mon_zombie_fleshmonger\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_fleshmonger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger",
+  "stage": 1
+ },
+ {
+  "key": "5c8b6116691dbd1dc704cb3c0d4887af",
+  "original": "<color_magenta>%1$s absorbs the gore on the ground.</color>",
+  "translation": "<color_magenta>%1$s absorbs the gore on the ground.</color>",
+  "context": "ID: mon_zombie_fleshmonger\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_fleshmonger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger",
+  "stage": 1
+ },
+ {
+  "key": "b738c425df180a25e6ef45f5aab309cd",
+  "original": "<color_magenta>%1$s absorbs the heaps of gore on the ground.</color>",
+  "translation": "<color_magenta>%1$s absorbs the heaps of gore on the ground.</color>",
+  "context": "ID: mon_zombie_fleshmonger\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_fleshmonger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger",
+  "stage": 1
+ },
+ {
   "key": "7735c18967ec8aa46295f927486b0e9d",
   "original": "<color_magenta>%1$s devours %3$s...</color>",
   "translation": "<color_magenta>%1$s吞噬%3$s…</color>",
@@ -1656,6 +1677,13 @@
   "original": "<color_magenta>%1$s spreads its goo at %3$s!</color>",
   "translation": "<color_magenta> %1$s令%3$s覆盖满了粘液！</color>",
   "context": "ID: mon_zombie_revenant_allure\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_allure\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_revenant_allure",
+  "stage": 1
+ },
+ {
+  "key": "df85824fbcc2390279c0a94d7e2feb63",
+  "original": "<color_magenta>%s's orb is absorbing its surrounding flesh!</color>",
+  "translation": "<color_magenta>%s's orb is absorbing its surrounding flesh!</color>",
+  "context": "ID: mon_zombie_gorepit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_gorepit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_gorepit",
   "stage": 1
  },
  {
@@ -1941,6 +1969,13 @@
   "stage": 1
  },
  {
+  "key": "a7e7b62f1e69f50b8ef43ac711695288",
+  "original": "<color_yellow>%1$s is gaining momentum!</color>",
+  "translation": "<color_yellow>%1$s is gaining momentum！</color>",
+  "context": "ID: mon_zombie_charger_vanguard\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Charger.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_charger_vanguard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_vanguard",
+  "stage": 1
+ },
+ {
   "key": "c8b6ed3a0f0b896b1a8143cd73503080",
   "original": "<color_yellow>%1$s latches onto %3$s!</color>",
   "translation": "<color_yellow>%1$s锁上了%3$s！</color>",
@@ -2072,7 +2107,6 @@
   "key": "27a0f77d3ca1dacec8a0d1affc317d70",
   "original": "<color_yellow>%1$s twitches.</color>",
   "translation": "<color_yellow>%1$s次抽搐。</color>",
-  "context": "ID: mon_zombie_tendricles\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tendricles\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tendricles",
   "stage": 0
  },
  {
@@ -2097,6 +2131,13 @@
   "stage": 3
  },
  {
+  "key": "0ab93233ea599d1e1e9c1ccc319fbef3",
+  "original": "<color_yellow>%1$s's movement became erratic!</color>",
+  "translation": "<color_yellow>%1$s's movement became erratic！</color>",
+  "context": "ID: mon_zombie_tendricles\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tendricles\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tendricles",
+  "stage": 1
+ },
+ {
   "key": "df497dcb02151061f7fd4497e1d75b61",
   "original": "<color_yellow>%1$s's rage intensifies as it glares at %3$s!</color>",
   "translation": "<color_yellow>%1$s怒视着%3$s，怒火不断增强！</color>",
@@ -2109,10 +2150,16 @@
   "stage": 3
  },
  {
+  "key": "fa8eaeff2c92f0ac855cb25b063498e9",
+  "original": "<color_yellow>%1$s's tentacles envelop the surroundings!</color>",
+  "translation": "<color_yellow>%1$s's tentacles envelop the surroundings!</color>",
+  "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
+  "stage": 1
+ },
+ {
   "key": "230e7eec55bcb2a0e80c09e517864d6e",
   "original": "<color_yellow>%1$s's tentacles thrashes its surroundings!</color>",
   "translation": "<color_yellow>%1$s的触角在它周围的环境中摆动！</color>",
-  "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
   "stage": 0
  },
  {
@@ -2179,6 +2226,13 @@
   "original": "<color_yellow>Errant shadows emerges from %1$s as they perform an onslaught!</color>",
   "translation": "<color_yellow>错误的阴影从%1$s中浮现出来，它们正在进行一次攻击！</color>",
   "stage": 5
+ },
+ {
+  "key": "dc3eacd9e7dfb4dfc4f4df3eaaaf3093",
+  "original": "<color_yellow>Several tentacles of %1$s pierces into the ground!</color>",
+  "translation": "<color_yellow>Several tentacles of %1$s pierces into the ground!</color>",
+  "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
+  "stage": 1
  },
  {
   "key": "818e7d6c8f4550c0e798f6a278aa5b77",
@@ -4389,11 +4443,25 @@
   "stage": 5
  },
  {
+  "key": "6428bf61b19c9f6c90d034777a20ca77",
+  "original": "Absorb",
+  "translation": "Absorb",
+  "context": "ID: mon_zombie_fleshmonger_absorb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_absorb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_absorb",
+  "stage": 1
+ },
+ {
   "key": "6028c709f829b05e5c8657171f0a04aa",
   "original": "Absorbing",
   "translation": "吸收",
   "context": "ID: secro_gorepit_absorb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_gorepit_absorb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_gorepit_absorb",
   "stage": 0
+ },
+ {
+  "key": "f5dd8a1125daca6c5224baa0357fe6a1",
+  "original": "Absorption",
+  "translation": "Absorption",
+  "context": "ID: mon_zombie_fleshmonger_absorption\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_absorption\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_absorption",
+  "stage": 1
  },
  {
   "key": "65107228be48151da980f08d0a147a1d",
@@ -5004,11 +5072,25 @@
   "stage": 3
  },
  {
+  "key": "050c56f1fb3ec07b830861ecffe24481",
+  "original": "Charge Check",
+  "translation": "Charge Check",
+  "context": "ID: mon_zombie_charger_initialcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_initialcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_initialcheck",
+  "stage": 1
+ },
+ {
   "key": "fc90b8bcbf1cc024af9a4ce8a6b966ea",
   "original": "Charge!",
   "translation": "冲锋！",
   "context": "ID: mon_zombie_charger_vanguard_charge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_vanguard_charge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_vanguard_charge",
   "stage": 3
+ },
+ {
+  "key": "70a089f696fdbdd3e7dde8aff56a4072",
+  "original": "Charge.",
+  "translation": "Charge.",
+  "context": "ID: mon_zombie_charger_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_initial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_initial",
+  "stage": 1
  },
  {
   "key": "d7b54fc61b65b19c4694a29b6044aacd",
@@ -5448,14 +5530,14 @@
   "original": "Empowered by Akin",
   "translation": "由Akin授权",
   "context": "ID: secro_akin_siphon_ally\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_akin_siphon_ally\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_akin_siphon_ally",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d35073cca25c2b33a57670422e0ee532",
   "original": "Empowering Attachtment",
   "translation": "授权附件",
   "context": "ID: mon_zombie_akin_lsattach_ally\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_akin_lsattach_ally\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_akin_lsattach_ally",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5b74e0a76cc6929021fe7079aa7ca557",
@@ -5724,7 +5806,6 @@
   "key": "1a3058e99aa870499be4a5e12fb4589d",
   "original": "Flesh Chunk",
   "translation": "肉块",
-  "context": "ID: mon_zombie_fleshmonger_fchunk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_fchunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_fchunk",
   "stage": 5
  },
  {
@@ -5808,11 +5889,25 @@
   "stage": 5
  },
  {
+  "key": "ff81a1a8e9d923c1ca6a833b8a7332e9",
+  "original": "Fleshmonger - Flesh Chunk",
+  "translation": "Fleshmonger - Flesh Chunk",
+  "context": "ID: mon_zombie_fleshmonger_fchunk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_fchunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_fchunk",
+  "stage": 1
+ },
+ {
   "key": "b3cd6ec6470952522bb08e220f052e8f",
   "original": "Fleshmonger - Reflesh",
   "translation": "肉商-刷新",
-  "context": "ID: mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh_check",
+  "context": "ID: mon_zombie_fleshmonger_reflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh",
   "stage": 0
+ },
+ {
+  "key": "a70817bc9b193635ba1e5f250dcb1e09",
+  "original": "Fleshmonger - Reflesh Check",
+  "translation": "Fleshmonger - Reflesh Check",
+  "context": "ID: mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh_check",
+  "stage": 1
  },
  {
   "key": "97a6f22bb379e0c5e3b0aa963a391d81",
@@ -5921,6 +6016,13 @@
   "stage": 0
  },
  {
+  "key": "d166816d93568ea5bcd2527b801d92d4",
+  "original": "Gaining Momentum",
+  "translation": "Gaining Momentum",
+  "context": "ID: charge_momentum_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→charge_momentum_initial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=charge_momentum_initial",
+  "stage": 1
+ },
+ {
   "key": "a17f5ba504ca0de6c6489b8c85292c79",
   "original": "Gas Burst",
   "translation": "瓦斯爆炸",
@@ -5945,6 +6047,20 @@
   "original": "Gigantic, flying shadow, reeks in despair and hatred. A creature filled with mystery, unknown to what it does.",
   "translation": "巨大的飞影散发着绝望和仇恨的气息。一个充满神秘感的生物，不知道它做什么。",
   "stage": 3
+ },
+ {
+  "key": "39e25a1d3c1eb8f5c64bd503ccd1536a",
+  "original": "Gorepit - Absorption",
+  "translation": "Gorepit - Absorption",
+  "context": "ID: mon_zombie_gorepit_abs\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_gorepit_abs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_gorepit_abs",
+  "stage": 1
+ },
+ {
+  "key": "63cdf8788ae3a0b81dd33df3bc660594",
+  "original": "Gorepit - Rage",
+  "translation": "Gorepit - Rage",
+  "context": "ID: mon_zombie_gorepit_rage\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_gorepit_rage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_gorepit_rage",
+  "stage": 1
  },
  {
   "key": "a2fad8a3f7ec68f908a48fdf75cda4f3",
@@ -6758,7 +6874,7 @@
   "key": "9c6a9d9f033001a9b3104984d319563b",
   "original": "Push",
   "translation": "推开",
-  "context": "ID: mon_zombie_charger_charge_pushy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_charge_pushy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_charge_pushy",
+  "context": "ID: mon_zombie_charger_vanguard_charge_pushy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_vanguard_charge_pushy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_vanguard_charge_pushy",
   "stage": 5
  },
  {
@@ -6779,7 +6895,6 @@
   "key": "f467834a619fdbc994d37e84f5fef567",
   "original": "Rage",
   "translation": "愤怒",
-  "context": "ID: mon_zombie_gorepit_rage\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_gorepit_rage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_gorepit_rage",
   "stage": 5
  },
  {
@@ -6799,7 +6914,7 @@
   "key": "b49f5ec173e0a4cb9ded818d69495c9b",
   "original": "Reflesh",
   "translation": "刷新",
-  "context": "ID: mon_zombie_fleshmonger_reflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh",
+  "context": "ID: secro_fleshmonger_fleshed\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_fleshmonger_fleshed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_fleshmonger_fleshed",
   "stage": 5
  },
  {
@@ -7582,6 +7697,13 @@
   "stage": 0
  },
  {
+  "key": "be64f11edf4a5e4cde9c35953acb214d",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'2/3 chance to spawn a tentacle around the caster. 2 attempts.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'2/3 chance to spawn a tentacle around the caster. 2 attempts.'",
+  "context": "ID: mon_zombie_tentawraith_summonself_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_summonself_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_summonself_check",
+  "stage": 1
+ },
+ {
   "key": "f78d6c39050bac98cc461758ece086fd",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'2/3 chance to spawn a tentacle at the target. 5 attempts.'",
   "translation": "怪物施法的咒语。如果你看到了这一点，那么请阅读这一条：\n'有2/3的几率在目标处产卵。5次尝试。”",
@@ -7634,6 +7756,13 @@
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n'在通灵了大量时间后，施法者的引力场崩溃，产生了一颗超新星，对所有生物造成巨大的重击伤害。闪闪发光的物体分散开来，照亮了整个地区",
   "context": "ID: mon_unknown_unknown_gcollapse_vector\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_unknown_unknown_gcollapse_vector\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_unknown_unknown_gcollapse_vector",
   "stage": 5
+ },
+ {
+  "key": "7f62cc15c4ccf67c7f64c99d168d1437",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'An applied effect alongside the caster's charge.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'An applied effect alongside the caster's charge.'",
+  "context": "ID: mon_zombie_charger_initialcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_initialcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_initialcheck",
+  "stage": 1
  },
  {
   "key": "6f2c1ce480caa2ea103c718a79dec8d3",
@@ -7935,6 +8064,13 @@
   "stage": 5
  },
  {
+  "key": "caf94d5612811abf2ad33216bae5976e",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster clears the gore.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster clears the gore.'",
+  "context": "ID: mon_zombie_fleshmonger_absorb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_absorb\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_absorb",
+  "stage": 1
+ },
+ {
   "key": "2b162481170688c56132a5a0d68a4cc1",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster commands all reinforcer bots to take distance.'",
   "translation": "由怪物施放的咒语。如果你看到了这个，那就改读这个：\n“施法者命令所有强化机器人保持距离。”",
@@ -8111,6 +8247,20 @@
   "stage": 5
  },
  {
+  "key": "52b2fd1908e8eabad38f2663e5febd96",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains health overtime.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains health overtime.'",
+  "context": "ID: mon_zombie_fleshmonger_absorption\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_absorption\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_absorption",
+  "stage": 1
+ },
+ {
+  "key": "7edaac17334ecc4ea96a805e6c81c3e0",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains massive health regeneration.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains massive health regeneration.'",
+  "context": "ID: mon_zombie_gorepit_abs\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_gorepit_abs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_gorepit_abs",
+  "stage": 1
+ },
+ {
   "key": "19a505104cff5f3274c86839e1dc9bcb",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains massive movement speed temporarily. Duration is increased if the target is further away.'",
   "translation": "怪物施法。如果你看到了这一点，那么改为阅读这一条：\n'施法者暂时获得巨大的移动速度。如果目标距离更远，则持续时间会增加。”",
@@ -8199,7 +8349,6 @@
   "key": "23433930f4dc3eae75e17cf690bafa41",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster heals its nearby allies. If caster stands above a gore field, perform the healing, otherwise it takes away its own health to do so.'",
   "translation": "怪物施法。如果你看到了这一点，那么请阅读这一条：\n'施法者治疗其附近的盟友。如果施法者站在血污场上方，进行治疗，否则会夺走其自身的生命。”",
-  "context": "ID: mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh_check",
   "stage": 0
  },
  {
@@ -8300,6 +8449,13 @@
   "stage": 5
  },
  {
+  "key": "5d6097f238bc8ab8c4f5e34276b03660",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster prepares for a charge, applying slowness that decays over 3-4 seconds.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster prepares for a charge, applying slowness that decays over 3-4 seconds.'",
+  "context": "ID: mon_zombie_charger_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_initial\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_initial",
+  "stage": 1
+ },
+ {
   "key": "ba3d2fe3fa3abd4a523fd3f8ce89805e",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster produces a compact shadow, forming a silhouette with its claws imbued in shadows then strikes the target, dealing moderate cutting damage and applying blindness.'",
   "translation": "怪物施法的。如果你看到了这一点，那就读一读：\n'施法者产生一个紧凑的阴影，形成一个轮廓，爪子浸透在阴影中，然后击中目标，造成中度切割伤害并造成失明。'",
@@ -8309,7 +8465,6 @@
   "key": "cda26fbc63629c44f37ff1e65422c097",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster pulls everything towards themself.'",
   "translation": "怪物施放的咒语。如果你看到了这个，那就改读这个:\n“施法者把一切都拉向自己。”",
-  "context": "ID: mon_zombie_tentawraith_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_pull",
   "stage": 1
  },
  {
@@ -8322,7 +8477,7 @@
   "key": "23afb361311f2bd48cecf2b3856173b8",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster pushes its path.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这个：\n‘施法者推动它的路径。’",
-  "context": "ID: mon_zombie_charger_charge_pushy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_charge_pushy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_charge_pushy",
+  "context": "ID: mon_zombie_charger_vanguard_charge_pushy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_vanguard_charge_pushy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_charger_vanguard_charge_pushy",
   "stage": 5
  },
  {
@@ -8486,10 +8641,16 @@
   "stage": 5
  },
  {
+  "key": "87dc1d252ea90b5a537725ac36ce9108",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster shoots out tendrils that pierces nearby allies then injecting them with extra flesh, healing a moderate amount of health and removes/blocks bleeding.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster shoots out tendrils that pierces nearby allies then injecting them with extra flesh, healing a moderate amount of health and removes/blocks bleeding.'",
+  "context": "ID: mon_zombie_fleshmonger_reflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh",
+  "stage": 1
+ },
+ {
   "key": "df6df59c2e8219ed7838fec37c5efe02",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster shoots out tendrils that pierces nearby allies then injecting them with extra flesh, healing a moderate amount of health.'",
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者射出卷须，刺穿附近的盟友，然后给他们注射额外的肉，治愈适量的生命。”",
-  "context": "ID: mon_zombie_fleshmonger_reflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh",
   "stage": 5
  },
  {
@@ -8859,8 +9020,21 @@
   "key": "eafd852d20ea2b7b831362f7b124e5a6",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster takes a chunk of its own flesh, dealing an enormous amount of damage on itself.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这个：\n‘施法者拿走了一大块自己的肉，对自己造成了巨大的伤害。’",
-  "context": "ID: mon_zombie_fleshmonger_fchunk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_fchunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_fchunk",
   "stage": 5
+ },
+ {
+  "key": "a64b26109f6166a262c478425eaf97a4",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster takes a chunk of its own flesh, dealing massive damage to itself.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster takes a chunk of its own flesh, dealing massive damage to itself.'",
+  "context": "ID: mon_zombie_fleshmonger_fchunk\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_fchunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_fchunk",
+  "stage": 1
+ },
+ {
+  "key": "3f8abce7f8a190380fbb880be31bcefb",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster takes damage and heals its nearby allies.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster takes damage and heals its nearby allies.'",
+  "context": "ID: mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_fleshmonger_reflesh_check",
+  "stage": 1
  },
  {
   "key": "eeed1ae52930b8268ee89739170be643",
@@ -9286,7 +9460,6 @@
   "key": "cb327f64dcf4d602ca802664bb103c3b",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Pulled hostile targets are stunned for 1 turn.'",
   "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个:\n“被拉的敌对目标被晕眩1圈。”",
-  "context": "ID: mon_zombie_tentawraith_stun\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_stun",
   "stage": 0
  },
  {
@@ -9460,9 +9633,9 @@
  {
   "key": "814a05a71b72fcae5049fd804889ec6a",
   "original": "Sprinting",
-  "translation": "短跑",
+  "translation": "疾跑",
   "context": "ID: secro_tendril_sprint\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_tendril_sprint\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendril_sprint",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "475d7b18a84c885c98a8a98fcab9e1c5",
@@ -9749,9 +9922,9 @@
  {
   "key": "8f2c06305a6b6f561693647eb0726b58",
   "original": "Tendril Zombie - Sprint",
-  "translation": "卷须僵尸-冲刺",
+  "translation": "触手僵尸-冲刺",
   "context": "ID: mon_zombie_tendrils_sprint_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tendrils_sprint_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tendrils_sprint_check",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f15be8f1a0dee54d9e57611565050897",
@@ -9775,7 +9948,6 @@
   "key": "ad3a13a68def4fb6bc8b1743857333e2",
   "original": "Tentacle Pull",
   "translation": "触手牵引",
-  "context": "ID: mon_zombie_tentawraith_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_pull",
   "stage": 5
  },
  {
@@ -9806,9 +9978,9 @@
  {
   "key": "264ccf28f3c2e39c48ad5e857796fd64",
   "original": "Tentacles are holding you down and can't move very well!",
-  "translation": "触手把你压住了，不能很好地移动！",
+  "translation": "触手抓住了你，让你动弹不得！",
   "context": "ID: eff_fleshknot_tent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→eff_fleshknot_tent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eff_fleshknot_tent",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7fe02d77624698aa4a3c7c86d3418bef",
@@ -9824,6 +9996,13 @@
   "stage": 5
  },
  {
+  "key": "062b2eeec542de895ca0cda5eaff1fa4",
+  "original": "Tentacles bursts out of the fleshmonger that stretches out into the vicinity!",
+  "translation": "Tentacles bursts out of the fleshmonger that stretches out into the vicinity!",
+  "context": "ID: eoc_secro_mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_zombie_fleshmonger_reflesh_check",
+  "stage": 1
+ },
+ {
   "key": "673e1f17918f626ed3c1cb83255c327f",
   "original": "Tentacles covering the writhing horror. Will reach out to its targets.",
   "translation": "触手覆盖着扭曲的恐怖。将接触到它的目标。",
@@ -9836,6 +10015,13 @@
   "translation": "触手伸出来，摆脱了扭曲的恐惧！",
   "context": "ID: mon_zombieworm_wriggly\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/Worms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombieworm_wriggly\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombieworm_wriggly",
   "stage": 0
+ },
+ {
+  "key": "f30e163d084a5ca1ab51661d6548ef65",
+  "original": "Tentacles reaches out of the wraith's swollen arm!",
+  "translation": "Tentacles reaches out of the wraith's swollen arm!",
+  "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
+  "stage": 1
  },
  {
   "key": "cb59c74e2b118ea7745ee1fbb308d226",
@@ -10598,14 +10784,14 @@
   "original": "The %s's arms fly out at <npcname>, but they dodge!",
   "translation": "%s 的双臂飞向 <npcname>，但被躲开了！",
   "context": "ID: sflesh_flesh_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_flesh_pull",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "70f45e7b6cd200120aeab5f4cd6bfe8b",
   "original": "The %s's arms fly out at you, but you dodge!",
   "translation": "%s 的双臂飞向你，但你躲开了！",
   "context": "ID: sflesh_flesh_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_pull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_flesh_pull",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f5936ff9e6bd32841ba009948a3eaf94",
@@ -10953,14 +11139,12 @@
   "key": "2f843921c6dce0aa1cf34d3fad69699b",
   "original": "The fleshmonger consumes the surroundings off of gore.\nTentacles were formed that pierced its nearby allies!",
   "translation": "The fleshmonger consumes the surroundings off of gore.\nTentacles were formed that pierced its nearby allies!",
-  "context": "ID: eoc_secro_mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_zombie_fleshmonger_reflesh_check",
   "stage": 1
  },
  {
   "key": "90fc8ca6b2f0816c2e3c2ddcf708fdc0",
   "original": "The fleshmonger violently bursts out tentacles that pierced its nearby allies!",
   "translation": "The fleshmonger violently bursts out tentacles that pierced its nearby allies!",
-  "context": "ID: eoc_secro_mon_zombie_fleshmonger_reflesh_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_fleshmonger_reflesh_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_zombie_fleshmonger_reflesh_check",
   "stage": 1
  },
  {
@@ -11193,7 +11377,6 @@
   "key": "423835dafa149d7b990abb833d24d87b",
   "original": "The tendril zombie's movement became erratic!",
   "translation": "The tendril zombie's movement became erratic！",
-  "context": "ID: eoc_secro_mon_zombie_tendrils_sprint_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_tendrils_sprint_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_zombie_tendrils_sprint_check",
   "stage": 1
  },
  {
@@ -11577,6 +11760,13 @@
   "stage": 0
  },
  {
+  "key": "53da5a3c11ad27269592ff3224ee67f5",
+  "original": "This is the swollen proportion of the wraith. Shoots tentacles.",
+  "translation": "This is the swollen proportion of the wraith. Shoots tentacles.",
+  "context": "ID: tentawraith_tentgun\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_gun_zombie.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→GUN→tentawraith_tentgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tentawraith_tentgun",
+  "stage": 1
+ },
+ {
   "key": "6f9f5c8e10b39aa17eb100c1c12fc002",
   "original": "This massively armored reptilian has its own purpose: ERADICATION.\nIt's the product of technological advancements using mere bionics, altogether with vast weaponry installations to form the \"SAVIOR\".",
   "translation": "这种身披铠甲的爬行动物有自己的目的：消灭它。\n它是技术进步的产物，仅仅使用仿生学，再加上庞大的武器装备，形成了“救世主”。",
@@ -11844,9 +12034,9 @@
  {
   "key": "ae534ff2d968c1ba400df3912ddff1d7",
   "original": "Visceral Collapse",
-  "translation": "内脏塌陷",
+  "translation": "脏腑崩溃",
   "context": "ID: mon_zombie_akin_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_akin_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_akin_death",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f175127d0c5cacad31062f258dfd57e9",
@@ -12039,7 +12229,7 @@
   "key": "ad091422aa7139c50264ea70c8fcedad",
   "original": "Wraith - Tentacle",
   "translation": "幽灵触手",
-  "context": "ID: mon_zombie_tentawraith_summon_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_summon_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_summon_check",
+  "context": "ID: mon_zombie_tentawraith_summonself_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_summonself_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_summonself_check",
   "stage": 0
  },
  {
@@ -12081,7 +12271,7 @@
   "original": "Yes.",
   "translation": "是。",
   "context": "ID: TALK_SECRO_FWEAVER_heal\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_dialogue.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→talk_topic→TALK_SECRO_FWEAVER_heal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SECRO_FWEAVER_heal",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "787865c8e5c793013a3d5f057dd2c338",
@@ -13333,9 +13523,9 @@
  {
   "key": "dbc83e3f56f559f41847826c19d2981c",
   "original": "flesh weaver petfood",
-  "translation": "肉编织宠物食品",
+  "translation": "血肉宠物食品",
   "context": "ID: secro_fweaverfood\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Items/petfood.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→COMESTIBLE→secro_fweaverfood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_fweaverfood",
-  "stage": 0
+  "stage": 2
  },
  {
   "key": "acbb81fa514b2a117dd1ece115720ecc",
@@ -15236,6 +15426,13 @@
   "translation": "深渊霸主",
   "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith",
   "stage": 3
+ },
+ {
+  "key": "ddf7835c0f95e22f2ce8c9c2419059b0",
+  "original": "wraith's swollen arm",
+  "translation": "wraith's swollen arm",
+  "context": "ID: tentawraith_tentgun\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_gun_zombie.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→GUN→tentawraith_tentgun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tentawraith_tentgun",
+  "stage": 1
  },
  {
   "key": "c61d668d2ac4dce0945e7431b09d7fd2",
