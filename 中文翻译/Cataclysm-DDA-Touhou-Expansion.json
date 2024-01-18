@@ -703,6 +703,20 @@
   "stage": 3
  },
  {
+  "key": "704916c46efab1e5851dd74fd76710e3",
+  "original": "10% chance to reroll death",
+  "translation": "10% chance to reroll death",
+  "context": "ID: death_rabbit_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_rabbit_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_rabbit_touhou",
+  "stage": 1
+ },
+ {
+  "key": "a59d28749348c3e12e0c9fb85cc12408",
+  "original": "10% chance to transform",
+  "translation": "10% chance to transform",
+  "context": "ID: death_rabbit_touhou_reroll\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_rabbit_touhou_reroll\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_rabbit_touhou_reroll",
+  "stage": 1
+ },
+ {
   "key": "edac912f1494ed45a3783342edcfa92e",
   "original": "25-round magazine for the StG 44, made of stamped steel.  Nicknamed \"banana magazine\" for evident reasons.",
   "translation": "供StG 44使用的25发弹匣，采用冲压钢工艺，出于一些“明显”的原因又被称为香蕉弹匣",
@@ -3151,10 +3165,16 @@
   "stage": 1
  },
  {
+  "key": "039fcadb0620b476c02f0db41e5329ee",
+  "original": "A transformed skinwalker, mimicking the shape of a wolf.  With a mix of both human and lupine anatomy, it looks deformed, with abnormaly long limbs.  Despite the bipedal posture, it walks on a hunckbacked position, sometimes supported by alternating either front limb.  Parts of the body seem fused with the pelt covering it, giving it a surreal appearance.  It still carries around the tribal accesories it had while on human form.",
+  "translation": "A transformed skinwalker, mimicking the shape of a wolf.  With a mix of both human and lupine anatomy, it looks deformed, with abnormaly long limbs.  Despite the bipedal posture, it walks on a hunckbacked position, sometimes supported by alternating either front limb.  Parts of the body seem fused with the pelt covering it, giving it a surreal appearance.  It still carries around the tribal accesories it had while on human form.",
+  "context": "ID: mon_skinwalker_witch_wolf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_witch_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_skinwalker_witch_wolf",
+  "stage": 1
+ },
+ {
   "key": "dea5f8232e7e52dcc0eff960c6f24be1",
   "original": "A transformed skinwalker, mimicking the shape of a wolf.  With a mix of both human and lupine anatomy, it looks deformed, with abnormaly long limbs.  Despite the bipedal posture, it walks on a hunckbacked position, sometimes supported by either front limb.  Parts of the body seem fused with the pelt covering it, giving it a surreal appearance.  It still carries around the tribal accesories it had while on human form.",
   "translation": "A transformed skinwalker, mimicking the shape of a wolf.  With a mix of both human and lupine anatomy, it looks deformed, with abnormaly long limbs.  Despite the bipedal posture, it walks on a hunckbacked position, sometimes supported by either front limb.  Parts of the body seem fused with the pelt covering it, giving it a surreal appearance.  It still carries around the tribal accesories it had while on human form.",
-  "context": "ID: mon_skinwalker_witch_wolf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_witch_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_skinwalker_witch_wolf",
   "stage": 1
  },
  {
@@ -4255,7 +4275,13 @@
   "key": "09965286becb309e137a69e5e317e8be",
   "original": "Default MIB death",
   "translation": "Default MIB death",
-  "context": "ID: death_mib_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_none",
+  "stage": 1
+ },
+ {
+  "key": "f747ea55ff0ddd47d004a4aa6865ef34",
+  "original": "Default Touhou Mod monster death",
+  "translation": "Default Touhou Mod monster death",
+  "context": "ID: death_monster_touhou_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_monster_touhou_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_monster_touhou_none",
   "stage": 1
  },
  {
@@ -5834,7 +5860,7 @@
   "key": "d90fecde83f497fe1a1fcabd328c9d3e",
   "original": "Normal death",
   "translation": "Normal death",
-  "context": "ID: death_mib_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_none",
+  "context": "ID: death_monster_touhou_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_monster_touhou_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_monster_touhou_none",
   "stage": 1
  },
  {
@@ -6758,6 +6784,13 @@
   "stage": 1
  },
  {
+  "key": "10e846f315a798844a9fdb68ceefcb50",
+  "original": "Skinwalker transform (chain component 2)",
+  "translation": "Skinwalker transform (chain component 2)",
+  "context": "ID: death_rabbit_touhou_transform\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_rabbit_touhou_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_rabbit_touhou_transform",
+  "stage": 1
+ },
+ {
   "key": "0e180263bf06b23a02393358b8a316a6",
   "original": "Skinwalker transform (chain component)",
   "translation": "Skinwalker transform (chain component)",
@@ -6975,6 +7008,13 @@
   "original": "Subspell for possessed_trumpet_buffs ",
   "translation": "Subspell for possessed_trumpet_buffs ",
   "context": "ID: possessed_trumpet_buffs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magic/possessed_trumpet.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→possessed_trumpet_buffs\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=possessed_trumpet_buffs",
+  "stage": 1
+ },
+ {
+  "key": "a8d5d4e0f080dcea3cfaf439e8e19ea9",
+  "original": "Subspell to transform into a rabbit skinwalker.",
+  "translation": "Subspell to transform into a rabbit skinwalker.",
+  "context": "ID: death_rabbit_touhou_transform\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_rabbit_touhou_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_rabbit_touhou_transform",
   "stage": 1
  },
  {
@@ -7875,6 +7915,13 @@
   "key": "cb60446697cf5e7bbb6539cb262f985a",
   "original": "The person does a series of eerie steps and gestures.",
   "translation": "The person does a series of eerie steps and gestures.",
+  "context": "ID: shrieking_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→shrieking_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shrieking_none",
+  "stage": 1
+ },
+ {
+  "key": "22be1f84dd0694ee7a674b2a04ebdb8a",
+  "original": "The person gestures eerily.",
+  "translation": "The person gestures eerily.",
   "context": "ID: skinwalker_transform_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_transform_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=skinwalker_transform_none",
   "stage": 1
  },
@@ -7883,6 +7930,13 @@
   "original": "The person suddenly transforms!",
   "translation": "The person suddenly transforms!",
   "context": "ID: skinwalker_transform_success\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_transform_success\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=skinwalker_transform_success",
+  "stage": 1
+ },
+ {
+  "key": "d24f3d9a5ae6273843ee3ff057f2b912",
+  "original": "The rabbit explodes into gore and something emerges from the tiny corpse!",
+  "translation": "The rabbit explodes into gore and something emerges from the tiny corpse!",
+  "context": "ID: death_rabbit_touhou_transform\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_rabbit_touhou_transform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_rabbit_touhou_transform",
   "stage": 1
  },
  {
@@ -8135,6 +8189,13 @@
   "original": "WIP",
   "translation": "WIP",
   "context": "ID: faction_tengu_guard\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/npcs/touhou_factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→faction→faction_tengu_guard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=faction_tengu_guard",
+  "stage": 1
+ },
+ {
+  "key": "0ee384c7424dba3ed391a38331ad53f0",
+  "original": "WIP. Rabbit claws. Even larger than a bear.",
+  "translation": "WIP. Rabbit claws. Even larger than a bear.",
+  "context": "ID: mon_skinwalker_rabbit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_skinwalker_rabbit",
   "stage": 1
  },
  {
@@ -9590,6 +9651,13 @@
   "stage": 1
  },
  {
+  "key": "03eaf0a4d38ffe142483e158b574952e",
+  "original": "cottontail rabbit",
+  "translation": "cottontail rabbit",
+  "context": "ID: mon_wild_rabbit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_wild_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_wild_rabbit",
+  "stage": 1
+ },
+ {
   "key": "f25d231510265db959254fc2c1e05cde",
   "original": "cotylorhynchus",
   "translation": "杯鼻龙",
@@ -9780,6 +9848,13 @@
   "original": "dodo egg",
   "translation": "dodo egg",
   "context": "ID: egg_dodo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_dodo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=egg_dodo",
+  "stage": 1
+ },
+ {
+  "key": "a04908baaf5d514534ec316258b180c5",
+  "original": "domestic rabbit",
+  "translation": "domestic rabbit",
+  "context": "ID: mon_rabbit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_rabbit",
   "stage": 1
  },
  {
@@ -10762,6 +10837,13 @@
   "stage": 1
  },
  {
+  "key": "037463cd131d8f6982fd0961339d01b2",
+  "original": "mon_rabbit death (chain component 1)",
+  "translation": "mon_rabbit death （chain component 1）",
+  "context": "ID: death_rabbit_touhou_reroll\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_rabbit_touhou_reroll\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_rabbit_touhou_reroll",
+  "stage": 1
+ },
+ {
   "key": "e81a0170cb9cec2c9d76bf6555bf4754",
   "original": "moon rabbit",
   "translation": "月兔",
@@ -11575,6 +11657,13 @@
   "original": "smoked shrimplike meat",
   "translation": "smoked shrimplike meat",
   "context": "ID: shrimplike_smoked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→shrimplike_smoked\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shrimplike_smoked",
+  "stage": 1
+ },
+ {
+  "key": "f9b291fffc2d808fd196690f80eb6475",
+  "original": "snowshoe hare",
+  "translation": "snowshoe hare",
+  "context": "ID: mon_hare\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_hare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hare",
   "stage": 1
  },
  {
