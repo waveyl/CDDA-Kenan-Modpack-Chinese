@@ -77,6 +77,13 @@
   "stage": 3
  },
  {
+  "key": "c10eacd31d328cd0373cb8e59db1aca4",
+  "original": "2nd and 3rd dmg instances for kokoro_quick_attack ",
+  "translation": "2nd and 3rd dmg instances for kokoro_quick_attack ",
+  "context": "ID: kokoro_quick_attack2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_quick_attack2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_quick_attack2",
+  "stage": 1
+ },
+ {
   "key": "85c5b3ceac156ad4b45aaa5951495a41",
   "original": "<npcname> WIP %s",
   "translation": "<npcname> WIP %s",
@@ -114,7 +121,6 @@
   "key": "3ec16b023c69b2ecb85a7283cd173839",
   "original": "<npcname> crosses their hands, sending a bolt of electricity through %s!",
   "translation": "<npcname> 交叉双手，向 %s 射出一道电弧 !",
-  "context": "ID: tec_iku_palm2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_palm2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_iku_palm2",
   "stage": 3
  },
  {
@@ -265,6 +271,13 @@
   "stage": 1
  },
  {
+  "key": "d060a1ee219cd9480564abd42bb6e3bb",
+  "original": "<npcname> spins, hitting nearby enemies!",
+  "translation": "<npcname> spins, hitting nearby enemies!",
+  "context": "ID: tec_kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_spin",
+  "stage": 1
+ },
+ {
   "key": "cab9649764009f534bf8b8afa1066673",
   "original": "<npcname> stabs %s",
   "translation": "<npcname> 突刺 %s",
@@ -283,6 +296,13 @@
   "original": "<npcname> strikes %s with the hilt of their weapon",
   "translation": "<npcname> strikes %s with the hilt of their weapon",
   "context": "ID: tec_youmu_hilt_nudge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_hilt_nudge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_youmu_hilt_nudge",
+  "stage": 1
+ },
+ {
+  "key": "7e51133dc76b64b8a28c64a22d6ebee0",
+  "original": "<npcname> sweeps %s!",
+  "translation": "<npcname> sweeps %s!",
+  "context": "ID: tec_kokoro_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_sweep",
   "stage": 1
  },
  {
@@ -314,10 +334,24 @@
   "stage": 1
  },
  {
+  "key": "4175bd05b4a091114410a37eb901fb18",
+  "original": "<npcname> swings at %s!",
+  "translation": "<npcname> swings at %s!",
+  "context": "ID: tec_kokoro_swing\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_swing",
+  "stage": 1
+ },
+ {
   "key": "3140bc8b39e0f99391eab9df3b3518ef",
   "original": "<npcname> swings quickly at %s",
   "translation": "<npcname> swings quickly at %s",
   "context": "ID: tec_iku_slap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_iku_slap",
+  "stage": 1
+ },
+ {
+  "key": "3cb7d8d30fb9ff4d4a7483b362547e86",
+  "original": "<npcname> swings quickly at %s!",
+  "translation": "<npcname> swings quickly at %s!",
+  "context": "ID: tec_kokoro_swing_fast\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_fast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_swing_fast",
   "stage": 1
  },
  {
@@ -346,6 +380,20 @@
   "original": "<npcname> thrusts their hands forward, and release qi through %s!",
   "translation": "<npcname> 向前伸出双手，释放气穿过了%s！",
   "context": "ID: tec_meiling_qi_burst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_qi_burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_meiling_qi_burst",
+  "stage": 1
+ },
+ {
+  "key": "486e35528d2243eaa842a452058522e8",
+  "original": "<npcname> turns around and attacks %s while moving backwards!",
+  "translation": "<npcname> turns around and attacks %s while moving backwards!",
+  "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_switch",
+  "stage": 1
+ },
+ {
+  "key": "cf7c4b6ff96acd9aab140e532af21a95",
+  "original": "<npcname> was almost grabbed by %s, but they break its grab!",
+  "translation": "<npcname> was almost grabbed by %s，but they break its grab！",
+  "context": "ID: tec_kokoro_grab_break2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_grab_break2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_grab_break2",
   "stage": 1
  },
  {
@@ -1196,6 +1244,13 @@
   "stage": 1
  },
  {
+  "key": "bb3a7fd1a3cdd1fec723422f9ac57d73",
+  "original": "Actual dash for dash_kokoro ",
+  "translation": "Actual dash for dash_kokoro ",
+  "context": "ID: dash_kokoro2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_kokoro2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_kokoro2",
+  "stage": 1
+ },
+ {
   "key": "c2ee54023a7890969e29d1fe3a6dfd61",
   "original": "Actual shriek for shrieking_10d4 ",
   "translation": "Actual shriek for shrieking_10d4 ",
@@ -1204,7 +1259,7 @@
  {
   "key": "d6e90a8c94ad2f2ba695ccd9c29c8bfe",
   "original": "Adds Touhou Project characters as professions.  Coregame balance not guaranteed.",
-  "translation": "增加东方Project中的人物作为职业。不保证平衡性。",
+  "translation": "增加东方Project中的人物作为职业。不保证平衡性。（需要在“场景”里选择东方职业）",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MOD_INFO→[0]\n",
   "stage": 3
  },
@@ -1322,7 +1377,6 @@
   "key": "1647ec0cb04a4fee27a7e874ddda4fec",
   "original": "AoE fire effect for dash_mokou ",
   "translation": "AoE fire effect for dash_mokou ",
-  "context": "ID: dash_mokou2_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou2_OLD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou2_OLD",
   "stage": 1
  },
  {
@@ -1337,6 +1391,13 @@
   "translation": "在附近的人类尸体（或足够近的距离）上施放芳香的灵符，使其复活并让她的人格掌控身体。",
   "context": "ID: seiga_yoshikasumm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshikasumm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshikasumm",
   "stage": 3
+ },
+ {
+  "key": "23cbeee6725b60618f5a15d4b866fcce",
+  "original": "Attack repeatedly in front of you.  Requires a 2h weapon.",
+  "translation": "Attack repeatedly in front of you.  Requires a 2h weapon.",
+  "context": "ID: kokoro_quick_attack\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_quick_attack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_quick_attack",
+  "stage": 1
  },
  {
   "key": "e7df694611f0224663f2d548bd5f147d",
@@ -1378,6 +1439,20 @@
   "original": "Backflip",
   "translation": "Backflip",
   "context": "ID: tec_tenko_backflip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_backflip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_tenko_backflip",
+  "stage": 1
+ },
+ {
+  "key": "5f3eb3bb444b20bd875e84c095b280c2",
+  "original": "Backsweep",
+  "translation": "Backsweep",
+  "context": "ID: kokoro_backsweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_backsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_backsweep",
+  "stage": 1
+ },
+ {
+  "key": "84f7f86e2caa4739135cc84ae1a2ea04",
+  "original": "Backsweep (pull)",
+  "translation": "Backsweep (pull)",
+  "context": "ID: kokoro_backsweep2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_backsweep2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_backsweep2",
   "stage": 1
  },
  {
@@ -1522,7 +1597,6 @@
   "key": "6fd53f1b6ce629b6f026d02ecc3fac1f",
   "original": "Boost stance",
   "translation": "Boost stance",
-  "context": "ID: kokoro_mask_boost\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_mask_boost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_mask_boost",
   "stage": 1
  },
  {
@@ -1620,8 +1694,14 @@
   "key": "7c2b11080ae307d81619869492330bd3",
   "original": "Cause a small burst of fire beneath your feet to launch yourself forward.",
   "translation": "在脚下造成小范围的火焰爆炸使自己向前推进.",
-  "context": "ID: dash_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou",
   "stage": 3
+ },
+ {
+  "key": "b3404e76fbe80756089c1df4826fe583",
+  "original": "Cause an explosion beneath your feet to launch yourself forward.",
+  "translation": "Cause an explosion beneath your feet to launch yourself forward.",
+  "context": "ID: dash_mokou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou",
+  "stage": 1
  },
  {
   "key": "d89ae88d9311472dedeb9f363c82416a",
@@ -1712,6 +1792,13 @@
   "original": "Celestial stance (Oarfish)",
   "translation": "Celestial stance (Oarfish)",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_celestial_brawling_iku",
+  "stage": 1
+ },
+ {
+  "key": "bdb0ee735e101e75ed56211386127c96",
+  "original": "Celestial stance (cc resist)",
+  "translation": "Celestial stance (cc resist)",
+  "context": "ID: CELESTIAL_STANCE_KNOCKS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→CELESTIAL_STANCE_KNOCKS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CELESTIAL_STANCE_KNOCKS",
   "stage": 1
  },
  {
@@ -2001,10 +2088,52 @@
   "stage": 1
  },
  {
+  "key": "5511e79dc80da9c96dbeaa0f81f7605a",
+  "original": "Damage component for meiling_mountainbreak",
+  "translation": "Damage component for meiling_mountainbreak",
+  "context": "ID: meiling_mountainbreak2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_mountainbreak2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_mountainbreak2",
+  "stage": 1
+ },
+ {
   "key": "6ab6ba6191e26658fc24069ba814fb4e",
   "original": "Damage component for remilia_demonfork ",
   "translation": "Damage component for remilia_demonfork ",
   "context": "ID: remilia_demonfork3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→remilia_demonfork3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=remilia_demonfork3",
+  "stage": 1
+ },
+ {
+  "key": "e982a31459dbd5b0d81e73ca069fa03a",
+  "original": "Damage component for tec_iku_palm ",
+  "translation": "Damage component for tec_iku_palm ",
+  "context": "ID: iku_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_palm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_palm",
+  "stage": 1
+ },
+ {
+  "key": "cc5b1d8503ae216064d2cc524d2d8ce2",
+  "original": "Damage component for tec_iku_rising_drill ",
+  "translation": "Damage component for tec_iku_rising_drill ",
+  "context": "ID: iku_rising_drill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_iku.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_rising_drill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_rising_drill",
+  "stage": 1
+ },
+ {
+  "key": "03b04a6a8d9c9b9d178f9bcdf8f1c3ca",
+  "original": "Damage component for tec_iku_step ",
+  "translation": "Damage component for tec_iku_step ",
+  "context": "ID: iku_step\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_iku.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_step\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_step",
+  "stage": 1
+ },
+ {
+  "key": "4132f1985631f2d05886e3d676ce3e09",
+  "original": "Damage component for tec_kokoro_spin ",
+  "translation": "Damage component for tec_kokoro_spin ",
+  "context": "ID: kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_spin",
+  "stage": 1
+ },
+ {
+  "key": "97e15f643b4a4be225ef7057736ddd45",
+  "original": "Damage component for tec_tenko_stomp ",
+  "translation": "Damage component for tec_tenko_stomp ",
+  "context": "ID: tenko_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_stomp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_stomp",
   "stage": 1
  },
  {
@@ -2053,7 +2182,7 @@
   "key": "3663598d5c5858b5a6040b1bbed4f187",
   "original": "Dash",
   "translation": "冲刺",
-  "context": "ID: dash_mokou2_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou2_OLD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou2_OLD",
+  "context": "ID: dash_basic\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_basic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_basic",
   "stage": 3
  },
  {
@@ -2075,6 +2204,13 @@
   "original": "Dash dominance",
   "translation": "Dash dominance",
   "context": "ID: dash_aya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_aya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_aya",
+  "stage": 1
+ },
+ {
+  "key": "1263314e38a98fedefdfb8159ae85047",
+  "original": "Dash for dash_mokou ",
+  "translation": "Dash for dash_mokou ",
+  "context": "ID: dash_mokou3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou3",
   "stage": 1
  },
  {
@@ -2317,7 +2453,13 @@
   "key": "57896ea928ce865d7abb4ac249727667",
   "original": "Double palm discharge (Crit)",
   "translation": "Double palm discharge (Crit)",
-  "context": "ID: tec_iku_palm2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_palm2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_iku_palm2",
+  "stage": 1
+ },
+ {
+  "key": "28d203305a4287aec6ef6c12032a1f33",
+  "original": "Double palm discharge (damage)",
+  "translation": "Double palm discharge (damage)",
+  "context": "ID: iku_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_palm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_palm",
   "stage": 1
  },
  {
@@ -2394,6 +2536,13 @@
   "original": "Earth stomp",
   "translation": "Earth stomp",
   "context": "ID: tec_tenko_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_stomp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_tenko_stomp",
+  "stage": 1
+ },
+ {
+  "key": "e80c7c27c03ee33bacc93d934746064b",
+  "original": "Earth stomp (damage)",
+  "translation": "Earth stomp (damage)",
+  "context": "ID: tenko_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_stomp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_stomp",
   "stage": 1
  },
  {
@@ -2577,44 +2726,44 @@
  {
   "key": "d3a1760d61950a5eac95c95a2586a9f4",
   "original": "Eye color: black",
-  "translation": "Eye color: black",
+  "translation": "眼睛：黑",
   "context": "ID: eye_black_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_black_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_black_touhou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ecf696754fe7dbc8988ebc0dcd9710c",
   "original": "Eye color: blue",
-  "translation": "Eye color: blue",
+  "translation": "眼睛：蓝",
   "context": "ID: eye_blue_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_blue_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_blue_touhou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6c3f6480aae64ad4b591c32325965295",
   "original": "Eye color: brown",
-  "translation": "Eye color: brown",
+  "translation": "眼睛：棕",
   "context": "ID: eye_brown_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_brown_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_brown_touhou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "00f9aebca4ecd0e2ee916a0c10781a15",
   "original": "Eye color: pink",
-  "translation": "Eye color: pink",
+  "translation": "眼睛：粉",
   "context": "ID: eye_pink_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_pink_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_pink_touhou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7a786107d43ccfd7f293feb8eb15333c",
   "original": "Eye color: red",
-  "translation": "Eye color: red",
+  "translation": "眼睛：红",
   "context": "ID: eye_red_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_red_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_red_touhou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6859b5059046db2a62a9a818b53617bb",
   "original": "Eye color: silver",
-  "translation": "Eye color: silver",
+  "translation": "眼睛：银",
   "context": "ID: eye_silver_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_silver_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_silver_touhou",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ff3b742848886f9eff7b09e592fa454e",
@@ -2757,6 +2906,20 @@
   "original": "Fire burst",
   "translation": "Fire burst",
   "context": "ID: tec_mokou_fire_burst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_fire_burst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_mokou_fire_burst",
+  "stage": 1
+ },
+ {
+  "key": "ba8750b1829a0d768c466ff5fdc74074",
+  "original": "Fire burst (EOC)",
+  "translation": "Fire burst (EOC)",
+  "context": "ID: dash_mokou2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou2",
+  "stage": 1
+ },
+ {
+  "key": "071fba5515c38dec4cc80fb3f0080413",
+  "original": "Fire burst (dash)",
+  "translation": "Fire burst (dash)",
+  "context": "ID: dash_mokou3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou3",
   "stage": 1
  },
  {
@@ -3004,7 +3167,7 @@
   "key": "ddf4d313876c07494c173bcb40dedf3e",
   "original": "Grab Break",
   "translation": "反擒拿",
-  "context": "ID: tec_celestial_brawling_break_unarmed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_celestial_brawling_break_unarmed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_celestial_brawling_break_unarmed",
+  "context": "ID: tec_kokoro_grab_break2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_grab_break2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_grab_break2",
   "stage": 3
  },
  {
@@ -3094,7 +3257,8 @@
   "key": "ae0c8ec50c69288828ed7bdc249deefe",
   "original": "Hair: black, short",
   "translation": "头发：黑，短发",
-  "context": "ID: hair_aya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_aya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair_aya"
+  "context": "ID: hair_aya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_aya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair_aya",
+  "stage": 3
  },
  {
   "key": "11e3da422cbf1a30c98e22d9280b5c5c",
@@ -3106,7 +3270,7 @@
  {
   "key": "2e0b09158bfe3bf2387069468538e42a",
   "original": "Hair: blue, long",
-  "translation": "Hair: blue, long",
+  "translation": "头发：蓝，长发",
   "context": "ID: hair_tenko\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_tenko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair_tenko",
   "stage": 1
  },
@@ -3156,7 +3320,8 @@
   "key": "9aa987af96dae89496bb1ec94ccf0c34",
   "original": "Hair: red, long",
   "translation": "头发：红，长发",
-  "context": "ID: hair_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_meiling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair_meiling"
+  "context": "ID: hair_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_meiling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair_meiling",
+  "stage": 3
  },
  {
   "key": "6016f37799450674e95f4ddaa4bfd33a",
@@ -3596,6 +3761,13 @@
   "stage": 1
  },
  {
+  "key": "d3d6fb269c59dcbc56830c1c43dbd688",
+  "original": "Infuse your weapon with spiritual energy and sweep in front of you, pulling enemies towards your position.",
+  "translation": "Infuse your weapon with spiritual energy and sweep in front of you, pulling enemies towards your position.",
+  "context": "ID: kokoro_backsweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_backsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_backsweep",
+  "stage": 1
+ },
+ {
   "key": "205b28249dc72beae456d706ff8d1e3d",
   "original": "Invoke a wind gale that deals instant damage and pushes back those who're caught inside.",
   "translation": "召唤一阵暴风，对敌人造成伤害，并击飞指定区域的敌人。",
@@ -3634,6 +3806,12 @@
   "key": "2def4cff896d7a6713a381065a5880ef",
   "original": "It was time to retrieve a fancy new costume the Puppeteer crafred for your show next week.  On your way through the forest, a human attacked you without declaring a duel.  Given they were wearing clothes from the Outside, you defended yourself… pretty sure you didn't hit them that hard.  You're also pretty sure this isn't the Forest at all.",
   "translation": "It was time to retrieve a fancy new costume the Puppeteer crafred for your show next week.  On your way through the forest, a human attacked you without declaring a duel.  Given they were wearing clothes from the Outside, you defended yourself… pretty sure you didn't hit them that hard.  You're also pretty sure this isn't the Forest at all.",
+  "stage": 1
+ },
+ {
+  "key": "0639228257dd331890bc19ce77d2bc61",
+  "original": "It was time to retrieve a fancy new costume the Puppeteer crafted for your show next week.  On your way through the forest, a human attacked you without declaring a duel.  Given they were wearing clothes from the Outside, you defended yourself… pretty sure you didn't hit them that hard.  You're also pretty sure this isn't the Forest at all.",
+  "translation": "It was time to retrieve a fancy new costume the Puppeteer crafted for your show next week.  On your way through the forest, a human attacked you without declaring a duel.  Given they were wearing clothes from the Outside, you defended yourself… pretty sure you didn't hit them that hard.  You're also pretty sure this isn't the Forest at all.",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→[2]\n",
   "stage": 1
  },
@@ -3746,7 +3924,8 @@
   "key": "25be0b1d56b9cf5c6fbb2dfda9014146",
   "original": "Ki Strike",
   "translation": "斗气击",
-  "context": "ID: KI_STRIKE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KI_STRIKE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KI_STRIKE"
+  "context": "ID: KI_STRIKE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KI_STRIKE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KI_STRIKE",
+  "stage": 3
  },
  {
   "key": "b2edd6499dae24a494d3ce62a44172ea",
@@ -3774,6 +3953,13 @@
   "original": "Knife retrieval",
   "translation": "取回飞刀",
   "context": "ID: sakuya_knifepull2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_knifepull2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull2",
+  "stage": 1
+ },
+ {
+  "key": "8eed349d1ffea9ff43a70c6db144afa4",
+  "original": "Knockback and knockdown resistance for Tenko's martial art.",
+  "translation": "Knockback and knockdown resistance for Tenko's martial art.",
+  "context": "ID: CELESTIAL_STANCE_KNOCKS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→CELESTIAL_STANCE_KNOCKS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CELESTIAL_STANCE_KNOCKS",
   "stage": 1
  },
  {
@@ -3831,6 +4017,13 @@
   "translation": "湖边小屋",
   "context": "ID: sloc_cabin_lake\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_start_locations.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→start_location→sloc_cabin_lake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sloc_cabin_lake",
   "stage": 3
+ },
+ {
+  "key": "97e06972105bb414c9739d234dbf3d28",
+  "original": "Land dmg for dash_kokoro ",
+  "translation": "Land dmg for dash_kokoro ",
+  "context": "ID: dash_kokoro3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_kokoro3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_kokoro3",
+  "stage": 1
  },
  {
   "key": "188613caf269bc41f68f1691efe589af",
@@ -4149,6 +4342,27 @@
   "stage": 1
  },
  {
+  "key": "cb1ae7c55cde5f4e60050d323f327de7",
+  "original": "Mask: Swap",
+  "translation": "Mask: Swap",
+  "context": "ID: kokoro_mask_swap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_mask_swap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_mask_swap",
+  "stage": 1
+ },
+ {
+  "key": "ee5878380208defec3ef5e289bc88cb2",
+  "original": "Mask: Unequip",
+  "translation": "Mask: Unequip",
+  "context": "ID: kokoro_mask_neutral\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_mask_neutral\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_mask_neutral",
+  "stage": 1
+ },
+ {
+  "key": "e1536c195255641f70f5af2a89c3898d",
+  "original": "Mask: boost",
+  "translation": "Mask: boost",
+  "context": "ID: kokoro_mask_boost\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_mask_boost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_mask_boost",
+  "stage": 1
+ },
+ {
   "key": "995783906af05089cddb3733ecca1a10",
   "original": "Materialize your half-phantom self, who aids you by attacking nearby enemies for a short time.",
   "translation": "唤出你的半身，在短时间内帮助攻击你身旁的敌人。",
@@ -4268,6 +4482,13 @@
   "original": "Mountain breaking cannon",
   "translation": "Mountain breaking cannon",
   "context": "ID: meiling_mountainbreak\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_mountainbreak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_mountainbreak",
+  "stage": 1
+ },
+ {
+  "key": "329341420d8740d6b79010cb4d50049b",
+  "original": "Mountain breaking cannon (dmg)",
+  "translation": "Mountain breaking cannon (dmg)",
+  "context": "ID: meiling_mountainbreak2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_mountainbreak2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_mountainbreak2",
   "stage": 1
  },
  {
@@ -4611,10 +4832,16 @@
   "stage": 1
  },
  {
+  "key": "2533823931fecd822bec3abfbdc6e7b4",
+  "original": "Prepare your entire body in order to deal massive damage to an enemy after parrying an attack.  The attack will fail if you don't parry immediately after using it.",
+  "translation": "Prepare your entire body in order to deal massive damage to an enemy after parrying an attack.  The attack will fail if you don't parry immediately after using it.",
+  "context": "ID: meiling_mountainbreak\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_mountainbreak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_mountainbreak",
+  "stage": 1
+ },
+ {
   "key": "59d4efd98f987bb0b1e8ebaec860af94",
   "original": "Prepare your entire body in order to deal massive damage to an enemy.",
   "translation": "Prepare your entire body in order to deal massive damage to an enemy.",
-  "context": "ID: meiling_mountainbreak\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_mountainbreak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_mountainbreak",
   "stage": 1
  },
  {
@@ -4629,6 +4856,13 @@
   "original": "Probability noise (effect)",
   "translation": "Probability noise (effect)",
   "context": "ID: reisen_pnoise\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→reisen_pnoise\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reisen_pnoise",
+  "stage": 1
+ },
+ {
+  "key": "6ab24833fcc675f22ddaccd64f9d8d57",
+  "original": "Pull component for kokoro_backsweep ",
+  "translation": "Pull component for kokoro_backsweep ",
+  "context": "ID: kokoro_backsweep2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_backsweep2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_backsweep2",
   "stage": 1
  },
  {
@@ -4736,10 +4970,30 @@
   "stage": 1
  },
  {
+  "key": "f7d08ce24c7875bce2132811edd5f62d",
+  "original": "Qi stomp (visual effect)",
+  "translation": "Qi stomp (visual effect)",
+  "context": "ID: meiling_stomp_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_stomp_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_stomp_effect",
+  "stage": 1
+ },
+ {
+  "key": "2becc93c2240ee333afae32df739f730",
+  "original": "Quick attack",
+  "translation": "Quick attack",
+  "context": "ID: kokoro_quick_attack\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_quick_attack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_quick_attack",
+  "stage": 1
+ },
+ {
+  "key": "5575cf91d4536989f76443c8cb3d94e4",
+  "original": "Quick attack (copies)",
+  "translation": "Quick attack (copies)",
+  "context": "ID: kokoro_quick_attack2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_quick_attack2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_quick_attack2",
+  "stage": 1
+ },
+ {
   "key": "ffe41e16acbd4ed87cab021e0b69f702",
   "original": "Quickly ignite the air around you, causing the air pressure to rapidly increase to impulse yourself forward.  This lits nearby terrain on fire and deals a small amount of fire damage.",
   "translation": "瞬间点燃你周围的空气，使空气压力迅速增加，推动你向前冲刺。这会点燃附近的地形并造成少量火焰伤害。",
-  "context": "ID: dash_mokou_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou_OLD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou_OLD",
   "stage": 3
  },
  {
@@ -5018,6 +5272,13 @@
   "stage": 1
  },
  {
+  "key": "ab2642d9541312ded4abf598bd63692c",
+  "original": "Rising drill (damage)",
+  "translation": "Rising drill (damage)",
+  "context": "ID: iku_rising_drill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_iku.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_rising_drill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_rising_drill",
+  "stage": 1
+ },
+ {
   "key": "a52a79843ae1bca3f2051df89327b91c",
   "original": "Rising fang",
   "translation": "Rising fang",
@@ -5042,6 +5303,27 @@
   "key": "12a4f54d1d02344fe4086f52691a1075",
   "original": "Roar.",
   "translation": "Roar.",
+  "stage": 1
+ },
+ {
+  "key": "48882413bd7c10c4aa79539a97eb189a",
+  "original": "Roaring fox mask",
+  "translation": "Roaring fox mask",
+  "context": "ID: dash_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_kokoro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_kokoro",
+  "stage": 1
+ },
+ {
+  "key": "9082e3e34c3b5d0cf381a540df7b059e",
+  "original": "Roaring fox mask (dash)",
+  "translation": "Roaring fox mask (dash)",
+  "context": "ID: dash_kokoro2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_kokoro2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_kokoro2",
+  "stage": 1
+ },
+ {
+  "key": "3c4983b8a7cfe02efa98b68abb3564a8",
+  "original": "Roaring fox mask (land dmg)",
+  "translation": "Roaring fox mask (land dmg)",
+  "context": "ID: dash_kokoro3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_kokoro3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_kokoro3",
   "stage": 1
  },
  {
@@ -5246,6 +5528,13 @@
   "stage": 1
  },
  {
+  "key": "862a70b714e0ad573b21023928d26444",
+  "original": "Shock step (damage)",
+  "translation": "Shock step (damage)",
+  "context": "ID: iku_step\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_iku.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→iku_step\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_step",
+  "stage": 1
+ },
+ {
   "key": "a61bab056ee73136f49f200222d3b5df",
   "original": "Shoot a beam of solar energy, dealing damage to any affected enemy in the path.",
   "translation": "放出一道太阳热能射线，能对经过路径上的敌人造成伤害。",
@@ -5271,6 +5560,13 @@
   "original": "Shoulder strike: Stay out",
   "translation": "Shoulder strike: Stay out",
   "context": "ID: tec_meiling_pshoulder_strike\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_pshoulder_strike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_meiling_pshoulder_strike",
+  "stage": 1
+ },
+ {
+  "key": "f3a8ab936a111eaa535598ffcb43e6b6",
+  "original": "Shouting giant spider mask",
+  "translation": "Shouting giant spider mask",
+  "context": "ID: kokoro_shouting_gspider\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_shouting_gspider\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_shouting_gspider",
   "stage": 1
  },
  {
@@ -5468,6 +5764,12 @@
   "key": "c58c41d5c94e049185738c64ec9cb698",
   "original": "Sphere of non-perception",
   "translation": "Sphere of non-perception",
+  "stage": 1
+ },
+ {
+  "key": "1d10e070e3f7e6e3d3bf3dc8f5c9a321",
+  "original": "Sphere of non-perception (debuff)",
+  "translation": "Sphere of non-perception (debuff)",
   "context": "ID: style_celestial_brawling_tenko\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_tenko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_celestial_brawling_tenko",
   "stage": 1
  },
@@ -5476,6 +5778,20 @@
   "original": "Sphere of perception",
   "translation": "Sphere of perception",
   "context": "ID: style_celestial_brawling_tenko\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_tenko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_celestial_brawling_tenko",
+  "stage": 1
+ },
+ {
+  "key": "0dc0f63421f7e782064b39ae88b07d3a",
+  "original": "Spin attack",
+  "translation": "Spin attack",
+  "context": "ID: tec_kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_spin",
+  "stage": 1
+ },
+ {
+  "key": "f6542da84cfd29f48a88b1b676cdef18",
+  "original": "Spin attack (damage)",
+  "translation": "Spin attack (damage)",
+  "context": "ID: kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_spin",
   "stage": 1
  },
  {
@@ -5621,6 +5937,13 @@
   "original": "Stun component of yamame_damnedrope ",
   "translation": "Stun component of yamame_damnedrope ",
   "context": "ID: yamame_damnedrope3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope3",
+  "stage": 1
+ },
+ {
+  "key": "7fa5e30f0cae4caae2621534881751fb",
+  "original": "Subspell for dash_mokou, this queues the actual dash via EOC",
+  "translation": "Subspell for dash_mokou, this queues the actual dash via EOC",
+  "context": "ID: dash_mokou2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_mokou2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_mokou2",
   "stage": 1
  },
  {
@@ -5778,7 +6101,6 @@
   "key": "73e32800645eeab191cc727e3a1c7bb4",
   "original": "Swap mask",
   "translation": "Swap mask",
-  "context": "ID: kokoro_mask_swap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_mask_swap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_mask_swap",
   "stage": 1
  },
  {
@@ -5800,6 +6122,13 @@
   "original": "Sweeping kick",
   "translation": "Sweeping kick",
   "context": "ID: tec_meiling_down\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_down\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_meiling_down",
+  "stage": 1
+ },
+ {
+  "key": "3a048f8946603cb2d4732f72e105b705",
+  "original": "Switch attack",
+  "translation": "Switch attack",
+  "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_switch",
   "stage": 1
  },
  {
@@ -5890,6 +6219,20 @@
   "original": "Temporal dilation (effect)",
   "translation": "Temporal dilation (effect)",
   "context": "ID: sakuya_dilation_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_dilation_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_dilation_effect",
+  "stage": 1
+ },
+ {
+  "key": "d96bda14deaa53e50c79113a051a755d",
+  "original": "Temporarely equip your Roaring Fox mask to quickly jump towards an enemy, dealing damage after landing.",
+  "translation": "Temporarely equip your Roaring Fox mask to quickly jump towards an enemy, dealing damage after landing.",
+  "context": "ID: dash_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_kokoro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_kokoro",
+  "stage": 1
+ },
+ {
+  "key": "c556aa7752e01de1e2198c8da076bbc9",
+  "original": "Temporarely equip your Shouting Giant Spider mask and unleash webs in front of you, slowing down enemies.",
+  "translation": "Temporarely equip your Shouting Giant Spider mask and unleash webs in front of you, slowing down enemies.",
+  "context": "ID: kokoro_shouting_gspider\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_shouting_gspider\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_shouting_gspider",
   "stage": 1
  },
  {
@@ -6645,7 +6988,6 @@
   "key": "28644c44ad78ac858fc246fcda247dc9",
   "original": "Unequip mask",
   "translation": "Unequip mask",
-  "context": "ID: kokoro_mask_neutral\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kokoro.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kokoro_mask_neutral\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_mask_neutral",
   "stage": 1
  },
  {
@@ -6877,6 +7219,13 @@
   "stage": 1
  },
  {
+  "key": "e865703b3d37b90e1298dfe5dd48a4e9",
+  "original": "Visual effect for tec_meiling_stomp ",
+  "translation": "Visual effect for tec_meiling_stomp ",
+  "context": "ID: meiling_stomp_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_stomp_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meiling_stomp_effect",
+  "stage": 1
+ },
+ {
   "key": "57625f203c862b5999b9a5ac2966d760",
   "original": "Visual effect for the aoe, so the player is aware of the effect boundary",
   "translation": "Visual effect for the aoe, so the player is aware of the effect boundary",
@@ -6955,6 +7304,20 @@
   "original": "Wavelength manipulation (Stealth)",
   "translation": "Wavelength manipulation （Stealth）",
   "context": "ID: udonge_wavestealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavestealth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_wavestealth",
+  "stage": 1
+ },
+ {
+  "key": "9c9ca92b02561ff3b4c72a3db0e81359",
+  "original": "Weapon swing",
+  "translation": "Weapon swing",
+  "context": "ID: tec_kokoro_swing\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_swing",
+  "stage": 1
+ },
+ {
+  "key": "211fa2e67bbec77b37ed1fc32a9e5b29",
+  "original": "Weapon swing (fast)",
+  "translation": "Weapon swing (fast)",
+  "context": "ID: tec_kokoro_swing_fast\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_fast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_swing_fast",
   "stage": 1
  },
  {
@@ -7323,7 +7686,6 @@
   "key": "fa3bd00b9402397aeaae7c21ab09b5a9",
   "original": "You cross your hands and discharge energy through %s!",
   "translation": "You cross your hands and discharge energy through %s!",
-  "context": "ID: tec_iku_palm2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_palm2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_iku_palm2",
   "stage": 1
  },
  {
@@ -7899,6 +8261,13 @@
   "stage": 1
  },
  {
+  "key": "f0139c7afb75165573bce2ab3f5280a1",
+  "original": "You spin, hitting nearby enemies!",
+  "translation": "You spin, hitting nearby enemies!",
+  "context": "ID: tec_kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_spin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_spin",
+  "stage": 1
+ },
+ {
   "key": "1ab78b786b4c453f69effbc8c45422ef",
   "original": "You start moving to superhuman speeds.",
   "translation": "You start moving to superhuman speeds.",
@@ -7934,6 +8303,13 @@
   "stage": 3
  },
  {
+  "key": "bc855eacd76ce7cfa6ff8617a46e8e90",
+  "original": "You sweep %s!",
+  "translation": "You sweep %s!",
+  "context": "ID: tec_kokoro_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_sweep",
+  "stage": 1
+ },
+ {
   "key": "6c3ead8c9f705b5c692af6ba7b9f2cc5",
   "original": "You sweep at %s",
   "translation": "You sweep at %s",
@@ -7959,6 +8335,20 @@
   "original": "You swing a low wide arc at %s, knocking them back!",
   "translation": "You swing a low wide arc at %s，knocking them back！",
   "context": "ID: tec_iku_earthen_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_earthen_crescent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_iku_earthen_crescent",
+  "stage": 1
+ },
+ {
+  "key": "53ef4f8f3cf1b48865ce088e1997a875",
+  "original": "You swing at %s!",
+  "translation": "You swing at %s!",
+  "context": "ID: tec_kokoro_swing\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_swing",
+  "stage": 1
+ },
+ {
+  "key": "21f262fe631fb63ba5b438717d1de612",
+  "original": "You swing quickly at %s!",
+  "translation": "You swing quickly at %s!",
+  "context": "ID: tec_kokoro_swing_fast\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_fast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_swing_fast",
   "stage": 1
  },
  {
@@ -7997,6 +8387,13 @@
   "stage": 1
  },
  {
+  "key": "eb5b4c413a253d0b1361dc0d496ecc06",
+  "original": "You turn around and attack %s while moving backwards!",
+  "translation": "You turn around and attack %s while moving backwards!",
+  "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_switch",
+  "stage": 1
+ },
+ {
   "key": "f55be6194f0223b9da5dbbda7844691d",
   "original": "You wear the Hannya mask.  Anger.",
   "translation": "You wear the Hannya mask.  Anger.",
@@ -8030,6 +8427,13 @@
   "translation": "你正在随同绵月姐妹拜访地球时，大灾变突然爆发了！在随后的混乱和恐慌中，结界崩溃了（这是你从别人那里听到的）。你和别人走散了，现在独自一人。更糟糕的是，你无法使用月兔网络联系同伴。你掌握了一些月球防卫队训练的技能，但这些不足以让你生存下去…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→[7]\n",
   "stage": 3
+ },
+ {
+  "key": "60a8977eb8cee0347cac60db97732147",
+  "original": "You were almost grabbed by %s, but you break its grab!",
+  "translation": "You were almost grabbed by %s，but you break its grab！",
+  "context": "ID: tec_kokoro_grab_break2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_grab_break2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_grab_break2",
+  "stage": 1
  },
  {
   "key": "5aa05f9e758c61fd12f5cc9a3e90a75f",
@@ -8302,7 +8706,6 @@
   "key": "792baa146200f35398bf0156d4df5702",
   "original": "You're used to do as much damage as possible without care for your safety.  Solid as a keystone, your chance to land hits is increased and evasive actions are reduced.",
   "translation": "You're used to do as much damage as possible without care for your safety.  Solid as a keystone, your chance to land hits is increased and evasive actions are reduced.",
-  "context": "ID: style_celestial_brawling_tenko\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_tenko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_celestial_brawling_tenko",
   "stage": 1
  },
  {
@@ -8315,6 +8718,13 @@
   "key": "0ef54da6b5be1dd7f4fae2fc1df29eb7",
   "original": "You're used to do as much damage as possible without care for your safety.  Solid as a keystone, your chance to land hits is increased, you're immune to throws and evasive actions are reduced.",
   "translation": "You're used to do as much damage as possible without care for your safety.  Solid as a keystone, your chance to land hits is increased, you're immune to throws and evasive actions are reduced.",
+  "stage": 1
+ },
+ {
+  "key": "a9072836e294925037dd6434a7442573",
+  "original": "You're used to do as much damage as possible without care for your safety.  Solid as a keystone, your chance to land hits is increased, you're immune to throws, and evasive actions are reduced.",
+  "translation": "You're used to do as much damage as possible without care for your safety.  Solid as a keystone, your chance to land hits is increased, you're immune to throws, and evasive actions are reduced.",
+  "context": "ID: style_celestial_brawling_tenko\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_tenko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_celestial_brawling_tenko",
   "stage": 1
  },
  {
@@ -8534,10 +8944,16 @@
   "stage": 1
  },
  {
+  "key": "e5358af1c818d0fe455407d479af2e9c",
+  "original": "Yourself, basically.  You get different effects according to your currently equipped mask.  Always increases the number of evades you can perform.",
+  "translation": "Yourself, basically.  You get different effects according to your currently equipped mask.  Always increases the number of evades you can perform.",
+  "context": "ID: style_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kokoro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_kokoro",
+  "stage": 1
+ },
+ {
   "key": "d6f89d9973b54ef3826eb83db209675d",
   "original": "Yourself, basically.  You get different effects according to your currently equipped mask.  You're always slightly more evasive, at the very least.",
   "translation": "Yourself, basically.  You get different effects according to your currently equipped mask.  You're always slightly more evasive, at the very least.",
-  "context": "ID: style_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kokoro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_kokoro",
   "stage": 1
  },
  {
@@ -8565,13 +8981,15 @@
   "key": "62f67ec79183896fd864ed2564228865",
   "original": "a fungus",
   "translation": "异界真菌",
-  "context": "ID: FUNGUS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→FUNGUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FUNGUS"
+  "context": "ID: FUNGUS\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→FUNGUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FUNGUS",
+  "stage": 3
  },
  {
   "key": "817d095802a97d7fb7736f1aa39bd217",
   "original": "a horror",
   "translation": "恐怖怪物",
-  "context": "ID: HORROR\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→HORROR\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HORROR"
+  "context": "ID: HORROR\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→HORROR\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HORROR",
+  "stage": 3
  },
  {
   "key": "5ca282c8b9481c3818f05c74301e35c1",
@@ -8584,13 +9002,15 @@
   "key": "471435dc111afe511f4179f6e346b547",
   "original": "a leech plant",
   "translation": "吸血植物",
-  "context": "ID: LEECH_PLANT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→LEECH_PLANT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=LEECH_PLANT"
+  "context": "ID: LEECH_PLANT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→LEECH_PLANT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=LEECH_PLANT",
+  "stage": 3
  },
  {
   "key": "784415611e9147eeca29f1bb1a3a649d",
   "original": "a nether creature",
   "translation": "异界生物",
-  "context": "ID: NETHER\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→NETHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=NETHER"
+  "context": "ID: NETHER\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→NETHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=NETHER",
+  "stage": 3
  },
  {
   "key": "0e700fc6c5701fdbe0bfd38ce97fc6fc",
@@ -8610,25 +9030,29 @@
   "key": "17fac858a9d83ac14ad2dc09bb0c7d4b",
   "original": "a robot",
   "translation": "机器人",
-  "context": "ID: ROBOT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ROBOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ROBOT"
+  "context": "ID: ROBOT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ROBOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ROBOT",
+  "stage": 3
  },
  {
   "key": "e624599b6a9e4f1bbde107cb39944595",
   "original": "a slime",
   "translation": "变形怪",
-  "context": "ID: SLIME\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→SLIME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SLIME"
+  "context": "ID: SLIME\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→SLIME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SLIME",
+  "stage": 3
  },
  {
   "key": "1da279cb4e72a3481ede3a1c6bd3aafa",
   "original": "a zombie",
   "translation": "丧尸",
-  "context": "ID: ZOMBIE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ZOMBIE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ZOMBIE"
+  "context": "ID: ZOMBIE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ZOMBIE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ZOMBIE",
+  "stage": 3
  },
  {
   "key": "61ee8bc832185a04d4b0251fe3bfc5e5",
   "original": "an alien cyborg",
   "translation": "异界改造人",
-  "context": "ID: CYBORG\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→CYBORG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CYBORG"
+  "context": "ID: CYBORG\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→CYBORG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CYBORG",
+  "stage": 3
  },
  {
   "key": "e94ccf2c670a5923531b7c4ff1d7a70f",
@@ -8690,7 +9114,8 @@
   "key": "6b157916b43b09df5a22f658ccb92b64",
   "original": "blood",
   "translation": "血液",
-  "context": "ID: blood\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→blood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blood"
+  "context": "ID: blood\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→blood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blood",
+  "stage": 3
  },
  {
   "key": "c9a6a81c503ecd9d3c8bebfbf8de1d94",
@@ -8710,13 +9135,15 @@
   "key": "75cc02c7417a8a8e88d6711423acca37",
   "original": "boiled human stomach",
   "translation": "水煮人胃",
-  "context": "ID: small_hstomach_boiled\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→small_hstomach_boiled\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=small_hstomach_boiled"
+  "context": "ID: small_hstomach_boiled\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→small_hstomach_boiled\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=small_hstomach_boiled",
+  "stage": 3
  },
  {
   "key": "989077ecd7e184b259bf57f4435a78b9",
   "original": "boiled large human stomach",
   "translation": "大号水煮人胃",
-  "context": "ID: hstomach_boiled\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→hstomach_boiled\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hstomach_boiled"
+  "context": "ID: hstomach_boiled\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→hstomach_boiled\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hstomach_boiled",
+  "stage": 3
  },
  {
   "key": "9d8945541859e2e9d0fe528e613210c8",
@@ -8806,13 +9233,15 @@
   "key": "92925515540feb637ad2c14f78ad3aca",
   "original": "chunk of human fat",
   "translation": "人脂肪块",
-  "context": "ID: human_fat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_fat"
+  "context": "ID: human_fat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_fat",
+  "stage": 3
  },
  {
   "key": "3fdfe293b81a15229baf622691a4a409",
   "original": "chunk of mutant humanoid fat",
   "translation": "变异人脂肪块",
-  "context": "ID: mutant_human_fat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_fat"
+  "context": "ID: mutant_human_fat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_fat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_fat",
+  "stage": 3
  },
  {
   "key": "8f6ce96693ac8cdbe70e1013b9095fe7",
@@ -9177,7 +9606,8 @@
   "key": "2d40a6abeb31abbb2c77607541767c04",
   "original": "heavy thuds.",
   "translation": "沉闷的重击声。",
-  "context": "ID: CYBORG\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→CYBORG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CYBORG"
+  "context": "ID: CYBORG\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→CYBORG\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CYBORG",
+  "stage": 3
  },
  {
   "key": "96b37eb29181b75049114efdee23b93e",
@@ -9204,19 +9634,22 @@
   "key": "4242b4e25d0509ccf748fb9ee0e83d18",
   "original": "human flesh",
   "translation": "人肉",
-  "context": "ID: human_flesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_flesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_flesh"
+  "context": "ID: human_flesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_flesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_flesh",
+  "stage": 3
  },
  {
   "key": "ccebf05f14a54c8b76b6a831458e40b8",
   "original": "human stomach",
   "translation": "人胃",
-  "context": "ID: hstomach\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→hstomach\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hstomach"
+  "context": "ID: hstomach\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→hstomach\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hstomach",
+  "stage": 3
  },
  {
   "key": "354e177351f47c474a89d150e4a7497e",
   "original": "human tallow",
   "translation": "人油",
-  "context": "ID: human_tallow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_tallow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_tallow"
+  "context": "ID: human_tallow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_tallow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_tallow",
+  "stage": 3
  },
  {
   "key": "67dc2affa744f0e649201dd7d912f820",
@@ -9475,7 +9908,8 @@
   "key": "30c364d1a0bd1cca937e1388e98dd009",
   "original": "mechanical whirring.",
   "translation": "机械嗡嗡声。",
-  "context": "ID: ROBOT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ROBOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ROBOT"
+  "context": "ID: ROBOT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ROBOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ROBOT",
+  "stage": 3
  },
  {
   "key": "2d528261177ca43fc9d6d90552485929",
@@ -9488,7 +9922,8 @@
   "key": "1bbbd157591a4f76e94713062494827e",
   "original": "mutant human blood",
   "translation": "变异人血",
-  "context": "ID: mutant_human_blood\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_blood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_blood"
+  "context": "ID: mutant_human_blood\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_blood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_blood",
+  "stage": 3
  },
  {
   "key": "5cb3cc06132a811105b6138ada776ef8",
@@ -9501,13 +9936,15 @@
   "key": "3a691daf5f6bbfe2ec9de653194b1ea7",
   "original": "mutant humanoid meat",
   "translation": "变异人肉",
-  "context": "ID: mutant_human_flesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_flesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_flesh"
+  "context": "ID: mutant_human_flesh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_flesh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_flesh",
+  "stage": 3
  },
  {
   "key": "820966b93d7540ce6bec2f64614cde11",
   "original": "mutant humanoid tallow",
   "translation": "变异人油",
-  "context": "ID: mutant_human_tallow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_tallow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_tallow"
+  "context": "ID: mutant_human_tallow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→mutant_human_tallow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutant_human_tallow",
+  "stage": 3
  },
  {
   "key": "378c4500b65bad5b7ac7847ff13e74f7",
@@ -9698,9 +10135,9 @@
  {
   "key": "0c96f73689d25f57375cd0fc6f241ae0",
   "original": "piece of raw human lung",
-  "translation": "piece of raw human lung",
+  "translation": "生人肺片",
   "context": "ID: human_lung\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_lung\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_lung",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8c47720f13bcdb6816a7b7a695780248",
@@ -9720,7 +10157,8 @@
   "key": "b471da47004795a7b6c7f628bc1d0e5a",
   "original": "plop.",
   "translation": "扑通声。",
-  "context": "ID: SLIME\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→SLIME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SLIME"
+  "context": "ID: SLIME\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→SLIME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SLIME",
+  "stage": 3
  },
  {
   "key": "811ae2552998ed6e829bef601bd32397",
@@ -9732,42 +10170,44 @@
  {
   "key": "1479b74720c3c620da8ce3287fb97d2e",
   "original": "raw human brains",
-  "translation": "raw human brains",
+  "translation": "生人脑",
   "context": "ID: human_brain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_brain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_brain",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "56ccfc8901423670d7448e17973894e4",
   "original": "raw human kidney",
-  "translation": "raw human kidney",
+  "translation": "生人肾",
   "context": "ID: human_kidney\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_kidney\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_kidney",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "76bacc3e478d380adfce970cf470ded4",
   "original": "raw human liver",
-  "translation": "raw human liver",
+  "translation": "生人肝",
   "context": "ID: human_liver\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_liver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_liver",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "735d74c4879d4874e53052e69cab1115",
   "original": "raw human pelt",
   "translation": "人的生毛皮",
-  "context": "ID: raw_hfur\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→raw_hfur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raw_hfur"
+  "context": "ID: raw_hfur\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→raw_hfur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raw_hfur",
+  "stage": 3
  },
  {
   "key": "30b936a4a7e3952d11f78248930d97f5",
   "original": "raw human skin",
   "translation": "生人皮",
-  "context": "ID: raw_hleather\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→raw_hleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raw_hleather"
+  "context": "ID: raw_hleather\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→raw_hleather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=raw_hleather",
+  "stage": 3
  },
  {
   "key": "b6a66a09a1720428e109b66072bc9bae",
   "original": "raw human sweetbread",
-  "translation": "raw human sweetbread",
+  "translation": "生人杂碎",
   "context": "ID: human_sweetbread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_sweetbread\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_sweetbread",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f00269e4bf1a738a1d8761c837f8221a",
@@ -9840,9 +10280,9 @@
  {
   "key": "a2d5d5c2ca23dfb93accbdce0a9f91b4",
   "original": "scrap of human flesh",
-  "translation": "scrap of human flesh",
+  "translation": "人类碎肉",
   "context": "ID: human_meat_scrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_meat_scrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_meat_scrap",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c056f581043fe275b02d9e1269f11d62",
@@ -9854,9 +10294,9 @@
  {
   "key": "4ffe601a4bf3b3862a2bdab0cf4841c5",
   "original": "scraps of human flesh",
-  "translation": "scraps of human flesh",
+  "translation": "人肉",
   "context": "ID: human_meat_scrap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/comestibles/carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→COMESTIBLE→human_meat_scrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=human_meat_scrap",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e5036d30fcedf7998f08abbb599229e2",
@@ -9883,7 +10323,8 @@
   "key": "a154b81ba1bd6080369cabc994d1be76",
   "original": "shuffling.",
   "translation": "蹒跚蹭地声。",
-  "context": "ID: ZOMBIE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ZOMBIE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ZOMBIE"
+  "context": "ID: ZOMBIE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→ZOMBIE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ZOMBIE",
+  "stage": 3
  },
  {
   "key": "b22bf7963d707b5a4f3fcdc7281045f5",
@@ -9930,7 +10371,7 @@
  {
   "key": "95e2c5c91dac512046a3a004908fb0f5",
   "original": "spirit naginata",
-  "translation": "spirit naginata",
+  "translation": "薙刀",
   "context": "ID: kokoro_naginata\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_etherealitems.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→kokoro_naginata\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kokoro_naginata",
   "stage": 1
  },
@@ -10092,7 +10533,8 @@
   "key": "85655f7c70f51ceb41d43216615a9530",
   "original": "your imagination",
   "translation": "你的想象",
-  "context": "ID: HALLUCINATION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→HALLUCINATION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HALLUCINATION"
+  "context": "ID: HALLUCINATION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→HALLUCINATION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HALLUCINATION",
+  "stage": 3
  },
  {
   "key": "2f8ed7fafd3c1784a3be4da8eb3d106a",
