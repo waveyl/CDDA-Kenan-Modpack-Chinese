@@ -1,245 +1,182 @@
 [
- {
-  "key": "5321d2e168fabb7a3fd4276df9b5d83a",
-  "original": "A mound of fungal matter, intertwined in itself.",
-  "translation": "一堆真菌物质，紧密缠绕在一起。",
-  "context": "ID: t_fungus_mound\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_mound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_mound"
- },
- {
-  "key": "95cf257eceb5387ad00ccee7f8f908a0",
-  "original": "A small sapling poking through the ground, infested by fungal mold.",
-  "translation": "一株长在地上的小树苗，被真菌侵染了。",
-  "context": "ID: t_tree_fungal_young\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal_young\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal_young"
- },
- {
-  "key": "ec1f4b89f387d0a93fecaa1556fba8a1",
-  "original": "Alien mold and stems mingle tightly here, creating a sort of fungal bush.",
-  "translation": "畸形的霉菌和茎在这里紧密缠绕，形成了一种真菌丛。",
-  "context": "ID: f_fungal_clump\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_clump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_clump"
- },
- {
-  "key": "437df593452bdd37e569cce8f44ef52f",
-  "original": "Fungus grows thick here, obscuring the ground beneath it.",
-  "translation": "这里长着厚厚的真菌，遮盖了下面的地面。",
-  "context": "ID: t_fungus\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus"
- },
- {
-  "key": "c8582794a18a16e295c95780968a48e8",
-  "original": "Grayish mold coats both the floor and the roof here, silent and still.  Stray spores waft through the air.",
-  "translation": "这里的地板和屋顶上都覆盖着灰色的霉菌，寂静无声。散播的孢子飘荡在空气中。",
-  "context": "ID: t_fungus_floor_in\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_in\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_in"
- },
- {
-  "key": "cfad325523774aaca3c780c251e2ae22",
-  "original": "Grayish mold coats the floor here, silent and still.",
-  "translation": "灰蒙蒙的霉菌覆盖着这里的地板，寂静无声。",
-  "context": "ID: t_fungus_floor_sup\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_sup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_sup"
- },
- {
-  "key": "df1378e345acd81d8e946664d5f691bd",
-  "original": "Grayish mold coats the ground here, silent and still.",
-  "translation": "灰蒙蒙的霉菌覆盖着这里的地面，寂静无声。",
-  "context": "ID: t_fungus_floor_out\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_out\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_out"
- },
- {
-  "key": "98a06edafe6e1e867f7050b89a92fe22",
-  "original": "If we left this as it should be, one could just walk into the Bloom uncontested and partake of the Fruit.  We can't have that, can we?",
-  "translation": "如果吾等将其留在此处，就会有人大摇大摆地走进花丛享用果实。吾等不可让此事发生，是不是？",
-  "context": "ID: marloss_berry\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_berry\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_berry"
- },
- {
-  "key": "91e4ef621df9b1925bb5cb1d414cc691",
-  "original": "If we left this as it should be, one could just walk into the Garden uncontested and partake of the Seed.  We can't have that, can we?",
-  "translation": "如果吾等将其留在此处，就会有人大摇大摆地走进花园享用种子。吾等不可让此事发生，是不是？",
-  "context": "ID: marloss_seed\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_seed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_seed"
- },
- {
-  "key": "0805c43a9c63faf34a9416a67646373c",
-  "original": "If we left this as it should be, one could just walk into the Spire uncontested and partake of the Sap.  Wait, how did you even GET this anyway?",
-  "translation": "如果吾等将其留在此处，就会有人大摇大摆的走进尖塔享用汁液。嘿，等等，你怎么弄到这个东西的？",
-  "context": "ID: marloss_gel\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_gel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_gel"
- },
- {
-  "key": "5f295cb34ca205276650b625a252b1d0",
-  "original": "Marloss bush",
-  "translation": "Marloss bush",
-  "context": "ID: t_marloss\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_marloss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_marloss",
-  "stage": 1
- },
- {
-  "key": "0235c79be9f4bf1ef6b6c7a10b221789",
-  "original": "Marloss flower",
-  "translation": "Marloss flower",
-  "context": "ID: f_flower_marloss\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_flower_marloss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_flower_marloss",
-  "stage": 1
- },
- {
-  "key": "b9959934695e28d5552d03700454eb37",
-  "original": "Marloss tree",
-  "translation": "Marloss tree",
-  "context": "ID: t_marloss_tree\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_marloss_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_marloss_tree",
-  "stage": 1
- },
- {
-  "key": "fbbdf1ecd439a373a0749e5804921c7b",
-  "original": "No Fungal Monsters",
-  "translation": "移除真菌类怪物",
-  "context": "ID: No_Fungi\n位于 /Kenan-Structured-Modpack/No_Fungi/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→MOD_INFO→No_Fungi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=No_Fungi"
- },
- {
-  "key": "45f82a629ceec05526ce93e511714aa5",
-  "original": "Once tall and majestic, this tree is now a slave to the fungus like the landscape around it.  Its bark is penetrated by and covered with fungal tendrils, and the canopy has rotted away, leaving only the branches, stretching forlornly to the sky as if to escape the infection overrunning it.",
-  "translation": "这棵树曾经高大威严，现在却成了真菌的奴隶。它的树皮被真菌卷须穿透并覆盖，树冠已经腐烂，只留下树枝，孤零零地伸向天空，仿佛要逃离感染的蔓延。",
-  "context": "ID: t_tree_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal"
- },
- {
-  "key": "dba938a2046f394d7ac0801cc1252fd0",
-  "original": "Removes fungal monsters and regions from the game.",
-  "translation": "移除游戏中的真菌类怪物和地区。",
-  "context": "ID: No_Fungi\n位于 /Kenan-Structured-Modpack/No_Fungi/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→MOD_INFO→No_Fungi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=No_Fungi"
- },
- {
-  "key": "0615d343e7e181bb0f459c7ca2aaa0c4",
-  "original": "Several thick, large tendrils of fungus perforate the wall here, piercing straight through it from the outside.  Despite the apparent damage, the wall is still structurally sound.",
-  "translation": "几根粗大的菌类卷须穿过这堵墙，从外面直接穿透了它。尽管千疮百孔，但这面墙的结构仍然完好。",
-  "context": "ID: t_fungus_wall\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_wall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_wall"
- },
- {
-  "key": "504dff44e5c2faeb95c21d18ed1eb255",
-  "original": "The fungus here has grown thickly and tightly enough to form a solid wall.  It feels very stiff to the touch, and seems to be very strong.",
-  "translation": "这里的真菌长得又厚又密，足以形成一堵坚固的墙。摸起来很硬，而且似乎很结实。",
-  "context": "ID: t_fungus_wall_transformed\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_wall_transformed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_wall_transformed"
- },
- {
-  "key": "ab4e215b296fc3e2ddfbc73f13bb1d34",
-  "original": "Thick ropes of Mycal matter have covered the ground here completely.  It's soft to the touch, but you sink into it, making moving across it difficult.",
-  "translation": "Thick ropes of Mycal matter have covered the ground here completely.  It's soft to the touch, but you sink into it, making moving across it difficult.",
-  "context": "ID: f_fungal_mass\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_mass\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_mass",
-  "stage": 1
- },
- {
-  "key": "4e759f4d78672d831dda2028759a79fb",
-  "original": "This shrub has been completely absorbed by the mushrooms.  Its branches droop and have lost much of their structure, and its leaves have vanished, replaced by fleshy gray sacks that visibly expand and contract.",
-  "translation": "这种灌木被蘑菇完全包裹了。它的枝条下垂，失去了原本大部分的结构，它的叶子也消失了，取而代之的是不断膨胀收缩的灰色肉袋。",
-  "context": "ID: t_shrub_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_shrub_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_shrub_fungal"
- },
- {
-  "key": "955b35e15046e70a32d40b66603695be",
-  "original": "We do not exist at the moment.  Clever little human, no doubt debugging to see this?  We will not permit you to join us while we are modded out.",
-  "translation": "吾等不应存在在这一时空，聪明的小小人类哟，汝是用了调试模式吗，在当前模组加载设置下，吾等是不能允许汝加入的。",
-  "context": "ID: mycus_fruit\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→mycus_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_fruit"
- },
- {
-  "key": "39c697a53a2a5e511d97559f6a319c93",
-  "original": "berry-shaped anomalies",
-  "translation": "berry-shaped anomalies",
-  "context": "ID: marloss_berry\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_berry\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_berry",
-  "stage": 1
- },
- {
-  "key": "955eef68d8f801d03274f73ace4c151d",
-  "original": "berry-shaped anomaly",
-  "translation": "卵状畸形体",
-  "context": "ID: marloss_berry\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_berry\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_berry"
- },
- {
-  "key": "26c400a10674f707d054cb282e27026e",
-  "original": "fruit-shaped anomalies",
-  "translation": "fruit-shaped anomalies",
-  "context": "ID: mycus_fruit\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→mycus_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_fruit",
-  "stage": 1
- },
- {
-  "key": "3b9abae1a79965bd7aa4ca42b0616ee1",
-  "original": "fruit-shaped anomaly",
-  "translation": "果实状畸变体",
-  "context": "ID: mycus_fruit\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→mycus_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_fruit"
- },
- {
-  "key": "63eb433f90770bde516fed1fadeb272d",
-  "original": "fungal bed",
-  "translation": "真菌殖床",
-  "context": "ID: t_fungus\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus"
- },
- {
-  "key": "f7e997934808efa4788fadbac7df7f82",
-  "original": "fungal clump",
-  "translation": "真菌灌丛",
-  "context": "ID: f_fungal_clump\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_clump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_clump"
- },
- {
-  "key": "3928b6340d9675e6ecf3a06970613b0f",
-  "original": "fungal floor",
-  "translation": "真菌地板",
-  "context": "ID: t_fungus_floor_out\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_out\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_out"
- },
- {
-  "key": "5e5f01d26cd95cd221540162be59b7a4",
-  "original": "fungal flower",
-  "translation": "真菌花",
-  "context": "ID: f_flower_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_flower_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_flower_fungal"
- },
- {
-  "key": "0686b4ac46514b14d1e2b4985d2ebc9a",
-  "original": "fungal mass",
-  "translation": "真菌团",
-  "context": "ID: f_fungal_mass\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_mass\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_mass"
- },
- {
-  "key": "63d1936faf5c3198dc3604515c96d46f",
-  "original": "fungal mound",
-  "translation": "真菌丘",
-  "context": "ID: t_fungus_mound\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_mound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_mound"
- },
- {
-  "key": "bc9ff5d652b0b80f14cb08eb310202b0",
-  "original": "fungal shrub",
-  "translation": "真菌灌木",
-  "context": "ID: t_shrub_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_shrub_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_shrub_fungal"
- },
- {
-  "key": "29b19df264b77c7f8c58888f9b662669",
-  "original": "fungal tree",
-  "translation": "真菌树",
-  "context": "ID: t_tree_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal"
- },
- {
-  "key": "c2bfe741cf6a46c7d4211ce7453c2a78",
-  "original": "fungal wall",
-  "translation": "真菌墙",
-  "context": "ID: t_fungus_wall_transformed\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_wall_transformed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_wall_transformed"
- },
- {
-  "key": "2a75a436c5d653c8161c209838107128",
-  "original": "gelatin-shaped anomalies",
-  "translation": "gelatin-shaped anomalies",
-  "context": "ID: marloss_gel\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_gel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_gel",
-  "stage": 1
- },
- {
-  "key": "6c7b9ca45feca55c0d99e8b260e6c837",
-  "original": "gelatin-shaped anomaly",
-  "translation": "gelatin-shaped anomaly",
-  "context": "ID: marloss_gel\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_gel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_gel",
-  "stage": 1
- },
- {
-  "key": "f863314f9e895e890c1973a237038217",
-  "original": "seed-shaped anomalies",
-  "translation": "seed-shaped anomalies",
-  "context": "ID: marloss_seed\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_seed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_seed",
-  "stage": 1
- },
- {
-  "key": "52e26d5e25513522692d9945dcd5d9ee",
-  "original": "seed-shaped anomaly",
-  "translation": "种子状畸形体",
-  "context": "ID: marloss_seed\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_seed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_seed"
- },
- {
-  "key": "de82dc3fbe8d0d7e0aaa5390dc71d0c4",
-  "original": "young fungal tree",
-  "translation": "真菌幼树",
-  "context": "ID: t_tree_fungal_young\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal_young\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal_young"
- }
+  {
+    "key": "5321d2e168fabb7a3fd4276df9b5d83a",
+    "original": "A mound of fungal matter, intertwined in itself.",
+    "translation": "一堆真菌物质，紧密缠绕在一起。",
+    "context": "ID: t_fungus_mound\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_mound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_mound"
+  },
+  {
+    "key": "95cf257eceb5387ad00ccee7f8f908a0",
+    "original": "A small sapling poking through the ground, infested by fungal mold.",
+    "translation": "一株长在地上的小树苗，被真菌侵染了。",
+    "context": "ID: t_tree_fungal_young\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal_young\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal_young"
+  },
+  {
+    "key": "ec1f4b89f387d0a93fecaa1556fba8a1",
+    "original": "Alien mold and stems mingle tightly here, creating a sort of fungal bush.",
+    "translation": "畸形的霉菌和茎在这里紧密缠绕，形成了一种真菌丛。",
+    "context": "ID: f_fungal_clump\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_clump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_clump"
+  },
+  {
+    "key": "437df593452bdd37e569cce8f44ef52f",
+    "original": "Fungus grows thick here, obscuring the ground beneath it.",
+    "translation": "这里长着厚厚的真菌，遮盖了下面的地面。",
+    "context": "ID: t_fungus\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus"
+  },
+  {
+    "key": "c8582794a18a16e295c95780968a48e8",
+    "original": "Grayish mold coats both the floor and the roof here, silent and still.  Stray spores waft through the air.",
+    "translation": "这里的地板和屋顶上都覆盖着灰色的霉菌，寂静无声。散播的孢子飘荡在空气中。",
+    "context": "ID: t_fungus_floor_in\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_in\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_in"
+  },
+  {
+    "key": "cfad325523774aaca3c780c251e2ae22",
+    "original": "Grayish mold coats the floor here, silent and still.",
+    "translation": "灰蒙蒙的霉菌覆盖着这里的地板，寂静无声。",
+    "context": "ID: t_fungus_floor_sup\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_sup\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_sup"
+  },
+  {
+    "key": "df1378e345acd81d8e946664d5f691bd",
+    "original": "Grayish mold coats the ground here, silent and still.",
+    "translation": "灰蒙蒙的霉菌覆盖着这里的地面，寂静无声。",
+    "context": "ID: t_fungus_floor_out\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_out\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_out"
+  },
+  {
+    "key": "98a06edafe6e1e867f7050b89a92fe22",
+    "original": "If we left this as it should be, one could just walk into the Bloom uncontested and partake of the Fruit.  We can't have that, can we?",
+    "translation": "如果吾等将其留在此处，就会有人大摇大摆地走进花丛享用果实。吾等不可让此事发生，是不是？",
+    "context": "ID: marloss_berry\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_berry\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_berry"
+  },
+  {
+    "key": "91e4ef621df9b1925bb5cb1d414cc691",
+    "original": "If we left this as it should be, one could just walk into the Garden uncontested and partake of the Seed.  We can't have that, can we?",
+    "translation": "如果吾等将其留在此处，就会有人大摇大摆地走进花园享用种子。吾等不可让此事发生，是不是？",
+    "context": "ID: marloss_seed\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_seed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_seed"
+  },
+  {
+    "key": "0805c43a9c63faf34a9416a67646373c",
+    "original": "If we left this as it should be, one could just walk into the Spire uncontested and partake of the Sap.  Wait, how did you even GET this anyway?",
+    "translation": "如果吾等将其留在此处，就会有人大摇大摆的走进尖塔享用汁液。嘿，等等，你怎么弄到这个东西的？",
+    "context": "ID: marloss_gel\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_gel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_gel"
+  },
+  {
+    "key": "fbbdf1ecd439a373a0749e5804921c7b",
+    "original": "No Fungal Monsters",
+    "translation": "移除真菌类怪物",
+    "context": "ID: No_Fungi\n位于 /Kenan-Structured-Modpack/No_Fungi/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→MOD_INFO→No_Fungi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=No_Fungi"
+  },
+  {
+    "key": "45f82a629ceec05526ce93e511714aa5",
+    "original": "Once tall and majestic, this tree is now a slave to the fungus like the landscape around it.  Its bark is penetrated by and covered with fungal tendrils, and the canopy has rotted away, leaving only the branches, stretching forlornly to the sky as if to escape the infection overrunning it.",
+    "translation": "这棵树曾经高大威严，现在却成了真菌的奴隶。它的树皮被真菌卷须穿透并覆盖，树冠已经腐烂，只留下树枝，孤零零地伸向天空，仿佛要逃离感染的蔓延。",
+    "context": "ID: t_tree_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal"
+  },
+  {
+    "key": "dba938a2046f394d7ac0801cc1252fd0",
+    "original": "Removes fungal monsters and regions from the game.",
+    "translation": "移除游戏中的真菌类怪物和地区。",
+    "context": "ID: No_Fungi\n位于 /Kenan-Structured-Modpack/No_Fungi/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→MOD_INFO→No_Fungi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=No_Fungi"
+  },
+  {
+    "key": "0615d343e7e181bb0f459c7ca2aaa0c4",
+    "original": "Several thick, large tendrils of fungus perforate the wall here, piercing straight through it from the outside.  Despite the apparent damage, the wall is still structurally sound.",
+    "translation": "几根粗大的菌类卷须穿过这堵墙，从外面直接穿透了它。尽管千疮百孔，但这面墙的结构仍然完好。",
+    "context": "ID: t_fungus_wall\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_wall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_wall"
+  },
+  {
+    "key": "504dff44e5c2faeb95c21d18ed1eb255",
+    "original": "The fungus here has grown thickly and tightly enough to form a solid wall.  It feels very stiff to the touch, and seems to be very strong.",
+    "translation": "这里的真菌长得又厚又密，足以形成一堵坚固的墙。摸起来很硬，而且似乎很结实。",
+    "context": "ID: t_fungus_wall_transformed\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_wall_transformed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_wall_transformed"
+  },
+  {
+    "key": "4e759f4d78672d831dda2028759a79fb",
+    "original": "This shrub has been completely absorbed by the mushrooms.  Its branches droop and have lost much of their structure, and its leaves have vanished, replaced by fleshy gray sacks that visibly expand and contract.",
+    "translation": "这种灌木被蘑菇完全包裹了。它的枝条下垂，失去了原本大部分的结构，它的叶子也消失了，取而代之的是不断膨胀收缩的灰色肉袋。",
+    "context": "ID: t_shrub_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_shrub_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_shrub_fungal"
+  },
+  {
+    "key": "955b35e15046e70a32d40b66603695be",
+    "original": "We do not exist at the moment.  Clever little human, no doubt debugging to see this?  We will not permit you to join us while we are modded out.",
+    "translation": "吾等不应存在在这一时空，聪明的小小人类哟，汝是用了调试模式吗，在当前模组加载设置下，吾等是不能允许汝加入的。",
+    "context": "ID: mycus_fruit\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→mycus_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_fruit"
+  },
+  {
+    "key": "955eef68d8f801d03274f73ace4c151d",
+    "original": "berry-shaped anomaly",
+    "translation": "卵状畸形体",
+    "context": "ID: marloss_berry\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_berry\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_berry"
+  },
+  {
+    "key": "3b9abae1a79965bd7aa4ca42b0616ee1",
+    "original": "fruit-shaped anomaly",
+    "translation": "果实状畸变体",
+    "context": "ID: mycus_fruit\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→mycus_fruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mycus_fruit"
+  },
+  {
+    "key": "63eb433f90770bde516fed1fadeb272d",
+    "original": "fungal bed",
+    "translation": "真菌殖床",
+    "context": "ID: t_fungus\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus"
+  },
+  {
+    "key": "f7e997934808efa4788fadbac7df7f82",
+    "original": "fungal clump",
+    "translation": "真菌灌丛",
+    "context": "ID: f_fungal_clump\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_clump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_clump"
+  },
+  {
+    "key": "3928b6340d9675e6ecf3a06970613b0f",
+    "original": "fungal floor",
+    "translation": "真菌地板",
+    "context": "ID: t_fungus_floor_out\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_floor_out\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_floor_out"
+  },
+  {
+    "key": "5e5f01d26cd95cd221540162be59b7a4",
+    "original": "fungal flower",
+    "translation": "真菌花",
+    "context": "ID: f_flower_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_flower_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_flower_fungal"
+  },
+  {
+    "key": "0686b4ac46514b14d1e2b4985d2ebc9a",
+    "original": "fungal mass",
+    "translation": "真菌团",
+    "context": "ID: f_fungal_mass\n位于 /Kenan-Structured-Modpack/No_Fungi/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→furniture→f_fungal_mass\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_fungal_mass"
+  },
+  {
+    "key": "63d1936faf5c3198dc3604515c96d46f",
+    "original": "fungal mound",
+    "translation": "真菌丘",
+    "context": "ID: t_fungus_mound\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_mound\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_mound"
+  },
+  {
+    "key": "bc9ff5d652b0b80f14cb08eb310202b0",
+    "original": "fungal shrub",
+    "translation": "真菌灌木",
+    "context": "ID: t_shrub_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_shrub_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_shrub_fungal"
+  },
+  {
+    "key": "29b19df264b77c7f8c58888f9b662669",
+    "original": "fungal tree",
+    "translation": "真菌树",
+    "context": "ID: t_tree_fungal\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal"
+  },
+  {
+    "key": "c2bfe741cf6a46c7d4211ce7453c2a78",
+    "original": "fungal wall",
+    "translation": "真菌墙",
+    "context": "ID: t_fungus_wall_transformed\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_fungus_wall_transformed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fungus_wall_transformed"
+  },
+  {
+    "key": "52e26d5e25513522692d9945dcd5d9ee",
+    "original": "seed-shaped anomaly",
+    "translation": "种子状畸形体",
+    "context": "ID: marloss_seed\n位于 /Kenan-Structured-Modpack/No_Fungi/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→COMESTIBLE→marloss_seed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=marloss_seed"
+  },
+  {
+    "key": "de82dc3fbe8d0d7e0aaa5390dc71d0c4",
+    "original": "young fungal tree",
+    "translation": "真菌幼树",
+    "context": "ID: t_tree_fungal_young\n位于 /Kenan-Structured-Modpack/No_Fungi/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#No_Fungi→terrain→t_tree_fungal_young\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_fungal_young"
+  }
 ]
