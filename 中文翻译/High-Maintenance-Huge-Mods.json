@@ -1,643 +1,175 @@
 [
- {
-  "key": "7805de1528bdff473b765f35b7a97cb3",
-  "original": "\"I am programmed to not engage wandering monsters.\"",
-  "translation": "“I am programmed to not engage wandering monsters.”"
- },
- {
-  "key": "ecac7b2d21e296f06e9fadabde626153",
-  "original": "<color_light_green>Forming successful!</color>",
-  "translation": "<color_light_green>Forming successful！</color>",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
-  "stage": 1
- },
- {
-  "key": "4c4b76e149da91b5b4f5be4054ef8e3c",
-  "original": "<color_pink>[FORM]</color> <color_light_blue>gunner creation</color> - bone rifle\n\nCommands the flesh vessel to form <color_light_blue>gunner creation</color> - bone rifle for a limited time. Requires flesh to perform.",
-  "translation": "<color_pink>[FORM]</color> <color_light_blue>gunner creation</color> - bone rifle\n\nCommands the flesh vessel to form <color_light_blue>gunner creation</color> - bone rifle for a limited time. Requires flesh to perform.",
-  "context": "ID: secro_power_armor_flesh_created_gun_bonerifle_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_gun_bonerifle_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_gun_bonerifle_give",
-  "stage": 1
- },
- {
-  "key": "3c2a3f8b7770bfdea3b751bcd26b1ef0",
-  "original": "<color_pink>[FORM]</color> <color_light_red>fighter creation</color> - bone spear\n\nCommands the flesh vessel to form <color_light_red>fighter creation</color> - bone spear for a limited time. Requires flesh to perform.",
-  "translation": "<color_pink>[FORM]</color> <color_light_red>fighter creation</color> - bone spear\n\nCommands the flesh vessel to form <color_light_red>fighter creation</color> - bone spear for a limited time. Requires flesh to perform.",
-  "context": "ID: secro_power_armor_flesh_created_fite_bspear_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_fite_bspear_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_fite_bspear_give",
-  "stage": 1
- },
- {
-  "key": "63ba7428f545c7d077d913da8fe4364d",
-  "original": "<color_pink>[FORM]</color> <color_yellow>juggernaut creation</color> - bone pick\n\nCommands the flesh vessel to form <color_yellow>juggernaut creation</color> - bone pick for a limited time. Requires flesh to perform.",
-  "translation": "<color_pink>[FORM]</color> <color_yellow>juggernaut creation</color> - bone pick\n\nCommands the flesh vessel to form <color_yellow>juggernaut creation</color> - bone pick for a limited time. Requires flesh to perform.",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
-  "stage": 1
- },
- {
-  "key": "a2d8d67e9e3ae00da40a74cfb68544c6",
-  "original": "A corpse devoured by the flesh, with complete manipulation over its mindless thoughts.",
-  "translation": "A corpse devoured by the flesh, with complete manipulation over its mindless thoughts.",
-  "stage": 1
- },
- {
-  "key": "7b0fe7b6636bb3167ac074d73b14600e",
-  "original": "About that mission...",
-  "translation": "About that mission...",
-  "stage": 1
- },
- {
-  "key": "8eefe2887797eaa783525cecbe51a242",
-  "original": "BL9 Arganoides Mobile Base Locator Hologram",
-  "translation": "BL9 Arganoides Mobile Base Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "4ae3ca86b867defaae651441c081a902",
-  "original": "BL9 Castle Locator Hologram",
-  "translation": "BL9 Castle Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "fbf5beb57e4c14afb16d5ea614f5c09c",
-  "original": "BL9 Davranides Mobile Base Locator Hologram",
-  "translation": "BL9 Davranides Mobile Base Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "e648fde2d7cffe078ac29fa464ae85f2",
-  "original": "BL9 Ezrondium Cult Dungeon Locator Hologram",
-  "translation": "BL9 Ezrondium Cult Dungeon Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "7850725ec9da4d6dd4278fcf0b1cf269",
-  "original": "BL9 Guard Tower Acidic Caves Locator Hologram",
-  "translation": "BL9 Guard Tower Acidic Caves Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "73707b6437606c9e35dfb2a1fd3a5f84",
-  "original": "BL9 Guard Tower Hive Caves Locator Hologram",
-  "translation": "BL9 Guard Tower Hive Caves Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "94578d70d75bbe7b3663042c3c696c96",
-  "original": "BL9 Guard Tower Molten Caves Locator Hologram",
-  "translation": "BL9 Guard Tower Molten Caves Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "6fe0272454832ed12ae149ab570c967f",
-  "original": "BL9 Guard Tower Sunken Caves Locator Hologram",
-  "translation": "BL9 Guard Tower Sunken Caves Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "b821ba84a4a20aa21bc514c2f46c8522",
-  "original": "BL9 Guard Tower Underground Ruins Locator Hologram",
-  "translation": "BL9 Guard Tower Underground Ruins Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "7b3cfe17e7061d74827bd315989ea5dc",
-  "original": "BL9 Inhravtidius Laboratory Locator Hologram",
-  "translation": "BL9 Inhravtidius Laboratory Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "cd1ca2a344b645af669e494c15a838f0",
-  "original": "BL9 Militarized Island Locator Hologram",
-  "translation": "BL9 Militarized Island Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "c2a8af558d4b00a709e8eca424dc4a83",
-  "original": "BL9 Saldeniums Mobile Base Locator Hologram",
-  "translation": "BL9 Saldeniums Mobile Base Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "57f471dbc792fd2b40180a13ccb231bd",
-  "original": "BL9 Ulniviunite Factory Locator Hologram",
-  "translation": "BL9 Ulniviunite Factory Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "5d34e88f6912834d76696252d9d00957",
-  "original": "BL9 Wanzeltiums Mobile Base Locator Hologram",
-  "translation": "BL9 Wanzeltiums Mobile Base Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "3545604a85e2186a3103f242e668b4e7",
-  "original": "BL9 Yengnutrium Cult Lair Locator Hologram",
-  "translation": "BL9 Yengnutrium Cult Lair Locator Hologram",
-  "stage": 1
- },
- {
-  "key": "d951dc871b0ee65502665dd27320cf8c",
-  "original": "Bone Pick",
-  "translation": "Bone Pick",
-  "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
-  "stage": 1
- },
- {
-  "key": "713e82ef8e5bfddc3cbb2f625edeada7",
-  "original": "Bone Rifle",
-  "translation": "Bone Rifle",
-  "context": "ID: secro_power_armor_flesh_created_gun_bonerifle_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_gun_bonerifle_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_gun_bonerifle_give",
-  "stage": 1
- },
- {
-  "key": "2a921ea5dc2643a463530ef74947b9e7",
-  "original": "Bone Spear",
-  "translation": "Bone Spear",
-  "context": "ID: secro_power_armor_flesh_created_fite_bspear_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_fite_bspear_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_fite_bspear_give",
-  "stage": 1
- },
- {
-  "key": "5fbddbf2360e069f05cb6d4903e06840",
-  "original": "Can I talk to you about something else?",
-  "translation": "Can I talk to you about something else？",
-  "stage": 1
- },
- {
-  "key": "fb692862268004bd8903d4fb026acb9f",
-  "original": "Go to Arganoides Mobile Base",
-  "translation": "Go to Arganoides Mobile Base",
-  "stage": 1
- },
- {
-  "key": "f50f8ae747d6806480d54497dd92bf6a",
-  "original": "Go to Castlelan Castle",
-  "translation": "Go to Castlelan Castle",
-  "stage": 1
- },
- {
-  "key": "9a45cd0bec80303ddf26c991fadde4f8",
-  "original": "Go to Davranides Mobile Base",
-  "translation": "Go to Davranides Mobile Base",
-  "stage": 1
- },
- {
-  "key": "a5b299352c080dcb7af4ee38aab956b6",
-  "original": "Go to Ezrondium Cult Dungeon",
-  "translation": "Go to Ezrondium Cult Dungeon",
-  "stage": 1
- },
- {
-  "key": "1a3e009c5f5e4b569d064b1be5b9c1f7",
-  "original": "Go to Guard Tower Acidic Caves",
-  "translation": "Go to Guard Tower Acidic Caves",
-  "stage": 1
- },
- {
-  "key": "b6378358f072d2984e882fafc3467e6b",
-  "original": "Go to Guard Tower Hive Caves",
-  "translation": "Go to Guard Tower Hive Caves",
-  "stage": 1
- },
- {
-  "key": "29cba84684750138745b90dcee6c8f55",
-  "original": "Go to Guard Tower Molten Caves",
-  "translation": "Go to Guard Tower Molten Caves",
-  "stage": 1
- },
- {
-  "key": "bd141e0b9fab127abcad953d4838e505",
-  "original": "Go to Guard Tower Sunken Caves",
-  "translation": "Go to Guard Tower Sunken Caves",
-  "stage": 1
- },
- {
-  "key": "d775b7b368ffe5854f5c69daa8e144b9",
-  "original": "Go to Guard Tower Underground Ruins",
-  "translation": "Go to Guard Tower Underground Ruins",
-  "stage": 1
- },
- {
-  "key": "bd9854dc606368c6c3d91f2b14f1c72e",
-  "original": "Go to Inhravtidius Laboratory",
-  "translation": "Go to Inhravtidius Laboratory",
-  "stage": 1
- },
- {
-  "key": "e87c7de4df67a638fd60d9fc11cf29a8",
-  "original": "Go to Militarized Island",
-  "translation": "Go to Militarized Island",
-  "stage": 1
- },
- {
-  "key": "45bc69642a2da2363ff2318ad3a4c586",
-  "original": "Go to Saldeniums Mobile Base",
-  "translation": "Go to Saldeniums Mobile Base",
-  "stage": 1
- },
- {
-  "key": "3fb3c48c4a0dd31bbfaf656201c875c1",
-  "original": "Go to Ulniviunite Factory",
-  "translation": "Go to Ulniviunite Factory",
-  "stage": 1
- },
- {
-  "key": "e5a69379fc2fc1dbf6bb9ef77e3ef86e",
-  "original": "Go to Wanzeltiums Mobile Base",
-  "translation": "Go to Wanzeltiums Mobile Base",
-  "stage": 1
- },
- {
-  "key": "cd0c7808b9398a358787be0971cc8577",
-  "original": "Go to Yengnutrium Cult Lair",
-  "translation": "Go to Yengnutrium Cult Lair",
-  "stage": 1
- },
- {
-  "key": "f6f0d46a87a4ed7f85cec92046da207e",
-  "original": "Good luck to you!",
-  "translation": "Good luck to you！"
- },
- {
-  "key": "24f599953ba2cc5aef66360f6ba54c51",
-  "original": "Good work!",
-  "translation": "Good work！"
- },
- {
-  "key": "3afe17954c9f5261148f207c95c41d89",
-  "original": "Have you went to this location that I have found for you to explore?",
-  "translation": "Have you went to this location that I have found for you to explore？"
- },
- {
-  "key": "2ab327ad0be6affb03c0d25ff4b40432",
-  "original": "Hologram Projector - Locator of Arganoides Mobile Base",
-  "translation": "Hologram Projector - Locator of Arganoides Mobile Base",
-  "stage": 1
- },
- {
-  "key": "1b4d6c57a02dba9ab82a49db5dbe7829",
-  "original": "Hologram Projector - Locator of Castlelan Casle",
-  "translation": "Hologram Projector - Locator of Castlelan Casle",
-  "stage": 1
- },
- {
-  "key": "88b10888304a6b0cb154f29332ff70a9",
-  "original": "Hologram Projector - Locator of Davranides Mobile Base",
-  "translation": "Hologram Projector - Locator of Davranides Mobile Base",
-  "stage": 1
- },
- {
-  "key": "9b415bee6d7bf3056c68eefca231ca34",
-  "original": "Hologram Projector - Locator of Ezrondium Cult Dungeon",
-  "translation": "Hologram Projector - Locator of Ezrondium Cult Dungeon",
-  "stage": 1
- },
- {
-  "key": "7732b319e7e96b50ba9e1da375ba5b46",
-  "original": "Hologram Projector - Locator of Guard Tower Acidic Caves",
-  "translation": "Hologram Projector - Locator of Guard Tower Acidic Caves",
-  "stage": 1
- },
- {
-  "key": "ed7be2f49d4cddc1c25f225f225bcb99",
-  "original": "Hologram Projector - Locator of Guard Tower Hive Caves",
-  "translation": "Hologram Projector - Locator of Guard Tower Hive Caves",
-  "stage": 1
- },
- {
-  "key": "639b0684cd3df22a13c82145360f1137",
-  "original": "Hologram Projector - Locator of Guard Tower Molten Caves",
-  "translation": "Hologram Projector - Locator of Guard Tower Molten Caves",
-  "stage": 1
- },
- {
-  "key": "14a62559bd19232c40a6a6e5daa0df1b",
-  "original": "Hologram Projector - Locator of Guard Tower Sunken Caves",
-  "translation": "Hologram Projector - Locator of Guard Tower Sunken Caves",
-  "stage": 1
- },
- {
-  "key": "81aece18974ac63780b2ca1592a643db",
-  "original": "Hologram Projector - Locator of Guard Tower Underground Ruins",
-  "translation": "Hologram Projector - Locator of Guard Tower Underground Ruins",
-  "stage": 1
- },
- {
-  "key": "6977539d8b10c4b60db655f39767e500",
-  "original": "Hologram Projector - Locator of Inhravtidius Laboratory",
-  "translation": "Hologram Projector - Locator of Inhravtidius Laboratory",
-  "stage": 1
- },
- {
-  "key": "8a17ec1429c33dead82b8a3d3bfc2bb5",
-  "original": "Hologram Projector - Locator of Militarized Island",
-  "translation": "Hologram Projector - Locator of Militarized Island",
-  "stage": 1
- },
- {
-  "key": "deb12ca0fc38d05a2dd0d96da1557539",
-  "original": "Hologram Projector - Locator of Saldeniums Mobile Base",
-  "translation": "Hologram Projector - Locator of Saldeniums Mobile Base",
-  "stage": 1
- },
- {
-  "key": "311d2377d95ff12c03af28ffca728e07",
-  "original": "Hologram Projector - Locator of Ulniviunite Factory",
-  "translation": "Hologram Projector - Locator of Ulniviunite Factory",
-  "stage": 1
- },
- {
-  "key": "37d5d2caa69d5f9def10f74dafd67ecc",
-  "original": "Hologram Projector - Locator of Wanzeltiums Mobile Base",
-  "translation": "Hologram Projector - Locator of Wanzeltiums Mobile Base",
-  "stage": 1
- },
- {
-  "key": "ecb18fb671164f748737034089d623a2",
-  "original": "Hologram Projector - Locator of Yengnutrium Cult Lair",
-  "translation": "Hologram Projector - Locator of Yengnutrium Cult Lair",
-  "stage": 1
- },
- {
-  "key": "624b0c4c78cd6dd2eb859ed514834b13",
-  "original": "Hologram Protection",
-  "translation": "Hologram Protection",
-  "stage": 1
- },
- {
-  "key": "d4c2780842c6a48ad6b0c53146c468ba",
-  "original": "I like some of these a lot honestly. Healthy stuff",
-  "translation": "I like some of these a lot honestly. Healthy stuff",
-  "stage": 1
- },
- {
-  "key": "9ef698c3adc397752d5fc5f7196d6282",
-  "original": "I'm a magic genie from a magic camera. No, I'm just joking. What kind of a question is this? You don't like to explore or don't know much about your own world? Have not you seen stuff in labs? Military structures? Top secret stuff? Aliens or whatever these creatures are? You think that your own people don't have tech which can produce holograms? I'm a hologram, software with some additional technologies, it is that simple",
-  "translation": "I'm a magic genie from a magic camera. No，I'm just joking. What kind of a question is this？ You don't like to explore or don't know much about your own world？ Have not you seen stuff in labs？ Military structures？ Top secret stuff？ Aliens or whatever these creatures are？ You think that your own people don't have tech which can produce holograms？ I'm a hologram，software with some additional technologies，it is that simple"
- },
- {
-  "key": "6260f9ecf01911c5534ee1c96faadeeb",
-  "original": "Initiate search mode. Please, wait for a couple of minutes or less. You've heard me clearly. Still, we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully",
-  "translation": "Initiate search mode. Please，wait for a couple of minutes or less. You've heard me clearly. Still，we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully"
- },
- {
-  "key": "949e8b807cdb8cc94c35f9391076ecfd",
-  "original": "Magic Metamorphosis",
-  "translation": "Magic Metamorphosis",
-  "stage": 1
- },
- {
-  "key": "c8ad95b503c7dacf5a1e0f1bb44c67ed",
-  "original": "Magic Mutation",
-  "translation": "Magic Mutation",
-  "stage": 1
- },
- {
-  "key": "56c12bd61685bb1bfcd5420078a688b1",
-  "original": "Magic Primer",
-  "translation": "Magic Primer",
-  "stage": 1
- },
- {
-  "key": "3a83fd66024d4398f542ba52853beec5",
-  "original": "Magic Transformation",
-  "translation": "Magic Transformation",
-  "stage": 1
- },
- {
-  "key": "43179cc6fdc8177f70c0fa9bf36ed2fe",
-  "original": "Not interested in explorations of new locations? No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person",
-  "translation": "Not interested in explorations of new locations？ No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person"
- },
- {
-  "key": "a12724d6d48ce2ad15a585f27b5264ba",
-  "original": "Orc Metamorphosis",
-  "translation": "Orc Metamorphosis",
-  "stage": 1
- },
- {
-  "key": "f19fe2b1ff9ddc2e3d10967f11b31cac",
-  "original": "Orc Mutation",
-  "translation": "Orc Mutation",
-  "stage": 1
- },
- {
-  "key": "382cb49abd87c988175e5f5a7ab0acd2",
-  "original": "Orc Primer",
-  "translation": "Orc Primer",
-  "stage": 1
- },
- {
-  "key": "ec92cf1315da91a76e63358c1d54a519",
-  "original": "Orc Transformation",
-  "translation": "Orc Transformation",
-  "stage": 1
- },
- {
-  "key": "7de68b65ce1ef636003d05e76dbac5ca",
-  "original": "SS Carrier",
-  "translation": "SS Carrier",
-  "stage": 1
- },
- {
-  "key": "04872bd87dd13412357143f22713944f",
-  "original": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily! Yeah, my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So, do you want me to show you where this location is via my network system? I can grant you access to archived global network system which my creators have managed to restore. However, after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully",
-  "translation": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily！ Yeah，my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So，do you want me to show you where this location is via my network system？ I can grant you access to archived global network system which my creators have managed to restore. However，after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully"
- },
- {
-  "key": "00d06796e489999226fb5bb27fe1b3b2",
-  "original": "Thanks",
-  "translation": "Thanks",
-  "stage": 1
- },
- {
-  "key": "417c3c7011bd27ca6bc4e9a4ccd4abb1",
-  "original": "The vat turns into a staircase leading God-knows where...",
-  "translation": "大桶变成了一段楼梯，通向上帝知道的地方…"
- },
- {
-  "key": "94c2108cc2f69f49714d18846e0888eb",
-  "original": "The walls here has collapsed.",
-  "translation": "这里的墙倒塌了。"
- },
- {
-  "key": "c6a3c4ced9d0fcb7c414235eae029bcb",
-  "original": "The world is tinted a light octarine.",
-  "translation": "The world is tinted a light octarine.",
-  "stage": 1
- },
- {
-  "key": "669a3c420a58e30f5d769eb4b542fb07",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Arganoides Mobile Base",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Arganoides Mobile Base"
- },
- {
-  "key": "fc04fdc3b23983b3b0cea87eea5b3025",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Castlelan Castle",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Castlelan Castle"
- },
- {
-  "key": "c64179757e45565de8d2ec384e565125",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Davranides Mobile Base",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Davranides Mobile Base"
- },
- {
-  "key": "861c3e7a8d2d1dcc67b59a24c2222a4f",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Ezrondium Cult Dungeon",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Ezrondium Cult Dungeon"
- },
- {
-  "key": "6d8c2222e602c7c31f70a638824bbe06",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Acidic Caves",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Acidic Caves"
- },
- {
-  "key": "30f0aefe2a169828e90691270c65613b",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Hive Caves",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Hive Caves"
- },
- {
-  "key": "d94328068faba4cf2154c7fba2a8c479",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Molten Caves",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Molten Caves"
- },
- {
-  "key": "9609f572a9e60612dcc66d2efef6a848",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Sunken Caves",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Sunken Caves"
- },
- {
-  "key": "c1b01fe7996567c07a8f94fe46a81805",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Underground Ruins",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Underground Ruins"
- },
- {
-  "key": "93bdb7c0a849329658a9f1e4464303a5",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Inhravtidius Laboratory",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Inhravtidius Laboratory"
- },
- {
-  "key": "72e0c41867f871206f43c20674be3839",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Militarized Island",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Militarized Island"
- },
- {
-  "key": "eba0dca659891627d983c5e4f6479549",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Saldeniums Mobile Base",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Saldeniums Mobile Base"
- },
- {
-  "key": "3c2163d17f27110aabf903ccd45656ed",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Ulniviunite Factory",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Ulniviunite Factory"
- },
- {
-  "key": "8d297a1c226e35cb67aab683e6bded24",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Wanzeltiums Mobile Base",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Wanzeltiums Mobile Base"
- },
- {
-  "key": "ee0f0ebbde8e059c7d319f67eb847618",
-  "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Yengnutrium Cult Lair",
-  "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Yengnutrium Cult Lair"
- },
- {
-  "key": "c5e210ace21c68d6274b7b1995fca140",
-  "original": "This question is much more intelligent than the other one. My creators can be described as a bunch of highly technological geeks majority of which are humans honestly. They neither possess that many combat skills nor they are that interested in subjecting their lives to unnecessary risk clearly. They only engage hostile creatures for basic survival needs. They try to rely on self-sufficiency with relative success thanks to their applied intelligence along with tech that they have managed to find or engineer themselves. They have made these projectors so that we can help each other. We provide you with locations with dangerous creatures along with valuable items or survivors who are captive. You clear these locations acquiring whatever valuable items or survivors you want from there making these locations safe shelters where we including you can live hopefully as well",
-  "translation": "This question is much more intelligent than the other one. My creators can be described as a bunch of highly technological geeks majority of which are humans honestly. They neither possess that many combat skills nor they are that interested in subjecting their lives to unnecessary risk clearly. They only engage hostile creatures for basic survival needs. They try to rely on self-sufficiency with relative success thanks to their applied intelligence along with tech that they have managed to find or engineer themselves. They have made these projectors so that we can help each other. We provide you with locations with dangerous creatures along with valuable items or survivors who are captive. You clear these locations acquiring whatever valuable items or survivors you want from there making these locations safe shelters where we including you can live hopefully as well",
-  "stage": 1
- },
- {
-  "key": "de6f3e352a273b2074a5c6ce1a194731",
-  "original": "Use your wits for your own safety hopefully as well",
-  "translation": "Use your wits for your own safety hopefully as well",
-  "stage": 1
- },
- {
-  "key": "bf611a453b29615c2573febf4da42cf2",
-  "original": "What do you want to do? Play archived games? Browse archived social media? Watch archived videos? Listen to archived music? Read archived files along with archived books? Something to play, read, listen, watch for fun, intelligence improving, spiritual improving, mental improving? Or for reproductive physical state improving?",
-  "translation": "What do you want to do？ Play archived games？ Browse archived social media？ Watch archived videos？ Listen to archived music？ Read archived files along with archived books？ Something to play，read，listen，watch for fun，intelligence improving，spiritual improving，mental improving？ Or for reproductive physical state improving？"
- },
- {
-  "key": "fa5a43c2a4f82c90be11d23e3175ba2d",
-  "original": "What's the point of lying to me? You think I'm gonna reward you? Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore",
-  "translation": "What's the point of lying to me？ You think I'm gonna reward you？ Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore"
- },
- {
-  "key": "adbb63366f62496822a690123352faca",
-  "original": "Who are your creators? What is the purpose of producing these projectors?",
-  "translation": "Who are your creators？ What is the purpose of producing these projectors？"
- },
- {
-  "key": "5c8524ade8e6e878bd4e60c9ee0e363d",
-  "original": "Who or what are you?",
-  "translation": "Who or what are you？"
- },
- {
-  "key": "fcf8016e02a6e73738286c79a6611e2f",
-  "original": "You are a boring, lazy person honestly. I guess that laziness applies to both of us",
-  "translation": "You are a boring，lazy person honestly. I guess that laziness applies to both of us"
- },
- {
-  "key": "c3a0207c6937f79595b5a367e7091063",
-  "original": "You consumed Magic primer.",
-  "translation": "You consumed Magic primer.",
-  "stage": 1
- },
- {
-  "key": "e9eb420b79cae7448287e864e5766e4e",
-  "original": "You consumed Orc primer.",
-  "translation": "You consumed Orc primer.",
-  "stage": 1
- },
- {
-  "key": "85b03a05cc560dc38d8cb57366c79c1f",
-  "original": "You must conquer this world, if noone else will.",
-  "translation": "You must conquer this world, if noone else will.",
-  "stage": 1
- },
- {
-  "key": "e7fbbda36e0237de8af40cbbf2df66a4",
-  "original": "You must illuminate this world, if noone else will.",
-  "translation": "You must illuminate this world, if noone else will.",
-  "stage": 1
- },
- {
-  "key": "196c7e21624cf7cc54220528d05cf65d",
-  "original": "You see blood.  You see so much blood.",
-  "translation": "You see blood.  You see so much blood.",
-  "stage": 1
- },
- {
-  "key": "1a6e607a3deed5c5d372a477f005b3b4",
-  "original": "You want me to find this location for you to explore? Sure, you will just need to wait for a couple of minutes or less for me to find it via my network system",
-  "translation": "You want me to find this location for you to explore？ Sure，you will just need to wait for a couple of minutes or less for me to find it via my network system"
- },
- {
-  "key": "77f123741b8f5b9f5b0f33d1ffb25cc2",
-  "original": "You want me to locate it now for you to explore? Sure, just tell me, you will just need to wait for a couple of minutes or less for me to find it via my network system",
-  "translation": "You want me to locate it now for you to explore？ Sure，just tell me，you will just need to wait for a couple of minutes or less for me to find it via my network system"
- },
- {
-  "key": "2c8d6bf92c3a8a7f7c646fd999ad2d80",
-  "original": "[GOODBYE]",
-  "translation": "[GOODBYE]",
-  "stage": 1
- },
- {
-  "key": "3215bfd8941bed917c11f46e8c7014cc",
-  "original": "[IMPROVE MOOD] I want you to grant me access to archived global network system",
-  "translation": "[IMPROVE MOOD] I want you to grant me access to archived global network system",
-  "stage": 1
- },
- {
-  "key": "51035ca3d204bfb3a5ebb6ef94482758",
-  "original": "[MISSIONS] I want you to find this location for me to explore it hopefully via your network system",
-  "translation": "[MISSIONS] I want you to find this location for me to explore it hopefully via your network system",
-  "stage": 1
- },
- {
-  "key": "acbb81fa514b2a117dd1ece115720ecc",
-  "original": "flesh zombie",
-  "translation": "flesh zombie",
-  "stage": 1
- }
+  {
+    "key": "7805de1528bdff473b765f35b7a97cb3",
+    "original": "\"I am programmed to not engage wandering monsters.\"",
+    "translation": "“I am programmed to not engage wandering monsters.”"
+  },
+  {
+    "key": "ecac7b2d21e296f06e9fadabde626153",
+    "original": "<color_light_green>Forming successful!</color>",
+    "translation": "<color_light_green>Forming successful！</color>",
+    "context": "ID: secro_power_armor_flesh_created_jugg_bpick_give\n位于 /Kenan-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic_creation.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#High-Maintenance-Huge-Mods→SPELL→secro_power_armor_flesh_created_jugg_bpick_give\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_power_armor_flesh_created_jugg_bpick_give",
+    "stage": 1
+  },
+  {
+    "key": "5fbddbf2360e069f05cb6d4903e06840",
+    "original": "Can I talk to you about something else?",
+    "translation": "Can I talk to you about something else？",
+    "stage": 1
+  },
+  {
+    "key": "f6f0d46a87a4ed7f85cec92046da207e",
+    "original": "Good luck to you!",
+    "translation": "Good luck to you！"
+  },
+  {
+    "key": "24f599953ba2cc5aef66360f6ba54c51",
+    "original": "Good work!",
+    "translation": "Good work！"
+  },
+  {
+    "key": "3afe17954c9f5261148f207c95c41d89",
+    "original": "Have you went to this location that I have found for you to explore?",
+    "translation": "Have you went to this location that I have found for you to explore？"
+  },
+  {
+    "key": "9ef698c3adc397752d5fc5f7196d6282",
+    "original": "I'm a magic genie from a magic camera. No, I'm just joking. What kind of a question is this? You don't like to explore or don't know much about your own world? Have not you seen stuff in labs? Military structures? Top secret stuff? Aliens or whatever these creatures are? You think that your own people don't have tech which can produce holograms? I'm a hologram, software with some additional technologies, it is that simple",
+    "translation": "I'm a magic genie from a magic camera. No，I'm just joking. What kind of a question is this？ You don't like to explore or don't know much about your own world？ Have not you seen stuff in labs？ Military structures？ Top secret stuff？ Aliens or whatever these creatures are？ You think that your own people don't have tech which can produce holograms？ I'm a hologram，software with some additional technologies，it is that simple"
+  },
+  {
+    "key": "6260f9ecf01911c5534ee1c96faadeeb",
+    "original": "Initiate search mode. Please, wait for a couple of minutes or less. You've heard me clearly. Still, we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully",
+    "translation": "Initiate search mode. Please，wait for a couple of minutes or less. You've heard me clearly. Still，we have limitations with regards to our locating tools. If locator does not manage to find this location then simply create another hologram locator of which can find this location successfully"
+  },
+  {
+    "key": "43179cc6fdc8177f70c0fa9bf36ed2fe",
+    "original": "Not interested in explorations of new locations? No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person",
+    "translation": "Not interested in explorations of new locations？ No rush hopefully. You can come back to me later. I'm sure that you will. Because I believe that you are not a boring person"
+  },
+  {
+    "key": "04872bd87dd13412357143f22713944f",
+    "original": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily! Yeah, my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So, do you want me to show you where this location is via my network system? I can grant you access to archived global network system which my creators have managed to restore. However, after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully",
+    "translation": "System is online. Initiate conversation mode. Look at that. Survivor has managed to activate a hologram projector easily！ Yeah，my creators know many types of you who don't even read what's written on items honestly. Good that you seem like a pretty intelligent person hopefully. So，do you want me to show you where this location is via my network system？ I can grant you access to archived global network system which my creators have managed to restore. However，after usage I will need to recharge a little bit which only means that you will need to wait to use this function again hopefully"
+  },
+  {
+    "key": "417c3c7011bd27ca6bc4e9a4ccd4abb1",
+    "original": "The vat turns into a staircase leading God-knows where...",
+    "translation": "大桶变成了一段楼梯，通向上帝知道的地方…"
+  },
+  {
+    "key": "94c2108cc2f69f49714d18846e0888eb",
+    "original": "The walls here has collapsed.",
+    "translation": "这里的墙倒塌了。"
+  },
+  {
+    "key": "669a3c420a58e30f5d769eb4b542fb07",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Arganoides Mobile Base",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Arganoides Mobile Base"
+  },
+  {
+    "key": "fc04fdc3b23983b3b0cea87eea5b3025",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Castlelan Castle",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Castlelan Castle"
+  },
+  {
+    "key": "c64179757e45565de8d2ec384e565125",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Davranides Mobile Base",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Davranides Mobile Base"
+  },
+  {
+    "key": "861c3e7a8d2d1dcc67b59a24c2222a4f",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Ezrondium Cult Dungeon",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Ezrondium Cult Dungeon"
+  },
+  {
+    "key": "6d8c2222e602c7c31f70a638824bbe06",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Acidic Caves",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Acidic Caves"
+  },
+  {
+    "key": "30f0aefe2a169828e90691270c65613b",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Hive Caves",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Hive Caves"
+  },
+  {
+    "key": "d94328068faba4cf2154c7fba2a8c479",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Molten Caves",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Molten Caves"
+  },
+  {
+    "key": "9609f572a9e60612dcc66d2efef6a848",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Sunken Caves",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Sunken Caves"
+  },
+  {
+    "key": "c1b01fe7996567c07a8f94fe46a81805",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Underground Ruins",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Guard Tower Underground Ruins"
+  },
+  {
+    "key": "93bdb7c0a849329658a9f1e4464303a5",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Inhravtidius Laboratory",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Inhravtidius Laboratory"
+  },
+  {
+    "key": "72e0c41867f871206f43c20674be3839",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Militarized Island",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Militarized Island"
+  },
+  {
+    "key": "eba0dca659891627d983c5e4f6479549",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Saldeniums Mobile Base",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Saldeniums Mobile Base"
+  },
+  {
+    "key": "3c2163d17f27110aabf903ccd45656ed",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Ulniviunite Factory",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Ulniviunite Factory"
+  },
+  {
+    "key": "8d297a1c226e35cb67aab683e6bded24",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Wanzeltiums Mobile Base",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Wanzeltiums Mobile Base"
+  },
+  {
+    "key": "ee0f0ebbde8e059c7d319f67eb847618",
+    "original": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Yengnutrium Cult Lair",
+    "translation": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you，answer some of your questions，but most importantly，it can locate Yengnutrium Cult Lair"
+  },
+  {
+    "key": "bf611a453b29615c2573febf4da42cf2",
+    "original": "What do you want to do? Play archived games? Browse archived social media? Watch archived videos? Listen to archived music? Read archived files along with archived books? Something to play, read, listen, watch for fun, intelligence improving, spiritual improving, mental improving? Or for reproductive physical state improving?",
+    "translation": "What do you want to do？ Play archived games？ Browse archived social media？ Watch archived videos？ Listen to archived music？ Read archived files along with archived books？ Something to play，read，listen，watch for fun，intelligence improving，spiritual improving，mental improving？ Or for reproductive physical state improving？"
+  },
+  {
+    "key": "fa5a43c2a4f82c90be11d23e3175ba2d",
+    "original": "What's the point of lying to me? You think I'm gonna reward you? Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore",
+    "translation": "What's the point of lying to me？ You think I'm gonna reward you？ Your rewards for this mission is valuable for you items or living creatures or other survivors you manage to find in this location which I have found for you to explore"
+  },
+  {
+    "key": "adbb63366f62496822a690123352faca",
+    "original": "Who are your creators? What is the purpose of producing these projectors?",
+    "translation": "Who are your creators？ What is the purpose of producing these projectors？"
+  },
+  {
+    "key": "5c8524ade8e6e878bd4e60c9ee0e363d",
+    "original": "Who or what are you?",
+    "translation": "Who or what are you？"
+  },
+  {
+    "key": "fcf8016e02a6e73738286c79a6611e2f",
+    "original": "You are a boring, lazy person honestly. I guess that laziness applies to both of us",
+    "translation": "You are a boring，lazy person honestly. I guess that laziness applies to both of us"
+  },
+  {
+    "key": "1a6e607a3deed5c5d372a477f005b3b4",
+    "original": "You want me to find this location for you to explore? Sure, you will just need to wait for a couple of minutes or less for me to find it via my network system",
+    "translation": "You want me to find this location for you to explore？ Sure，you will just need to wait for a couple of minutes or less for me to find it via my network system"
+  },
+  {
+    "key": "77f123741b8f5b9f5b0f33d1ffb25cc2",
+    "original": "You want me to locate it now for you to explore? Sure, just tell me, you will just need to wait for a couple of minutes or less for me to find it via my network system",
+    "translation": "You want me to locate it now for you to explore？ Sure，just tell me，you will just need to wait for a couple of minutes or less for me to find it via my network system"
+  }
 ]
