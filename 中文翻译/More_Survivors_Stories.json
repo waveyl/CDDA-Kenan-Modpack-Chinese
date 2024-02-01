@@ -245,6 +245,13 @@
     "context": "ID: TALK_bandit_gs_prisoner1_m1_wait\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/bandit_route/hells_raiders/grim_sisters/NPC_bandit_gs_prisoner1.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→TALK_bandit_gs_prisoner1_m1_wait\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_bandit_gs_prisoner1_m1_wait"
   },
   {
+    "key": "336d5ebc5436534e61d16e63ddfca327",
+    "original": "-",
+    "translation": "-",
+    "stage": 5,
+    "context": "ID: MISSION_mad_scientist_5\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/mad_scientist/NPC_mad_scientist.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→mission_definition→MISSION_mad_scientist_5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_mad_scientist_5"
+  },
+  {
     "key": "7e6c0c8d93df342fce7277480f9f19ca",
     "original": "100 8x40mm ammo for 90 merch or 25 20x66mm ammo for 150 merch.  Keep in mind that you need to wait for delivery at least 5 days.",
     "translation": "100 8x40mm弹药用于90 merch或25 20x66mm弹药用于150 merch。请记住，您需要等待交货至少5天。",
@@ -266,11 +273,39 @@
     "context": "ID: TALK_AI_wisdom\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/22ch/TEMP_AI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→TALK_AI_wisdom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_AI_wisdom"
   },
   {
+    "key": "8edc9f9c3f918eca0f83fbe8326aa9d9",
+    "original": "<BGSS_intro_question>",
+    "translation": "<BGSS_intro_question>",
+    "stage": -1,
+    "context": "ID: TALK_meteorologist_1\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/meteorologist/NPC_meteorologist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_meteorologist_1"
+  },
+  {
+    "key": "57b12a40d9de8f5c39c2c9c1ca0a59a4",
+    "original": "<done_conversation_section>",
+    "translation": "<done_conversation_section>",
+    "stage": -1,
+    "context": "ID: TALK_meteorologist_Background\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/meteorologist/NPC_meteorologist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→TALK_meteorologist_Background\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_meteorologist_Background"
+  },
+  {
+    "key": "8e074a9b133cf79de2da146e4898cc5b",
+    "original": "<end_talking>",
+    "translation": "<end_talking>",
+    "stage": -1,
+    "context": "ID: BGSS_mad_scientist_MYCUS\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/mad_scientist/bg_mad_scientist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→BGSS_mad_scientist_MYCUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_mad_scientist_MYCUS"
+  },
+  {
     "key": "6106ab8f01fd4860873dfc8af00f720a",
     "original": "<fuck_you>.  One more joke and <ill_kill_you>.",
     "translation": "<fuck_you> .  再来一个笑话和<ill_kill_you>。",
     "stage": 1,
     "context": "ID: TALK_Jerry_Bumpkin_nickels_robber\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/Hartley_Family/Jerry_Squad/NPC_jerry_bumpkin.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→TALK_Jerry_Bumpkin_nickels_robber\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_Jerry_Bumpkin_nickels_robber"
+  },
+  {
+    "key": "d22cc00102ccf684c2739172f6c3fe7c",
+    "original": "<greet>",
+    "translation": "<greet>",
+    "stage": -1,
+    "context": "ID: TALK_mad_scientist_1\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/mad_scientist/NPC_mad_scientist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_mad_scientist_1"
   },
   {
     "key": "52a5df6a6532c7238204e0780ac0f3fa",
@@ -7077,6 +7112,20 @@
     "context": "ID: module_meteorologist\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/meteorologist/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→GENERIC→module_meteorologist\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=module_meteorologist"
   },
   {
+    "key": "4c761f170e016836ff84498202b99827",
+    "original": "~",
+    "translation": "~",
+    "stage": 3,
+    "context": "ID: MISSION_lead_scientist_22ch_7\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/22ch/NPC_lead_scientist_22ch.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→mission_definition→MISSION_lead_scientist_22ch_7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_lead_scientist_22ch_7"
+  },
+  {
+    "key": "71840606e258f34ef4df56dda42d243d",
+    "original": "Зимние запасы",
+    "translation": "Зимние запасы",
+    "stage": 1,
+    "context": "ID: MISSION_bandit_fs_trapper_2\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/bandit_route/hells_raiders/forest_snakes/NPC_bandit_fs_trapper.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→mission_definition→MISSION_bandit_fs_trapper_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_bandit_fs_trapper_2"
+  },
+  {
     "key": "2f8ed7fafd3c1784a3be4da8eb3d106a",
     "original": "…",
     "translation": "……",
@@ -7159,6 +7208,13 @@
     "translation": "杰瑞·土包子",
     "stage": 1,
     "context": "ID: NPC_Jerry_Bumpkin\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/Hartley_Family/Jerry_Squad/NPC_jerry_bumpkin.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→npc→NPC_Jerry_Bumpkin\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=NPC_Jerry_Bumpkin"
+  },
+  {
+    "key": "fd35acd5615a7fd9106e497e2fcfb88c",
+    "original": "Marinam 'Adu' Obmazov",
+    "translation": "Marinam 'Adu' Obmazov",
+    "stage": 1,
+    "context": "ID: NPC_lead_scientist_22ch\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/22ch/NPC_lead_scientist_22ch.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→npc→NPC_lead_scientist_22ch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=NPC_lead_scientist_22ch"
   },
   {
     "key": "64eb669723cae1983f03e34cca705c80",
@@ -7369,47 +7425,5 @@
     "translation": "你今天想吃什么，<sweetie>？",
     "stage": 0,
     "context": "ID: TALK_bandit_gs_cook_1\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/bandit_route/hells_raiders/grim_sisters/NPC_bandit_gs_cook.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_bandit_gs_cook_1"
-  },
-  {
-    "key": "336d5ebc5436534e61d16e63ddfca327",
-    "original": "-",
-    "translation": "-",
-    "stage": 5,
-    "context": "ID: MISSION_mad_scientist_5\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/mad_scientist/NPC_mad_scientist.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→mission_definition→MISSION_mad_scientist_5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_mad_scientist_5"
-  },
-  {
-    "key": "8edc9f9c3f918eca0f83fbe8326aa9d9",
-    "original": "<BGSS_intro_question>",
-    "translation": "<BGSS_intro_question>",
-    "stage": -1,
-    "context": "ID: TALK_meteorologist_1\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/meteorologist/NPC_meteorologist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_meteorologist_1"
-  },
-  {
-    "key": "57b12a40d9de8f5c39c2c9c1ca0a59a4",
-    "original": "<done_conversation_section>",
-    "translation": "<done_conversation_section>",
-    "stage": -1,
-    "context": "ID: TALK_meteorologist_Background\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/meteorologist/NPC_meteorologist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→TALK_meteorologist_Background\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_meteorologist_Background"
-  },
-  {
-    "key": "8e074a9b133cf79de2da146e4898cc5b",
-    "original": "<end_talking>",
-    "translation": "<end_talking>",
-    "stage": -1,
-    "context": "ID: BGSS_mad_scientist_MYCUS\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/mad_scientist/bg_mad_scientist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→BGSS_mad_scientist_MYCUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_mad_scientist_MYCUS"
-  },
-  {
-    "key": "d22cc00102ccf684c2739172f6c3fe7c",
-    "original": "<greet>",
-    "translation": "<greet>",
-    "stage": -1,
-    "context": "ID: TALK_mad_scientist_1\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/mad_scientist/NPC_mad_scientist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_mad_scientist_1"
-  },
-  {
-    "key": "4c761f170e016836ff84498202b99827",
-    "original": "~",
-    "translation": "~",
-    "stage": 3,
-    "context": "ID: MISSION_lead_scientist_22ch_7\n位于 /Kenan-Structured-Modpack/More_Survivors_Stories/22ch/NPC_lead_scientist_22ch.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#More_Survivors_Stories→mission_definition→MISSION_lead_scientist_22ch_7\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_lead_scientist_22ch_7"
   }
 ]

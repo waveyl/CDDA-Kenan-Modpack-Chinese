@@ -49,10 +49,22 @@
   "stage": 1
  },
  {
+  "key": "c7088fd7dd03ae9fcf657246b03142b8",
+  "original": "%1$s bashes you with its sword!",
+  "translation": "%1$s bashes you with its sword!",
+  "stage": 1
+ },
+ {
   "key": "9187beeffcaf1e9f1c2ae8b20148a2d5",
   "original": "%1$s bashes your %2$s!",
   "translation": "%1$s bashes your %2$s！",
   "context": "ID: secro_swordbash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordbash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordbash",
+  "stage": 1
+ },
+ {
+  "key": "49b8cf4c682924e2dd87c083940f7e91",
+  "original": "%1$s bashes your leg with its sword!",
+  "translation": "%1$s bashes your leg with its sword!",
   "stage": 1
  },
  {
@@ -203,6 +215,12 @@
   "stage": 1
  },
  {
+  "key": "b27f807ae631caffca812e82b63cb5a1",
+  "original": "%1$s hits <npcname> with a tendril!",
+  "translation": "%1$s hits <npcname> with a tendril!",
+  "stage": 1
+ },
+ {
   "key": "7f77b082ef49028029c5bacf46a27351",
   "original": "%1$s hits <npcname>, but fails to penetrate armor!",
   "translation": "%1$s hits <npcname>, but fails to penetrate armor!",
@@ -240,7 +258,7 @@
  {
   "key": "4ac116a1c25fe51aedf26c26fbd08cff",
   "original": "%1$s pierces <npcname>!",
-  "translation": "%1$s pierces <npcname>！",
+  "translation": "%1$s pierces <npcname>!",
   "context": "ID: secro_xlicker_pstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_xlicker_pstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_xlicker_pstab",
   "stage": 1
  },
@@ -280,6 +298,12 @@
   "stage": 1
  },
  {
+  "key": "73aacf47a87236f80f2f088094a89bdb",
+  "original": "%1$s quickly swings a tendril!",
+  "translation": "%1$s quickly swings a tendril!",
+  "stage": 1
+ },
+ {
   "key": "875dd3f3936f45f7d4716baa60eadaee",
   "original": "%1$s sends a large amount of concentrated acid to %3$s!",
   "translation": "%1$s向%3$s输送大量浓酸！",
@@ -298,6 +322,12 @@
   "original": "%1$s shadowstrikes <npcname>!",
   "translation": "%1$s shadowstrikes <npcname>!",
   "context": "ID: secro_nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_sstrike\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_nocturne_sstrike",
+  "stage": 1
+ },
+ {
+  "key": "f97b2249324def696b6b1a35b62429d3",
+  "original": "%1$s slammed you with its tendril!",
+  "translation": "%1$s slammed you with its tendril!",
   "stage": 1
  },
  {
@@ -324,7 +354,7 @@
  {
   "key": "4057cf22c3faa17976309150487328b6",
   "original": "%1$s slams at <npcname>, but fails to penetrate their armor!",
-  "translation": "%1$s slams at <npcname>，but fails to penetrate their armor！",
+  "translation": "%1$s slams at <npcname>, but fails to penetrate their armor!",
   "context": "ID: sflesh_flesh_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_slam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sflesh_flesh_slam",
   "stage": 1
  },
@@ -385,6 +415,12 @@
   "stage": 1
  },
  {
+  "key": "873ae7f3e988d2107c1348885ebec7b8",
+  "original": "%1$s slashed a sword on you, but fails to penetrate your armor!",
+  "translation": "%1$s slashed a sword on you, but fails to penetrate your armor!",
+  "stage": 1
+ },
+ {
   "key": "8c2c141082b1813967ce5e8ff73c0b59",
   "original": "%1$s slashed its sword on <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s slashed its sword on <npcname>, but fails to penetrate their armor!",
@@ -423,6 +459,18 @@
   "original": "%1$s slashes your %2$s!",
   "translation": "%1$s slashes your %2$s！",
   "context": "ID: secro_swordslash_serrated\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swordslash_serrated\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_swordslash_serrated",
+  "stage": 1
+ },
+ {
+  "key": "b36fcb0dd7e6724cbad1652547810efa",
+  "original": "%1$s slashes your leg with its sword!",
+  "translation": "%1$s slashes your leg with its sword!",
+  "stage": 1
+ },
+ {
+  "key": "669638513550acd1275322a800f1ca87",
+  "original": "%1$s stabbed you with its tendril!",
+  "translation": "%1$s stabbed you with its tendril!",
   "stage": 1
  },
  {
@@ -503,6 +551,12 @@
   "stage": 1
  },
  {
+  "key": "9e0a4d67d6dc9e13f5c07462bd0f7e6a",
+  "original": "%1$s swings its wide sword on you!",
+  "translation": "%1$s swings its wide sword on you!",
+  "stage": 1
+ },
+ {
   "key": "9ea7eb0fd03746691a7ce0ba4fbf8a15",
   "original": "%1$s swings onto <npcname>!",
   "translation": "%1$s swings onto <npcname>!",
@@ -517,6 +571,12 @@
   "stage": 1
  },
  {
+  "key": "8410176cd5a5ce04c22d1284257554cb",
+  "original": "%1$s swordbashed <npcname>!",
+  "translation": "%1$s swordbashed <npcname>!",
+  "stage": 1
+ },
+ {
   "key": "1714edfbf5fb7d7d1e0b260a3b703910",
   "original": "%1$s swordbashed <npcname>'s leg!",
   "translation": "%1$s swordbashed <npcname>'s leg!",
@@ -527,6 +587,24 @@
   "key": "9e3f0dc35bdcd230366c853481b4f8e1",
   "original": "%1$s swordslashed <npcname>!",
   "translation": "%1$s swordslashed <npcname>！",
+  "stage": 1
+ },
+ {
+  "key": "0bc5f34e879bd3571a008556cc16f3eb",
+  "original": "%1$s swordslashed <npcname>'s leg!",
+  "translation": "%1$s swordslashed <npcname>'s leg!",
+  "stage": 1
+ },
+ {
+  "key": "85753619e0e3026e83df7c1ee6d03aaa",
+  "original": "%1$s tendril slammed <npcname>!",
+  "translation": "%1$s tendril slammed <npcname>!",
+  "stage": 1
+ },
+ {
+  "key": "d75d61cb60498cc76017b56e56028187",
+  "original": "%1$s tendril stabbed <npcname>!",
+  "translation": "%1$s tendril stabbed <npcname>!",
   "stage": 1
  },
  {
@@ -663,6 +741,54 @@
   "stage": 1
  },
  {
+  "key": "4e761a613337ae418773a085182b4acb",
+  "original": "%1$s tries to grip <npcname>'s head, but fails to take effect!",
+  "translation": "%1$s tries to grip <npcname>'s head, but fails to take effect!",
+  "stage": 1
+ },
+ {
+  "key": "8a2a29265d2013b06aaa4efb3b377798",
+  "original": "%1$s tries to grip <npcname>, but fails to take effect!",
+  "translation": "%1$s tries to grip <npcname>, but fails to take effect!",
+  "stage": 1
+ },
+ {
+  "key": "420a196d652f9a543988bd11d40bb6c2",
+  "original": "%1$s tries to grip you, but fails to take effect!",
+  "translation": "%1$s tries to grip you, but fails to take effect!",
+  "stage": 1
+ },
+ {
+  "key": "3e52af108754f551a9aa1acd316bc545",
+  "original": "%1$s tries to grip your head, but fails to take effect!",
+  "translation": "%1$s tries to grip your head, but fails to take effect!",
+  "stage": 1
+ },
+ {
+  "key": "7be4ae7b2a519ce5033b10b13fb0e086",
+  "original": "%1$s tries to hug <npcname>, but fails to take effect!",
+  "translation": "%1$s tries to hug <npcname>, but fails to take effect!",
+  "stage": 1
+ },
+ {
+  "key": "77ebd9e10f1c2616e0b131022309559d",
+  "original": "%1$s tries to hug you, but fails to take effect!",
+  "translation": "%1$s tries to hug you, but fails to take effect!",
+  "stage": 1
+ },
+ {
+  "key": "57c40801e1268f4b9a2338acdaa3c557",
+  "original": "%1$s tries to hurt <npcname> with tendril, but fails to penetrate armor!",
+  "translation": "%1$s tries to hurt <npcname> with tendril, but fails to penetrate armor!",
+  "stage": 1
+ },
+ {
+  "key": "02e4a4a268fe5cd726aba1d82f8e0345",
+  "original": "%1$s tries to hurt you with tendril, but fails to penetrate armor!",
+  "translation": "%1$s tries to hurt you with tendril, but fails to penetrate armor!",
+  "stage": 1
+ },
+ {
   "key": "8cf2a2102962b99d4b96889f3e7badef",
   "original": "%1$s tries to lash <npcname>, but fails to penetrate their armor!",
   "translation": "%1$s tries to lash <npcname>, but fails to penetrate their armor!",
@@ -775,10 +901,46 @@
   "stage": 1
  },
  {
+  "key": "ae98527a5d71116e4e4f56149f4dca6d",
+  "original": "%1$s tries to stab you, but fails to penetrate armor!",
+  "translation": "%1$s tries to stab you, but fails to penetrate armor!",
+  "stage": 1
+ },
+ {
   "key": "b2cfdc89c56637e8a67c03426bccf824",
   "original": "%1$s tries to stab your %2$s, but fails to penetrate armor!",
   "translation": "%1$s tries to stab your %2$s, but fails to penetrate armor!",
   "context": "ID: secro_tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilstab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=secro_tendrilstab",
+  "stage": 1
+ },
+ {
+  "key": "9556f3fd6ca09b78eb96ca05d0358bbc",
+  "original": "%1$s tries to swordbash <npcname>'s leg, but fails to penetrate their armor!",
+  "translation": "%1$s tries to swordbash <npcname>'s leg, but fails to penetrate their armor!",
+  "stage": 1
+ },
+ {
+  "key": "817dca3d59c0b2ea6480898632a2f700",
+  "original": "%1$s tries to swordbash <npcname>, but fails to penetrate their armor!",
+  "translation": "%1$s tries to swordbash <npcname>, but fails to penetrate their armor!",
+  "stage": 1
+ },
+ {
+  "key": "caa8942d1b0af00ea646b093b584c64d",
+  "original": "%1$s tries to swordbash you, but fails to penetrate your armor!",
+  "translation": "%1$s tries to swordbash you, but fails to penetrate your armor!",
+  "stage": 1
+ },
+ {
+  "key": "6697145dcacbc50bd660da331d3eca56",
+  "original": "%1$s tries to swordbash your leg, but fails to penetrate your armor!",
+  "translation": "%1$s tries to swordbash your leg, but fails to penetrate your armor!",
+  "stage": 1
+ },
+ {
+  "key": "2d306f0d3d1882e6fa3357b87404db10",
+  "original": "%1$s tries to swordslash <npcname>'s leg, but fails to penetrate their armor!",
+  "translation": "%1$s tries to swordslash <npcname>'s leg, but fails to penetrate their armor!",
   "stage": 1
  },
  {
@@ -791,6 +953,12 @@
   "key": "2e286022a349faf10ab7c9b161fb3c48",
   "original": "%1$s tries to swordslash you, but fails to penetrate your armor!",
   "translation": "%1$s tries to swordslash you，but fails to penetrate your armor！",
+  "stage": 1
+ },
+ {
+  "key": "2b4e2d53869f9325ec3c8e4e99a2af73",
+  "original": "%1$s tries to swordslash your leg, but fails to penetrate your armor!",
+  "translation": "%1$s tries to swordslash your leg, but fails to penetrate your armor!",
   "stage": 1
  },
  {
@@ -3964,6 +4132,12 @@
   "original": "A tendril zombie with larger and thicker set of tentacle limbs.",
   "translation": "A tendril zombie with larger and thicker set of tentacle limbs.",
   "context": "ID: mon_zombie_thicktendrils\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_thicktendrils\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_thicktendrils",
+  "stage": 1
+ },
+ {
+  "key": "da55a825edd639bc93e277273602dae3",
+  "original": "A tentacle bursts out of the ground!",
+  "translation": "A tentacle bursts out of the ground!",
   "stage": 1
  },
  {
@@ -10963,6 +11137,18 @@
   "stage": 3
  },
  {
+  "key": "2f843921c6dce0aa1cf34d3fad69699b",
+  "original": "The fleshmonger consumes the surroundings off of gore.\nTentacles were formed that pierced its nearby allies!",
+  "translation": "The fleshmonger consumes the surroundings off of gore.\nTentacles were formed that pierced its nearby allies!",
+  "stage": 1
+ },
+ {
+  "key": "90fc8ca6b2f0816c2e3c2ddcf708fdc0",
+  "original": "The fleshmonger violently bursts out tentacles that pierced its nearby allies!",
+  "translation": "The fleshmonger violently bursts out tentacles that pierced its nearby allies!",
+  "stage": 1
+ },
+ {
   "key": "918a128b58d3ee12ed8fda56a31a73c0",
   "original": "The flesilisk coils and releases itself afterwards, flinging hundreds of bone needles!",
   "translation": "Flesilik盘绕并随后释放，投掷数百根骨针！",
@@ -11084,6 +11270,12 @@
   "original": "The secronom dragon accumulates electricity.",
   "translation": "The secronom dragon accumulates electricity.",
   "context": "ID: eoc_secro_mon_secrodragon_woke_elec_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_secrodragon_woke_elec_check\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eoc_secro_mon_secrodragon_woke_elec_check",
+  "stage": 1
+ },
+ {
+  "key": "a4e04e902dd71b572a56241690d61f2f",
+  "original": "The secronom dragon generates a forcefield, pushing you!",
+  "translation": "The secronom dragon generates a forcefield, pushing you!",
   "stage": 1
  },
  {
