@@ -35,13 +35,6 @@
     "context": "ID: t_hydrop_generic\n位于 /Kenan-Structured-Modpack/Hydroponics/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Hydroponics→terrain→t_hydrop_generic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_hydrop_generic"
   },
   {
-    "key": "d87fdbdae4f48b7e9f0ff03a673c7028",
-    "original": "The maximum harvest from a crop grown in hydroponics.",
-    "translation": "The maximum harvest from a crop grown in hydroponics.",
-    "stage": 3,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Hydroponics/game_balance.json\n类型为 EXTERNAL_OPTION\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Hydroponics→EXTERNAL_OPTION→[0]\n"
-  },
-  {
     "key": "7374edc59df1f884d9adcde8ac53b3a6",
     "original": "This is a deprecated hydroponics unit.  Deconstruct it to receive your materials back.",
     "translation": "这是一个废弃的水培单元。你可以拆解它来收回材料。",
@@ -131,5 +124,12 @@
     "translation": "水培单元（幼苗）",
     "stage": 5,
     "context": "ID: f_hydroponics_seedling\n位于 /Kenan-Structured-Modpack/Hydroponics/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Hydroponics→furniture→f_hydroponics_seedling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_hydroponics_seedling"
+  },
+  {
+    "key": "d87fdbdae4f48b7e9f0ff03a673c7028",
+    "original": "The maximum harvest from a crop grown in hydroponics.",
+    "translation": "The maximum harvest from a crop grown in hydroponics.",
+    "stage": 3,
+    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Hydroponics/game_balance.json\n类型为 EXTERNAL_OPTION\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Hydroponics→EXTERNAL_OPTION→[0]\n"
   }
 ]
