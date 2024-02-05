@@ -42,7 +42,7 @@
     "min_range": 1,
     "max_range": 1,
     "max_level": 1,
-    "difficulty": -10,
+    "difficulty": -11,
     "base_casting_time": 0,
     "base_energy_cost": 0,
     "energy_source": "MANA",
@@ -70,7 +70,7 @@
           "values": [
             { "value": "ARMOR_BASH", "add": 2 },
             { "value": "ARMOR_CUT", "add": 2 },
-            { "value": "ARMOR_STAB", "add": 4 },
+            { "value": "ARMOR_STAB", "add": 2 },
             { "value": "ARMOR_BULLET", "add": 2 }
           ],
           "//": "ARMOR_X add +n REDUCES armor for n value, this is intended here as the aura increases melee dmg while reducing defense"
@@ -97,6 +97,7 @@
     "effect": "attack",
     "extra_effects": [ { "id": "vampiric_drain" } ],
     "valid_targets": [ "hostile" ],
+    "ignored_monster_species": [ "HALLUCINATION", "HORROR", "NETHER_EMANATION", "ROBOT" ],
     "shape": "blast",
     "damage_type": "cut",
     "min_damage": { "math": [ "( (u_skill('stabbing') * 0.375 ) + (u_skill('melee') * 0.375 ) )" ] },
@@ -104,7 +105,7 @@
     "min_range": 1,
     "max_range": 1,
     "max_level": 1,
-    "difficulty": -10,
+    "difficulty": -11,
     "base_casting_time": 0,
     "base_energy_cost": 0,
     "energy_source": "MANA",
@@ -126,7 +127,7 @@
     "min_aoe": 2,
     "max_aoe": 2,
     "max_level": 1,
-    "difficulty": -10,
+    "difficulty": -11,
     "base_casting_time": 0,
     "base_energy_cost": 0,
     "energy_source": "MANA",
@@ -287,19 +288,5 @@
     "symbol": "◘",
     "color": "yellow",
     "flags": [ "TRADER_AVOID" ]
-  },
-  {
-    "id": "utsuho_minisun",
-    "type": "ARMOR",
-    "category": "tools",
-    "name": "Black sun",
-    "description": "A small black sun hovering over your head.  Looks like an eclipse.",
-    "volume": "0 L",
-    "weight": "0 kg",
-    "price_postapoc": 0,
-    "symbol": "🔅",
-    "color": "black",
-    "covers": [ "head" ],
-    "flags": [ "AURA", "LIGHT_56", "SEMITANGIBLE", "ZERO_WEIGHT" ]
   }
 ]
