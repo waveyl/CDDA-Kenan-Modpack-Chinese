@@ -2,9 +2,9 @@
  {
   "key": "d57dbfd3732bfe766359c005d4541ece",
   "original": "    Bolstered by Johnathan's hunting party, Sofia's holdout eked out a modest subsistence within their new sanctum.  Despite endless monsters and anomalies to combat, and few allies they could count on, they languished on with characteristic stubbornness.  \"So long as the Sun shines upon the Earth\" as their tenets state, as it had been and as it shall be…",
-  "translation": "    Bolstered by Johnathan's hunting party, Sofia's holdout eked out a modest subsistence within their new sanctum.  Despite endless monsters and anomalies to combat, and few allies they could count on, they languished on with characteristic stubbornness.  \"So long as the Sun shines upon the Earth\" as their tenets state, as it had been and as it shall be…",
+  "translation": "    在约翰纳森的狩猎队的支持下，索菲亚的据点在他们的新圣所中勉强维持生存。尽管他们需要对抗无尽的怪物和异常，而且他们可以依赖的盟友寥寥无几，但他们仍然倔强的坚持下去。正如他们的信条所述，“只要太阳还照耀着地球”，就像过去一样，也将如此……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→snippet→[23]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "30b67f72dc5ac755879063cd22878dd4",
@@ -6727,7 +6727,7 @@
  {
   "key": "d4fb7953193a557a1bf2397349690ad5",
   "original": "Anomalous monsters in small groups, sometimes lone attackers.  Most of the attacks were at night, and most of the victims attacked during the day got away unscathed.",
-  "translation": "成群的反常怪物，有时是孤独的袭击者。大多数袭击发生在夜间，白天袭击的受害者大多毫发无损。",
+  "translation": "成群的异常怪物，有时是孤独的袭击者。大多数袭击发生在夜间，白天袭击的受害者大多毫发无损。",
   "context": "ID: TALK_CF_GM_PRELUDE_4_ATTACKS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_PRELUDE_4_ATTACKS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_GM_PRELUDE_4_ATTACKS",
   "stage": 1
  },
@@ -8156,9 +8156,9 @@
  {
   "key": "e22448ae54357709ceb65d8cda6460ff",
   "original": "Can you teach me any spells?",
-  "translation": "Can you teach me any spells？",
+  "translation": "你能教我一些法术吗？",
   "context": "ID: TALK_CF_REP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6a3d3eabd8266165bd0e23192ec13004",
@@ -25644,7 +25644,7 @@
  {
   "key": "b974e8185d285f3f7d1f692928bb4766",
   "original": "Sure, here you go.",
-  "translation": "Sure，here you go.",
+  "translation": "当然，给你。",
   "context": "ID: TALK_HERMIT_SPELL_MENU_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SPELL_MENU_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_SPELL_MENU_3",
   "stage": 1
  },
@@ -29700,9 +29700,9 @@
  {
   "key": "c252991615a3fd15c32e354d7087ef91",
   "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will anoint you with a sunstone halo, granting a temporary defensive effect that will push any nearby attackers away from you in random directions, activating at random when you're struck.\"",
-  "translation": "This is a scroll with ornate patterns written on the paper，depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  （（ Remember to bind the “spellcasting” key！ ））\n“Using this spell will anoint you with a sunstone halo，granting a temporary defensive effect that will push any nearby attackers away from you in random directions，activating at random when you're struck.”",
+  "translation": "这是一幅画着华丽图案的卷轴，纸上用不自然的顺序描绘出奇怪的几何图案。激活它以探索其中的秘密。（ 记得绑定“施法”键！ ）\n“使用这个法术会将你笼罩在太阳石光环中，赋予你一种临时的防御效果，可以将任何靠近你的攻击者朝随机方向推开，在你被攻击时随机激活。”",
   "context": "ID: scroll_spell_phase_shield\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→scroll_spell_phase_shield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scroll_spell_phase_shield",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cfa12a294abd1d8bb22e79c779783104",
@@ -35890,15 +35890,14 @@
  {
   "key": "c5f3855ed44e111ad119ff558a3603eb",
   "original": "You've already activated the %s, it would be smarter to throw this instead.",
-  "translation": "You've already activated the %s，it would be smarter to throw this instead.",
+  "translation": "你已经激活了%s，把它丢出去会更明智。",
   "context": "ID: blast_canister_arcana_air_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_air_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_air_act",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "570857c812d045775e3734bbaf6a30db",
   "original": "You've already activated the %s，it would be smarter to throw this instead.",
   "translation": "You've already activated the %s，it would be smarter to throw this instead.",
-  "context": "ID: blast_canister_arcana_air_act\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→blast_canister_arcana_air_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blast_canister_arcana_air_act",
   "stage": 1
  },
  {
@@ -36768,16 +36767,16 @@
  {
   "key": "a51fda0dd804545b12920a5e54d7b8d6",
   "original": "[GS3] You have a deal, then.",
-  "translation": "[GS3] You have a deal，then.",
+  "translation": "[GS3] 那么，成交了。",
   "context": "ID: TALK_CF_REP_SPELL_MENU_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SPELL_MENU_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_SPELL_MENU_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9b634c50b524e444b507c8051bb6924e",
   "original": "[GS4] You have a deal, then.",
-  "translation": "[GS4] You have a deal，then.",
+  "translation": "[GS4] 那么，成交了。",
   "context": "ID: TALK_CF_REP_SPELL_MENU_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SPELL_MENU_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_SPELL_MENU_3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8bde23eb0d4dc85e219a9a2d71a484c4",
@@ -39699,9 +39698,9 @@
  {
   "key": "8d66e2b674aa834e07adb0ba6fd23013",
   "original": "revenant crown (on)",
-  "translation": "revenant crown （on）",
+  "translation": "复仇者王冠（开）",
   "context": "ID: revenant_crown_on\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→revenant_crown_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=revenant_crown_on",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "666bf3dd45a850b22a24be5d044f89ec",

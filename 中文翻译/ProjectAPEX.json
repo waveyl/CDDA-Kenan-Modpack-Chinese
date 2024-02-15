@@ -3,14 +3,14 @@
     "key": "ea9e5481e0975d1013288f59cbce8a38",
     "original": "A set of tangents - logical premises - for the EULER design asssitance system. This one is labeled \"suit, Mk I\". The only other human-language text on all pages is the hastily-scribbled \"how to turn prototype into real thing\".",
     "translation": "欧拉设计假设系统的一组切线-逻辑前提。这个标签是“西装，Mk I”。所有页面上唯一的其他人类语言文本是匆忙涂鸦的“如何把原型变成真实的东西”。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: apex_tangents_mki\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→BOOK→apex_tangents_mki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apex_tangents_mki"
   },
   {
     "key": "c6f23787bc3fb0dae9ec5f2f023566b6",
     "original": "AI-controlled suit of armor, the first model to be derived tangentially using Bitter Logic. It is easier to wear despite increased weight and volume. Thanks to optimizations in structure and AI's management of the suit, Mk I features improved protection against external threats.",
     "translation": "人工智能控制的盔甲，第一个模型是切向使用苦逻辑推导。尽管重量和体积都增加了，但它更容易穿。由于结构的优化和AI对这套衣服的管理，Mk I的特点是增强了对外部威胁的保护。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: apex_mki\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/suit/suits.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→ARMOR→apex_mki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apex_mki"
   },
   {
@@ -101,7 +101,7 @@
     "key": "3a7034b5319c3b8904a00108bec34806",
     "original": "Bitter Logic tangents (APEX Mk I suit)",
     "translation": "苦涩的逻辑切线（APEX Mk I套装）",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: apex_tangents_mki\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→BOOK→apex_tangents_mki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apex_tangents_mki"
   },
   {
@@ -129,7 +129,7 @@
     "key": "24decb74846231965bcae9d41c6ca44c",
     "original": "Detailed set of instructions for manually turning prototype Mk 0 suit into a Mk I. Requires digitizing the suit by inserting and insulating the governing AI module and the cables connected to holder bracers placed at joint locations. An alternative is suggested in using a molecular forge to speed up the process considerably, with instructions supplied for the process as well.",
     "translation": "手动将原型Mk 0套装转换为Mk I的详细说明。要求通过插入和绝缘控制AI模块以及连接到接头位置的支架支架的电缆，对套装进行数字化。另一种方法是使用分子炉，以加快进程相当快，并提供了指导的过程以及。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: apex_schematics_mki\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→BOOK→apex_schematics_mki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apex_schematics_mki"
   },
   {
@@ -157,14 +157,14 @@
     "key": "b4647f564f3eb36d2da422b74fcd9cde",
     "original": "Proprietary APEX operating system serving a thin interface for the underlying designer AI engine. Though command-line in outward nature, it requires at least some measure of graphics processing for the AI's virtual modelling component. The OS is so thin it doesn't even have a clock.",
     "translation": "专有的APEX操作系统，为底层designer AI引擎提供瘦接口。虽然命令行的本质是外在的，但它至少需要对人工智能的虚拟建模组件进行一定程度的图形处理。操作系统太薄了，连时钟都没有。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: software_os_euler\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/software.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→GENERIC→software_os_euler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=software_os_euler"
   },
   {
     "key": "1b530cf86b8d66bacbcd8d3f635bec84",
     "original": "Prototype APEX suit of armor, printed the showcase the potential of the APEX Armor Division projects. Offers excellent protection in melee combat.",
     "translation": "原型APEX盔甲套装，印在展示APEX盔甲师潜力的项目上。在近战战斗中提供出色的保护。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: apex_mk0\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/suit/suits.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→ARMOR→apex_mk0\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apex_mk0"
   },
   {
@@ -185,7 +185,7 @@
     "key": "b9f2cb040c95b361464d420a1521c623",
     "original": "Working portable computer. Internal battery has been somewhat-crudely replaced to ensure as much. This one has EulerOS - a proprietary APEX design assistance system - installed.",
     "translation": "便携式计算机。内部电池已被粗略地更换，以确保尽可能多。这一个有EulerOS-专有的APEX设计辅助系统-安装。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: laptop_working_euler\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/tools/euler.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→TOOL→laptop_working_euler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=laptop_working_euler"
   },
   {
@@ -290,7 +290,7 @@
     "key": "2ead11420adfd91fe093daff69074d09",
     "original": "schematics for APEX Mk I suit (processing)",
     "translation": "APEX Mk I套装（加工）示意图",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: apex_schematics_mki_processing\n位于 /Kenan-Structured-Modpack/ProjectAPEX/items/books.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#ProjectAPEX→GENERIC→apex_schematics_mki_processing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=apex_schematics_mki_processing"
   },
   {
