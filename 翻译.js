@@ -449,12 +449,14 @@ async function translateWithCache(value, modTranslationCache, context) {
   if (value === undefined) return undefined;
   if (value === '') return '';
   if (typeof value !== 'string') return value;
+  /*
   if (hasChinese(value)) {
     logger.error(`\nHas Chinese in text ${value}\n${context}`);
     // console.trace();
     // process.exit(1);
     return value;
   }
+  */
   let translatedValue = modTranslationCache.get(value);
   // 有时候 tag 没有被正确翻译，原文里有 tag，结果里没有
   const hasNotTranslatedTag =
