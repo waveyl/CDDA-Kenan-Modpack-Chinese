@@ -14,9 +14,9 @@ jobs:
     environment: Translation
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/setup-node@v4
         with:
-          node-version: '15'
+          node-version: '20'
 
 #       - name: 拉取 Kenan 最新内容 by Merge from Upstream Repository
 #         continue-on-error: true
@@ -27,7 +27,7 @@ jobs:
 #           upstream_branch: master
 #           target_branch: master
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Install Dependency
         run: npm install
@@ -52,7 +52,7 @@ jobs:
 
       - name: Get build timestamp
         id: get-timestamp
-        uses: nanzm/get-time-action@v1.1
+        uses: nanzm/get-time-action@v2
         with:
           timeZone: 8
           format: 'YYYY-MM-DD-HHmm'
@@ -79,7 +79,7 @@ jobs:
           publish_dir: ./public-dist
           
       - name: Add & Commit
-        uses: EndBug/add-and-commit@v7.2.0
+        uses: EndBug/add-and-commit@v9
         with:
           message: 'feat: 自动拉取Paratranz最新内容并发布'
 #           pull_strategy: NO-PULL
