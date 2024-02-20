@@ -14,9 +14,9 @@ jobs:
     environment: Translation
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v2-beta
         with:
-          node-version: '20'
+          node-version: '15'
 
 #       - name: 拉取 Kenan 最新内容 by Merge from Upstream Repository
 #         continue-on-error: true
