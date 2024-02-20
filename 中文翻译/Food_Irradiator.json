@@ -1,83 +1,4 @@
-[
-  {
-    "key": "17830161ff9d48baff2e7f0e9367d615",
-    "original": "A group of irradiated plums will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的李子。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_plums\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_plums\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_plums"
-  },
-  {
-    "key": "f1e853c0b50b2c5ce4d6174375fbcaec",
-    "original": "A small instruction manual for working the Rivtech Atomic Autoclave.  You could use this to figure out how to irradiate vegetables.",
-    "translation": "Rivtech原子高压灭菌器的说明小册子。你可以用这个来研究如何辐照蔬菜。",
-    "stage": 3,
-    "context": "ID: recipe_food_irradiator\n位于 /Kenan-Structured-Modpack/Food_Irradiator/items.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→BOOK→recipe_food_irradiator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_food_irradiator"
-  },
-  {
-    "key": "72eba8a28ee6af8a979a5cbbdebd90ac",
-    "original": "Adds an immobile machine, the 'food irradiator', as a rare spawn in labs along with the recipe for a portable version.",
-    "translation": "添加了一个固定的机器，“食物辐照器”，会作为一个稀有物出现在实验室里，还有一个记载了便携式版本的食谱。",
-    "stage": 3,
-    "context": "ID: food_irradiator\n位于 /Kenan-Structured-Modpack/Food_Irradiator/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→MOD_INFO→food_irradiator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=food_irradiator"
-  },
-  {
-    "key": "6848f5f4880c357b749dc1af47457ae4",
-    "original": "An irradiated apricot will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的杏子。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_apricot\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_apricot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_apricot"
-  },
-  {
-    "key": "27d3d927e8df0f258e450737d906fdab",
-    "original": "An irradiated banana will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的香蕉。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_banana\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_banana\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_banana"
-  },
-  {
-    "key": "6fd544d8884f7806935d42afee21da50",
-    "original": "An irradiated blackberry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的黑莓。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_blackberries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_blackberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_blackberries"
-  },
-  {
-    "key": "b4b9c9ef5df988ee2fb4d21192aa096b",
-    "original": "An irradiated blueberry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的蓝莓。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_blueberries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_blueberries"
-  },
-  {
-    "key": "165f08916870079172707c9c56323392",
-    "original": "An irradiated bundle of carrots will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的胡萝卜。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_carrot\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_veggy.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_carrot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_carrot"
-  },
-  {
-    "key": "bafeb664781fc6dae6b9f94ca5e861cf",
-    "original": "An irradiated celery will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的芹菜。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_celery\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_veggy.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_celery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_celery"
-  },
-  {
-    "key": "e767848ce6c0420891ebf26cb9ebee36",
-    "original": "An irradiated cherry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的樱桃。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_cherries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_cherries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_cherries"
-  },
-  {
-    "key": "46ab361691a588eb06e72e01038c4010",
-    "original": "An irradiated cluster of broccoli will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
-    "translation": "经过辐照消毒的樱桃。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
-    "stage": 3,
-    "context": "ID: irradiated_broccoli\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_veggy.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_broccoli\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_broccoli"
-  },
-  {
-    "key": "cd3de192be653adf90826832239399b6",
+192be653adf90826832239399b6",
     "original": "An irradiated cranberry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
     "translation": "经过辐照消毒的蔓越莓。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
     "stage": 3,
@@ -172,7 +93,86 @@
     "original": "An irradiated mulberry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
     "translation": "经过辐照消毒的桑葚。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
     "stage": 3,
-    "context": "ID: irradiated_mulberries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_mulberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_mulberries"
+    "context": "ID: irradiated_mulberries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_mulberries\n物�[
+  {
+    "key": "17830161ff9d48baff2e7f0e9367d615",
+    "original": "A group of irradiated plums will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的李子。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_plums\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_plums\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_plums"
+  },
+  {
+    "key": "f1e853c0b50b2c5ce4d6174375fbcaec",
+    "original": "A small instruction manual for working the Rivtech Atomic Autoclave.  You could use this to figure out how to irradiate vegetables.",
+    "translation": "Rivtech原子高压灭菌器的说明小册子。你可以用这个来研究如何辐照蔬菜。",
+    "stage": 3,
+    "context": "ID: recipe_food_irradiator\n位于 /Kenan-Structured-Modpack/Food_Irradiator/items.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→BOOK→recipe_food_irradiator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_food_irradiator"
+  },
+  {
+    "key": "72eba8a28ee6af8a979a5cbbdebd90ac",
+    "original": "Adds an immobile machine, the 'food irradiator', as a rare spawn in labs along with the recipe for a portable version.",
+    "translation": "添加了一个固定的机器，“食物辐照器”，会作为一个稀有物出现在实验室里，还有一个记载了便携式版本的食谱。",
+    "stage": 3,
+    "context": "ID: food_irradiator\n位于 /Kenan-Structured-Modpack/Food_Irradiator/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→MOD_INFO→food_irradiator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=food_irradiator"
+  },
+  {
+    "key": "6848f5f4880c357b749dc1af47457ae4",
+    "original": "An irradiated apricot will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的杏子。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_apricot\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_apricot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_apricot"
+  },
+  {
+    "key": "27d3d927e8df0f258e450737d906fdab",
+    "original": "An irradiated banana will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的香蕉。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_banana\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_banana\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_banana"
+  },
+  {
+    "key": "6fd544d8884f7806935d42afee21da50",
+    "original": "An irradiated blackberry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的黑莓。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_blackberries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_blackberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_blackberries"
+  },
+  {
+    "key": "b4b9c9ef5df988ee2fb4d21192aa096b",
+    "original": "An irradiated blueberry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的蓝莓。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_blueberries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_blueberries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_blueberries"
+  },
+  {
+    "key": "165f08916870079172707c9c56323392",
+    "original": "An irradiated bundle of carrots will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的胡萝卜。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_carrot\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_veggy.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_carrot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_carrot"
+  },
+  {
+    "key": "bafeb664781fc6dae6b9f94ca5e861cf",
+    "original": "An irradiated celery will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的芹菜。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_celery\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_veggy.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_celery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_celery"
+  },
+  {
+    "key": "e767848ce6c0420891ebf26cb9ebee36",
+    "original": "An irradiated cherry will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的樱桃。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_cherries\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_fruit.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_cherries\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_cherries"
+  },
+  {
+    "key": "46ab361691a588eb06e72e01038c4010",
+    "original": "An irradiated cluster of broccoli will remain edible up to three months.  Sterilized using radiation, so it's safe to eat.",
+    "translation": "经过辐照消毒的樱桃。已经没有放射性了，所以它可以保存三个月，同时也很安全卫生。",
+    "stage": 3,
+    "context": "ID: irradiated_broccoli\n位于 /Kenan-Structured-Modpack/Food_Irradiator/irradiated_veggy.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Food_Irradiator→COMESTIBLE→irradiated_broccoli\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_broccoli"
+  },
+  {
+    "key": "cd3de��浏览器：\nhttp://cdda.aloxaf.cn/search?q=irradiated_mulberries"
   },
   {
     "key": "3cb1cb1e752ae1589527b18732795a86",

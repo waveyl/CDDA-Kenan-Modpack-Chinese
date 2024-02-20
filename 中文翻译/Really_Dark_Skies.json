@@ -1,122 +1,4 @@
-[
-  {
-    "key": "b12fdbe92e0c801eb59364e8dbf99304",
-    "original": "%1$s gesticulates at %3$s and a pulse of disorienting psionic energy ripples through the air!",
-    "translation": "%1$s在%3$s点做手势，一股令人迷失的灵能脉冲在空中荡漾！",
-    "stage": 3,
-    "context": "ID: dkz_monspell_stun\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→SPELL→dkz_monspell_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_monspell_stun"
-  },
-  {
-    "key": "a454dac39e73d450d80d1d59fbbcd397",
-    "original": "%1$s gesticulates at %3$s and a pulse of mind-bending psionic energy ripples through the air!",
-    "translation": "%1$s在%3$s处做手势，一股扭曲心灵的灵能脉冲在空中荡漾！",
-    "stage": 5,
-    "context": "ID: dkz_monspell_halluc\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→SPELL→dkz_monspell_halluc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_monspell_halluc"
-  },
-  {
-    "key": "e892552fd8f50792364dc415e4559a97",
-    "original": "<color_light_green>Real Dark Skies Above</color>",
-    "translation": "<color_light_green>真·暗黑天际</color>",
-    "stage": 5,
-    "context": "ID: realdarkskies\n位于 Real_Dark_Skies_Above.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MOD_INFO→realdarkskies"
-  },
-  {
-    "key": "ff24746352ea36593302335d1895c856",
-    "original": "<color_light_green>The emissary emits a stream of sedative gas!</color>",
-    "translation": "<color_light_green>使者释放出一股镇静气体！</color>",
-    "stage": 3,
-    "context": "ID: mon_dkz_emissary\n位于 Real_Dark_Skies_Above.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary"
-  },
-  {
-    "key": "e56e76a3468cb3e45b5b8a6453bf708e",
-    "original": "<color_light_red>A blinding lazer causes widespread devastation.</color>",
-    "translation": "<color_light_red>致盲激光造成了大面积破坏。</color>",
-    "stage": 3,
-    "context": "ID: mon_dkz_emissary_war\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary_war\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_war"
-  },
-  {
-    "key": "cee60581632ba2716d3897eabf44274d",
-    "original": "<color_light_red>The incinerator almost imperceptibly flicks its sword, and a stream of inferno erupts forth!!</color>",
-    "translation": "<color_light_red>焚化者不知不觉地挥舞着它的剑，一股烈火喷涌而出！</color>",
-    "stage": 3,
-    "context": "ID: dkz_xenoid_pyro\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_pyro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_pyro"
-  },
-  {
-    "key": "1a2325f613c962a7be5a2fcf011c7534",
-    "original": "<color_pink>%1$s gesticulates at %3$s and a pulse of disorienting psionic energy ripples through the air!</color>",
-    "translation": "<color_pink>%1$s在%3$s点做手势，一股令人迷失的灵能脉冲在空中荡漾！</color>",
-    "stage": 3,
-    "context": "ID: dkz_xenoid_knight\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_knight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_knight"
-  },
-  {
-    "key": "2b13f2f120f257382dd39f11eea17fce",
-    "original": "<color_pink>The %1$s gesticulates at %3$s and a pulse of fear-inducing psionic energy ripples through the air!</color>",
-    "translation": "<color_pink> %1$s在%3$s处做手势，一股诱发恐惧的灵能脉冲在空中荡漾！</color>",
-    "stage": 3,
-    "context": "ID: dkz_xenoid_templar\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_templar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_templar"
-  },
-  {
-    "key": "b66ddd6e0d56d70b077e387577a55e2f",
-    "original": "<color_white>%1$s blinds %3$s with its integrated camera!</color>",
-    "translation": "<color_white>%1$s用内置摄像头的闪光让%3$s失明！</color>",
-    "stage": 3,
-    "context": "ID: mon_dkz_scidrone\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_scidrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_scidrone"
-  },
-  {
-    "key": "bee64477bfb1b42019f3807b7bb93404",
-    "original": "<color_white>The Coolest Watch You've NEVER SEEN</color>™\\n\\nThis is undoubtedly the coolest looking watch you've ever seen before.  Its like something from a sci-fi TV show or a video game.  Its bands are a rich crimson-red leather on the outside and soft sheepskin on the inside, with a sturdy gold clasp on the end of one band and seven beautifully punctured holes at precise intervals on the other band.  Its body is a uniform  black disk with a nearly invisible compartment in the back for batteries.  Its glass faceplate functions as a button which calls forth the most user-friendly interface you've ever used describing all of its numerous functions all conveyed by an silly animated Magic-8 Ball that's saying <color_light_green>'No internet signal found.  Note: Lambda Protocol is active.  Go Team Zenture!'</color>",
-    "translation": "<color_white>你从未见过的最酷手表</color>™\\n\\n这无疑是你见过的最酷的手表。就像是科幻电视剧或电子游戏里的东西。它的绑带由深红色皮革包裹柔软的羊皮制成，其中一个绑带末端有一个结实的金扣，另一个则精准而均匀地分部者七个漂亮的穿孔。它的主体是一个制式的黑色磁盘，背部一个几乎看不到的隔间内藏着电池。它的玻璃面板具有触屏功能，发出了你曾经使用过的最友好的界面，描述它的所有功能，所有这些功能都是由一个看起来很愚蠢的魔力8号球通过动画传达的，上面写着<color_light_green>“没有找到互联网信号”。注意：Lambda协议处于活跃状态。请联系Zenture团队！</color>",
-    "stage": 3,
-    "context": "ID: dkz_zenture_industries_premium_zwatch\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/miscellaneous.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→TOOL_ARMOR→dkz_zenture_industries_premium_zwatch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_premium_zwatch"
-  },
-  {
-    "key": "6c68519a5e21443a5260df9693842f8e",
-    "original": "<color_white>The Coolest Watch You've NEVER SEEN</color>™\\n\\nThis is undoubtedly the coolest looking watch you've ever seen before.  Its like something from a sci-fi TV show or a video game.  Its bands are a rich crimson-red leather on the outside and soft sheepskin on the inside, with a sturdy platinum clasp on the end of one band and two beautifully punctured holes at precise intervals on the other band.  Its body is a uniform black disk with a nearly invisible compartment in the back for batteries.  Its glass faceplate functions as a button which calls forth the most user-friendly interface you've ever used describing all of its numerous functions all conveyed by an serious-looking animated Magic-8 Ball that is saying <color_light_green>'Greetings Mr. Zenture.  Lambda Protocol is active.  Omega Protocol on standby.  Primary and Secondary Facilities currently secure, containment still in place.  Uplink currently disconnected, attempting reconnection.'</color>",
-    "translation": "<color_white>你从未见过的最酷手表</color>™\\n\\n这无疑是你见过的最酷的手表。就像是科幻电视剧或电子游戏里的东西。它的绑带由深红色皮革包裹柔软的羊皮制成，其中一个绑带末端有一个结实的金扣，另一个则精准而均匀地分部者七个漂亮的穿孔。它的主体是一个制式的黑色磁盘，背部一个几乎看不到的隔间内藏着电池。它的玻璃面板具有触屏功能，发出了你曾经使用过的最友好的界面，描述它的所有功能，所有这些功能都是由一个看起来很愚蠢的魔力8号球通过动画传达的，上面写着<color_light_green>尊敬的Zenture先生。Lambda协议处于活跃状态。备用欧米茄协议。一级和二级设施目前安全，安全壳仍在。上行链路当前已断开，正在尝试重新连接。'</color>",
-    "stage": 3,
-    "context": "ID: dkz_zenture_industries_executive_zwatch\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/miscellaneous.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→TOOL_ARMOR→dkz_zenture_industries_executive_zwatch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_executive_zwatch"
-  },
-  {
-    "key": "3b141e9b95169500b82ed77b8c753d21",
-    "original": "<color_white>The Coolest Watch You've NEVER SEEN</color>™\\n\\nThis is undoubtedly the coolest looking watch you've ever seen before.  Its like something from a sci-fi TV show or a video game.  Its bands are a rich dark leather on the outside and soft sheepskin on the inside, with a sturdy gold clasp on the end of one band and seven beautifully punctured holes at precise intervals on the other band.  Its body is a uniform  black disk with a nearly invisible compartment in the back for batteries.  Its glass faceplate functions as a button which calls forth the most user-friendly interface you've ever used describing all of its numerous functions all conveyed by an silly animated Magic-8 Ball that's saying <color_light_green>'Sorry, No internet signal found.  Go Team Zenture!'</color>",
-    "translation": "<color_white>你从未见过的最酷手表</color>™\\n\\n这无疑是你见过的最酷的手表。就像是科幻电视剧或电子游戏里的东西。它的绑带由深红色皮革包裹柔软的羊皮制成，其中一个绑带末端有一个结实的金扣，另一个则精准而均匀地分部者七个漂亮的穿孔。它的主体是一个制式的黑色磁盘，背部一个几乎看不到的隔间内藏着电池。它的玻璃面板具有触屏功能，发出了你曾经使用过的最友好的界面，描述它的所有功能，所有这些功能都是由一个看起来很愚蠢的魔力8号球通过动画传达的，上面写着<color_light_green>“对不起，找不到网络信号。请联系Zenture团队！</color>",
-    "stage": 3,
-    "context": "ID: dkz_zenture_industries_basic_zwatch\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/miscellaneous.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→TOOL_ARMOR→dkz_zenture_industries_basic_zwatch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_basic_zwatch"
-  },
-  {
-    "key": "050502f23041664e027a022d100baf95",
-    "original": "A breathtaking, seven meter tall, metallic creature stands atop three long legs, with many more segmented tentacles emanating from its central chassis and a glowing halo about its head.  This one is far more terrifying though, its claim to fame being some sort of high-intensity energy cannon, capable of rending whatever it touches asunder in an explosive burst of plasma and flame.  Its unique chirping and booming footsteps often heralded trouble to come during the Arrival, and now is no different.",
-    "translation": "就像所有的使徒机器人一样，这只令人惊叹的金属怪物靠三条长长的腿支撑着身体，而还有更多分段的触角从中央底盘上伸出，头顶还有一个发光的光环。然而，这个型号比同类要可怕得多，它的成名之举是底盘上安装的某种高能激光炮，能够在等离子爆炸和火焰中撕碎任何接触到的东西。它独特的蜂鸣声和隆隆的脚步声在降临之日时预示着大麻烦的到来，即便时至今日也依旧如此。",
-    "stage": 3,
-    "context": "ID: mon_dkz_emissary_flame\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary_flame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_flame"
-  },
-  {
-    "key": "12a3bc3e13f1c47496105d5f95e8a786",
-    "original": "A broken drone.  Much less threatening now that it isn't prodding you.  Specialized alien tools would be best for disassembly, but you could make do with more human instruments instead.",
-    "translation": "一个损坏的无人机。它不再使用它的工具对你进行探查，无法再构成威胁。可以拆解得到部件。特制的外星工具最适合用来拆解它，但用手头人类工具也勉强能行。",
-    "stage": 3,
-    "context": "ID: broken_dkz_scidrone\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/electronics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→GENERIC→broken_dkz_scidrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_dkz_scidrone"
-  },
-  {
-    "key": "5d88f83066a57a2c31ec2df2719973de",
-    "original": "A broken drone.  Much less threatening now that it isn't shining its light everywhere.  Could be gutted for parts.  Specialized alien tools would be best for disassembly, but you could make do with more human instruments instead.",
-    "translation": "一个损坏的无人机。它不再四处照射它的探照灯，无法再构成威胁。可以拆解得到部件。特制的外星工具最适合用来拆解它，但用手头人类工具也勉强能行。",
-    "stage": 5,
-    "context": "ID: broken_dkz_glowdrone\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/electronics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→GENERIC→broken_dkz_glowdrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_dkz_glowdrone"
-  },
-  {
-    "key": "326c121bea305ce4facac53b40e2e94b",
-    "original": "A collection of dazzling alien electronics, far beyond anything of terrestrial manufacture.",
-    "translation": "一系列令人眼花缭乱的外星电子元件，远远超出了地球所能制造的范畴。",
-    "stage": 3,
-    "context": "ID: dkz_elecscrap\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/alien-scrap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→GENERIC→dkz_elecscrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_elecscrap"
-  },
-  {
-    "key": "0b07840b23df8b5613c4152dedcf26a2",
-    "original": "A colossal eight meter tall, chrome-metallic creature standing atop three long legs connected to a central chassis.  It would be stunningly beautiful with its glowing golden inlays and celestial design, were it not for the evil-looking ray-gun on its tentacle-mounted turrets which survey the landscape with surgical focus.  It drums ominously as it moves and booming foot falls are often the last sound heard before it strikes.",
-    "translation": "一台高耸入云、有几层楼高的金属怪物，通过连接在中央底盘的三条带有分段的长腿支撑。如果不是它触手上安装着看起来很邪恶的激光枪，用外科手术的焦点观察风景的话，它身上那些闪闪发光的金色符文和精妙流体设计会使它看上去美丽惊人。它移动发出隆隆的脚步在你耳边萦绕回荡，那往往是在它发起撞击前能听到的最后声音。",
-    "stage": 1,
-    "context": "ID: mon_dkz_emissary_war\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary_war\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_war"
+kz_emissary_war\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary_war\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_war"
   },
   {
     "key": "b2b0f9fc01101c288ab8cce2ff90b5c0",
@@ -242,7 +124,125 @@
     "original": "A human-sized soldier dressed in light armor which they use in conjunction with a small grey shield and shock baton.  The shield has strange black hieroglyphs on it whose outline glows and pulsates in sync with the luminescence from the shock baton.  Its malicious gaze fills you with terror.",
     "translation": "",
     "stage": -1,
-    "context": "ID: dkz_xenoid_oppressor\n位于 /Kenan-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_oppressor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_oppressor"
+    "context": "ID: dkz_xen[
+  {
+    "key": "b12fdbe92e0c801eb59364e8dbf99304",
+    "original": "%1$s gesticulates at %3$s and a pulse of disorienting psionic energy ripples through the air!",
+    "translation": "%1$s在%3$s点做手势，一股令人迷失的灵能脉冲在空中荡漾！",
+    "stage": 3,
+    "context": "ID: dkz_monspell_stun\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→SPELL→dkz_monspell_stun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_monspell_stun"
+  },
+  {
+    "key": "a454dac39e73d450d80d1d59fbbcd397",
+    "original": "%1$s gesticulates at %3$s and a pulse of mind-bending psionic energy ripples through the air!",
+    "translation": "%1$s在%3$s处做手势，一股扭曲心灵的灵能脉冲在空中荡漾！",
+    "stage": 5,
+    "context": "ID: dkz_monspell_halluc\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→SPELL→dkz_monspell_halluc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_monspell_halluc"
+  },
+  {
+    "key": "e892552fd8f50792364dc415e4559a97",
+    "original": "<color_light_green>Real Dark Skies Above</color>",
+    "translation": "<color_light_green>真·暗黑天际</color>",
+    "stage": 5,
+    "context": "ID: realdarkskies\n位于 Real_Dark_Skies_Above.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MOD_INFO→realdarkskies"
+  },
+  {
+    "key": "ff24746352ea36593302335d1895c856",
+    "original": "<color_light_green>The emissary emits a stream of sedative gas!</color>",
+    "translation": "<color_light_green>使者释放出一股镇静气体！</color>",
+    "stage": 3,
+    "context": "ID: mon_dkz_emissary\n位于 Real_Dark_Skies_Above.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary"
+  },
+  {
+    "key": "e56e76a3468cb3e45b5b8a6453bf708e",
+    "original": "<color_light_red>A blinding lazer causes widespread devastation.</color>",
+    "translation": "<color_light_red>致盲激光造成了大面积破坏。</color>",
+    "stage": 3,
+    "context": "ID: mon_dkz_emissary_war\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary_war\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_war"
+  },
+  {
+    "key": "cee60581632ba2716d3897eabf44274d",
+    "original": "<color_light_red>The incinerator almost imperceptibly flicks its sword, and a stream of inferno erupts forth!!</color>",
+    "translation": "<color_light_red>焚化者不知不觉地挥舞着它的剑，一股烈火喷涌而出！</color>",
+    "stage": 3,
+    "context": "ID: dkz_xenoid_pyro\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_pyro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_pyro"
+  },
+  {
+    "key": "1a2325f613c962a7be5a2fcf011c7534",
+    "original": "<color_pink>%1$s gesticulates at %3$s and a pulse of disorienting psionic energy ripples through the air!</color>",
+    "translation": "<color_pink>%1$s在%3$s点做手势，一股令人迷失的灵能脉冲在空中荡漾！</color>",
+    "stage": 3,
+    "context": "ID: dkz_xenoid_knight\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_knight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_knight"
+  },
+  {
+    "key": "2b13f2f120f257382dd39f11eea17fce",
+    "original": "<color_pink>The %1$s gesticulates at %3$s and a pulse of fear-inducing psionic energy ripples through the air!</color>",
+    "translation": "<color_pink> %1$s在%3$s处做手势，一股诱发恐惧的灵能脉冲在空中荡漾！</color>",
+    "stage": 3,
+    "context": "ID: dkz_xenoid_templar\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_templar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_templar"
+  },
+  {
+    "key": "b66ddd6e0d56d70b077e387577a55e2f",
+    "original": "<color_white>%1$s blinds %3$s with its integrated camera!</color>",
+    "translation": "<color_white>%1$s用内置摄像头的闪光让%3$s失明！</color>",
+    "stage": 3,
+    "context": "ID: mon_dkz_scidrone\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_scidrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_scidrone"
+  },
+  {
+    "key": "bee64477bfb1b42019f3807b7bb93404",
+    "original": "<color_white>The Coolest Watch You've NEVER SEEN</color>™\\n\\nThis is undoubtedly the coolest looking watch you've ever seen before.  Its like something from a sci-fi TV show or a video game.  Its bands are a rich crimson-red leather on the outside and soft sheepskin on the inside, with a sturdy gold clasp on the end of one band and seven beautifully punctured holes at precise intervals on the other band.  Its body is a uniform  black disk with a nearly invisible compartment in the back for batteries.  Its glass faceplate functions as a button which calls forth the most user-friendly interface you've ever used describing all of its numerous functions all conveyed by an silly animated Magic-8 Ball that's saying <color_light_green>'No internet signal found.  Note: Lambda Protocol is active.  Go Team Zenture!'</color>",
+    "translation": "<color_white>你从未见过的最酷手表</color>™\\n\\n这无疑是你见过的最酷的手表。就像是科幻电视剧或电子游戏里的东西。它的绑带由深红色皮革包裹柔软的羊皮制成，其中一个绑带末端有一个结实的金扣，另一个则精准而均匀地分部者七个漂亮的穿孔。它的主体是一个制式的黑色磁盘，背部一个几乎看不到的隔间内藏着电池。它的玻璃面板具有触屏功能，发出了你曾经使用过的最友好的界面，描述它的所有功能，所有这些功能都是由一个看起来很愚蠢的魔力8号球通过动画传达的，上面写着<color_light_green>“没有找到互联网信号”。注意：Lambda协议处于活跃状态。请联系Zenture团队！</color>",
+    "stage": 3,
+    "context": "ID: dkz_zenture_industries_premium_zwatch\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/miscellaneous.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→TOOL_ARMOR→dkz_zenture_industries_premium_zwatch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_premium_zwatch"
+  },
+  {
+    "key": "6c68519a5e21443a5260df9693842f8e",
+    "original": "<color_white>The Coolest Watch You've NEVER SEEN</color>™\\n\\nThis is undoubtedly the coolest looking watch you've ever seen before.  Its like something from a sci-fi TV show or a video game.  Its bands are a rich crimson-red leather on the outside and soft sheepskin on the inside, with a sturdy platinum clasp on the end of one band and two beautifully punctured holes at precise intervals on the other band.  Its body is a uniform black disk with a nearly invisible compartment in the back for batteries.  Its glass faceplate functions as a button which calls forth the most user-friendly interface you've ever used describing all of its numerous functions all conveyed by an serious-looking animated Magic-8 Ball that is saying <color_light_green>'Greetings Mr. Zenture.  Lambda Protocol is active.  Omega Protocol on standby.  Primary and Secondary Facilities currently secure, containment still in place.  Uplink currently disconnected, attempting reconnection.'</color>",
+    "translation": "<color_white>你从未见过的最酷手表</color>™\\n\\n这无疑是你见过的最酷的手表。就像是科幻电视剧或电子游戏里的东西。它的绑带由深红色皮革包裹柔软的羊皮制成，其中一个绑带末端有一个结实的金扣，另一个则精准而均匀地分部者七个漂亮的穿孔。它的主体是一个制式的黑色磁盘，背部一个几乎看不到的隔间内藏着电池。它的玻璃面板具有触屏功能，发出了你曾经使用过的最友好的界面，描述它的所有功能，所有这些功能都是由一个看起来很愚蠢的魔力8号球通过动画传达的，上面写着<color_light_green>尊敬的Zenture先生。Lambda协议处于活跃状态。备用欧米茄协议。一级和二级设施目前安全，安全壳仍在。上行链路当前已断开，正在尝试重新连接。'</color>",
+    "stage": 3,
+    "context": "ID: dkz_zenture_industries_executive_zwatch\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/miscellaneous.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→TOOL_ARMOR→dkz_zenture_industries_executive_zwatch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_executive_zwatch"
+  },
+  {
+    "key": "3b141e9b95169500b82ed77b8c753d21",
+    "original": "<color_white>The Coolest Watch You've NEVER SEEN</color>™\\n\\nThis is undoubtedly the coolest looking watch you've ever seen before.  Its like something from a sci-fi TV show or a video game.  Its bands are a rich dark leather on the outside and soft sheepskin on the inside, with a sturdy gold clasp on the end of one band and seven beautifully punctured holes at precise intervals on the other band.  Its body is a uniform  black disk with a nearly invisible compartment in the back for batteries.  Its glass faceplate functions as a button which calls forth the most user-friendly interface you've ever used describing all of its numerous functions all conveyed by an silly animated Magic-8 Ball that's saying <color_light_green>'Sorry, No internet signal found.  Go Team Zenture!'</color>",
+    "translation": "<color_white>你从未见过的最酷手表</color>™\\n\\n这无疑是你见过的最酷的手表。就像是科幻电视剧或电子游戏里的东西。它的绑带由深红色皮革包裹柔软的羊皮制成，其中一个绑带末端有一个结实的金扣，另一个则精准而均匀地分部者七个漂亮的穿孔。它的主体是一个制式的黑色磁盘，背部一个几乎看不到的隔间内藏着电池。它的玻璃面板具有触屏功能，发出了你曾经使用过的最友好的界面，描述它的所有功能，所有这些功能都是由一个看起来很愚蠢的魔力8号球通过动画传达的，上面写着<color_light_green>“对不起，找不到网络信号。请联系Zenture团队！</color>",
+    "stage": 3,
+    "context": "ID: dkz_zenture_industries_basic_zwatch\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/miscellaneous.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→TOOL_ARMOR→dkz_zenture_industries_basic_zwatch\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_basic_zwatch"
+  },
+  {
+    "key": "050502f23041664e027a022d100baf95",
+    "original": "A breathtaking, seven meter tall, metallic creature stands atop three long legs, with many more segmented tentacles emanating from its central chassis and a glowing halo about its head.  This one is far more terrifying though, its claim to fame being some sort of high-intensity energy cannon, capable of rending whatever it touches asunder in an explosive burst of plasma and flame.  Its unique chirping and booming footsteps often heralded trouble to come during the Arrival, and now is no different.",
+    "translation": "就像所有的使徒机器人一样，这只令人惊叹的金属怪物靠三条长长的腿支撑着身体，而还有更多分段的触角从中央底盘上伸出，头顶还有一个发光的光环。然而，这个型号比同类要可怕得多，它的成名之举是底盘上安装的某种高能激光炮，能够在等离子爆炸和火焰中撕碎任何接触到的东西。它独特的蜂鸣声和隆隆的脚步声在降临之日时预示着大麻烦的到来，即便时至今日也依旧如此。",
+    "stage": 3,
+    "context": "ID: mon_dkz_emissary_flame\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→mon_dkz_emissary_flame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_dkz_emissary_flame"
+  },
+  {
+    "key": "12a3bc3e13f1c47496105d5f95e8a786",
+    "original": "A broken drone.  Much less threatening now that it isn't prodding you.  Specialized alien tools would be best for disassembly, but you could make do with more human instruments instead.",
+    "translation": "一个损坏的无人机。它不再使用它的工具对你进行探查，无法再构成威胁。可以拆解得到部件。特制的外星工具最适合用来拆解它，但用手头人类工具也勉强能行。",
+    "stage": 3,
+    "context": "ID: broken_dkz_scidrone\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/electronics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→GENERIC→broken_dkz_scidrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_dkz_scidrone"
+  },
+  {
+    "key": "5d88f83066a57a2c31ec2df2719973de",
+    "original": "A broken drone.  Much less threatening now that it isn't shining its light everywhere.  Could be gutted for parts.  Specialized alien tools would be best for disassembly, but you could make do with more human instruments instead.",
+    "translation": "一个损坏的无人机。它不再四处照射它的探照灯，无法再构成威胁。可以拆解得到部件。特制的外星工具最适合用来拆解它，但用手头人类工具也勉强能行。",
+    "stage": 5,
+    "context": "ID: broken_dkz_glowdrone\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/electronics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→GENERIC→broken_dkz_glowdrone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_dkz_glowdrone"
+  },
+  {
+    "key": "326c121bea305ce4facac53b40e2e94b",
+    "original": "A collection of dazzling alien electronics, far beyond anything of terrestrial manufacture.",
+    "translation": "一系列令人眼花缭乱的外星电子元件，远远超出了地球所能制造的范畴。",
+    "stage": 3,
+    "context": "ID: dkz_elecscrap\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/alien-scrap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→GENERIC→dkz_elecscrap\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_elecscrap"
+  },
+  {
+    "key": "0b07840b23df8b5613c4152dedcf26a2",
+    "original": "A colossal eight meter tall, chrome-metallic creature standing atop three long legs connected to a central chassis.  It would be stunningly beautiful with its glowing golden inlays and celestial design, were it not for the evil-looking ray-gun on its tentacle-mounted turrets which survey the landscape with surgical focus.  It drums ominously as it moves and booming foot falls are often the last sound heard before it strikes.",
+    "translation": "一台高耸入云、有几层楼高的金属怪物，通过连接在中央底盘的三条带有分段的长腿支撑。如果不是它触手上安装着看起来很邪恶的激光枪，用外科手术的焦点观察风景的话，它身上那些闪闪发光的金色符文和精妙流体设计会使它看上去美丽惊人。它移动发出隆隆的脚步在你耳边萦绕回荡，那往往是在它发起撞击前能听到的最后声音。",
+    "stage": 1,
+    "context": "ID: mon_doid_oppressor\n位于 /Kenan-Modpack/Real_Dark_Skies_Above/monsters/xenoid.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→MONSTER→dkz_xenoid_oppressor\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_xenoid_oppressor"
   },
   {
     "key": "4fb5eaecda0a727bb7d3cf2a99ed43fe",
