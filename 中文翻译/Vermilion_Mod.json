@@ -1,4 +1,80 @@
-"
+[
+  {
+    "key": "065e2541682537275300b809c14f0d50",
+    "original": "%s enters a steadied stance.",
+    "translation": "%s站定身子。",
+    "stage": 3,
+    "context": "ID: style_augsword\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→martial_art→style_augsword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_augsword"
+  },
+  {
+    "key": "4a23cad27b1e74a46caa5559463e5c65",
+    "original": "'Reaper, reaper, that's what people call me. Why? 'Cause they all die. When I sing I end their lives...'",
+    "translation": "“收割者，收割者，人们都这么叫我。为什么？” “因为他们都死了。当我唱歌的时候，我结束了他们的生命…”",
+    "stage": 3,
+    "context": "ID: absolute_reaper\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_weapons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GENERIC→absolute_reaper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=absolute_reaper"
+  },
+  {
+    "key": "ac983e4e3bb78ac1d2f58598b4ac1f5f",
+    "original": "'Requiem aeternam. Bullet right through the sternum. Lullaby to hell, babe...'",
+    "translation": "“安魂曲。子弹正好穿过胸骨。摇篮曲摇到地狱去，宝贝…”",
+    "stage": 3,
+    "context": "ID: absolute_sniper\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUN→absolute_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=absolute_sniper"
+  },
+  {
+    "key": "06a9d190c0ae8ea0c0031b2e950941ba",
+    "original": "14.5x114mm",
+    "translation": "14.5x114mm 反坦克弹",
+    "stage": 3,
+    "context": "ID: 145x114mm\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→AMMO→145x114mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=145x114mm"
+  },
+  {
+    "key": "7aa704b58c52e873e0c7e0d7a2f81f2e",
+    "original": "14.5x114mm casing",
+    "translation": "14.5x114mm 弹壳",
+    "stage": 3,
+    "context": "ID: 145x114mm_casing\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GENERIC→145x114mm_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=145x114mm_casing"
+  },
+  {
+    "key": "c361646640245cb73e5fc6afe2d437e4",
+    "original": "<npcname> lets go and rips %s",
+    "translation": "<npcname>放手，撕开%s",
+    "stage": 1,
+    "context": "ID: augsword_ripper\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→technique→augsword_ripper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=augsword_ripper"
+  },
+  {
+    "key": "ad5c81ed6951923fefbd22fc3a58784a",
+    "original": "<npcname> quickly sweeps the legs under %s",
+    "translation": "<npcname>迅速地扫击了%s的腿",
+    "stage": 3,
+    "context": "ID: augsword_legsweep\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→technique→augsword_legsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=augsword_legsweep"
+  },
+  {
+    "key": "270dc9111d86c559a5ba18f3f374de3b",
+    "original": "<npcname> slashes %s from the shadows",
+    "translation": "<npcname>从阴影处砍向%s",
+    "stage": 3,
+    "context": "ID: augsword_shadow\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→technique→augsword_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=augsword_shadow"
+  },
+  {
+    "key": "9979b7a69e54e27990d20c9900ea5c3d",
+    "original": "A 'Meal Ready to Eat' that was once fresh and just what any soldier needed. It comes with various food things and accessories. Nowadays, it's not looking as hot, but the contents should still be nice! Disassemble to unpack.",
+    "translation": "一份 MRE 军用口粮包，但已经过期。包括各种食品和配件。现在它没法加热到足够的温度，但里面的食物应该还是不错的！拆解它以获得其内容物。",
+    "stage": 3,
+    "context": "ID: mre_vintage\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GENERIC→mre_vintage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mre_vintage"
+  },
+  {
+    "key": "83b2117b775142fdb3ab4170e034a1a0",
+    "original": "A container in the size of a can filled with incendiary powder and plutonium slurry that can be inserted into the S-01 Rail Accelerator mk2. Doing so will superheat the projectiles, causing the air they travel through to catch on fire while greatly improving their penetrative power.",
+    "translation": "一个罐子大小的容器，里面装满了可燃粉末和钚浆，可装填至 S-01 轨道加速器 mk2。如此一来能够将弹丸过热，至于能够点燃沿途但空气，同时大幅提高穿透力。",
+    "stage": 3,
+    "context": "ID: incendiary_battery\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_gunmods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUNMOD→incendiary_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=incendiary_battery"
+  },
+  {
+    "key": "4929db4c9f31794b4c605a2dd597bcf5",
+    "original": "A container in the size of a can filled with magnesium powder, concentrated acid and plutonium slurry that can be inserted into the S-01 Rail Accelerator mk2. Doing so will charge the projectiles with electricity that will shock its targets.",
+    "translation": "一个罐子大小的容器，里面装满了镁粉、浓酸和钚浆，可装填至 S-01 轨道加速器 mk2。如此一来能够让弹丸带电，电击被命中的目标。",
+    "stage": 3,
+    "context": "ID: shock_battery\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_gunmods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUNMOD→shock_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shock_battery"
   },
   {
     "key": "bc5c286d849b384043c5e9886f2464ec",
@@ -75,83 +151,7 @@
     "original": "A home-made cluster of ten plutonium sticks held together with bolted metal rings that can be used to lessen the incredible power draw of the S-01 Rail Accelerator mk2. Because of its makeshift nature, it is leaking radiation until safely installed into the railgun's casing.",
     "translation": "一个自制的由十根钚棒组成的集束体，用霰弹连接的金属环固定在一起，可以用来降低S-01轨道加速器mk2难以置信的功率消耗。由于它的临时性质，在安全安装到轨道炮外壳之前，它一直在泄漏辐射。",
     "stage": 1,
-    "context": "ID: accelerator_battery\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_gunmods.json\n类型为 GUN[
-  {
-    "key": "065e2541682537275300b809c14f0d50",
-    "original": "%s enters a steadied stance.",
-    "translation": "%s站定身子。",
-    "stage": 3,
-    "context": "ID: style_augsword\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→martial_art→style_augsword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_augsword"
-  },
-  {
-    "key": "4a23cad27b1e74a46caa5559463e5c65",
-    "original": "'Reaper, reaper, that's what people call me. Why? 'Cause they all die. When I sing I end their lives...'",
-    "translation": "“收割者，收割者，人们都这么叫我。为什么？” “因为他们都死了。当我唱歌的时候，我结束了他们的生命…”",
-    "stage": 3,
-    "context": "ID: absolute_reaper\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_weapons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GENERIC→absolute_reaper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=absolute_reaper"
-  },
-  {
-    "key": "ac983e4e3bb78ac1d2f58598b4ac1f5f",
-    "original": "'Requiem aeternam. Bullet right through the sternum. Lullaby to hell, babe...'",
-    "translation": "“安魂曲。子弹正好穿过胸骨。摇篮曲摇到地狱去，宝贝…”",
-    "stage": 3,
-    "context": "ID: absolute_sniper\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUN→absolute_sniper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=absolute_sniper"
-  },
-  {
-    "key": "06a9d190c0ae8ea0c0031b2e950941ba",
-    "original": "14.5x114mm",
-    "translation": "14.5x114mm 反坦克弹",
-    "stage": 3,
-    "context": "ID: 145x114mm\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→AMMO→145x114mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=145x114mm"
-  },
-  {
-    "key": "7aa704b58c52e873e0c7e0d7a2f81f2e",
-    "original": "14.5x114mm casing",
-    "translation": "14.5x114mm 弹壳",
-    "stage": 3,
-    "context": "ID: 145x114mm_casing\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_ammo.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GENERIC→145x114mm_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=145x114mm_casing"
-  },
-  {
-    "key": "c361646640245cb73e5fc6afe2d437e4",
-    "original": "<npcname> lets go and rips %s",
-    "translation": "<npcname>放手，撕开%s",
-    "stage": 1,
-    "context": "ID: augsword_ripper\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→technique→augsword_ripper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=augsword_ripper"
-  },
-  {
-    "key": "ad5c81ed6951923fefbd22fc3a58784a",
-    "original": "<npcname> quickly sweeps the legs under %s",
-    "translation": "<npcname>迅速地扫击了%s的腿",
-    "stage": 3,
-    "context": "ID: augsword_legsweep\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→technique→augsword_legsweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=augsword_legsweep"
-  },
-  {
-    "key": "270dc9111d86c559a5ba18f3f374de3b",
-    "original": "<npcname> slashes %s from the shadows",
-    "translation": "<npcname>从阴影处砍向%s",
-    "stage": 3,
-    "context": "ID: augsword_shadow\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→technique→augsword_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=augsword_shadow"
-  },
-  {
-    "key": "9979b7a69e54e27990d20c9900ea5c3d",
-    "original": "A 'Meal Ready to Eat' that was once fresh and just what any soldier needed. It comes with various food things and accessories. Nowadays, it's not looking as hot, but the contents should still be nice! Disassemble to unpack.",
-    "translation": "一份 MRE 军用口粮包，但已经过期。包括各种食品和配件。现在它没法加热到足够的温度，但里面的食物应该还是不错的！拆解它以获得其内容物。",
-    "stage": 3,
-    "context": "ID: mre_vintage\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GENERIC→mre_vintage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mre_vintage"
-  },
-  {
-    "key": "83b2117b775142fdb3ab4170e034a1a0",
-    "original": "A container in the size of a can filled with incendiary powder and plutonium slurry that can be inserted into the S-01 Rail Accelerator mk2. Doing so will superheat the projectiles, causing the air they travel through to catch on fire while greatly improving their penetrative power.",
-    "translation": "一个罐子大小的容器，里面装满了可燃粉末和钚浆，可装填至 S-01 轨道加速器 mk2。如此一来能够将弹丸过热，至于能够点燃沿途但空气，同时大幅提高穿透力。",
-    "stage": 3,
-    "context": "ID: incendiary_battery\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_gunmods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUNMOD→incendiary_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=incendiary_battery"
-  },
-  {
-    "key": "4929db4c9f31794b4c605a2dd597bcf5",
-    "original": "A container in the size of a can filled with magnesium powder, concentrated acid and plutonium slurry that can be inserted into the S-01 Rail Accelerator mk2. Doing so will charge the projectiles with electricity that will shock its targets.",
-    "translation": "一个罐子大小的容器，里面装满了镁粉、浓酸和钚浆，可装填至 S-01 轨道加速器 mk2。如此一来能够让弹丸带电，电击被命中的目标。",
-    "stage": 3,
-    "context": "ID: shock_battery\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_gunmods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUNMOD→shock_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shock_batteryMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUNMOD→accelerator_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=accelerator_battery"
+    "context": "ID: accelerator_battery\n位于 /Kenan-Structured-Modpack/Vermilion_Mod/ver_gunmods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Vermilion_Mod→GUNMOD→accelerator_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=accelerator_battery"
   },
   {
     "key": "9d71a288f225ea5fc082167dcd0364ac",

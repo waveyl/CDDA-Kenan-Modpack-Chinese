@@ -1,174 +1,4 @@
-点是枪支行程短且火力充足（在国外被直接称为山西17式手枪“Shanxi Type17”），你应该在合金装备3里了解这把枪，如果你没有……那么就赶紧去玩吧！",
-    "stage": 3,
-    "context": "ID: t17\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→t17\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t17"
-  },
-  {
-    "key": "1e215fc3fd7b635e8053cf7963ab9476",
-    "original": "A 10 round .308 magazine for use in sniper rifles",
-    "translation": "为狙击枪设计的10发.308标准弹匣",
-    "stage": 3,
-    "context": "ID: .30810mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→.30810mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=.30810mag"
-  },
-  {
-    "key": "1929177b41005cb9de88f24d46a93846",
-    "original": "A 10 round 7.62x54R magazine for use in Russian sniper rifles",
-    "translation": "为苏式狙击枪设计的10发7.62x54mm标准弹匣，因为弹种的原因略微有点弯曲",
-    "stage": 3,
-    "context": "ID: 7.62x54Rmag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→7.62x54Rmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=7.62x54Rmag"
-  },
-  {
-    "key": "5aa488d42ac94516c7bc96fac3ed560d",
-    "original": "A 100 round drum magazine for use with the Tec 22 SMG",
-    "translation": "一个100发弹容的.22LR弹鼓，可用于Tec 22冲锋枪上。",
-    "stage": 3,
-    "context": "ID: tec22drummag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→tec22drummag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec22drummag"
-  },
-  {
-    "key": "f3165bc333029e1ce992c518c03c04d3",
-    "original": "A 20 round .308 magazine for use in sniper rifles",
-    "translation": "为狙击枪设计的20发.308扩容弹匣",
-    "stage": 3,
-    "context": "ID: .30820mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→.30820mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=.30820mag"
-  },
-  {
-    "key": "4e30059c6e8a19d72a5e6f3fad698aa7",
-    "original": "A 30 round box magazine for use with the Tec 22 SMG",
-    "translation": "一个30发弹容的冲.22LR标准弹匣，可用于Tec 22冲锋枪上。",
-    "stage": 3,
-    "context": "ID: tec_22magazine\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→tec_22magazine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_22magazine"
-  },
-  {
-    "key": "f3793fd25e6e9611290edaacc8e11584",
-    "original": "A 50-round magazine with a bulky green drum for use with AK-Blank compatible rifles.",
-    "translation": "一个50发弹容的标准弹鼓，和AK74的弹匣一样由钢铁强化的高分子聚合物制成，可用于AK式样的5.56步枪。",
-    "stage": 3,
-    "context": "ID: stanarg50\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→stanarg50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stanarg50"
-  },
-  {
-    "key": "35fbf3c78afc7b7618b42afafa445038",
-    "original": "A AK designed to fire 556 NATO. One of the many AK-blanks that are coming out. Good accuracy though.",
-    "translation": "一个设计用于发射5.56mm北约弹的AK式样突击步枪，是伊孜玛什兵工厂生产的许多新款AK式突击步枪中的一个，虽然毛子的确不怎么用5.56，但是不妨碍他们造出来卖给别人，精准度挺不错",
-    "stage": 3,
-    "context": "ID: ak101\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→ak101\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ak101"
-  },
-  {
-    "key": "97b758d5ebf84b1ea025da7881bb956a",
-    "original": "A Czechoslovakian semi-auto civilian pistol introduced in 1983 to replace the CZ 52. Very accurate and reliable thanks to its chrome plated barrel and well built frame.",
-    "translation": "于1983年设计的捷克斯洛伐克半自动民用手枪，目的是为了取代老式的cz52手枪。非常的准确和可靠，这得感谢他的镀铬枪管和良好的内部结构",
-    "stage": 3,
-    "context": "ID: cz_83\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→cz_83\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cz_83"
-  },
-  {
-    "key": "ce8703a2fe2b5f5fb82321342858c410",
-    "original": "A Czechoslovakian semi-auto military pistol introduced in 1975 and became one of the original 'wonder nines', fairly accurate and with a common ammo type. Makes this weapon a good addition to any gun nut's arsenal.",
-    "translation": "一种捷克斯洛伐克的半自动军用手枪，于1975年问世，并成为当初的“手枪奇迹”之一。即使是现在，他仍然被称为是社会主义阵营中最优秀的手枪。",
-    "stage": 3,
-    "context": "ID: cz_75\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→cz_75\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cz_75"
-  },
-  {
-    "key": "c45c4fa8b207639184c72737455aad9b",
-    "original": "A Finish made clone of the very popular PPSh-43, while it does have some of the same design, it still wasn't as good as the original.",
-    "translation": "一把芬兰仿造的PPS-43冲锋枪，和PPS冲锋枪的不同在于发射9mm帕拉贝鲁姆弹，虽然它确实保留了一些PPS冲锋枪的设计，但还是没有原版的好。",
-    "stage": 3,
-    "context": "ID: ppsh_clone\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→ppsh_clone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ppsh_clone"
-  },
-  {
-    "key": "2c1dcb601f19219f8d66e2c182dce29e",
-    "original": "A Israeli defence weapon marketed in the US and parts of the UK as the Baby Eagle. It's not a desert eagle by any means. But kinda looks like it.",
-    "translation": "一种以色列的国防武器，在美国和英国部分地区作为雏鹰手枪出售。它绝不是沙漠之鹰。但看起来确实有点像",
-    "stage": 3,
-    "context": "ID: jericho_941\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→jericho_941\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jericho_941"
-  },
-  {
-    "key": "330b7d69c3d4da4cc09eaf3e3354ecd2",
-    "original": "A Russian bullpup sniper rifle which is a conversion for the SVD Dragunov. The length of a pdw with the range and power of a SVD you can surely breach and clear any room now!",
-    "translation": "俄罗斯生产的犊牛式狙击步枪，用于替换那快服役了半个世纪的SVD-63狙击步枪，枪管相比SVD来说要短一些，但是因其犊牛式的设计而显得更加紧凑，这种紧凑的半自动狙击步枪很明显更适合近距离战斗，现在，不要呆在屋外面了，准备破门/窗而入去清理所有房间吧！",
-    "stage": 3,
-    "context": "ID: svu\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→svu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=svu"
-  },
-  {
-    "key": "198b459443e07c3a2c985b1bb34f2866",
-    "original": "A Russian grade military SMG with a unique large capacity magazine. Used by Russian special forces for CQB and tight environments. The Bizon is accurate, and has excellent armour piercing capabilities.",
-    "translation": "一个俄罗斯制造的军用冲锋枪，使用一个怪异的可拆卸柱型弹鼓供弹，一般用于俄罗斯特种部队进行近距离作战，野牛冲锋枪很精准，且独特的设计即使是在发射9x18mm弹时也有着不俗的穿甲能力。",
-    "stage": 3,
-    "context": "ID: bizon\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→bizon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bizon"
-  },
-  {
-    "key": "1be00c6dba2e4268ae37b5ca763e6328",
-    "original": "A Russian grenade launcher compatible with Warsaw pact weapons. But this one is a recreation of the BG-15 that fits Warsaw AND NATO weapons. And fires the 40mm used by the M203. The first of the Russian launchers.",
-    "translation": "兼容华约武器的俄罗斯榴弹发射器。但这一款是BG-15的重制版，同时兼容华沙和北约的武器。发射M203使用的40mm 榴弹。俄罗斯最优良的榴弹发射器。",
-    "stage": 3,
-    "context": "ID: bg-15\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUNMOD→bg-15\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bg-15"
-  },
-  {
-    "key": "1cd16cbe8b2d7bcf97749a68c6b36800",
-    "original": "A Russian grenade launcher compatible with Warsaw pact weapons. But this one is a recreation of the GP-25 that fits Warsaw AND NATO weapons. And fires the 40mm used by the M203.",
-    "translation": "兼容华约武器的俄罗斯榴弹发射器。但这一款是GP-15的重制版，同时兼容华沙和北约的武器。发射M203使用的40mm 榴弹。",
-    "stage": 3,
-    "context": "ID: gp-25\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUNMOD→gp-25\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp-25"
-  },
-  {
-    "key": "fd131116c26082e802415308ecf80b8f",
-    "original": "A Russian grenade launcher compatible with Warsaw pact weapons. But this one is a recreation of the GP-30 that fits Warsaw AND NATO weapons. And fires the 40mm used by the M203. A more accurate version of the GP-25",
-    "translation": "兼容华约武器的俄罗斯榴弹发射器。但这一款是GP-30的重制版，同时兼容华沙和北约的武器。发射M203使用的40mm 榴弹。GP-25的更精准版本",
-    "stage": 3,
-    "context": "ID: gp-30\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUNMOD→gp-30\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp-30"
-  },
-  {
-    "key": "cf08974c66ef5756518cec814a561814",
-    "original": "A Russian once said this was the best gun in the world. Nuff said",
-    "translation": "柯尔特单动陆军转轮手枪（colt single action army 也叫柯尔特SAA）是柯尔特防务公司于1872年推出的一款真正实用的转轮手枪，和后来的M1873不同，M1872仍然使用.44纸卷弹，弹药装填起来有些麻烦且不可靠，但是在正常的环境下射击还是有保证的。",
-    "stage": 3,
-    "context": "ID: colt_single_action_army\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→colt_single_action_army\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=colt_single_action_army"
-  },
-  {
-    "key": "35fab05389134e8599cb4257651e0695",
-    "original": "A Ukrainian designed and produced pistol firing the ever so popular 9x18mm round. Small for its use as a police pistol, the Fort 12 boasts great Ukrainian reliability and good accuracy for stalken your STALKER.",
-    "translation": "一个由乌克兰设计的手枪，使用流行的9x18mm马卡洛夫弹。作为一种警用手枪，12号堡很小，但他也有着强大的可靠性和准确度，你在跟踪那些“潜行者”时总会用到的。",
-    "stage": 3,
-    "context": "ID: fort12\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→fort12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fort12"
-  },
-  {
-    "key": "adb15f87e986484ecb16205396706346",
-    "original": "A bullpup assault rifle made with accuracy in mind. The weapon is very modular, even having the ability to put wing mirrors on the sides... Why?",
-    "translation": "法国制造的一款犊牛式突击步枪，有着不错的精确度和射速，模块化程度也很高，如果你需要的话还可以在侧面装上后视镜，前提是你真的需要……",
-    "stage": 3,
-    "context": "ID: famas\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→famas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=famas"
-  },
-  {
-    "key": "95c927dd6b96953fe0fda6a23a7a55ad",
-    "original": "A compact 10-round magazine meant for AK profile rifles.",
-    "translation": "一个紧凑的10发5.56mm弹匣，可用于AK式样的5.56mm突击步枪。 ",
-    "stage": 3,
-    "context": "ID: stanarg10\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→stanarg10\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stanarg10"
-  },
-  {
-    "key": "fd722f1688199948cff63bec02375c35",
-    "original": "A compact 10-round magazine used with .300 AC Blackout rifles.",
-    "translation": "一个紧凑的10发弹匣，可用于使用.300 AC Blackout步枪弹的突击步枪",
-    "stage": 3,
-    "context": "ID: blackout10\n位于 /Kenan-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→blackout10\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackout10"
-  },
-  {
-    "key": "88b30fcb7b570833cb7f71ec4818cb8c",
-    "original": "A compact light-weight polymer magazine for use with Sig P226 compatible firearms.",
-    "translation": "一个为P226手枪（或者其他兼容其弹匣的手枪）的弹匣，用聚合物制成，十分紧凑，且无比轻便。",
-    "stage": 3,
-    "context": "ID: p226mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→p226mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=p226mag"
-  },
-  {
-    "key": "db5169b33d9a707017e953580d307651",
-    "original": "A compact light-weight polymer magazine for use with the FNP-9",
-    "translation": "一个由聚合物制成的军用手枪弹匣，为FNP-9手枪所设计",
-    "stage": 3,
-    "context": "ID: fnfnp9mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→fnfnp9mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fnfnp9mag"
-  },
-  {
-    "key": "8180e5ac335ade0450626703dfda54a7",
-    "original": "A compact light-weight polymer magazine.",
-    "translation": "为Px4设计的15发9mm手枪弹匣，用聚合物制成，紧凑且轻便。",
-    "stage": 3,
-    "context": "ID: 9x4\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→9x4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search[
+[
   {
     "key": "ee032dc12c5629c0e43a779a5deda338",
     "original": ".22 Zimmerpatronen",
@@ -417,7 +247,177 @@
   {
     "key": "a10a9473e67565482576571ece1c18f7",
     "original": "A .45 ACP version of the Mauser C96 produced in China. Features a short action and plenty of firepower. You should know this gun from Metal Gear Solid 3. If you don't... What is wrong with you?!",
-    "translation": "一个由中华民国地方军阀的军工厂于1929年仿制的.45ACP版毛瑟C96，特?q=9x4"
+    "translation": "一个由中华民国地方军阀的军工厂于1929年仿制的.45ACP版毛瑟C96，特点是枪支行程短且火力充足（在国外被直接称为山西17式手枪“Shanxi Type17”），你应该在合金装备3里了解这把枪，如果你没有……那么就赶紧去玩吧！",
+    "stage": 3,
+    "context": "ID: t17\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→t17\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t17"
+  },
+  {
+    "key": "1e215fc3fd7b635e8053cf7963ab9476",
+    "original": "A 10 round .308 magazine for use in sniper rifles",
+    "translation": "为狙击枪设计的10发.308标准弹匣",
+    "stage": 3,
+    "context": "ID: .30810mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→.30810mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=.30810mag"
+  },
+  {
+    "key": "1929177b41005cb9de88f24d46a93846",
+    "original": "A 10 round 7.62x54R magazine for use in Russian sniper rifles",
+    "translation": "为苏式狙击枪设计的10发7.62x54mm标准弹匣，因为弹种的原因略微有点弯曲",
+    "stage": 3,
+    "context": "ID: 7.62x54Rmag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→7.62x54Rmag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=7.62x54Rmag"
+  },
+  {
+    "key": "5aa488d42ac94516c7bc96fac3ed560d",
+    "original": "A 100 round drum magazine for use with the Tec 22 SMG",
+    "translation": "一个100发弹容的.22LR弹鼓，可用于Tec 22冲锋枪上。",
+    "stage": 3,
+    "context": "ID: tec22drummag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→tec22drummag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec22drummag"
+  },
+  {
+    "key": "f3165bc333029e1ce992c518c03c04d3",
+    "original": "A 20 round .308 magazine for use in sniper rifles",
+    "translation": "为狙击枪设计的20发.308扩容弹匣",
+    "stage": 3,
+    "context": "ID: .30820mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→.30820mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=.30820mag"
+  },
+  {
+    "key": "4e30059c6e8a19d72a5e6f3fad698aa7",
+    "original": "A 30 round box magazine for use with the Tec 22 SMG",
+    "translation": "一个30发弹容的冲.22LR标准弹匣，可用于Tec 22冲锋枪上。",
+    "stage": 3,
+    "context": "ID: tec_22magazine\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→tec_22magazine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_22magazine"
+  },
+  {
+    "key": "f3793fd25e6e9611290edaacc8e11584",
+    "original": "A 50-round magazine with a bulky green drum for use with AK-Blank compatible rifles.",
+    "translation": "一个50发弹容的标准弹鼓，和AK74的弹匣一样由钢铁强化的高分子聚合物制成，可用于AK式样的5.56步枪。",
+    "stage": 3,
+    "context": "ID: stanarg50\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→stanarg50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stanarg50"
+  },
+  {
+    "key": "35fbf3c78afc7b7618b42afafa445038",
+    "original": "A AK designed to fire 556 NATO. One of the many AK-blanks that are coming out. Good accuracy though.",
+    "translation": "一个设计用于发射5.56mm北约弹的AK式样突击步枪，是伊孜玛什兵工厂生产的许多新款AK式突击步枪中的一个，虽然毛子的确不怎么用5.56，但是不妨碍他们造出来卖给别人，精准度挺不错",
+    "stage": 3,
+    "context": "ID: ak101\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→ak101\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ak101"
+  },
+  {
+    "key": "97b758d5ebf84b1ea025da7881bb956a",
+    "original": "A Czechoslovakian semi-auto civilian pistol introduced in 1983 to replace the CZ 52. Very accurate and reliable thanks to its chrome plated barrel and well built frame.",
+    "translation": "于1983年设计的捷克斯洛伐克半自动民用手枪，目的是为了取代老式的cz52手枪。非常的准确和可靠，这得感谢他的镀铬枪管和良好的内部结构",
+    "stage": 3,
+    "context": "ID: cz_83\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→cz_83\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cz_83"
+  },
+  {
+    "key": "ce8703a2fe2b5f5fb82321342858c410",
+    "original": "A Czechoslovakian semi-auto military pistol introduced in 1975 and became one of the original 'wonder nines', fairly accurate and with a common ammo type. Makes this weapon a good addition to any gun nut's arsenal.",
+    "translation": "一种捷克斯洛伐克的半自动军用手枪，于1975年问世，并成为当初的“手枪奇迹”之一。即使是现在，他仍然被称为是社会主义阵营中最优秀的手枪。",
+    "stage": 3,
+    "context": "ID: cz_75\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→cz_75\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cz_75"
+  },
+  {
+    "key": "c45c4fa8b207639184c72737455aad9b",
+    "original": "A Finish made clone of the very popular PPSh-43, while it does have some of the same design, it still wasn't as good as the original.",
+    "translation": "一把芬兰仿造的PPS-43冲锋枪，和PPS冲锋枪的不同在于发射9mm帕拉贝鲁姆弹，虽然它确实保留了一些PPS冲锋枪的设计，但还是没有原版的好。",
+    "stage": 3,
+    "context": "ID: ppsh_clone\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→ppsh_clone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ppsh_clone"
+  },
+  {
+    "key": "2c1dcb601f19219f8d66e2c182dce29e",
+    "original": "A Israeli defence weapon marketed in the US and parts of the UK as the Baby Eagle. It's not a desert eagle by any means. But kinda looks like it.",
+    "translation": "一种以色列的国防武器，在美国和英国部分地区作为雏鹰手枪出售。它绝不是沙漠之鹰。但看起来确实有点像",
+    "stage": 3,
+    "context": "ID: jericho_941\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→jericho_941\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jericho_941"
+  },
+  {
+    "key": "330b7d69c3d4da4cc09eaf3e3354ecd2",
+    "original": "A Russian bullpup sniper rifle which is a conversion for the SVD Dragunov. The length of a pdw with the range and power of a SVD you can surely breach and clear any room now!",
+    "translation": "俄罗斯生产的犊牛式狙击步枪，用于替换那快服役了半个世纪的SVD-63狙击步枪，枪管相比SVD来说要短一些，但是因其犊牛式的设计而显得更加紧凑，这种紧凑的半自动狙击步枪很明显更适合近距离战斗，现在，不要呆在屋外面了，准备破门/窗而入去清理所有房间吧！",
+    "stage": 3,
+    "context": "ID: svu\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→svu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=svu"
+  },
+  {
+    "key": "198b459443e07c3a2c985b1bb34f2866",
+    "original": "A Russian grade military SMG with a unique large capacity magazine. Used by Russian special forces for CQB and tight environments. The Bizon is accurate, and has excellent armour piercing capabilities.",
+    "translation": "一个俄罗斯制造的军用冲锋枪，使用一个怪异的可拆卸柱型弹鼓供弹，一般用于俄罗斯特种部队进行近距离作战，野牛冲锋枪很精准，且独特的设计即使是在发射9x18mm弹时也有着不俗的穿甲能力。",
+    "stage": 3,
+    "context": "ID: bizon\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→bizon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bizon"
+  },
+  {
+    "key": "1be00c6dba2e4268ae37b5ca763e6328",
+    "original": "A Russian grenade launcher compatible with Warsaw pact weapons. But this one is a recreation of the BG-15 that fits Warsaw AND NATO weapons. And fires the 40mm used by the M203. The first of the Russian launchers.",
+    "translation": "兼容华约武器的俄罗斯榴弹发射器。但这一款是BG-15的重制版，同时兼容华沙和北约的武器。发射M203使用的40mm 榴弹。俄罗斯最优良的榴弹发射器。",
+    "stage": 3,
+    "context": "ID: bg-15\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUNMOD→bg-15\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bg-15"
+  },
+  {
+    "key": "1cd16cbe8b2d7bcf97749a68c6b36800",
+    "original": "A Russian grenade launcher compatible with Warsaw pact weapons. But this one is a recreation of the GP-25 that fits Warsaw AND NATO weapons. And fires the 40mm used by the M203.",
+    "translation": "兼容华约武器的俄罗斯榴弹发射器。但这一款是GP-15的重制版，同时兼容华沙和北约的武器。发射M203使用的40mm 榴弹。",
+    "stage": 3,
+    "context": "ID: gp-25\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUNMOD→gp-25\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp-25"
+  },
+  {
+    "key": "fd131116c26082e802415308ecf80b8f",
+    "original": "A Russian grenade launcher compatible with Warsaw pact weapons. But this one is a recreation of the GP-30 that fits Warsaw AND NATO weapons. And fires the 40mm used by the M203. A more accurate version of the GP-25",
+    "translation": "兼容华约武器的俄罗斯榴弹发射器。但这一款是GP-30的重制版，同时兼容华沙和北约的武器。发射M203使用的40mm 榴弹。GP-25的更精准版本",
+    "stage": 3,
+    "context": "ID: gp-30\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUNMOD→gp-30\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp-30"
+  },
+  {
+    "key": "cf08974c66ef5756518cec814a561814",
+    "original": "A Russian once said this was the best gun in the world. Nuff said",
+    "translation": "柯尔特单动陆军转轮手枪（colt single action army 也叫柯尔特SAA）是柯尔特防务公司于1872年推出的一款真正实用的转轮手枪，和后来的M1873不同，M1872仍然使用.44纸卷弹，弹药装填起来有些麻烦且不可靠，但是在正常的环境下射击还是有保证的。",
+    "stage": 3,
+    "context": "ID: colt_single_action_army\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→colt_single_action_army\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=colt_single_action_army"
+  },
+  {
+    "key": "35fab05389134e8599cb4257651e0695",
+    "original": "A Ukrainian designed and produced pistol firing the ever so popular 9x18mm round. Small for its use as a police pistol, the Fort 12 boasts great Ukrainian reliability and good accuracy for stalken your STALKER.",
+    "translation": "一个由乌克兰设计的手枪，使用流行的9x18mm马卡洛夫弹。作为一种警用手枪，12号堡很小，但他也有着强大的可靠性和准确度，你在跟踪那些“潜行者”时总会用到的。",
+    "stage": 3,
+    "context": "ID: fort12\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→fort12\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fort12"
+  },
+  {
+    "key": "adb15f87e986484ecb16205396706346",
+    "original": "A bullpup assault rifle made with accuracy in mind. The weapon is very modular, even having the ability to put wing mirrors on the sides... Why?",
+    "translation": "法国制造的一款犊牛式突击步枪，有着不错的精确度和射速，模块化程度也很高，如果你需要的话还可以在侧面装上后视镜，前提是你真的需要……",
+    "stage": 3,
+    "context": "ID: famas\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_weapons.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→GUN→famas\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=famas"
+  },
+  {
+    "key": "95c927dd6b96953fe0fda6a23a7a55ad",
+    "original": "A compact 10-round magazine meant for AK profile rifles.",
+    "translation": "一个紧凑的10发5.56mm弹匣，可用于AK式样的5.56mm突击步枪。 ",
+    "stage": 3,
+    "context": "ID: stanarg10\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→stanarg10\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stanarg10"
+  },
+  {
+    "key": "fd722f1688199948cff63bec02375c35",
+    "original": "A compact 10-round magazine used with .300 AC Blackout rifles.",
+    "translation": "一个紧凑的10发弹匣，可用于使用.300 AC Blackout步枪弹的突击步枪",
+    "stage": 3,
+    "context": "ID: blackout10\n位于 /Kenan-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→blackout10\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackout10"
+  },
+  {
+    "key": "88b30fcb7b570833cb7f71ec4818cb8c",
+    "original": "A compact light-weight polymer magazine for use with Sig P226 compatible firearms.",
+    "translation": "一个为P226手枪（或者其他兼容其弹匣的手枪）的弹匣，用聚合物制成，十分紧凑，且无比轻便。",
+    "stage": 3,
+    "context": "ID: p226mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→p226mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=p226mag"
+  },
+  {
+    "key": "db5169b33d9a707017e953580d307651",
+    "original": "A compact light-weight polymer magazine for use with the FNP-9",
+    "translation": "一个由聚合物制成的军用手枪弹匣，为FNP-9手枪所设计",
+    "stage": 3,
+    "context": "ID: fnfnp9mag\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→fnfnp9mag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fnfnp9mag"
+  },
+  {
+    "key": "8180e5ac335ade0450626703dfda54a7",
+    "original": "A compact light-weight polymer magazine.",
+    "translation": "为Px4设计的15发9mm手枪弹匣，用聚合物制成，紧凑且轻便。",
+    "stage": 3,
+    "context": "ID: 9x4\n位于 /Kenan-Structured-Modpack/Artyom_Emporium_v.1/art_magazines.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Artyom_Emporium_v.1→MAGAZINE→9x4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=9x4"
   },
   {
     "key": "a65576f6d097c32584df82eda7e7210b",
