@@ -4420,8 +4420,8 @@
  {
   "key": "50a72448d9889a251b6263b2cf912d83",
   "original": "Expands upon the Touhou Professions mod.  Coregame balance not guaranteed.",
-  "translation": "东方职业模组的扩展。不保证平衡性。（需要在“场景”里选择东方职业（扩展））",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→[0]\n",
+  "translation": "东方职业模组的扩展。不保证平衡性。\n需要在“场景”里选择东方职业（扩展）\n建议使用 Chibi_Ultica 或 MSXotto+ 贴图包以显示头发（当前仅支持秦心、妹红、咲夜、铃仙和妖梦）",
+  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Touhou_expansion",
   "stage": 3
  },
  {
@@ -7707,7 +7707,7 @@
   "key": "702df6c4cd1aeb9cc2dc59807f6c3acb",
   "original": "Touhou Expansion",
   "translation": "东方职业模组扩展包",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→[0]\n",
+  "context": "ID: Touhou_expansion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MOD_INFO→Touhou_expansion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=Touhou_expansion",
   "stage": 3
  },
  {
@@ -10408,7 +10408,6 @@
   "key": "3dc441ed7909f63f1ec7aa31fb49350f",
   "original": "megastore parking lot",
   "translation": "购物广场（停车场）",
-  "context": "ID: megastore_parking\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/overmap/overmap_terrain/overmap_terrain_commercial.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→overmap_terrain→megastore_parking\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=megastore_parking",
   "stage": 0
  },
  {
