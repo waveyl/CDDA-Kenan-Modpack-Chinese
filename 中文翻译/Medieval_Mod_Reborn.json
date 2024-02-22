@@ -33,6 +33,13 @@
   "stage": 1
  },
  {
+  "key": "2d4a4de9ae30400214334355932ef9f4",
+  "original": "A hooved grazing mammal with a mane of hair, this particular breed has been bred for a good mix of strength and speed, and trained to better tolerate the stress of combat.",
+  "translation": "A hooved grazing mammal with a mane of hair, this particular breed has been bred for a good mix of strength and speed, and trained to better tolerate the stress of combat.",
+  "context": "ID: mon_horse_courser\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→MONSTER→mon_horse_courser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_horse_courser",
+  "stage": 1
+ },
+ {
   "key": "505442e19961238b6e2be7f396614d63",
   "original": "A large shield made of wood with leather reinforcement.  Sturdier and stronger than a basic wooden shield, and less encumbering than a metal one.",
   "translation": "用皮革加固的木制大盾牌。 它比基本的木盾更坚固结实，也没有金属盾那么笨重。",
@@ -124,6 +131,13 @@
   "original": "A small metal shield historically used for dueling rather than protection from arrows.  It's small and light enough to not hinder the use of your hands.",
   "translation": "一种小型金属盾牌，历史上曾用于决斗而非防箭。 它小巧轻便，不会妨碍双手的使用。",
   "context": "ID: shield_buckler\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_buckler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shield_buckler",
+  "stage": 1
+ },
+ {
+  "key": "557672f4628f53943e1e769fd190f7c5",
+  "original": "A steel spear with a small tube attached, to hold an incendiary charge of gunpowder.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "translation": "A steel spear with a small tube attached, to hold an incendiary charge of gunpowder.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "context": "ID: fire_lance\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→GUN→fire_lance\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fire_lance",
   "stage": 1
  },
  {
@@ -220,11 +234,25 @@
   "stage": 5
  },
  {
+  "key": "d6f6bbad77ae5435ccaa021184bb1f52",
+  "original": "Early medieval heavy cavalry of various countries in Europe, whether noble-born or of common blood.  While knights traditionally were men-at-arms, not every man-at-arms was a knight.",
+  "translation": "Early medieval heavy cavalry of various countries in Europe, whether noble-born or of common blood.  While knights traditionally were men-at-arms, not every man-at-arms was a knight.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→profession→[5]\n",
+  "stage": 1
+ },
+ {
   "key": "9af08adcc59483502c06fd74a31c9ea7",
   "original": "Elite infantry of ancient Egypt and bodyguards of the Pharaoh.  While armor was uncommon due to desert conditions, such equipment did see increased usage during the New Kingdom period.",
   "translation": "古埃及的法老的保镖及精英步兵。虽然由于沙漠条件穿盔甲并不常见，但在新王国时期这种装备使用增加了。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→profession→[1]\n",
   "stage": 5
+ },
+ {
+  "key": "d54377542d7689c5d718f6ace352ec44",
+  "original": "European heavy cavalry of the late medieval period, by which time plate armor had reached its battlefield peak.  The importance of knights as heavy cavalry would persist until professional armies became predominant in Europe.",
+  "translation": "European heavy cavalry of the late medieval period, by which time plate armor had reached its battlefield peak.  The importance of knights as heavy cavalry would persist until professional armies became predominant in Europe.",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→profession→[10]\n",
+  "stage": 1
  },
  {
   "key": "e15e216fc1c639f787b1231ecdfa1bf8",
@@ -310,6 +338,13 @@
   "key": "ca9dbca5a3d56c11dfcaf717e7f86c02",
   "original": "Little more than a small tube capable of holding a charge of gunpowder, secured to a long stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
   "translation": "只不过是一个可以装火药的小管子，固定在一根长棍上。虽然它的有效射程极短，但在近战中却能起到强大的优势。 ",
+  "stage": 1
+ },
+ {
+  "key": "0f6ffa1054f25d4e530d2e3839472418",
+  "original": "Little more than a small tube capable of holding a charge of gunpowder, secured to a stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "translation": "Little more than a small tube capable of holding a charge of gunpowder, secured to a stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
+  "context": "ID: fire_lance_crude\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→GUN→fire_lance_crude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fire_lance_crude",
   "stage": 1
  },
  {
