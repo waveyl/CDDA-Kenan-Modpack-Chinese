@@ -1,0 +1,16 @@
+[
+  {
+    "id": "skin_prophecy",
+    "type": "GENERIC",
+    "name": { "str": "<color_blue>Skin Prophecy</color>" },
+    "description": "Pinkish book, which seems to be made from human remains, specially skin, bones and other tissues. The open book has bloody marks and contain runic symbols on the pages.",
+    "symbol": "?",
+    "weight": "1780 g",
+    "volume": "650 ml",
+    "longest_side": "28 cm",
+    "looks_like": "story_book",
+    "material": [ "flesh" ],
+    "color": "red",
+    "use_action": { "type": "effect_on_conditions", "effect_on_conditions": [ { "id": "skin_book_eoc" } ] }
+  }
+]
