@@ -590,9 +590,9 @@
  {
   "key": "cd596db155f5136e83f22b6671aba855",
   "original": "A dark taoist technique that allows the user to charm humans (*), working better the worse state the target is.  \n(*) Should work for beings that are close enough too, right?",
-  "translation": "A dark taoist technique that allows the user to charm humans (*), working better the worse state the target is.  \n(*) Should work for beings that are close enough too, right?",
+  "translation": "一个黑暗道术，允许使用者控制人类*，目标的状态越差，效果越好。\n(*)应该也适用于离我们足够近的生物，对吧？",
   "context": "ID: seiga_charm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_charm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_charm",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a11a83a9885c6194c8c9db1eac4d7635",
@@ -1348,7 +1348,7 @@
   "original": "AAA",
   "translation": "AAA",
   "context": "ID: sakuya_timestop_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_eoc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f18c3273a57d3195840d695741e4ab91",
@@ -1401,16 +1401,16 @@
  {
   "key": "8db5fe0c7f35c1d4075483ea3d8f1f13",
   "original": "Allows you to fly over ledges.",
-  "translation": "允许你飞跃栏杆。",
+  "translation": "允许你飞跃露台。",
   "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_levitation",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eb98380ec5229f32fd8fe16aaba5a1f5",
   "original": "Allows you to fly over ledges.  Also increases your movement speed.",
-  "translation": "允许你飞跃栏杆。并且增加你的移动速度。",
+  "translation": "允许你飞跃露台。并且增加你的移动速度。",
   "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=remi_levitation",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8551394c02651f968e7903c66a3c3cd9",
@@ -1525,7 +1525,7 @@
  {
   "key": "050c5d605f330cb8df7de088cc243de5",
   "original": "Apply Yoshika's ofuda to a nearby human (or close enough) corpse, reviving it and forcing her personality to take over again.",
-  "translation": "在附近的人类尸体（或足够近的距离）上施放芳香的灵符，使其复活并让她的人格掌控身体。",
+  "translation": "在附近的人类（或足够近距离的）尸体上放置芳香的灵符，使其复活并让她的人格掌控身体。",
   "context": "ID: seiga_yoshikasumm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshikasumm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshikasumm",
   "stage": 3
  },
@@ -1546,9 +1546,9 @@
  {
   "key": "1d5635f069ce7135ede901e3f25e1fd8",
   "original": "Attune yourself with nature, allowing yourself to float while increased movement speed for a short time.",
-  "translation": "Attune yourself with nature, allowing yourself to float while increased movement speed for a short time.",
+  "translation": "使你和天地自然协调合一，允许你在短时间内浮空同时增加移动速度。",
   "context": "ID: seiga_hermitwalk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_hermitwalk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_hermitwalk",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b4559c42151162b81414cc2fc8d66a21",
@@ -1582,7 +1582,7 @@
   "original": "BBB",
   "translation": "BBB",
   "context": "ID: sakuya_timestop_cycle1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_cycle1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_cycle1",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e331abb5498b2ae8e9725924f5a4e58",
@@ -1847,7 +1847,7 @@
   "original": "Bonus dmg for udonge_gunwaveBLAST",
   "translation": "Bonus dmg for udonge_gunwaveBLAST",
   "context": "ID: udonge_gunwaveBLAST3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d378bd89b2fa285d394e3d9cb0e338db",
@@ -1859,9 +1859,9 @@
  {
   "key": "cab7a1daa8cb0b2380996dfe44a77700",
   "original": "Borrow a silver knife from parallel records for a short time.  As the knife goes away on its own after a while, it is somewhat like recycling.",
-  "translation": "从平行时空中借用一把银色匕首一段时间。由于匕首过一会儿就会自己消失，所以有点像回收利用。",
+  "translation": "从平行时空中短时间借用一把银色匕首。由于匕首过一会儿就会自己消失，所以在某种程度上可以理解为回收。",
   "context": "ID: sakuya_jackknife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_jackknife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_jackknife",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "78f1492bc8e4c8efcbf72807ea255716",
@@ -1937,14 +1937,14 @@
   "original": "Call upon a Keystone crashing down.  Deals bonus damage to the main target.",
   "translation": "Call upon a Keystone crashing down.  Deals bonus damage to the main target.",
   "context": "ID: tenko_keystonecrash2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonecrash2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "12e47edb5217496cb945923e93a1507c",
   "original": "Call upon a Keystone crashing down.  Deals bonus damage to the main target.  Must be outside to cast.",
-  "translation": "Call upon a Keystone crashing down.  Deals bonus damage to the main target.  Must be outside to cast.",
+  "translation": "召唤要石下方坠击，对落点的敌人造成额外伤害。必须在户外施放。",
   "context": "ID: tenko_keystonecrash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonecrash",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3f459d16a72288b30cec5c9c5571a7c8",
@@ -1970,9 +1970,9 @@
  {
   "key": "0a70dade153c20e5675d2fee7d9cbde3",
   "original": "Capture a temporal snapshot of yourself, enabling yourself to rest for a while, and delete it afterwards as if nothing happened.",
-  "translation": "给你自己拍一个临时快照，让自己能够休息一会儿，然后删除它就像什么都没发生过一样。",
+  "translation": "给你自己拍一张时间快照，让自己能够休息一会儿，然后删除它就像什么都没发生过一样。",
   "context": "ID: sakuya_quickrest\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_quickrest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_quickrest",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c2ce3caaf1eadd38b44c0ec5d020c78e",
@@ -2142,15 +2142,15 @@
  {
   "key": "8d1ef9c9095151b19ab532081aa2d148",
   "original": "Concentrate and focus surrounding temperaments on the Sword of Hisou, releasing them in form of a big laser, damaging anything in the path.  Because this relies on overwhelming the target's own temperament, it just moves them closer, but never pushes them completely, to Nirvana.",
-  "translation": "Concentrate and focus surrounding temperaments on the Sword of Hisou, releasing them in form of a big laser, damaging anything in the path.  Because this relies on overwhelming the target's own temperament, it just moves them closer, but never pushes them completely, to Nirvana.",
+  "translation": "集中并聚焦周围的气质在绯想之剑上，以一道大型激光的形式释放出来，对路径上的任何东西造成伤害。因为这依赖于压倒目标自身的气质，所以它只是让他们更接近，但不会推动他们走向涅槃。",
   "context": "ID: tenko_scarletperception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_scarletperception\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_scarletperception",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d5bccf5891330de0c0c278a0f39d5343",
   "original": "Concentrate and focus surrounding temperaments on the Sword of Hisou, releasing them in form of a big laser, damaging anything in the path.  Because this relies on overwhelming the target's own temperament, it just moves them closer, but never pushes them, to Nirvana.",
   "translation": "集中并聚焦周围的气质在绯想之剑上，以一道大型激光的形式释放出来，对路径上的任何东西造成伤害。因为这依赖于压倒目标自身的气质，所以它只是让他们更接近，但不会推动他们走向涅槃。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6fe0f8df66714ec08f7d7b57d2dc45ef",
@@ -2250,9 +2250,9 @@
  {
   "key": "0d2fd966090bf00eb7f62771a076b611",
   "original": "Create an illusionary firing squad around you, who attack once before disappearing.  Cast again in the next 3 s to swap places with one of them (refunds cost).",
-  "translation": "Create an illusionary firing squad around you，who attack once before disappearing.  Cast again in the next 3 s to swap places with one of them （refunds cost）。",
+  "translation": "在你周围创造虚幻的行刑队，在消失之前攻击一次。3秒内再次施放与其中一只交换位置（返还花费）。",
   "context": "ID: udonge_disbeliefaspect_spawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_disbeliefaspect_spawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_disbeliefaspect_spawn",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c79cc75a9f90b25d8885dd0b91299a0c",
@@ -2266,7 +2266,7 @@
   "original": "Create black sun (uncontrollable)",
   "translation": "Create black sun (uncontrollable)",
   "context": "ID: utsuho_blacksun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_blacksun2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_blacksun2_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6613b02a81b7be993521302ba7b41e33",
@@ -2287,7 +2287,7 @@
   "original": "Creature component for utsuho_detectrad ",
   "translation": "Creature component for utsuho_detectrad ",
   "context": "ID: utsuho_detectrad4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_detectrad4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e8eff97f4e132efa69f589e6f7493662",
@@ -2357,28 +2357,28 @@
   "original": "Cánfèi (cripple 2)",
   "translation": "Cánfèi (cripple 2)",
   "context": "ID: seiga_cripple2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1f87e1f19ecec838e8370dfcb47291c5",
   "original": "Cánfèi (slow 2)",
   "translation": "Cánfèi (slow 2)",
   "context": "ID: seiga_cripple4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "51db6b613494af326a89eebddb1ca340",
   "original": "Cánfèi (slow)",
   "translation": "Cánfèi (slow)",
   "context": "ID: seiga_cripple3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "45054f47ac3305a2a33e9bcceadff712",
   "original": "DDD",
   "translation": "DDD",
   "context": "ID: sakuya_timestop_end\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_end\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_end",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "279476ebfaeeeacc345463d89c75dbc5",
@@ -2504,7 +2504,7 @@
   "original": "Damage component for utsuho_fissionaura ",
   "translation": "Damage component for utsuho_fissionaura ",
   "context": "ID: utsuho_fissionaura2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_fissionaura2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_fissionaura2_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5fd8621868851697e697220e3051efb8",
@@ -2525,7 +2525,7 @@
   "original": "Damage component of tenko_keystonepillar . This is a bonus component for the primary spell",
   "translation": "Damage component of tenko_keystonepillar . This is a bonus component for the primary spell",
   "context": "ID: tenko_keystonepillar2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonepillar2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonepillar2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4e1a7c5a6b5ffb2df94f69d86a15bc37",
@@ -2600,9 +2600,9 @@
  {
   "key": "3b28b51641c7aaa7fca0053733912afa",
   "original": "Dash (elegant)",
-  "translation": "Dash (elegant)",
+  "translation": "猛冲（潇洒）",
   "context": "ID: dash_sakuya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_sakuya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_sakuya",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "06698a9236897c81d32bf34232d7f072",
@@ -2719,7 +2719,7 @@
   "original": "Detect radiation (field)",
   "translation": "Detect radiation (field)",
   "context": "ID: utsuho_detectrad3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_detectrad3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb0ff5333a11d688398eb1000425dda3",
@@ -2731,9 +2731,9 @@
  {
   "key": "b9b19a1989c71835382a17958d4c8ab8",
   "original": "Dilate time around your personal bubble, increasing your movement speed.",
-  "translation": "Dilate time around your personal bubble, increasing your movement speed.",
+  "translation": "膨胀你个人空间的时间，增加你的移动速度。",
   "context": "ID: sakuya_dilation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_dilation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_dilation",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "12a3e874c9aa1dbe98c728d370664ec1",
@@ -2752,9 +2752,9 @@
  {
   "key": "fdc9b8b463982c4ac416b3f9c448cb3b",
   "original": "Disbelief aspect",
-  "translation": "Disbelief aspect",
+  "translation": "不信之象",
   "context": "ID: udonge_disbeliefaspect_tp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_disbeliefaspect_tp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_disbeliefaspect_tp",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dd1f6a3e85e8cd59ef92b264c8032929",
@@ -2865,14 +2865,14 @@
   "original": "Dismiss keystones",
   "translation": "解除要石",
   "context": "ID: tenko_keystonedismiss\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonedismiss\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonedismiss",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7f912de3d39ed4b6373e63a441c94524",
   "original": "Dismiss knives",
-  "translation": "Dismiss knives",
+  "translation": "解除飞刀",
   "context": "ID: sakuya_dismiss_knives\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_dismiss_knives\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_dismiss_knives",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "71b98bef3e0e8de3f1890e79d603f79f",
@@ -3001,16 +3001,16 @@
  {
   "key": "21c4d2f75b6f23d6cea09aa33c4b76a9",
   "original": "Draw a nearby keystone from underground, acting as a temporary, solid wall.",
-  "translation": "从底下升起一座要石，能作为一道坚固的临时护墙。",
+  "translation": "从地下升起一座要石，作为一道坚固的临时护墙。",
   "context": "ID: tenko_keystonepillar\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonepillar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonepillar",
   "stage": 3
  },
  {
   "key": "788befa56289fdbf4ddf8feb51fb8788",
   "original": "Drive the Sword of Hisou into the ground to trigger a miniature earthquake around you, dealing a small amount of damage, downing enemies, and leaving a rocky field that slows enemies down",
-  "translation": "Drive the Sword of Hisou into the ground to trigger a miniature earthquake around you, dealing a small amount of damage, downing enemies, and leaving a rocky field that slows enemies down",
+  "translation": "驱使绯想之剑打入地面，在你周围产生微型地震，击倒敌人并造成少量伤害，并在周围留下一片减缓速度敌人速度的碎石地带。",
   "context": "ID: tenko_earthquake\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_earthquake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_earthquake",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fa6f7bfe52325752a2af9cd3a3cda397",
@@ -3058,7 +3058,7 @@
   "original": "Earth stomp (damage)",
   "translation": "Earth stomp (damage)",
   "context": "ID: tenko_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_stomp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_stomp",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "71545b69eb78d7a45bfac7d8b68e4072",
@@ -3079,14 +3079,14 @@
   "original": "Earthquake signs (terrain bash)",
   "translation": "Earthquake signs (terrain bash)",
   "context": "ID: tenko_earthquake2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_earthquake2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_earthquake2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8dcbc62910ec968b5237904f4c9464be",
   "original": "Eating food wasn't a problem until this point.  It's possible for you to eat food coming from Earth and other impure places, but you will obtain less nutrition from it.",
-  "translation": "Eating food wasn't a problem until this point.  It's possible for you to eat food coming from Earth and other impure places，but you will obtain less nutrition from it.",
+  "translation": "在此之前，进食还不是一个问题。吃来自地球和其他不纯之地的食物还是可能的，但获得的营养会更少。",
   "context": "ID: LUNARDIET\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→LUNARDIET\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=LUNARDIET",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7c8d79105430ebe66430f424e59fb0e2",
@@ -3128,7 +3128,7 @@
   "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, or by enemies getting close.  Cast again to toggle OFF.",
   "translation": "使用你让红魔馆始终保持干净的秘技，提高你的动力和恢复速度。如果你感到疲劳，或者敌人靠近，你的专注力就会被打破。再次施放以关闭。",
   "context": "ID: sakuya_maidsecret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1ef9835fd25c4607b172dd339018c685",
@@ -3218,7 +3218,7 @@
   "original": "Extra biological damage for seiga_chireversal ",
   "translation": "Extra biological damage for seiga_chireversal ",
   "context": "ID: seiga_chireversal3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chireversal3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_chireversal3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "664613969ba4a1408449fcf940020016",
@@ -3321,7 +3321,7 @@
   "original": "Field detection component for utsuho_detectrad ",
   "translation": "Field detection component for utsuho_detectrad ",
   "context": "ID: utsuho_detectrad3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_detectrad3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d100af50fff2af64ceaf7e0784aec5b3",
@@ -3540,9 +3540,9 @@
  {
   "key": "88329b0d164a5489f50502bb53ab543f",
   "original": "Focus on the qi of the target, applying a curse to drain it and transform into healing for yourself.",
-  "translation": "专注于目标的气，施加一个诅咒来吸取它并转化为治疗自己。",
+  "translation": "专注于目标的气，施加诅咒来吸取它并转化为治疗自己。",
   "context": "ID: seiga_chidrain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chidrain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_chidrain",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "86d0ff3ca9f985d3369c947b02ea3210",
@@ -3554,7 +3554,7 @@
  {
   "key": "eac0d82b34d071fdb4341cfe53851f75",
   "original": "Focus your madness wavelength into a converging beam, dealing damage to all enemies in the path.",
-  "translation": "将狂气的波长收聚成束，对整条范围内的全部敌人造成伤害。",
+  "translation": "将狂气的波长收聚成束，对路径上的所有敌人造成伤害。",
   "context": "ID: udonge_iblast\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_iblast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_iblast",
   "stage": 3
  },
@@ -3574,7 +3574,7 @@
  {
   "key": "a607fc865032a5d9ca271af7d2f548e1",
   "original": "Force \"children\" to \"grow up\" rapidly, by making use of nearby dead spirits as catalyst.  They will serve you as best as they can, you being her mother figure and all that.",
-  "translation": "Force \"children\" to \"grow up\" rapidly, by making use of nearby dead spirits as catalyst.  They will serve you as best as they can, you being her mother figure and all that.",
+  "translation": "利用附近死去的灵魂作为催化剂，强迫“孩子”迅速“长大”。他们会尽其所能为你服务，你是她母亲的形象。",
   "context": "ID: seiga_raisechild\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_raisechild\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_raisechild",
   "stage": 1
  },
@@ -3639,21 +3639,21 @@
   "original": "Forces the target to run the EOC, which reduces u_var_hellcannon_unc_cast to (their) self",
   "translation": "Forces the target to run the EOC, which reduces u_var_hellcannon_unc_cast to (their) self",
   "context": "ID: mon_hellcannon_msun_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun_reduce",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0e5a94a1af50681a9cd534c87e713916",
   "original": "Freeze component of sakuya_timestop ",
   "translation": "Freeze component of sakuya_timestop ",
   "context": "ID: sakuya_timestop2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b4840e9d91d444977cdbca0b3d01b33d",
   "original": "Freeze knife",
-  "translation": "Freeze knife",
+  "translation": "冻结飞刀",
   "context": "ID: sakuya_freezeknife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_freezeknife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_freezeknife",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f0dbe20eae5ac83f49286efebbcd45e2",
@@ -3775,7 +3775,7 @@
   "original": "Glassing effect for utsuho_nuke ",
   "translation": "Glassing effect for utsuho_nuke ",
   "context": "ID: utsuho_nuke3_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke3_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke3_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "72887bfa4a500381b894a3efdb2f54bf",
@@ -3842,9 +3842,9 @@
  {
   "key": "cdcf9c5fa9a2d87549c322c3f7c50f65",
   "original": "Gun-wave blast",
-  "translation": "Gun-wave blast",
+  "translation": "枪-波爆发",
   "context": "ID: udonge_gunwaveBLAST2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "38947088b2c525dc4879a36bd036cfa5",
@@ -4102,7 +4102,7 @@
   "original": "Heal component of seiga_chidrain ",
   "translation": "Heal component of seiga_chidrain ",
   "context": "ID: seiga_chidrain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chidrain2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_chidrain2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "57c7d4efcaa4be5906a1ec59ee17ec3d",
@@ -4137,7 +4137,7 @@
   "original": "Heat damage instance for utsuho_nuke ",
   "translation": "Heat damage instance for utsuho_nuke ",
   "context": "ID: utsuho_nuke3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f32c6ff38c0e0059266a48bc33e8670a",
@@ -4186,49 +4186,49 @@
   "original": "Hell wave cannon (add var)",
   "translation": "Hell wave cannon (add var)",
   "context": "ID: hellcannon_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "886487f933a9df47412bf76daa4deaf5",
   "original": "Hell wave cannon (add var) (uncontrollable)",
   "translation": "Hell wave cannon (add var) (uncontrollable)",
   "context": "ID: hellcannon_to_mon_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6937df6be9c382d730c4875d73108027",
   "original": "Hell wave cannon (minisun)",
   "translation": "Hell wave cannon (minisun)",
   "context": "ID: mon_hellcannon_msun2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8e827317f6245d24f3b25f7b0914fbb1",
   "original": "Hell wave cannon (minisun) (reduce EOC)",
   "translation": "Hell wave cannon (minisun) (reduce EOC)",
   "context": "ID: mon_hellcannon_msun_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun_reduce",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eabee0168c221ffcb3459ebfa74bb48a",
   "original": "Hell wave cannon (minisun) (uncontrollable)",
   "translation": "Hell wave cannon (minisun) (uncontrollable)",
   "context": "ID: mon_hellcannon_msun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ee0c60473d4ae9d5c18dd495f895f288",
   "original": "Hell wave cannon (reduce var)",
   "translation": "Hell wave cannon (reduce var)",
   "context": "ID: hellcannon_to_mon_zero\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_zero\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_zero",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c205d77fe3e1d2339754c07ebefecbf1",
   "original": "Hell wave cannon (uncontrollable)",
   "translation": "Hell wave cannon (uncontrollable)",
   "context": "ID: utsuho_hellcannon2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_hellcannon2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_hellcannon2_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "00a3191ccb8e6fc360a1490ea7a5e34a",
@@ -4457,7 +4457,7 @@
   "original": "Incapacitate component for seiga_chireversal ",
   "translation": "Incapacitate component for seiga_chireversal ",
   "context": "ID: seiga_chireversal2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chireversal2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_chireversal2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a5b175e3a5a02633d16a1c50cd64aa17",
@@ -4527,7 +4527,7 @@
   "original": "Invulnerability component for dash_utsuho ",
   "translation": "Invulnerability component for dash_utsuho ",
   "context": "ID: dash_utsuho2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_utsuho2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_utsuho2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d409407c5203691ab036dc286f581d7a",
@@ -4583,14 +4583,14 @@
   "original": "Item component for utsuho_detectrad ",
   "translation": "Item component for utsuho_detectrad ",
   "context": "ID: utsuho_detectrad5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_detectrad5",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "95fada3180a91bcafbbf150c2e792da5",
   "original": "Jack the Knife",
-  "translation": "Jack the Knife",
+  "translation": "飞刀杰克",
   "context": "ID: sakuya_jackknife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_jackknife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_jackknife",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dfb67ab9ae22ae3b0c9ca316c0cd4096",
@@ -4658,7 +4658,7 @@
   "key": "cc67c3fd3e1a5445599d5afc0b8a8993",
   "original": "Keystone crash (bash component)",
   "translation": "要石冲撞 (bash component)",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "10ace3aab686c4ba4b8e1eaa92b6093e",
@@ -4678,21 +4678,21 @@
   "original": "Keystone crash (main target dmg)",
   "translation": "Keystone crash (main target dmg)",
   "context": "ID: tenko_keystonecrash3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonecrash3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "06d6d9cfb49f457a0f27f7d6f6742f80",
   "original": "Keystone crash (terrain bash)",
   "translation": "Keystone crash (terrain bash)",
   "context": "ID: tenko_keystonecrash4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonecrash4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "19728a6a9d498d4d9f1385d058357c30",
   "original": "Keystone summon for tenko_keystonecrash ",
   "translation": "Keystone summon for tenko_keystonecrash ",
   "context": "ID: tenko_keystonecrash5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonecrash5",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25be0b1d56b9cf5c6fbb2dfda9014146",
@@ -4754,14 +4754,14 @@
   "original": "Knockback component for udonge_gunwaveBLAST ",
   "translation": "Knockback component for udonge_gunwaveBLAST ",
   "context": "ID: udonge_gunwaveBLAST5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST5",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25aaab2e3a9eb7304915791849788977",
   "original": "Knockback component for utsuho_geyser ",
   "translation": "Knockback component for utsuho_geyser ",
   "context": "ID: utsuho_ugeyser4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6bab09e3f1ea1fb56b3af7299140058f",
@@ -5060,7 +5060,7 @@
   "original": "Maid's secret (vfx)",
   "translation": "Maid's secret (vfx)",
   "context": "ID: sakuya_maidsecret2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "51c75016217aa87b46b94a3ec08868d9",
@@ -5079,23 +5079,23 @@
  {
   "key": "bf290dbe6e11cccb3a9e3044a6f52eac",
   "original": "Manipulate incoming electromagnetic waves to increase your perception for a short time.  Drains mental energy while active.  Cast again to toggle OFF.",
-  "translation": "Manipulate incoming electromagnetic waves to increase your perception for a short time.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "操纵接收的电磁波，在短时间内提高感知。激活时消耗精神能量。再次施放以关闭。",
   "context": "ID: udonge_waveperception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveperception\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_waveperception",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b1709d9f527124f20757cc855b35254a",
   "original": "Manipulate outgoing electromagnetic waves to turn yourself invisible for a short time.  Drains mental energy while active.  Cast again to toggle OFF.",
-  "translation": "Manipulate outgoing electromagnetic waves to turn yourself invisible for a short time.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "操纵发出的电磁波，在短时间内隐形。激活时消耗精神能量。再次施放以关闭。",
   "context": "ID: udonge_wavestealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavestealth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_wavestealth",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5e4ccff9648336ebe83da1436e4e3108",
   "original": "Manipulate spacetime, teleporting a short distance.  Cast again in the next 3 s to teleport back.",
-  "translation": "Manipulate spacetime，teleporting a short distance.  Cast again in the next 3 s to teleport back.",
+  "translation": "操纵时空，传送一小段距离。3秒内再次施放以返回。",
   "context": "ID: sakuya_vanishingeverything2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_vanishingeverything2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_vanishingeverything2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "474601a1347426b33aeadf9db220974d",
@@ -5308,9 +5308,9 @@
  {
   "key": "7f38540346d925d51ab95ab24a9b922b",
   "original": "Move elegant and quickly towards a nearby position.",
-  "translation": "Move elegant and quickly towards a nearby position.",
+  "translation": "潇洒而快速地移动到附近的位置。",
   "context": "ID: dash_sakuya\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_sakuya\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dash_sakuya",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aee0d04a906c36b04b330df9246e2f77",
@@ -5441,16 +5441,16 @@
  {
   "key": "be72feeff1a7a248d4fa3e25e421bd0c",
   "original": "Normalize your mind waves to clear existing mental impurities and resist them.  Drains mental energy while active.  Cast again to toggle OFF.",
-  "translation": "Normalize your mind waves to clear existing mental impurities and resist them.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "规范你的脑波以清理存在的精神污秽并形成抵抗力。激活时消耗精神能量。再次施放以关闭。",
   "context": "ID: udonge_wavemfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavemfortitude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_wavemfortitude",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "671729ea18354e1c123c3e2ebcb785ab",
   "original": "Normalize your mind waves to increase your brainpower.  Drains mental energy while active.  Cast again to toggle OFF.",
-  "translation": "Normalize your mind waves to increase your brainpower.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "规范你的脑波以提升脑力。激活时消耗精神能量。再次施放以关闭。",
   "context": "ID: udonge_waveinsight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveinsight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_waveinsight",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "96263c2bcbe0908711e488927fad8a0f",
@@ -5478,35 +5478,35 @@
   "original": "Nuclear explosion (fission)",
   "translation": "核能爆发 (裂变)",
   "context": "ID: utsuho_nuke2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e1a273a60a374a7298ea6da7c93fbb33",
   "original": "Nuclear explosion (fission) (1st dmg instance)",
   "translation": "Nuclear explosion (fission) (1st dmg instance)",
   "context": "ID: utsuho_nuke3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "39e847aade3dead5d034b5b9f9e0c0f6",
   "original": "Nuclear explosion (fission) (2nd instance)",
   "translation": "Nuclear explosion (fission) (2nd instance)",
   "context": "ID: utsuho_nuke4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1c27cac750c3147c521255f3459ddd3e",
   "original": "Nuclear explosion (fission) (bash instance)",
   "translation": "Nuclear explosion (fission) (bash instance)",
   "context": "ID: utsuho_nuke5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke5",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "674850c4bbc2b1578f3c69852d1a3057",
   "original": "Nuclear explosion (fission) (glassing)",
   "translation": "Nuclear explosion (fission) (glassing)",
   "context": "ID: utsuho_nuke3_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke3_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke3_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b7d0250cd61dbb706bdf8010f1f734c0",
@@ -5539,7 +5539,7 @@
   "original": "Nìzhuǎn qì (effect)",
   "translation": "Nìzhuǎn qì (effect)",
   "context": "ID: seiga_chireversal2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chireversal2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_chireversal2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0cd3874b559ca0c09850163d362d917a",
@@ -5630,14 +5630,14 @@
   "original": "Overcharge your weapon with expanding wavelengths, causing a short-range blast.  Point-blank targets receive additional damage and are knocked back.",
   "translation": "Overcharge your weapon with expanding wavelengths, causing a short-range blast.  Point-blank targets receive additional damage and are knocked back.",
   "context": "ID: udonge_gunwaveBLAST2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "673079c14776674e1437f30693e3cc1d",
   "original": "Overcharge your weapon with expanding wavelengths, causing a short-range blast.  Point-blank targets receive additional damage and are knocked back.  Requires pistols to cast.",
-  "translation": "Overcharge your weapon with expanding wavelengths, causing a short-range blast.  Point-blank targets receive additional damage and are knocked back.  Requires pistols to cast.",
+  "translation": "用增长的波长对武器进行超负荷充能，造成短程爆发。近距离的目标受到额外伤害并被击退。需要手枪进行施放。",
   "context": "ID: udonge_gunwaveBLAST\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f5d1daf61d746f4af5fbc00f4990618b",
@@ -5663,7 +5663,7 @@
  {
   "key": "e1bf8cb58815d4468baaf107367abe2d",
   "original": "Pass through wall",
-  "translation": "穿越墙壁",
+  "translation": "穿墙虫洞",
   "context": "ID: seiga_wallwalk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_wallwalk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk",
   "stage": 3
  },
@@ -5692,35 +5692,35 @@
   "original": "Physical damage instance for utsuho_nuke ",
   "translation": "Physical damage instance for utsuho_nuke ",
   "context": "ID: utsuho_nuke4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6bdd2d1c9d64c286ec7503e6f255f7a0",
   "original": "Pillar of earthen punishment",
-  "translation": "天罚的石柱",
+  "translation": "地罚的石柱",
   "context": "ID: tenko_keystonepillar\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonepillar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonepillar",
   "stage": 3
  },
  {
   "key": "4152def0b0cc9c7f4753884b4d178b02",
   "original": "Pillar of earthen punishment (dmg)",
-  "translation": "天罚的石柱 (伤害)",
+  "translation": "地罚的石柱 (伤害)",
   "context": "ID: tenko_keystonepillar2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonepillar2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonepillar2",
   "stage": 3
  },
  {
   "key": "ac4b85a906b51121bd9d8703dc6b4d06",
   "original": "Place a curse on the friendly target, increasing its movement speed and physical abilities, at cost of slowly eating their self away.",
-  "translation": "Place a curse on the friendly target, increasing its movement speed and physical abilities, at cost of slowly eating their self away.",
+  "translation": "向友好目标施下诅咒，增加移动速度和身体能力，代价是会缓慢吞噬自己。",
   "context": "ID: seiga_frenzy\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_frenzy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_frenzy",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0c8b29bc69f1361d7c629420ff621b9f",
   "original": "Place a curse on the target, crippling them.  The effect reduces over the duration.",
-  "translation": "Place a curse on the target, crippling them.  The effect reduces over the duration.",
+  "translation": "施下诅咒致残目标。效果随时间降低。",
   "context": "ID: seiga_cripple\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2a4e09130e404ecfc2855bcb10585526",
@@ -5797,7 +5797,7 @@
   "original": "Push effect for tenko_unletting_soil ",
   "translation": "Push effect for tenko_unletting_soil ",
   "context": "ID: tenko_unletting_soil3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ca25d46119de003caa036e43d27b77f",
@@ -6004,9 +6004,9 @@
  {
   "key": "5219e158b4a1bd98684965317f3356a2",
   "original": "Reduce the flow of time inside the affected area.",
-  "translation": "Reduce the flow of time inside the affected area.",
+  "translation": "减缓受影响区域内时间的流动。",
   "context": "ID: sakuya_contraction\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_contraction\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_contraction",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "71d6cf61891af989b2ef22ec50ce0fdc",
@@ -6164,14 +6164,14 @@
   "original": "Replica of utsuho_hellcannon2 casted by mon_utsuho_minisun ",
   "translation": "Replica of utsuho_hellcannon2 casted by mon_utsuho_minisun ",
   "context": "ID: mon_hellcannon_msun2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "188cecc3a6dda6703bfe6d01d18f1041",
   "original": "Replica of utsuho_hellcannon2_unc casted by mon_utsuho_minisun ",
   "translation": "Replica of utsuho_hellcannon2_unc casted by mon_utsuho_minisun ",
   "context": "ID: mon_hellcannon_msun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e0864cdd19264909486fe5e06eaeaec2",
@@ -6190,9 +6190,9 @@
  {
   "key": "74bfba6f85ce4244b32fbf591b5a37a8",
   "original": "Restore the time flow around frozen knives, removing them.",
-  "translation": "Restore the time flow around frozen knives, removing them.",
+  "translation": "恢复冻结飞刀的时间流动，并移除它们。",
   "context": "ID: sakuya_dismiss_knives\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_dismiss_knives\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_dismiss_knives",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9e44c60f203e5c7538cc050c85da66af",
@@ -6414,7 +6414,7 @@
   "original": "Second cripple component for seiga_cripple ",
   "translation": "Second cripple component for seiga_cripple ",
   "context": "ID: seiga_cripple2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6732a3da48dd8c76cc3872f4d11fc1e7",
@@ -6442,7 +6442,7 @@
   "original": "Select an illusion to swap places with.",
   "translation": "Select an illusion to swap places with.",
   "context": "ID: udonge_disbeliefaspect_tp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_disbeliefaspect_tp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_disbeliefaspect_tp",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e01b51cdba5073b75414e6e3b0489aed",
@@ -6566,9 +6566,9 @@
  {
   "key": "636a675afc7b477759d40db5e63085e0",
   "original": "Shoot spheres of chaotic bioelectricity towards your enemies.  Even if they're not really \"alive\" anymore, the electric charge should cause enough havoc to the targets' structure.",
-  "translation": "Shoot spheres of chaotic bioelectricity towards your enemies.  Even if they're not really \"alive\" anymore, the electric charge should cause enough havoc to the targets' structure.",
+  "translation": "向敌人发射混乱生物电球。即使它们不再真正“活着”，电荷对于目标的结构也应该足以是一场浩劫。",
   "context": "ID: seiga_foetusshot\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_foetusshot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_foetusshot",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1f1c895a3a5769fb25e4cd5bcac7c7f1",
@@ -6906,16 +6906,16 @@
  {
   "key": "f8e96e60256ff5fd60339abd2cf37e64",
   "original": "Sprinkle special (read: cursed) water, dealing Water damage to whatever is caught on the wake.",
-  "translation": "溅射出带有诅咒的水流，对水流轨迹上的敌人造成伤害。",
+  "translation": "溅射出写作特别读作诅咒的水流，对水流轨迹上的敌人造成冰冻伤害。",
   "context": "ID: seiga_darksplash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_darksplash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_darksplash",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6c26ae802043cc433dc26f4681e18f6b",
   "original": "Stab the Sword of Hisou into the ground, injecting some temperament and causing the earth to retaliate, dealing damage on the direction of the release, knocking back enemies.",
-  "translation": "Stab the Sword of Hisou into the ground, injecting some temperament and causing the earth to retaliate, dealing damage on the direction of the release, knocking back enemies.",
+  "translation": "将绯想之剑刺入地面，注入一些气质并引发大地的回敬，击退施放方向上的敌人并造成伤害。",
   "context": "ID: tenko_unletting_soil\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "47482625b53e1a4af71ef13c6c1a4fa2",
@@ -6985,7 +6985,7 @@
   "original": "Strong slow component for seiga_cripple ",
   "translation": "Strong slow component for seiga_cripple ",
   "context": "ID: seiga_cripple3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c0edbe05ad77da4d333ab265d7d0f471",
@@ -7048,14 +7048,14 @@
   "original": "Stun component for tenko_unletting_soil . This is a qol buff so the targets don't immediately move again after the knockback",
   "translation": "Stun component for tenko_unletting_soil . This is a qol buff so the targets don't immediately move again after the knockback",
   "context": "ID: tenko_unletting_soil2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "994970611b68bfacfe554631d04f8346",
   "original": "Stun component for udonge_gunwaveBLAST . This is a qol buff so the enemies don't immediately move again towards her",
   "translation": "Stun component for udonge_gunwaveBLAST . This is a qol buff so the enemies don't immediately move again towards her",
   "context": "ID: udonge_gunwaveBLAST4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8331d046a8283a1ed01075049cef71a6",
@@ -7097,21 +7097,21 @@
   "original": "Subterranean geyser (cc)",
   "translation": "Subterranean geyser (cc)",
   "context": "ID: utsuho_ugeyser3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ef0857d090fd9dc7a1be3a45661da6cf",
   "original": "Subterranean geyser (knockback)",
   "translation": "Subterranean geyser (knockback)",
   "context": "ID: utsuho_ugeyser4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ae2879c4698b5147290fbc4e5177ff6",
   "original": "Subterranean geyser (uncontrollable)",
   "translation": "Subterranean geyser (uncontrollable)",
   "context": "ID: utsuho_ugeyser2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser2_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3aeae6f1926be316f2e2ad47cf74f86e",
@@ -7297,9 +7297,9 @@
  {
   "key": "7f13e0ccec5cb515ed0b9f658e328f90",
   "original": "Tamper with the local timeline to summon a parallel \"you\" for a short time.",
-  "translation": "Tamper with the local timeline to summon a parallel \"you\" for a short time.",
+  "translation": "篡改本地的时间线以在召唤一个平行的“你”存在一小段时间。",
   "context": "ID: sakuya_timeparadox\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timeparadox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timeparadox",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7fb73aec0eba65333064e3627d34e28e",
@@ -7707,14 +7707,14 @@
   "original": "This adds the condition for mon_utsuho_minisun to cast the spell",
   "translation": "This adds the condition for mon_utsuho_minisun to cast the spell",
   "context": "ID: hellcannon_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "01a1ed4f4fc4c3d0b32193a0c51106e2",
   "original": "This adds the condition for mon_utsuho_minisun to cast the uncontrollable version of the spell",
   "translation": "This adds the condition for mon_utsuho_minisun to cast the uncontrollable version of the spell",
   "context": "ID: hellcannon_to_mon_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_unc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4593a14fd4ff5768ecf0cec7aac00add",
@@ -7735,7 +7735,7 @@
   "original": "This reduces the condition for mon_utsuho_minisun to cast the spell",
   "translation": "This reduces the condition for mon_utsuho_minisun to cast the spell",
   "context": "ID: hellcannon_to_mon_zero\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_zero\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_zero",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "651b0b97767787c8d74307c77afc5916",
@@ -7768,9 +7768,9 @@
  {
   "key": "21645fdf4277137644e567bbcf8c21fe",
   "original": "Throw a knife and freeze it in space and time, allowing its use as solid platform.  \nWarning: this permanently consumes the item.",
-  "translation": "Throw a knife and freeze it in space and time, allowing its use as solid platform.  \nWarning: this permanently consumes the item.",
+  "translation": "掷出一把刀，冻结它的空间和时间，允许被用作坚固平台。\n注意：这会永久消耗物品。",
   "context": "ID: sakuya_freezeknife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_freezeknife\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_freezeknife",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "116b9d32361118e89243b8b1f1f9e6b4",
@@ -7942,51 +7942,51 @@
  {
   "key": "257303249013dd087dd08a432300a85b",
   "original": "Time manipulation (Quick rest)",
-  "translation": "Time manipulation (Quick rest)",
+  "translation": "时间操纵（快速休息）",
   "context": "ID: sakuya_quickrest\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_quickrest\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_quickrest",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ebf7a313e9164342196f326d64876e4c",
   "original": "Time manipulation (Temporal contraction)",
-  "translation": "Time manipulation (Temporal contraction)",
+  "translation": "时间操纵（收缩）",
   "context": "ID: sakuya_contraction\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_contraction\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_contraction",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a89366d03bad670520287ad44d3c30cc",
   "original": "Time manipulation (Temporal dilation)",
-  "translation": "Time manipulation (Temporal dilation)",
+  "translation": "时间操纵（膨胀）",
   "context": "ID: sakuya_dilation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_dilation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_dilation",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7a22fed6a6467ce1f9b13e5aa8b3ed4b",
   "original": "Time manipulation (Time stop)",
-  "translation": "Time manipulation （Time stop）",
+  "translation": "时间操纵（停止）",
   "context": "ID: sakuya_timestop_wip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_wip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_wip",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "854a610ee672a44e4bb53d9e95334dfd",
   "original": "Time manipulation (Time stop) (freeze component)",
   "translation": "Time manipulation (Time stop) (freeze component)",
   "context": "ID: sakuya_timestop2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "052f107e19340b7bccf7dafa7cce290e",
   "original": "Time manipulation (Time stop) (vfx)",
   "translation": "Time manipulation (Time stop) (vfx)",
   "context": "ID: sakuya_timestop_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_vfx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_vfx",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f7612ed779e8db4fedcfcdc9008913cc",
   "original": "Time paradox",
-  "translation": "Time paradox",
+  "translation": "时间悖论",
   "context": "ID: sakuya_timeparadox\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timeparadox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timeparadox",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a6020cdb3c06cd9f787d918181437486",
@@ -8257,30 +8257,30 @@
  {
   "key": "170cf78adf1ba6b4b1aee38819a3ae5d",
   "original": "Unletting soil",
-  "translation": "Unletting soil",
+  "translation": "不让土壤",
   "context": "ID: tenko_unletting_soil\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9407e7ead51a584aea3110742fbf43d0",
   "original": "Unletting soil (cc)",
   "translation": "Unletting soil (cc)",
   "context": "ID: tenko_unletting_soil2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6b54b9546ebce58855d6ae6247aa6039",
   "original": "Unletting soil (push)",
   "translation": "Unletting soil (push)",
   "context": "ID: tenko_unletting_soil3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d4b08834ed9aa1c7894579b02df81acb",
   "original": "Unletting soil (terrain bash)",
   "translation": "Unletting soil (terrain bash)",
   "context": "ID: tenko_unletting_soil4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_unletting_soil4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7a002ce09e24f8877b37d1a56f6cbb5a",
@@ -8395,9 +8395,9 @@
  {
   "key": "ba2253462abe380e0f252b13a904baaf",
   "original": "Vanishing everything",
-  "translation": "Vanishing everything",
+  "translation": "万物消散",
   "context": "ID: sakuya_vanishingeverything2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_vanishingeverything2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_vanishingeverything2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3805a71d9249b3a2d3514c6abde612dd",
@@ -8451,7 +8451,7 @@
   "original": "Visual effect for sakuya_timestop , so the player is aware the timestop effect is active",
   "translation": "Visual effect for sakuya_timestop , so the player is aware the timestop effect is active",
   "context": "ID: sakuya_timestop_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_vfx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_vfx",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e865703b3d37b90e1298dfe5dd48a4e9",
@@ -8465,7 +8465,7 @@
   "original": "Visual effect for the aoe, so the player is aware of the effect boundary",
   "translation": "Visual effect for the aoe, so the player is aware of the effect boundary",
   "context": "ID: sakuya_maidsecret2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aa3f97dfef52837127bae1f47ed2e9dd",
@@ -8525,37 +8525,37 @@
  {
   "key": "7f50b9ebf8aea80991340a9388cddc6b",
   "original": "Wavelength manipulation (Insight)",
-  "translation": "Wavelength manipulation （Insight）",
+  "translation": "波长操纵（洞察）",
   "context": "ID: udonge_waveinsight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveinsight\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_waveinsight",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a9c30b424489a501b538cd2658ced2c7",
   "original": "Wavelength manipulation (Mental fortitude)",
-  "translation": "Wavelength manipulation （Mental fortitude）",
+  "translation": "波长操纵（坚定）",
   "context": "ID: udonge_wavemfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavemfortitude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_wavemfortitude",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a183074bebd95743a7d6a79704ff13c5",
   "original": "Wavelength manipulation (Perception)",
-  "translation": "Wavelength manipulation （Perception）",
+  "translation": "波长操纵（感知）",
   "context": "ID: udonge_waveperception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveperception\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_waveperception",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "07bc6e4cbf262e86df63545349dda454",
   "original": "Wavelength manipulation (Stealth)",
-  "translation": "Wavelength manipulation （Stealth）",
+  "translation": "波长操纵（隐形）",
   "context": "ID: udonge_wavestealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavestealth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_wavestealth",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2cf1088970defd3ed85cae6889dabc46",
   "original": "Weak slow component for seiga_cripple ",
   "translation": "Weak slow component for seiga_cripple ",
   "context": "ID: seiga_cripple4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_cripple4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_cripple4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9c9ca92b02561ff3b4c72a3db0e81359",
@@ -8822,9 +8822,9 @@
  {
   "key": "3566860700b6b56651e36e60917742a2",
   "original": "You are too mentally exhausted!  You lose focus of the wavelengths.",
-  "translation": "You are too mentally exhausted!  You lose focus of the wavelengths.",
+  "translation": "你的精神过于疲惫！你失去了对于波长的专注。",
   "context": "ID: udonge_wave_oom\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→udonge_wave_oom\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_wave_oom",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "22869071b67d077667adc5e6275f81c5",
@@ -8981,9 +8981,9 @@
  {
   "key": "338aaccf9d74675553ef181109b9a6dd",
   "original": "You don't have any pistols equipped.",
-  "translation": "You don't have any pistols equipped.",
+  "translation": "你没有装备任何手枪。",
   "context": "ID: udonge_gunwaveBLAST_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→udonge_gunwaveBLAST_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_gunwaveBLAST_eoc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9ff2765af26853340b6a31490b252d4b",
@@ -9433,9 +9433,9 @@
  {
   "key": "a8ad86785f54330932ac02ce315024ae",
   "original": "You need a direct connection to the Heavens to summon a crashing keystone.",
-  "translation": "You need a direct connection to the Heavens to summon a crashing keystone.",
+  "translation": "你需要与天界直接联系以召唤冲撞的要石。",
   "context": "ID: tenko_keystonecrash_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→tenko_keystonecrash_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tenko_keystonecrash_eoc",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8082272b592379b007e20b11af0eac1e",
