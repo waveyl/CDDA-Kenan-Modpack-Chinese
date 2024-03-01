@@ -1227,8 +1227,11 @@ ${getItemBrowserLink(fullItem)}`
   translators.damage_info_order = noop;
   translators.monster_flag = noop;
   translators.profession_group = noop;
-  translators.damage_type = namePlDesc;
   translators.proficiency_category = namePlDesc;
+  translators.activity_type = async (item) => {
+    item.verb = await translateFunction(item.verb);
+  };
+  
 
   return translators;
 }
