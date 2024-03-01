@@ -887,70 +887,54 @@ ${getItemBrowserLink(fullItem)}`
       }
     }
   }
-  const EOC = async (item) => {
-    if (item?.condition?.u_query) {
-      item.condition.u_query = await translateFunction(item.condition.u_query);
-    }
-    if (Array.isArray(item.effect)) {
-      for (let effects of item.effect) {
-        if (Array.isArray(effects.names)){
-          effects.names = await Promise.all(effects.names.map((msg) => translateFunction(msg)));
-        }
-        if (Array.isArray(effects.descriptions)){
-          effects.descriptions = await Promise.all(effects.descriptions.map((msg) => translateFunction(msg)));
-        }
-        effects.fail_message = await translateFunction(effects.fail_message);
-        effects.u_message = await translateFunction(effects.u_message);
-        if (effects?.u_cast_spell?.message)
-          effects.u_cast_spell.message = await translateFunction(effects.u_cast_spell.message);
-        if (Array.isArray(effects?.run_eocs)) {
-          for (let run_eocs of effects.run_eocs) {
-            if (Array.isArray(run_eocs?.effect)) {
-              for (let effect of run_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
+  const fieldsToTranslate = [
+    'u_message',
+    'message',
+    'npc_message',
+    'title',
+    'descriptions',
+    'context',
+    'npc_make_sound',
+    'u_make_sound',
+    'success_message',
+    'fail_message',
+    'spawn_message',
+    'spawn_message_plural',
+    'u_query',
+    'npc_query'
+  ];
+  
+  const recursiveTranslate = async (obj) => {
+    for (const key in obj) {
+      if (obj.hasOwnProperty(key)) {
+        const value = obj[key];
+        
+        if (Array.isArray(value)) {
+          // If the value is an array, recursively translate each element
+          obj[key] = await Promise.all(value.map(async (item) => {
+            if (typeof item === 'object' && item !== null) {
+              return recursiveTranslate(item);
+            } else if (typeof item === 'string' && fieldsToTranslate.includes(key)) {
+              return translateFunction(item);
             }
-            if (Array.isArray(run_eocs?.false_effect)) {
-              for (let effect of run_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-          }
-        }
-        if (Array.isArray(effects?.queue_eocs)) {
-          for (let queue_eocs of effects.queue_eocs) {
-            if (Array.isArray(queue_eocs?.effect)) {
-              for (let effect of queue_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-            if (Array.isArray(queue_eocs?.false_effect)) {
-              for (let effect of queue_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-          }
-        }
-      }
-    }
-    if (Array.isArray(item.false_effect)) {
-      for (let false_effects of item.false_effect) {
-        false_effects.u_message = await translateFunction(false_effects.u_message);
-        if (Array.isArray(false_effects?.run_eocs)) {
-          for (let run_eocs of false_effects.run_eocs) {
-            if (Array.isArray(run_eocs?.effect)) {
-              for (let effect of run_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-            if (Array.isArray(run_eocs?.false_effect)) {
-              for (let effect of run_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-          }
-        }
-        if (Array.isArray(false_effects?.queue_eocs)) {
-          for (let queue_eocs of false_effects.queue_eocs) {
-            if (Array.isArray(queue_eocs?.effect)) {
-              for (let effect of queue_eocs.effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-            if (Array.isArray(queue_eocs?.false_effect)) {
-              for (let effect of queue_eocs.false_effect) effect.u_message = await translateFunction(effect.u_message);
-            }
-          }
+            return item;
+          }));
+        } else if (typeof value === 'object' && value !== null) {
+          // Recursively process nested objects
+          obj[key] = await recursiveTranslate(value);
+        } else if (fieldsToTranslate.includes(key) && typeof value === 'string') {
+          // Translate specified text fields using translateFunction
+          obj[key] = await translateFunction(value);
         }
       }
     }
+  
+    return obj;
   };
+  
+  const EOC = async (item) => {
+    await recursiveTranslate(item);
+  }; 
 
   const infoItem = async (item) => {
     // 注意可能有 <good>protection</good> 这样的标记
