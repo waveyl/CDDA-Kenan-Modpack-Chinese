@@ -893,7 +893,6 @@ ${getItemBrowserLink(fullItem)}`
     'npc_message',
     'title',
     'descriptions',
-    'context',
     'npc_make_sound',
     'u_make_sound',
     'success_message',
