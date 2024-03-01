@@ -873,7 +873,20 @@ ${getItemBrowserLink(fullItem)}`
       }
     }
   };
-
+  const weakpoint_set = async(item) =>{
+    for(const weakpoint of item.weakpoints){
+      if (weakpoint.name) {
+        weakpoint.name = await translateFunction(weakpoint.name);
+      }
+      if (weakpoint.effects) {
+        for (const effect of weakpoint.effects) {
+          if (effect.message) {
+            effect.message = await translateFunction(effect.message);
+          }
+        }
+      }
+    }
+  }
   const EOC = async (item) => {
     if (item?.condition?.u_query) {
       item.condition.u_query = await translateFunction(item.condition.u_query);
@@ -1231,6 +1244,7 @@ ${getItemBrowserLink(fullItem)}`
   translators.activity_type = async (item) => {
     item.verb = await translateFunction(item.verb);
   };
+  translators.weakpoint_set = weakpoint_set;
   
 
   return translators;
