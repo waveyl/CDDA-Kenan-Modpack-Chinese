@@ -1222,6 +1222,13 @@ ${getItemBrowserLink(fullItem)}`
   translators.file = noop;
   translators.charge_removal_blacklist = noop;
   translators.harvest_drop_type = noop;
+  translators.vehicle_part_migration = noop;
+  translators.damage_type = namePlDesc;
+  translators.damage_info_order = noop;
+  translators.monster_flag = noop;
+  translators.profession_group = noop;
+  translators.damage_type = namePlDesc;
+  translators.proficiency_category = namePlDesc;
 
   return translators;
 }
