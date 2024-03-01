@@ -291,14 +291,14 @@
   "original": "*…* ",
   "translation": "*…* ",
   "context": "ID: TALK_LIM_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_LIM_RC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LIM_RC",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "336d5ebc5436534e61d16e63ddfca327",
   "original": "-",
   "translation": "-",
   "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TEST_FIND_LC2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ad06ff46f9a01ae85f44f7e8fe3e3286",
@@ -312,7 +312,7 @@
   "original": "...",
   "translation": "…",
   "context": "ID: ACCEPT_QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→ACCEPT_QUEST_LIM_DAUGHTER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ACCEPT_QUEST_LIM_DAUGHTER",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "36cc3bbab7def5f958b9ad827822813d",
@@ -928,6 +928,13 @@
   "original": "Black suits",
   "translation": "Black suits",
   "context": "ID: kr_suit\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_suit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kr_suit",
+  "stage": 1
+ },
+ {
+  "key": "d34cd6feaa2bbe8d65afb51bff39b814",
+  "original": "Blue electricity",
+  "translation": "Blue electricity",
+  "context": "ID: blue_elec\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→blue_elec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blue_elec",
   "stage": 1
  },
  {
@@ -1841,6 +1848,20 @@
   "stage": 1
  },
  {
+  "key": "806d5a6bcfce016e8f2f087892a0a648",
+  "original": "Knowing of Abnoramilties",
+  "translation": "Knowing of Abnoramilties",
+  "context": "ID: prof_abnos\n位于 /Kenan-Structured-Modpack/PM_World/PROFICIENCY/Categories.json\n类型为 proficiency_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→proficiency_category→prof_abnos\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_abnos",
+  "stage": 1
+ },
+ {
+  "key": "b4f17bc06175bc86ec5f2827d56bfc6a",
+  "original": "Knowing of Distortions",
+  "translation": "Knowing of Distortions",
+  "context": "ID: prof_distortion\n位于 /Kenan-Structured-Modpack/PM_World/PROFICIENCY/Categories.json\n类型为 proficiency_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→proficiency_category→prof_distortion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_distortion",
+  "stage": 1
+ },
+ {
   "key": "53e93d055449f9169d3b7fcef958a4f8",
   "original": "Knowledge about this can be useful...",
   "translation": "Knowledge about this can be useful...",
@@ -2464,6 +2485,20 @@
   "stage": 1
  },
  {
+  "key": "94c628f6448d9a4dc3076ea3bfc7b98a",
+  "original": "Purple electricity",
+  "translation": "Purple electricity",
+  "context": "ID: purple_elec\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→purple_elec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=purple_elec",
+  "stage": 1
+ },
+ {
+  "key": "6a75dcf22b3f609ac432cf04e663dab4",
+  "original": "Red electricity",
+  "translation": "Red electricity",
+  "context": "ID: red_elec\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→red_elec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=red_elec",
+  "stage": 1
+ },
+ {
   "key": "329b15d2391e0625e9521fdd6f8d23bc",
   "original": "Risky Dodge",
   "translation": "Risky Dodge",
@@ -2587,6 +2622,13 @@
   "original": "Skin book eff",
   "translation": "Skin book eff",
   "context": "ID: p_marked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_marked\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=p_marked",
+  "stage": 1
+ },
+ {
+  "key": "2f63e74e2609f8b300d776a35aac43a2",
+  "original": "Skin prophet heat",
+  "translation": "Skin prophet heat",
+  "context": "ID: prophet_heat\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→prophet_heat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prophet_heat",
   "stage": 1
  },
  {
@@ -3651,6 +3693,20 @@
   "original": "Your hit will blow away that enemy, no one like him anyway.",
   "translation": "Your hit will blow away that enemy, no one like him anyway.",
   "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ex_force",
+  "stage": 1
+ },
+ {
+  "key": "bd1ecfe1996c9c7a93d7daf23a5d19e4",
+  "original": "Your knowledge of the essence of Abnoramilties and the way to deal with.",
+  "translation": "Your knowledge of the essence of Abnoramilties and the way to deal with.",
+  "context": "ID: prof_abnos\n位于 /Kenan-Structured-Modpack/PM_World/PROFICIENCY/Categories.json\n类型为 proficiency_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→proficiency_category→prof_abnos\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_abnos",
+  "stage": 1
+ },
+ {
+  "key": "8079ef118d73dd1353d7ba7ebbc08e8c",
+  "original": "Your knowledge of the essence of Distortion, understanding of this phenomenon and the way to deal with Distortions.",
+  "translation": "Your knowledge of the essence of Distortion, understanding of this phenomenon and the way to deal with Distortions.",
+  "context": "ID: prof_distortion\n位于 /Kenan-Structured-Modpack/PM_World/PROFICIENCY/Categories.json\n类型为 proficiency_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→proficiency_category→prof_distortion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_distortion",
   "stage": 1
  },
  {
