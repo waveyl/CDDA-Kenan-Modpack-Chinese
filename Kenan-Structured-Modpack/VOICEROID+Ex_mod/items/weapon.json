@@ -49,8 +49,8 @@
     "price": 0,
     "material" : [ "veggy" ],
     "flags": [ "BELTED", "NO_TURRET", "AURA" ],
-    "ammo": [ "NULL" ],
-    "gun_data": { "range": 0, "skill": "archery", "valid_mod_locations": [ [ "underbarrel", 1 ], [ "sights", 1 ], [ "accessories", 2 ], [ "stabilizer", 1 ], [ "dampening", 1 ] ] },
+    "ammo": [ "arrow" ],
+    "gun_data": { "modes": [ [ "DEFAULT", "disassembled", 0, [ "MELEE" ] ] ], "skill": "archery", "valid_mod_locations": [ [ "underbarrel", 1 ], [ "sights", 1 ], [ "accessories", 2 ], [ "stabilizer", 1 ], [ "dampening", 1 ] ] },
     "symbol": "[",
     "color": "green",
     "use_action" : {

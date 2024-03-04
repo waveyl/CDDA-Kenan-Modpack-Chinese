@@ -12,6 +12,12 @@
     "entries": [ { "item": "smart_phone", "ammo-item": "battery", "charges": 120 } ]
   },
   {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "quiver_zunko",
+    "entries": [ { "item": "voiro_arrow_zunda", "count": 5 } ]
+  },
+  {
     "//1": "月読アイ",
     "//2": "ぬいぐるみと絵本で序盤から意欲維持が可能。むしろぬいぐるみを持ち続ける片手縛りプレイが出来る。",
     "//3": "紹介文一行目 - ＡＨＳ公式ＨＰ、キャラクター紹介文より。",
@@ -202,14 +208,14 @@
           "voiro_breastplate_zunko",
           "voiro_aliceband_zunko",
           "voiro_hair_zunko",
-          "voiro_zundamon",
           "mbag",
           "mortar_pestle",
           "water_clean"
         ],
         "entries": [
+          { "item": "Voiro_zunda_arrow", "custom-flags": [ "auto_wield" ] },
           { "group": "charged_smart_phone" },
-          { "item": "quiver", "contents-item": "voiro_arrow_zunda", "count": 3 },
+          { "item": "quiver", "contents-group": "quiver_zunko" },
           { "item": "raw_edamame", "container-item": "can_food" },
           { "item": "voiro_zundamochi", "container-item": "plastic_bag_vac" }
         ]
