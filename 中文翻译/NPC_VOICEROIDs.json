@@ -28,10 +28,23 @@
   "stage": 3
  },
  {
+  "key": "e114e16846a818f80c0e6f731ed94b62",
+  "original": "&(二、三度大きく深呼吸をする)\n「すいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。」",
+  "translation": "&(二、三度大きく深呼吸をする)\n「すいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。」",
+  "context": "ID: TALK_STORY3_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/background_storys_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_IA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_STORY3_IA",
+  "stage": 1
+ },
+ {
+  "key": "70c818e889246bcc021edad5644c6a63",
+  "original": "&必要アイテム一覧\nアルミニウム屑1個\n充電池(小/高容量)1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
+  "translation": "&必要アイテム一覧\nアルミニウム屑1個\n充電池（小/高容量）1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
+  "context": "ID: TALK_MAKING_POIPON_U92\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[18]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_POIPON_U92",
+  "stage": 1
+ },
+ {
   "key": "35440d50fb926f9b937a669b52054a30",
   "original": "*すぅ～* *はぁ～*\nすいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。",
   "translation": "*すぅ～* *はぁ～*\nすいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。",
-  "context": "ID: TALK_STORY3_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/background_storys_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_IA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_STORY3_IA",
   "stage": 1
  },
  {
@@ -89,6 +102,13 @@
   "translation": "<band_talk_answer>",
   "context": "ID: TALK_EAT_ITEMS_+EX\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_eat_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_EAT_ITEMS_+EX",
   "stage": 3
+ },
+ {
+  "key": "1057c10e6c49bad8a407e45181297653",
+  "original": "<color_pink>召喚 - NPC VOICEROIDs</color>",
+  "translation": "<color_pink>召喚 - NPC VOICEROIDs</color>",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→MOD_INFO→[0]\n",
+  "stage": 1
  },
  {
   "key": "6c6c50375c1d8dc584c4456879d9482e",
@@ -1473,7 +1493,6 @@
   "key": "7f8e3559b59033e2ecc2009c9dbe00db",
   "original": "ゆったりと会話する",
   "translation": "ゆったりと会話する",
-  "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_INTERCTION_GENERIC",
   "stage": 1
  },
  {
@@ -1865,7 +1884,7 @@
   "key": "16daec5dd67d75af8b53ee207b6f1db3",
   "original": "会話する",
   "translation": "聊天",
-  "context": "ID: TALK_INTERCTION_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_INTERCTION_YUKARI",
+  "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_INTERCTION_GENERIC",
   "stage": 3
  },
  {
@@ -1956,7 +1975,6 @@
   "key": "111e1a19aa9c959e59418c87253413cc",
   "original": "召喚 - NPC VOICEROIDs",
   "translation": "召唤 - ボイロNPC",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→MOD_INFO→[0]\n",
   "stage": 3
  },
  {
@@ -2117,7 +2135,6 @@
   "key": "b260d177a4b788483b6c297a3205a94b",
   "original": "必要アイテム一覧\nアルミニウム屑1個\n充電池(小/高容量)1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
   "translation": "必要アイテム一覧\nアルミニウム屑1個\n充電池（小/高容量）1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
-  "context": "ID: TALK_MAKING_POIPON_U92\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[18]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_POIPON_U92",
   "stage": 1
  },
  {
@@ -2195,6 +2212,20 @@
   "original": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、花が咲くような笑顔で食事しています。",
   "translation": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、花が咲くような笑顔で食事しています。",
   "context": "ID: lovers_photo_akari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_akari\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_akari",
+  "stage": 1
+ },
+ {
+  "key": "2aa48ad2c5dab0fc0c231d45a779f4b8",
+  "original": "恋人と一緒に撮影した思い出の写真です。写真の中の恋人は、穏やかな表情でピースサインをしています。",
+  "translation": "恋人と一緒に撮影した思い出の写真です。写真の中の恋人は、穏やかな表情でピースサインをしています。",
+  "context": "ID: lovers_photo_voiro\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_voiro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_voiro",
+  "stage": 1
+ },
+ {
+  "key": "0d1be560790062d176af42fa21838e73",
+  "original": "恋人の写真",
+  "translation": "恋人の写真",
+  "context": "ID: lovers_photo_voiro\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_voiro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_voiro",
   "stage": 1
  },
  {
