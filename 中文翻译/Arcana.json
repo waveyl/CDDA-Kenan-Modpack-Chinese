@@ -204,9 +204,9 @@
  {
   "key": "c0e5951505f768ecaa01819f45c6bac0",
   "original": "\"By order, we ascend beyond that of animals.\"  A wave of energy radiates outwards, fragments of otherworldly perspectives flooding your mind in the process!",
-  "translation": "“因为秩序，我们拥有了超越生物的能力。”能量如浪潮般向外辐射，在这个过程中，超自然的思维充斥着你的脑海！",
+  "translation": "“因为秩序，我们拥有了超越生物的能力。”能量如浪潮般向外辐射，在这个过程中，异界的思维充斥着你的脑海！",
   "context": "ID: arcana_item_scroll_artifice\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_scroll_artifice\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_scroll_artifice",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "44b9c7411870a7b980eec1c44ced8438",
@@ -10042,9 +10042,9 @@
  {
   "key": "ea71b41d11b12729a25ac093cad7143a",
   "original": "Ensnares and poisons a single target, half the effect of item version.",
-  "translation": "诱捕并毒害一个目标，物品版本效果的一半。",
+  "translation": "笼罩并毒害一个目标，效果为物品版本的一半。",
   "context": "ID: arcana_trap_lichhook\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_lichhook\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_lichhook",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "11ceabc167e1c35e6bf71f58fbb343c8",
@@ -10286,8 +10286,8 @@
  {
   "key": "2670ceb0513e14d8ecfb98213d78caff",
   "original": "Extra damage for every vanilla monster with SUNDEATH, and every summoned monster based off such creatures.",
-  "translation": "对每一个拥有SUNDEATH的香草怪物和每一个基于此类生物召唤的怪物造成额外伤害。",
-  "stage": 0
+  "translation": "对所有拥有 SUNDEATH 特性的普通怪物和基于此类生物召唤的怪物造成额外伤害。",
+  "stage": 1
  },
  {
   "key": "f0b997b1278fbe377f5f28f9b11c091b",
@@ -10654,9 +10654,9 @@
  {
   "key": "c19e9eb9efcd70d13641987bc22cc07a",
   "original": "Fire damage and dazing for anything in the AoE, except the user.",
-  "translation": "对AoE中的任何东西造成火焰伤害和晕眩，除了用户。",
+  "translation": "对AoE范围内的所有物体造成火焰伤害和晕眩，施放者除外。",
   "context": "ID: arcana_item_hammerzeit_greater_attack_1\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_hammerzeit_greater_attack_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_hammerzeit_greater_attack_1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a39d83d4cd76be90d509f07633acb9f0",
@@ -10688,16 +10688,16 @@
  {
   "key": "daf4fbc5bce4e725063c547fee0aa8b8",
   "original": "Flashbang effect comparable to the hammer of the hunter, but weaker.",
-  "translation": "闪光弹效果堪比猎人之锤，但更弱。",
+  "translation": "闪光弹效果与猎人之锤类似，但较弱一些。",
   "context": "ID: arcana_trap_hexenhammer\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_hexenhammer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_hexenhammer",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7b82ddbf1301b3431d15710be90f9ea5",
   "original": "Flashbang on user, blinding anyone nearby, and bonus damage to anyone else in AoE.",
-  "translation": "闪击用户，使附近任何人失明，并对AoE中的任何其他人造成额外伤害。",
+  "translation": "释放一枚闪光弹，致盲附近的任何生物，并对 AoE 范围内的其他物体造成额外伤害。",
   "context": "ID: arcana_item_hammerzeit_greater\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_hammerzeit_greater\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_hammerzeit_greater",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5324c31bb68da6a8f7d670096cc04ca1",
@@ -10716,9 +10716,9 @@
  {
   "key": "01b4c7af6a9b6e4935bf085dcfc309fe",
   "original": "Flowing venom slithers forth!",
-  "translation": "流动的毒液向前滑动！",
+  "translation": "流淌的毒液喷涌而出！",
   "context": "ID: arcana_trap_armor_wyrm\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_trap_armor_wyrm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_trap_armor_wyrm",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "df3e60b7b3bfa8f798368e110e1dcf4f",
@@ -11117,9 +11117,9 @@
  {
   "key": "f8fdc5bd36efb2f3075723586510eb0d",
   "original": "Good, that narrows it down.  They're a division of the Order responsible for this nonsense about what they called the Dragonnblood Sacrament.  Dragged half the other magi into that tangle and cost us our best-defended safehouse.  Not many sects dabbling in mutation survived this long.  Try the phrase, \"The moonlit sky anoints the worthy, who seek The Path home.\"  It's an old pass phrase, but to my knowledge it was still in use up until they lost the hideout. That might give them pause long enough to catch them off guard.",
-  "translation": "很好，这就缩小了范围。他们是圣职会的一个分支，对他们所谓的龙血圣礼负有责任。把另外一半的三博士拖进了那场混乱，我们失去了最好的安全屋。没有多少涉足变异的教派存活了这么长时间。试试这句话，“月光下的天空为有价值的人涂油，他们寻找回家的路。”这是一句古老的口头禅，但据我所知，直到他们失去了藏身之处，这句口头禅还在使用。这可能会让他们停顿足够长的时间，让他们措手不及。",
+  "translation": "很好，范围缩小了 。他们是圣职会的一个分支，负责制造所谓的龙血圣礼的谣言。把其他一半的魔法师都卷入了这场纠葛，让我们失去了防守最严密的安全屋。 没有几个涉足变异的教派能存活这么久。 试试那句\"月光照耀着寻找回家之路的人们。\" 这是句很老的密语，但据我所知，直到他们失去藏身之处之前，这句话仍在使用。 这可能会让他们停顿足够长的时间，并使他们措手不及。",
   "context": "ID: TALK_SHRIKE_MERCHANT_GM_3_SECT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_SHRIKE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_SHRIKE_MERCHANT_GM_3_SECT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SHRIKE_MERCHANT_GM_3_SECT",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "324b00e392ecba80c9770c0d9a8ac9dd",
@@ -11776,8 +11776,8 @@
  {
   "key": "15709293b94e82d079cfbd435eacd23c",
   "original": "Heavy fingerless plate gauntlets, decorated with silver and leaving the user free to wear them even if they have claws or other mutations, or over gloves.  Touching the bare metal sends a faint electric tingle through you.  Use them to give a nearby enemy a powerful stunning jolt, draining health from your target.  It can also be used to place a rune that will blast an area with lightning if something steps on it.",
-  "translation": "沉重的无指板手套，饰以银色，即使使用者有爪子或其他变异，或戴在手套上，也可以自由佩戴。触摸裸露的金属会给你带来微弱的刺痛感。使用它们给附近的敌人一个强大的眩晕震动，消耗目标的生命值。它也可以用来放置一个符文，如果有什么东西踩到它，它会用闪电炸开一个区域。",
-  "stage": 0
+  "translation": "厚重的无指板铠，饰有银饰，即使使用者有爪子或其他变异，也可以自由穿戴，或者套在手套外面。 触摸裸露的金属会有微弱的电流刺痛感。 使用它可以给附近的敌人带来强烈的震撼效果，使目标失去生命值。 它还可以用来放置一个符文，如果有东西踩在上面，该符文就会发出闪电。",
+  "stage": 1
  },
  {
   "key": "d44bcd3309b94cbed652a95533537757",
@@ -13229,16 +13229,16 @@
  {
   "key": "b40599d8f45514f70057221596d4a183",
   "original": "I like the way you think.  Small problem, killing's not over yet is it?  You came here with talk of setting things right, and yet you're here for blood.  I suppose the magus saying their way's the right way to fix things is just as foolish.  Fine, let's see where this goes.",
-  "translation": "我喜欢你的想法。小问题，杀戮还没结束吧？你来这里是为了纠正错误，但你来这里是为了流血。我想法师们说他们的方法是解决问题的正确方法也是愚蠢的。好吧，让我们看看会发生什么。",
+  "translation": "我喜欢你的想法 。小问题，杀戮还没结束，不是吗？你来的时候说是为了解决问题，但现在你却在这里制造流血。  我想，法师说他们的方法才是解决问题的正确方法也同样愚蠢。好吧，让我们拭目以待吧。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_CONVINCE_BASIC\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_CONVINCE_BASIC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BLOOD_MAGE_SHRIKE_ROGUE_CONVINCE_BASIC",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "24ce2356dff673b18fe1fded024b97ad",
   "original": "I may have followed the same path as them, but I was not one of them.",
-  "translation": "我可能和他们走的是同一条路，但我不是他们中的一员。",
+  "translation": "也许我和他们走的是同一条路，但我不是他们中的一员。",
   "context": "ID: TALK_HERMIT_DISCUSS_1_HAPPENED\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_1_HAPPENED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_DISCUSS_1_HAPPENED",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ff3c6659eebe0bb5b4d36a12a4a8fa30",
@@ -14467,9 +14467,9 @@
  {
   "key": "f12a4a9fb7506a1e895c48c6c390e7cf",
   "original": "I'm afraid I don't have a copy of that book on hand.  I can offer you what advise I can in finding one though.  If you encounter any of their hideouts, whether hidden away in the city or far from civilization, be extremely cautious.  The text also sometimes has a habit of finding its way into the hands of wealthy collectors, and undead of unusual nature may hint at long-dead arcanists still cling to their tomes.",
-  "translation": "恐怕我手边没有那本书。不过，我可以为你提供我能提供的建议。如果你遇到他们的任何藏身之处，无论是隐藏在城市里还是远离文明，都要格外小心。这本书有时也习惯于落入富有收藏家的手中，具有不同寻常性质的不死生物可能暗示着早已死去的奥术主义者仍然坚持着他们的大部头。",
+  "translation": "恐怕我手头没有这本书。 不过我可以为你提供一些建议，帮助你找到那本书。 如果你遇到他们的藏身之处，无论是藏在城市里还是远离文明的地方，都要格外小心。 这些书本有时也会落入富有的收藏家手中，而不寻常的亡灵可能暗示着死去已久的奥术师仍在留恋他们的典籍。",
   "context": "ID: TALK_HERMIT_QUEST_HELP_1_SANGUINE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_QUEST_HELP_1_SANGUINE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_QUEST_HELP_1_SANGUINE",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c7526be1b178e2c922db53f8092f8d42",
@@ -14502,9 +14502,9 @@
  {
   "key": "ebbccad2bcabeb98705d7a6266db2f3b",
   "original": "I'm afraid at my age, all I can manage is to study the Beyond and tend to my books.  They are correct to send you however, as I do have what they seek preserved in clay, to better preserve it.  I'm afraid that is all I can do for the people who sent you.  It's in the safe, here.",
-  "translation": "恐怕在我这个年纪，我所能做的就是研究《超越》和照看我的书。他们送你是正确的，但是，因为我有他们寻求保存在粘土，以更好地保存它。恐怕我只能为派你来的人做这些了。在保险箱里，这里。",
+  "translation": "恐怕到了我这个年纪，我所能做的就是研究超越和打理我的书籍。 不过，他们派你来是正确的，因为我确实把他们要找的东西保存在粘土里，以便更好地保存。 恐怕我只能为派你来的人做这些了。 它在这里的保险箱里。",
   "context": "ID: TALK_HERMIT_CF_REP_MISSION_BASIC\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_CF_REP_MISSION_BASIC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_CF_REP_MISSION_BASIC",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "687d6a80aa665e44b5f07743b7dc4d3f",
@@ -14620,9 +14620,9 @@
  {
   "key": "54cc58285654b623a8053c469f65f173",
   "original": "I'm just a survivor, these days.",
-  "translation": "这些天我只是个幸存者。",
+  "translation": "如今，我只是一个幸存者。",
   "context": "ID: TALK_HERMIT_BOOK_RELIGIOUS_CLEANSINGFLAME\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_BOOK_RELIGIOUS_CLEANSINGFLAME\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_BOOK_RELIGIOUS_CLEANSINGFLAME",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c154dfcab9c3d5504c2391f4e25d8fed",
@@ -15210,9 +15210,9 @@
  {
   "key": "b2d0902c7a998fe57947eb677a5aeb0c",
   "original": "If you insist.  You need only ask at any time, and I will reach out as best as I can.  As for that, I have been writing down my own observations and research in clay.  More readily available out here than paper, and more permanent.  I hoped that, should my life's work find me lacking, another would find some use for it someday.  Now that day has come.  It's in the safe, here.",
-  "translation": "如果你坚持。你只需要在任何时候问，我会尽我所能伸出援助之手。至于这一点，我一直在用粘土写下自己的观察和研究。比纸更容易得到，也更持久。我希望，如果我一生的工作发现我有所欠缺，总有一天另一个人会发现它的用处。现在那一天已经到来。在保险箱里，这里。",
+  "translation": "如果你坚持。 您只需随时提出要求，我都会尽力而为。 至于那个，我一直在用粘土写下自己的观察和研究。 粘土在这里比纸更容易获得，也能保存的更久。 我希望，如果有一天我的毕生心血付诸东流，也会有另一个人发现它的用武之地。现在，这一天终于到来了。 它在这里的保险箱里。",
   "context": "ID: TALK_HERMIT_CF_REP_MISSION_ALLIES_DEFERRED\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_CF_REP_MISSION_ALLIES_DEFERRED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HERMIT_CF_REP_MISSION_ALLIES_DEFERRED",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b00f0245fe080a842adaf904e57b961f",
@@ -15507,9 +15507,9 @@
  {
   "key": "6c2efb094d35bc72f8b13d4a1a0cda0d",
   "original": "Indeed.  There are still concerns that the fabric of The Veil may still be unstable and vulnerable to new anomalies, and the potential for otherworldly monsters being attracted to this place.  Same method by which we safeguarded our sanctums, until most of them were overwhelmed the day everything boiled over.",
-  "translation": "确实如此。人们仍然担心面纱的结构可能仍然不稳定，容易受到新的异常现象的影响，以及超凡脱俗的怪物被吸引到这个地方的可能性。同样的方法，我们保护我们的圣地，直到他们中的大多数被淹没的一天，一切都沸腾了。",
+  "translation": "确实如此。 人们仍然担心面纱的结构可能依旧不稳定，容易受到新的异常现象的影响，以及其他世界的怪物被吸引到这里来的可能性。 我们也是用同样的方法来保护我们的圣殿的，直到大部分圣殿在一切沸腾的那天被淹没。",
   "context": "ID: TALK_CF_REP_MISSION_1_HOW_KNOWN\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_MISSION_1_HOW_KNOWN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_MISSION_1_HOW_KNOWN",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fdf599874d423b95a3fdd34cd88516e6",
@@ -15916,9 +15916,9 @@
  {
   "key": "7bcd3e8df450d8a46dd5e7fc3b9605b1",
   "original": "Is it not according to your nature, to use what you have learned to protect others?  The people here are on a path of self-destruction, we could be working together to protect all of humanity.",
-  "translation": "难道不是按照你的本性，用你所学去保护别人吗？这里的人们正走在自我毁灭的道路上，我们可以一起努力保护全人类。",
+  "translation": "用你所学的去保护他人难道不是你想要的吗？ 这里的人们正走在自我毁灭的道路上，我们可以共同努力保护全人类。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_LANIUS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_LANIUS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BLOOD_MAGE_SHRIKE_ROGUE_LANIUS",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dbbb06a13410c29de360c9d1f83f8190",
@@ -16125,9 +16125,9 @@
  {
   "key": "c614d4524d79bde7b6345b94a564490e",
   "original": "It wasn't anything supernatural, of that much we're certain.  The Order had its suspicions that trouble was brewing, and we've been preparing for decades.  All the better to adapt and survive.  Still caught us a bit off-guard all the same, you don't just wake up one day and say \"today is the day it finally happens\" or anything like that.",
-  "translation": "这不是什么超自然现象，我们可以肯定的是。骑士团怀疑麻烦正在酝酿，我们已经准备了几十年。更好地适应和生存。还是让我们有点措手不及，你不会只是某天醒来说“今天是它最终发生的一天”之类的话。",
+  "translation": "这不是什么超自然现象，这一点我们很确定。 骑士团怀疑麻烦正在酝酿，而我们已经为了更好地适应和生存准备了几十年了 。但这还是让我们有点措手不及，你不可能一觉醒来就说 \"今天，这一切终于发生了\"之类的话。",
   "context": "ID: BGSS_BLOOD_MAGE_2_IDEAS1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_BLOOD_MAGE_2_IDEAS1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_BLOOD_MAGE_2_IDEAS1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2061a9db03e513475d305376d6d5899f",
@@ -16193,16 +16193,16 @@
  {
   "key": "4876f2d881fd2c3611e0fecd91f07ec7",
   "original": "It's a protective spell, I'm guessing?",
-  "translation": "我猜这是一个保护咒？",
+  "translation": "我猜这是一种保护咒语？",
   "context": "ID: TALK_CF_REP_MISSION_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_MISSION_1",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c104ae7435284b50b593121b0452507f",
   "original": "It's a ritual to protect this location.  I would hope that you've gained some familiarity with the strange beasts and otherworldly phenomenon.  I suspect it would also be useful to you, to go hunting for creatures of this sort to see for yourself how abnormal things have become, and adding a personal touch to this component would also be a useful learning experience of its own.",
-  "translation": "保护这个地方是一种仪式。我希望你已经对奇怪的野兽和超凡脱俗的现象有所了解。我怀疑这对你也是有用的，去寻找这种生物，亲眼看看事情变得多么不正常，给这个组件增加一点个人色彩也是一种有益的学习体验。",
+  "translation": "这是用来保护这个地方的仪式 。我希望你已经对奇怪的野兽和超自然现象有了一定的了解。 我想这对你也会有帮助，你可以去猎杀这类生物，亲眼看看事情变得有多不正常，为这部分内容增添个人色彩本身也是一种有益的学习体验。",
   "context": "ID: TALK_CF_REP_MISSION_1_HOW\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_MISSION_1_HOW\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_MISSION_1_HOW",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b6e2688f9b9fde7253f1614a3430f7d6",
@@ -16351,9 +16351,9 @@
  {
   "key": "5c60a377e4a1209f6a61ebe5f6aab318",
   "original": "It's not right.  If we're tearing each other to pieces while the world is like this, we're all fucked.  We could be working together.",
-  "translation": "这是不对的。如果我们在这个世界上把对方撕成碎片，我们都完了。我们可以一起工作。",
+  "translation": "这是不对的。如果世界都变成这样了，我们却还想着自相残杀，那我们就都完蛋了 。我们可以合作。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_ELENA\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_ELENA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_BLOOD_MAGE_SHRIKE_ROGUE_ELENA",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "32d77dc59198c4e8e4d3855382ff4793",
@@ -16420,9 +16420,9 @@
  {
   "key": "a07eb56e432cda43c19ff9c18fffb426",
   "original": "Johnathan said they were one of the transhumanist sects.",
-  "translation": "约翰纳森说他们是一个跨人文主义教派。",
+  "translation": "乔纳森说他们是超人类主义教派之一。",
   "context": "ID: TALK_SHRIKE_MERCHANT_GM_3_CHANCE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_SHRIKE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_SHRIKE_MERCHANT_GM_3_CHANCE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_SHRIKE_MERCHANT_GM_3_CHANCE",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fd410853a5628fdda0d8e65cd12cff99",
@@ -17097,9 +17097,9 @@
  {
   "key": "df6bc0755e5b88f107ae74a90eafa898",
   "original": "Luminous Wrath",
-  "translation": "明亮的愤怒",
+  "translation": "耀光之怒",
   "context": "ID: arcana_item_hammerzeit_greater\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_hammerzeit_greater\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_item_hammerzeit_greater",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dcabacb085b5e1772fca9e9368127708",

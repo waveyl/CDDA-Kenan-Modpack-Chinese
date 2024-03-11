@@ -1817,8 +1817,8 @@
  {
   "key": "7793e7037e0be5ef052c01803b8c02d8",
   "original": "<color_yellow>%1$s launches its tongue at %3$s and pulls them in!</color>",
-  "translation": "<color_yellow>%1$s在%3$s发射它的舌头并把它们拉进来！</color>",
-  "stage": 0
+  "translation": "<color_yellow>%1$s将舌头伸向了 %3$s 并把它拉了过来！</color>",
+  "stage": 1
  },
  {
   "key": "76db4feae6e8260a9ead74f7e1e12d97",
@@ -6405,9 +6405,9 @@
  {
   "key": "27c164775cc9b42f1a35956af080f7a4",
   "original": "Misty black shadow that covers over a great distance. A shady winged creature is barely visible from beyond it.",
-  "translation": "浓雾般的黑色阴影覆盖了很远的距离。从远处几乎看不到一只长着翅膀的阴影生物。",
+  "translation": "浓雾般的黑色阴影覆盖延伸出了很远的距离。从远处勉强可以看到一只长着翅膀的阴影生物。",
   "context": "ID: mon_zombie_nightwail\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Lying.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nightwail\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_nightwail",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5687ee02f0c1dea87ce4b0505d03f462",
@@ -6829,7 +6829,7 @@
   "key": "393c3f5ea8ad35c02691d507bdbb31b0",
   "original": "Reveal",
   "translation": "揭示",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bc6a7fe0847c4237693dee6442bc7d17",
@@ -7506,16 +7506,16 @@
  {
   "key": "9892e373f87704fb74070e10d9adeb65",
   "original": "Spawn Parasytes",
-  "translation": "繁殖副细胞",
+  "translation": "生成寄生虫",
   "context": "ID: mon_sflesh_sack_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_sack_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_sack_death",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3581fde8ba4b67c5e593d3dbf8231631",
   "original": "Spawn Takens",
-  "translation": "产卵塔肯",
+  "translation": "生成塔肯斯",
   "context": "ID: mon_sflesh_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_sflesh_death",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c7359eeaca4b19723132339a8deade87",
@@ -7527,9 +7527,9 @@
  {
   "key": "a50efb9122cc6cb7583070a3aa6c0e14",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'1/2 chance for the caster to return to its normal stance.'",
-  "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者有1/2的机会回到正常姿势。”",
+  "translation": "由怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者有1/2的机会回到正常姿势。”",
   "context": "ID: mon_zombie_titan_charging_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_titan_charging_stop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_titan_charging_stop",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "00ca36a5f62ed78664cb530975bf6a5a",
@@ -7554,9 +7554,9 @@
  {
   "key": "75671b29b77dfd9d56cae953d38c7658",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'1/3 chance for the caster to return to its normal stance.'",
-  "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者有1/3的机会回到正常姿势。”",
+  "translation": "由怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者有1/3的机会回到正常姿势。”",
   "context": "ID: mon_zombie_blacktitan_charging_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_blacktitan_charging_stop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_blacktitan_charging_stop",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "be64f11edf4a5e4cde9c35953acb214d",
@@ -7742,16 +7742,16 @@
  {
   "key": "88f7848308941d64935db00a4a8bc868",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster blocks with both hands, gaining bonus defense but can't perform basic attacks and has their speed greatly reduced.'",
-  "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者双手阻挡，获得额外防御，但不能进行基本攻击，速度大大降低。”",
+  "translation": "由怪物施放的法术。如果你看到了这个，那就改读这一条：\n“施法者用双手格挡，获得防御加成，但无法进行基本攻击，速度也会大大降低。”",
   "context": "ID: mon_zombie_titan_startcharge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_titan_startcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_titan_startcharge",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bb51aa44d0a57056d70c99d5a4dfb1ba",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster blocks with both hands, gaining great bonus defense but can't perform basic attacks and has their speed greatly reduced.'",
-  "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者双手格挡，获得很大的额外防御，但是不能进行基本攻击，并且速度大大降低。”",
+  "translation": "由怪物施放的法术。如果你看到了这个，那就改读这一条：\n“施法者用双手格挡，获得极大的防御加成，但无法进行基本攻击，速度也会大大降低。”",
   "context": "ID: mon_zombie_blacktitan_startcharge\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_blacktitan_startcharge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_blacktitan_startcharge",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "47eff09548fefeafc712b7b9571cdb64",
@@ -11126,7 +11126,7 @@
   "original": "The shadow vanishes away!",
   "translation": "阴影消失了！",
   "context": "ID: nightwail_shadow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→nightwail_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nightwail_shadow",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "13dcb8b88d41e31513be0e3c1d2dbce9",
@@ -11232,9 +11232,9 @@
  {
   "key": "8a81c8a29b01004ac53e3778aaea9d37",
   "original": "The thick shadow disperses!",
-  "translation": "浓浓的阴影散去了！",
+  "translation": "浓重的阴影散去了！",
   "context": "ID: nightwail_shadow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→nightwail_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nightwail_shadow",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8d1847879e46511cc469991a48f15f59",
@@ -11417,7 +11417,7 @@
   "original": "Thick shadow lingers around your body.",
   "translation": "浓重的阴影萦绕在你的身体周围。",
   "context": "ID: nightwail_shadow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→nightwail_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nightwail_shadow",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b057546b71319d31700ce35371c4e7da",
@@ -12086,7 +12086,7 @@
  {
   "key": "58aa92e0c53f13ca9e32efb623f85cad",
   "original": "Wraith Death",
-  "translation": "幽灵之死",
+  "translation": "",
   "context": "ID: mon_zombie_tentawraith_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tentawraith_death\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_tentawraith_death",
   "stage": 0
  },
@@ -12482,9 +12482,9 @@
  {
   "key": "2dd40ceaa0fcb5896f222b8f3e63cbc6",
   "original": "You've been enshrouded in shadows!",
-  "translation": "你被藏在阴影里了！",
+  "translation": "你一直被笼罩在阴影之中！",
   "context": "ID: nightwail_shadow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→nightwail_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nightwail_shadow",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "26d2d90c750892ffd47021686f45dd05",

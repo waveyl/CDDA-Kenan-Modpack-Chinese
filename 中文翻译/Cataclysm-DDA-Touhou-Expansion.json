@@ -560,7 +560,7 @@
   "key": "dfd74d272308c564155fd71999a2fedf",
   "original": "*snuffling noise*",
   "translation": "*擤鼻涕声*",
-  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_thylacine_pup→108\n",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→speech→mon_thylacine→108\n",
   "stage": 3
  },
  {
@@ -1455,8 +1455,14 @@
   "key": "42c099a3b5a58760fa30841dd114be68",
   "original": "A black patch of… darkness? It has a vaguely human shape, much taller than one and fuzzy on the edges.  There are no perceible details, it is as if the shadow swallowed light.",
   "translation": "一片黑色的...黑暗？它是一个模糊的人形但是要高上许多，它的轮廓并不是很清晰，看不见一点细节，就像黑暗吞没了光明",
-  "context": "ID: mon_mib_shadow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib_shadow",
   "stage": 3
+ },
+ {
+  "key": "9aabbe2f6411136781f898ddedd46804",
+  "original": "A black patch of… darkness? It has a vaguely human shape, much taller than one and fuzzy on the edges.  There are no perceible details, it is as if the shadow swallows light around its space.",
+  "translation": "A black patch of… darkness? It has a vaguely human shape, much taller than one and fuzzy on the edges.  There are no perceible details, it is as if the shadow swallows light around its space.",
+  "context": "ID: mon_mib_shadow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_shadow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib_shadow",
+  "stage": 1
  },
  {
   "key": "c7b98c320464db8ba13c46a0831a28a8",
@@ -2400,7 +2406,13 @@
   "key": "c39272dd96bc46ca9e4f257bc8b50d75",
   "original": "A not so cute Daedon piglet.  Similar enough to an adult, these are darker with brown patches towards each limb.",
   "translation": "A not so cute Daedon piglet.  Similar enough to an adult, these are darker with brown patches towards each limb.",
-  "context": "ID: mon_daedon_piglet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daedon_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daedon_piglet",
+  "stage": 1
+ },
+ {
+  "key": "e5e6f7361b274e0c050b7bedea72fc78",
+  "original": "A not so cute Daeodon piglet.  Similar enough to an adult, these are darker with brown patches towards each limb.",
+  "translation": "A not so cute Daeodon piglet.  Similar enough to an adult, these are darker with brown patches towards each limb.",
+  "context": "ID: mon_daeodon_piglet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daeodon_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daeodon_piglet",
   "stage": 1
  },
  {
@@ -3436,7 +3448,7 @@
   "key": "1f8815cf35cee0a604bdd2b48f707545",
   "original": "Also known as \"Hell pig\", this bison imitation is as tall as an adult human, if not taller.  The snout is similar to a bear's, packing wild boar tusks that are not only for display as it is large enough to chomp your entire arm sideways, with space left.  Some individuals have white marks on their faces, as if they were aware skull motiffs on angry dudes is an effective tactic to keep weaker things away.",
   "translation": "Also known as \"Hell pig\", this bison imitation is as tall as an adult human, if not taller.  The snout is similar to a bear's, packing wild boar tusks that are not only for display as it is large enough to chomp your entire arm sideways, with space left.  Some individuals have white marks on their faces, as if they were aware skull motiffs on angry dudes is an effective tactic to keep weaker things away.",
-  "context": "ID: mon_daedon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daedon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daedon",
+  "context": "ID: mon_daeodon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daeodon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daeodon",
   "stage": 1
  },
  {
@@ -3790,6 +3802,13 @@
   "stage": 1
  },
  {
+  "key": "7c712f0f0479c5e7ce1182ef01cde103",
+  "original": "An unnatural abomination.  A very large, clawed rabbit, it's angry, very angry.",
+  "translation": "An unnatural abomination.  A very large, clawed rabbit, it's angry, very angry.",
+  "context": "ID: mon_skinwalker_rabbit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_skinwalker_rabbit",
+  "stage": 1
+ },
+ {
   "key": "66a8235ef06f6847091bd61b51a2082b",
   "original": "An unnatural beast.  Vaguely shaped like a human walking on all fours, the face is covered, no, fused to an animal's skull, with twig-like black horns growing from the back, and locked on a semi-closed position.  The bizarrely long, thin limbs end with large, equally thin clawed extremities.  The arched back forces the head downwards, and is covered by what look like black twigs.",
   "translation": "An unnatural beast.  Vaguely shaped like a human walking on all fours, the face is covered, no, fused to an animal's skull, with twig-like black horns growing from the back, and locked on a semi-closed position.  The bizarrely long, thin limbs end with large, equally thin clawed extremities.  The arched back forces the head downwards, and is covered by what look like black twigs.",
@@ -3895,6 +3914,41 @@
   "stage": 1
  },
  {
+  "key": "370af44446e6cb7d1da68a8b38a27f73",
+  "original": "Basic familiarity with eurypterids and their variations.",
+  "translation": "Basic familiarity with eurypterids and their variations.",
+  "context": "ID: prof_wp_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_eurypterid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_eurypterid",
+  "stage": 1
+ },
+ {
+  "key": "e3ab637f3c7f66ce056e393912522246",
+  "original": "Basic familiarity with fairy biology, and their variations.",
+  "translation": "Basic familiarity with fairy biology, and their variations.",
+  "context": "ID: prof_wp_fairy\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_fairy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_fairy",
+  "stage": 1
+ },
+ {
+  "key": "1f93b00b28c0adb4aef79c07547f1bd1",
+  "original": "Basic familiarity with general youkai… anatomy?",
+  "translation": "Basic familiarity with general youkai… anatomy?",
+  "context": "ID: prof_wp_youkai\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_youkai\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_youkai",
+  "stage": 1
+ },
+ {
+  "key": "8510d0943649369153edfec93dcd1f7c",
+  "original": "Basic familiarity with ghost and related entities… bodies?",
+  "translation": "Basic familiarity with ghost and related entities… bodies?",
+  "context": "ID: prof_wp_ghost\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_ghost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_ghost",
+  "stage": 1
+ },
+ {
+  "key": "b4e02f503f904766aa9bc98f16dbd4ff",
+  "original": "Basic familiarity with various types of ancient invertebrates.",
+  "translation": "Basic familiarity with various types of ancient invertebrates.",
+  "context": "ID: prof_wp_basic_bug_ancient\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_basic_bug_ancient\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_basic_bug_ancient",
+  "stage": 1
+ },
+ {
   "key": "5e2b9a3190ed1e56f520927d1096aa71",
   "original": "Bayou style fried shrimp",
   "translation": "Bayou style fried shrimp",
@@ -3969,6 +4023,13 @@
   "original": "Bright web from the dark cave",
   "translation": "昏暗洞窟中明亮的网",
   "stage": 3
+ },
+ {
+  "key": "0ee33d000a8286d6281bd7374221c2f8",
+  "original": "Broken endoskeleton",
+  "translation": "Broken endoskeleton",
+  "context": "ID: frame_breakthrough\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→frame_breakthrough\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frame_breakthrough",
+  "stage": 1
  },
  {
   "key": "11b1c4178254e04efe6d36d30733c492",
@@ -4418,6 +4479,13 @@
   "stage": 1
  },
  {
+  "key": "95149ffc8a2f5cc71ed0facd8a660f25",
+  "original": "Eurypterid Biology",
+  "translation": "Eurypterid Biology",
+  "context": "ID: prof_wp_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_eurypterid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_eurypterid",
+  "stage": 1
+ },
+ {
   "key": "50a72448d9889a251b6263b2cf912d83",
   "original": "Expands upon the Touhou Professions mod.  Coregame balance not guaranteed.",
   "translation": "东方职业模组的扩展。不保证平衡性。\n需要在“场景”里选择东方职业（扩展）\n建议使用 Chibi_Ultica 或 MSXotto+ 贴图包以显示头发（当前仅支持秦心、妹红、咲夜、铃仙和妖梦）",
@@ -4490,6 +4558,13 @@
   "original": "Ezou wolves",
   "translation": "Ezou wolves",
   "context": "ID: mon_ezou_wolf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reference.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ezou_wolf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ezou_wolf",
+  "stage": 1
+ },
+ {
+  "key": "2dea8787eb84c90b3bdfcd20f3df8c3b",
+  "original": "Fairy Biology (?)",
+  "translation": "Fairy Biology (?)",
+  "context": "ID: prof_wp_fairy\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_fairy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_fairy",
   "stage": 1
  },
  {
@@ -4644,6 +4719,13 @@
   "original": "Garlic",
   "translation": "大蒜",
   "context": "ID: garlic\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→material→garlic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=garlic",
+  "stage": 1
+ },
+ {
+  "key": "f87b9fe9275739abb56f0589ad838eb9",
+  "original": "Ghost Physiology (?)",
+  "translation": "Ghost Physiology (?)",
+  "context": "ID: prof_wp_ghost\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_ghost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_ghost",
   "stage": 1
  },
  {
@@ -5234,6 +5316,13 @@
   "stage": 1
  },
  {
+  "key": "6ac56a9da0a47a039215d47cdcf1fbdc",
+  "original": "Invertebrate Biology (ancient)",
+  "translation": "Invertebrate Biology (ancient)",
+  "context": "ID: prof_wp_basic_bug_ancient\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_basic_bug_ancient\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_basic_bug_ancient",
+  "stage": 1
+ },
+ {
   "key": "c12ab1b541053e5ac2978819af56a2f0",
   "original": "It is as if hearing the shriek lacerated your soul.",
   "translation": "It is as if hearing the shriek lacerated your soul.",
@@ -5381,6 +5470,13 @@
   "stage": 1
  },
  {
+  "key": "5f2979b0245d7727f0fc7d2483e9203c",
+  "original": "MIB death (agent)",
+  "translation": "MIB death (agent)",
+  "context": "ID: death_mib_agentspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_agentspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_agentspawn",
+  "stage": 1
+ },
+ {
   "key": "13d2e48b2e3d975cb7441c8f7b2ee70c",
   "original": "MIB death (alien)",
   "translation": "MIB death （alien）",
@@ -5479,10 +5575,31 @@
   "stage": 1
  },
  {
+  "key": "d7d9c85a82b6c547675ff320f179f2da",
+  "original": "Maimed appendages",
+  "translation": "Maimed appendages",
+  "context": "ID: maimed_appendage\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→maimed_appendage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maimed_appendage",
+  "stage": 1
+ },
+ {
+  "key": "8f226479ed2b5c508e02b7091b64b0c3",
+  "original": "Maimed chelicera",
+  "translation": "Maimed chelicera",
+  "context": "ID: maimed_chelicera\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→maimed_chelicera\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maimed_chelicera",
+  "stage": 1
+ },
+ {
+  "key": "a335538812a4bc1139d62233236d3384",
+  "original": "Maimed snout",
+  "translation": "Maimed snout",
+  "context": "ID: maimed_snout\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→maimed_snout\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maimed_snout",
+  "stage": 1
+ },
+ {
   "key": "93a46fdf34301b31a8d59f9002ce59e0",
   "original": "Man in Black",
   "translation": "Man in Black",
-  "context": "ID: mon_mib4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib4",
+  "context": "ID: mon_mib5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib5",
   "stage": 1
  },
  {
@@ -5531,7 +5648,7 @@
   "key": "f2f02fd81963e85dbfddb6836423461c",
   "original": "Men in Black",
   "translation": "Men in Black",
-  "context": "ID: mon_mib4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib4",
+  "context": "ID: mon_mib5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib5",
   "stage": 1
  },
  {
@@ -6024,6 +6141,13 @@
   "stage": 1
  },
  {
+  "key": "709c0264bbe8e59b2b69ca3b9833c657",
+  "original": "Release agent.",
+  "translation": "Release agent.",
+  "context": "ID: death_mib_agentspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_agentspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_agentspawn",
+  "stage": 1
+ },
+ {
   "key": "336da4bfe7bc984b6c97f8efc62d16a9",
   "original": "Release alien.",
   "translation": "Release alien.",
@@ -6507,6 +6631,13 @@
   "stage": 1
  },
  {
+  "key": "35d283a65dc297b1225b72d3d8fa84fe",
+  "original": "Something is taking over the operative.  It's stern face gives no emotion, any previous wounds are gone, as if overwritten.  .",
+  "translation": "Something is taking over the operative.  It's stern face gives no emotion, any previous wounds are gone, as if overwritten.  .",
+  "context": "ID: mon_mib_agent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_agent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib_agent",
+  "stage": 1
+ },
+ {
   "key": "a76a5a46ef8eee7fd35696722ca445cb",
   "original": "Something you ate recently was good.  In fact too good for you, you can't tolerate it.",
   "translation": "Something you ate recently was good.  In fact too good for you, you can't tolerate it.",
@@ -6867,7 +6998,6 @@
   "key": "da23e6455fbcfa931b36003ae6bb9585",
   "original": "The  MIB collapses. Shortly after, the person stands up again, with a red glow on their eyes!",
   "translation": "The  MIB collapses. Shortly after, the person stands up again, with a red glow on their eyes!",
-  "context": "ID: death_mib_terminatorspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_terminatorspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_terminatorspawn",
   "stage": 1
  },
  {
@@ -7340,6 +7470,34 @@
   "stage": 1
  },
  {
+  "key": "7244d18a8e7cc1cb76fd429ed38f0d6a",
+  "original": "The %s is blinded!",
+  "translation": "The %s is blinded！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "338d19af5e0126398a0e0be9cf9dddc7",
+  "original": "The %s is knocked down!",
+  "translation": "The %s is knocked down！",
+  "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_terminator_body",
+  "stage": 1
+ },
+ {
+  "key": "8aee748307160e1b3eb080bb532f0f64",
+  "original": "The %s is knocked off-balance!",
+  "translation": "The %s is knocked off-balance！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "986a382375ef31117b87c8572d59570e",
+  "original": "The %s is stunned!",
+  "translation": "The %s is stunned！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
   "key": "309bebda1e123ffc9e6b632bbc27a7f6",
   "original": "The %s seems quite frightened, and starts dissolving in its own tears!",
   "translation": "The %s seems quite frightened, and starts dissolving in its own tears!",
@@ -7351,6 +7509,13 @@
   "original": "The %s shoots!",
   "translation": "The %s shoots！",
   "context": "ID: mon_fairy_urban1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_fairy.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_fairy_urban1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_fairy_urban1",
+  "stage": 1
+ },
+ {
+  "key": "30aaf5c9020283ef0a14b7c117b19640",
+  "original": "The %s staggers in its movement!",
+  "translation": "The %s staggers in its movement！",
+  "context": "ID: wps_plesiosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_plesiosaurus_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_plesiosaurus_body",
   "stage": 1
  },
  {
@@ -7403,10 +7568,135 @@
   "stage": 1
  },
  {
+  "key": "d00a47cf09622ae0c8b8e47532933f53",
+  "original": "The %s's appendages are destroyed!",
+  "translation": "The %s's appendages are destroyed！",
+  "context": "ID: wps_ammonitelong_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mollusk_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ammonitelong_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_ammonitelong_body",
+  "stage": 1
+ },
+ {
+  "key": "686e14e015de20620f1c52083aa80dcc",
+  "original": "The %s's appendages are maimed!",
+  "translation": "The %s's appendages are maimed！",
+  "context": "ID: wps_ammonitelong_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mollusk_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ammonitelong_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_ammonitelong_body",
+  "stage": 1
+ },
+ {
+  "key": "1afef12a77d2eda928eca26857efb52f",
+  "original": "The %s's chelicera are destroyed!",
+  "translation": "The %s's chelicera are destroyed！",
+  "context": "ID: wps_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_eurypterid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_eurypterid",
+  "stage": 1
+ },
+ {
+  "key": "95dc2d6511e778275f1bea0e8a162445",
+  "original": "The %s's chelicera are maimed!",
+  "translation": "The %s's chelicera are maimed！",
+  "context": "ID: wps_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_eurypterid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_eurypterid",
+  "stage": 1
+ },
+ {
+  "key": "b88c4c3542fcd0f22588ca34fe5e4ec6",
+  "original": "The %s's eyes are obliterated!",
+  "translation": "The %s's eyes are obliterated！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "97308202de89cfc766a88d77713957b5",
+  "original": "The %s's eyes are smashed!",
+  "translation": "The %s's eyes are smashed!",
+  "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_terminator_body",
+  "stage": 1
+ },
+ {
+  "key": "908e8ff4919ee7d02016c65ed00315cd",
+  "original": "The %s's frame is compromised!",
+  "translation": "The %s's frame is compromised!",
+  "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_terminator_body",
+  "stage": 1
+ },
+ {
+  "key": "601f30a17cccd0d0a694c62d2e11c23c",
+  "original": "The %s's head flies away!",
+  "translation": "The %s's head flies away!",
+  "context": "ID: wps_posessed_head\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_tsukumogami_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_posessed_head\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_posessed_head",
+  "stage": 1
+ },
+ {
+  "key": "6db7e94cb48f046bf66b528e83bacb76",
+  "original": "The %s's leg goes limp!",
+  "translation": "The %s's leg goes limp！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "f39bcf9a3c5a60e28e62167d989d75c4",
+  "original": "The %s's leg is disabled!",
+  "translation": "The %s's leg is disabled！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "ef0135c3e752adbed8f48a2ad9e6cb00",
+  "original": "The %s's lower mandible hangs slack!",
+  "translation": "The %s's lower mandible hangs slack！",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_skinwalker_body",
+  "stage": 1
+ },
+ {
+  "key": "c65a0cf0c7e812ef6b3bcbe6d95aa2eb",
+  "original": "The %s's mandibles are crippled!",
+  "translation": "The %s's mandibles are crippled！",
+  "context": "ID: wps_gorgonopsid_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_theriodontia_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_gorgonopsid_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_gorgonopsid_body",
+  "stage": 1
+ },
+ {
+  "key": "ffdf9f6458624cc4f55f33b05c0dd83a",
+  "original": "The %s's mandibles hang slack!",
+  "translation": "The %s's mandibles hang slack！",
+  "context": "ID: wps_enfield_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_enfield_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_enfield_body",
+  "stage": 1
+ },
+ {
+  "key": "1f13925a627b907dba3d0f5b62f54126",
+  "original": "The %s's mouth hangs slack!",
+  "translation": "The %s's mouth hangs slack！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "fd96696850fb5a5ed884836d4a2eaf92",
+  "original": "The %s's mouth is crippled!",
+  "translation": "The %s's mouth is crippled！",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "2c9a955733f66c053a4ab573f7c7dddc",
+  "original": "The MIB collapses.  Shortly after, the person stands up again, with a red glow on their eyes!",
+  "translation": "The MIB collapses.  Shortly after, the person stands up again, with a red glow on their eyes!",
+  "context": "ID: death_mib_terminatorspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_terminatorspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_terminatorspawn",
+  "stage": 1
+ },
+ {
+  "key": "ade73d2acb0963de81e388f5a0272923",
+  "original": "The MIB falls dead.  Immediately after, a shadow emerges from the \"corpse\"!",
+  "translation": "The MIB falls dead.  Immediately after, a shadow emerges from the \"corpse\"!",
+  "context": "ID: death_mib_shadowspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_shadowspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_shadowspawn",
+  "stage": 1
+ },
+ {
   "key": "68cc25001ff2a8b4c32d92f8d1a89ce7",
   "original": "The MIB falls dead. Immediately after, a shadow emerges from the \"corpse\"!",
   "translation": "The MIB falls dead. Immediately after, a shadow emerges from the \"corpse\"!",
-  "context": "ID: death_mib_shadowspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_shadowspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_shadowspawn",
+  "stage": 1
+ },
+ {
+  "key": "7613d9a2e28c6e69d329648989c8bb9f",
+  "original": "The MIB staggers, their face becomes blurry and countoured as in pain, taken over by a stern figure!",
+  "translation": "The MIB staggers, their face becomes blurry and countoured as in pain, taken over by a stern figure!",
+  "context": "ID: death_mib_agentspawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→death_mib_agentspawn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_mib_agentspawn",
   "stage": 1
  },
  {
@@ -7588,6 +7878,12 @@
   "key": "39208df25e31f4dd9af9675a537656a0",
   "original": "The skinwalker roar!",
   "translation": "The skinwalker roar!",
+  "stage": 1
+ },
+ {
+  "key": "0f33dc2d7f675ebb35cbdc8c55f4c28e",
+  "original": "The skinwalker roars!",
+  "translation": "The skinwalker roars!",
   "context": "ID: skinwalker_roar_6d4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_roar_6d4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=skinwalker_roar_6d4",
   "stage": 1
  },
@@ -7825,7 +8121,6 @@
   "key": "0ee384c7424dba3ed391a38331ad53f0",
   "original": "WIP. Rabbit claws. Even larger than a bear.",
   "translation": "WIP. Rabbit claws. Even larger than a bear.",
-  "context": "ID: mon_skinwalker_rabbit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_skinwalker_rabbit",
   "stage": 1
  },
  {
@@ -8331,6 +8626,34 @@
   "stage": 3
  },
  {
+  "key": "b89479b7e5d95461bce81c3be7f6cf5c",
+  "original": "Youkai Physiology (?)",
+  "translation": "Youkai Physiology (?)",
+  "context": "ID: prof_wp_youkai\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_youkai\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=prof_wp_youkai",
+  "stage": 1
+ },
+ {
+  "key": "24f2a7087e114127bb673af24469d218",
+  "original": "Your appendages are unusable.",
+  "translation": "Your appendages are unusable.",
+  "context": "ID: maimed_appendage\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→maimed_appendage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maimed_appendage",
+  "stage": 1
+ },
+ {
+  "key": "d14066b17ca5853acfda95f0d03eb268",
+  "original": "Your chelicera are unusable.",
+  "translation": "Your chelicera are unusable.",
+  "context": "ID: maimed_chelicera\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→maimed_chelicera\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maimed_chelicera",
+  "stage": 1
+ },
+ {
+  "key": "45a80b088b38443213a8fa0d7acb4839",
+  "original": "Your endoskeleton is compromised.",
+  "translation": "Your endoskeleton is compromised.",
+  "context": "ID: frame_breakthrough\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→frame_breakthrough\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=frame_breakthrough",
+  "stage": 1
+ },
+ {
   "key": "e78237106f685297189b36a1793cae59",
   "original": "Your hair has been shaved close to the head.",
   "translation": "Your hair has been shaved close to the head.",
@@ -8359,6 +8682,13 @@
   "stage": 1
  },
  {
+  "key": "014ee421eefec4105108e16dda562faf",
+  "original": "Your mandibles are unusable.",
+  "translation": "Your mandibles are unusable.",
+  "context": "ID: maimed_snout\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/effects/thex_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_type→maimed_snout\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maimed_snout",
+  "stage": 1
+ },
+ {
   "key": "1e8fbdf55676461b2bae590376c06469",
   "original": "a Gyokuto",
   "translation": "玉兔",
@@ -8366,10 +8696,45 @@
   "stage": 3
  },
  {
+  "key": "1ab35de31f1dab64669ccb52f6b6c1ad",
+  "original": "a damaged section of the frame",
+  "translation": "a damaged section of the frame",
+  "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_terminator_body",
+  "stage": 1
+ },
+ {
   "key": "1c73feaef3774b3851aa60bb814a5894",
   "original": "a fairy",
   "translation": "a fairy",
   "context": "ID: FAIRY_TOUHOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPECIES→FAIRY_TOUHOU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=FAIRY_TOUHOU",
+  "stage": 1
+ },
+ {
+  "key": "9c636b0e9d0c189d565dcc7ee5ea1c34",
+  "original": "a gap in the exoskeleton",
+  "translation": "a gap in the exoskeleton",
+  "context": "ID: wps_trilobitoid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_trilobitoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_trilobitoid",
+  "stage": 1
+ },
+ {
+  "key": "339a219c1dea67811e90c9f8335d8673",
+  "original": "a leg",
+  "translation": "a leg",
+  "context": "ID: wps_trilobitoid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_trilobitoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_trilobitoid",
+  "stage": 1
+ },
+ {
+  "key": "b795366a1d5533da2bb1383e95d6c1f8",
+  "original": "a limb",
+  "translation": "a limb",
+  "context": "ID: wps_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_eurypterid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_eurypterid",
+  "stage": 1
+ },
+ {
+  "key": "94798c1e2f003a87de8c317e20671287",
+  "original": "a lobe",
+  "translation": "a lobe",
+  "context": "ID: wps_dinocaridida_hurdiid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_dinocaridida_hurdiid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_dinocaridida_hurdiid",
   "stage": 1
  },
  {
@@ -8380,11 +8745,39 @@
   "stage": 1
  },
  {
+  "key": "0cbb38d35be421fc2f7bbc5a73187e02",
+  "original": "a small gap in the frame",
+  "translation": "a small gap in the frame",
+  "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_terminator_body",
+  "stage": 1
+ },
+ {
+  "key": "be8c4fcfe49887356d7b8b8b1928027d",
+  "original": "a spot that's more vulnerable than the rest",
+  "translation": "a spot that's more vulnerable than the rest",
+  "context": "ID: wps_ghosts\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ghosts\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_ghosts",
+  "stage": 1
+ },
+ {
+  "key": "0af0cb9ec81495434781c1949a044477",
+  "original": "a thick part of the exoskeleton",
+  "translation": "a thick part of the exoskeleton",
+  "context": "ID: wps_trilobitoid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_trilobitoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_trilobitoid",
+  "stage": 1
+ },
+ {
   "key": "e8ffe3656a45f8e8a0a10c6fccc64628",
   "original": "a vampire",
   "translation": "吸血鬼",
   "context": "ID: VAMPIRE_TOUHOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPECIES→VAMPIRE_TOUHOU\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=VAMPIRE_TOUHOU",
   "stage": 3
+ },
+ {
+  "key": "d942b0c27fc71fcc95b77d658e5ac0af",
+  "original": "abdomen",
+  "translation": "abdomen",
+  "context": "ID: wps_trilobitoid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_trilobitoid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_trilobitoid",
+  "stage": 1
  },
  {
   "key": "6395bd866b22f38af7355cf653b8fd2e",
@@ -8398,6 +8791,20 @@
   "original": "aegirocassis egg",
   "translation": "aegirocassis egg",
   "context": "ID: egg_aegirocassis\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→egg_aegirocassis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=egg_aegirocassis",
+  "stage": 1
+ },
+ {
+  "key": "b33aed8f3134996703dc39f9a7c95783",
+  "original": "agent",
+  "translation": "agent",
+  "context": "ID: mon_mib_agent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_agent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib_agent",
+  "stage": 1
+ },
+ {
+  "key": "76ee4ad3b12ba3471b5273d26f48b51b",
+  "original": "agents",
+  "translation": "agents",
+  "context": "ID: mon_mib_agent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_agent\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_mib_agent",
   "stage": 1
  },
  {
@@ -9087,6 +9494,13 @@
   "stage": 3
  },
  {
+  "key": "841a2d689ad86bd1611447453c22c6fc",
+  "original": "body",
+  "translation": "body",
+  "context": "ID: wps_scutosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_scutosaurus_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_scutosaurus_body",
+  "stage": 1
+ },
+ {
   "key": "02810b0b55f2c808fdccd6dd6338f13c",
   "original": "caesar salad",
   "translation": "凯撒沙拉",
@@ -9293,14 +9707,26 @@
   "key": "b78bd5eb4fc61acda70da0d70e40b591",
   "original": "daedon",
   "translation": "daedon",
-  "context": "ID: mon_daedon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daedon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daedon",
   "stage": 1
  },
  {
   "key": "877a04d43319bd7cd32600d1fbb96463",
   "original": "daedon piglet",
   "translation": "daedon piglet",
-  "context": "ID: mon_daedon_piglet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daedon_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daedon_piglet",
+  "stage": 1
+ },
+ {
+  "key": "77da62d73668c0c599522f8c4985658b",
+  "original": "daeodon",
+  "translation": "daeodon",
+  "context": "ID: mon_daeodon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daeodon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daeodon",
+  "stage": 1
+ },
+ {
+  "key": "6cc8595410c9914326dc9e6dd2254e81",
+  "original": "daeodon piglet",
+  "translation": "daeodon piglet",
+  "context": "ID: mon_daeodon_piglet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_daeodon_piglet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_daeodon_piglet",
   "stage": 1
  },
  {
@@ -11452,6 +11878,195 @@
   "stage": 1
  },
  {
+  "key": "5f7929b21433fd04b78e99ddc04728bf",
+  "original": "the \"arm\"",
+  "translation": "the “arm”",
+  "context": "ID: wps_posessed_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_tsukumogami_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_posessed_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_posessed_body",
+  "stage": 1
+ },
+ {
+  "key": "3af54b77f02821b627364e7ae5629d56",
+  "original": "the \"leg\"",
+  "translation": "the \"leg\"",
+  "context": "ID: wps_posessed_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_tsukumogami_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_posessed_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_posessed_body",
+  "stage": 1
+ },
+ {
+  "key": "9e735d8edaa9da2634d581d08f9aaabd",
+  "original": "the appendages",
+  "translation": "the appendages",
+  "context": "ID: wps_ammonitelong_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mollusk_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ammonitelong_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_ammonitelong_body",
+  "stage": 1
+ },
+ {
+  "key": "de72ea2bbc7552384cd27ba133253107",
+  "original": "the arm",
+  "translation": "the arm",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_skinwalker_body",
+  "stage": 1
+ },
+ {
+  "key": "d170f17188add0a86d45cc38c1c2eb69",
+  "original": "the caudal fin",
+  "translation": "the caudal fin",
+  "context": "ID: wps_plesiosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_plesiosaurus_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_plesiosaurus_body",
+  "stage": 1
+ },
+ {
+  "key": "6bff569e89f925a8763dd1bcee1ddcfa",
+  "original": "the chelicera",
+  "translation": "the chelicera",
+  "context": "ID: wps_eurypterid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_eurypterid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_eurypterid",
+  "stage": 1
+ },
+ {
+  "key": "9f916846106573927076780afbce5b74",
+  "original": "the eye",
+  "translation": "the eye",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "3706f778c3877d7cc6d0f4456a08e562",
+  "original": "the fin",
+  "translation": "the fin",
+  "context": "ID: wps_plesiosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_plesiosaurus_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_plesiosaurus_body",
+  "stage": 1
+ },
+ {
+  "key": "81c3398920b9e91f4ea06e8bcef54c8d",
+  "original": "the fore leg",
+  "translation": "the fore leg",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "95a45a14412ea205ab0ee8a15c5faa09",
+  "original": "the frame",
+  "translation": "the frame",
+  "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_terminator_body",
+  "stage": 1
+ },
+ {
+  "key": "b69c6584fa06daec24ab5acd198fb384",
+  "original": "the head",
+  "translation": "the head",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "e77a1149f358b0a56fc63a8f70e4882e",
+  "original": "the head part",
+  "translation": "the head part",
+  "context": "ID: wps_ammonitelong_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mollusk_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ammonitelong_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_ammonitelong_body",
+  "stage": 1
+ },
+ {
+  "key": "9b9b1daeb583c31c69e3833ea147bb18",
+  "original": "the head shield",
+  "translation": "the head shield",
+  "context": "ID: wps_dinocaridida_hurdiid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_arthropod_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_dinocaridida_hurdiid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_dinocaridida_hurdiid",
+  "stage": 1
+ },
+ {
+  "key": "fee5e2eb26f3bf779d7df49d87dd752d",
+  "original": "the hind leg",
+  "translation": "the hind leg",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "e5eb151e99afa85a18bcaa64883e1385",
+  "original": "the horns",
+  "translation": "the horns",
+  "context": "ID: wps_skinwalker_horns\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_horns\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_skinwalker_horns",
+  "stage": 1
+ },
+ {
+  "key": "88c7ffeb22e075443d0f7d15fa4295b5",
+  "original": "the leg",
+  "translation": "the leg",
+  "context": "ID: wps_nightcrawler_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_nightcrawler_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_nightcrawler_body",
+  "stage": 1
+ },
+ {
+  "key": "780078d1690642efc96706db2dbe4459",
+  "original": "the mouth",
+  "translation": "the mouth",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "468e8eec61c907c57ffcff3fed4f9097",
+  "original": "the neck",
+  "translation": "the neck",
+  "context": "ID: wps_plesiosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_plesiosaurus_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_plesiosaurus_body",
+  "stage": 1
+ },
+ {
+  "key": "8473a7cecd410f7230b367d9ef3856f2",
+  "original": "the sail",
+  "translation": "the sail",
+  "context": "ID: wps_pelycosailed_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_stem_mammal_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_pelycosailed_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_pelycosailed_body",
+  "stage": 1
+ },
+ {
+  "key": "d86ea948a8d38ff6c5ceca047eb069f6",
+  "original": "the shell",
+  "translation": "the shell",
+  "context": "ID: wps_ammonitelong_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mollusk_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_ammonitelong_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_ammonitelong_body",
+  "stage": 1
+ },
+ {
+  "key": "2d8d37207edb23ad87670fe68f723714",
+  "original": "the shield",
+  "translation": "the shield",
+  "context": "ID: wps_glyptodont_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mammal_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_glyptodont_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_glyptodont_body",
+  "stage": 1
+ },
+ {
+  "key": "c421908efc73a80111e39d8f88ba7185",
+  "original": "the snout",
+  "translation": "the snout",
+  "context": "ID: wps_plesiosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_plesiosaurus_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_plesiosaurus_body",
+  "stage": 1
+ },
+ {
+  "key": "89afc5b231eb3bf386ffafd9ca840e73",
+  "original": "the tail",
+  "translation": "the tail",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_suchia_body",
+  "stage": 1
+ },
+ {
+  "key": "721eac0a39264b0de8ed90e80fdb790f",
+  "original": "the tiny head",
+  "translation": "the tiny head",
+  "context": "ID: wps_cotilo_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_stem_mammal_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_cotilo_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_cotilo_body",
+  "stage": 1
+ },
+ {
+  "key": "02cab9afa745026acd594180159f1dc8",
+  "original": "the torso",
+  "translation": "the torso",
+  "context": "ID: wps_mib_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_mib_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_mib_body",
+  "stage": 1
+ },
+ {
+  "key": "001b858225da861e4fcaa260844d91f1",
+  "original": "the wide body",
+  "translation": "the wide body",
+  "context": "ID: wps_cotilo_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_stem_mammal_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_cotilo_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_cotilo_body",
+  "stage": 1
+ },
+ {
+  "key": "95f3f5d46961d6927ec81d28d1c0b181",
+  "original": "the wings",
+  "translation": "the wings",
+  "context": "ID: wps_fairy_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_fairy_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_fairy_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_fairy_body",
+  "stage": 1
+ },
+ {
   "key": "cb4943ef364e873b4de1ae27356f467f",
   "original": "thorn bullet",
   "translation": "thorn bullet",
@@ -11492,6 +12107,12 @@
   "translation": "tiny bird legs",
   "context": "ID: bird_leg_tiny\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_leg_tiny\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bird_leg_tiny",
   "stage": 1
+ },
+ {
+  "key": "42155934c716c14660745bf822f4ff63",
+  "original": "torso",
+  "translation": "躯干",
+  "context": "ID: wps_oni_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_oni_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_oni_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_oni_body"
  },
  {
   "key": "2f5403ee2829b44f5367eee652918c25",
