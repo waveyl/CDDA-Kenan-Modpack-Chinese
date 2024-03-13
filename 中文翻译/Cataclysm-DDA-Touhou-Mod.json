@@ -900,6 +900,13 @@
   "stage": 3
  },
  {
+  "key": "cc4a14d52d3867ff5b675997524cee43",
+  "original": "A nearby vengeful spirit takes control!",
+  "translation": "A nearby vengeful spirit takes control!",
+  "context": "ID: kaenbyou_vspossess_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_vspossess_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess_kill",
+  "stage": 1
+ },
+ {
   "key": "2e32a8cb700058569ea1f366ed09e20a",
   "original": "A nearby vengeful spirit, summoned by Kaenbyou to help her.",
   "translation": "附近的一个怨灵，被火焰猫磷召唤出来帮助她。",
@@ -1777,6 +1784,27 @@
   "stage": 3
  },
  {
+  "key": "8091379317949797b4f5ab97caec8720",
+  "original": "Barrier wave",
+  "translation": "Barrier wave",
+  "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_barrierwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_barrierwave",
+  "stage": 1
+ },
+ {
+  "key": "764c93df5c39f339d8b5c50a16a9a9ef",
+  "original": "Barrier wave (effect)",
+  "translation": "Barrier wave (effect)",
+  "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_barrierwave",
+  "stage": 1
+ },
+ {
+  "key": "8771192071a06b3e1dbd6cfe8b781ade",
+  "original": "Barrier wave (vfx)",
+  "translation": "Barrier wave (vfx)",
+  "context": "ID: udonge_warrierwave_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_warrierwave_vfx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_warrierwave_vfx",
+  "stage": 1
+ },
+ {
   "key": "9f198458025c6d283798eda4b2c6b44e",
   "original": "Bash effect for meiling_redrelease ",
   "translation": "Bash effect for meiling_redrelease ",
@@ -1900,6 +1928,13 @@
   "translation": "Blood Death (chasm)",
   "context": "ID: death_blood2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_blood2",
   "stage": 3
+ },
+ {
+  "key": "419cf96a5bad7f0c1eaead515ec26c6a",
+  "original": "Blood Death (disgrace)",
+  "translation": "Blood Death (disgrace)",
+  "context": "ID: death_blood3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_blood3",
+  "stage": 1
  },
  {
   "key": "1bced53276b2bf6352e9147855447803",
@@ -2125,6 +2160,13 @@
   "stage": 3
  },
  {
+  "key": "1b53181a9ad156c22b2d1d310329c09b",
+  "original": "Calories to mana",
+  "translation": "Calories to mana",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_calorieburn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_calorieburn",
+  "stage": 1
+ },
+ {
   "key": "25dcc94f92873ae4827899653a923954",
   "original": "Camera flash",
   "translation": "闪光灯",
@@ -2142,7 +2184,7 @@
   "key": "0e22fe7d45f8e5632a4abf369b24e29c",
   "original": "Canceled",
   "translation": "已取消",
-  "context": "ID: utsuho_nuke_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_nuke_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke_eoc",
+  "context": "ID: utsuho_ugeyser_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_ugeyser_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser_eoc",
   "stage": 3
  },
  {
@@ -2283,6 +2325,13 @@
   "stage": 1
  },
  {
+  "key": "754cc6c4d6efb019c45143d33e918a6e",
+  "original": "Channel for a short time, blasting the target location with a circle of hellfire, dealing damage after a delay and heavily burning them over time.  \nConsumes 2 soulshards.",
+  "translation": "Channel for a short time, blasting the target location with a circle of hellfire, dealing damage after a delay and heavily burning them over time.  \nConsumes 2 soulshards.",
+  "context": "ID: kaenbyou_blazingwheel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_blazingwheel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_blazingwheel",
+  "stage": 1
+ },
+ {
   "key": "ee37f7b2fb43fc8324aa3eccf8f695ed",
   "original": "Channel for a short time, blasting the target location with a circle of hellfire, instantly dealing damage and heavily burning them over time.",
   "translation": "Channel for a short time, blasting the target location with a circle of hellfire, instantly dealing damage and heavily burning them over time.",
@@ -2293,7 +2342,6 @@
   "key": "64b37a96cfa2bd2cd92261dbb43b0ac6",
   "original": "Channel for a short time, blasting the target location with a circle of hellfire, instantly dealing damage and heavily burning them over time.  \nConsumes 2 soulshards.",
   "translation": "引导一小段时间，在目标位置爆发出一轮地狱之火，立即造成伤害并随着时间的推移造成严重烧伤。\n消耗2个灵魂碎片。",
-  "context": "ID: kaenbyou_blazingwheel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_blazingwheel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_blazingwheel",
   "stage": 3
  },
  {
@@ -2311,10 +2359,16 @@
   "stage": 3
  },
  {
+  "key": "5100500454d4d4f4c4dc1ee7dc54d46e",
+  "original": "Command any nearby vengeful spirits to possess the target.",
+  "translation": "Command any nearby vengeful spirits to possess the target.",
+  "context": "ID: kaenbyou_vspossess\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess",
+  "stage": 1
+ },
+ {
   "key": "c9b57e3af97ac76838c751347ce93b4f",
   "original": "Command the targeted vengeful spirit to possess a nearby zombie.",
   "translation": "命令指定的怨灵凭依一只附近的丧尸。",
-  "context": "ID: kaenbyou_vspossess\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess",
   "stage": 3
  },
  {
@@ -2517,6 +2571,34 @@
   "stage": 3
  },
  {
+  "key": "6e44ea325202bd2b7131ae87ad2fb94b",
+  "original": "Curse of corpses",
+  "translation": "Curse of corpses",
+  "context": "ID: seiga_corpsecurse\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse",
+  "stage": 1
+ },
+ {
+  "key": "66f5c57658ee48813c229c319da892b9",
+  "original": "Curse of corpses (EOC) (2)",
+  "translation": "Curse of corpses (EOC) (2)",
+  "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse3",
+  "stage": 1
+ },
+ {
+  "key": "5bb70ef82c04c1db5a1a8d28140df9ba",
+  "original": "Curse of corpses (dmg)",
+  "translation": "Curse of corpses (dmg)",
+  "context": "ID: seiga_corpsecurse4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse4",
+  "stage": 1
+ },
+ {
+  "key": "55bcc3c36b2a428802d1a549f17c4bb0",
+  "original": "Curse of corpses (effect)",
+  "translation": "Curse of corpses (effect)",
+  "context": "ID: seiga_corpsecurse_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_corpsecurse_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse_effect",
+  "stage": 1
+ },
+ {
   "key": "d0e0b39f2a0d2599813d2a36383887b0",
   "original": "Cut the air, materializing a barrier that protects you from high speed proyectiles for a short time.",
   "translation": "斩断空气，生成一道护壁，在短时间内能抵挡高速发射物。",
@@ -2598,6 +2680,20 @@
   "translation": "Damage component for mokou_combustion ",
   "context": "ID: mokou_combustion2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_mokou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mokou_combustion2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_combustion2",
   "stage": 3
+ },
+ {
+  "key": "44df3b7084b4a4aef6cd25c6a693c6fe",
+  "original": "Damage component for mon_youmumyon_slasheternal2_bash ",
+  "translation": "Damage component for mon_youmumyon_slasheternal2_bash ",
+  "context": "ID: mon_youmumyon_slasheternal3_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slasheternal3_bash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slasheternal3_bash",
+  "stage": 1
+ },
+ {
+  "key": "961e7aab750168d8e3776d20a607128e",
+  "original": "Damage component for mon_youmumyon_slasheternal2_cut ",
+  "translation": "Damage component for mon_youmumyon_slasheternal2_cut ",
+  "context": "ID: mon_youmumyon_slasheternal3_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slasheternal3_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slasheternal3_cut",
+  "stage": 1
  },
  {
   "key": "6ab6ba6191e26658fc24069ba814fb4e",
@@ -2836,6 +2932,20 @@
   "translation": "Dark drain (self heal)",
   "context": "ID: remilia_darkdrain4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→remilia_darkdrain4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=remilia_darkdrain4",
   "stage": 3
+ },
+ {
+  "key": "49230b6de0f72e6d7477da3ea2af19ba",
+  "original": "Dark energies engulf your victim, quickly healing their wounds!",
+  "translation": "Dark energies engulf your victim, quickly healing their wounds!",
+  "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecursed_kill",
+  "stage": 1
+ },
+ {
+  "key": "7b20079f07e21558dcb65c69b147ab5b",
+  "original": "Dark energies engulf your victims, quickly healing their wounds!",
+  "translation": "Dark energies engulf your victims, quickly healing their wounds!",
+  "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecursed_kill",
+  "stage": 1
  },
  {
   "key": "3663598d5c5858b5a6040b1bbed4f187",
@@ -3171,6 +3281,13 @@
   "stage": 3
  },
  {
+  "key": "2ad77a6f7dc72cf3288d4f8a110b4896",
+  "original": "Dmg for the rezz curse of seiga_corpsecurse ",
+  "translation": "Dmg for the rezz curse of seiga_corpsecurse ",
+  "context": "ID: seiga_corpsecurse4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse4",
+  "stage": 1
+ },
+ {
   "key": "952352c2d1ed67bd10a0c1aaf5b196de",
   "original": "Do nothing.",
   "translation": "什么都不做。",
@@ -3274,9 +3391,9 @@
   "stage": 1
  },
  {
-  "key": "be014743dcb34eeb866915424c2e0e63",
-  "original": "Drill strike (kick) (damage)",
-  "translation": "Drill strike (kick) (damage)",
+  "key": "1e651068bfb660f9eec3a28d5ef66c15",
+  "original": "Drill strike (kick) (damage) (tec)",
+  "translation": "Drill strike (kick) (damage) (tec)",
   "context": "ID: kasen_drillkick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_drillkick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_drillkick",
   "stage": 1
  },
@@ -3315,10 +3432,16 @@
   "stage": 3
  },
  {
+  "key": "fe658bf71a95d8a3285d26bf37e3f4de",
+  "original": "EOC check for kaenbyou_infernoburst double dmg",
+  "translation": "EOC check for kaenbyou_infernoburst double dmg",
+  "context": "ID: kaenbyou_infernoburst2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_infernoburst2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_infernoburst2",
+  "stage": 1
+ },
+ {
   "key": "d1fa177ee6f7e2097abf6bcf497ad8a6",
   "original": "EOC check of u_var_immolate for the target of kaenbyou_infernoburst ",
   "translation": "EOC check of u_var_immolate for the target of kaenbyou_infernoburst ",
-  "context": "ID: kaenbyou_infernoburst2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_infernoburst2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_infernoburst2",
   "stage": 3
  },
  {
@@ -3399,10 +3522,16 @@
   "stage": 3
  },
  {
+  "key": "eb227c3ba96e41948e86eb173c0e8663",
+  "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  Cast again to toggle OFF.",
+  "translation": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  Cast again to toggle OFF.",
+  "context": "ID: sakuya_maidsecret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret",
+  "stage": 1
+ },
+ {
   "key": "cb2ac7770875c63ca07f6a5aed265dc8",
   "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, or by enemies getting close.  Cast again to toggle OFF.",
   "translation": "使用你让红魔馆始终保持干净的秘技，提高你的动力和恢复速度。如果你感到疲劳，或者敌人靠近，你的专注力就会被打破。再次施放以关闭。",
-  "context": "ID: sakuya_maidsecret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret",
   "stage": 3
  },
  {
@@ -3433,6 +3562,13 @@
   "stage": 3
  },
  {
+  "key": "f758a6e69e75418953517ac647040d65",
+  "original": "Enter a meditative state, burning calories over time to increase your spiritual energy regeneration.  Getting hit while in this state deactivates the effect.",
+  "translation": "Enter a meditative state, burning calories over time to increase your spiritual energy regeneration.  Getting hit while in this state deactivates the effect.",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_calorieburn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_calorieburn",
+  "stage": 1
+ },
+ {
   "key": "57421394389388d239aef8b7e77b28a5",
   "original": "Epidemic version of yamame_disease_icypyrexia . This is forced to be casted by those affected by yamame_miasmaepidemic ",
   "translation": "Epidemic version of yamame_disease_icypyrexia . This is forced to be casted by those affected by yamame_miasmaepidemic ",
@@ -3452,6 +3588,20 @@
   "translation": "Epidemic version of yamame_disease_volatilerot . This is forced to be casted by those affected by yamame_miasmaepidemic ",
   "context": "ID: yamame_disease_volatilerot3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_disease_volatilerot3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_disease_volatilerot3",
   "stage": 3
+ },
+ {
+  "key": "58b31b6bab318cc35a926215bd02a3e4",
+  "original": "Equivalent of youmu_slasheternal2_ casted by mon_youmumyon2 ",
+  "translation": "Equivalent of youmu_slasheternal2_ casted by mon_youmumyon2 ",
+  "context": "ID: mon_youmumyon2_slasheternal2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slasheternal2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slasheternal2",
+  "stage": 1
+ },
+ {
+  "key": "cba8bc4e448dbb400fe52d1826e3e898",
+  "original": "Equivalent of youmu_slashnether2 casted by mon_youmumyon2 ",
+  "translation": "Equivalent of youmu_slashnether2 casted by mon_youmumyon2 ",
+  "context": "ID: mon_youmumyon2_slashnether2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2",
+  "stage": 1
  },
  {
   "key": "525546a5cfc7b080254f045ef4f226a4",
@@ -3855,6 +4005,13 @@
   "stage": 3
  },
  {
+  "key": "b257599d4887221a4897bd2f963b0ba2",
+  "original": "Focus your ability to superpose your self around the surrounding space, allowing you to ignore incoming attacks.  Lasts for three hits.  Casting while active refreshes the effect.  Cannot be used alongside Wavelength manipulation.",
+  "translation": "Focus your ability to superpose your self around the surrounding space, allowing you to ignore incoming attacks.  Lasts for three hits.  Casting while active refreshes the effect.  Cannot be used alongside Wavelength manipulation.",
+  "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_barrierwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_barrierwave",
+  "stage": 1
+ },
+ {
   "key": "eac0d82b34d071fdb4341cfe53851f75",
   "original": "Focus your madness wavelength into a converging beam, dealing damage to all enemies in the path.",
   "translation": "将狂气的波长收聚成束，对路径上的所有敌人造成伤害。",
@@ -3913,7 +4070,6 @@
   "key": "609cca5877c81540f066e201578bbb3d",
   "original": "Forces the target to run the EOC, which adds u_var_immolate to (their) self",
   "translation": "Forces the target to run the EOC, which adds u_var_immolate to (their) self",
-  "context": "ID: kaenbyou_immolate3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_immolate3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_immolate3",
   "stage": 3
  },
  {
@@ -3938,11 +4094,32 @@
   "stage": 3
  },
  {
+  "key": "0bc7f1e00b89590ef596dd92d1cf6a9b",
+  "original": "Forces the target to run the EOC, which has a chance to reduce u_var_slashnether_cast to (their) self",
+  "translation": "Forces the target to run the EOC, which has a chance to reduce u_var_slashnether_cast to (their) self",
+  "context": "ID: mon_youmumyon2_slashnether2_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2_reduce",
+  "stage": 1
+ },
+ {
   "key": "8f54c5157e0aaa412b4df7f274e0b9f8",
   "original": "Forces the target to run the EOC, which reduces u_var_hellcannon_unc_cast to (their) self",
   "translation": "Forces the target to run the EOC, which reduces u_var_hellcannon_unc_cast to (their) self",
-  "context": "ID: mon_hellcannon_msun_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun_reduce",
+  "context": "ID: mon_msun_hellcannon_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_msun_hellcannon_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_msun_hellcannon_reduce",
   "stage": 3
+ },
+ {
+  "key": "e03c67bfb17db37c57bcdc5f293118a4",
+  "original": "Forces the target to run the EOC, which reduces u_var_slasheternal_ to (their) self",
+  "translation": "Forces the target to run the EOC, which reduces u_var_slasheternal_ to (their) self",
+  "context": "ID: mon_youmumyon_slasheternal_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slasheternal_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slasheternal_reduce",
+  "stage": 1
+ },
+ {
+  "key": "4009e40f7d071caf0e22b6c9b8050e7c",
+  "original": "Forces the target to run the EOC, which reduces u_var_slashnether_cast to (their) self",
+  "translation": "Forces the target to run the EOC, which reduces u_var_slashnether_cast to (their) self",
+  "context": "ID: mon_youmumyon_slashnether_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slashnether_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slashnether_reduce",
+  "stage": 1
  },
  {
   "key": "0e5a94a1af50681a9cd534c87e713916",
@@ -4523,28 +4700,27 @@
   "key": "6937df6be9c382d730c4875d73108027",
   "original": "Hell wave cannon (minisun)",
   "translation": "Hell wave cannon (minisun)",
-  "context": "ID: mon_hellcannon_msun2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2",
+  "context": "ID: mon_msun_hellcannon2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_msun_hellcannon2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_msun_hellcannon2",
   "stage": 3
  },
  {
   "key": "8e827317f6245d24f3b25f7b0914fbb1",
   "original": "Hell wave cannon (minisun) (reduce EOC)",
   "translation": "Hell wave cannon (minisun) (reduce EOC)",
-  "context": "ID: mon_hellcannon_msun_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun_reduce",
+  "context": "ID: mon_msun_hellcannon_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_msun_hellcannon_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_msun_hellcannon_reduce",
   "stage": 3
  },
  {
   "key": "eabee0168c221ffcb3459ebfa74bb48a",
   "original": "Hell wave cannon (minisun) (uncontrollable)",
   "translation": "Hell wave cannon (minisun) (uncontrollable)",
-  "context": "ID: mon_hellcannon_msun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2_unc",
+  "context": "ID: mon_youmumyon2_slashnether2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2",
   "stage": 3
  },
  {
   "key": "ee0c60473d4ae9d5c18dd495f895f288",
   "original": "Hell wave cannon (reduce var)",
   "translation": "Hell wave cannon (reduce var)",
-  "context": "ID: hellcannon_to_mon_zero\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_zero\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_zero",
   "stage": 3
  },
  {
@@ -4607,8 +4783,14 @@
   "key": "7317390988ef5f6570d4d65ff6c823db",
   "original": "Hilt nudge (damage)",
   "translation": "Hilt nudge (damage)",
-  "context": "ID: youmu_hilt_nudge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_hilt_nudge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_hilt_nudge",
   "stage": 3
+ },
+ {
+  "key": "ff06efe4aaf7366102e537d3bbef46f3",
+  "original": "Hilt nudge (damage) (tec)",
+  "translation": "Hilt nudge (damage) (tec)",
+  "context": "ID: youmu_hilt_nudge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_hilt_nudge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_hilt_nudge",
+  "stage": 1
  },
  {
   "key": "c09f0b277509c0099fbde21096fdbe43",
@@ -4714,6 +4896,13 @@
   "stage": 1
  },
  {
+  "key": "fda60a87edf11ab8c9a29b2a4f4e8e86",
+  "original": "Ignoring incoming attacks.",
+  "translation": "Ignoring incoming attacks.",
+  "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_barrierwave",
+  "stage": 1
+ },
+ {
   "key": "c0a7c731cbb95e4c0cc30db0de804a7e",
   "original": "Illusionary blast",
   "translation": "幻象爆破",
@@ -4738,7 +4927,6 @@
   "key": "a48a4b9f7eaa6f3c0a797a8d10ea1ea9",
   "original": "Immolate (EOC)",
   "translation": "Immolate (EOC)",
-  "context": "ID: kaenbyou_immolate3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_immolate3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_immolate3",
   "stage": 3
  },
  {
@@ -5061,16 +5249,16 @@
   "stage": 1
  },
  {
-  "key": "53812c6bec13f73a270099be7e43c37c",
-  "original": "Knee slasher (cc)",
-  "translation": "Knee slasher (cc)",
+  "key": "a1c869995ca3d6a4eaddd3216b3e3354",
+  "original": "Knee slasher (cc) (tec)",
+  "translation": "Knee slasher (cc) (tec)",
   "context": "ID: youmu_knee_slasher2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_knee_slasher2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_knee_slasher2",
   "stage": 1
  },
  {
-  "key": "b4f47505535a6f2f7047f4aa4f963cb7",
-  "original": "Knee slasher (damage)",
-  "translation": "Knee slasher (damage)",
+  "key": "a53bfdb09fdf97050ad1564262cad4dd",
+  "original": "Knee slasher (damage) (tec)",
+  "translation": "Knee slasher (damage) (tec)",
   "context": "ID: youmu_knee_slasher\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_knee_slasher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_knee_slasher",
   "stage": 1
  },
@@ -5603,6 +5791,13 @@
   "stage": 3
  },
  {
+  "key": "12348a96a8bb2bf39bd7e37b3315e3b6",
+  "original": "Metabolic meditation (effect)",
+  "translation": "Metabolic meditation (effect)",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kasen_calorieburn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_calorieburn",
+  "stage": 1
+ },
+ {
   "key": "73382e07a2af5e25cc43441b511b9b40",
   "original": "Miasma burst",
   "translation": "瘴气爆发",
@@ -5664,6 +5859,13 @@
   "translation": "Modified death_blood for mon_chasm_kaenbyou ",
   "context": "ID: death_blood2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_blood2",
   "stage": 3
+ },
+ {
+  "key": "929cf8ef22b1e873bbdc1f335e7b2aed",
+  "original": "Modified death_blood for mon_disgrace_seiga ",
+  "translation": "Modified death_blood for mon_disgrace_seiga ",
+  "context": "ID: death_blood3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_blood3",
+  "stage": 1
  },
  {
   "key": "61c1e2b87ec6e68601927264e18840a4",
@@ -5731,7 +5933,7 @@
   "key": "f510208092129c2e1be2898723ecb108",
   "original": "Movement speed is reduced.",
   "translation": "Movement speed is reduced.",
-  "context": "ID: youmu_knee_slasher_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmu_knee_slasher_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_knee_slasher_slow",
+  "context": "ID: youmumyon2_slasheternal2_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmumyon2_slasheternal2_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmumyon2_slasheternal2_slow",
   "stage": 1
  },
  {
@@ -5817,6 +6019,13 @@
   "translation": "周围的生物无法觉察到你",
   "context": "ID: kaenbyou_soulshatter\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kaenbyou_soulshatter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_soulshatter",
   "stage": 3
+ },
+ {
+  "key": "6c359da6bd0a46c6f91fe9a8991568ef",
+  "original": "Nearby vengeful spirits take control, fusing together!",
+  "translation": "Nearby vengeful spirits take control, fusing together!",
+  "context": "ID: kaenbyou_vspossess_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_vspossess_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess_kill",
+  "stage": 1
  },
  {
   "key": "383e3cf659cb3d4858193af79194f9c3",
@@ -6092,15 +6301,29 @@
  {
   "key": "f37f68b0af0110c5f4e543f422177f83",
   "original": "Palm strike (left)",
-  "translation": "Palm strike （left）",
+  "translation": "Palm strike (left)",
   "context": "ID: tec_kasen_palm_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palm_left\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kasen_palm_left",
+  "stage": 1
+ },
+ {
+  "key": "a415316e6f1def0fc376890aa2c2490a",
+  "original": "Palm strike (left) (tec)",
+  "translation": "Palm strike (left) (tec)",
+  "context": "ID: kasen_palm_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palm_left\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_palm_left",
   "stage": 1
  },
  {
   "key": "fbcfdda215c39a3e3ce45e44a90d4401",
   "original": "Palm strike (right)",
-  "translation": "Palm strike （right）",
+  "translation": "Palm strike (right)",
   "context": "ID: tec_kasen_palm_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_palm_right\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kasen_palm_right",
+  "stage": 1
+ },
+ {
+  "key": "3d00e05be05cce5c8fa1af3ec27c2643",
+  "original": "Palm strike (right) (tec)",
+  "translation": "Palm strike (right) (tec)",
+  "context": "ID: kasen_palm_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_palm_right\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_palm_right",
   "stage": 1
  },
  {
@@ -6139,6 +6362,13 @@
   "stage": 3
  },
  {
+  "key": "7647d6af3456493d48c9e416286c92f6",
+  "original": "Phantom aura (effect)",
+  "translation": "Phantom aura (effect)",
+  "context": "ID: youmumyon2_slasheternal2_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmumyon2_slasheternal2_slow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmumyon2_slasheternal2_slow",
+  "stage": 1
+ },
+ {
   "key": "caf1ca0c8bb72b016cb3e43eebe73f55",
   "original": "Phoenix claws",
   "translation": "不死鸟之爪",
@@ -6148,7 +6378,6 @@
   "key": "519ebff0a988a80b0767bbace22d8999",
   "original": "Physical damage instance for utsuho_nuke ",
   "translation": "Physical damage instance for utsuho_nuke ",
-  "context": "ID: utsuho_nuke4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke4",
   "stage": 3
  },
  {
@@ -6180,6 +6409,13 @@
   "stage": 3
  },
  {
+  "key": "2512119152939bec35f983ac8467f3d2",
+  "original": "Place a forbidden curse upon the target, turning it into your personal minion if it dies under the affliction.",
+  "translation": "Place a forbidden curse upon the target, turning it into your personal minion if it dies under the affliction.",
+  "context": "ID: seiga_corpsecurse\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse",
+  "stage": 1
+ },
+ {
   "key": "2a4e09130e404ecfc2855bcb10585526",
   "original": "Point your finger to the sky, calling forth lightning to hit random enemies around you.",
   "translation": "伸出手指指向天空，从上空向自身诱导出落雷，随机落在周围敌人的头上。",
@@ -6190,28 +6426,32 @@
   "key": "80b46a57dfe5fafc7db785b5f72b5d16",
   "original": "Possession: Vengeful spirit",
   "translation": "凭依：怨灵",
-  "context": "ID: kaenbyou_vspossess\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess",
+  "context": "ID: kaenbyou_vspossess\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess",
   "stage": 3
+ },
+ {
+  "key": "409378ebc467834e4442e3b6b40e1f80",
+  "original": "Possession: Vengeful spirit (kill monsters)",
+  "translation": "Possession: Vengeful spirit (kill monsters)",
+  "context": "ID: kaenbyou_vspossess2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess2",
+  "stage": 1
  },
  {
   "key": "75f448bc76a12915c561e76528b12ee0",
   "original": "Possession: Vengeful spirit (spell tag)",
   "translation": "Possession: Vengeful spirit (spell tag)",
-  "context": "ID: vs_possess_tag_spell\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vs_possess_tag_spell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vs_possess_tag_spell",
   "stage": 3
  },
  {
   "key": "6ec4ff16d08fb53672c217d99d52dd5c",
   "original": "Possession: Vengeful spirit (summoning mon_vengeful_chasm )",
   "translation": "Possession: Vengeful spirit (summoning mon_vengeful_chasm )",
-  "context": "ID: vs_possess_chasm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vs_possess_chasm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vs_possess_chasm",
   "stage": 3
  },
  {
   "key": "bf947a8700f9e56bb0ffcfb017b37a56",
   "original": "Possession: Vengeful spirit (summoning mon_vengeful_posessed )",
   "translation": "Possession: Vengeful spirit (summoning mon_vengeful_posessed )",
-  "context": "ID: vs_possess_possessed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vs_possess_possessed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vs_possess_possessed",
   "stage": 3
  },
  {
@@ -6252,8 +6492,15 @@
  {
   "key": "eb52230a669962013ae90d09eeb5d272",
   "original": "Punch (left)",
-  "translation": "Punch （left）",
+  "translation": "Punch (left)",
   "context": "ID: tec_kasen_punch_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_punch_left\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kasen_punch_left",
+  "stage": 1
+ },
+ {
+  "key": "f15b32a2f6fc3318a9370ec4b93ed735",
+  "original": "Punch (left) (tec)",
+  "translation": "Punch (left) (tec)",
+  "context": "ID: kasen_punch_left\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_left\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_punch_left",
   "stage": 1
  },
  {
@@ -6266,8 +6513,15 @@
  {
   "key": "4b1fe19f9f04b390cb8564ca43a0980c",
   "original": "Punch (right)",
-  "translation": "Punch （right）",
+  "translation": "Punch (right)",
   "context": "ID: tec_kasen_punch_right\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_punch_right\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kasen_punch_right",
+  "stage": 1
+ },
+ {
+  "key": "dace0e91a7cea36ea8eccb47edead112",
+  "original": "Punch (right) (tec)",
+  "translation": "Punch (right) (tec)",
+  "context": "ID: kasen_punch_right2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_punch_right2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_punch_right2",
   "stage": 1
  },
  {
@@ -6571,6 +6825,20 @@
   "stage": 1
  },
  {
+  "key": "8ecd56da1530f3f7c1a4bcac95559722",
+  "original": "Reisen",
+  "translation": "Reisen",
+  "context": "ID: PROF_REISEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_REISEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_REISEN",
+  "stage": 1
+ },
+ {
+  "key": "809f45de711329eb1710236a52c404e8",
+  "original": "Reisen's specific profession flag",
+  "translation": "Reisen's specific profession flag",
+  "context": "ID: PROF_REISEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_REISEN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_REISEN",
+  "stage": 1
+ },
+ {
   "key": "d5256582917b89cc8fa90f20b660d1fc",
   "original": "Release all gathered Vengeful spirits.  It's much less peaceful than it sounds though, as they explode dealing damage.",
   "translation": "释放所有聚集的怨灵。它并不像听起来那样和平，它们爆炸并造成伤害。",
@@ -6581,8 +6849,14 @@
   "key": "8db13451c528c42da898122a27adea3f",
   "original": "Release the damage accumulated by your diseases on the target.  Deals a very large amount of damage, but consumes the stored damage.  \nAffects the damage over time from Icy pyrexia, Scarlet plague and Volatile rot.  The stored damage is reduced slowly over time.",
   "translation": "将目标身上源于你的疾病的伤害释放。造成大量伤害，但也消耗了存储的伤害。\n影响来自冰烧、猩红疫和爆发性腐坏的随时间的伤害。储存的伤害随时间缓慢降低。",
-  "context": "ID: yamame_miasmaburst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_miasmaburst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_miasmaburst",
   "stage": 3
+ },
+ {
+  "key": "3cf8b7c554bb622f39417f94a7bbab54",
+  "original": "Release the damage accumulated by your diseases on the target.  Deals damage upfront, but consumes the stored damage in the process.  \nAffected by the damage over time of Icy pyrexia, Scarlet plague and Volatile rot.  The stored damage is slowly reduced over time.",
+  "translation": "Release the damage accumulated by your diseases on the target.  Deals damage upfront, but consumes the stored damage in the process.  \nAffected by the damage over time of Icy pyrexia, Scarlet plague and Volatile rot.  The stored damage is slowly reduced over time.",
+  "context": "ID: yamame_miasmaburst\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_miasmaburst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_miasmaburst",
+  "stage": 1
  },
  {
   "key": "255f311e1431644b6fe4344f6924cff0",
@@ -6674,6 +6948,13 @@
   "stage": 3
  },
  {
+  "key": "53a489cdf4bddbec18e61f9d21f1602e",
+  "original": "Removes all mon_vengeful_spirit under the aoe",
+  "translation": "Removes all mon_vengeful_spirit under the aoe",
+  "context": "ID: kaenbyou_vspossess2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess2",
+  "stage": 1
+ },
+ {
   "key": "fc5bceaf417016570dd9ec76f99ad4f5",
   "original": "Repair (spell)",
   "translation": "Repair (spell)",
@@ -6684,15 +6965,36 @@
   "key": "e059ed1d3ab649a2cda68c8726019cf0",
   "original": "Replica of utsuho_hellcannon2 casted by mon_utsuho_minisun ",
   "translation": "Replica of utsuho_hellcannon2 casted by mon_utsuho_minisun ",
-  "context": "ID: mon_hellcannon_msun2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2",
+  "context": "ID: mon_msun_hellcannon2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_msun_hellcannon2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_msun_hellcannon2",
   "stage": 3
  },
  {
   "key": "188cecc3a6dda6703bfe6d01d18f1041",
   "original": "Replica of utsuho_hellcannon2_unc casted by mon_utsuho_minisun ",
   "translation": "Replica of utsuho_hellcannon2_unc casted by mon_utsuho_minisun ",
-  "context": "ID: mon_hellcannon_msun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_hellcannon_msun2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_hellcannon_msun2_unc",
+  "context": "ID: mon_msun_hellcannon2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_msun_hellcannon2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_msun_hellcannon2_unc",
   "stage": 3
+ },
+ {
+  "key": "90f3b446a45240711c2ae5ca03a251a4",
+  "original": "Replica of youmu_slasheternal2_bash casted by mon_youmumyon ",
+  "translation": "Replica of youmu_slasheternal2_bash casted by mon_youmumyon ",
+  "context": "ID: mon_youmumyon_slasheternal2_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slasheternal2_bash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slasheternal2_bash",
+  "stage": 1
+ },
+ {
+  "key": "9387e3186f5c1f6911e49592da9562e6",
+  "original": "Replica of youmu_slasheternal2_cut casted by mon_youmumyon ",
+  "translation": "Replica of youmu_slasheternal2_cut casted by mon_youmumyon ",
+  "context": "ID: mon_youmumyon_slasheternal2_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slasheternal2_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slasheternal2_cut",
+  "stage": 1
+ },
+ {
+  "key": "3a352f26d7c0466d41358060905db206",
+  "original": "Replica of youmu_slashnether2 casted by mon_youmumyon ",
+  "translation": "Replica of youmu_slashnether2 casted by mon_youmumyon ",
+  "context": "ID: mon_youmumyon_slashnether2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slashnether2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slashnether2",
+  "stage": 1
  },
  {
   "key": "e0864cdd19264909486fe5e06eaeaec2",
@@ -6899,6 +7201,12 @@
   "key": "a3525f36ef0bfcc697aceaef564c6c59",
   "original": "Sakuya's specific CHANGING flag.",
   "translation": "Sakuya's specific CHANGING flag.",
+  "stage": 1
+ },
+ {
+  "key": "ab3bba3c20af4f73158851d791407cfd",
+  "original": "Sakuya's specific profession flag",
+  "translation": "Sakuya's specific profession flag",
   "context": "ID: PROF_SAKUYA\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_SAKUYA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_SAKUYA",
   "stage": 1
  },
@@ -7018,6 +7326,12 @@
   "key": "ceaeb2e500fcd8bc46543e214b5eff70",
   "original": "Seiga's specific CHANGING flag.",
   "translation": "Seiga's specific CHANGING flag.",
+  "stage": 1
+ },
+ {
+  "key": "b41cfb164035705ee42bf7fb957dc596",
+  "original": "Seiga's specific profession flag",
+  "translation": "Seiga's specific profession flag",
   "context": "ID: PROF_SEIGA\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_SEIGA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_SEIGA",
   "stage": 1
  },
@@ -7080,7 +7394,7 @@
   "key": "bbf4d3a7f56345eec13abfd183e9a539",
   "original": "Set target",
   "translation": "设置目标",
-  "context": "ID: utsuho_nuke_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_nuke_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke_eoc"
+  "context": "ID: utsuho_ugeyser_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_ugeyser_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser_eoc"
  },
  {
   "key": "66b3cf5bcc5bf49d169d6dd7067da922",
@@ -7229,6 +7543,20 @@
   "stage": 3
  },
  {
+  "key": "c022b0c048ff80e2eaf54f38ef8fba82",
+  "original": "Slash of nether meditation (add var)",
+  "translation": "Slash of nether meditation (add var)",
+  "context": "ID: slashnether2_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slashnether2_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slashnether2_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "4ed7a4d15b3dca59d8b4ccd5a3f000a3",
+  "original": "Slash of nether meditation (reduce EOC)",
+  "translation": "Slash of nether meditation (reduce EOC)",
+  "context": "ID: mon_youmumyon_slashnether_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slashnether_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slashnether_reduce",
+  "stage": 1
+ },
+ {
   "key": "5fc83427f3e7f521a9862b1d62641aa3",
   "original": "Slash of nether meditation (terrain effect)",
   "translation": "Slash of nether meditation (terrain effect)",
@@ -7239,8 +7567,64 @@
   "key": "0a049eca900d2fd35059f9da93c85bcf",
   "original": "Slash of the eternal future",
   "translation": "未来永劫斩",
-  "context": "ID: youmu_slasheternal2_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal2_bash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal2_bash",
+  "context": "ID: youmu_slasheternal\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal",
   "stage": 3
+ },
+ {
+  "key": "430f934187311f975e92fff975126540",
+  "original": "Slash of the eternal future (bash)",
+  "translation": "Slash of the eternal future （bash）",
+  "context": "ID: youmu_slasheternal2_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal2_bash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal2_bash",
+  "stage": 1
+ },
+ {
+  "key": "75de83efbe2faeba5a2519e4e5fc55a5",
+  "original": "Slash of the eternal future (bash) (add var)",
+  "translation": "Slash of the eternal future (bash) (add var)",
+  "context": "ID: slasheternal2_bash_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slasheternal2_bash_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slasheternal2_bash_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "f446869d0989694e329eddca037cd2d4",
+  "original": "Slash of the eternal future (bash) (slashes)",
+  "translation": "Slash of the eternal future （bash） （slashes）",
+  "context": "ID: youmu_slasheternal3_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal3_bash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal3_bash",
+  "stage": 1
+ },
+ {
+  "key": "043e52db63e6309be7f43057bb008e0c",
+  "original": "Slash of the eternal future (cut)",
+  "translation": "Slash of the eternal future （cut）",
+  "context": "ID: youmu_slasheternal2_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal2_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal2_cut",
+  "stage": 1
+ },
+ {
+  "key": "e54d6e214516f66bc484e58bc768f044",
+  "original": "Slash of the eternal future (cut) (add var)",
+  "translation": "Slash of the eternal future (cut) (add var)",
+  "context": "ID: slasheternal2_cut_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slasheternal2_cut_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slasheternal2_cut_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "9854c1daf3b68b94bc2577ae746d0c3e",
+  "original": "Slash of the eternal future (cut) (slashes)",
+  "translation": "Slash of the eternal future （cut） （slashes）",
+  "context": "ID: youmu_slasheternal3_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal3_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal3_cut",
+  "stage": 1
+ },
+ {
+  "key": "60e2fa7006c9f2f19e851dea57a8c423",
+  "original": "Slash of the eternal future (phantom)",
+  "translation": "Slash of the eternal future (phantom)",
+  "context": "ID: mon_youmumyon2_slasheternal2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slasheternal2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slasheternal2",
+  "stage": 1
+ },
+ {
+  "key": "3a2c73d3d099a67b20360d3da1b5834d",
+  "original": "Slash of the eternal future (reduce EOC)",
+  "translation": "Slash of the eternal future （reduce EOC）",
+  "context": "ID: mon_youmumyon2_slashnether2_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2_reduce",
+  "stage": 1
  },
  {
   "key": "acda855689000ebbc0f85dbcd0f2e2c5",
@@ -7252,14 +7636,12 @@
   "key": "192a5cd475fd661cf6294c2a49e4a6ff",
   "original": "Slash of the eternal future (slashes) (bash)",
   "translation": "Slash of the eternal future (slashes) (bash)",
-  "context": "ID: youmu_slasheternal3_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal3_bash\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal3_bash",
   "stage": 3
  },
  {
   "key": "2612254074b3b7b7ccd22e6ffae7e23c",
   "original": "Slash of the eternal future (slashes) (cut)",
   "translation": "Slash of the eternal future (slashes) (cut)",
-  "context": "ID: youmu_slasheternal3_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal3_cut\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_slasheternal3_cut",
   "stage": 3
  },
  {
@@ -7587,8 +7969,14 @@
   "key": "8fa2d2dceffec33a3d6773d2687d183b",
   "original": "Stinger (damage)",
   "translation": "Stinger (damage)",
-  "context": "ID: youmu_stinger\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_stinger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_stinger",
   "stage": 3
+ },
+ {
+  "key": "9a318cd0e2f515d20ea325ed27ce24f3",
+  "original": "Stinger (damage) (tec)",
+  "translation": "Stinger (damage) (tec)",
+  "context": "ID: youmu_stinger\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_stinger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=youmu_stinger",
+  "stage": 1
  },
  {
   "key": "d6b1f9b41c490fd3b8b21258edc0328d",
@@ -7729,6 +8117,13 @@
   "translation": "Stun component of yamame_damnedrope ",
   "context": "ID: yamame_damnedrope3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope3",
   "stage": 3
+ },
+ {
+  "key": "73d385784ee14f43081714f7fd4b441c",
+  "original": "Subpsell that adds a random dot effect on the rezzed target",
+  "translation": "Subpsell that adds a random dot effect on the rezzed target",
+  "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse3",
+  "stage": 1
  },
  {
   "key": "7fa5e30f0cae4caae2621534881751fb",
@@ -7901,8 +8296,15 @@
  {
   "key": "7e5c1861ac0c9eacc7994affc189c1ae",
   "original": "Swipe (Wrap)",
-  "translation": "Swipe （Wrap）",
+  "translation": "Swipe (Wrap)",
   "context": "ID: tec_kasen_swipe\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_swipe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kasen_swipe",
+  "stage": 1
+ },
+ {
+  "key": "812050de6748e8728da99320c2992f45",
+  "original": "Swipe (Wrap) (tec)",
+  "translation": "Swipe (Wrap) (tec)",
+  "context": "ID: kasen_swipe\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_swipe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_swipe",
   "stage": 1
  },
  {
@@ -8141,6 +8543,13 @@
   "stage": 1
  },
  {
+  "key": "2a56854d3790f2cb4654d228db5b7b90",
+  "original": "Terrain damage instance for utsuho_nuke ",
+  "translation": "Terrain damage instance for utsuho_nuke ",
+  "context": "ID: utsuho_nuke4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_nuke4",
+  "stage": 1
+ },
+ {
   "key": "1d402e9eaae73cf9ed0b9e5f015b9c31",
   "original": "Terrain transformation component of youmu_slasheternal ",
   "translation": "Terrain transformation component of youmu_slasheternal ",
@@ -8376,6 +8785,20 @@
   "stage": 1
  },
  {
+  "key": "df485427dd9f926c10ef423033b771a0",
+  "original": "The soul of your victim erupts from its corpse!",
+  "translation": "The soul of your victim erupts from its corpse!",
+  "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecursed_kill",
+  "stage": 1
+ },
+ {
+  "key": "444a8ef0ab1aad76a00784d7c3fc6585",
+  "original": "The souls of your victims erupts from their corpses!",
+  "translation": "The souls of your victims erupts from their corpses!",
+  "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecursed_kill",
+  "stage": 1
+ },
+ {
   "key": "3ec06cb02eadbae98ede865d87d3bb64",
   "original": "The soulshard shatters, nearby enemies stop sensing you!",
   "translation": "灵魂碎片粉碎了，周围的敌人无法感知到你了！",
@@ -8455,7 +8878,6 @@
   "key": "129f77bd53782579fed0728e7a2c057c",
   "original": "This adds the condition for mon_utsuho_minisun to cast the spell",
   "translation": "This adds the condition for mon_utsuho_minisun to cast the spell",
-  "context": "ID: hellcannon_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon",
   "stage": 3
  },
  {
@@ -8464,6 +8886,34 @@
   "translation": "This adds the condition for mon_utsuho_minisun to cast the uncontrollable version of the spell",
   "context": "ID: hellcannon_to_mon_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_unc",
   "stage": 3
+ },
+ {
+  "key": "33215437c57ff22fd89356e8a6e3bd04",
+  "original": "This adds the condition for mon_utsuho_minisun to cast their version of the spell",
+  "translation": "This adds the condition for mon_utsuho_minisun to cast their version of the spell",
+  "context": "ID: hellcannon_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "1705ff12157433000d1bc6056b42cf25",
+  "original": "This adds the condition for mon_youmumyon to cast the uncontrollable version of the spell",
+  "translation": "This adds the condition for mon_youmumyon to cast the uncontrollable version of the spell",
+  "context": "ID: slasheternal2_bash_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slasheternal2_bash_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slasheternal2_bash_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "96e5bfeb280c96a581d45b4e3408481b",
+  "original": "This adds the condition for mon_youmumyon to cast their version of the spell",
+  "translation": "This adds the condition for mon_youmumyon to cast their version of the spell",
+  "context": "ID: slashnether2_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slashnether2_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=slashnether2_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "e7c1e367a7a066c64603f4a910e96faf",
+  "original": "This insult to nature is the result of trying to force a technique designed for humans into something else.  Whatever this was in life has fused with the self of nearby stray souls, turning into something that shouldn't exist.",
+  "translation": "This insult to nature is the result of trying to force a technique designed for humans into something else.  Whatever this was in life has fused with the self of nearby stray souls, turning into something that shouldn't exist.",
+  "context": "ID: mon_disgrace_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_disgrace_seiga\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_disgrace_seiga",
+  "stage": 1
  },
  {
   "key": "4593a14fd4ff5768ecf0cec7aac00add",
@@ -8476,14 +8926,12 @@
   "key": "be11df5b72d38e5bbdd0aa4848fe9dc7",
   "original": "This is casted by mon_vengeful_spirit and forces those under the aoe to run the EOC, which adds var_ for each enemy under the aoe",
   "translation": "This is casted by mon_vengeful_spirit and forces those under the aoe to run the EOC, which adds var_ for each enemy under the aoe",
-  "context": "ID: vs_possess_tag_spell\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→vs_possess_tag_spell\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vs_possess_tag_spell",
   "stage": 3
  },
  {
   "key": "789259da3b7556a0252c298d6d26470a",
   "original": "This reduces the condition for mon_utsuho_minisun to cast the spell",
   "translation": "This reduces the condition for mon_utsuho_minisun to cast the spell",
-  "context": "ID: hellcannon_to_mon_zero\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon_zero\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon_zero",
   "stage": 3
  },
  {
@@ -8712,7 +9160,7 @@
   "key": "7a22fed6a6467ce1f9b13e5aa8b3ed4b",
   "original": "Time manipulation (Time stop)",
   "translation": "时间操纵（停止）",
-  "context": "ID: sakuya_timestop_wip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_wip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_wip",
+  "context": "ID: sakuya_timestop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop",
   "stage": 3
  },
  {
@@ -8842,6 +9290,13 @@
   "stage": 5
  },
  {
+  "key": "99007c483c0514c44207d3c8b05785ed",
+  "original": "Trigger a small geyser at the location, which emerges after a brief delay, dealing some damage to hostile creatures and pushing anything caught in the area.  It's not subterranean anymore, is it?",
+  "translation": "Trigger a small geyser at the location, which emerges after a brief delay, dealing some damage to hostile creatures and pushing anything caught in the area.  It's not subterranean anymore, is it?",
+  "context": "ID: utsuho_ugeyser\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_ugeyser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser",
+  "stage": 1
+ },
+ {
   "key": "3e2242d10507d35538d79b36e93fde62",
   "original": "Trigger sphere",
   "translation": "触发球体",
@@ -8891,6 +9346,13 @@
   "stage": 3
  },
  {
+  "key": "b4f4c50d7b2223715f0633cf8001f80c",
+  "original": "Udonge",
+  "translation": "Udonge",
+  "context": "ID: PROF_UDONGE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_UDONGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_UDONGE",
+  "stage": 1
+ },
+ {
   "key": "a8b88a323511f49df96a0b823e863543",
   "original": "Udonge's shirt",
   "translation": "优昙华的衬衫",
@@ -8924,6 +9386,13 @@
   "translation": "优昙华的短裙",
   "context": "ID: udonge_skirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→udonge_skirt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_skirt",
   "stage": 3
+ },
+ {
+  "key": "ca88336394f747a9a222222b1b73e681",
+  "original": "Udonge's specific profession flag",
+  "translation": "Udonge's specific profession flag",
+  "context": "ID: PROF_UDONGE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_UDONGE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_UDONGE",
+  "stage": 1
  },
  {
   "key": "e3ae3f8246290138e248920c093ae369",
@@ -9254,6 +9723,13 @@
   "translation": "Visual effect for the aoe, so the player is aware of the effect boundary",
   "context": "ID: sakuya_maidsecret2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret2",
   "stage": 3
+ },
+ {
+  "key": "b430692dbacfb4dc0f1aca66c6b967a3",
+  "original": "Visual effect for udonge_barrierwave , so the player is aware when she's hit",
+  "translation": "Visual effect for udonge_barrierwave , so the player is aware when she's hit",
+  "context": "ID: udonge_warrierwave_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_warrierwave_vfx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_warrierwave_vfx",
+  "stage": 1
  },
  {
   "key": "aa3f97dfef52837127bae1f47ed2e9dd",
@@ -9718,6 +10194,13 @@
   "stage": 3
  },
  {
+  "key": "9de20356759dca13aa816adad9a518c1",
+  "original": "You command nearby vengeful spirits to take control!",
+  "translation": "You command nearby vengeful spirits to take control!",
+  "context": "ID: kaenbyou_vspossess\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_vspossess\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_vspossess",
+  "stage": 1
+ },
+ {
   "key": "85f60600a68fa5a97fd4fa733fbbfed5",
   "original": "You could fight for days without end…",
   "translation": "你能不停歇的连续战斗数日…",
@@ -9847,6 +10330,13 @@
   "translation": "你进入一种类似正念的状态。",
   "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_mfortitude",
   "stage": 3
+ },
+ {
+  "key": "adfeb82ba1c1c04b9006f3fa8d516d98",
+  "original": "You exit your meditative state.",
+  "translation": "You exit your meditative state.",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kasen_calorieburn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_calorieburn",
+  "stage": 1
  },
  {
   "key": "9c090e8afd546f51b6afc6653b876514",
@@ -10236,6 +10726,12 @@
   "translation": "你放宽你的%s。",
   "context": "ID: iku_long_scarf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL_ARMOR→iku_long_scarf\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iku_long_scarf",
   "stage": 3
+ },
+ {
+  "key": "6dae86bf169d564667455674baa84a47",
+  "original": "You lose your concentration!",
+  "translation": "你无法集中专注！",
+  "context": "ID: sakuya_maidsecret_hit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_maidsecret_hit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_maidsecret_hit"
  },
  {
   "key": "ea2cf08f110743d454f9dbd8af6bbfbc",
@@ -10900,6 +11396,20 @@
   "stage": 3
  },
  {
+  "key": "16ed55a43e08b60e799fb83a58a900fd",
+  "original": "You're burning calories for spiritual energy.",
+  "translation": "You're burning calories for spiritual energy.",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kasen_calorieburn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_calorieburn",
+  "stage": 1
+ },
+ {
+  "key": "2d638e8b72bdb33ced81cf2a40ddd208",
+  "original": "You're concentrated, turning your physical into spiritual energy…",
+  "translation": "You're concentrated, turning your physical into spiritual energy…",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kasen_calorieburn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_calorieburn",
+  "stage": 1
+ },
+ {
   "key": "d97aaeda3ddd7b72ee3bc4dcd9816fe2",
   "original": "You're concentrated…",
   "translation": "你聚精会神...",
@@ -10912,6 +11422,13 @@
   "translation": "你渴望血液。",
   "context": "ID: bloodthirst_veryhigh\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→bloodthirst_veryhigh\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bloodthirst_veryhigh",
   "stage": 3
+ },
+ {
+  "key": "059313da98e9e3aba0eec1c35dfb44ae",
+  "original": "You're cursed to something worse than eternal rest.",
+  "translation": "You're cursed to something worse than eternal rest.",
+  "context": "ID: seiga_corpsecurse_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_corpsecurse_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecurse_effect",
+  "stage": 1
  },
  {
   "key": "bcac36feab292ae06162b98fea35bc9c",
@@ -11261,6 +11778,20 @@
   "translation": "你释放了吸血鬼的极意。",
   "context": "ID: aura_vampiric\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_vampiric\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aura_vampiric",
   "stage": 3
+ },
+ {
+  "key": "609ca271c68d13dbd2414e41173e386b",
+  "original": "Your victim warps as life leaves its body, turning into a monstrosity!",
+  "translation": "Your victim warps as life leaves its body, turning into a monstrosity!",
+  "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecursed_kill",
+  "stage": 1
+ },
+ {
+  "key": "5cedf062a24be307d0679e6a321b0901",
+  "original": "Your victims warp as life leaves their bodies, turning into monstrosities!",
+  "translation": "Your victims warp as life leaves their bodies, turning into monstrosities!",
+  "context": "ID: seiga_corpsecursed_kill\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_corpsecursed_kill\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_corpsecursed_kill",
+  "stage": 1
  },
  {
   "key": "0624adf870cabfc720ed6bb0c96d2032",
@@ -11954,6 +12485,20 @@
   "translation": "弹幕",
   "context": "ID: myon_bullet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ammunition_type→myon_bullet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=myon_bullet",
   "stage": 3
+ },
+ {
+  "key": "4e9ce2fe92844bd8c647bfb3200994db",
+  "original": "disgrace",
+  "translation": "disgrace",
+  "context": "ID: mon_disgrace_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_disgrace_seiga\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_disgrace_seiga",
+  "stage": 1
+ },
+ {
+  "key": "b5c7e53ab344d191ec8d4437be77c8b5",
+  "original": "disgraces",
+  "translation": "disgraces",
+  "context": "ID: mon_disgrace_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_disgrace_seiga\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_disgrace_seiga",
+  "stage": 1
  },
  {
   "key": "2f8b96d1818bbaa4454b81d37c4ffbe4",
