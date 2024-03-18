@@ -1,211 +1,4 @@
-[
-  {
-    "key": "c57f89acce63a19a0f984c8c3f79b214",
-    "original": "A garden pot growing some tasty, unnameable plants.  You shouldn't see this item.",
-    "translation": "一个种有美味的，但不能食用的植物的花盆。你不应该看到这个东西。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→[1]\n"
-  },
-  {
-    "key": "63bc8aa092675e9beff9feb23f0cdc76",
-    "original": "A garden pot with some ripe, unnameable plants.  You shouldn't see this item.",
-    "translation": "一个种有美味的，但不能食用的植物的花盆。你不应该看到这个东西。",
-    "stage": 5,
-    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→[2]\n"
-  },
-  {
-    "key": "02066f4909575dd94918f448082c1205",
-    "original": "A special pot for growing plants, maintaining them at comfortable conditions for maximum yield.  It can be crafted with various seeds to plant them.",
-    "translation": "一种特殊的花盆，用于种植植物，使它们保持在舒适的条件下以获得最高产量。它可以配合各种种子在制作菜单合成重了作物的花盆来种植它们。",
-    "stage": 3,
-    "context": "ID: gp_pot\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_pot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_pot"
-  },
-  {
-    "key": "72bc7e1a02292bc68228a97565fef60e",
-    "original": "Allows you to grow seeds in craftable garden pots that can be carried around as items.  Perfect for the nomadic botanist.",
-    "translation": "让玩家能够制造可携带的花盆，并在其中种植作物，非常适合居无定所的种植者。",
-    "stage": 5,
-    "context": "ID: growable-pots\n位于 /Kenan-Structured-Modpack/Growable_pots/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→MOD_INFO→growable-pots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=growable-pots"
-  },
-  {
-    "key": "b8bd56691b3a469231faf1444274c0bc",
-    "original": "Garden Pots",
-    "translation": "园艺花盆",
-    "stage": 5,
-    "context": "ID: growable-pots\n位于 /Kenan-Structured-Modpack/Growable_pots/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→MOD_INFO→growable-pots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=growable-pots"
-  },
-  {
-    "key": "b89e776d45b85d539116b0726040f3cf",
-    "original": "This is a garden pot containing a big cabbage leaf.  Disassemble to harvest it.",
-    "translation": "种有一棵大白菜的花盆。拆解它以收获。",
-    "stage": 3,
-    "context": "ID: gp_cabbage_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cabbage_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cabbage_ready"
-  },
-  {
-    "key": "c2cb1f2fca79e14fe97434179256db65",
-    "original": "This is a garden pot containing blooming hops flowers.  Disassemble to harvest them.",
-    "translation": "种有一个盛开着啤酒花的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_hops_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_hops_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_hops_ready"
-  },
-  {
-    "key": "9f4db00ed323817099fee64a32b14b30",
-    "original": "This is a garden pot containing pungent garlic bulbs.  Disassemble to harvest them, or wave it at vampires to scare them.",
-    "translation": "种有一个辛辣大蒜球茎的花盆。拆解它以收获，或者...你可以试试对吸血鬼挥舞这玩意来吓吓他们？",
-    "stage": 5,
-    "context": "ID: gp_garlic_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_garlic_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_garlic_ready"
-  },
-  {
-    "key": "f805d10480e71ae705cc4fe5885180a3",
-    "original": "This is a garden pot containing ripe buckwheat stalks.  Disassemble to harvest them.",
-    "translation": "种有成熟的荞麦茎的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_buckwheat_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_buckwheat_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_buckwheat_ready"
-  },
-  {
-    "key": "1a289cda5504d071103034a7a1fca852",
-    "original": "This is a garden pot containing ripe cucumbers.  Disassemble to harvest them.",
-    "translation": "种有成熟的黄瓜的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_cucumber_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cucumber_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cucumber_ready"
-  },
-  {
-    "key": "b16db8696441d183ec2755ca2f9c384b",
-    "original": "This is a garden pot containing some fully-grown broccoli.  Disassemble to harvest it.",
-    "translation": "种有些成熟的花椰菜的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_broccoli_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_broccoli_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_broccoli_ready"
-  },
-  {
-    "key": "4f4ed5994ed54a5aadd56d6f8817d297",
-    "original": "This is a garden pot containing some golden, fully-grown oats.  Disassemble to harvest them.",
-    "translation": "种有些金色的、成熟的燕麦的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_oats_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_oats_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_oats_ready"
-  },
-  {
-    "key": "3897d5d471296b13f6f43e7e5d13d43b",
-    "original": "This is a garden pot containing some ready-to-harvest barley.  Disassemble to harvest it.",
-    "translation": "种有些待收割大麦的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_barley_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_barley_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_barley_ready"
-  },
-  {
-    "key": "eff54465a29592854a1d7c38ce6c09c9",
-    "original": "This is a garden pot containing some ripe carrots.  Disassemble to harvest them.  Store away from rabbits.",
-    "translation": "种有成熟的胡萝卜的花盆。拆解它以收获。",
-    "stage": 5,
-    "context": "ID: gp_carrot_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_carrot_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_carrot_ready"
-  },
-  {
-    "key": "4934859d0de24e436d1063b97561addb",
-    "original": "This is a garden pot containing white, fluffy cotton bolls ready for the loom.  Disassemble to pluck them.",
-    "translation": "种有些白色蓬松的棉铃的花盆，摘下来就能用来织布了。拆解它以摘下来。",
-    "stage": 5,
-    "context": "ID: gp_cotton_boll_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cotton_boll_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cotton_boll_ready"
-  },
-  {
-    "key": "8e72f9e7011ac5939d64c95f8ba97f3c",
-    "original": "This is a garden pot growing barley.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "这是一个种植着大麦的园艺花盆。一旦成熟，它就可以被激活以供收获。",
-    "stage": 5,
-    "context": "ID: gp_barley\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_barley\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_barley"
-  },
-  {
-    "key": "309d871684277b2a6c8a5ae867b0175f",
-    "original": "This is a garden pot growing broccoli.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着花椰菜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_broccoli\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_broccoli\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_broccoli"
-  },
-  {
-    "key": "62fb586808d36c846bf1ba659ae62256",
-    "original": "This is a garden pot growing buckwheat.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着荞麦的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_buckwheat\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_buckwheat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_buckwheat"
-  },
-  {
-    "key": "7f34cf824269c95c4284255154d41e67",
-    "original": "This is a garden pot growing cabbage.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着卷心菜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_cabbage\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cabbage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cabbage"
-  },
-  {
-    "key": "3c7f2345306adeeade554cf0a39c7943",
-    "original": "This is a garden pot growing carrots.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着胡萝卜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_carrot\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_carrot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_carrot"
-  },
-  {
-    "key": "eb25dd7ff9765a76f75c23b01387410c",
-    "original": "This is a garden pot growing cotton.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着棉花的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_cotton_boll\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cotton_boll\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cotton_boll"
-  },
-  {
-    "key": "87463481a79cc415e2b77d28d3e2f8c7",
-    "original": "This is a garden pot growing cucumber.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着黄瓜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_cucumber\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cucumber\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cucumber"
-  },
-  {
-    "key": "df08fc3587611e1ad211b76290880f95",
-    "original": "This is a garden pot growing garlic bulbs.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着大蒜球茎的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_garlic\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_garlic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_garlic"
-  },
-  {
-    "key": "3aabfdafa9eeec531cabf989d225a833",
-    "original": "This is a garden pot growing hops.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着啤酒花的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_hops\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_hops\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_hops"
-  },
-  {
-    "key": "74ed90d9663c1d2380af004cede57b89",
-    "original": "This is a garden pot growing oats.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着燕麦的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_oats\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_oats\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_oats"
-  },
-  {
-    "key": "1cc38dc8b770017b74e659e397893960",
-    "original": "This is a garden pot growing tomatoes.  Once ripe, it can be activated to prepare them for harvest.",
-    "translation": "种着西红柿的花园盆栽。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_tomato\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_tomato\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_tomato"
-  },
-  {
-    "key": "abdebdeecda69c1f08e1ad34d86e51f7",
-    "original": "This is a garden pot growing wheat.  Once ripe, it can be activated to prepare it for harvest.",
-    "translation": "种着小麦的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
-    "stage": 3,
-    "context": "ID: gp_wheat\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_wheat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_wheat"
-  },
-  {
-    "key": "ee90a585306d4cf63f1a3b066379a83f",
-    "original": "This is a garden pot with a ripe tomato plant.  Disassemble to retrieve the tasty 'matos.",
-    "translation": "种着成熟番茄植株的花盆。拆解能获得美味的西红柿。",
-    "stage": 3,
-    "context": "ID: gp_tomato_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_tomato_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_tomato_ready"
-  },
-  {
-    "key": "63a1f4f3fb5ea8b3c18392696b961c58",
-    "original": "This is a garden pot with wheat ready to harvest.  Disassemble to retrieve it.",
-    "translation": "一个盛放着大麦的花盆。拆解以获得它。",
-    "stage": 3,
-    "context": "ID: gp_wheat_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_wheat_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_wheat_ready"
-  },
-  {
-    "key": "d35f71548642cf7e0e8e116d3c6f26e3",
-    "original": "garden pot",
-    "translation": "园艺花盆",
+,
     "stage": 3,
     "context": "ID: gp_pot\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_pot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_pot"
   },
@@ -464,7 +257,214 @@
   {
     "key": "862e949e57095dcb632f8b13921c916d",
     "original": "garden pots (growing tomatoes)",
-    "translation": "园艺花盆（西红柿生长中）",
+    "translation": "园艺花盆（西红柿生长�[
+  {
+    "key": "c57f89acce63a19a0f984c8c3f79b214",
+    "original": "A garden pot growing some tasty, unnameable plants.  You shouldn't see this item.",
+    "translation": "一个种有美味的，但不能食用的植物的花盆。你不应该看到这个东西。",
+    "stage": 5,
+    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→[1]\n"
+  },
+  {
+    "key": "63bc8aa092675e9beff9feb23f0cdc76",
+    "original": "A garden pot with some ripe, unnameable plants.  You shouldn't see this item.",
+    "translation": "一个种有美味的，但不能食用的植物的花盆。你不应该看到这个东西。",
+    "stage": 5,
+    "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→[2]\n"
+  },
+  {
+    "key": "02066f4909575dd94918f448082c1205",
+    "original": "A special pot for growing plants, maintaining them at comfortable conditions for maximum yield.  It can be crafted with various seeds to plant them.",
+    "translation": "一种特殊的花盆，用于种植植物，使它们保持在舒适的条件下以获得最高产量。它可以配合各种种子在制作菜单合成重了作物的花盆来种植它们。",
+    "stage": 3,
+    "context": "ID: gp_pot\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_pot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_pot"
+  },
+  {
+    "key": "72bc7e1a02292bc68228a97565fef60e",
+    "original": "Allows you to grow seeds in craftable garden pots that can be carried around as items.  Perfect for the nomadic botanist.",
+    "translation": "让玩家能够制造可携带的花盆，并在其中种植作物，非常适合居无定所的种植者。",
+    "stage": 5,
+    "context": "ID: growable-pots\n位于 /Kenan-Structured-Modpack/Growable_pots/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→MOD_INFO→growable-pots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=growable-pots"
+  },
+  {
+    "key": "b8bd56691b3a469231faf1444274c0bc",
+    "original": "Garden Pots",
+    "translation": "园艺花盆",
+    "stage": 5,
+    "context": "ID: growable-pots\n位于 /Kenan-Structured-Modpack/Growable_pots/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→MOD_INFO→growable-pots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=growable-pots"
+  },
+  {
+    "key": "b89e776d45b85d539116b0726040f3cf",
+    "original": "This is a garden pot containing a big cabbage leaf.  Disassemble to harvest it.",
+    "translation": "种有一棵大白菜的花盆。拆解它以收获。",
+    "stage": 3,
+    "context": "ID: gp_cabbage_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cabbage_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cabbage_ready"
+  },
+  {
+    "key": "c2cb1f2fca79e14fe97434179256db65",
+    "original": "This is a garden pot containing blooming hops flowers.  Disassemble to harvest them.",
+    "translation": "种有一个盛开着啤酒花的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_hops_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_hops_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_hops_ready"
+  },
+  {
+    "key": "9f4db00ed323817099fee64a32b14b30",
+    "original": "This is a garden pot containing pungent garlic bulbs.  Disassemble to harvest them, or wave it at vampires to scare them.",
+    "translation": "种有一个辛辣大蒜球茎的花盆。拆解它以收获，或者...你可以试试对吸血鬼挥舞这玩意来吓吓他们？",
+    "stage": 5,
+    "context": "ID: gp_garlic_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_garlic_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_garlic_ready"
+  },
+  {
+    "key": "f805d10480e71ae705cc4fe5885180a3",
+    "original": "This is a garden pot containing ripe buckwheat stalks.  Disassemble to harvest them.",
+    "translation": "种有成熟的荞麦茎的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_buckwheat_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_buckwheat_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_buckwheat_ready"
+  },
+  {
+    "key": "1a289cda5504d071103034a7a1fca852",
+    "original": "This is a garden pot containing ripe cucumbers.  Disassemble to harvest them.",
+    "translation": "种有成熟的黄瓜的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_cucumber_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cucumber_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cucumber_ready"
+  },
+  {
+    "key": "b16db8696441d183ec2755ca2f9c384b",
+    "original": "This is a garden pot containing some fully-grown broccoli.  Disassemble to harvest it.",
+    "translation": "种有些成熟的花椰菜的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_broccoli_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_broccoli_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_broccoli_ready"
+  },
+  {
+    "key": "4f4ed5994ed54a5aadd56d6f8817d297",
+    "original": "This is a garden pot containing some golden, fully-grown oats.  Disassemble to harvest them.",
+    "translation": "种有些金色的、成熟的燕麦的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_oats_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_oats_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_oats_ready"
+  },
+  {
+    "key": "3897d5d471296b13f6f43e7e5d13d43b",
+    "original": "This is a garden pot containing some ready-to-harvest barley.  Disassemble to harvest it.",
+    "translation": "种有些待收割大麦的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_barley_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_barley_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_barley_ready"
+  },
+  {
+    "key": "eff54465a29592854a1d7c38ce6c09c9",
+    "original": "This is a garden pot containing some ripe carrots.  Disassemble to harvest them.  Store away from rabbits.",
+    "translation": "种有成熟的胡萝卜的花盆。拆解它以收获。",
+    "stage": 5,
+    "context": "ID: gp_carrot_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_carrot_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_carrot_ready"
+  },
+  {
+    "key": "4934859d0de24e436d1063b97561addb",
+    "original": "This is a garden pot containing white, fluffy cotton bolls ready for the loom.  Disassemble to pluck them.",
+    "translation": "种有些白色蓬松的棉铃的花盆，摘下来就能用来织布了。拆解它以摘下来。",
+    "stage": 5,
+    "context": "ID: gp_cotton_boll_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cotton_boll_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cotton_boll_ready"
+  },
+  {
+    "key": "8e72f9e7011ac5939d64c95f8ba97f3c",
+    "original": "This is a garden pot growing barley.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "这是一个种植着大麦的园艺花盆。一旦成熟，它就可以被激活以供收获。",
+    "stage": 5,
+    "context": "ID: gp_barley\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_barley\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_barley"
+  },
+  {
+    "key": "309d871684277b2a6c8a5ae867b0175f",
+    "original": "This is a garden pot growing broccoli.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着花椰菜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_broccoli\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_broccoli\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_broccoli"
+  },
+  {
+    "key": "62fb586808d36c846bf1ba659ae62256",
+    "original": "This is a garden pot growing buckwheat.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着荞麦的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_buckwheat\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_buckwheat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_buckwheat"
+  },
+  {
+    "key": "7f34cf824269c95c4284255154d41e67",
+    "original": "This is a garden pot growing cabbage.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着卷心菜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_cabbage\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cabbage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cabbage"
+  },
+  {
+    "key": "3c7f2345306adeeade554cf0a39c7943",
+    "original": "This is a garden pot growing carrots.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着胡萝卜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_carrot\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_carrot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_carrot"
+  },
+  {
+    "key": "eb25dd7ff9765a76f75c23b01387410c",
+    "original": "This is a garden pot growing cotton.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着棉花的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_cotton_boll\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cotton_boll\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cotton_boll"
+  },
+  {
+    "key": "87463481a79cc415e2b77d28d3e2f8c7",
+    "original": "This is a garden pot growing cucumber.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着黄瓜的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_cucumber\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_cucumber\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_cucumber"
+  },
+  {
+    "key": "df08fc3587611e1ad211b76290880f95",
+    "original": "This is a garden pot growing garlic bulbs.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着大蒜球茎的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_garlic\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_garlic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_garlic"
+  },
+  {
+    "key": "3aabfdafa9eeec531cabf989d225a833",
+    "original": "This is a garden pot growing hops.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着啤酒花的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_hops\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_hops\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_hops"
+  },
+  {
+    "key": "74ed90d9663c1d2380af004cede57b89",
+    "original": "This is a garden pot growing oats.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着燕麦的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_oats\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_oats\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_oats"
+  },
+  {
+    "key": "1cc38dc8b770017b74e659e397893960",
+    "original": "This is a garden pot growing tomatoes.  Once ripe, it can be activated to prepare them for harvest.",
+    "translation": "种着西红柿的花园盆栽。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_tomato\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_tomato\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_tomato"
+  },
+  {
+    "key": "abdebdeecda69c1f08e1ad34d86e51f7",
+    "original": "This is a garden pot growing wheat.  Once ripe, it can be activated to prepare it for harvest.",
+    "translation": "种着小麦的花盆。一旦成熟，它就会时刻保持活性，随时可以收割。",
+    "stage": 3,
+    "context": "ID: gp_wheat\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_wheat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_wheat"
+  },
+  {
+    "key": "ee90a585306d4cf63f1a3b066379a83f",
+    "original": "This is a garden pot with a ripe tomato plant.  Disassemble to retrieve the tasty 'matos.",
+    "translation": "种着成熟番茄植株的花盆。拆解能获得美味的西红柿。",
+    "stage": 3,
+    "context": "ID: gp_tomato_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_tomato_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_tomato_ready"
+  },
+  {
+    "key": "63a1f4f3fb5ea8b3c18392696b961c58",
+    "original": "This is a garden pot with wheat ready to harvest.  Disassemble to retrieve it.",
+    "translation": "一个盛放着大麦的花盆。拆解以获得它。",
+    "stage": 3,
+    "context": "ID: gp_wheat_ready\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_wheat_ready\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_wheat_ready"
+  },
+  {
+    "key": "d35f71548642cf7e0e8e116d3c6f26e3",
+    "original": "garden pot",
+    "translation": "园艺花盆"�）",
     "stage": 3,
     "context": "ID: gp_tomato\n位于 /Kenan-Structured-Modpack/Growable_pots/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Growable_pots→GENERIC→gp_tomato\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gp_tomato"
   },

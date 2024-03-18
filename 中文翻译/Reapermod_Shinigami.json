@@ -1,4 +1,216 @@
-[
+ "stage": 3,
+    "context": "ID: scythe_bone\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_bone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_bone"
+  },
+  {
+    "key": "e7bf0f997c2e8db94b7bdd3606d3c819",
+    "original": "This scythe has been modified by reducing its weight and strengthening the blade -  definitely a weapon fit for a grim reaper.",
+    "translation": "这把镰刀经过了改进，减轻重量的同时强化了刀刃——对死神来说，这绝对是一把趁手的武器。",
+    "stage": 3,
+    "context": "ID: scythe_war_upgraded\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_war_upgraded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_war_upgraded"
+  },
+  {
+    "key": "bb5690fc91a657dc3fa9cd73129bd65a",
+    "original": "This weapon resembles a large, golden bird head, with the beak acting as the blade of the sythe, diamonds embedded in its empty eye sockets.",
+    "translation": "这把武器就像一个巨大的，金色的鸟头，眼窝里镶嵌着一颗钻石，鸟喙则正是镰刀的利刃。",
+    "stage": 3,
+    "context": "ID: scythe_ornate\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_ornate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_ornate"
+  },
+  {
+    "key": "8a63de240711164a3c2376aa7fdb8753",
+    "original": "With most of humanity already shown Death's door, all that was left for you to do was to harvest the remining undead - but they are proving to be more troublesome than you anticipated.",
+    "translation": "绝大多数的人类都已经踏入死亡之门，你剩下的工作便是收割其余的不死生物——只不过他们比你预想的还要麻烦得多。",
+    "stage": 3,
+    "context": "ID: grim_reaper\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→profession→grim_reaper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grim_reaper"
+  },
+  {
+    "key": "79383b3ac965d52d8350413139bc3b49",
+    "original": "You critical attack %s",
+    "translation": "你暴击了%s",
+    "stage": 3,
+    "context": "ID: tec_shinigami_crit\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_crit"
+  },
+  {
+    "key": "405b2cc19c0ae53c727c21deeafc0811",
+    "original": "You feel a rush of vitality from your target into your body.",
+    "translation": "你感到自己从目标体内吸取了一股活力！",
+    "stage": 5,
+    "context": "ID: rs_healing\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→SPELL→rs_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rs_healing"
+  },
+  {
+    "key": "3545c116f79219d8cde0cb5673cbeb99",
+    "original": "You have been taught the battle songs of the death gods.",
+    "translation": "学会了死亡之神的战歌。",
+    "stage": 3,
+    "context": "ID: PROF_MARTIAL_ARTS_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→mutation→PROF_MARTIAL_ARTS_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_MARTIAL_ARTS_shinigami"
+  },
+  {
+    "key": "711be621575f755ac8b3894f1d885678",
+    "original": "You have learned to swing a scythe to make it sing.",
+    "translation": "你学会通过挥舞镰刀，令他发出歌声。",
+    "stage": 1,
+    "context": "ID: MARTIAL_ARTS_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→mutation→MARTIAL_ARTS_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MARTIAL_ARTS_shinigami"
+  },
+  {
+    "key": "06b801a43ad0372c2e81a09724de7214",
+    "original": "You have mastered the art of fighting with a scythe.",
+    "translation": "你已经掌握了使用镰刀战斗的技巧。",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "fd0994ad8a4764fb9cce9b45a8d782d3",
+    "original": "You quickly feint at %s",
+    "translation": "你快速佯攻了%s",
+    "stage": 3,
+    "context": "ID: tec_shinigami_feint\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_feint\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_feint"
+  },
+  {
+    "key": "7e8cbb3f0436ab5829bc01c935bd5261",
+    "original": "You slash at %s from the shadows",
+    "translation": "你从阴影处砍向%s",
+    "stage": 3,
+    "context": "ID: tec_shinigami_fast\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_fast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_fast"
+  },
+  {
+    "key": "0a5ac34868f05e9e2af498371ebdfc95",
+    "original": "You steady the position of your scythe and gracefully enter the combat stance",
+    "translation": "你稳住镰刀的位置，优雅地进入战斗姿态",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "b6161c3211ce47ecce4705fed7e1f504",
+    "original": "You tear through the soul of %s",
+    "translation": "你撕裂了%s的灵魂",
+    "stage": 3,
+    "context": "ID: tec_shinigami_soul\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_soul\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_soul"
+  },
+  {
+    "key": "15444bafbb54cd77c2995441d098445d",
+    "original": "black robe",
+    "translation": "黑袍",
+    "stage": 3,
+    "context": "ID: grimrobe\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→ARMOR→grimrobe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grimrobe"
+  },
+  {
+    "key": "344cbf6401ade612289339918677fd4c",
+    "original": "black robes",
+    "translation": "黑袍",
+    "stage": 3,
+    "context": "ID: grimrobe\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→ARMOR→grimrobe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grimrobe"
+  },
+  {
+    "key": "6b882b6997d70bda2c382eaa3a63987c",
+    "original": "bone scythe",
+    "translation": "骨镰",
+    "stage": 3,
+    "context": "ID: scythe_bone\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_bone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_bone"
+  },
+  {
+    "key": "00735a35bbd147a6d62eb5b585fb29c8",
+    "original": "diamond war scythe",
+    "translation": "钻刃战斗镰刀",
+    "stage": 3,
+    "context": "ID: scythe_diamond\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_diamond\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_diamond"
+  },
+  {
+    "key": "3fff3754f1143efb48ca1e5d3b1d89eb",
+    "original": "perfected war scythe",
+    "translation": "完美战斗镰刀",
+    "stage": 3,
+    "context": "ID: scythe_war_perfected\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_war_perfected\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_war_perfected"
+  },
+  {
+    "key": "eb8b50bc6d9547b028eca97371c22299",
+    "original": "upgraded war scythe",
+    "translation": "改良战斗镰刀",
+    "stage": 3,
+    "context": "ID: scythe_war_upgraded\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_war_upgraded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_war_upgraded"
+  },
+  {
+    "key": "ae00a9714499886308af63cbb767ba0c",
+    "original": "Sickle Drain",
+    "translation": "攫取之镰",
+    "stage": 3,
+    "context": "ID: rs_healing\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→SPELL→rs_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rs_healing"
+  },
+  {
+    "key": "3026fd361eccd67e07a8ec4eeafa7061",
+    "original": "CUTTING",
+    "translation": "斩击",
+    "stage": 5
+  },
+  {
+    "key": "77586fab2f04ba778dd1f60f4b711a19",
+    "original": "Shinigami Song",
+    "translation": "死神之歌",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "318499457e003a60d1949833779e6be8",
+    "original": "Bonus to hit increase when a scythe is equipped.",
+    "translation": "装备镰刀时获得命中加成。",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "8b0e3debbee69269788cca83ab4349c4",
+    "original": "Further reduction to move cost when a scythe is equipped.",
+    "translation": "装备镰刀时减少行动耗时。",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "14a32e1de9f1a6724cb7c87539af3939",
+    "original": "Hunger for Immortality",
+    "translation": "不灭渴望",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "9f26762cb2959e656e2fd88f7ddeab47",
+    "original": "Reduced move cost for attacks when a scythe is equipped.",
+    "translation": "装备镰刀时减少攻击耗时。",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "0cd878556f07e20c98d67a5c3948ccd4",
+    "original": "Storm of the Reaper",
+    "translation": "死神风暴",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "31df12c2cb5093d51752d5c57e29980a",
+    "original": "Winds of the End",
+    "translation": "末日之风",
+    "stage": 3,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "f5ba37fa25ad0f83bfee4b8819b85efa",
+    "original": "Cut damage increase on dodge.",
+    "translation": "闪避时减少伤害增加。",
+    "stage": 0,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "7f8b4ef312c436797cfbf0a464e590b8",
+    "original": "Natural Death Avoidance",
+    "translation": "避免自然死亡",
+    "stage": 1,
+    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
+  },
+  {
+    "key": "62d102002b53fc9abdffd8dc4d172c3e",
+    "original": "Description of the scythe_relic.",
+    "translation": "Description of the scythe_relic.",
+    "stage": 3,
+    "context": "ID: scythe_relic\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_relic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_relic"
+  }
+][
   {
     "key": "694f51afdf499a46b6fa5497efecb59f",
     "original": "%s steadies the position of their scythe and gracefully enters the combat stance",
@@ -227,216 +439,4 @@
     "key": "4106d517357fd709528d8e3d5b204035",
     "original": "This scythe drips with malicious intent. It will quickly and painfully take down any creature susceptible to poison.",
     "translation": "这把镰刀充斥着恶意。任何无法免疫毒素的生物都会被它迅速而痛苦地杀死。",
-    "stage": 3,
-    "context": "ID: scythe_bone\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_bone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_bone"
-  },
-  {
-    "key": "e7bf0f997c2e8db94b7bdd3606d3c819",
-    "original": "This scythe has been modified by reducing its weight and strengthening the blade -  definitely a weapon fit for a grim reaper.",
-    "translation": "这把镰刀经过了改进，减轻重量的同时强化了刀刃——对死神来说，这绝对是一把趁手的武器。",
-    "stage": 3,
-    "context": "ID: scythe_war_upgraded\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_war_upgraded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_war_upgraded"
-  },
-  {
-    "key": "bb5690fc91a657dc3fa9cd73129bd65a",
-    "original": "This weapon resembles a large, golden bird head, with the beak acting as the blade of the sythe, diamonds embedded in its empty eye sockets.",
-    "translation": "这把武器就像一个巨大的，金色的鸟头，眼窝里镶嵌着一颗钻石，鸟喙则正是镰刀的利刃。",
-    "stage": 3,
-    "context": "ID: scythe_ornate\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_ornate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_ornate"
-  },
-  {
-    "key": "8a63de240711164a3c2376aa7fdb8753",
-    "original": "With most of humanity already shown Death's door, all that was left for you to do was to harvest the remining undead - but they are proving to be more troublesome than you anticipated.",
-    "translation": "绝大多数的人类都已经踏入死亡之门，你剩下的工作便是收割其余的不死生物——只不过他们比你预想的还要麻烦得多。",
-    "stage": 3,
-    "context": "ID: grim_reaper\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→profession→grim_reaper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grim_reaper"
-  },
-  {
-    "key": "79383b3ac965d52d8350413139bc3b49",
-    "original": "You critical attack %s",
-    "translation": "你暴击了%s",
-    "stage": 3,
-    "context": "ID: tec_shinigami_crit\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_crit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_crit"
-  },
-  {
-    "key": "405b2cc19c0ae53c727c21deeafc0811",
-    "original": "You feel a rush of vitality from your target into your body.",
-    "translation": "你感到自己从目标体内吸取了一股活力！",
-    "stage": 5,
-    "context": "ID: rs_healing\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→SPELL→rs_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rs_healing"
-  },
-  {
-    "key": "3545c116f79219d8cde0cb5673cbeb99",
-    "original": "You have been taught the battle songs of the death gods.",
-    "translation": "学会了死亡之神的战歌。",
-    "stage": 3,
-    "context": "ID: PROF_MARTIAL_ARTS_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→mutation→PROF_MARTIAL_ARTS_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=PROF_MARTIAL_ARTS_shinigami"
-  },
-  {
-    "key": "711be621575f755ac8b3894f1d885678",
-    "original": "You have learned to swing a scythe to make it sing.",
-    "translation": "你学会通过挥舞镰刀，令他发出歌声。",
-    "stage": 1,
-    "context": "ID: MARTIAL_ARTS_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→mutation→MARTIAL_ARTS_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MARTIAL_ARTS_shinigami"
-  },
-  {
-    "key": "06b801a43ad0372c2e81a09724de7214",
-    "original": "You have mastered the art of fighting with a scythe.",
-    "translation": "你已经掌握了使用镰刀战斗的技巧。",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "fd0994ad8a4764fb9cce9b45a8d782d3",
-    "original": "You quickly feint at %s",
-    "translation": "你快速佯攻了%s",
-    "stage": 3,
-    "context": "ID: tec_shinigami_feint\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_feint\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_feint"
-  },
-  {
-    "key": "7e8cbb3f0436ab5829bc01c935bd5261",
-    "original": "You slash at %s from the shadows",
-    "translation": "你从阴影处砍向%s",
-    "stage": 3,
-    "context": "ID: tec_shinigami_fast\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_fast\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_fast"
-  },
-  {
-    "key": "0a5ac34868f05e9e2af498371ebdfc95",
-    "original": "You steady the position of your scythe and gracefully enter the combat stance",
-    "translation": "你稳住镰刀的位置，优雅地进入战斗姿态",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "b6161c3211ce47ecce4705fed7e1f504",
-    "original": "You tear through the soul of %s",
-    "translation": "你撕裂了%s的灵魂",
-    "stage": 3,
-    "context": "ID: tec_shinigami_soul\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→technique→tec_shinigami_soul\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shinigami_soul"
-  },
-  {
-    "key": "15444bafbb54cd77c2995441d098445d",
-    "original": "black robe",
-    "translation": "黑袍",
-    "stage": 3,
-    "context": "ID: grimrobe\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→ARMOR→grimrobe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grimrobe"
-  },
-  {
-    "key": "344cbf6401ade612289339918677fd4c",
-    "original": "black robes",
-    "translation": "黑袍",
-    "stage": 3,
-    "context": "ID: grimrobe\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→ARMOR→grimrobe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=grimrobe"
-  },
-  {
-    "key": "6b882b6997d70bda2c382eaa3a63987c",
-    "original": "bone scythe",
-    "translation": "骨镰",
-    "stage": 3,
-    "context": "ID: scythe_bone\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_bone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_bone"
-  },
-  {
-    "key": "00735a35bbd147a6d62eb5b585fb29c8",
-    "original": "diamond war scythe",
-    "translation": "钻刃战斗镰刀",
-    "stage": 3,
-    "context": "ID: scythe_diamond\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_diamond\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_diamond"
-  },
-  {
-    "key": "3fff3754f1143efb48ca1e5d3b1d89eb",
-    "original": "perfected war scythe",
-    "translation": "完美战斗镰刀",
-    "stage": 3,
-    "context": "ID: scythe_war_perfected\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_war_perfected\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_war_perfected"
-  },
-  {
-    "key": "eb8b50bc6d9547b028eca97371c22299",
-    "original": "upgraded war scythe",
-    "translation": "改良战斗镰刀",
-    "stage": 3,
-    "context": "ID: scythe_war_upgraded\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_war_upgraded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_war_upgraded"
-  },
-  {
-    "key": "ae00a9714499886308af63cbb767ba0c",
-    "original": "Sickle Drain",
-    "translation": "攫取之镰",
-    "stage": 3,
-    "context": "ID: rs_healing\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→SPELL→rs_healing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rs_healing"
-  },
-  {
-    "key": "3026fd361eccd67e07a8ec4eeafa7061",
-    "original": "CUTTING",
-    "translation": "斩击",
-    "stage": 5
-  },
-  {
-    "key": "77586fab2f04ba778dd1f60f4b711a19",
-    "original": "Shinigami Song",
-    "translation": "死神之歌",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "318499457e003a60d1949833779e6be8",
-    "original": "Bonus to hit increase when a scythe is equipped.",
-    "translation": "装备镰刀时获得命中加成。",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "8b0e3debbee69269788cca83ab4349c4",
-    "original": "Further reduction to move cost when a scythe is equipped.",
-    "translation": "装备镰刀时减少行动耗时。",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "14a32e1de9f1a6724cb7c87539af3939",
-    "original": "Hunger for Immortality",
-    "translation": "不灭渴望",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "9f26762cb2959e656e2fd88f7ddeab47",
-    "original": "Reduced move cost for attacks when a scythe is equipped.",
-    "translation": "装备镰刀时减少攻击耗时。",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "0cd878556f07e20c98d67a5c3948ccd4",
-    "original": "Storm of the Reaper",
-    "translation": "死神风暴",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "31df12c2cb5093d51752d5c57e29980a",
-    "original": "Winds of the End",
-    "translation": "末日之风",
-    "stage": 3,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "f5ba37fa25ad0f83bfee4b8819b85efa",
-    "original": "Cut damage increase on dodge.",
-    "translation": "闪避时减少伤害增加。",
-    "stage": 0,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "7f8b4ef312c436797cfbf0a464e590b8",
-    "original": "Natural Death Avoidance",
-    "translation": "避免自然死亡",
-    "stage": 1,
-    "context": "ID: style_shinigami\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→martial_art→style_shinigami\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_shinigami"
-  },
-  {
-    "key": "62d102002b53fc9abdffd8dc4d172c3e",
-    "original": "Description of the scythe_relic.",
-    "translation": "Description of the scythe_relic.",
-    "stage": 3,
-    "context": "ID: scythe_relic\n位于 /Kenan-Structured-Modpack/Reapermod_Shinigami/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Reapermod_Shinigami→TOOL→scythe_relic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scythe_relic"
-  }
-]
+   

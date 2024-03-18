@@ -1,4 +1,147 @@
-[
+n replaced with a rapid-fire pneumatic hammer.",
+    "translation": "一台清理过的坦克机器人，用载具部件和可疑线路整修过。大炮已经被替换成一个快速射击的气动锤。",
+    "stage": 3,
+    "context": "ID: mon_droidnaught\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_droidnaught\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_droidnaught"
+  },
+  {
+    "key": "b12ac01457e6e1c8af8895e82740b2b6",
+    "original": "A gutted tank bot refurbished with vehicle parts and questionable wiring. The cannon has been replaced with a rapid-fire pneumatic hammer. It is currently inactive and ready to be deployed.",
+    "translation": "一台清理过的坦克机器人，用载具部件和可疑线路整修过。大炮已经被替换成一个快速射击的气动锤。它目前处于关闭状态，并准备好部署。",
+    "stage": 3,
+    "context": "ID: bot_droidnaught\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_droidnaught\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_droidnaught"
+  },
+  {
+    "key": "b2fc0b05ddfa76e7466cfa391ef3478a",
+    "original": "A manhack converted into a venomous stinging drone. The stingers of giant insects have been added in place of blades. It is currently inactive and ready to be deployed.",
+    "translation": "一台改装过的飞锯无人机。巨型昆虫的毒刺替换了刀刃。它目前处于关闭状态，并准备好部署。",
+    "stage": 3,
+    "context": "ID: bot_venomhack\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_venomhack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_venomhack"
+  },
+  {
+    "key": "0384cad76402481301628d8ef14d2c70",
+    "original": "A manhack hastily rewired into a distraction device. Its main blades have been removed, making it harmless, but also more difficult to hit. Mp3's of pre-Cataclysmic folk music have been added as a further distraction.",
+    "translation": "一台被匆忙改造成吸引注意力装置的无人机。它的主刀刃已经被移除，使其失去了杀伤力，但也更难击中。为了进一步吸引注意力，还附加了装有大灾变前的民间音乐的MP3。",
+    "stage": 3,
+    "context": "ID: mon_distractron\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_distractron\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_distractron"
+  },
+  {
+    "key": "fe4a95c85e316b747bfcae2222743bc6",
+    "original": "A manhack hastily rewired into a distraction device. The main blades have been removed, making it harmless, but also more difficult to hit. Mp3's of pre-Cataclysmic folk music have been added as a further distraction. It is currently inactive and ready to be deployed.",
+    "translation": "一台被匆忙改造成吸引注意力装置的无人机。它的主刀刃已经被移除，使其失去了杀伤力，但也更难击中。为了进一步吸引注意力，还附加了装有大灾变前的民间音乐的MP3。它当前处于关闭状态，并准备好部署。",
+    "stage": 3,
+    "context": "ID: bot_distractron\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_distractron\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_distractron"
+  },
+  {
+    "key": "cbcebaafdeddbe2f863ced1717539aa8",
+    "original": "A manhack tinkered into a flying smoke generator. It makes a less effective weapon, but provides a good smoke screen. It's currently inactive and ready to be deployed.",
+    "translation": "一辆检修车修修补补地撞上了一个正在飞行的烟雾发生器。它是一种低效武器，但提供了一个很好的烟幕。它当前处于非活动状态，可以部署。",
+    "stage": 1,
+    "context": "ID: bot_smokehack\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_smokehack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_smokehack"
+  },
+  {
+    "key": "c26aa130899592bcb2f3abbe150ed7e9",
+    "original": "A relentless hoverdrone designed to chase down and exterminate enemy robots. It's capable of firing nine .50bmg rounds before closing in to finish off its prey.",
+    "translation": "一种无情的悬停无人驾驶飞机，旨在追击和消灭敌人的机器人。它能发射9发0.50bmg的子弹，然后接近目标消灭猎物。",
+    "stage": 1,
+    "context": "ID: mon_chaser_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_new_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_chaser_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_chaser_bot"
+  },
+  {
+    "key": "e6102d65aa8b0ce2ca2dbb0dca1f24d6",
+    "original": "A relentless hoverdrone designed to chase down and exterminate enemy robots. It's capable of firing three .50bmg rounds before closing in to finish off its prey. It is currently inactive and ready to be deployed.",
+    "translation": "一种无情的悬停无人驾驶飞机，旨在追击和消灭敌人的机器人。它能在接近猎物前发射3发0.50毫克的子弹。它当前处于非活动状态，可以部署。",
+    "stage": 1,
+    "context": "ID: bot_chaser\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_chaser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_chaser"
+  },
+  {
+    "key": "ab2c34b03ab2834220bc0f15e9f0699a",
+    "original": "A salavaged eyebot patched up with low-grade electronics. The camera has been replaced with a powerful floodlight. It's currently inactive but ready to be deployed.",
+    "translation": "一台回收的眼球无人机，用低级电子元件修补而成。摄像头被换成了强光泛光灯。它目前处于关闭状态，但已准备好部署。",
+    "stage": 3,
+    "context": "ID: bot_orb_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_orb_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_orb_bot"
+  },
+  {
+    "key": "736a67f9f9693247996ad79369b401ff",
+    "original": "A salvaged HAZMAT robot refitted with second-hand circuits and plumbing supplies. It cleans by spraying an area with caustic fluids from an internal boiler. IT is currently inactive and waiting to be deployed.",
+    "translation": "一个被打捞上来的装有二手电路和管道的危险品机器人。它通过在一个区域喷洒来自内部锅炉的腐蚀性液体进行清洁。它当前处于非活动状态，正在等待部署。",
+    "stage": 1,
+    "context": "ID: bot_cleaner_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_cleaner_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_cleaner_bot"
+  },
+  {
+    "key": "e8d6c9d8636222f85a3cc2f811f7a415",
+    "original": "A salvaged HAZMAT robot refitted with second-hand circuits and plumbing supplies. It cleans by spraying caustic fluids from an internal boiler. Although not meant for combat, it can burn enemies effectively.",
+    "translation": "一个被打捞上来的装有二手电路和管道的危险品机器人。它通过从内部锅炉喷射腐蚀性液体进行清洁。虽然不是为了战斗，但它可以有效地燃烧敌人。",
+    "stage": 1,
+    "context": "ID: mon_cleaner_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_cleaner_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_cleaner_bot"
+  },
+  {
+    "key": "21eeadda88538079df680c570945e9e6",
+    "original": "A salvaged chicken walker, pieced back together into a shambling combat robot that's more terrifying than effective. It is currently inactive and ready to be deployed.",
+    "translation": "一个回收的步行机，拼凑成了一个蹒跚而行的战斗机器人，这看起来挺可怕但实战起来不是很有效。它当前处于非活动状态，准备好被部署。",
+    "stage": 3,
+    "context": "ID: bot_murder_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_murder_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_murder_bot"
+  },
+  {
+    "key": "d381da4bdb4cc648591166344c64b1aa",
+    "original": "A salvaged chickenbot, pieced back together into a shambling combat robot that's more terrifying than effective. The flamethrower has been converted into a smoke generator, and the grenade launcher removed to make room for extra belts of 5.56 ammo. For intimidation, rusty spikes and grisly junk adorn the murder machine's hull while loudspeakers play earsplitting shrieks.",
+    "translation": "一个被打捞上来的鸡鼻怪，拼凑成一个摇摇欲坠的战斗机器人，比有效的更可怕。喷火器被改装成烟雾发生器，榴弹发射器也被拆除，以便为5.56弹药的额外传送带腾出空间。为了恐吓，生锈的钉子和可怕的垃圾装饰着杀人机器的外壳，同时扬声器发出震耳欲聋的尖叫声。",
+    "stage": 1,
+    "context": "ID: mon_murder_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_murder_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_murder_bot"
+  },
+  {
+    "key": "b6066931a7f986c6ba400b85c366908b",
+    "original": "A salvaged eyebot patched up with low-grade electronics and equipped with a powerful floodlight. It wobbles unsteadily in the air.",
+    "translation": "一台回收的眼球无人机，用低级的电子元件修补而成，并配有一个强大的泛光灯。它在空中摇摇晃晃。",
+    "stage": 3,
+    "context": "ID: mon_orb_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_orb_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_orb_bot"
+  },
+  {
+    "key": "437144cdeaf619c3f713cd5887e17dbe",
+    "original": "A salvaged manhack tinkered into a venomous drone. The stingers of giant insects have been added in place of blades.",
+    "translation": "一架打捞上来的检修船改装成了一架有毒的无人机。巨型昆虫的毒刺被用来代替叶片。",
+    "stage": 1,
+    "context": "ID: mon_venomhack\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_venomhack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_venomhack"
+  },
+  {
+    "key": "aca8d96a50d69a4649abfda4f88113b9",
+    "original": "A salvaged police bot mended with old circuit boards and car batteries. It's been covered with electrified barbed wire and given a makeshift shock gun. With its safety protocols wiped, the shockbot no longers respects police authority or cares much for the safety of its allies.",
+    "translation": "一个被打捞上来的警察机器人，用旧电路板和汽车电池修补。上面覆盖着带电的铁丝网，还有一个临时的电击枪。随着安全协议的取消，shockbot不再尊重警察权威，也不再关心盟友的安全。",
+    "stage": 1,
+    "context": "ID: mon_shockbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_shockbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shockbot"
+  },
+  {
+    "key": "2238f2a42df15986f08d1658e4043d8a",
+    "original": "A salvaged police bot mended with old circuitboards and car batteries. It's been covered with electrified barbed wire and given a makeshift shock gun. It is currently inactive and ready to be deployed.",
+    "translation": "一个被打捞上来的警察机器人，用旧电路板和汽车电池修补过。上面覆盖着带电的铁丝网，还有一个临时的电击枪。它当前处于非活动状态，可以部署。",
+    "stage": 1,
+    "context": "ID: bot_shockbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_shockbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_shockbot"
+  },
+  {
+    "key": "af84cd9c4760b952811acf72876840a4",
+    "original": "A salvaged riot-control bot awkwardly welded together with an experimental laser turret. A layer of solar cells and blinking LED lights cover it's hull.",
+    "translation": "一个被打捞上来的防暴机器人笨拙地和一个实验性的激光炮塔焊接在一起。船体上覆盖着一层太阳能电池和闪烁的LED灯。",
+    "stage": 1,
+    "context": "ID: mon_solar_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_solar_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_solar_bot"
+  },
+  {
+    "key": "8d723dd164ae64d3856d210c9cb9f416",
+    "original": "A salvaged riot-control bot awkwardly welded together with an experimental laser turret. A layer of solar cells and blinking LED lights cover it's hull. It's currently inactive and ready to be deployed.",
+    "translation": "一个被打捞上来的防暴机器人笨拙地和一个实验性的激光炮塔焊接在一起。船体上覆盖着一层太阳能电池和闪烁的LED灯。它当前处于非活动状态，可以部署。",
+    "stage": 1,
+    "context": "ID: bot_solar_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_solar_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_solar_bot"
+  },
+  {
+    "key": "1b08fb31ddc4fae06665f8187597f316",
+    "original": "A salvaged security bot repurposed into a lumbering engine of destruction. Extra layers of mismatched armor plates and a pair of chainsaws have been welded to the chasis.",
+    "translation": "一个被打捞上来的安全机器人被改造成一个笨重的破坏引擎。额外的一层不匹配的装甲板和一对链锯被焊接到了底盘上。",
+    "stage": 1,
+    "context": "ID: mon_killbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_killbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_killbot"
+  },
+  {
+    "key": "c550ca79bb06ed7e2953a08e75a4bd8d",
+    "original": "A salvaged security bot repurposed into a lumbering engine of destruction. Extra layers of steel armor and a pair of chainsaws have been welded to the chasis. It's currently inactive but ready to be deployed.",
+    "translation": "一个被打捞上来的安全机器人被改造成一个笨重的破坏引擎。额外的一层钢铠甲和一对链锯已经焊接到底盘上。它当前处于非活动状态，但可以部署。",
+    "stage": 1,
+    "context": "ID: bot_killbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_killbo[
   {
     "key": "2720c50578c1e226b913743e88ce3688",
     "original": "A broken HAZMAT bot, now polluted and shattered. It could be gutted for parts or jury-rigged into a new type of bot.",
@@ -176,150 +319,7 @@
   },
   {
     "key": "0eae92a9b09e011eb85375ac0e657368",
-    "original": "A gutted tank bot refurbished with vehicle parts and questionable wiring. The cannon has been replaced with a rapid-fire pneumatic hammer.",
-    "translation": "一台清理过的坦克机器人，用载具部件和可疑线路整修过。大炮已经被替换成一个快速射击的气动锤。",
-    "stage": 3,
-    "context": "ID: mon_droidnaught\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_droidnaught\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_droidnaught"
-  },
-  {
-    "key": "b12ac01457e6e1c8af8895e82740b2b6",
-    "original": "A gutted tank bot refurbished with vehicle parts and questionable wiring. The cannon has been replaced with a rapid-fire pneumatic hammer. It is currently inactive and ready to be deployed.",
-    "translation": "一台清理过的坦克机器人，用载具部件和可疑线路整修过。大炮已经被替换成一个快速射击的气动锤。它目前处于关闭状态，并准备好部署。",
-    "stage": 3,
-    "context": "ID: bot_droidnaught\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_droidnaught\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_droidnaught"
-  },
-  {
-    "key": "b2fc0b05ddfa76e7466cfa391ef3478a",
-    "original": "A manhack converted into a venomous stinging drone. The stingers of giant insects have been added in place of blades. It is currently inactive and ready to be deployed.",
-    "translation": "一台改装过的飞锯无人机。巨型昆虫的毒刺替换了刀刃。它目前处于关闭状态，并准备好部署。",
-    "stage": 3,
-    "context": "ID: bot_venomhack\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_venomhack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_venomhack"
-  },
-  {
-    "key": "0384cad76402481301628d8ef14d2c70",
-    "original": "A manhack hastily rewired into a distraction device. Its main blades have been removed, making it harmless, but also more difficult to hit. Mp3's of pre-Cataclysmic folk music have been added as a further distraction.",
-    "translation": "一台被匆忙改造成吸引注意力装置的无人机。它的主刀刃已经被移除，使其失去了杀伤力，但也更难击中。为了进一步吸引注意力，还附加了装有大灾变前的民间音乐的MP3。",
-    "stage": 3,
-    "context": "ID: mon_distractron\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_distractron\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_distractron"
-  },
-  {
-    "key": "fe4a95c85e316b747bfcae2222743bc6",
-    "original": "A manhack hastily rewired into a distraction device. The main blades have been removed, making it harmless, but also more difficult to hit. Mp3's of pre-Cataclysmic folk music have been added as a further distraction. It is currently inactive and ready to be deployed.",
-    "translation": "一台被匆忙改造成吸引注意力装置的无人机。它的主刀刃已经被移除，使其失去了杀伤力，但也更难击中。为了进一步吸引注意力，还附加了装有大灾变前的民间音乐的MP3。它当前处于关闭状态，并准备好部署。",
-    "stage": 3,
-    "context": "ID: bot_distractron\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_distractron\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_distractron"
-  },
-  {
-    "key": "cbcebaafdeddbe2f863ced1717539aa8",
-    "original": "A manhack tinkered into a flying smoke generator. It makes a less effective weapon, but provides a good smoke screen. It's currently inactive and ready to be deployed.",
-    "translation": "一辆检修车修修补补地撞上了一个正在飞行的烟雾发生器。它是一种低效武器，但提供了一个很好的烟幕。它当前处于非活动状态，可以部署。",
-    "stage": 1,
-    "context": "ID: bot_smokehack\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_smokehack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_smokehack"
-  },
-  {
-    "key": "c26aa130899592bcb2f3abbe150ed7e9",
-    "original": "A relentless hoverdrone designed to chase down and exterminate enemy robots. It's capable of firing nine .50bmg rounds before closing in to finish off its prey.",
-    "translation": "一种无情的悬停无人驾驶飞机，旨在追击和消灭敌人的机器人。它能发射9发0.50bmg的子弹，然后接近目标消灭猎物。",
-    "stage": 1,
-    "context": "ID: mon_chaser_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_new_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_chaser_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_chaser_bot"
-  },
-  {
-    "key": "e6102d65aa8b0ce2ca2dbb0dca1f24d6",
-    "original": "A relentless hoverdrone designed to chase down and exterminate enemy robots. It's capable of firing three .50bmg rounds before closing in to finish off its prey. It is currently inactive and ready to be deployed.",
-    "translation": "一种无情的悬停无人驾驶飞机，旨在追击和消灭敌人的机器人。它能在接近猎物前发射3发0.50毫克的子弹。它当前处于非活动状态，可以部署。",
-    "stage": 1,
-    "context": "ID: bot_chaser\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_chaser\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_chaser"
-  },
-  {
-    "key": "ab2c34b03ab2834220bc0f15e9f0699a",
-    "original": "A salavaged eyebot patched up with low-grade electronics. The camera has been replaced with a powerful floodlight. It's currently inactive but ready to be deployed.",
-    "translation": "一台回收的眼球无人机，用低级电子元件修补而成。摄像头被换成了强光泛光灯。它目前处于关闭状态，但已准备好部署。",
-    "stage": 3,
-    "context": "ID: bot_orb_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_orb_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_orb_bot"
-  },
-  {
-    "key": "736a67f9f9693247996ad79369b401ff",
-    "original": "A salvaged HAZMAT robot refitted with second-hand circuits and plumbing supplies. It cleans by spraying an area with caustic fluids from an internal boiler. IT is currently inactive and waiting to be deployed.",
-    "translation": "一个被打捞上来的装有二手电路和管道的危险品机器人。它通过在一个区域喷洒来自内部锅炉的腐蚀性液体进行清洁。它当前处于非活动状态，正在等待部署。",
-    "stage": 1,
-    "context": "ID: bot_cleaner_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_cleaner_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_cleaner_bot"
-  },
-  {
-    "key": "e8d6c9d8636222f85a3cc2f811f7a415",
-    "original": "A salvaged HAZMAT robot refitted with second-hand circuits and plumbing supplies. It cleans by spraying caustic fluids from an internal boiler. Although not meant for combat, it can burn enemies effectively.",
-    "translation": "一个被打捞上来的装有二手电路和管道的危险品机器人。它通过从内部锅炉喷射腐蚀性液体进行清洁。虽然不是为了战斗，但它可以有效地燃烧敌人。",
-    "stage": 1,
-    "context": "ID: mon_cleaner_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_cleaner_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_cleaner_bot"
-  },
-  {
-    "key": "21eeadda88538079df680c570945e9e6",
-    "original": "A salvaged chicken walker, pieced back together into a shambling combat robot that's more terrifying than effective. It is currently inactive and ready to be deployed.",
-    "translation": "一个回收的步行机，拼凑成了一个蹒跚而行的战斗机器人，这看起来挺可怕但实战起来不是很有效。它当前处于非活动状态，准备好被部署。",
-    "stage": 3,
-    "context": "ID: bot_murder_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_murder_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_murder_bot"
-  },
-  {
-    "key": "d381da4bdb4cc648591166344c64b1aa",
-    "original": "A salvaged chickenbot, pieced back together into a shambling combat robot that's more terrifying than effective. The flamethrower has been converted into a smoke generator, and the grenade launcher removed to make room for extra belts of 5.56 ammo. For intimidation, rusty spikes and grisly junk adorn the murder machine's hull while loudspeakers play earsplitting shrieks.",
-    "translation": "一个被打捞上来的鸡鼻怪，拼凑成一个摇摇欲坠的战斗机器人，比有效的更可怕。喷火器被改装成烟雾发生器，榴弹发射器也被拆除，以便为5.56弹药的额外传送带腾出空间。为了恐吓，生锈的钉子和可怕的垃圾装饰着杀人机器的外壳，同时扬声器发出震耳欲聋的尖叫声。",
-    "stage": 1,
-    "context": "ID: mon_murder_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_murder_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_murder_bot"
-  },
-  {
-    "key": "b6066931a7f986c6ba400b85c366908b",
-    "original": "A salvaged eyebot patched up with low-grade electronics and equipped with a powerful floodlight. It wobbles unsteadily in the air.",
-    "translation": "一台回收的眼球无人机，用低级的电子元件修补而成，并配有一个强大的泛光灯。它在空中摇摇晃晃。",
-    "stage": 3,
-    "context": "ID: mon_orb_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_orb_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_orb_bot"
-  },
-  {
-    "key": "437144cdeaf619c3f713cd5887e17dbe",
-    "original": "A salvaged manhack tinkered into a venomous drone. The stingers of giant insects have been added in place of blades.",
-    "translation": "一架打捞上来的检修船改装成了一架有毒的无人机。巨型昆虫的毒刺被用来代替叶片。",
-    "stage": 1,
-    "context": "ID: mon_venomhack\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_venomhack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_venomhack"
-  },
-  {
-    "key": "aca8d96a50d69a4649abfda4f88113b9",
-    "original": "A salvaged police bot mended with old circuit boards and car batteries. It's been covered with electrified barbed wire and given a makeshift shock gun. With its safety protocols wiped, the shockbot no longers respects police authority or cares much for the safety of its allies.",
-    "translation": "一个被打捞上来的警察机器人，用旧电路板和汽车电池修补。上面覆盖着带电的铁丝网，还有一个临时的电击枪。随着安全协议的取消，shockbot不再尊重警察权威，也不再关心盟友的安全。",
-    "stage": 1,
-    "context": "ID: mon_shockbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_shockbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_shockbot"
-  },
-  {
-    "key": "2238f2a42df15986f08d1658e4043d8a",
-    "original": "A salvaged police bot mended with old circuitboards and car batteries. It's been covered with electrified barbed wire and given a makeshift shock gun. It is currently inactive and ready to be deployed.",
-    "translation": "一个被打捞上来的警察机器人，用旧电路板和汽车电池修补过。上面覆盖着带电的铁丝网，还有一个临时的电击枪。它当前处于非活动状态，可以部署。",
-    "stage": 1,
-    "context": "ID: bot_shockbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_shockbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_shockbot"
-  },
-  {
-    "key": "af84cd9c4760b952811acf72876840a4",
-    "original": "A salvaged riot-control bot awkwardly welded together with an experimental laser turret. A layer of solar cells and blinking LED lights cover it's hull.",
-    "translation": "一个被打捞上来的防暴机器人笨拙地和一个实验性的激光炮塔焊接在一起。船体上覆盖着一层太阳能电池和闪烁的LED灯。",
-    "stage": 1,
-    "context": "ID: mon_solar_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_solar_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_solar_bot"
-  },
-  {
-    "key": "8d723dd164ae64d3856d210c9cb9f416",
-    "original": "A salvaged riot-control bot awkwardly welded together with an experimental laser turret. A layer of solar cells and blinking LED lights cover it's hull. It's currently inactive and ready to be deployed.",
-    "translation": "一个被打捞上来的防暴机器人笨拙地和一个实验性的激光炮塔焊接在一起。船体上覆盖着一层太阳能电池和闪烁的LED灯。它当前处于非活动状态，可以部署。",
-    "stage": 1,
-    "context": "ID: bot_solar_bot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_solar_bot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_solar_bot"
-  },
-  {
-    "key": "1b08fb31ddc4fae06665f8187597f316",
-    "original": "A salvaged security bot repurposed into a lumbering engine of destruction. Extra layers of mismatched armor plates and a pair of chainsaws have been welded to the chasis.",
-    "translation": "一个被打捞上来的安全机器人被改造成一个笨重的破坏引擎。额外的一层不匹配的装甲板和一对链锯被焊接到了底盘上。",
-    "stage": 1,
-    "context": "ID: mon_killbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_rigged_bots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→MONSTER→mon_killbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_killbot"
-  },
-  {
-    "key": "c550ca79bb06ed7e2953a08e75a4bd8d",
-    "original": "A salvaged security bot repurposed into a lumbering engine of destruction. Extra layers of steel armor and a pair of chainsaws have been welded to the chasis. It's currently inactive but ready to be deployed.",
-    "translation": "一个被打捞上来的安全机器人被改造成一个笨重的破坏引擎。额外的一层钢铠甲和一对链锯已经焊接到底盘上。它当前处于非活动状态，但可以部署。",
-    "stage": 1,
-    "context": "ID: bot_killbot\n位于 /Kenan-Structured-Modpack/Jury_Rigged_Robots/jrr_items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Jury_Rigged_Robots→TOOL→bot_killbot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_killbot"
+    "original": "A gutted tank bot refurbished with vehicle parts and questionable wiring. The cannon has beet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_killbot"
   },
   {
     "key": "a611701a697db01647ab70c68822d188",
