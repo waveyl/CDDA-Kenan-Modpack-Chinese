@@ -4,7 +4,7 @@
   "original": " ",
   "translation": " ",
   "context": "ID: pm_template\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Faqtions/TheyAreBigTheyAreSmall.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→faction→pm_template\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_template",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6464e53472e311f543d98759a6954afb",
@@ -112,10 +112,22 @@
   "stage": 1
  },
  {
+  "key": "60b8828b96cdcf929aa6dfc7d971aa4c",
+  "original": "%1$s placed a fire sphere near you!",
+  "translation": "%1$s placed a fire sphere near you！",
+  "stage": 1
+ },
+ {
   "key": "9b1c266045a7708ea5f66fc6525a522f",
   "original": "%1$s placed a fire symbol near you!",
   "translation": "%1$s placed a fire symbol near you！",
   "context": "ID: mon_prophet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_prophet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_prophet",
+  "stage": 1
+ },
+ {
+  "key": "6273290af28ee724fcb7d027eefa0fc4",
+  "original": "%1$s placed a huge fire sphere near you!",
+  "translation": "%1$s placed a huge fire sphere near you!",
   "stage": 1
  },
  {
@@ -298,14 +310,14 @@
   "original": "*…* ",
   "translation": "*…* ",
   "context": "ID: TALK_LIM_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_LIM_RC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LIM_RC",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "336d5ebc5436534e61d16e63ddfca327",
   "original": "-",
   "translation": "-",
   "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TEST_FIND_LC2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ad06ff46f9a01ae85f44f7e8fe3e3286",
@@ -318,7 +330,8 @@
   "key": "2f43b42fd833d1e77420a8dae7419000",
   "original": "...",
   "translation": "…",
-  "context": "ID: ACCEPT_QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→ACCEPT_QUEST_LIM_DAUGHTER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ACCEPT_QUEST_LIM_DAUGHTER"
+  "context": "ID: ACCEPT_QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→ACCEPT_QUEST_LIM_DAUGHTER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ACCEPT_QUEST_LIM_DAUGHTER",
+  "stage": 3
  },
  {
   "key": "36cc3bbab7def5f958b9ad827822813d",
@@ -520,7 +533,8 @@
   "key": "4f98ab89f493ec1658b89242c7ad796f",
   "original": "<npcname> swings in a wide arc through %s",
   "translation": "<npcname>大幅挥击%s",
-  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec"
+  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec",
+  "stage": 1
  },
  {
   "key": "d4cf9cb52d5595005fba5b1c51a69c72",
@@ -743,7 +757,8 @@
   "key": "e40b7351da1f17fb930be57446d55dcd",
   "original": "A steel breastplate, and a vital part of plate armor.  Even as full armor went into decline, cuirasses remained in use among cavalry in Europe.",
   "translation": "一件钢制的胸腹部护甲，一套盔甲的核心部位。就算在全身覆甲的潮流被时代所淘汰之后，钢制胸甲仍然在欧洲的骑兵部队中有被装备。",
-  "context": "ID: cuirass_lightplate_test\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→cuirass_lightplate_test\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_lightplate_test"
+  "context": "ID: cuirass_lightplate_test\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→cuirass_lightplate_test\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cuirass_lightplate_test",
+  "stage": 1
  },
  {
   "key": "57b95a30b6054e76a88ab10bf41bba81",
@@ -791,7 +806,8 @@
   "key": "1ba772d1975f7580db350f377e6734aa",
   "original": "A white button-down shirt with long sleeves.  Looks professional!",
   "translation": "一件白色纽扣领的长袖衬衫。\n“穿着像个专业人士！”",
-  "context": "ID: pm_shirt\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_shirt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_shirt"
+  "context": "ID: pm_shirt\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_shirt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_shirt",
+  "stage": 1
  },
  {
   "key": "22397b0c1e0c79031f4e46b7ea80a023",
@@ -839,7 +855,8 @@
   "key": "6132295fcf5570fb8b0a944ef322a598",
   "original": "Alpha",
   "translation": "超人",
-  "context": "ID: alpha_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→alpha_npc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alpha_npc"
+  "context": "ID: alpha_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→alpha_npc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=alpha_npc",
+  "stage": 1
  },
  {
   "key": "6a9cb3eec7a76e64c5042d185cefcec3",
@@ -859,7 +876,8 @@
   "key": "44c769654dc5e74b8b1d72419c839e7c",
   "original": "An aluminum can, like what soda comes in.",
   "translation": "一个铝罐，就是装汽水的那种。",
-  "context": "ID: well_can\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→well_can\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=well_can"
+  "context": "ID: well_can\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Wellcheers/CansOfFun.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→well_can\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=well_can",
+  "stage": 1
  },
  {
   "key": "854979f5612aebdb9ba269358807529e",
@@ -920,8 +938,9 @@
  {
   "key": "b86e757cce3cd090e942fbc983851690",
   "original": "Attack in a wide arc, crit only, min 3 melee",
-  "translation": "攻击大角度范围内敌人，仅暴击，最低 3 近战",
-  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec"
+  "translation": "攻击大角度范围内敌人，仅暴击，至少 3 级近战",
+  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec",
+  "stage": 3
  },
  {
   "key": "5bb3b2eed78048c344e63f17b98bfd96",
@@ -1165,7 +1184,8 @@
   "key": "db547a9a5b84991c24ec850ac0749c0b",
   "original": "Cotton",
   "translation": "棉",
-  "context": "ID: pm_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_cotton"
+  "context": "ID: pm_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_cotton",
+  "stage": 1
  },
  {
   "key": "182219c12193afc531b64f718c446a89",
@@ -1473,6 +1493,12 @@
   "original": "Fine an' fine.  Come back to this'n if you like to try again.",
   "translation": "Fine an' fine.  Come back to this'n if you like to try again.",
   "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TEST_FIND_LC2",
+  "stage": 1
+ },
+ {
+  "key": "4e86572b28112397da47f0b81a2d3655",
+  "original": "Fire sphere",
+  "translation": "Fire sphere",
   "stage": 1
  },
  {
@@ -1800,8 +1826,9 @@
  {
   "key": "6ae99d4d2de5e3cbd29fec87ae7d76eb",
   "original": "Hey!",
-  "translation": "Hey！",
-  "context": "ID: TALK_REC_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_REC_ZW\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REC_ZW"
+  "translation": "Hey!",
+  "context": "ID: TALK_REC_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_REC_ZW\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_REC_ZW",
+  "stage": 1
  },
  {
   "key": "5f29964d9318daef5e31b133fe8b822b",
@@ -1968,13 +1995,15 @@
   "key": "451bb58c2e5a9ba5f9c024ef7c44ef3b",
   "original": "Infrared Vision",
   "translation": "红外视觉",
-  "context": "ID: bio_infrared_inv\n位于 /Kenan-Structured-Modpack/PM_World/Items/Bionicle.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→bionic→bio_infrared_inv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_infrared_inv"
+  "context": "ID: bio_infrared_inv\n位于 /Kenan-Structured-Modpack/PM_World/Items/Bionicle.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→bionic→bio_infrared_inv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_infrared_inv",
+  "stage": 1
  },
  {
   "key": "1677867225bbcbb767eccac8825db4a7",
   "original": "Infrared Vision CBM",
   "translation": "红外视觉CBM",
-  "context": "ID: bio_infrared_inv\n位于 /Kenan-Structured-Modpack/PM_World/Items/Bionicle.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BIONIC_ITEM→bio_infrared_inv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_infrared_inv"
+  "context": "ID: bio_infrared_inv\n位于 /Kenan-Structured-Modpack/PM_World/Items/Bionicle.json\n类型为 BIONIC_ITEM\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→BIONIC_ITEM→bio_infrared_inv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_infrared_inv",
+  "stage": 1
  },
  {
   "key": "d63fdb7af0696c8265ada5a0c436b8b1",
@@ -2016,6 +2045,12 @@
   "original": "It was a long time ago. The Lim family was attacked by people. Lim's wife was killed and his daughter was taken away. Lim was weak and could not protect them. Lim ran away like a rat, but he is still looking for his daughter. Now Lim is strong, but he can’t find it. Because Lim is sad and hard",
   "translation": "It was a long time ago. The Lim family was attacked by people. Lim's wife was killed and his daughter was taken away. Lim was weak and could not protect them. Lim ran away like a rat, but he is still looking for his daughter. Now Lim is strong, but he can’t find it. Because Lim is sad and hard",
   "context": "ID: HISTORY_CONTINUE_LIM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→HISTORY_CONTINUE_LIM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=HISTORY_CONTINUE_LIM",
+  "stage": 1
+ },
+ {
+  "key": "2c29e586fb0573c9fe0b1e1065b39444",
+  "original": "It will explode anytime!",
+  "translation": "It will explode anytime!",
   "stage": 1
  },
  {
@@ -2239,7 +2274,8 @@
   "key": "bdf7ad23e89b55f904bca0304819309e",
   "original": "Leather",
   "translation": "皮革",
-  "context": "ID: pm_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_leather"
+  "context": "ID: pm_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_leather",
+  "stage": 1
  },
  {
   "key": "a52945dbe283de2f7e9d63ca3417f36a",
@@ -2525,7 +2561,8 @@
   "key": "3dca323a65bb64abf65e2f93e109f300",
   "original": "Never mind",
   "translation": "没事了。",
-  "context": "ID: TALK_DUGLAS_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Duglas.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_DUGLAS_RC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_DUGLAS_RC"
+  "context": "ID: TALK_DUGLAS_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Duglas.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_DUGLAS_RC\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_DUGLAS_RC",
+  "stage": 1
  },
  {
   "key": "d71538219797d45c6cdc71a0d6f3c21b",
@@ -2705,9 +2742,9 @@
  {
   "key": "c22548c49214c718b440a6ea0fc333c0",
   "original": "Project Moon World",
-  "translation": "Project Moon World",
+  "translation": "月计世界",
   "context": "ID: pm_world\n位于 /Kenan-Structured-Modpack/PM_World/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MOD_INFO→pm_world\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_world",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "93d2bdbf7c9c9cf8d39d44bbc94c8360",
@@ -2930,7 +2967,8 @@
   "key": "19d7e47d75ae07f6b552f578a09903b3",
   "original": "Soft red carpet.",
   "translation": "柔软的红色地毯。",
-  "context": "ID: t_carpet_red_light\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_carpet_red_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_carpet_red_light"
+  "context": "ID: t_carpet_red_light\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_carpet_red_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_carpet_red_light",
+  "stage": 1
  },
  {
   "key": "46629b474d62df46ea485d1337da7891",
@@ -3006,7 +3044,8 @@
   "key": "4668112d7c5f80a73a826dd8150989df",
   "original": "Steel",
   "translation": "钢",
-  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_steel"
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_steel",
+  "stage": 1
  },
  {
   "key": "b707667098263ab9d55a170a8eed19b1",
@@ -3135,6 +3174,12 @@
   "stage": 1
  },
  {
+  "key": "5d6370c95eaef11ba0aa397e8a188c47",
+  "original": "Test hair for cheking new hair type",
+  "translation": "Test hair for cheking new hair type",
+  "stage": 1
+ },
+ {
   "key": "341e2905d8979351e23a5ca917acfc88",
   "original": "Thanks for the information, bye",
   "translation": "Thanks for the information，bye",
@@ -3187,13 +3232,15 @@
   "key": "7244d18a8e7cc1cb76fd429ed38f0d6a",
   "original": "The %s is blinded!",
   "translation": "The %s is blinded！",
-  "context": "ID: wps_acediae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_acediae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_acediae_body"
+  "context": "ID: wps_acediae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_acediae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_acediae_body",
+  "stage": 1
  },
  {
   "key": "338d19af5e0126398a0e0be9cf9dddc7",
   "original": "The %s is knocked down!",
   "translation": "The %s is knocked down！",
-  "context": "ID: wps_irae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_irae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_irae_body"
+  "context": "ID: wps_irae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_irae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_irae_body",
+  "stage": 1
  },
  {
   "key": "974a284338d84fc51b967a088100833b",
@@ -3206,13 +3253,15 @@
   "key": "8aee748307160e1b3eb080bb532f0f64",
   "original": "The %s is knocked off-balance!",
   "translation": "The %s is knocked off-balance！",
-  "context": "ID: wps_gulae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_gulae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_gulae_body"
+  "context": "ID: wps_gulae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_gulae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_gulae_body",
+  "stage": 1
  },
  {
   "key": "986a382375ef31117b87c8572d59570e",
   "original": "The %s is stunned!",
   "translation": "The %s is stunned！",
-  "context": "ID: wps_luxiae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_luxiae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_luxiae_body"
+  "context": "ID: wps_luxiae_body\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/WhatsYourWeaknes.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→weakpoint_set→wps_luxiae_body\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wps_luxiae_body",
+  "stage": 1
  },
  {
   "key": "8c66fb43d98d32ccb11687877bb8e701",
@@ -3350,9 +3399,9 @@
  {
   "key": "ddc47b589322ebd896ef28aa3ccf1ad0",
   "original": "This mod add various items from Project Moon universe",
-  "translation": "This mod add various items from Project Moon universe",
+  "translation": "增加来自月亮计划宇宙的各种物品\n（月亮计划，Project Moon，《脑叶公司》《废墟图书馆》与《边狱巴士》的制作商）",
   "context": "ID: pm_world\n位于 /Kenan-Structured-Modpack/PM_World/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MOD_INFO→pm_world\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_world",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5b0231e4004daaa5ab6d9a9967502892",
@@ -3638,7 +3687,8 @@
   "key": "6d07b621f405abec582cca17872ff8bb",
   "original": "What is it?",
   "translation": "干什么？",
-  "context": "ID: TALK_ZW_HELP2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ZW_HELP2"
+  "context": "ID: TALK_ZW_HELP2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ZW_HELP2",
+  "stage": 1
  },
  {
   "key": "a65761051781e8237d20f93c7f07c15f",
@@ -3700,7 +3750,8 @@
   "key": "983925664c8991ef2a69a9052c794123",
   "original": "Wide Strike",
   "translation": "大幅攻击",
-  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec"
+  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec",
+  "stage": 1
  },
  {
   "key": "4a4b2aa1f17e42c44f86181317077813",
@@ -4007,7 +4058,8 @@
   "key": "c1d51f0dc33baa6b040c6c0013e5f8b2",
   "original": "You swing in a wide arc through %s",
   "translation": "你大幅挥击%s",
-  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec"
+  "context": "ID: testtec\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→testtec\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=testtec",
+  "stage": 1
  },
  {
   "key": "e0fe3bccb108014c62de27f6385ba4e7",
@@ -4237,7 +4289,8 @@
   "key": "bca62860e72e203b6fd6649048cefd0d",
   "original": "Your range of vision extends into the infrared, allowing you to see warm-blooded creatures in the dark or through smoke.",
   "translation": "你的视觉扩展到了红外波段，使你能在黑暗中或透过烟雾看见恒温生物。",
-  "context": "ID: bio_infrared_inv\n位于 /Kenan-Structured-Modpack/PM_World/Items/Bionicle.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→bionic→bio_infrared_inv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_infrared_inv"
+  "context": "ID: bio_infrared_inv\n位于 /Kenan-Structured-Modpack/PM_World/Items/Bionicle.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→bionic→bio_infrared_inv\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_infrared_inv",
+  "stage": 1
  },
  {
   "key": "ef19fe6f71c35fce19fb88a0e732e9bb",
@@ -4457,6 +4510,12 @@
   "stage": 1
  },
  {
+  "key": "7b6c9a88fa632be62677bf3043e88ac4",
+  "original": "big fire sphere",
+  "translation": "big fire sphere",
+  "stage": 1
+ },
+ {
   "key": "a71c0b67ec5d65dcdfc2dbdf362c1cd1",
   "original": "big mysterious fiery symbols",
   "translation": "big mysterious fiery symbols",
@@ -4516,7 +4575,8 @@
   "key": "e62e3ce65b4bd91d57353fa9473696e2",
   "original": "blazer",
   "translation": "运动夹克",
-  "context": "ID: pm_blazer\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_blazer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_blazer"
+  "context": "ID: pm_blazer\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_blazer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pm_blazer",
+  "stage": 1
  },
  {
   "key": "134a2cbfa1c4b26b078d5fa206c07baf",
@@ -4578,7 +4638,8 @@
   "key": "37c6ab2fd1e8347dcc69226b592f1a58",
   "original": "carpet",
   "translation": "地毯",
-  "context": "ID: t_carpet_red_light\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_carpet_red_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_carpet_red_light"
+  "context": "ID: t_carpet_red_light\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_carpet_red_light\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_carpet_red_light",
+  "stage": 1
  },
  {
   "key": "80ed752565b9941eecfa92416cb0c3b1",
@@ -4605,7 +4666,8 @@
   "key": "e3e90fd6d2a7c4661a1a3acf2f60bc6d",
   "original": "cook",
   "translation": "厨师",
-  "context": "ID: lc_cook_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_cook_npc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lc_cook_npc"
+  "context": "ID: lc_cook_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_cook_npc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lc_cook_npc",
+  "stage": 1
  },
  {
   "key": "4f587587c14ba7549c4c31c9b99f8d67",
@@ -4632,13 +4694,15 @@
   "key": "463c8a7593a8a79078cb5c119424e62a",
   "original": "crack",
   "translation": "快克",
-  "context": "ID: b_polymer\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→b_polymer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_polymer"
+  "context": "ID: b_polymer\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→b_polymer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_polymer",
+  "stage": 1
  },
  {
   "key": "cc8b1415557f58abf2e2fa83c2ea6c91",
   "original": "cracked",
   "translation": "裂纹",
-  "context": "ID: b_polymer\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→b_polymer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_polymer"
+  "context": "ID: b_polymer\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→b_polymer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=b_polymer",
+  "stage": 1
  },
  {
   "key": "e3c5c87c54be9f0bdcabc7f6aa7d37ed",
@@ -4658,7 +4722,8 @@
   "key": "fe47aa7c733c490d36e80508d5dc4019",
   "original": "cut",
   "translation": "斩击",
-  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton"
+  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton",
+  "stage": 1
  },
  {
   "key": "e136974574e41ad6ed8f0581960e9925",
@@ -4671,7 +4736,8 @@
   "key": "d1018c81e900c4b65f7611c4ae73fb88",
   "original": "dented",
   "translation": "凹损",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel"
+  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel",
+  "stage": 1
  },
  {
   "key": "f9f16d97c90d8c6f2cab37bb6d1f1992",
@@ -4720,6 +4786,12 @@
   "original": "fire feathers",
   "translation": "fire feathers",
   "context": "ID: firefeather_item\n位于 /Kenan-Structured-Modpack/PM_World/firefeather_item.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→firefeather_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=firefeather_item",
+  "stage": 1
+ },
+ {
+  "key": "ef3faf58cb4c9af803c5eed319e5023e",
+  "original": "fire sphere",
+  "translation": "fire sphere",
   "stage": 1
  },
  {
@@ -4824,7 +4896,8 @@
   "key": "dfd82dfb36e9eb1511c0b00ec8860401",
   "original": "lab coat",
   "translation": "实验室大衣",
-  "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lc_labcoat"
+  "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lc_labcoat",
+  "stage": 1
  },
  {
   "key": "6a8737e541cb60459f7feb18c519f4b5",
@@ -4893,7 +4966,8 @@
   "key": "5bbf2d6725b29ad8ddb7c3ab47c50930",
   "original": "marked",
   "translation": "划伤",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel"
+  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel",
+  "stage": 1
  },
  {
   "key": "7523ccbb443680ed9d53d79be3b4d52f",
@@ -5025,7 +5099,8 @@
   "key": "ce6484dfd56a9e0f7ff219a6279cd17c",
   "original": "ripped",
   "translation": "撕裂",
-  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton"
+  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton",
+  "stage": 1
  },
  {
   "key": "eaf82fa7e2c09d748dcbae4b4b09abe8",
@@ -5038,19 +5113,22 @@
   "key": "e5036d30fcedf7998f08abbb599229e2",
   "original": "scratched",
   "translation": "刮花",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel"
+  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel",
+  "stage": 1
  },
  {
   "key": "965ca662c7141613e1b845c526baa86c",
   "original": "shattered",
   "translation": "破碎",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel"
+  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel",
+  "stage": 3
  },
  {
   "key": "d51bccc81979c227d80aa796078813ac",
   "original": "shredded",
   "translation": "碎裂",
-  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton"
+  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton",
+  "stage": 1
  },
  {
   "key": "ecc750bfe2cee389ac6ae4111a6b13f1",
@@ -5063,13 +5141,15 @@
   "key": "a6d1bd4d500f7a7d3f10b245e8f829b0",
   "original": "sliced",
   "translation": "割裂",
-  "context": "ID: stigma_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stigma_leather"
+  "context": "ID: stigma_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=stigma_leather",
+  "stage": 1
  },
  {
   "key": "3f70089fd34f35b851b9a913bd28c546",
   "original": "smashed",
   "translation": "砸扁",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel"
+  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=s_steel",
+  "stage": 1
  },
  {
   "key": "538f3e601e9c32c427a5c1c29744f720",
@@ -5096,7 +5176,8 @@
   "key": "2dfd03a674d7c1cde1cb567fbd88fbe5",
   "original": "tattered",
   "translation": "破烂",
-  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton"
+  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton",
+  "stage": 1
  },
  {
   "key": "098f6bcd4621d373cade4e832627b4f6",
@@ -5165,7 +5246,8 @@
   "key": "7d8acaac2172f18a4be11b0caded5c1c",
   "original": "torn",
   "translation": "扯烂",
-  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton"
+  "context": "ID: l_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→l_cotton\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l_cotton",
+  "stage": 1
  },
  {
   "key": "28276e15daefe0361c526bfbdcbd1877",

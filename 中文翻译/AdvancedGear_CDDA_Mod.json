@@ -1,3 +1,174 @@
+[
+  {
+    "key": "61870d0e62aa83bf1ff68c45ae8040e4",
+    "original": "A cluster of carefully programmed nanites designed to fully cover the body and defend against external threats.  Can be activated to produce heat.",
+    "translation": "一个精心编程过的纳米集群，用来覆盖全身并抵御外部威胁。可以激活以产生热量。",
+    "stage": 5,
+    "context": "ID: nanosuit\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nanosuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanosuit"
+  },
+  {
+    "key": "aec0e00f70696d93a6793d1a54979c94",
+    "original": "A cluster of carefully programmed nanites designed to fully cover the body and defend against external threats.  Currently heating itself.",
+    "translation": "一个精心编程过的纳米集群，用来覆盖全身并抵御外部威胁。目前正在产生热量。",
+    "stage": 5,
+    "context": "ID: nanosuit_heated\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nanosuit_heated\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanosuit_heated"
+  },
+  {
+    "key": "8ba73857ebd64738e45772be1172ec2f",
+    "original": "A container full of bio-compatible nanites that have entered an idle state and are ready to be removed. (Disassemble to recover)",
+    "translation": "一个装满了生物相容纳米粒子的容器，这些纳米粒子已经进入闲置状态并准备被取出。（拆解以收获）",
+    "stage": 3,
+    "context": "ID: bio_nanite_spawned\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/production/nanites.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→TOOL→bio_nanite_spawned\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_nanite_spawned"
+  },
+  {
+    "key": "f28692a2bf294023e9353e440b2b0ea6",
+    "original": "A container full of materials and a small cluster of bio-compatible nanites programmed to replicate.  After they finish, they will enter an idle state and be ready to be removed.",
+    "translation": "一个装满原料和一小团生物相容纳米微粒的容器，纳米颗粒被编程以自动复制。复制完成后，它们将闲置并准备被取出。",
+    "stage": 5,
+    "context": "ID: bio_nanite_spawning\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/production/nanites.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→TOOL→bio_nanite_spawning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_nanite_spawning"
+  },
+  {
+    "key": "20f02df1d9f0b06429f6cea8f84c1a0a",
+    "original": "A half-height strong metal wall.  Keeps zombies outside the vehicle but allows people to see over it.",
+    "translation": "一块半高厚金属隔板。能够阻挡丧尸但是无法阻挡其他人的视线。",
+    "stage": 5,
+    "context": "ID: nanohalfboard\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanohalfboard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanohalfboard"
+  },
+  {
+    "key": "2de39557ffdff4d3205bf632c4b6386c",
+    "original": "A heavily compressed liquid storage device, it is also capable of keeping its contents fresh and maintaining their temperature.",
+    "translation": "一种能够将液体高度压缩的储存装置，既能保鲜又能保温。",
+    "stage": 5,
+    "context": "ID: nano_container\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→GENERIC→nano_container\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_container"
+  },
+  {
+    "key": "9e958eced05aa81ccb715988cf5b2d93",
+    "original": "A heavy metal framework infused with nanites working to augment the durability.  Other vehicle components can be mounted on it, and it can be attached to other frames to increase the vehicle's size.",
+    "translation": "一个重型金属车架，注入了纳米材料以提高耐久度。其他载具部件能够安装在它上面，在它四周增加新的车辆框架，就可以增加车辆大小。",
+    "stage": 5,
+    "context": "ID: nanotech_frame\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_frame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_frame"
+  },
+  {
+    "key": "b1ea87853d0822dface650b03fef20ef",
+    "original": "A highly durable iris composed of nanites, this blocks sight while also acting as a combination of door and armor.",
+    "translation": "一个由纳米微粒组成的耐用不透明隔板，它会完全阻挡视线，兼具门和装甲的作用。",
+    "stage": 5,
+    "context": "ID: nano_door_opaque\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nano_door_opaque\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_door_opaque"
+  },
+  {
+    "key": "3d395b3ec2326ef4e9a5a740931609fb",
+    "original": "A large and bulky nanofactory sitting on a frame somehow not functioning properly.",
+    "translation": "一个安装在车架上巨大而笨重的纳米工厂，不知何故未正常运转。",
+    "stage": 5,
+    "context": "ID: nanofactory_vehicle_2\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanofactory_vehicle_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanofactory_vehicle_2"
+  },
+  {
+    "key": "b3a290f522461d34fcee02af4e4da816",
+    "original": "A large and bulky prototype nanofactory sitting on a frame somehow not functioning properly",
+    "translation": "一个安装在车架上巨大而笨重的原型纳米工厂，不知何故未正常运转",
+    "stage": 5,
+    "context": "ID: nanofactory_vehicle_1\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanofactory_vehicle_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanofactory_vehicle_1"
+  },
+  {
+    "key": "b62037686c0ca00c026b24a21e88f751",
+    "original": "A large blob of nanites with an AI, it actively branches out pseudopods to assist with crafting efforts performed nearby.  Additionally, it will act as most tools upon command.",
+    "translation": "一个具有AI的纳米集团，它主动分化出伪足来协助附近进行的手工制造工作。此外，它具有大多数工具的功能。",
+    "stage": 5,
+    "context": "ID: nt_crafter\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nt_crafter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nt_crafter"
+  },
+  {
+    "key": "053ab42be3dc7bbb349617ff2e1549fc",
+    "original": "A large blob of nanites with an AI, it actively branches out pseudopods to grasp items held near it and supports them as optimally as possible",
+    "translation": "一个具有AI的纳米集团，它主动分化出伪足来抓住附近的物品，并尽可能以最佳方式支撑它们",
+    "stage": 5,
+    "context": "ID: nt_storage\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nt_storage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nt_storage"
+  },
+  {
+    "key": "90fd39864291c7e860331daf59dcf008",
+    "original": "A large blob of nanites with an AI, it actively branches out pseudopods to grasp items held near it and supports them as optimally as possible, including reaching down and forming 'legs' to support itself if needed.",
+    "translation": "一个具有AI的纳米集团，它主动伸出伪足来抓住附近的物品，并尽可能地以最佳方式支撑它们，必要时，还能向下延伸形成“腿”来支撑自己。",
+    "stage": 5,
+    "context": "ID: nano_storage\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nano_storage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_storage"
+  },
+  {
+    "key": "6f06aaf3e91e24087f9abd8763a02328",
+    "original": "A large blob of nanites you can enter, it acts as a combined control system, chair, and camera control system all in one.",
+    "translation": "一个可进入的纳米集团，可以作为控制系统，座椅，和监控控制系统使用。",
+    "stage": 5,
+    "context": "ID: nanotech_control\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_control"
+  },
+  {
+    "key": "89c8e8a630798dc2f3aa1e56dc59c8f5",
+    "original": "A large cluster of nanites actively forming a support network for other structures to attach to.  Other vehicle components can be mounted on it, and it can be attached to other frames to increase the vehicle's size.",
+    "translation": "一个大型纳米集群，它主动形成一个支撑网络以供其他结构附着。其他载具部件可以安装在上面，在其四周安装车架可以增加载具的大小。",
+    "stage": 5,
+    "context": "ID: nanotech_frame2\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_frame2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_frame2"
+  },
+  {
+    "key": "a19c54eb83fa498af894c67988a19335",
+    "original": "A large frame made of steel and reinforced with nanites.  Useful for crafting.",
+    "translation": "一种由钢铁制成并用纳米微粒加固的大型车架。用于制造载具。",
+    "stage": 5,
+    "context": "ID: nano_frame\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→GENERIC→nano_frame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_frame"
+  },
+  {
+    "key": "7d8e9a7a2c70a690c4bb517ed652d2f2",
+    "original": "A large sheet of nanites arranged to capture sunlight and convert it to electrical energy.",
+    "translation": "一个大型纳米集片，用来捕捉光能并将其转化为电能。",
+    "stage": 5,
+    "context": "ID: nt_solar_1\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nt_solar_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nt_solar_1"
+  },
+  {
+    "key": "2b735d9272cf94c8bb604bdea0eab413",
+    "original": "A large shield composed of a cluster of nanites, currently in active mode, it will automatically attempt to block attacks for you, allowing you to make use of your hand.  When not in use, it compresses itself into the handle.",
+    "translation": "一个由纳米集群组成的盾牌，目前处于主动模式，它会自动尝试为你格挡攻击，解放你的双手。不使用时，它会自动收缩到手柄中。",
+    "stage": 5,
+    "context": "ID: nano_shield_active\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nano_shield_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_shield_active"
+  },
+  {
+    "key": "a69662b7e6ba3e32d62bda5348323d3a",
+    "original": "A large shield composed of a cluster of nanites, currently in passive mode, you can block attacks with it.  When not in use, it compresses itself into the handle.",
+    "translation": "一个由纳米集群组成的盾牌，目前处于被动模式，你可以用它格挡攻击。不使用时，它会自动收缩到手柄中。",
+    "stage": 5,
+    "context": "ID: nano_shield\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nano_shield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_shield"
+  },
+  {
+    "key": "0eac10a6624de0f3f604a7c05753a238",
+    "original": "A mass of nanites and power cells optimized for generating power.",
+    "translation": "为发电而优化过的纳米集堆和能量电池。",
+    "stage": 5,
+    "context": "ID: nanotech_generator\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_generator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_generator"
+  },
+  {
+    "key": "0740dc2b14400066bb1d88527c3ef938",
+    "original": "A mass of nanites optimized for travel across any land-based surface while lifting a larger object.",
+    "translation": "一个纳米集堆，经过优化，可以穿越任何陆基地表，同时还能起重大型目标。",
+    "stage": 5,
+    "context": "ID: nanotech_crawler\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_crawler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_crawler"
+  },
+  {
+    "key": "122d8054b878fc88a68e1b62453b8447",
+    "original": "A mass of nanites programmed to locate mechanical power systems and interface with them to provide mechanical power.",
+    "translation": "一个纳米集堆，被编程以定位机械动力系统并与之连接以提供机械动力。",
+    "stage": 5,
+    "context": "ID: nanotech_anima\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_anima\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_anima"
+  },
+  {
+    "key": "2b8256e65b1dc4d8cbfa81c309452e05",
+    "original": "A mass of nanites programmed to store vast amounts of power.",
+    "translation": "一个纳米集堆，被编程以储存大量能量。",
+    "stage": 5,
+    "context": "ID: nanotech_battery\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_battery"
+  },
+  {
+    "key": "8dcaada120f9390b0729a4e30809acb6",
+    "original": "A nanotech aisle, capable of assisting with lifting nearby objects.",
+    "translation": "一条纳米技术制成的过道，具有起重功能。",
+    "stage": 5,
+    "context": "ID: nano_aisle\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nano_aisle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_aisle"
+  },
+  {
+    "key": "13ec481f3373cb829cdcb70b688473fc",
     "original": "A nanotech pistol adapted for vehicular usage.",
     "translation": "一把纳米手枪，已改装为车载使用。",
     "stage": 5,
@@ -187,178 +358,7 @@
   },
   {
     "key": "295eb269d9df0928de709ae075e175bd",
-    "original": "Advanced nanotech sensor array with basic armor, can transmit v[
-  {
-    "key": "61870d0e62aa83bf1ff68c45ae8040e4",
-    "original": "A cluster of carefully programmed nanites designed to fully cover the body and defend against external threats.  Can be activated to produce heat.",
-    "translation": "一个精心编程过的纳米集群，用来覆盖全身并抵御外部威胁。可以激活以产生热量。",
-    "stage": 5,
-    "context": "ID: nanosuit\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nanosuit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanosuit"
-  },
-  {
-    "key": "aec0e00f70696d93a6793d1a54979c94",
-    "original": "A cluster of carefully programmed nanites designed to fully cover the body and defend against external threats.  Currently heating itself.",
-    "translation": "一个精心编程过的纳米集群，用来覆盖全身并抵御外部威胁。目前正在产生热量。",
-    "stage": 5,
-    "context": "ID: nanosuit_heated\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nanosuit_heated\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanosuit_heated"
-  },
-  {
-    "key": "8ba73857ebd64738e45772be1172ec2f",
-    "original": "A container full of bio-compatible nanites that have entered an idle state and are ready to be removed. (Disassemble to recover)",
-    "translation": "一个装满了生物相容纳米粒子的容器，这些纳米粒子已经进入闲置状态并准备被取出。（拆解以收获）",
-    "stage": 3,
-    "context": "ID: bio_nanite_spawned\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/production/nanites.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→TOOL→bio_nanite_spawned\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_nanite_spawned"
-  },
-  {
-    "key": "f28692a2bf294023e9353e440b2b0ea6",
-    "original": "A container full of materials and a small cluster of bio-compatible nanites programmed to replicate.  After they finish, they will enter an idle state and be ready to be removed.",
-    "translation": "一个装满原料和一小团生物相容纳米微粒的容器，纳米颗粒被编程以自动复制。复制完成后，它们将闲置并准备被取出。",
-    "stage": 5,
-    "context": "ID: bio_nanite_spawning\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/production/nanites.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→TOOL→bio_nanite_spawning\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bio_nanite_spawning"
-  },
-  {
-    "key": "20f02df1d9f0b06429f6cea8f84c1a0a",
-    "original": "A half-height strong metal wall.  Keeps zombies outside the vehicle but allows people to see over it.",
-    "translation": "一块半高厚金属隔板。能够阻挡丧尸但是无法阻挡其他人的视线。",
-    "stage": 5,
-    "context": "ID: nanohalfboard\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanohalfboard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanohalfboard"
-  },
-  {
-    "key": "2de39557ffdff4d3205bf632c4b6386c",
-    "original": "A heavily compressed liquid storage device, it is also capable of keeping its contents fresh and maintaining their temperature.",
-    "translation": "一种能够将液体高度压缩的储存装置，既能保鲜又能保温。",
-    "stage": 5,
-    "context": "ID: nano_container\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→GENERIC→nano_container\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_container"
-  },
-  {
-    "key": "9e958eced05aa81ccb715988cf5b2d93",
-    "original": "A heavy metal framework infused with nanites working to augment the durability.  Other vehicle components can be mounted on it, and it can be attached to other frames to increase the vehicle's size.",
-    "translation": "一个重型金属车架，注入了纳米材料以提高耐久度。其他载具部件能够安装在它上面，在它四周增加新的车辆框架，就可以增加车辆大小。",
-    "stage": 5,
-    "context": "ID: nanotech_frame\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_frame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_frame"
-  },
-  {
-    "key": "b1ea87853d0822dface650b03fef20ef",
-    "original": "A highly durable iris composed of nanites, this blocks sight while also acting as a combination of door and armor.",
-    "translation": "一个由纳米微粒组成的耐用不透明隔板，它会完全阻挡视线，兼具门和装甲的作用。",
-    "stage": 5,
-    "context": "ID: nano_door_opaque\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nano_door_opaque\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_door_opaque"
-  },
-  {
-    "key": "3d395b3ec2326ef4e9a5a740931609fb",
-    "original": "A large and bulky nanofactory sitting on a frame somehow not functioning properly.",
-    "translation": "一个安装在车架上巨大而笨重的纳米工厂，不知何故未正常运转。",
-    "stage": 5,
-    "context": "ID: nanofactory_vehicle_2\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanofactory_vehicle_2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanofactory_vehicle_2"
-  },
-  {
-    "key": "b3a290f522461d34fcee02af4e4da816",
-    "original": "A large and bulky prototype nanofactory sitting on a frame somehow not functioning properly",
-    "translation": "一个安装在车架上巨大而笨重的原型纳米工厂，不知何故未正常运转",
-    "stage": 5,
-    "context": "ID: nanofactory_vehicle_1\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanofactory_vehicle_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanofactory_vehicle_1"
-  },
-  {
-    "key": "b62037686c0ca00c026b24a21e88f751",
-    "original": "A large blob of nanites with an AI, it actively branches out pseudopods to assist with crafting efforts performed nearby.  Additionally, it will act as most tools upon command.",
-    "translation": "一个具有AI的纳米集团，它主动分化出伪足来协助附近进行的手工制造工作。此外，它具有大多数工具的功能。",
-    "stage": 5,
-    "context": "ID: nt_crafter\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nt_crafter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nt_crafter"
-  },
-  {
-    "key": "053ab42be3dc7bbb349617ff2e1549fc",
-    "original": "A large blob of nanites with an AI, it actively branches out pseudopods to grasp items held near it and supports them as optimally as possible",
-    "translation": "一个具有AI的纳米集团，它主动分化出伪足来抓住附近的物品，并尽可能以最佳方式支撑它们",
-    "stage": 5,
-    "context": "ID: nt_storage\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nt_storage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nt_storage"
-  },
-  {
-    "key": "90fd39864291c7e860331daf59dcf008",
-    "original": "A large blob of nanites with an AI, it actively branches out pseudopods to grasp items held near it and supports them as optimally as possible, including reaching down and forming 'legs' to support itself if needed.",
-    "translation": "一个具有AI的纳米集团，它主动伸出伪足来抓住附近的物品，并尽可能地以最佳方式支撑它们，必要时，还能向下延伸形成“腿”来支撑自己。",
-    "stage": 5,
-    "context": "ID: nano_storage\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nano_storage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_storage"
-  },
-  {
-    "key": "6f06aaf3e91e24087f9abd8763a02328",
-    "original": "A large blob of nanites you can enter, it acts as a combined control system, chair, and camera control system all in one.",
-    "translation": "一个可进入的纳米集团，可以作为控制系统，座椅，和监控控制系统使用。",
-    "stage": 5,
-    "context": "ID: nanotech_control\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_control\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_control"
-  },
-  {
-    "key": "89c8e8a630798dc2f3aa1e56dc59c8f5",
-    "original": "A large cluster of nanites actively forming a support network for other structures to attach to.  Other vehicle components can be mounted on it, and it can be attached to other frames to increase the vehicle's size.",
-    "translation": "一个大型纳米集群，它主动形成一个支撑网络以供其他结构附着。其他载具部件可以安装在上面，在其四周安装车架可以增加载具的大小。",
-    "stage": 5,
-    "context": "ID: nanotech_frame2\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_frame2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_frame2"
-  },
-  {
-    "key": "a19c54eb83fa498af894c67988a19335",
-    "original": "A large frame made of steel and reinforced with nanites.  Useful for crafting.",
-    "translation": "一种由钢铁制成并用纳米微粒加固的大型车架。用于制造载具。",
-    "stage": 5,
-    "context": "ID: nano_frame\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/frames_n_boards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→GENERIC→nano_frame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_frame"
-  },
-  {
-    "key": "7d8e9a7a2c70a690c4bb517ed652d2f2",
-    "original": "A large sheet of nanites arranged to capture sunlight and convert it to electrical energy.",
-    "translation": "一个大型纳米集片，用来捕捉光能并将其转化为电能。",
-    "stage": 5,
-    "context": "ID: nt_solar_1\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nt_solar_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nt_solar_1"
-  },
-  {
-    "key": "2b735d9272cf94c8bb604bdea0eab413",
-    "original": "A large shield composed of a cluster of nanites, currently in active mode, it will automatically attempt to block attacks for you, allowing you to make use of your hand.  When not in use, it compresses itself into the handle.",
-    "translation": "一个由纳米集群组成的盾牌，目前处于主动模式，它会自动尝试为你格挡攻击，解放你的双手。不使用时，它会自动收缩到手柄中。",
-    "stage": 5,
-    "context": "ID: nano_shield_active\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nano_shield_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_shield_active"
-  },
-  {
-    "key": "a69662b7e6ba3e32d62bda5348323d3a",
-    "original": "A large shield composed of a cluster of nanites, currently in passive mode, you can block attacks with it.  When not in use, it compresses itself into the handle.",
-    "translation": "一个由纳米集群组成的盾牌，目前处于被动模式，你可以用它格挡攻击。不使用时，它会自动收缩到手柄中。",
-    "stage": 5,
-    "context": "ID: nano_shield\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/gear/equipment.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→ARMOR→nano_shield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_shield"
-  },
-  {
-    "key": "0eac10a6624de0f3f604a7c05753a238",
-    "original": "A mass of nanites and power cells optimized for generating power.",
-    "translation": "为发电而优化过的纳米集堆和能量电池。",
-    "stage": 5,
-    "context": "ID: nanotech_generator\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_generator\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_generator"
-  },
-  {
-    "key": "0740dc2b14400066bb1d88527c3ef938",
-    "original": "A mass of nanites optimized for travel across any land-based surface while lifting a larger object.",
-    "translation": "一个纳米集堆，经过优化，可以穿越任何陆基地表，同时还能起重大型目标。",
-    "stage": 5,
-    "context": "ID: nanotech_crawler\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_crawler\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_crawler"
-  },
-  {
-    "key": "122d8054b878fc88a68e1b62453b8447",
-    "original": "A mass of nanites programmed to locate mechanical power systems and interface with them to provide mechanical power.",
-    "translation": "一个纳米集堆，被编程以定位机械动力系统并与之连接以提供机械动力。",
-    "stage": 5,
-    "context": "ID: nanotech_anima\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_anima\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_anima"
-  },
-  {
-    "key": "2b8256e65b1dc4d8cbfa81c309452e05",
-    "original": "A mass of nanites programmed to store vast amounts of power.",
-    "translation": "一个纳米集堆，被编程以储存大量能量。",
-    "stage": 5,
-    "context": "ID: nanotech_battery\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanotech_battery\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanotech_battery"
-  },
-  {
-    "key": "8dcaada120f9390b0729a4e30809acb6",
-    "original": "A nanotech aisle, capable of assisting with lifting nearby objects.",
-    "translation": "一条纳米技术制成的过道，具有起重功能。",
-    "stage": 5,
-    "context": "ID: nano_aisle\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nano_aisle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nano_aisle"
-  },
-  {
-    "key": "13ec481f3373cb829cdcb70b688473fc",
-ideo to a camera control system or a nanotech control pod.",
+    "original": "Advanced nanotech sensor array with basic armor, can transmit video to a camera control system or a nanotech control pod.",
     "translation": "具备基础装甲的先进纳米传感器阵列，可以将视频传输到监控控制系统或纳米载具控制舱。",
     "stage": 5,
     "context": "ID: nanocam\n位于 /Kenan-Structured-Modpack/AdvancedGear_CDDA_Mod/items/vehicle/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#AdvancedGear_CDDA_Mod→vehicle_part→nanocam\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nanocam"

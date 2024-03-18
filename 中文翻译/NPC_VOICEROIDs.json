@@ -16,16 +16,16 @@
  {
   "key": "196d4a5ac6b5d24df5a6edd05e20674e",
   "original": " <color_red><npc_name>の提案を受け入れる</color>",
-  "translation": " <color_red><npc_name>の提案を受け入れる</color>",
+  "translation": " <color_red>接受<npc_name>的建议</color>",
   "context": "ID: TALK_LOVE_IS_OVER_2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LOVE_IS_OVER_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d047135d98c4d2d7a7ebd4ac2445611c",
   "original": " 私は最後まで諦めない",
-  "translation": " 私は最後まで諦めない",
+  "translation": "不到最后一刻，我绝不放弃",
   "context": "ID: TALK_LOVE_IS_OVER_2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LOVE_IS_OVER_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e114e16846a818f80c0e6f731ed94b62",
@@ -42,22 +42,29 @@
   "stage": 1
  },
  {
+  "key": "35440d50fb926f9b937a669b52054a30",
+  "original": "*すぅ～* *はぁ～*\nすいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。",
+  "translation": "*すぅ～* *はぁ～*\nすいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。",
+  "stage": 1
+ },
+ {
   "key": "2f43b42fd833d1e77420a8dae7419000",
   "original": "...",
   "translation": "…",
-  "context": "ID: TALK_CHOICE_NPC_1\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHOICE_NPC_1"
+  "context": "ID: TALK_CHOICE_NPC_1\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHOICE_NPC_1",
+  "stage": 1
  },
  {
   "key": "14e5206078ce2f81a9bb98b07ccfeabf",
   "original": ".50口径BMG弾を作ってもらう\n（要:ミートジャーキー10個以上）",
-  "translation": ".50口径BMG弾を作ってもらう\n（要:ミートジャーキー10個以上）",
+  "translation": "制作.50口径BMG子弹\n（需要：肉干10个以上）",
   "context": "ID: TALK_MAKING_BULLET\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_BULLET",
   "stage": 1
  },
  {
   "key": "8f09a257ded2c11c74f64f6bf93e8e34",
   "original": "5.56mm/NATO弾を作ってもらう\n（要:ガマの粘液5個以上）",
-  "translation": "5.56mm/NATO弾を作ってもらう\n（要:ガマの粘液5個以上）",
+  "translation": "制作5.56mm/NATO弹\n（需要：香蒲胶5个以上）",
   "context": "ID: TALK_MAKING_BULLET\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_BULLET",
   "stage": 1
  },
@@ -78,7 +85,7 @@
  {
   "key": "5f230c5d7d551b32b4da0e0090b72341",
   "original": "9mm弾を作ってもらう\n（要:煮沸簡易包帯5個以上）",
-  "translation": "9mm弾を作ってもらう\n（要:煮沸簡易包帯5個以上）",
+  "translation": "制作9mm子弹\n（需要：简易绷带（煮沸）5个以上）",
   "context": "ID: TALK_MAKING_BULLET\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_BULLET",
   "stage": 1
  },
@@ -87,14 +94,14 @@
   "original": "<BGSS_intro_question>",
   "translation": "<BGSS_intro_question>",
   "context": "ID: TALK_FRIEND_CONVERSATION\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_to_BGSS_intro_settings.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_FRIEND_CONVERSATION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_FRIEND_CONVERSATION",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c61ec27db0bcf1de4f250ee1bb29f735",
   "original": "<band_talk_answer>",
   "translation": "<band_talk_answer>",
   "context": "ID: TALK_EAT_ITEMS_+EX\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_eat_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_EAT_ITEMS_+EX",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1057c10e6c49bad8a407e45181297653",
@@ -106,44 +113,44 @@
  {
   "key": "6c6c50375c1d8dc584c4456879d9482e",
   "original": "<npc_name>との絆が深まりました！\n<npc_name>はこの世で最も特別な存在になりました！",
-  "translation": "<npc_name>との絆が深まりました！\n<npc_name>はこの世で最も特別な存在になりました！",
+  "translation": "与<npc_name>之间的羁绊加深了！\n<npc_name>是世界上最特别的存在！",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d58f2bade2d6867a39ff2ceffb8e1a4f",
   "original": "<npc_name>との絆が深まりました！\n<npc_name>はこの世で最愛の人になりました！",
-  "translation": "<npc_name>との絆が深まりました！\n<npc_name>はこの世で最愛の人になりました！",
+  "translation": "与<npc_name>之间的羁绊加深了！\n<npc_name>是世界上最爱的人！",
   "context": "ID: TALK_CHAIN_EXP3\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_confess_my_love.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAIN_EXP3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "00a956707c842ebfd945d6a98040955c",
   "original": "<npc_name>との絆が深まりました！\n<npc_name>はこの世界で最も得難い宝と言えます！",
-  "translation": "<npc_name>との絆が深まりました！\n<npc_name>はこの世界で最も得難い宝と言えます！",
+  "translation": "与<npc_name>之间的羁绊加深了！\n<npc_name>是世间难得的珍宝！",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4d896b9dadbfcd79d80e6f29528d1c82",
   "original": "<npc_name>との絆が深まりました！\n<npc_name>は背中を預けるに足る相手だと感じます！",
-  "translation": "<npc_name>との絆が深まりました！\n<npc_name>は背中を預けるに足る相手だと感じます！",
+  "translation": "与<npc_name>之间的羁绊加深了！\n<npc_name>是值得依赖的伙伴！",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6ce994d7f3915576937d8161421e0d42",
   "original": "<npc_name>との絆が深まりました！\n二人はもはや友人と呼べるでしょう！",
-  "translation": "<npc_name>との絆が深まりました！\n二人はもはや友人と呼べるでしょう！",
+  "translation": "与<npc_name>之间的羁绊加深了！\n已经可以称呼为朋友了！",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b0aecc839e63fdbac3e3680bb025b797",
   "original": "<npc_name>と絆を結びました。\nまずは顔見知りから始めましょう！",
-  "translation": "<npc_name>と絆を結びました。\nまずは顔見知りから始めましょう！",
+  "translation": "与<npc_name>建立了羁绊。\n首先从互相认识开始吧！",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8f11851182c908984ac22de15dfbbd0d",
@@ -199,28 +206,28 @@
   "original": "IA",
   "translation": "IA",
   "context": "ID: IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/classes_ia.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→IA\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=IA",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ef78ce9126c89ac6f726fc376c1d0e7",
   "original": "LLP極秘計画書",
-  "translation": "LLP極秘計画書",
+  "translation": "LLP极密计划书",
   "context": "ID: LLP_project\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→LLP_project\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=LLP_project",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c3865f2e0b4f2b39bee73fad51cf05ac",
   "original": "Love is over.",
-  "translation": "Love is over.",
+  "translation": "爱意终结.",
   "context": "ID: love_is_over\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/scenario_and_eoc.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→scenario→love_is_over\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=love_is_over",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f618f76e6dae4437b30fe895cc45710d",
   "original": "VOICEROID OF THE DEAD",
-  "translation": "VOICEROID OF THE DEAD",
+  "translation": "末日中的ボイロ",
   "context": "ID: voiceroid_of_the_dead\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/scenario_and_eoc.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→scenario→voiceroid_of_the_dead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=voiceroid_of_the_dead",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9665ff39af389662b9ee5a0db564097d",
@@ -233,31 +240,36 @@
   "key": "92faafe2b7a0367474b0db719553aa77",
   "original": "cabin",
   "translation": "小屋",
-  "context": "ID: cabin_voiro\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→overmap_terrain→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cabin_voiro"
+  "context": "ID: cabin_voiro\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→overmap_terrain→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cabin_voiro",
+  "stage": 3
  },
  {
   "key": "252d95b11ded96f71123c42dcce35158",
   "original": "copper locket",
   "translation": "铜质盒式吊坠",
-  "context": "ID: copper_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→copper_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=copper_locket"
+  "context": "ID: copper_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→copper_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=copper_locket",
+  "stage": 3
  },
  {
   "key": "391c337599322044b62e96c3d8e14d85",
   "original": "gold locket",
   "translation": "金质盒式吊坠",
-  "context": "ID: gold_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→gold_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gold_locket"
+  "context": "ID: gold_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→gold_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gold_locket",
+  "stage": 3
  },
  {
   "key": "5f70e550383cf4ff914cfa4434819c3c",
   "original": "platinum locket",
   "translation": "铂金质盒式吊坠",
-  "context": "ID: platinum_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→platinum_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=platinum_locket"
+  "context": "ID: platinum_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→platinum_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=platinum_locket",
+  "stage": 3
  },
  {
   "key": "e6c658a5ad7f0e9c8b687551a4f66c80",
   "original": "silver locket",
   "translation": "银质盒式吊坠",
-  "context": "ID: silver_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→silver_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=silver_locket"
+  "context": "ID: silver_locket\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→silver_locket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=silver_locket",
+  "stage": 3
  },
  {
   "key": "6ab46483c8e65b24defeddca7764d0f4",
@@ -416,9 +428,9 @@
  {
   "key": "c23c1dbec4421d1497c988130b9ee441",
   "original": "あかり",
-  "translation": "あかり",
+  "translation": "灯",
   "context": "ID: AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/classes_akari.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→AKARI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=AKARI",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "79bae29fd701311b1a9e5c8904d5db6a",
@@ -465,9 +477,9 @@
  {
   "key": "5f1dc258910d0e1811bdaf64e95d9339",
   "original": "あなたの言葉を黙って聞いていた<npc_name>は、やがて根負けしたように頷くと治療薬を自分で飲み、眠りにつきました…。\n自分のことは自分で何とかしてみましょう！",
-  "translation": "あなたの言葉を黙って聞いていた<npc_name>は、やがて根負けしたように頷くと治療薬を自分で飲み、眠りにつきました…。\n自分のことは自分で何とかしてみましょう！",
+  "translation": "<npc_name>默默聆听着你的话语，终于认输似的点了点头，自己吃下了治疗药物然后安然入睡了...。\n自己的事情自己想办法解决吧！",
   "context": "ID: TALK_LOVE_IS_OVER_2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LOVE_IS_OVER_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5b8c4ded3300809a79cd86cd531a248f",
@@ -689,9 +701,9 @@
  {
   "key": "59e44428bc915e59c2f14f3a35c87d46",
   "original": "うん？\n何か分けてくれるんですか？",
-  "translation": "うん？\n何か分けてくれるんですか？",
+  "translation": "嗯？\n你要给我分享什么？",
   "context": "ID: TALK_EAT_ITEM_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_band_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_EAT_ITEM_AOI",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d11d17655bf8acf71269291d8bf4a1fa",
@@ -801,9 +813,9 @@
  {
   "key": "e92a2514a17c0cc53bde5b42280eb3dc",
   "original": "きりたん",
-  "translation": "きりたん",
+  "translation": "切蒲英",
   "context": "ID: KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/classes_kiri.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→KIRITAN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KIRITAN",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "711f3b392807e70f52f9f6b850f5eda1",
@@ -850,9 +862,9 @@
  {
   "key": "ce07941ff413b8bed7f47b16b033c8c1",
   "original": "すまない…",
-  "translation": "すまない…",
+  "translation": "抱歉...",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LOVE_IS_OVER",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4d63cb6710fc36c988cc493a729e26fa",
@@ -1172,9 +1184,9 @@
  {
   "key": "3bb59f9f2f93a99b02f1890684a262f1",
   "original": "つむぎ",
-  "translation": "つむぎ",
+  "translation": "䌷",
   "context": "ID: TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/classes_tumugi.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→TUMUGI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TUMUGI",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7f4ad32ebf075d021f029087b2a380df",
@@ -1473,8 +1485,14 @@
  {
   "key": "df4938c542002aabb7dd4f75e4f263d6",
   "original": "ゆかり",
-  "translation": "ゆかり",
+  "translation": "缘",
   "context": "ID: YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/classes_yukari.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→YUKARI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=YUKARI",
+  "stage": 3
+ },
+ {
+  "key": "7f8e3559b59033e2ecc2009c9dbe00db",
+  "original": "ゆったりと会話する",
+  "translation": "ゆったりと会話する",
   "stage": 1
  },
  {
@@ -1536,7 +1554,7 @@
  {
   "key": "b9529a99440521d925faa9c0fcc86492",
   "original": "ゲームに夢中になりすぎて。乾電池が切れちゃいました！ やっぱり使い捨てはダメですね……。 申し訳ないんですけど充電池(小)を5個ほど持ってきてもらえませんか？",
-  "translation": "ゲームに夢中になりすぎて。乾電池が切れちゃいました！ やっぱり使い捨てはダメですね……。 申し訳ないんですけど充電池(小)を5個ほど持ってきてもらえませんか？",
+  "translation": "ゲームに夢中になりすぎて。乾電池が切れちゃいました！ やっぱり使い捨てはダメですね……。 申し訳ないんですけど充電池(小)を5个ほど持ってきてもらえませんか？",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_PLZ_BATTERY",
   "stage": 1
  },
@@ -1655,16 +1673,16 @@
  {
   "key": "f4ad23eafb70e74f06ef32da030cd32c",
   "original": "ポイポン8を作ってもらう",
-  "translation": "ポイポン8を作ってもらう",
+  "translation": "请帮我制作一个Poipon 8",
   "context": "ID: TALK_MAKING_Y_ITEMS\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[15]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_Y_ITEMS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "33aa4bbc21f209d51771e2e4623ce2e1",
   "original": "ポイポンU92 proを作ってもらう",
-  "translation": "ポイポンU92 proを作ってもらう",
+  "translation": "请帮我制作一个Poipon U92 pro",
   "context": "ID: TALK_MAKING_Y_ITEMS\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[15]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_Y_ITEMS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8a3b8373d9040de5fcb1b41bbaf970ae",
@@ -1676,9 +1694,9 @@
  {
   "key": "17df22bad05b62b91f56f793f4a0dae9",
   "original": "ユニークなVOICEROIDのNPCを召喚するアイテムを追加し、NPCとより親密になるシステムを追加します。",
-  "translation": "ユニークなVOICEROIDのNPCを召喚するアイテムを追加し、NPCとより親密になるシステムを追加します。",
+  "translation": "添加NPC好感度系统与可以召唤独特的ボイロNPC的物品。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→MOD_INFO→[0]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9c752491b4ddf787b49b32bad3348ba9",
@@ -1704,21 +1722,21 @@
  {
   "key": "5799485369b9e95dfadb0cc4bc8cf7d4",
   "original": "ラウフォス弾（100発）\nミートジャーキー30個",
-  "translation": "ラウフォス弾（100発）\nミートジャーキー30個",
+  "translation": "ラウフォス弾（100发）\n肉干30个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_MK211\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[14]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_MK211",
   "stage": 1
  },
  {
   "key": "2952de64253ae22032121f43d1e274b6",
   "original": "ラウフォス弾（25発）\nミートジャーキー10個",
-  "translation": "ラウフォス弾（25発）\nミートジャーキー10個",
+  "translation": "ラウフォス弾（25发）\n肉干10个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_MK211\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[14]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_MK211",
   "stage": 1
  },
  {
   "key": "5084b4f6254db65658b87d573441c3ff",
   "original": "ラウフォス弾（50発）\nミートジャーキー20個",
-  "translation": "ラウフォス弾（50発）\nミートジャーキー20個",
+  "translation": "ラウフォス弾（50发）\n肉干20个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_MK211\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[14]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_MK211",
   "stage": 1
  },
@@ -1739,9 +1757,9 @@
  {
   "key": "0199e1768126ab4e00a5c46d9ba1b98d",
   "original": "世界の崩壊に際し、人口の多い街の中に居ようと思う人は多くは無いでしょう。その中の一人だったあなたは山奥にある小さな小屋を見つけました。慎重に様子をうかがって見ると、中から人の気配がしてきます。協力するのか敵対するのか、いずれにせよ彼らに対しどう接するか、決めなければなりません。",
-  "translation": "世界の崩壊に際し、人口の多い街の中に居ようと思う人は多くは無いでしょう。その中の一人だったあなたは山奥にある小さな小屋を見つけました。慎重に様子をうかがって見ると、中から人の気配がしてきます。協力するのか敵対するのか、いずれにせよ彼らに対しどう接するか、決めなければなりません。",
+  "translation": "世界崩坏时，没什么人会待在人口众多的城市中，你也一样。你发现了一间位于山间的小屋。经过仔细观察，你感觉到屋内有人的踪迹。合作还是敌对，无论如何，你都必须决定如何与她们互动。",
   "context": "ID: voiceroid_of_the_dead\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/scenario_and_eoc.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→scenario→voiceroid_of_the_dead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=voiceroid_of_the_dead",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9077b2f9c3c733f29a17c3c4971fbf96",
@@ -1753,16 +1771,16 @@
  {
   "key": "8c7a79318b4b0d625bc1e64e96199ae7",
   "original": "交流する",
-  "translation": "交流する",
+  "translation": "互动",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "37000ce08ed38f51ecbff76282afbed9",
   "original": "交流を終える",
-  "translation": "交流を終える",
+  "translation": "结束互动",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_INTERCTION_GENERIC",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "31a318d14192ba8a3732ddc51490966e",
@@ -1837,23 +1855,23 @@
  {
   "key": "02013d4c2ec23bf4037f339dcfcfad8b",
   "original": "仲間の助力",
-  "translation": "仲間の助力",
+  "translation": "伙伴的助力",
   "context": "ID: band_help_friends\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_help_friends\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_help_friends",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d56e48f36591bd4320ce60af496d6792",
   "original": "仲間の助力により製作効率が上がっています。製作速度が+100%上昇します。",
-  "translation": "仲間の助力により製作効率が上がっています。製作速度が+100%上昇します。",
+  "translation": "由于伙伴的协助，制作效率提高了。制作速度增加+100%。",
   "context": "ID: band_help_friends\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_help_friends\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_help_friends",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1634b562e5d501b23fdd2c47951d359f",
   "original": "休息中(仲間)",
-  "translation": "休息中(仲間)",
+  "translation": "休息中（伙伴）",
   "context": "ID: band_resting\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→band_resting\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_resting",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2d786e378bdc3f33b4a3fa70aa832252",
@@ -1865,9 +1883,9 @@
  {
   "key": "16daec5dd67d75af8b53ee207b6f1db3",
   "original": "会話する",
-  "translation": "会話する",
+  "translation": "聊天",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_INTERCTION_GENERIC",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0decd651b6fad1902d0cdf4c8928fe18",
@@ -1914,7 +1932,7 @@
  {
   "key": "d606fb91f1816e131cb3504717ad5c46",
   "original": "充電池(小)を5個持ってきてください！",
-  "translation": "充電池(小)を5個持ってきてください！",
+  "translation": "充電池(小)を5个持ってきてください！",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_PLZ_BATTERY",
   "stage": 1
  },
@@ -1935,9 +1953,9 @@
  {
   "key": "9b1766ea6ae9230dd6faaed47fee78fc",
   "original": "出会ったパートナーの名前は…",
-  "translation": "出会ったパートナーの名前は…",
+  "translation": "遇到的伙伴的名字是…",
   "context": "ID: TALK_CHOICE_NPC_2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHOICE_NPC_2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8943d80a40e9279a86b059cd0ad25845",
@@ -1952,6 +1970,12 @@
   "translation": "受け取ってほしい",
   "context": "ID: TALK_CHAIN_EXP2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_confess_my_love.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[1]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAIN_EXP2",
   "stage": 1
+ },
+ {
+  "key": "111e1a19aa9c959e59418c87253413cc",
+  "original": "召喚 - NPC VOICEROIDs",
+  "translation": "召唤 - ボイロNPC",
+  "stage": 3
  },
  {
   "key": "76da77e08640f8b554e6e0630559b0e4",
@@ -2019,14 +2043,14 @@
  {
   "key": "24f19912e1ef460bea36510bdb893f5d",
   "original": "大変動を起こした世界で何とか生き残った後、偶然出会ったパートナーと交流を深めてきました。しかし、些細なミスから重大な問題が起きてしまいました。",
-  "translation": "大変動を起こした世界で何とか生き残った後、偶然出会ったパートナーと交流を深めてきました。しかし、些細なミスから重大な問題が起きてしまいました。",
+  "translation": "在经历巨变的世界幸存下来后，你与偶然相遇的伙伴建立了感情。然而，一个小失误引发了严重的问题。",
   "context": "ID: love_is_over\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/scenario_and_eoc.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→scenario→love_is_over\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=love_is_over",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b506bb1be8539b1d11aa99f5869fc863",
   "original": "大変動を辛くも生き延びたあなたは、避難している最中にとある人物に出会いました。その人物と行動を苦楽を共にする間に少しずつ絆が芽生え、互いを信頼し、安らぎを求めるようになりました。\nしかし、安らぎのひと時は長く続かず、薬局を探索中に些細なミスから亡者の群れに囲まれてしまい、脱出する際に二人とも咬まれてしまいました。\n感染症の進行度合いに大きな差があったようで、あなたにはまだ幾ばくかの猶予がありますがパートナーは一刻も早く治療薬を服用する必要があります。しかし、パートナーが治療薬を一つだけ入手しましたが、服用を躊躇っており、あなたが助かることを望んでいます。\nその後、単独で探索を行いましたが治療薬は見つかりませんでした。\nパートナーに残された時間は僅か。あなたが決断しなければなりません。",
-  "translation": "大変動を辛くも生き延びたあなたは、避難している最中にとある人物に出会いました。その人物と行動を苦楽を共にする間に少しずつ絆が芽生え、互いを信頼し、安らぎを求めるようになりました。\nしかし、安らぎのひと時は長く続かず、薬局を探索中に些細なミスから亡者の群れに囲まれてしまい、脱出する際に二人とも咬まれてしまいました。\n感染症の進行度合いに大きな差があったようで、あなたにはまだ幾ばくかの猶予がありますがパートナーは一刻も早く治療薬を服用する必要があります。しかし、パートナーが治療薬を一つだけ入手しましたが、服用を躊躇っており、あなたが助かることを望んでいます。\nその後、単独で探索を行いましたが治療薬は見つかりませんでした。\nパートナーに残された時間は僅か。あなたが決断しなければなりません。",
+  "translation": "在灾变中勉强幸存的你，在避难中遇到了某个人。在共经风雨、互相扶持的过程中，羁绊逐渐生根，你们互相信任，互相寻求着安慰。\n然而，平静并未持续太久。在一次药店探索中，由于一点细小的失误，你们被亡群包围，在逃脱时都被咬伤。\n你们感染的程度存在明显的差异，你还有一些时间，而你的伙伴迫切需要服用治疗药物。她取得了治疗药物，但犹豫着是否服用，她希望你能得救。\n之后，你独自进行探索，但没能找到治疗药物。\n留给伙伴的时间不多了，你必须作出决断。",
   "context": "ID: TALK_CHOICE_NPC_1\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHOICE_NPC_1",
   "stage": 1
  },
@@ -2075,9 +2099,9 @@
  {
   "key": "44f52b13ece3283d7924773484fbea5b",
   "original": "小五の日記",
-  "translation": "小五の日記",
+  "translation": "小五的日记",
   "context": "ID: kiritan_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→kiritan_nikki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kiritan_nikki",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "34f4b58b48afc11db21b9ee307e6b6f8",
@@ -2108,9 +2132,15 @@
   "stage": 1
  },
  {
+  "key": "b260d177a4b788483b6c297a3205a94b",
+  "original": "必要アイテム一覧\nアルミニウム屑1個\n充電池(小/高容量)1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
+  "translation": "必要アイテム一覧\nアルミニウム屑1個\n充電池（小/高容量）1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
+  "stage": 1
+ },
+ {
   "key": "de0d19b935ccb3836aca0402d5af3ae1",
   "original": "必要アイテム一覧\n磁電管3個\nパイプ1個\n増幅回路1個\n廃電子機器5個\n鋼鉄塊3個",
-  "translation": "必要アイテム一覧\n磁電管3個\nパイプ1個\n増幅回路1個\n廃電子機器5個\n鋼鉄塊3個",
+  "translation": "必要アイテム一覧\n磁電管3個\nパイプ1個\n増幅回路1個\n廃電子機器5个\n鋼鉄塊3個",
   "context": "ID: TALK_MAKING_HM12\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[16]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_HM12",
   "stage": 1
  },
@@ -2201,51 +2231,51 @@
  {
   "key": "7f7a4d259d8c921d7cde8de964a0faff",
   "original": "恋人の写真(IA)",
-  "translation": "恋人の写真(IA)",
+  "translation": "恋人的写真(IA)",
   "context": "ID: lovers_photo_ia\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_ia\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_ia",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "02e00c91f3d7f84e0eaf0fe2e23baec0",
   "original": "恋人の写真(あかり)",
-  "translation": "恋人の写真(あかり)",
+  "translation": "恋人的写真(灯)",
   "context": "ID: lovers_photo_akari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_akari\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_akari",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ed79b469e81a852e498c0bb73fb2036",
   "original": "恋人の写真(きりたん)",
-  "translation": "恋人の写真(きりたん)",
+  "translation": "恋人的写真（切蒲英）",
   "context": "ID: lovers_photo_kiritan\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_kiritan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_kiritan",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "571cee3f491e89a849814961affc6437",
   "original": "恋人の写真(つむぎ)",
-  "translation": "恋人の写真(つむぎ)",
+  "translation": "恋人的写真（䌷）",
   "context": "ID: lovers_photo_tumugi\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_tumugi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_tumugi",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eff3ff3d71d0ceba544d9a6685bc7742",
   "original": "恋人の写真(ゆかり)",
-  "translation": "恋人の写真(ゆかり)",
+  "translation": "恋人的写真（缘）",
   "context": "ID: lovers_photo_yukari\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_yukari\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_yukari",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cac18696aa51a8e056f6848df798f000",
   "original": "恋人の写真(茜)",
-  "translation": "恋人の写真(茜)",
+  "translation": "恋人的写真(茜)",
   "context": "ID: lovers_photo_akane\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_akane\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_akane",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bad2ae43c593ae7e0dee999eb07616e5",
   "original": "恋人の写真(葵)",
-  "translation": "恋人の写真(葵)",
+  "translation": "恋人的写真(葵)",
   "context": "ID: lovers_photo_aoi\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→GENERIC→lovers_photo_aoi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lovers_photo_aoi",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d938d2bc77a6f11c6e4ff9c2f779a973",
@@ -2271,16 +2301,16 @@
  {
   "key": "c66398d080258cbd6d7741f98c47fb70",
   "original": "愛情手作り弁当",
-  "translation": "愛情手作り弁当",
+  "translation": "爱心手作便当",
   "context": "ID: bento_lovers\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/bento.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→COMESTIBLE→bento_lovers\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bento_lovers",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4a622f127baeae041b4eef6a8884069f",
   "original": "戻る",
-  "translation": "戻る",
+  "translation": "返回",
   "context": "ID: TALK_MAKING_POIPON_U92\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[18]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_POIPON_U92",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4ff0b2711fb26f1bd87c28a8309676cc",
@@ -2292,9 +2322,9 @@
  {
   "key": "1f940256a9d04f5346bfd520461f6d43",
   "original": "手作り弁当",
-  "translation": "手作り弁当",
+  "translation": "手作便当",
   "context": "ID: bento_friend\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/bento.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→COMESTIBLE→bento_friend\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bento_friend",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7baf079b71e9809c7409a6ee7c1745a5",
@@ -2320,247 +2350,247 @@
  {
   "key": "538a53d5a3646925d23cd6b1c7f0716f",
   "original": "手詰め+P+弾",
-  "translation": "手詰め+P+弾",
+  "translation": "复装+P+弹",
   "context": "ID: TALK_MAKING_9MM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0eacbec03ceb9a1885154008214c1d99",
   "original": "手詰め+P+弾（100発）\n簡易煮沸包帯10個",
-  "translation": "手詰め+P+弾（100発）\n簡易煮沸包帯10個",
+  "translation": "复装+P+弹（100发）\n简易绷带（煮沸）10个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_P+\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[6]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_P+",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e78bf3a688c945401e02d45bbb6fc374",
   "original": "手詰め+P+弾（150発）\n簡易煮沸包帯15個",
-  "translation": "手詰め+P+弾（150発）\n簡易煮沸包帯15個",
+  "translation": "复装+P+弹（150发）\n简易绷带（煮沸）15个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_P+\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[6]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_P+",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8315178654a745bc583aafa38b35917a",
   "original": "手詰め+P+弾（50発）\n煮沸簡易包帯5個",
-  "translation": "手詰め+P+弾（50発）\n煮沸簡易包帯5個",
+  "translation": "复装+P+弹（50发）\n简易绷带（煮沸）5个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_P+\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[6]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_P+",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dc3c4a7767d056461fd84246981c8a7c",
   "original": "手詰め+P弾",
-  "translation": "手詰め+P弾",
+  "translation": "复装+P弹",
   "context": "ID: TALK_MAKING_9MM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "54edc5e6575292d5c98e7a9460c83079",
   "original": "手詰め+P弾（100発）\n簡易煮沸包帯10個",
-  "translation": "手詰め+P弾（100発）\n簡易煮沸包帯10個",
+  "translation": "复装+P弹（100发）\n简易绷带（煮沸）10个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_P\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_P",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c30aa5e2f8384c27a737acf77e19347f",
   "original": "手詰め+P弾（150発）\n簡易煮沸包帯15個",
-  "translation": "手詰め+P弾（150発）\n簡易煮沸包帯15個",
+  "translation": "复装+P弹（150发）\n简易绷带（煮沸）15个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_P\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_P",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "83cd7c09615355cd529bead08cabfeb7",
   "original": "手詰め+P弾（50発）\n煮沸簡易包帯5個",
-  "translation": "手詰め+P弾（50発）\n煮沸簡易包帯5個",
+  "translation": "复装+P弹（50发）\n简易绷带（煮沸）5个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_P\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[5]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_P",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e54dcaad77179fd23957b5f423d1c7da",
   "original": "手詰め5.56mm/NATO弾（100発）\nガマの粘液15個",
-  "translation": "手詰め5.56mm/NATO弾（100発）\nガマの粘液15個",
+  "translation": "复装5.56mm/NATO弹（100发）\n香蒲胶15个",
   "context": "ID: TALK_MAKING_NATO_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[8]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ac01f5978a3eb30c719c928b5d3bbe0d",
   "original": "手詰め5.56mm/NATO弾（25発）\nガマの粘液5個",
-  "translation": "手詰め5.56mm/NATO弾（25発）\nガマの粘液5個",
+  "translation": "复装5.56mm/NATO弹（25发）\n香蒲胶5个",
   "context": "ID: TALK_MAKING_NATO_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[8]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "585328fc88abe5aa21c9fb06e3c83cc1",
   "original": "手詰め5.56mm/NATO弾（50発）\nガマの粘液10個",
-  "translation": "手詰め5.56mm/NATO弾（50発）\nガマの粘液10個",
+  "translation": "复装5.56mm/NATO弹（50发）\n香蒲胶10个",
   "context": "ID: TALK_MAKING_NATO_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[8]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e35797ffe24fdf4f9e5715ccac6f64a",
   "original": "手詰めAP弾",
-  "translation": "手詰めAP弾",
+  "translation": "复装穿甲弹",
   "context": "ID: TALK_MAKING_50BMG\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[10]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "63eaf8ede6f9ff36921d7f4151504233",
   "original": "手詰めAP弾（100発）\nミートジャーキー15個",
-  "translation": "手詰めAP弾（100発）\nミートジャーキー15個",
+  "translation": "复装穿甲弹（100发）\n肉干15个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_S\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_S",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "995306b6196d62faa91f29bc8a09f458",
   "original": "手詰めAP弾（25発）\nミートジャーキー5個",
-  "translation": "手詰めAP弾（25発）\nミートジャーキー5個",
+  "translation": "复装穿甲弹（25发）\n肉干5个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_S\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_S",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "55b34e2290cc0f4d4fb354a2a4ba5489",
   "original": "手詰めAP弾（50発）\nミートジャーキー10個",
-  "translation": "手詰めAP弾（50発）\nミートジャーキー10個",
+  "translation": "复装穿甲弹（50发）\n肉干10个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_S\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[12]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_S",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4d713ca65a578357abb1f947655756a4",
   "original": "手詰めFMJ弾",
-  "translation": "手詰めFMJ弾",
+  "translation": "复装被甲弹",
   "context": "ID: TALK_MAKING_9MM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8d59a4369c15fca7f0ccab6b7145da29",
   "original": "手詰めFMJ弾（100発）\n簡易煮沸包帯10個",
-  "translation": "手詰めFMJ弾（100発）\n簡易煮沸包帯10個",
+  "translation": "复装被甲弹（100发）\n简易绷带（煮沸）10个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_F\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[4]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_F",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "533cfc18b983030e430b6c50ec881a46",
   "original": "手詰めFMJ弾（150発）\n簡易煮沸包帯15個",
-  "translation": "手詰めFMJ弾（150発）\n簡易煮沸包帯15個",
+  "translation": "复装被甲弹（150发）\n简易绷带（煮沸）15个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_F\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[4]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_F",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6dbea7d65d17844fd5d4bb133a92e2ca",
   "original": "手詰めFMJ弾（50発）\n煮沸簡易包帯5個",
-  "translation": "手詰めFMJ弾（50発）\n煮沸簡易包帯5個",
+  "translation": "复装被甲弹（50发）\n简易绷带（煮沸）5个",
   "context": "ID: TALK_MAKING_9MM_RELOADED_F\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[4]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED_F",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cea8975a5c3d40b2b76903ba77cacbac",
   "original": "手詰めJHP弾",
-  "translation": "手詰めJHP弾",
+  "translation": "复装空尖弹",
   "context": "ID: TALK_MAKING_9MM\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "62a0fb60a61ed729ac7ca760e6c51d8f",
   "original": "手詰めJHP弾（100発）\n簡易煮沸包帯10個",
-  "translation": "手詰めJHP弾（100発）\n簡易煮沸包帯10個",
+  "translation": "复装空尖弹（100发）\n简易绷带（煮沸）10个",
   "context": "ID: TALK_MAKING_9MM_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bef746ece309830588161dfb74e7b380",
   "original": "手詰めJHP弾（150発）\n簡易煮沸包帯15個",
-  "translation": "手詰めJHP弾（150発）\n簡易煮沸包帯15個",
+  "translation": "复装空尖弹（150发）\n简易绷带（煮沸）15个",
   "context": "ID: TALK_MAKING_9MM_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "858466c203986c7fce641085758e8413",
   "original": "手詰めJHP弾（50発）\n煮沸簡易包帯5個",
-  "translation": "手詰めJHP弾（50発）\n煮沸簡易包帯5個",
+  "translation": "复装空尖弹（50发）\n简易绷带（煮沸）5个",
   "context": "ID: TALK_MAKING_9MM_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_9MM_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "86a8bf04ed24e97db185fe7a41de420b",
   "original": "手詰め弾",
-  "translation": "手詰め弾",
+  "translation": "复装子弹",
   "context": "ID: TALK_MAKING_NATO\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[7]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6dda1bb6ca17eb53aed0d892eebcfa59",
   "original": "手詰め曳光弾",
-  "translation": "手詰め曳光弾",
+  "translation": "复装曳光弹",
   "context": "ID: TALK_MAKING_50BMG\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[10]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0d672a8b011c3c504dd36005ec65bbae",
   "original": "手詰め曳光弾（100発）\nガマの粘液15個",
-  "translation": "手詰め曳光弾（100発）\nガマの粘液15個",
+  "translation": "复装曳光弹（100发）\n香蒲胶15个",
   "context": "ID: TALK_MAKING_NATO_RELOADED_I\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[9]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO_RELOADED_I",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4c41adbe04d9987ddd9641f9889f53c3",
   "original": "手詰め曳光弾（100発）\nミートジャーキー15個",
-  "translation": "手詰め曳光弾（100発）\nミートジャーキー15個",
+  "translation": "复装曳光弹（100发）\n肉干15个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_I\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[13]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_I",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d15498eb857609c9d9bb719b314ad13b",
   "original": "手詰め曳光弾（25発）\nガマの粘液5個",
-  "translation": "手詰め曳光弾（25発）\nガマの粘液5個",
+  "translation": "复装曳光弹（25发）\n香蒲胶5个",
   "context": "ID: TALK_MAKING_NATO_RELOADED_I\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[9]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO_RELOADED_I",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c5c389f28b8b8c1c24cecc84bbefc437",
   "original": "手詰め曳光弾（25発）\nミートジャーキー5個",
-  "translation": "手詰め曳光弾（25発）\nミートジャーキー5個",
+  "translation": "复装曳光弹（25发）\n肉干5个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_I\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[13]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_I",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "68b244bfe513c069e39abee9f30d4549",
   "original": "手詰め曳光弾（50発）\nガマの粘液10個",
-  "translation": "手詰め曳光弾（50発）\nガマの粘液10個",
+  "translation": "复装曳光弹（50发）\n香蒲胶10个",
   "context": "ID: TALK_MAKING_NATO_RELOADED_I\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[9]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_NATO_RELOADED_I",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "352599e8a0d19078258b3781747a68e0",
   "original": "手詰め曳光弾（50発）\nミートジャーキー10個",
-  "translation": "手詰め曳光弾（50発）\nミートジャーキー10個",
+  "translation": "复装曳光弹（50发）\n肉干10个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED_I\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[13]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED_I",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9428e071fb0cf62841ce91d41ccbb1e8",
   "original": "手詰め競技用弾",
-  "translation": "手詰め競技用弾",
+  "translation": "复装竞赛弹",
   "context": "ID: TALK_MAKING_50BMG\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[10]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8b3a70b9c8f3df0262ec16aeaa3d2dd5",
   "original": "手詰め競技用弾（100発）\nミートジャーキー15個",
-  "translation": "手詰め競技用弾（100発）\nミートジャーキー15個",
+  "translation": "复装竞赛弹（100发）\n肉干15个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[11]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "30e5c8e542be5ae43ca5d579fb655ee2",
   "original": "手詰め競技用弾（25発）\nミートジャーキー10個",
-  "translation": "手詰め競技用弾（25発）\nミートジャーキー10個",
+  "translation": "复装竞赛弹（25发）\n肉干10个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[11]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1c9870e1f40bd2dde63b71fd88ccf93b",
   "original": "手詰め競技用弾（50発）\nミートジャーキー20個",
-  "translation": "手詰め競技用弾（50発）\nミートジャーキー20個",
+  "translation": "复装竞赛弹（50发）\n肉干20个",
   "context": "ID: TALK_MAKING_50BMG_RELOADED\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[11]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAKING_50BMG_RELOADED",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "74c7a80693885e938fbaa0e83e13ae2b",
@@ -2754,9 +2784,9 @@
  {
   "key": "7a68fc30b55326f93eaf49527c0691bb",
   "original": "秘密の隠れ家",
-  "translation": "秘密の隠れ家",
+  "translation": "秘密的藏身处",
   "context": "ID: love_is_over\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/scenario_and_eoc.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→scenario→love_is_over\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=love_is_over",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b99608a4983b19bc1a794e98890165e7",
@@ -2789,9 +2819,9 @@
  {
   "key": "043cd639de563e41848f1febafe33d8b",
   "original": "素材収集中",
-  "translation": "素材収集中",
+  "translation": "素材收集中",
   "context": "ID: band_collecting\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→band_collecting\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_collecting",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6f6cbd709cd688de822ec0a93a8a9ace",
@@ -2810,100 +2840,100 @@
  {
   "key": "d1af0f2852aab6fbaa621e3e828218ed",
   "original": "絆RANK 1",
-  "translation": "絆RANK 1",
+  "translation": "羁绊RANK 1",
   "context": "ID: band_lv1\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_lv1",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "527c1eed0beb85065fee9359f008836c",
   "original": "絆RANK 2",
-  "translation": "絆RANK 2",
+  "translation": "羁绊RANK 2",
   "context": "ID: band_lv2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_lv2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c96233abcbb199f37f631fb5e340bd17",
   "original": "絆RANK 3",
-  "translation": "絆RANK 3",
+  "translation": "羁绊RANK 3",
   "context": "ID: band_lv3\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_lv3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5aaf50ca47d54af93f2dda773e95e821",
   "original": "絆RANK EX",
-  "translation": "絆RANK EX",
+  "translation": "羁绊RANK EX",
   "context": "ID: band_lv4\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_lv4",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b1459fc826432df22367d0d73372b120",
   "original": "絆RANK EX+",
-  "translation": "絆RANK EX+",
+  "translation": "羁绊RANK EX+",
   "context": "ID: band_lv5\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_lv5",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce627641c78b49300504a02cea41fe61",
   "original": "絆RANK0",
-  "translation": "絆RANK0",
+  "translation": "羁绊RANK 0",
   "context": "ID: band_lv0\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv0\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=band_lv0",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0786a50e228e14113ec1cd42144b5ddf",
   "original": "絆の力",
-  "translation": "絆の力",
+  "translation": "羁绊之力",
   "context": "ID: ench_band_ex\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→ench_band_ex\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ench_band_ex",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fd32cde786e90f26c4fd27a8ef258977",
   "original": "絆を深める（EX+）",
-  "translation": "絆を深める（EX+）",
+  "translation": "羁绊加深（EX+）",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "65e518c3a2168049c9ca9e3e7d160abd",
   "original": "絆を深める（EX）",
-  "translation": "絆を深める（EX）",
+  "translation": "羁绊加深（EX）",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ccc3d29aa19fd334151e2020f59f5c20",
   "original": "絆を深める（LV1）",
-  "translation": "絆を深める（LV1）",
+  "translation": "羁绊加深（LV1）",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "da5f13445dc471335f442ec0eb7f3f88",
   "original": "絆を深める（LV2）",
-  "translation": "絆を深める（LV2）",
+  "translation": "羁绊加深（LV2）",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bdeeb4b0fafd4c945f8f95dd6a664ef9",
   "original": "絆を深める（LV3）",
-  "translation": "絆を深める（LV3）",
+  "translation": "羁绊加深（LV3）",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a33f1d1104fe96c71407dddc3c2d922e",
   "original": "絆を結ぶ",
-  "translation": "絆を結ぶ",
+  "translation": "建立羁绊",
   "context": "ID: TALK_ALLY_SOCIAL\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_menu.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_ALLY_SOCIAL",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eba88be5ec8849d5e43fc8b8f92e2e8d",
   "original": "結婚指輪(銀)",
-  "translation": "結婚指輪(銀)",
+  "translation": "婚戒（银）",
   "context": "ID: ring_wedding_silver\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/rings.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→ARMOR→ring_wedding_silver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ring_wedding_silver",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "318aa9e70babe5c9d97057ebe46c5722",
@@ -2922,9 +2952,9 @@
  {
   "key": "ee5242d9d073178db7a1039c2e51062b",
   "original": "自分の治療をしなければ…",
-  "translation": "自分の治療をしなければ…",
+  "translation": "如果不治疗自己的话...",
   "context": "ID: TALK_LOVE_TOGETHER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[4]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_LOVE_TOGETHER",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "004f19dfa9fea1862375bd19e197e861",
@@ -2952,14 +2982,14 @@
   "original": "茜",
   "translation": "茜",
   "context": "ID: AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/classes_akane.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→AKANE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=AKANE",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a0ebbed67aaa66dd54804ffc0fbdd2f6",
   "original": "葵",
   "translation": "葵",
   "context": "ID: AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/classes_aoi.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→npc→AOI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=AOI",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "72b4c35de6fb66028c17117aababf415",
@@ -3097,9 +3127,9 @@
  {
   "key": "3593fb42d8d43159327031dd5b0f69ec",
   "original": "食べながら会話する",
-  "translation": "食べながら会話する",
+  "translation": "边吃边聊",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_INTERCTION_GENERIC",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e4d09b3acb7d4ac449e5d59515199a2e",

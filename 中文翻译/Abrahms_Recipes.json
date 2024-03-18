@@ -1,4 +1,185 @@
-Recipes/items/comestibles/meat_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→COMESTIBLE→beetstew_withcouscous\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=beetstew_withcouscous"
+[
+  {
+    "key": "afd5e1bf2eee6174bb1d24263ae708d4",
+    "original": "A 60-inch diameter, wide off-road wheel, used in mining, forestry, and military transport.",
+    "translation": "一种直径为60英寸的宽越野车轮，常用于采矿、林业和军事运输。",
+    "stage": 5,
+    "context": "ID: wheel_huge\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/vehicle/wheel.json\n类型为 WHEEL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→WHEEL→wheel_huge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wheel_huge"
+  },
+  {
+    "key": "d74b454ef78bc44a0c9e00f175cf5817",
+    "original": "A Chinese long-handled sword with a single-edged curved blade, consisting of a dao blade attached to a medium length pole, extending its reach and increasing damage and attack speed with a minimal increase in weight.",
+    "translation": "一把中式长柄刀，中等长度的握把上装有一个单刃刀片，以很小的重量为代价，扩展了攻击范围，增加了伤害和攻击速度。",
+    "stage": 5,
+    "context": "ID: pudao\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→pudao\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pudao"
+  },
+  {
+    "key": "87b5f57709404c705ae66c36f3ada9fa",
+    "original": "A big, heavy bunch of keys on the end of a steel chain. Makes a fairly effective flail.",
+    "translation": "一条末端有许多“钥匙”的钢链，可以当做一个相当有效的链枷。",
+    "stage": 5,
+    "context": "ID: keychain\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→keychain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=keychain"
+  },
+  {
+    "key": "2d687d1cb49cd1f044e25aff7ef4295d",
+    "original": "A flat steaming pan, with a lid and an internal pan, for making sheets of rice noodles known as fun.",
+    "translation": "一个带有盖子和内锅的平底蒸锅，因为可以用来做米粉而被人们所熟知。",
+    "stage": 5,
+    "context": "ID: pan_fun\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/tool/cooking.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→pan_fun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pan_fun"
+  },
+  {
+    "key": "983ac98f175d3221d7ff82f8ac798fcd",
+    "original": "A heavy solid steel bar from a dumbell, 20cm in length.",
+    "translation": "一根从哑铃中拆出的沉重的实心钢棒，长20厘米。",
+    "stage": 5,
+    "context": "ID: dumbar\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→dumbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dumbar"
+  },
+  {
+    "key": "872bf207ab965a929d099a027a1bd25a",
+    "original": "A heavy steel chain with a weighted grip on each end.",
+    "translation": "一种两端各有一个加重把手的重型钢链。“分铜锁（ふんどうさ），又有锁分铜、万力锁、锁十手、玉锁、锁玉、袖锁、怀锁、正木锁等称呼，是一种日本的传统武具，形态为一条铁链两端各系一个球型铁锤或把手。”",
+    "stage": 5,
+    "context": "ID: manriki\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→manriki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manriki"
+  },
+  {
+    "key": "caf109dca295bcdeee2541368f2e9bd6",
+    "original": "A large single-edged two-handed sword from Germany, resembling an oversized kitchen knife. The name means Big Knife.",
+    "translation": "一种德国产的大型单刃双手剑，形状像一把超大的厨刀。这种武器主要活跃于14至16世纪。其名\"Messer\"即德语中的“大刀”。",
+    "stage": 5,
+    "context": "ID: messer\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→messer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=messer"
+  },
+  {
+    "key": "b36fd3e8beb191108cb5198be10cfc2c",
+    "original": "A large, heavy sword-shaped cudgel forged from rebar, with a dull edge and sharp tip, and a flat disc or square crossguard.",
+    "translation": "一种用钢筋锻造的巨大且沉重的剑形棍棒。它有着钝器般的剑身和锋利的剑尖，还有一个扁平的十字护手。",
+    "stage": 5,
+    "context": "ID: rebarsword\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→rebarsword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rebarsword"
+  },
+  {
+    "key": "f21b39e43186e5220b707d7e0f9a1c94",
+    "original": "A lightweight hollow steel bar from a cheap barbell, reinforced with sturdy plastic. As a weapon, it does little damage, but is very sturdy for its weight, is light and fast, and has a long reach.",
+    "translation": "一种用廉价杠铃制成的轻质空心钢筋，用坚固的塑料加固过。虽然作为武器的伤害很低，但它非常坚固，轻便，快捷，并且有较长的攻击距离。",
+    "stage": 5,
+    "context": "ID: barbar_hollow\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→barbar_hollow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=barbar_hollow"
+  },
+  {
+    "key": "d3705223b7776e1c42838eb6fe9f2a5f",
+    "original": "A long-handled tachi sword from Japan, likely evolved from the Chinese pudao, and the ancestor of the naginata.",
+    "translation": "日本产的一种长柄太刀，名为\"長巻\"。它由中国朴刀演变而来，同时也是薙刀的祖先。",
+    "stage": 5,
+    "context": "ID: nagamaki\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→nagamaki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nagamaki"
+  },
+  {
+    "key": "9322afef7f008c937b6de6b28380f25a",
+    "original": "A mythical Chinese spear, consisting of a solid steel, textured shaft with a diamond-shaped spear point. Equally effective at bashing and stabbing, but heavy and slow.",
+    "translation": "一种中国神话中的长枪，由实心钢制成，矛尖带有菱形纹理。在钝击与刺击方面较为平衡，但又重又慢。",
+    "stage": 5,
+    "context": "ID: dragonqiang\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/spears_and_polearms.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→dragonqiang\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragonqiang"
+  },
+  {
+    "key": "cf3b7d9aaea64931f7558691bdd07d1c",
+    "original": "A short section of a putter handle with a heavy weight on the end, for training golfing techniques. Essentially a fairly sturdy mace.",
+    "translation": "一把末端有配有重物的推杆，往往用于训练高尔夫球技术。基本上可以当作一个坚固的狼牙棒使用。",
+    "stage": 5,
+    "context": "ID: putting_trainer\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→putting_trainer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=putting_trainer"
+  },
+  {
+    "key": "5e68ba8e443550e1f40884821f2e68d8",
+    "original": "A small wooden club for stunning fish.",
+    "translation": "一根用来打鱼的小木棍。",
+    "stage": 5,
+    "context": "ID: bonker\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→bonker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bonker"
+  },
+  {
+    "key": "a1fb4ffda8c2256e08796e6bee7051e8",
+    "original": "A steel cobra baton that collapses for easy storage.  Makes an excellent melee weapon.  Activate to collapse.",
+    "translation": "一种能够收缩起来以便存放的钢制警棍，是一种很好的近战武器。激活以收缩。",
+    "stage": 5,
+    "context": "ID: tokushukeibo-extended\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→tokushukeibo-extended\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tokushukeibo-extended"
+  },
+  {
+    "key": "986250338d61e8ff9e0a80df8ef1515d",
+    "original": "A steel cobra baton with a disarming hook, that collapses for easy storage.  Makes an excellent melee weapon.  Activate to collapse.",
+    "translation": "一种能够收缩起来以便存放的钢制警棍，带有一个用于缴械的支钩。是一种很好的近战武器。激活以收缩。",
+    "stage": 5,
+    "context": "ID: tokushukeibo-jitte-extended\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→tokushukeibo-jitte-extended\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tokushukeibo-jitte-extended"
+  },
+  {
+    "key": "eeb199103b54f710f15548fcc2d775fe",
+    "original": "A sturdy oak staff 1 shaku (30cm) in length.",
+    "translation": "一根结实的橡木棍，长1尺（30厘米）。",
+    "stage": 5,
+    "context": "ID: tanbo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→tanbo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tanbo"
+  },
+  {
+    "key": "c50861390bdefcf98b12a242fa1cd82b",
+    "original": "A sturdy oak staff 3 shaku (90cm) in length.",
+    "translation": "一根结实的橡木棍，长3尺（90厘米）。",
+    "stage": 5,
+    "context": "ID: hanbo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→hanbo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hanbo"
+  },
+  {
+    "key": "f79adcb14e74e4804d5011739adf4f39",
+    "original": "A sturdy oak staff 4 shaku (120cm) in length.",
+    "translation": "一根结实的橡木棍，长4尺（120厘米）。",
+    "stage": 5,
+    "context": "ID: jyo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→jyo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jyo"
+  },
+  {
+    "key": "2da4f0b3f953e0b8af99579476525a6e",
+    "original": "A sturdy oak staff 6 shaku (180cm) in length.",
+    "translation": "一根结实的橡木棍，长6尺（180厘米）。",
+    "stage": 5,
+    "context": "ID: rokushakubo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→rokushakubo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rokushakubo"
+  },
+  {
+    "key": "8acff96de5a8e3519d597d8f80b9797a",
+    "original": "A thin batter of rice and water, used to make rice noodle sheets called fun.",
+    "translation": "一种用米和水做成的稀米糊，可以用来做河粉。",
+    "stage": 5,
+    "context": "ID: fun_batter\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/comestibles/wheat.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→COMESTIBLE→fun_batter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fun_batter"
+  },
+  {
+    "key": "bc06f565daedc9693bd735b2626ca4a6",
+    "original": "A very heavy, solid steel bar from a barbell.",
+    "translation": "一根从哑铃中拆出的沉重的实心钢棒。",
+    "stage": 5,
+    "context": "ID: barbar\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→barbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=barbar"
+  },
+  {
+    "key": "08822d798113550131d0d42c15e7669a",
+    "original": "A walking stick made from a sapling of dense blackthorn or sloe wood, with a large knob at the top, that has been left to cure in a chimney.  A traditional Irish weapon derived from the shillelagh.",
+    "translation": "这种手杖通常由黑刺木（刺李）制成，顶部装有把手。这种传统的爱尔兰武器起源于希勒拉格，人们将木头涂抹油脂后放入烟囱，通过烟熏达到固化的目的",
+    "stage": 5,
+    "context": "ID: blackthorn\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→blackthorn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackthorn"
+  },
+  {
+    "key": "07b2ae60ce0cea517f2e38aa77159a92",
+    "original": "A walking stick made from a sapling of dense blackthorn or sloe wood, with a large knob at the top, that has been left to cure in a chimney.  A traditional Irish weapon derived from the shillelagh. This is a synthetic one made from durable polymer, cheaper and more durable than a wooden one, but less effective as a weapon.",
+    "translation": "这种手杖通常由黑刺木（刺李）制成，顶部装有把手。这种传统的爱尔兰武器起源于希勒拉格，人们将木头涂抹油脂后放入烟囱，通过烟熏达到固化的目的。不过这一根是由人造合成材料制成的。它比木制的更便宜耐用，但作为武器效果较差。",
+    "stage": 5,
+    "context": "ID: blackthorn-synthetic\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→blackthorn-synthetic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackthorn-synthetic"
+  },
+  {
+    "key": "c2d6aa4b37a5aabaf95beddc8b2f1e4a",
+    "original": "Abrahms Recipes 1",
+    "translation": "亚伯拉罕的新配方",
+    "stage": 5,
+    "context": "ID: AbrahmsRecipes1\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→MOD_INFO→AbrahmsRecipes1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=AbrahmsRecipes1"
+  },
+  {
+    "key": "4ac20c962bcbecfa936f4c88c68f45c8",
+    "original": "An Indian sweet consisting of couscous fried in butter or ghee, then cooked with milk, sugar, and spices. Traditionally cut into diamond-shaped pieces.",
+    "translation": "一种印度甜食。用黄油或酥油烘烤粗麦粉，加入糖和香料调味，往往还要添加牛奶。传统上会切割成菱形小块食用。",
+    "stage": 5,
+    "context": "ID: sooji_halwa\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/comestibles/wheat.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→COMESTIBLE→sooji_halwa\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sooji_halwa"
+  },
+  {
+    "key": "4099ae1296e448b529d8d9e0e97d5ebd",
+    "original": "An ancient recipe, translated from a 4000 year old Babylonian clay tablet, written in ancient Akkadian, consisting of beets, leeks, onions, garlic, lamb, and spices, simmered in beer. Best eaten with couscous.",
+    "translation": "一份古老的食谱，来自一块有4000年历史，用古代阿卡德语书写的巴比伦泥板。菜品由甜菜、韭菜、洋葱、大蒜、羊肉和香料组成，在啤酒中炖煮。最好和蒸粗麦粉一起吃。",
+    "stage": 5,
+    "context": "ID: beetstew_withcouscous\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/comestibles/meat_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→COMESTIBLE→beetstew_withcouscous\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=beetstew_withcouscous"
   },
   {
     "key": "ddd4e8d062dbcee0e8d7c75a3c6818db",
@@ -180,188 +361,7 @@ Recipes/items/comestibles/meat_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps
     "original": "The 'ten hands' weapon. A steel rod with a disarming hook, used primarily by officers of the Edo police during the Edo period.",
     "translation": "一种在护手处带有支钩的金属棒，用法类似铁尺但能用支钩格挡住刀剑的劈击，是用于解除对手武装的武器。中文名为“十手”（又称“实手”），在日本江户时期被警察广泛使用。",
     "stage": 5,
-    "context": "ID: jitte\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://o[
-  {
-    "key": "afd5e1bf2eee6174bb1d24263ae708d4",
-    "original": "A 60-inch diameter, wide off-road wheel, used in mining, forestry, and military transport.",
-    "translation": "一种直径为60英寸的宽越野车轮，常用于采矿、林业和军事运输。",
-    "stage": 5,
-    "context": "ID: wheel_huge\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/vehicle/wheel.json\n类型为 WHEEL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→WHEEL→wheel_huge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wheel_huge"
-  },
-  {
-    "key": "d74b454ef78bc44a0c9e00f175cf5817",
-    "original": "A Chinese long-handled sword with a single-edged curved blade, consisting of a dao blade attached to a medium length pole, extending its reach and increasing damage and attack speed with a minimal increase in weight.",
-    "translation": "一把中式长柄刀，中等长度的握把上装有一个单刃刀片，以很小的重量为代价，扩展了攻击范围，增加了伤害和攻击速度。",
-    "stage": 5,
-    "context": "ID: pudao\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→pudao\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pudao"
-  },
-  {
-    "key": "87b5f57709404c705ae66c36f3ada9fa",
-    "original": "A big, heavy bunch of keys on the end of a steel chain. Makes a fairly effective flail.",
-    "translation": "一条末端有许多“钥匙”的钢链，可以当做一个相当有效的链枷。",
-    "stage": 5,
-    "context": "ID: keychain\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→keychain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=keychain"
-  },
-  {
-    "key": "2d687d1cb49cd1f044e25aff7ef4295d",
-    "original": "A flat steaming pan, with a lid and an internal pan, for making sheets of rice noodles known as fun.",
-    "translation": "一个带有盖子和内锅的平底蒸锅，因为可以用来做米粉而被人们所熟知。",
-    "stage": 5,
-    "context": "ID: pan_fun\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/tool/cooking.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→pan_fun\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pan_fun"
-  },
-  {
-    "key": "983ac98f175d3221d7ff82f8ac798fcd",
-    "original": "A heavy solid steel bar from a dumbell, 20cm in length.",
-    "translation": "一根从哑铃中拆出的沉重的实心钢棒，长20厘米。",
-    "stage": 5,
-    "context": "ID: dumbar\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→dumbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dumbar"
-  },
-  {
-    "key": "872bf207ab965a929d099a027a1bd25a",
-    "original": "A heavy steel chain with a weighted grip on each end.",
-    "translation": "一种两端各有一个加重把手的重型钢链。“分铜锁（ふんどうさ），又有锁分铜、万力锁、锁十手、玉锁、锁玉、袖锁、怀锁、正木锁等称呼，是一种日本的传统武具，形态为一条铁链两端各系一个球型铁锤或把手。”",
-    "stage": 5,
-    "context": "ID: manriki\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→manriki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=manriki"
-  },
-  {
-    "key": "caf109dca295bcdeee2541368f2e9bd6",
-    "original": "A large single-edged two-handed sword from Germany, resembling an oversized kitchen knife. The name means Big Knife.",
-    "translation": "一种德国产的大型单刃双手剑，形状像一把超大的厨刀。这种武器主要活跃于14至16世纪。其名\"Messer\"即德语中的“大刀”。",
-    "stage": 5,
-    "context": "ID: messer\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→messer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=messer"
-  },
-  {
-    "key": "b36fd3e8beb191108cb5198be10cfc2c",
-    "original": "A large, heavy sword-shaped cudgel forged from rebar, with a dull edge and sharp tip, and a flat disc or square crossguard.",
-    "translation": "一种用钢筋锻造的巨大且沉重的剑形棍棒。它有着钝器般的剑身和锋利的剑尖，还有一个扁平的十字护手。",
-    "stage": 5,
-    "context": "ID: rebarsword\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→rebarsword\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rebarsword"
-  },
-  {
-    "key": "f21b39e43186e5220b707d7e0f9a1c94",
-    "original": "A lightweight hollow steel bar from a cheap barbell, reinforced with sturdy plastic. As a weapon, it does little damage, but is very sturdy for its weight, is light and fast, and has a long reach.",
-    "translation": "一种用廉价杠铃制成的轻质空心钢筋，用坚固的塑料加固过。虽然作为武器的伤害很低，但它非常坚固，轻便，快捷，并且有较长的攻击距离。",
-    "stage": 5,
-    "context": "ID: barbar_hollow\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→barbar_hollow\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=barbar_hollow"
-  },
-  {
-    "key": "d3705223b7776e1c42838eb6fe9f2a5f",
-    "original": "A long-handled tachi sword from Japan, likely evolved from the Chinese pudao, and the ancestor of the naginata.",
-    "translation": "日本产的一种长柄太刀，名为\"長巻\"。它由中国朴刀演变而来，同时也是薙刀的祖先。",
-    "stage": 5,
-    "context": "ID: nagamaki\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/swords_and_blades.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→nagamaki\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nagamaki"
-  },
-  {
-    "key": "9322afef7f008c937b6de6b28380f25a",
-    "original": "A mythical Chinese spear, consisting of a solid steel, textured shaft with a diamond-shaped spear point. Equally effective at bashing and stabbing, but heavy and slow.",
-    "translation": "一种中国神话中的长枪，由实心钢制成，矛尖带有菱形纹理。在钝击与刺击方面较为平衡，但又重又慢。",
-    "stage": 5,
-    "context": "ID: dragonqiang\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/spears_and_polearms.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→TOOL→dragonqiang\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dragonqiang"
-  },
-  {
-    "key": "cf3b7d9aaea64931f7558691bdd07d1c",
-    "original": "A short section of a putter handle with a heavy weight on the end, for training golfing techniques. Essentially a fairly sturdy mace.",
-    "translation": "一把末端有配有重物的推杆，往往用于训练高尔夫球技术。基本上可以当作一个坚固的狼牙棒使用。",
-    "stage": 5,
-    "context": "ID: putting_trainer\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→putting_trainer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=putting_trainer"
-  },
-  {
-    "key": "5e68ba8e443550e1f40884821f2e68d8",
-    "original": "A small wooden club for stunning fish.",
-    "translation": "一根用来打鱼的小木棍。",
-    "stage": 5,
-    "context": "ID: bonker\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→bonker\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bonker"
-  },
-  {
-    "key": "a1fb4ffda8c2256e08796e6bee7051e8",
-    "original": "A steel cobra baton that collapses for easy storage.  Makes an excellent melee weapon.  Activate to collapse.",
-    "translation": "一种能够收缩起来以便存放的钢制警棍，是一种很好的近战武器。激活以收缩。",
-    "stage": 5,
-    "context": "ID: tokushukeibo-extended\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→tokushukeibo-extended\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tokushukeibo-extended"
-  },
-  {
-    "key": "986250338d61e8ff9e0a80df8ef1515d",
-    "original": "A steel cobra baton with a disarming hook, that collapses for easy storage.  Makes an excellent melee weapon.  Activate to collapse.",
-    "translation": "一种能够收缩起来以便存放的钢制警棍，带有一个用于缴械的支钩。是一种很好的近战武器。激活以收缩。",
-    "stage": 5,
-    "context": "ID: tokushukeibo-jitte-extended\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→tokushukeibo-jitte-extended\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tokushukeibo-jitte-extended"
-  },
-  {
-    "key": "eeb199103b54f710f15548fcc2d775fe",
-    "original": "A sturdy oak staff 1 shaku (30cm) in length.",
-    "translation": "一根结实的橡木棍，长1尺（30厘米）。",
-    "stage": 5,
-    "context": "ID: tanbo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→tanbo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tanbo"
-  },
-  {
-    "key": "c50861390bdefcf98b12a242fa1cd82b",
-    "original": "A sturdy oak staff 3 shaku (90cm) in length.",
-    "translation": "一根结实的橡木棍，长3尺（90厘米）。",
-    "stage": 5,
-    "context": "ID: hanbo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→hanbo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hanbo"
-  },
-  {
-    "key": "f79adcb14e74e4804d5011739adf4f39",
-    "original": "A sturdy oak staff 4 shaku (120cm) in length.",
-    "translation": "一根结实的橡木棍，长4尺（120厘米）。",
-    "stage": 5,
-    "context": "ID: jyo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→jyo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jyo"
-  },
-  {
-    "key": "2da4f0b3f953e0b8af99579476525a6e",
-    "original": "A sturdy oak staff 6 shaku (180cm) in length.",
-    "translation": "一根结实的橡木棍，长6尺（180厘米）。",
-    "stage": 5,
-    "context": "ID: rokushakubo\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→rokushakubo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rokushakubo"
-  },
-  {
-    "key": "8acff96de5a8e3519d597d8f80b9797a",
-    "original": "A thin batter of rice and water, used to make rice noodle sheets called fun.",
-    "translation": "一种用米和水做成的稀米糊，可以用来做河粉。",
-    "stage": 5,
-    "context": "ID: fun_batter\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/comestibles/wheat.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→COMESTIBLE→fun_batter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fun_batter"
-  },
-  {
-    "key": "bc06f565daedc9693bd735b2626ca4a6",
-    "original": "A very heavy, solid steel bar from a barbell.",
-    "translation": "一根从哑铃中拆出的沉重的实心钢棒。",
-    "stage": 5,
-    "context": "ID: barbar\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→barbar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=barbar"
-  },
-  {
-    "key": "08822d798113550131d0d42c15e7669a",
-    "original": "A walking stick made from a sapling of dense blackthorn or sloe wood, with a large knob at the top, that has been left to cure in a chimney.  A traditional Irish weapon derived from the shillelagh.",
-    "translation": "这种手杖通常由黑刺木（刺李）制成，顶部装有把手。这种传统的爱尔兰武器起源于希勒拉格，人们将木头涂抹油脂后放入烟囱，通过烟熏达到固化的目的",
-    "stage": 5,
-    "context": "ID: blackthorn\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→blackthorn\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackthorn"
-  },
-  {
-    "key": "07b2ae60ce0cea517f2e38aa77159a92",
-    "original": "A walking stick made from a sapling of dense blackthorn or sloe wood, with a large knob at the top, that has been left to cure in a chimney.  A traditional Irish weapon derived from the shillelagh. This is a synthetic one made from durable polymer, cheaper and more durable than a wooden one, but less effective as a weapon.",
-    "translation": "这种手杖通常由黑刺木（刺李）制成，顶部装有把手。这种传统的爱尔兰武器起源于希勒拉格，人们将木头涂抹油脂后放入烟囱，通过烟熏达到固化的目的。不过这一根是由人造合成材料制成的。它比木制的更便宜耐用，但作为武器效果较差。",
-    "stage": 5,
-    "context": "ID: blackthorn-synthetic\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→blackthorn-synthetic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=blackthorn-synthetic"
-  },
-  {
-    "key": "c2d6aa4b37a5aabaf95beddc8b2f1e4a",
-    "original": "Abrahms Recipes 1",
-    "translation": "亚伯拉罕的新配方",
-    "stage": 5,
-    "context": "ID: AbrahmsRecipes1\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→MOD_INFO→AbrahmsRecipes1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=AbrahmsRecipes1"
-  },
-  {
-    "key": "4ac20c962bcbecfa936f4c88c68f45c8",
-    "original": "An Indian sweet consisting of couscous fried in butter or ghee, then cooked with milk, sugar, and spices. Traditionally cut into diamond-shaped pieces.",
-    "translation": "一种印度甜食。用黄油或酥油烘烤粗麦粉，加入糖和香料调味，往往还要添加牛奶。传统上会切割成菱形小块食用。",
-    "stage": 5,
-    "context": "ID: sooji_halwa\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/comestibles/wheat.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→COMESTIBLE→sooji_halwa\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sooji_halwa"
-  },
-  {
-    "key": "4099ae1296e448b529d8d9e0e97d5ebd",
-    "original": "An ancient recipe, translated from a 4000 year old Babylonian clay tablet, written in ancient Akkadian, consisting of beets, leeks, onions, garlic, lamb, and spices, simmered in beer. Best eaten with couscous.",
-    "translation": "一份古老的食谱，来自一块有4000年历史，用古代阿卡德语书写的巴比伦泥板。菜品由甜菜、韭菜、洋葱、大蒜、羊肉和香料组成，在啤酒中炖煮。最好和蒸粗麦粉一起吃。",
-    "stage": 5,
-    "context": "ID: beetstew_withcouscous\n位于 /Kenan-Structured-Modpack/Abrahms_netwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→jitte\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jitte"
+    "context": "ID: jitte\n位于 /Kenan-Structured-Modpack/Abrahms_Recipes/items/melee/bludgeons.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Abrahms_Recipes→GENERIC→jitte\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jitte"
   },
   {
     "key": "65dabe712aa872cefaada7946fe84873",
