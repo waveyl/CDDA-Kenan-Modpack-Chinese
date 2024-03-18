@@ -1,4 +1,3 @@
-const BaiduTranslate = require('baidu-translate');
 const promiseRetry = require('promise-retry');
 const dotenv = require('dotenv');
 const fs = require('fs-jetpack');
@@ -34,7 +33,7 @@ const getFakeId = (item, index) =>
 const getContext = (sourceModName, item, index) => `${sourceModName}→${item.type}→${getFakeId(item, index)}`;
 const getItemBrowserLink = (item) =>
   item.id ? `http://cdda.aloxaf.cn/search?q=${escape(Array.isArray(item.id) ? item.id[0] : item.id)}` : '';
-
+// 日志记录相关
 let logCounter = 0;
 let logs = [];
 let errors = [];
@@ -58,16 +57,17 @@ const logger = {
 };
 const debouncedFlushLog = _.debounce(logger.flush, 1000);
 
-// 创建容纳翻译的文件夹
+// 创建文件夹
 fs.dir(path.join(__dirname, translatedDirName));
 fs.dir(path.join(__dirname, translateCacheDirName));
 fs.dir(path.join(__dirname, cddaWikiFolder));
-//  首先读取 Kenan-Modpack 文件夹里的所有文件名
+
+// 获取源文件夹中的 mod 名称列表
 const sourceModDirs = _.sortedUniq(
   fs.list(path.resolve(__dirname, 'Kenan-Structured-Modpack')).filter((name) => name !== '.DS_Store')
 );
-// 别忘了把百度翻译 API 的 .env 文件黏贴到文件夹里！
-// 搜狗的网上搜到了别人的 https://github.com/lunaragon/Translator/blob/b91481c4254ee01b3ce8eae1cea6586c33066e69/competitors/sougou.js#L6  	const PID = '059ad85853c5f20e54508cebf85287cd' const SECRET_KEY = 'c447fe597dc86f8c586cf7adef9dec21'
+
+// 读取环境变量
 dotenv.config();
 
 async function caiyunTranslate(value) {
@@ -95,7 +95,6 @@ async function caiyunTranslate(value) {
 const sougouTranslate = async (value) => {
   const random = Math.floor(Math.random() * 1000000);
   const toHash = `${process.env.SOUGOU_TRANSLATION_APP_ID}${value}${random}${process.env.SOUGOU_TRANSLATION_SECRET}`;
-  // 搜狗居然还在用过时的 x-www-form-urlencoded ，令人震惊
   const body = new URLSearchParams();
   body.append('q', value);
   body.append('from', 'en');
@@ -118,30 +117,17 @@ const sougouTranslate = async (value) => {
   }
   throw new Error(response?.errorCode + response?.message);
 };
-const baiduTranslateRaw = new BaiduTranslate(
-  process.env.BAIDU_TRANSLATION_APP_ID,
-  process.env.BAIDU_TRANSLATION_SECRET,
-  'zh',
-  'en'
-);
-const baiduTranslate = async (value) => {
-  const results = await baiduTranslateRaw(value);
-  const { trans_result: result } = results;
-  const [{ dst }] = result;
-  return dst;
-};
+
 /**
- * 先尝试百度再尝试搜狗
+ * 尝试使用不同的翻译服务进行翻译，优先顺序：彩云、搜狗
  * @param {string} value 待翻译的值
- * @returns
+ * @returns {Promise<string>} 翻译后的字符串
  */
 const unionTranslate = (value) =>
-  baiduTranslate(value).catch((error) =>
-    sougouTranslate(value).catch((error2) =>
-      caiyunTranslate(value).catch((error3) => {
-        throw new Error(error.message + error2.message + error3.message);
-      })
-    )
+  caiyunTranslate(value).catch((error) =>
+    sougouTranslate(value).catch((error2) => {
+      throw new Error(error.message + error2.message);
+    })
   );
 
 const tags = {
