@@ -1,36 +1,4 @@
-[
-  {
-    "key": "d57dcd910a2a7f96ec8c009a34554746",
-    "original": "A dark pair of goggles, weared on the forehead. Can't protect from bright flashes in this state. Use them to cover your eyes.",
-    "translation": "一副戴在前额的深色护目镜。目前状态无法保护你免受眩光影响，激活以遮住眼睛。",
-    "stage": 3,
-    "context": "ID: goggles_welding_forehead\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→goggles_welding_forehead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=goggles_welding_forehead"
-  },
-  {
-    "key": "68e7ebc4aa759d6038b3c6fa5f88fa7d",
-    "original": "A dark pair of goggles.  They make seeing very difficult, but protect you from bright flashes. Use them to move to your forehead.",
-    "translation": "一副深色护目镜。让你看不太清四周，但能够保护你免受眩光影响。激活以升起。",
-    "stage": 3,
-    "context": "ID: goggles_welding\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→goggles_welding\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=goggles_welding"
-  },
-  {
-    "key": "1dda93c112cc47ad0e2f88c1c9ca7443",
-    "original": "A high pressure electric pump, greatly decreases pneumatic weapon reload time, but requires UPS charges to work.",
-    "translation": "一个高压电动泵，大大减少了气动武器的装填时间，但需要UPS供能才能工作。",
-    "stage": 3,
-    "context": "ID: electric_pump\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/gunmod.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→GUNMOD→electric_pump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=electric_pump"
-  },
-  {
-    "key": "ac1007425aca136e2fd48501361a07d6",
-    "original": "A leather bandolier for keeping rifle cartridges close to hand.",
-    "translation": "一个皮革子弹带，保证步枪子弹随手可得。",
-    "stage": 5,
-    "context": "ID: bandolier_rifle\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→bandolier_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bandolier_rifle"
-  },
-  {
-    "key": "8e0f726e1a4b4e159f10d698bad9a068",
-    "original": "A machine tool that rotates a workpiece about an axis of rotation to perform various operations such as cutting, sanding, knurling, drilling, deformation, facing, and turning, with tools that are applied to the workpiece to create an object with symmetry about that axis.",
-    "translation": "围绕旋转轴旋转工件以执行各种操作的机械，可以切削、打磨、滚花、钻孔、变形、端面和车削等，使用不同的工具处理工件，来制造沿轴对称的物体。",
+��工具处理工件，来制造沿轴对称的物体。",
     "stage": 3,
     "context": "ID: lathe\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→TOOL→lathe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lathe"
   },
@@ -200,7 +168,39 @@
     "original": "pairs of welding goggles (forehead)",
     "translation": "电焊护目镜（升起）",
     "stage": 3,
+    "context": "ID: goggl[
+  {
+    "key": "d57dcd910a2a7f96ec8c009a34554746",
+    "original": "A dark pair of goggles, weared on the forehead. Can't protect from bright flashes in this state. Use them to cover your eyes.",
+    "translation": "一副戴在前额的深色护目镜。目前状态无法保护你免受眩光影响，激活以遮住眼睛。",
+    "stage": 3,
     "context": "ID: goggles_welding_forehead\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→goggles_welding_forehead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=goggles_welding_forehead"
+  },
+  {
+    "key": "68e7ebc4aa759d6038b3c6fa5f88fa7d",
+    "original": "A dark pair of goggles.  They make seeing very difficult, but protect you from bright flashes. Use them to move to your forehead.",
+    "translation": "一副深色护目镜。让你看不太清四周，但能够保护你免受眩光影响。激活以升起。",
+    "stage": 3,
+    "context": "ID: goggles_welding\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→goggles_welding\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=goggles_welding"
+  },
+  {
+    "key": "1dda93c112cc47ad0e2f88c1c9ca7443",
+    "original": "A high pressure electric pump, greatly decreases pneumatic weapon reload time, but requires UPS charges to work.",
+    "translation": "一个高压电动泵，大大减少了气动武器的装填时间，但需要UPS供能才能工作。",
+    "stage": 3,
+    "context": "ID: electric_pump\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/gunmod.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→GUNMOD→electric_pump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=electric_pump"
+  },
+  {
+    "key": "ac1007425aca136e2fd48501361a07d6",
+    "original": "A leather bandolier for keeping rifle cartridges close to hand.",
+    "translation": "一个皮革子弹带，保证步枪子弹随手可得。",
+    "stage": 5,
+    "context": "ID: bandolier_rifle\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→bandolier_rifle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bandolier_rifle"
+  },
+  {
+    "key": "8e0f726e1a4b4e159f10d698bad9a068",
+    "original": "A machine tool that rotates a workpiece about an axis of rotation to perform various operations such as cutting, sanding, knurling, drilling, deformation, facing, and turning, with tools that are applied to the workpiece to create an object with symmetry about that axis.",
+    "translation": "围绕旋转轴旋转工件以执行各种操作的机械，可以切削、打磨、滚花、钻孔、变形、端面和车削等，使用不同�es_welding_forehead\n位于 /Kenan-Structured-Modpack/EngineeringEssentials/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#EngineeringEssentials→ARMOR→goggles_welding_forehead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=goggles_welding_forehead"
   },
   {
     "key": "0f9f01100b0ace0d5eec2bfc0cdd092a",
