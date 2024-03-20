@@ -605,14 +605,13 @@
   "key": "e15c8be802e2529a16df4e7bef650e3f",
   "original": "A corpse reactor.  It uses corses as fuel when assembled.",
   "translation": "一个尸体反应堆。装配后使用尸体作为燃料。",
-  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
+  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
   "stage": 3
  },
  {
   "key": "b2c1b6258b015bb5ab5721e16b33c231",
   "original": "A corpse, prepared for use in special reactors",
   "translation": "准备用于特殊反应的一具尸体。",
-  "context": "ID: touhou_corpse_medium\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_fuel.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→AMMO→touhou_corpse_medium\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=touhou_corpse_medium",
   "stage": 3
  },
  {
@@ -1204,7 +1203,6 @@
   "key": "33266b888f7d59407ff61649daae6541",
   "original": "A small corpse, prepared for use in special reactors",
   "translation": "一具体型较小的尸体，用来进行一些特殊的反应。",
-  "context": "ID: touhou_corpse_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_fuel.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→AMMO→touhou_corpse_small\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=touhou_corpse_small",
   "stage": 3
  },
  {
@@ -1272,7 +1270,7 @@
   "key": "2673aada61f83af08cb86334544f3116",
   "original": "A soul engine.  It uses crystallized souls as fuel when assembled.",
   "translation": "A soul engine.  It uses crystallized souls as fuel when assembled.",
-  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
+  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
   "stage": 1
  },
  {
@@ -1322,6 +1320,13 @@
   "translation": "一支月球防卫部队的制式栓动步枪，附带刺刀。款式源自人类的老式武器，采用了月都技术来制造和改进升级，因此这把枪能兼容一部分人类工具和改装配件。它由使用者的魔力供能。",
   "context": "ID: lunar_rifle2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/gun/touhou_lunar_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GUN→lunar_rifle2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lunar_rifle2",
   "stage": 3
+ },
+ {
+  "key": "2f9ede97563743042f4f6a7f986a133f",
+  "original": "A standard mattress on a sturdy wooden frame, ocuppied by a body.  This serves as return point in case you're fatally wounded.  It will also fool any shinigami into looking for you somewhere else.",
+  "translation": "A standard mattress on a sturdy wooden frame, ocuppied by a body.  This serves as return point in case you're fatally wounded.  It will also fool any shinigami into looking for you somewhere else.",
+  "context": "ID: f_bed_shikaisen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→furniture→f_bed_shikaisen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_bed_shikaisen",
+  "stage": 1
  },
  {
   "key": "dc0141e5e645ae3bc3799f559deec469",
@@ -1493,7 +1498,6 @@
   "key": "e1faffb3e614e6c2fba74296962386b7",
   "original": "AAA",
   "translation": "AAA",
-  "context": "ID: sakuya_timestop_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_eoc",
   "stage": 3
  },
  {
@@ -1648,6 +1652,13 @@
   "stage": 3
  },
  {
+  "key": "a7dc76ae5c94ac9a5b8d478dd9ef2ebf",
+  "original": "An open gap in space.",
+  "translation": "An open gap in space.",
+  "context": "ID: t_wall_hole\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_wall_hole\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_wall_hole",
+  "stage": 1
+ },
+ {
   "key": "d0923a724450bfc2b0363ac8998ad0a4",
   "original": "An unnaturally large adjustable wrench, made from rust-proof steel.   Despite looking oversize, the mechanism with a long handle and jaws that widen over two inches.  This could easily turn most bolts, and should even work on wheel lug nuts.",
   "translation": "An unnaturally large adjustable wrench, made from rust-proof steel.   Despite looking oversize, the mechanism with a long handle and jaws that widen over two inches.  This could easily turn most bolts, and should even work on wheel lug nuts.",
@@ -1678,7 +1689,6 @@
   "key": "050c5d605f330cb8df7de088cc243de5",
   "original": "Apply Yoshika's ofuda to a nearby human (or close enough) corpse, reviving it and forcing her personality to take over again.",
   "translation": "在附近的人类（或足够近距离的）尸体上放置芳香的灵符，使其复活并让她的人格掌控身体。",
-  "context": "ID: seiga_yoshikasumm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshikasumm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshikasumm",
   "stage": 3
  },
  {
@@ -1937,6 +1947,13 @@
   "stage": 3
  },
  {
+  "key": "ec627aaea719793819862418b570bdec",
+  "original": "Blood Death (vfx)",
+  "translation": "Blood Death (vfx)",
+  "context": "ID: death_blood4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_blood4",
+  "stage": 1
+ },
+ {
   "key": "1bced53276b2bf6352e9147855447803",
   "original": "Blood boil",
   "translation": "血液沸腾",
@@ -2119,6 +2136,13 @@
   "stage": 3
  },
  {
+  "key": "2ed910c4ca84e9c5392b991681844df4",
+  "original": "CHAINED",
+  "translation": "CHAINED",
+  "context": "ID: kaenbyou_corpseexplosion_chain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_corpseexplosion_chain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion_chain",
+  "stage": 1
+ },
+ {
   "key": "0668597d3ed4faeaa9216035aeea582a",
   "original": "Cabin",
   "translation": "小屋",
@@ -2184,7 +2208,7 @@
   "key": "0e22fe7d45f8e5632a4abf369b24e29c",
   "original": "Canceled",
   "translation": "已取消",
-  "context": "ID: utsuho_ugeyser_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_ugeyser_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_ugeyser_eoc",
+  "context": "ID: seiga_wallwalk_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk_eoc",
   "stage": 3
  },
  {
@@ -2439,6 +2463,41 @@
   "translation": "猫车（测试）",
   "context": "ID: kaenbyou_wheelbarrow2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicles/touhou_vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle→kaenbyou_wheelbarrow2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_wheelbarrow2",
   "stage": 3
+ },
+ {
+  "key": "c56585852959411366348c457b40b768",
+  "original": "Corpse explosion",
+  "translation": "Corpse explosion",
+  "context": "ID: kaenbyou_corpseexplosion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion",
+  "stage": 1
+ },
+ {
+  "key": "4eb0ca54d435d1909538a6c118f28240",
+  "original": "Corpse explosion (dmg) (bash)",
+  "translation": "Corpse explosion (dmg) (bash)",
+  "context": "ID: kaenbyou_corpseexplosion3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion3",
+  "stage": 1
+ },
+ {
+  "key": "7f8b5d6ce1a90f4776e9f49a108cd44d",
+  "original": "Corpse explosion (dmg) (bash) (chained)",
+  "translation": "Corpse explosion (dmg) (bash) (chained)",
+  "context": "ID: kaenbyou_corpseexplosion5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion5",
+  "stage": 1
+ },
+ {
+  "key": "baeaef4d2286adfffc9f8d050e74c58d",
+  "original": "Corpse explosion (dmg) (heat)",
+  "translation": "Corpse explosion (dmg) (heat)",
+  "context": "ID: kaenbyou_corpseexplosion2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion2",
+  "stage": 1
+ },
+ {
+  "key": "79cd01df6a3eb8ba3a03e0aed7883cce",
+  "original": "Corpse explosion (dmg) (heat) (chained)",
+  "translation": "Corpse explosion (dmg) (heat) (chained)",
+  "context": "ID: kaenbyou_corpseexplosion4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion4",
+  "stage": 1
  },
  {
   "key": "552b7cd249ddf8fe836bd442e670c379",
@@ -2857,6 +2916,20 @@
   "stage": 3
  },
  {
+  "key": "1439f6d2703e225add941c58cf54e4eb",
+  "original": "Damage component of kaenbyou_corpseexplosion ",
+  "translation": "Damage component of kaenbyou_corpseexplosion ",
+  "context": "ID: kaenbyou_corpseexplosion3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion3",
+  "stage": 1
+ },
+ {
+  "key": "4dbfc4728415bad63a3bf36d1dbebf22",
+  "original": "Damage component of kaenbyou_corpseexplosion , chained",
+  "translation": "Damage component of kaenbyou_corpseexplosion ，chained",
+  "context": "ID: kaenbyou_corpseexplosion5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion5",
+  "stage": 1
+ },
+ {
   "key": "b0e7b112cea774a4687387249b99aec7",
   "original": "Damage component of kasen_rainboworb ",
   "translation": "Damage component of kasen_rainboworb ",
@@ -2881,21 +2954,21 @@
   "key": "4e1a7c5a6b5ffb2df94f69d86a15bc37",
   "original": "Damned's rope",
   "translation": "诅咒之绳",
-  "context": "ID: yamame_damnedrope\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope",
+  "context": "ID: yamame_damnedrope_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope_UPDATED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope_UPDATED",
   "stage": 3
  },
  {
   "key": "2fd3c29431b8cc3898b97dfb5af0632b",
   "original": "Damned's rope (pull)",
   "translation": "Damned's rope （pull）",
-  "context": "ID: yamame_damnedrope2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope2",
+  "context": "ID: yamame_damnedrope2_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2_UPDATED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope2_UPDATED",
   "stage": 3
  },
  {
   "key": "fd0d87f6b39491accd86cf77e11b2d33",
   "original": "Damned's rope (stun)",
   "translation": "Damned's rope （stun）",
-  "context": "ID: yamame_damnedrope3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope3",
+  "context": "ID: yamame_damnedrope3_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3_UPDATED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope3_UPDATED",
   "stage": 3
  },
  {
@@ -3551,7 +3624,7 @@
   "key": "e4536268470f248eb54ddbba3f3d737f",
   "original": "Entangle a target and pull it towards your position, stunning it for a short time.",
   "translation": "Entangle a target and pull it towards your position，stunning it for a short time.",
-  "context": "ID: yamame_damnedrope2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope2",
+  "context": "ID: yamame_damnedrope2_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2_UPDATED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope2_UPDATED",
   "stage": 3
  },
  {
@@ -4053,6 +4126,13 @@
   "stage": 3
  },
  {
+  "key": "8b257b09421a04fba9b35ec2c3a87746",
+  "original": "Forces Yoshika to run the EOC, which teleports her to Seiga",
+  "translation": "Forces Yoshika to run the EOC, which teleports her to Seiga",
+  "context": "ID: seiga_yoshika_summon3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon3",
+  "stage": 1
+ },
+ {
   "key": "54226e0877d365ad47c74d68cf4cbf72",
   "original": "Forces the EOC upon the target, which check which species it is and sets var_remidrain accordingly",
   "translation": "Forces the EOC upon the target, which check which species it is and sets var_remidrain accordingly",
@@ -4119,6 +4199,13 @@
   "original": "Forces the target to run the EOC, which reduces u_var_slashnether_cast to (their) self",
   "translation": "Forces the target to run the EOC, which reduces u_var_slashnether_cast to (their) self",
   "context": "ID: mon_youmumyon_slashnether_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slashnether_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slashnether_reduce",
+  "stage": 1
+ },
+ {
+  "key": "86d4f88bbea1fca894f5c471377e7e6c",
+  "original": "Forces the target to run the EOC, which reduces u_var_yoshika_cast to (their) self",
+  "translation": "Forces the target to run the EOC, which reduces u_var_yoshika_cast to (their) self",
+  "context": "ID: yoshika_nails2_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails2_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails2_reduce",
   "stage": 1
  },
  {
@@ -4606,6 +4693,13 @@
   "stage": 3
  },
  {
+  "key": "51510f0cba1b8f80e62bd8bd9e4e1372",
+  "original": "Heal component of yoshika_drain ",
+  "translation": "Heal component of yoshika_drain ",
+  "context": "ID: yoshika_drain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_drain2",
+  "stage": 1
+ },
+ {
   "key": "57c7d4efcaa4be5906a1ec59ee17ec3d",
   "original": "Healing over time effect for mokou_cauterize ",
   "translation": "燃火重愈的疗伤阶段",
@@ -4714,7 +4808,7 @@
   "key": "eabee0168c221ffcb3459ebfa74bb48a",
   "original": "Hell wave cannon (minisun) (uncontrollable)",
   "translation": "Hell wave cannon (minisun) (uncontrollable)",
-  "context": "ID: mon_youmumyon2_slashnether2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2",
+  "context": "ID: mon_msun_hellcannon2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_msun_hellcannon2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_msun_hellcannon2_unc",
   "stage": 3
  },
  {
@@ -5028,6 +5122,13 @@
   "stage": 3
  },
  {
+  "key": "41cc8707d456bf1b1513546a769fc732",
+  "original": "Infuse a nearby corpse with hellish energies, causing it to violently explode.  Deals Fire damage proportional to the target's life in life.",
+  "translation": "Infuse a nearby corpse with hellish energies, causing it to violently explode.  Deals Fire damage proportional to the target's life in life.",
+  "context": "ID: kaenbyou_corpseexplosion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion",
+  "stage": 1
+ },
+ {
   "key": "811444dc0a38524cf66116385900ab17",
   "original": "Infuse your weapon with spiritual energy and sweep in front of you, dealing damage and pulling enemies towards your position.",
   "translation": "Infuse your weapon with spiritual energy and sweep in front of you，dealing damage and pulling enemies towards your position.",
@@ -5286,7 +5387,7 @@
   "key": "1787d2bda207d2941c83b06d175d1915",
   "original": "Knife retrieval",
   "translation": "飞刀索回",
-  "context": "ID: sakuya_knifepull2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_knifepull2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull2",
+  "context": "ID: sakuya_knifepull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_knifepull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull",
   "stage": 3
  },
  {
@@ -5428,6 +5529,20 @@
   "translation": "由防火材料制成的皮靴。",
   "context": "ID: mokou_boots\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→mokou_boots\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mokou_boots",
   "stage": 3
+ },
+ {
+  "key": "f65e6b06852efcc6223ed1df0d554fa2",
+  "original": "Life drain",
+  "translation": "Life drain",
+  "context": "ID: yoshika_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_drain",
+  "stage": 1
+ },
+ {
+  "key": "c9b09beaa055349e71906378d7517e2a",
+  "original": "Life drain (self heal)",
+  "translation": "Life drain (self heal)",
+  "context": "ID: yoshika_drain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_drain2",
+  "stage": 1
  },
  {
   "key": "598e41dd167a76be2d5dcb3393eefce6",
@@ -5854,6 +5969,13 @@
   "stage": 3
  },
  {
+  "key": "674e9c0ce9c44316f7c759f273394178",
+  "original": "Modified death_blood for kaenbyou_corpseexplosion ",
+  "translation": "Modified death_blood for kaenbyou_corpseexplosion ",
+  "context": "ID: death_blood4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_blood4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=death_blood4",
+  "stage": 1
+ },
+ {
   "key": "db4af6c1621ff37e568b94b68bd5a9f9",
   "original": "Modified death_blood for mon_chasm_kaenbyou ",
   "translation": "Modified death_blood for mon_chasm_kaenbyou ",
@@ -5996,8 +6118,22 @@
   "key": "0f6f866105b05e553846859a117602fc",
   "original": "Nail slash",
   "translation": "Nail slash",
-  "context": "ID: yoshika_nails\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails",
+  "context": "ID: yoshika_nails\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails",
   "stage": 3
+ },
+ {
+  "key": "1611b12c2bbabe70f39cbec8ba6f736b",
+  "original": "Nail slash (procced)",
+  "translation": "Nail slash (procced)",
+  "context": "ID: yoshika_nails2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails2",
+  "stage": 1
+ },
+ {
+  "key": "28e79fabed6e0c0015f331567cfc044c",
+  "original": "Nail slash (procced) (reduce EOC)",
+  "translation": "Nail slash (procced) (reduce EOC)",
+  "context": "ID: yoshika_nails2_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails2_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails2_reduce",
+  "stage": 1
  },
  {
   "key": "2d74aaec5694eb2e9e6139c4d86524e2",
@@ -6215,6 +6351,13 @@
   "stage": 1
  },
  {
+  "key": "0fa87118e51038622869076b4e9924eb",
+  "original": "Opening a path to your Senkai, you call forth Yoshika to assist you.",
+  "translation": "Opening a path to your Senkai, you call forth Yoshika to assist you.",
+  "context": "ID: seiga_yoshika_summon_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_yoshika_summon_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon_eoc",
+  "stage": 1
+ },
+ {
   "key": "9979cd0e395e660178d8a004293986db",
   "original": "Optical camouflage",
   "translation": "光学迷彩",
@@ -6346,6 +6489,20 @@
   "translation": "穿墙虫洞",
   "context": "ID: seiga_wallwalk\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_wallwalk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk",
   "stage": 3
+ },
+ {
+  "key": "1822eae48f83821b4cefbf4618d7ed1e",
+  "original": "Pass through wall (effect)",
+  "translation": "Pass through wall (effect)",
+  "context": "ID: seiga_wallwalk3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_wallwalk3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk3",
+  "stage": 1
+ },
+ {
+  "key": "893910dc05a82296a73eed5e48fafd7f",
+  "original": "Perform the Body Substitution ritual, allowing you to escape the (quite literal) grasp of Death.  \nRequires: a bed, something that works as your replacement, and sheets to cover it.  Similar components may work too.  \nThe ritual lasts for five minutes until it's complete, but the duration of its effects last until you receive fatal wounds.",
+  "translation": "Perform the Body Substitution ritual, allowing you to escape the (quite literal) grasp of Death.  \nRequires: a bed, something that works as your replacement, and sheets to cover it.  Similar components may work too.  \nThe ritual lasts for five minutes until it's complete, but the duration of its effects last until you receive fatal wounds.",
+  "context": "ID: seiga_shikaisenritual\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual",
+  "stage": 1
  },
  {
   "key": "d2f41caa2f69ad27dc32b2525ffe3a7a",
@@ -7115,6 +7272,27 @@
   "stage": 1
  },
  {
+  "key": "10fb6fb058e0afa0f24c544455319c74",
+  "original": "Ritual: Shikaisen",
+  "translation": "Ritual: Shikaisen",
+  "context": "ID: seiga_shikaisenritual\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual",
+  "stage": 1
+ },
+ {
+  "key": "0965ece02956388186c77cdeb6a05d82",
+  "original": "Ritual: Shikaisen (transform)",
+  "translation": "Ritual: Shikaisen (transform)",
+  "context": "ID: seiga_shikaisenritual2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual2",
+  "stage": 1
+ },
+ {
+  "key": "c35c9bba853eb152f3e8e2cf5af02fbe",
+  "original": "Ritual: Shikaisen (transform) (remove)",
+  "translation": "Ritual: Shikaisen (transform) (remove)",
+  "context": "ID: seiga_shikaisenritual3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual3",
+  "stage": 1
+ },
+ {
   "key": "48882413bd7c10c4aa79539a97eb189a",
   "original": "Roaring fox mask",
   "translation": "吼怒的妖狐面",
@@ -7346,7 +7524,15 @@
   "key": "879e10125a6429d326af5a1d9de645bf",
   "original": "Select target",
   "translation": "选择目标",
+  "context": "ID: kaenbyou_corpseexplosion_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_corpseexplosion_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion_eoc",
   "stage": 3
+ },
+ {
+  "key": "ed04ee728788c9b4d2e9c8c624a9ee71",
+  "original": "Select wall",
+  "translation": "Select wall",
+  "context": "ID: seiga_wallwalk_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk_eoc",
+  "stage": 1
  },
  {
   "key": "e01b51cdba5073b75414e6e3b0489aed",
@@ -7468,6 +7654,13 @@
   "stage": 3
  },
  {
+  "key": "6238b6c60c97682678b78b97aca29669",
+  "original": "Shikaisen ritual (effect)",
+  "translation": "Shikaisen ritual (effect)",
+  "context": "ID: seiga_shikaisen_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_shikaisen_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisen_effect",
+  "stage": 1
+ },
+ {
   "key": "b80b266119898c5855a13741ac10c177",
   "original": "Shock step",
   "translation": "Shock step",
@@ -7551,6 +7744,20 @@
   "stage": 1
  },
  {
+  "key": "b563c7033ab7faacaaeca052c1764cc0",
+  "original": "Slash of nether meditation (phantom)",
+  "translation": "Slash of nether meditation (phantom)",
+  "context": "ID: mon_youmumyon2_slashnether2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2",
+  "stage": 1
+ },
+ {
+  "key": "bb156ad417059abd7d459387b4602fb8",
+  "original": "Slash of nether meditation (phantom) (reduce EOC)",
+  "translation": "Slash of nether meditation (phantom) (reduce EOC)",
+  "context": "ID: mon_youmumyon2_slashnether2_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2_reduce",
+  "stage": 1
+ },
+ {
   "key": "4ed7a4d15b3dca59d8b4ccd5a3f000a3",
   "original": "Slash of nether meditation (reduce EOC)",
   "translation": "Slash of nether meditation (reduce EOC)",
@@ -7624,7 +7831,7 @@
   "key": "3a2c73d3d099a67b20360d3da1b5834d",
   "original": "Slash of the eternal future (reduce EOC)",
   "translation": "Slash of the eternal future （reduce EOC）",
-  "context": "ID: mon_youmumyon2_slashnether2_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon2_slashnether2_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon2_slashnether2_reduce",
+  "context": "ID: mon_youmumyon_slasheternal_reduce\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→mon_youmumyon_slasheternal_reduce\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_youmumyon_slasheternal_reduce",
   "stage": 1
  },
  {
@@ -7733,6 +7940,13 @@
   "original": "Snap your fingers to create a nearby black sun that produces some light.  These can duplicate Hell Wave Cannon after you cast it.",
   "translation": "Snap your fingers to create a nearby black sun that produces some light.  These can duplicate Hell Wave Cannon after you cast it.",
   "context": "ID: utsuho_blacksun2_unc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_blacksun2_unc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=utsuho_blacksun2_unc",
+  "stage": 1
+ },
+ {
+  "key": "09a4cf52188bd25223448b04059dbbd3",
+  "original": "Some pieces to complete the ritual are missing.",
+  "translation": "Some pieces to complete the ritual are missing.",
+  "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_sheet_found",
   "stage": 1
  },
  {
@@ -7997,13 +8211,19 @@
   "key": "b239579f03d2ce4a52f091997ab88e2d",
   "original": "Stop time to retrieve nearby knives (without anyone noticing it).",
   "translation": "暂停时间并取回附近的飞刀（不会引起注意）。",
-  "context": "ID: sakuya_knifepull2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_knifepull2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull2",
+  "context": "ID: sakuya_knifepull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_knifepull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull",
   "stage": 3
  },
  {
   "key": "c2befb0d0d15907b1bf8cc79858d9db2",
   "original": "Storage for the corpse cart.  When assembled, you can store corpses here.",
   "translation": "Storage for the corpse cart.  When assembled, you can store corpses here.",
+  "stage": 1
+ },
+ {
+  "key": "554cac08b2548d6bfddc12ad05718082",
+  "original": "Storage for the corpse cart.  When assembled, you can store stuff here.",
+  "translation": "Storage for the corpse cart.  When assembled, you can store stuff here.",
   "context": "ID: storage_corpsecart\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→storage_corpsecart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=storage_corpsecart",
   "stage": 1
  },
@@ -8116,7 +8336,7 @@
   "key": "7a6686d9b37792d2c3f36c25d4684b58",
   "original": "Stun component of yamame_damnedrope ",
   "translation": "Stun component of yamame_damnedrope ",
-  "context": "ID: yamame_damnedrope3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope3",
+  "context": "ID: yamame_damnedrope3_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3_UPDATED\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yamame_damnedrope3_UPDATED",
   "stage": 3
  },
  {
@@ -8197,6 +8417,13 @@
   "stage": 3
  },
  {
+  "key": "2adfcb71cd2a87d5190a3580b2b42305",
+  "original": "Summon component of seiga_yoshika_summon ",
+  "translation": "Summon component of seiga_yoshika_summon ",
+  "context": "ID: seiga_yoshika_summon2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon2",
+  "stage": 1
+ },
+ {
   "key": "0615bde62c563c9e0f8fe48b1504416c",
   "original": "Summon ethereal chains, stunning enemies caught on it for a short time.  Deals a small amount of physical damage.",
   "translation": "召唤空灵的锁链，短暂眩晕被它捕捉的敌人。造成少量物理伤害。",
@@ -8218,6 +8445,13 @@
   "stage": 3
  },
  {
+  "key": "7e314fec2f3748325fa728d6c7a396e7",
+  "original": "Summon your trusty Yoshika back from your Senkai.  Her talisman protects her, returning her in case she receives lethal (?) damage.  \nCosts 200 mana.  Cast again at no cost to move her to your location.",
+  "translation": "Summon your trusty Yoshika back from your Senkai.  Her talisman protects her, returning her in case she receives lethal (?) damage.  \nCosts 200 mana.  Cast again at no cost to move her to your location.",
+  "context": "ID: seiga_yoshika_summon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon",
+  "stage": 1
+ },
+ {
   "key": "87eeef7a0f01ecbf563a219e02548b78",
   "original": "Summon: Spirit naginata",
   "translation": "召唤：灵力薙刀",
@@ -8235,8 +8469,22 @@
   "key": "1c9b2ec3c270b1ed49ac2e27da960f84",
   "original": "Summon: Yoshika",
   "translation": "召唤：宫古芳香",
-  "context": "ID: seiga_yoshikasumm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshikasumm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshikasumm",
+  "context": "ID: seiga_yoshika_summon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon",
   "stage": 3
+ },
+ {
+  "key": "44d0c1dd7558f2d70cff8b228dd5b74d",
+  "original": "Summon: Yoshika (summon)",
+  "translation": "Summon: Yoshika (summon)",
+  "context": "ID: seiga_yoshika_summon2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon2",
+  "stage": 1
+ },
+ {
+  "key": "2ed377ee5f1d83d3a38a34f72f112507",
+  "original": "Summon: Yoshika (tp) (EOC)",
+  "translation": "Summon: Yoshika (tp) (EOC)",
+  "context": "ID: seiga_yoshika_summon3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon3",
+  "stage": 1
  },
  {
   "key": "906f2a786cd924175938d90e1c67bd1d",
@@ -8335,6 +8583,20 @@
   "translation": "与目标生物交换位置.",
   "context": "ID: reisen_entanglement\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_reisen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→reisen_entanglement\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reisen_entanglement",
   "stage": 3
+ },
+ {
+  "key": "f9bd9df6a94886b0b1cfc159f3e0cd66",
+  "original": "TEST Pass through wall TEST",
+  "translation": "TEST Pass through wall TEST",
+  "context": "ID: seiga_wallwalk2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_wallwalk2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk2",
+  "stage": 1
+ },
+ {
+  "key": "1ecdea8963d6a6b0124f76b060c544cf",
+  "original": "TIMESTOP_SUCCESSFUL",
+  "translation": "TIMESTOP_SUCCESSFUL",
+  "context": "ID: sakuya_timestop_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_timestop_eoc",
+  "stage": 1
  },
  {
   "key": "8ae54ef0e9fe2b7a8fee22f6bbbdbfd7",
@@ -8551,6 +8813,13 @@
   "stage": 1
  },
  {
+  "key": "af728585ca47a2822aaa1dd395f79dc2",
+  "original": "Terrain transform component of seiga_wallwalk ",
+  "translation": "Terrain transform component of seiga_wallwalk ",
+  "context": "ID: seiga_wallwalk3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_wallwalk3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk3",
+  "stage": 1
+ },
+ {
   "key": "1d402e9eaae73cf9ed0b9e5f015b9c31",
   "original": "Terrain transformation component of youmu_slasheternal ",
   "translation": "Terrain transformation component of youmu_slasheternal ",
@@ -8600,6 +8869,13 @@
   "stage": 1
  },
  {
+  "key": "27283ff99c9574f7aa52b5528c2e22ad",
+  "original": "The \"tank\" of the corpse reactor.  It's a small box made of metal and wood.",
+  "translation": "The \"tank\" of the corpse reactor.  It's a small box made of metal and wood.",
+  "context": "ID: tank_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→tank_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tank_corpsecart2",
+  "stage": 1
+ },
+ {
   "key": "09ce831da8643d1fe963fa9d7b024347",
   "original": "The \"tank\" of the soul engine.  It's a small box made of metal and a strange Former Hell wood.",
   "translation": "The \"tank\" of the soul engine.  It's a small box made of metal and a strange Former Hell wood.",
@@ -8610,7 +8886,7 @@
   "key": "9a9e082031fc2542486e0a32f6c906f6",
   "original": "The \"tank\" of the soul engine.  It's a small box made of metal and wood.",
   "translation": "灵魂引擎的“油箱”。一个由金属和木头制成的小盒子。",
-  "context": "ID: tank_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→tank_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tank_corpsecart2",
+  "context": "ID: tank_corpsecart\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→tank_corpsecart\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tank_corpsecart",
   "stage": 3
  },
  {
@@ -8768,7 +9044,28 @@
   "key": "1f68c9dc564183af14f6ba2dda9082df",
   "original": "The reactor of the corpse cart.  It uses corpses as fuel.",
   "translation": "The reactor of the corpse cart.  It uses corpses as fuel.",
-  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
+  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
+  "stage": 1
+ },
+ {
+  "key": "8f05156ba924234eedfbdee4c05f0174",
+  "original": "The replacement is broken.",
+  "translation": "The replacement is broken.",
+  "context": "ID: seiga_death_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_death_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_death_eoc",
+  "stage": 1
+ },
+ {
+  "key": "09d64cfddbd6252b2fea4db95663557c",
+  "original": "The ritual is completed.  Your replacement is ready, in case you need it.",
+  "translation": "The ritual is completed.  Your replacement is ready, in case you need it.",
+  "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_sheet_found",
+  "stage": 1
+ },
+ {
+  "key": "b5e1feb1dd0903c7805a882ff92441a8",
+  "original": "The safeguard you prepared activates, instantly swapping identities.",
+  "translation": "The safeguard you prepared activates, instantly swapping identities.",
+  "context": "ID: seiga_death_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_death_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_death_eoc",
   "stage": 1
  },
  {
@@ -8782,7 +9079,7 @@
   "key": "4e1c99274e8bd1af527ce4ac0a4c64c5",
   "original": "The soul engine of the corpse cart.  It uses crystallized souls as fuel.",
   "translation": "The soul engine of the corpse cart.  It uses crystallized souls as fuel.",
-  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
+  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
   "stage": 1
  },
  {
@@ -8849,11 +9146,46 @@
   "stage": 3
  },
  {
+  "key": "baf471289a0a2e7f5a99a6d602bceaa4",
+  "original": "There is no bed nearby to perform the ritual.",
+  "translation": "There is no bed nearby to perform the ritual.",
+  "context": "ID: seiga_shikaisenritual_bed_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_bed_none\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_bed_none",
+  "stage": 1
+ },
+ {
+  "key": "5d7e26b61c79696cce2e79d9258009d6",
+  "original": "There is no proper covering for your replacement at the proper location to perform the ritual.",
+  "translation": "There is no proper covering for your replacement at the proper location to perform the ritual.",
+  "context": "ID: seiga_shikaisenritual_corpse_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_corpse_found\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_corpse_found",
+  "stage": 1
+ },
+ {
+  "key": "f143c43d22c5e8959c07a27bf8aeaebd",
+  "original": "There is no replacement at the proper location to perform the ritual.",
+  "translation": "There is no replacement at the proper location to perform the ritual.",
+  "context": "ID: seiga_shikaisenritual_bed_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_bed_found\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_bed_found",
+  "stage": 1
+ },
+ {
+  "key": "c37c79888387dfe204dbcc4abb0a0731",
+  "original": "There is no suitable corpse at the location.",
+  "translation": "There is no suitable corpse at the location.",
+  "context": "ID: kaenbyou_corpseexplosion_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_corpseexplosion_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kaenbyou_corpseexplosion_eoc",
+  "stage": 1
+ },
+ {
   "key": "58d8ca98500d1580e73903af920335df",
   "original": "There wasn't a lot going on so you went to visit some of your friends.  First stop was the Shrine Maiden, but she was more dismissive than usual.  Second stop was Momiji, but she wasn't available.  Third stop was the Village librarian, but she was sleeping.  Going through the Bamboo Forest of the Lost you, well… it was bound to happen some time.  You're pretty sure these people wearing filthy Outside world clothing shouldn't be here, which means this one's good!",
   "translation": "你最近闲来无事，于是你去拜访了一些朋友。第一站是神社巫女，但她比平常更不耐烦。第二站是白玉楼的守矢神子，但她不在家。第三站是村里的图书管理员，但她正在睡觉。穿过迷失的竹林，你知道迟早会遇到。你非常确定这些穿着脏兮兮的外界衣服的人不应该出现在这里，意味着这是个不错的素材！",
   "context": "ID: aya_shameimaru\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→aya_shameimaru\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=aya_shameimaru",
   "stage": 3
+ },
+ {
+  "key": "db7baa15dd66268c005b9fe190f9f6bb",
+  "original": "There's no suitable wall at the location.",
+  "translation": "There's no suitable wall at the location.",
+  "context": "ID: seiga_wallwalk_fail\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_fail\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk_fail",
+  "stage": 1
  },
  {
   "key": "b7e1f22f60058d3f59b10f8dedeceda1",
@@ -8893,6 +9225,13 @@
   "original": "This adds the condition for mon_utsuho_minisun to cast their version of the spell",
   "translation": "This adds the condition for mon_utsuho_minisun to cast their version of the spell",
   "context": "ID: hellcannon_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hellcannon_to_mon",
+  "stage": 1
+ },
+ {
+  "key": "8236c7b88a4f47f2276cd21f1d6bc311",
+  "original": "This adds the condition for mon_yoshika to cast her stuff",
+  "translation": "This adds the condition for mon_yoshika to cast her stuff",
+  "context": "ID: seiga_yoshika_var\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_var\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_var",
   "stage": 1
  },
  {
@@ -9246,6 +9585,20 @@
   "original": "Training results",
   "translation": "Training results",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_youmu",
+  "stage": 1
+ },
+ {
+  "key": "267afa32a8e50e50a581b93d05044b11",
+  "original": "Transform component of seiga_shikaisenritual , to destroy f_bed_shikaisen ",
+  "translation": "Transform component of seiga_shikaisenritual , to destroy f_bed_shikaisen ",
+  "context": "ID: seiga_shikaisenritual3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual3",
+  "stage": 1
+ },
+ {
+  "key": "7375784d5b0a3caf12f0cee75f1d8914",
+  "original": "Transform furniture component of seiga_shikaisenritual ",
+  "translation": "Transform furniture component of seiga_shikaisenritual ",
+  "context": "ID: seiga_shikaisenritual2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual2",
   "stage": 1
  },
  {
@@ -9740,6 +10093,13 @@
   "stage": 3
  },
  {
+  "key": "089a7b9f270c7b0957de5666fd358726",
+  "original": "WALLWALK_SUCCESS",
+  "translation": "WALLWALK_SUCCESS",
+  "context": "ID: seiga_wallwalk_store\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_store\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk_store",
+  "stage": 1
+ },
+ {
   "key": "aa8655ac3c4726ac935c2918903416aa",
   "original": "WHIPS",
   "translation": "WHIPS",
@@ -10021,11 +10381,32 @@
   "stage": 3
  },
  {
+  "key": "11f70de6f31a0acdb00f2984087a18db",
+  "original": "Yoshika (add var)",
+  "translation": "Yoshika (add var)",
+  "context": "ID: seiga_yoshika_var\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_var\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_var",
+  "stage": 1
+ },
+ {
+  "key": "f161f9d3924b4a6193f7cf6305a763be",
+  "original": "Yoshika's drain attack",
+  "translation": "Yoshika's drain attack",
+  "context": "ID: yoshika_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_drain",
+  "stage": 1
+ },
+ {
   "key": "6af872a601b3231cf0e258ab1ef2eb39",
   "original": "Yoshika's nail slash attack",
   "translation": "Yoshika's nail slash attack",
-  "context": "ID: yoshika_nails\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails",
+  "context": "ID: yoshika_nails\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails",
   "stage": 3
+ },
+ {
+  "key": "4ebd98f7f52ae82f942697e1064c18bc",
+  "original": "Yoshika's nail slash attack, casted after Seiga casts any spell",
+  "translation": "Yoshika's nail slash attack, casted after Seiga casts any spell",
+  "context": "ID: yoshika_nails2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=yoshika_nails2",
+  "stage": 1
  },
  {
   "key": "1831de640184b737f31e488aeb58af1f",
@@ -10033,6 +10414,13 @@
   "translation": "宫古芳香的灵符",
   "context": "ID: seiga_talisman\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_etherealitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL→seiga_talisman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_talisman",
   "stage": 3
+ },
+ {
+  "key": "213a0bc65f33afe8a507c11391119a9b",
+  "original": "Yoshikas",
+  "translation": "Yoshikas",
+  "context": "ID: mon_yoshika\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_yoshika\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_yoshika",
+  "stage": 1
  },
  {
   "key": "04c13b71be5d1644081dcd4a1c657b72",
@@ -10130,6 +10518,13 @@
   "translation": "你的身形再次显现出来.",
   "context": "ID: udonge_stealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_stealth",
   "stage": 3
+ },
+ {
+  "key": "d893de365d6ce21fcf7e04aa9974eaf4",
+  "original": "You begin performing the ritual…",
+  "translation": "You begin performing the ritual…",
+  "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_sheet_found",
+  "stage": 1
  },
  {
   "key": "099e4b3f2ed12b78427281ca6510d126",
@@ -10294,7 +10689,7 @@
   "key": "28601dbfd046d5a07d7582b0609090c9",
   "original": "You don't have enough mana.",
   "translation": "You don't have enough mana.",
-  "context": "ID: nitori_aerialtorpedoes_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_aerialtorpedoes_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=nitori_aerialtorpedoes_eoc",
+  "context": "ID: seiga_yoshika_summon_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_yoshika_summon_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon_eoc",
   "stage": 1
  },
  {
@@ -10315,7 +10710,7 @@
   "key": "15258f99bf80577f03042a57ac7f263a",
   "original": "You elegantly retrieve nearby knives.",
   "translation": "你优雅潇洒地取回了附近的飞刀。",
-  "context": "ID: sakuya_knifepull\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_knifepull\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull",
+  "context": "ID: sakuya_knifepull_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_knifepull_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_knifepull_eoc",
   "stage": 3
  },
  {
@@ -10604,6 +10999,13 @@
   "stage": 1
  },
  {
+  "key": "e01c7acaf202c7d0ee237fdc63b35ba3",
+  "original": "You have placed a replacement for yourself somewhere, which will immediately activate to protect you from lethal harm.",
+  "translation": "You have placed a replacement for yourself somewhere, which will immediately activate to protect you from lethal harm.",
+  "context": "ID: seiga_shikaisen_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_shikaisen_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisen_effect",
+  "stage": 1
+ },
+ {
   "key": "f96cab190cae7866555b242fe9c1fe57",
   "original": "You have pointy, yet otherwise normal ears.",
   "translation": "You have pointy, yet otherwise normal ears.",
@@ -10748,6 +11150,13 @@
   "translation": "你使用自己的能力进行快速休息。",
   "context": "ID: sakuya_quickrest_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_quickrest_effect\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sakuya_quickrest_effect",
   "stage": 3
+ },
+ {
+  "key": "36d54f9979d4e7b181e96c8a6f58186f",
+  "original": "You move Yoshika to your side.",
+  "translation": "You move Yoshika to your side.",
+  "context": "ID: seiga_yoshika_summon_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_yoshika_summon_eoc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_yoshika_summon_eoc",
+  "stage": 1
  },
  {
   "key": "eb20f6abf74de177d887001c90ca90b4",
@@ -11775,6 +12184,13 @@
   "stage": 3
  },
  {
+  "key": "48f9d2887dbf5e6a74adaaac00201985",
+  "original": "Your trusty jiang shi companion.  Eager to help you, she will assist you in battle as long as her body allows her to.",
+  "translation": "Your trusty jiang shi companion.  Eager to help you, she will assist you in battle as long as her body allows her to.",
+  "context": "ID: mon_yoshika\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_yoshika\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_yoshika",
+  "stage": 1
+ },
+ {
   "key": "a9884c871310e8cacebc06e81717839a",
   "original": "Your unleashed vampiric essence.",
   "translation": "你释放了吸血鬼的极意。",
@@ -12018,6 +12434,13 @@
   "translation": "手臂绷带",
   "context": "ID: kasen_bandages\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_bandages\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=kasen_bandages",
   "stage": 3
+ },
+ {
+  "key": "222ca644a55e3d0045353e29b12c33d0",
+  "original": "bed (ritual)",
+  "translation": "bed (ritual)",
+  "context": "ID: f_bed_shikaisen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→furniture→f_bed_shikaisen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_bed_shikaisen",
+  "stage": 1
  },
  {
   "key": "1a8f9ef1f627c018a7a935ef53c2df50",
@@ -12345,8 +12768,15 @@
   "key": "e89196f1cb52069efe1f4bf0942bcb7f",
   "original": "corpse",
   "translation": "尸体",
-  "context": "ID: touhou_corpse_ammo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ammunition_type→touhou_corpse_ammo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=touhou_corpse_ammo",
+  "context": "ID: corpse_generic_girl\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/corpses/corpses.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→AMMO→corpse_generic_girl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=corpse_generic_girl",
   "stage": 3
+ },
+ {
+  "key": "6995978e112bf2980ea3b626f0212ad5",
+  "original": "corpse (ammo)",
+  "translation": "corpse (ammo)",
+  "context": "ID: touhou_corpse_ammo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ammunition_type→touhou_corpse_ammo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=touhou_corpse_ammo",
+  "stage": 1
  },
  {
   "key": "ee694d8d7d926fbe5aacf37dd9a4770d",
@@ -12436,7 +12866,7 @@
   "key": "123e05e5b9045f33abedb72be804fa21",
   "original": "corpse reactor",
   "translation": "corpse reactor",
-  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
+  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
   "stage": 1
  },
  {
@@ -12457,14 +12887,14 @@
   "key": "155b7884b7ca87d1369a6abe92bc5bf1",
   "original": "corpse reactor (disassembled)",
   "translation": "尸体反应堆（卸下）",
-  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
+  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
   "stage": 3
  },
  {
   "key": "d9bef3d808c123065bf926189c27b172",
   "original": "corpse reactors (disassembled)",
   "translation": "尸体反应堆（卸下）",
-  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
+  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
   "stage": 3
  },
  {
@@ -12806,6 +13236,13 @@
   "translation": "邪仙连衣裙",
   "context": "ID: seiga_dress\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→seiga_dress\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_dress",
   "stage": 3
+ },
+ {
+  "key": "de97e75e5b4604526a2afaed5f5439d7",
+  "original": "hole",
+  "translation": "hole",
+  "context": "ID: t_wall_hole\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_wall_hole\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_wall_hole",
+  "stage": 1
  },
  {
   "key": "e10127af717075b73dbf2c3b1fa24972",
@@ -13844,14 +14281,14 @@
   "key": "628386631500c43b055fdf8b5b8f98eb",
   "original": "soul engine MK2",
   "translation": "灵魂引擎MK2",
-  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
+  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_engines.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
   "stage": 3
  },
  {
   "key": "75037af7ca1c16e4f22af7a34b80c2e6",
   "original": "soul engine MK2 (disassembled)",
   "translation": "灵魂引擎MK2（卸下）",
-  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
+  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
   "stage": 3
  },
  {
@@ -13865,7 +14302,7 @@
   "key": "094f3c49aede96dc5e097d211176cf84",
   "original": "soul engines MK2 (disassembled)",
   "translation": "灵魂引擎MK2（卸下）",
-  "context": "ID: reactor_corpsecart2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart2",
+  "context": "ID: reactor_corpsecart3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 ENGINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ENGINE→reactor_corpsecart3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=reactor_corpsecart3",
   "stage": 3
  },
  {
