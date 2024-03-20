@@ -815,7 +815,7 @@
   "key": "e0f96535b8018c5e56d1b053800a0673",
   "original": "\"One foot after the other, always grounded...\"  You cast %s!",
   "translation": "“一步一步，脚踏实地……”你施放了 %s！",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "37557ef9ca5c9de93bb1e7f45312e1f2",
@@ -1007,8 +1007,8 @@
  {
   "key": "ec8253fb41dc9e699b93367ae6eddda7",
   "original": "\"Show me what eyes could never glimpse...\"  You cast %s!",
-  "translation": "“让我看见肉眼看不见的东西……”你施放了 %s！",
-  "stage": 1
+  "translation": "“让我看清眼睛所看不见的东西……”你施放了 %s！",
+  "stage": 3
  },
  {
   "key": "ee47a935e35da6b75720db45d468244a",
@@ -1139,9 +1139,9 @@
  {
   "key": "7b8507de72a4c8ab78ff1929b1048b15",
   "original": "\"That THING is not our master.  Traitorous servant of the gods, six-winged spirit from the Beyond!  It's laughing at me in the back of my mind, mocking me for hiding here while the others fought and died…\"",
-  "translation": "“那不是我们的主人。众神的恐怖仆人，六翼灵从超越！它在我的脑海里在嘲笑我，嘲笑我躲在这里，而其他人却死了...…”",
+  "translation": "“那个东西不是我们的主人。背叛的众神仆从，来自彼端的六翼精灵！它在我心灵深处嘲笑我，因为我躲在这里，而其他人战斗至死……”",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→snippet→[6]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e3d366752eba73b1f542e728f1246e3c",
@@ -2186,9 +2186,9 @@
  {
   "key": "15633fe9d8c1f522414b81ee3a7b826b",
   "original": "<npcname> blocks and floors %s",
-  "translation": "<npcname>闪避并倒地%s",
+  "translation": "<npcname>格挡并倒地%s",
   "context": "ID: tec_shrike_counter\n位于 /Kenan-Structured-Modpack/Arcana/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→technique→tec_shrike_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_shrike_counter",
-  "stage": 2
+  "stage": 3
  },
  {
   "key": "60fdd27beed9a87cd091a1528631f252",
@@ -2913,9 +2913,9 @@
  {
   "key": "a019da91b8bfb3ae1f5f1136453d319b",
   "original": "A few examples of intermittent anomalous hazards in the general hazard, often erratic and with no evidence of a pattern.  Moreover, the few reports of people who have lingered in the area have reported a wave of bad dreams, strange visions.  Seems to describe monsters that aren't among the usual interlopers.",
-  "translation": "在一般灾害中有一些间歇性异常的危险例子，通常不常见且没有典型的证据。此外，据在这一地区逗留者的少量报告称，他们有过一些噩梦般的奇怪的幻觉。其描述的生物似乎不属于通常的入侵者。",
+  "translation": "在一般灾害中有一些间歇性异常的危险例子，这些危险往往是不稳定的，并且没有证据显示有任何规律。此外，少数在该区域逗留过的人报告说他们经历了一连串的恶梦、奇异幻象。看起来描述的怪物并非寻常的入侵者。",
   "context": "ID: TALK_CF_GM_PRELUDE_4_ANOMALIES\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_PRELUDE_4_ANOMALIES\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_GM_PRELUDE_4_ANOMALIES",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5ee261deb7cc3a0d372e9e6540515655",
@@ -2941,9 +2941,9 @@
  {
   "key": "65a70585cb733f4bd75e6360d22f3a64",
   "original": "A few scattered signs of your order, despite our conflict almost wiping us both out.  The Keepers of the Oath seem to be just about extinct too, largely thanks to your fellows.  That just leaves various cults and handfuls of independent practitioners, as far as I'm aware.  I can only pray that they don't make things worse, with no one left to guide them.",
-  "translation": "尽管我们的冲突几乎把我们俩都消灭了，但还是有一些零星的迹象表现了你的命令。守誓者似乎也即将灭绝，这在很大程度上要感谢你们。据我所知，这只剩下各种各样的邪教徒和许多独立的从业者。我只能祈祷他们不要让事情变得更糟，没有人来领导他们。",
+  "translation": "尽管我们的冲突几乎将我们双方都消灭殆尽，但仍有零星的迹象显示出你们的组织存在。守誓者似乎也几乎灭绝了，这在很大程度上要归咎于你们。据我所知，这只留下了各种教派和少数独行者。我只能祈祷他们不会让情况变得更糟，现在没有人领导他们了。",
   "context": "ID: TALK_CF_GM_ARCANISTS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_ARCANISTS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_GM_ARCANISTS",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ba90c58f61bacac49a031043e8be94c0",
@@ -3706,8 +3706,8 @@
  {
   "key": "c723fe17f606ebcabc56bb9c0406714b",
   "original": "A powerful electric motor relying on a spatial distortion.  Outputs more energy than it consumes, but unusable as a source of free energy.  Multiple can be installed without penalty, but operation can lead to unsafe electrical discharge.",
-  "translation": "一个依靠空间畸变放大电流的强大的电动机。输出比消耗更多的能量，但它并不是自由能源。可以安装多个而不受惩罚，但使用可能导致不安全的放电现象。",
-  "stage": 1
+  "translation": "一台依靠空间畸变放大电流的发电机。输出的能量超过它消耗的能量，但不能作为自由能源使用。可以安装多个而不会受到惩罚，但操作不当可能导致不安全的放电现象。",
+  "stage": 3
  },
  {
   "key": "8fbbcf53576133d589fdbe5d94869e3a",
@@ -3767,9 +3767,9 @@
  {
   "key": "0f6b0527f7c6262d93f5f11de6fa3c05",
   "original": "A religious order.  Of many faiths, along many paths.  We were never that large in size, mostly just a few local communities united by the depredations of a cult.  Before any of these arcane goings-on happened, but when the cracks in the Veil began to show its effects, we adapted just as the Sanguine Order did.",
-  "translation": "一个宗教组织。有许多信仰，也有许多分支。我们的规模从来没有那么大，主要由于一些当地的社区因为被邪教掠夺而团结在一起。在这些神秘的事情发生之前，当世界屏障上的裂缝开始显现出它的效果时，我们就成了猩红教派。",
+  "translation": "一个宗教组织。有许多信仰，也有许多分支。我们的规模从未很大，大多数只是一些因某个邪教的侵扰而联合起来的地方社区。在这些神秘事件发生之前，但当帷幕的裂缝开始显现其影响时，我们就像猩红教派一样做出了反应。",
   "context": "ID: TALK_CF_REP_CF_QUERY\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_CF_QUERY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CF_REP_CF_QUERY",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43433d3cbbebcb4ae05975834e370bfc",
@@ -3788,16 +3788,16 @@
  {
   "key": "d8ce72201614d7f7519cac6573adea43",
   "original": "A rough gem resembling an unfinished diamond, black with flecks of silvery gray.  It might be useful, or it could be made into a trophy of some sort.",
-  "translation": "一种粗糙的宝石，类似未加工的钻石，黑色，参杂着银灰色的斑点。它可能有用，或者可以做成某种战利品。",
+  "translation": "一颗粗糙的宝石，看起来像未经加工的钻石，呈黑色并有着银灰色的斑点。它可能是有用的，或者可以制成某种战利品。",
   "context": "ID: shadow_gem\n位于 /Kenan-Structured-Modpack/Arcana/items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→shadow_gem\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shadow_gem",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a39600a838282b7347e9c6c456787908",
   "original": "A rugged metal case containing a transceiver adapted from surplus military equipment, a set of connectors designed to hook up to a radio terminal, and a tracking device.  Somewhat makeshift in appearance, it seems to have been purpose-built for some specialized task.",
-  "translation": "一个坚固的金属匣子，装有一个由多余的军用设备改装而成的收发机、一组用于连接无线电终端的连接器和一个跟踪装置。在外观上看起来像是临时制成，似乎是专门为一些特殊任务而制作的。",
+  "translation": "一个坚固的金属箱,装有一个由多余的军用设备改装而成的收发机,一套设计用于连接无线电终端的连接器,以及一个跟踪装置。外观有些简陋,看起来似乎是为了特殊目的而临时制作的。",
   "context": "ID: arcana_radio_relay_beacon\n位于 /Kenan-Structured-Modpack/Arcana/items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→arcana_radio_relay_beacon\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=arcana_radio_relay_beacon",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "283cc35744a235e5618a500496c0caad",
@@ -27818,9 +27818,9 @@
  {
   "key": "951f522177002958a10cf2088d65f5ae",
   "original": "The style of combatives developed by an arcane order, dedicated to fighting in defense of humanity.  Focuses on preserving momentum and fighting multiple opponents, using their fury in different ways depending on their weapon of choice.  Bladed weapons favor parries and armor penetration, while bludgeons favor evasion and protection.  The full extent of the style requires proper armament and arcane experience.",
-  "translation": "一种由奉献于保卫人类的奥术组织发展起来的格斗风格。侧重于保存力气并与多个对手作战，根据选择的武器以不同方式利用他们的攻击。刀剑类武器偏向于招架和穿甲，而钝器则偏向于闪避和防护。要完全掌握这种风格，需要适当的武器装备和奥术经验。",
+  "translation": "这种格斗风格是由一个致力于保卫人类的奥术组织所发展的。侧重于保存力气并与多个对手作战，根据选择的武器以不同方式进行战斗。刀剑类武器偏向于招架和穿甲，而钝器则偏向于闪避和防护。要完全掌握这种风格，需要适当的武器装备和奥术经验。",
   "context": "ID: style_cleansingflame\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_cleansingflame\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_cleansingflame",
-  "stage": 2
+  "stage": 3
  },
  {
   "key": "8c80b9d6465e0418c3d87d5d3e943d84",
