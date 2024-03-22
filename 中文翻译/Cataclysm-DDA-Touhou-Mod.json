@@ -368,7 +368,7 @@
  {
   "key": "7e51133dc76b64b8a28c64a22d6ebee0",
   "original": "<npcname> sweeps %s!",
-  "translation": "<npcname> sweeps %s!",
+  "translation": "<npcname>横扫了%s！",
   "context": "ID: tec_kokoro_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_sweep",
   "stage": 1
  },
@@ -473,7 +473,7 @@
  {
   "key": "cf7c4b6ff96acd9aab140e532af21a95",
   "original": "<npcname> was almost grabbed by %s, but they break its grab!",
-  "translation": "<npcname> was almost grabbed by %s, but they break its grab!",
+  "translation": "<npcname>差点被%s抓住，但是他挣脱了！",
   "context": "ID: tec_kokoro_grab_break\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_grab_break\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_grab_break",
   "stage": 1
  },
@@ -1796,23 +1796,23 @@
  {
   "key": "8091379317949797b4f5ab97caec8720",
   "original": "Barrier wave",
-  "translation": "Barrier wave",
+  "translation": "障壁波动",
   "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_barrierwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_barrierwave",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "764c93df5c39f339d8b5c50a16a9a9ef",
   "original": "Barrier wave (effect)",
-  "translation": "Barrier wave (effect)",
+  "translation": "障壁波动",
   "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_barrierwave",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "8771192071a06b3e1dbd6cfe8b781ade",
   "original": "Barrier wave (vfx)",
   "translation": "Barrier wave (vfx)",
   "context": "ID: udonge_warrierwave_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_warrierwave_vfx\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=udonge_warrierwave_vfx",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "9f198458025c6d283798eda4b2c6b44e",
@@ -4555,7 +4555,7 @@
  {
   "key": "8a7b8be4a14b57d12fa4a38eeb0e868b",
   "original": "Hair: pink, long",
-  "translation": "Hair: pink, long",
+  "translation": "头发：粉，长发",
   "context": "ID: hair_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_kokoro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hair_kokoro",
   "stage": 1
  },
@@ -5374,7 +5374,7 @@
   "key": "00fdc085278682d2bad44c656136ebea",
   "original": "Knee-kick",
   "translation": "膝击",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "47239d1a1761abe28c016849d38c420b",
@@ -6893,7 +6893,7 @@
  {
   "key": "ec53f820262ff75b04ab0aeea5a52b97",
   "original": "Rapid attack",
-  "translation": "Rapid attack",
+  "translation": "快速攻击",
   "context": "ID: tec_kokoro_rapid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_rapid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_rapid",
   "stage": 1
  },
@@ -7475,9 +7475,9 @@
  {
   "key": "c1c6a141cca0d3f7e6d3e64b0148d72e",
   "original": "Scorching divine flame",
-  "translation": "Scorching divine flame",
+  "translation": "难以驾驭的神之火",
   "context": "ID: YATAGARASU_VESSEL\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→YATAGARASU_VESSEL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=YATAGARASU_VESSEL",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6d03ecf91041d62a88d327d0fb0ef5ee",
@@ -8718,9 +8718,9 @@
  {
   "key": "4be7296111b660566cb389c690f08324",
   "original": "Tengu ears",
-  "translation": "Tengu ears",
+  "translation": "天狗之耳",
   "context": "ID: ear_tengu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_ears.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→ear_tengu\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ear_tengu",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5b0c79bc8bcc3c8b56d5b3986afe3446",
@@ -8912,7 +8912,7 @@
   "key": "674b495bad9ef23ccd23c71c213a684b",
   "original": "The %s tries to grab you, but you break them away!",
   "translation": "%s 试着抓住你，但你击退了！",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "76d568a941f02b60e5e705f88d24d6c9",
@@ -10247,7 +10247,7 @@
  {
   "key": "e5b6a09beb227ee7fe18fbae0debcae8",
   "original": "Who needs weapons?  You deal more melee damage while your hands are empty.  This damage improves as your unarmed skill increases.",
-  "translation": "Who needs weapons?  You deal more melee damage while your hands are empty.  This damage improves as your unarmed skill increases.",
+  "translation": "谁说要用武器呢？你在徒手攻击时能够造成更多的近战伤害。伤害随着你的徒手格斗技能等级提升而提升。",
   "context": "ID: KI_STRIKE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KI_STRIKE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=KI_STRIKE",
   "stage": 1
  },
@@ -10903,14 +10903,14 @@
  {
   "key": "e3e8002cca7862a9458548645cfd8719",
   "original": "You have blue eyes.",
-  "translation": "You have blue eyes.",
+  "translation": "蓝色眼睛。",
   "context": "ID: eye_blue_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_blue_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_blue_touhou",
   "stage": 1
  },
  {
   "key": "5b9f8f5bdd4fdeba45db9950db5b744a",
   "original": "You have brown eyes.",
-  "translation": "You have brown eyes.",
+  "translation": "棕色眼睛。",
   "context": "ID: eye_brown_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→eye_brown_touhou\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_brown_touhou",
   "stage": 1
  },
@@ -11518,7 +11518,7 @@
  {
   "key": "bc855eacd76ce7cfa6ff8617a46e8e90",
   "original": "You sweep %s!",
-  "translation": "You sweep %s!",
+  "translation": "你横扫了%s！",
   "context": "ID: tec_kokoro_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_sweep\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_sweep",
   "stage": 1
  },
@@ -11665,7 +11665,7 @@
  {
   "key": "60a8977eb8cee0347cac60db97732147",
   "original": "You were almost grabbed by %s, but you break its grab!",
-  "translation": "You were almost grabbed by %s, but you break its grab!",
+  "translation": "你差点被%s抓住，但是你挣脱了！",
   "context": "ID: tec_kokoro_grab_break\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_grab_break\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_kokoro_grab_break",
   "stage": 1
  },
@@ -12291,7 +12291,7 @@
  {
   "key": "2fc91934a8f7220ba7e3555c720e028c",
   "original": "a creature from the mi-go homeworld",
-  "translation": "a creature from the mi-go homeworld",
+  "translation": "来自米戈位面的怪物",
   "context": "ID: MIGO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MIGO",
   "stage": 1
  },
@@ -12361,7 +12361,7 @@
  {
   "key": "a458808583b04d02b450e6a73bcc2231",
   "original": "a reflection of another dimension",
-  "translation": "a reflection of another dimension",
+  "translation": "来自于另一位面的投影",
   "context": "ID: NETHER_EMANATION\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→NETHER_EMANATION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=NETHER_EMANATION",
   "stage": 1
  },
@@ -13940,7 +13940,7 @@
  {
   "key": "1e29a4656c6c1127098dae21cd101468",
   "original": "pierced",
-  "translation": "穿刺",
+  "translation": "动摇",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=magic_wind",
   "stage": 1
  },

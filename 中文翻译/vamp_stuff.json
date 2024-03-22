@@ -1065,7 +1065,7 @@
   "original": "A wave of profane blaze strikes all foes within a cone, dealing <color_red>fire damage</color> and <color_yellow>curses</color> them.\n* Slim chance to spread cursed flames on the affected area.\n\nThis is a <color_magenta>tier 6</color> spell.",
   "translation": "一道亵渎之火冲击圆锥体内的所有敌人，造成<color_red>火焰伤害</color>并<color_yellow>诅咒</color>敌人。\n*在受影响区域诅咒火焰传播的几率很小。\n\n这是<color_magenta>六阶</color>法术。",
   "context": "ID: t6_elem_exerxium\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_elem_exerxium\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t6_elem_exerxium",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9fe9c1c0faaafebd8ebc481503eca0d7",
@@ -1078,7 +1078,7 @@
   "original": "A wave of profane magic bursts out of your body, dealing <color_light_gray>pure damage</color> to the surrounding foes.\n* Foes within a 3 tile radius are <color_yellow>pushed back</color>.\n\nThis is a <color_light_red>tier 4</color> spell.",
   "translation": "一股亵渎魔法从你的身体中爆发，对周围的敌人造成<color_light_gray>真实伤害</color>。\n*3格半径内的敌人被<color_yellow>推开</color>。\n\n这是一个<color_light_red>四阶</color>法术。",
   "context": "ID: t4_mana_darkburst\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T4.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t4_mana_darkburst\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t4_mana_darkburst",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "654886231fc66cecf162585094c99aa5",
@@ -1426,7 +1426,7 @@
   "original": "Binds the foe by instantly converting the air into ice, dealing <color_white>cold damage</color> and <color_yellow>freezes</color> them.\n\nThis is a <color_light_gray>tier 1</color> spell.",
   "translation": "通过瞬间将空气转化为冰来束缚敌人，造成<color_white>寒冷伤害</color>并<color_yellow>冻结</color>敌人。\n\n这是一个<color_light_gray>一阶</color>法术。",
   "context": "ID: t1_elem_frost\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_frost\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t1_elem_frost",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b19a8edd8f01b020f434671e774a590a",
@@ -1657,7 +1657,7 @@
   "original": "COME CLOSER OR I-I'LL... damn these <swear> suckers really took a piece out of my sanity.",
   "translation": "靠近点，否则我会...该死的<swear>真的让我神智不清。",
   "context": "ID: TALK_HUMAN_VAΜPRISON_help\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Vampirus/h_prison_cell.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_HUMAN_VAΜPRISON_help\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_HUMAN_VA%u039CPRISON_help",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3026fd361eccd67e07a8ec4eeafa7061",
@@ -1900,7 +1900,7 @@
   "original": "Conjure own's blood to shoot towards the target, shaping into a dart as it fly that deals <color_light_red>stabbing damage</color>.\n\nThis is a <color_light_gray>tier 2</color> spell.",
   "translation": "召唤自己的血向目标射击，在飞行时塑形成飞镖，造成<color_light_red>刺击伤害</color>。\n\n这是一个<color_light_gray>二阶</color>法术。",
   "context": "ID: t2_blood_bloodsting\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T2.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t2_blood_bloodsting\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t2_blood_bloodsting",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "713d769775b243448fc973b95209ee43",
@@ -4597,7 +4597,7 @@
   "original": "Nullifies <color_yellow>elemental blights</color> from you or an ally.\n\nThis is a <color_light_gray>tier 1</color> spell.",
   "translation": "取消你或盟友的<color_yellow>元素枯萎</color>。\n\n这是一个<color_light_gray>一阶</color>法术。",
   "context": "ID: t1_elem_elemdis\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_elemdis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t1_elem_elemdis",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "03570470bad94692ce93e32700d2e1cb",
@@ -4805,7 +4805,7 @@
   "original": "On Conjuring The Profane",
   "translation": "论亵渎",
   "context": "ID: v_elem_T7_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_elem_T7_tome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_elem_T7_tome",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "da9d05b503d4ed4353420998a9c28ed4",
@@ -5240,7 +5240,7 @@
   "original": "Sets foe <color_yellow>ablaze</color>, dealing <color_red>fire damage</color.\n\nThis is a <color_light_gray>tier 2</color> spell.",
   "translation": "将敌人<color_yellow>点燃</color>，造成<color_red>火焰伤害</color。\n这是一个<color_light_gray>二阶</color>法术。",
   "context": "ID: t2_elem_ignite\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T2.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t2_elem_ignite\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t2_elem_ignite",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "20b5d700192f1fb15203af2f87903962",
@@ -5322,7 +5322,7 @@
   "original": "Sky-high pillar of disastrous dark magic engulfs the foe, leaving <color_light_gray>no tracks</color> but a crater.\n* If the foe survives, it is inflicted with <color_yellow>ethereal shock</color>, slowing and dealing a maximum total of <color_light_gray>300 pure damage</color> over 10 seconds.\n\nThis is a <color_magenta>tier 6</color> spell.",
   "translation": "灾难性黑暗魔法的天柱吞没了敌人，留下<color_light_gray>条痕迹</color>，只是一个弹坑。\n*如果敌人幸存，它将受到<color_yellow>以太冲击</color>，减速并在10秒内造成最多<color_light_gray> 300点纯伤害</color>。\n\n这是<color_magenta>六阶</color>法术。",
   "context": "ID: t6_mana_darkpillar\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_darkpillar\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t6_mana_darkpillar",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "617781c3854d293d86207aa66c7911dd",
@@ -6206,7 +6206,7 @@
   "original": "The basic spell of a hemomancer, draining a random hostile's life force within reach.\n* For every damage, it deals up to <color_green>2 biological damage</color> and heals you by <color_green>1</color>.\n\nThis is a <color_light_gray>tier 1</color> spell.",
   "translation": "血法师的基本法术，可以在范围内抽取任意敌人的生命力。\n*每次吸取都可以最多造成<color_green>2点生化伤害</color>，并治疗你<color_green>1点生命</color>。\n\n这是一个<color_light_gray>一阶</color>法术",
   "context": "ID: t1_blood_transfusion\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_transfusion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t1_blood_transfusion",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "da41b6324dcfd89cf9adedaa1eda5b06",
@@ -6631,7 +6631,7 @@
   "original": "This old binder could have stepped off the set of a 1960s period drama. The contents are crazily scrawled pages outlining spells for a neophyte Warlock.",
   "translation": "这个旧活页夹可能是从20世纪60年代的历史剧里走出来的。书的内容都是一些潦草的页面，为新手术士概述了咒语。",
   "context": "ID: v_mana_T2_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_mana_T2_tome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_mana_T2_tome",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9c8565cdff86de92d123fd837c65ea79",
@@ -7679,7 +7679,7 @@
   "original": "You barf a mouthful of thick blood in an area, greatly slowing any creature that walks through it.\n\nThis is a <color_light_gray>tier 2</color> spell.",
   "translation": "你在区域内吐出一口厚厚的血液，大大减慢了任何穿过它的生物的速度。\n\n这是一个<color_light_gray>二阶</color>法术。",
   "context": "ID: t2_blood_bloodpuddle\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T2.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t2_blood_bloodpuddle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t2_blood_bloodpuddle",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "226f93773323c051cecc7ede76514646",
@@ -7915,7 +7915,7 @@
   "original": "You use your blood to send towards the <color_yellow>bleeding</color> body part and mend it immediately. While active, it'll block further <color_yellow>bleeding</color>.\n\nThis is a <color_light_gray>tier 1</color> spell.",
   "translation": "你用你的血液输送到<color_yellow>流血的</color>身体部位，并立即修复它。激活时，它将进一步阻止<color_yellow>出血</color>。\n\n这是一个<color_light_gray>一阶</color>法术。",
   "context": "ID: t1_blood_clot\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_clot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t1_blood_clot",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "be39acc1125aea742e6473da2597d980",

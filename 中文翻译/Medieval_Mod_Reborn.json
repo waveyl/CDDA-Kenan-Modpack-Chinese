@@ -4,7 +4,7 @@
   "original": "A Swedish power me- no, a component of medieval plate armor, covering the feet.  Can be worn over other boots.",
   "translation": "一个瑞典的“power me- no”，中世纪板甲的一个组成部分，覆盖脚部。可以穿在其他靴子外边。",
   "context": "ID: sabatons_plate\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→sabatons_plate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sabatons_plate",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8a918faecdd7f27d01f20109adec9318",
@@ -58,14 +58,14 @@
   "original": "A late medieval helmet that completely encloses the head, with a visor and bevor that can be lifted up.  Activate it to lift the visor, exposing your face.",
   "translation": "一种中世纪晚期的封闭式头盔，有一个可以抬起的面罩。激活它以抬起面罩，露出您的脸。",
   "context": "ID: helmet_closehelm\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/obsolete.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→helmet_closehelm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_closehelm",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "26ceab8239b65ea35e0b6d6e06a9a69b",
   "original": "A late medieval helmet that completely encloses the head, with a visor and bevor that has currently been lifted up.  Activate it to lower the visor back down to cover the face.",
   "translation": "一种中世纪晚期的封闭式头盔，有一个已经被抬起的面罩。激活它以降下面罩，以覆盖面部。",
   "context": "ID: helmet_closehelm_raised\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/obsolete.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→helmet_closehelm_raised\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=helmet_closehelm_raised",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f98a0b2ff1ec59983da4bdf435c72bcc",
@@ -98,7 +98,7 @@
   "original": "A robust set of fingerless armor-plated gloves, offering less coverage in exchange for solid construction and greater dexterity.",
   "translation": "一套坚固的半甲护手，提供较少的覆盖，以换取坚固的结构和更大的灵活性。",
   "context": "ID: demigloves_plate\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→demigloves_plate\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=demigloves_plate",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "828d151e469112f39a403efbf657a937",
@@ -164,7 +164,7 @@
   "key": "97832390140891a6bdd02d0f5bbf8c67",
   "original": "An ancient Chinese spear, with a small tube attached for an incendiary charge of gunpowder.  While it has an extremely short range, it gives a powerful edge in close combat.",
   "translation": "中国古代的原始火枪，在枪头有个小型铁管可发射单发自制火药弹。虽然它的有效射程极短，但在近战中却能起到强大的优势。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1483997eabbfe612a321b00075e83884",
@@ -183,7 +183,7 @@
   "key": "8cd206846eacac1e026c5763d637cf04",
   "original": "An medieval helmet resembling a broad-brimmed hat.  Reasonably easy to produce and affordable to most medieval soldiers at the time.",
   "translation": "类似宽边帽的中世纪头盔。生产起来相当容易，而且当时大多数中世纪士兵都能负担得起。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b71ba4a358b48589a5d6fd629a772943",
@@ -307,7 +307,7 @@
   "original": "Japanese samurai armor of the 16th Century, incorporating then-modern designs to provide greater protection.",
   "translation": "16世纪的日本武士盔甲，结合当时的现代设计，提供更大的保护。",
   "context": "ID: armor_samurai_tosei\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→armor_samurai_tosei\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_samurai_tosei",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b11a3a5bf9e472c89590155779ddfa0b",
@@ -338,7 +338,7 @@
   "key": "ca9dbca5a3d56c11dfcaf717e7f86c02",
   "original": "Little more than a small tube capable of holding a charge of gunpowder, secured to a long stick.  While it has an extremely short range, it gives a powerful edge in close combat.",
   "translation": "只不过是一个可以装火药的小管子，固定在一根长棍上。虽然它的有效射程极短，但在近战中却能起到强大的优势。 ",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0f6ffa1054f25d4e530d2e3839472418",
@@ -352,14 +352,14 @@
   "original": "Little more than an incendiary charge of gunpowder for a basic firearm, with small pellets as shot.  Despite the minimal range, it packs a punch.",
   "translation": "一小撮用于简易枪械的火药燃烧装药及一堆石子作弹药。虽然射程短，但也能给人狠狠一击。",
   "context": "ID: lance_charge_shot\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→AMMO→lance_charge_shot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lance_charge_shot",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2cf761cf7061de90fe87fbc025bf5c53",
   "original": "Little more than an incendiary charge of gunpowder for a basic firearm.  Despite the minimal range, it packs a punch.",
   "translation": "一小撮用于简易枪械的火枪药。虽然射程短，但也能给人狠狠一击。",
   "context": "ID: lance_charge\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→AMMO→lance_charge\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lance_charge",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b75fcdd2d72d9e000beab48622402d93",
@@ -492,7 +492,7 @@
   "original": "Tosei-gusoku",
   "translation": "具足",
   "context": "ID: armor_samurai_tosei\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→armor_samurai_tosei\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=armor_samurai_tosei",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f48a8f161502989fca609408a80bd754",
