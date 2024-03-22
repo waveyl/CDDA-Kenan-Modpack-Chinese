@@ -13,7 +13,7 @@ const translatedDirName = `Kenan-Modpack-Chinese`;
 const translateCacheDirName = `中文翻译`;
 const hasChinese = (text) => /[\u4e00-\u9fa5]/.test(text);
 
-const __dirname = '/Users/linonetwo/Desktop/repo/CDDA-Kenan-Modpack-Chinese/';
+const __dirname = 'D:/Games/CataclysmDDA/Scripts';
 const translationsToImport = [
   // 'Arcana',
   // 'Artyom_Emporium_v.1',
