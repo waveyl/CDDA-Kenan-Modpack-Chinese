@@ -52,7 +52,7 @@
   "key": "a73159c64e1a4e2db10ac2edc4d498ef",
   "original": "A copper-tipped throwing spear.  The grip area has also been carved and covered for better grip.",
   "translation": "一根采用铜制矛头的标枪。握手也经过防滑处理，更适合抓握及投掷。",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "8b10e7b249f31751e1e4352214c3e8fb",
@@ -108,7 +108,7 @@
   "original": "A heavy section of frame carved from a log, can be used for making sturdy wooden vehicle structures.  Also usable for a raft, log canoe, outriggers for a boat, etc due to its buoyancy.",
   "translation": "从原木上雕凿而成的一段很重的木框架，可以用来制作坚固的木制车辆结构。由于其浮力，也可用于木筏、独木舟、船的支腿等。",
   "context": "ID: log_frame_item\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→log_frame_item\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=log_frame_item",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e0bafa7356afe3093bf6511fc6f0185c",
@@ -261,21 +261,21 @@
   "original": "A sealed large waterskin filled with milk that is undergoing the process to become a crude form of cheese, having had vinegar and natural rennet added.",
   "translation": "一大包用动物胃囊密封的凝结牛奶。牛奶、醋酸和胃囊内的微生物一同发酵，产生凝乳酶使蛋白结块，正在向粗制奶酪转变中。",
   "context": "ID: milk_curdling3\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling3",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "a396be3b9d28195d0629a6cfce89e46a",
   "original": "A sealed small waterskin filled with milk that is undergoing the process to become a crude form of cheese, having had vinegar and natural rennet added.",
   "translation": "一小包用动物胃囊密封的凝结牛奶。牛奶、醋酸和胃囊内的微生物一同发酵，产生凝乳酶使蛋白结块，正在向粗制奶酪转变中。",
   "context": "ID: milk_curdling\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "dfb440b1ace8e2a34e8ae64e614ec1b5",
   "original": "A sealed waterskin filled with milk that is undergoing the process to become a crude form of cheese, having had vinegar and natural rennet added.",
   "translation": "一包用动物胃囊密封的凝结牛奶。牛奶、醋酸和胃囊内的微生物一同发酵，产生凝乳酶使蛋白结块，正在向粗制奶酪转变中。",
   "context": "ID: milk_curdling2\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling2",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "a7b50632d6e6ee174d37879d2bbd1a8b",
@@ -372,7 +372,7 @@
   "original": "A tall deciduous tree of the 'Betula' genus, with the characteristic peeling bark.  Species like 'B. alleghaniensis', 'B. papyrifera', and 'B. populifolia' are the most common in the New England region.  Looks like there isn't enough rhytidome to peel off yet.  You could cut it down with the right tools.",
   "translation": "一棵高大的落叶树，分类学上属于桦属，在新英格兰地区主要由北美黄桦、北美白桦、北美灰桦组成。看起来成熟的桦树皮都被撕光了。你可以用合适的工具砍倒它。",
   "context": "ID: t_tree_birch_harvested\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/overrides.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→terrain→t_tree_birch_harvested\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_birch_harvested",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5c4c3d35e5ab136d55c3ada05363b004",
@@ -399,7 +399,7 @@
   "key": "538c6d3851b9999716c5916ab36a4801",
   "original": "A throwing spear with a stone spearhead.  The grip area has also been carved and covered for better grip.",
   "translation": "一根采用石制矛头的标枪。握手也经过防滑处理，更适合抓握及投掷。",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "44451fb80da600238ff7595f061ee727",
@@ -412,7 +412,7 @@
   "key": "0d006cc360723832ab3b367943bbc7f6",
   "original": "A towering coniferous tree that belongs to the 'Pinus' genus, with the New England species varying from 'P. strobus', 'P. resinosa' and 'P. rigida'.  If you examined the tree more closely, you might find usable sticky whorls and unharvested pinecones.  Also, you could cut it down with the right tools.",
   "translation": "一棵高耸入云的针叶树，分类学上属于松属，在新英格兰地区主要由刚松、北美红松、北美乔松组成。如果你仔细观察的话，你可以在这上面找到粘稠的松香和尚未收获的松塔。你可以用合适的工具砍倒它。",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "047c9f495467a3a428599ba72affc113",
@@ -509,13 +509,13 @@
   "original": "A wooden tool for supporting a javelin, to throw it more effectively than by hand.",
   "translation": "一个用于支撑投矛的木制工具，比起纯用手，他能投得更有效率。",
   "context": "ID: atlatl\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GUN→atlatl\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=atlatl",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "a987da94b3b84ee68948993882cff6e2",
   "original": "ARMS",
   "translation": "臂部",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "c9e9d4452a80d554f8dfde7fdb205a1c",
@@ -536,7 +536,7 @@
   "original": "An out-of-place living relic of prehistory, stranded in an unfamiliar and terrifying world.  Life as a hunter-gatherer was hard, but at least you didn't have to fight the living dead, and you had your kin to stand beside you.  Here, you're on your own.",
   "translation": "一个格格不入的史前活化石，被困在一个陌生而可怕的世界。猎手的生活虽然艰苦，但至少不必和活死人拼命，而且还有部族在身后支持你。但在这儿，你只能靠自己。",
   "context": "ID: caveman\n位于 /Kenan-Structured-Modpack/MST_Extra/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→profession→caveman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=caveman",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "34c3a722c00cd795e8afaf1251cb3322",
@@ -591,61 +591,61 @@
   "original": "Build Makeshift Counter",
   "translation": "搭建简易柜台",
   "context": "ID: build_makeshift_counter\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_makeshift_counter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_makeshift_counter",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6e0a791d750d121967eade1c8fbc7bb5",
   "original": "Build Makeshift Still",
   "translation": "建造简易蒸馏器",
   "context": "ID: build_still_dirt\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_still_dirt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_still_dirt",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "54f9b84107dcc7623e09820d057730a5",
   "original": "Build Makeshift Table",
   "translation": "建造简易桌子",
   "context": "ID: build_makeshift_table\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_makeshift_table\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_makeshift_table",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ef535e3096f341411952bf2827cec3aa",
   "original": "Build Makeshift Wooden Rack",
   "translation": "建造简易木架",
   "context": "ID: build_makeshift_rack\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_makeshift_rack\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_makeshift_rack",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7170421526393c64a8caa2f4f75bf7b3",
   "original": "Build Pulley Lifter",
   "translation": "建造滑轮升降机",
   "context": "ID: build_pulley_lifter\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_pulley_lifter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_pulley_lifter",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "225025819eaa6c504cb584143540297d",
   "original": "Build Wooden Platform",
   "translation": "建造木制平台",
   "context": "ID: build_wooden_platform\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_wooden_platform\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_wooden_platform",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a1b200823274ecccf606e483e735a58c",
   "original": "Build Wooden Windbreak",
   "translation": "建造木制挡风篱",
   "context": "ID: build_wood_windbreak\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/construction_group.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→construction_group→build_wood_windbreak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_wood_windbreak",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1a4e37d77e95592b10d548a5834d93cc",
   "original": "CHEMICALS",
   "translation": "化学制品",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "60f4601167c5d26239d3fba182d1c253",
   "original": "CONTAINERS",
   "translation": "容器",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "918433b1f779d30cdfae2f1ddf8da090",
@@ -657,7 +657,7 @@
   "key": "d6094aae4db66eea583f4f71dd9863b3",
   "original": "DRINKS",
   "translation": "饮品",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5d41ebd1131a7fe8528917fe1432a2f0",
@@ -671,13 +671,13 @@
   "original": "Extinguish",
   "translation": "熄灭",
   "context": "ID: tinderbox_clay_on\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay_on",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "d05a3ad8175a0dd38c27cb0b32266eb5",
   "original": "FEET",
   "translation": "脚部",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "c552eec455e3474b05974378da37506a",
@@ -697,20 +697,20 @@
   "key": "22d76f5243e5177700cbb348ea09e231",
   "original": "HANDS",
   "translation": "手掌",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "e15e216fc1c639f787b1231ecdfa1bf8",
   "original": "HEAD",
   "translation": "头部",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "13e22731c73573ebf8eee46ffd14b495",
   "original": "Hefty round projectiles cast from lead, useful as ammunition for slings.",
   "translation": "扎实的铅弹丸，很适合当抛石索的弹药。",
   "context": "ID: bearing_lead\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→bearing_lead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bearing_lead",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "cb834c666e9e4eae3c1fc1d068eba2f5",
@@ -730,7 +730,7 @@
   "key": "994822189b7aa270c0ef47c2b1825379",
   "original": "LEGS",
   "translation": "腿部",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5041c0eee275e3e07568103e9999e6fe",
@@ -750,32 +750,32 @@
   "key": "848f25a661581ea548b85381e141aae9",
   "original": "MATERIALS",
   "translation": "材料",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "943233397793df009f80f10b6fcaccf9",
   "original": "MEAT",
   "translation": "肉食",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "ea68388b0642cfd18735a4a166494310",
   "original": "MEDICAL",
   "translation": "医疗",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "fd45f9c6be7b35e72a45f5803d172683",
   "original": "MST Extra",
   "translation": "更多幸存者工具补充包",
   "context": "ID: MST_Extra\n位于 /Kenan-Structured-Modpack/MST_Extra/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→MOD_INFO→MST_Extra\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MST_Extra",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9c01134462ffadb1f40ac1f06d83bc18",
   "original": "Magic 8-Ball",
   "translation": "魔力八号球",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "893cea9b9530589362ba0b4c67fd4cb9",
@@ -794,38 +794,38 @@
   "key": "03570470bad94692ce93e32700d2e1cb",
   "original": "OTHER",
   "translation": "其他",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "f433a3df77dc5876a14e2feec0249e8f",
   "original": "PARTS",
   "translation": "部件",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "020f528cc3dfbce0dc35ad1581347938",
   "original": "PIERCING",
   "translation": "刺击",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "479042a49cfab534e1beee97e2ff7702",
   "original": "Prehistoric Hunter",
   "translation": "史前女猎手",
   "context": "ID: caveman\n位于 /Kenan-Structured-Modpack/MST_Extra/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→profession→caveman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=caveman",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5a40ccc917a4a5ad53c21209abbdf2a3",
   "original": "RANGED",
   "translation": "远程",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "87519cbad5765b34652ebd26e5b81bdb",
   "original": "SUIT",
   "translation": "套装",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "f09688ef21aa5796eec4c8f667e0c4cd",
@@ -890,61 +890,61 @@
  {
   "key": "266f03e7fd83637cdd99d7684550d32c",
   "original": "Stuck in a heavy snare",
-  "translation": "陷入大型捕猎陷阱",
+  "translation": "陷入重型圈套",
   "context": "ID: heavysnare\n位于 /Kenan-Structured-Modpack/MST_Extra/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→effect_type→heavysnare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavysnare",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "fe4e1e5ad67c7b45f9527cd98a06e762",
   "original": "Stuck in a light snare",
-  "translation": "陷入小型捕猎陷阱",
+  "translation": "陷入轻型圈套",
   "context": "ID: lightsnare\n位于 /Kenan-Structured-Modpack/MST_Extra/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→effect_type→lightsnare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=lightsnare",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "2b6f48ac3e1c531576cb06c03d0cb81b",
   "original": "Swamp",
   "translation": "沼泽",
   "context": "ID: swamp\n位于 /Kenan-Structured-Modpack/MST_Extra/chargen/start_locations.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→start_location→swamp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swamp",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5ed7f1b1089cec542ab721fcae5dd5d2",
   "original": "TOOLS",
   "translation": "工具",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "c11f05532feb92ef97d414c1d7bf9075",
   "original": "TORSO",
   "translation": "躯干",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "2ca97c331a4fe2ba6263806148a8a07e",
   "original": "TRAPS",
   "translation": "陷阱",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "04e4bd038f75d71805cc4705f4627e83",
   "original": "The ember carrier is out of tinder.",
   "translation": "火种罐中已经没有火绒了。",
   "context": "ID: tinderbox_clay\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6ba94330092889e3e70aded3fcbdc109",
   "original": "The ember is extinguished.",
   "translation": "余烬熄灭了。",
   "context": "ID: tinderbox_clay_on\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay_on",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "976102a9346a7262c5654faad2560886",
   "original": "The lamp is empty.",
   "translation": "油灯没油了。",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "ce115aa9b34aaeef9f8dce78f48199ce",
@@ -957,13 +957,13 @@
   "original": "The milk appears to have finished curdling, and is ready for further processing.  Checking on it has exposed the mixture to the atmosphere.",
   "translation": "牛奶似乎已经凝结完毕，可以进一步处理。检查它暴露在空气中的混合物。",
   "context": "ID: milk_curdling3\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling3",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "c3c37ba333ae5d558dd6cc58ddca81d9",
   "original": "The sequeal to CDDA's old More Survival Tools mod, adding additional useful innawoods content.",
   "translation": "CDDA老版更多幸存者工具mod的补充包，增加了额外用于荒野求生的内容。",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "7c2cd1484e4fcab44dd53139f3720fc8",
@@ -1005,7 +1005,7 @@
   "original": "This is a kit for a simple trap consisting of a rope noose and a snare trigger.  It requires a tree nearby.  It is effective at trapping monsters.",
   "translation": "这是由粗绳与有活结的套索组成的一个简单的陷阱，需要附近有一棵树，猎物掉到其中就会被网住。",
   "context": "ID: heavy_snare_kit\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→heavy_snare_kit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavy_snare_kit",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "e3643f8ba83bc1795cc9b30f4e820486",
@@ -1077,47 +1077,47 @@
   "key": "8e61d99ca246955cc31b67a365b2a216",
   "original": "Turn off",
   "translation": "关闭",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "4f642a4becc2fad1e22fa58f6b082fe5",
   "original": "VEGGI",
   "translation": "蔬菜",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "e9fa318f4d73c31493e98096efa497e2",
   "original": "VEHICLE",
   "translation": "车辆",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "b8e97e517357b5e3ea61bd79a250a22a",
   "original": "Wanderer",
   "translation": "流浪女",
   "context": "ID: wanderer\n位于 /Kenan-Structured-Modpack/MST_Extra/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→profession→wanderer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wanderer",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "8cb66f56654a734cbbc3cc07743f46f2",
   "original": "You always preferred the comfort of the open sky, far from the complexities of modern life.  Though from the looks of it, things have changed since last time you've been anywhere near civilization.",
   "translation": "你总是向往着广阔天空下的舒适，远离复杂的现代生活。但是看来，一切东西都和你上次见到文明时不一样了。",
   "context": "ID: wanderer\n位于 /Kenan-Structured-Modpack/MST_Extra/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→profession→wanderer\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wanderer",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6a62cd036741e10269b18b364686466a",
   "original": "You are snared!",
   "translation": "你被捕猎陷阱套住了！",
   "context": "ID: heavysnare\n位于 /Kenan-Structured-Modpack/MST_Extra/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→effect_type→heavysnare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavysnare",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "e92ec4634aaf2912869a42e800e13671",
   "original": "You can't move until you get free!",
   "translation": "在你从陷阱里挣脱出来之前，你无法移动。",
   "context": "ID: heavysnare\n位于 /Kenan-Structured-Modpack/MST_Extra/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→effect_type→heavysnare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavysnare",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "9aec2f9f2d3b58d1ace54f268c7d08ea",
@@ -1144,7 +1144,7 @@
   "original": "You light the tinder.",
   "translation": "你点燃了引火物。",
   "context": "ID: tinderbox_clay\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→tinderbox_clay\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tinderbox_clay",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "756ba592ffa46120e6f709314fd43e88",
@@ -1172,14 +1172,14 @@
   "original": "baseball",
   "translation": "棒球",
   "context": "ID: baseball\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→baseball\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=baseball",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "8b71a9093768c64b20314414e5b516b1",
   "original": "batch of curdling milk",
   "translation": "中包凝结中的酪乳",
   "context": "ID: milk_curdling2\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling2",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "2ad586805df3833fb91f7cd5c5ee9818",
@@ -1193,7 +1193,7 @@
   "original": "birch tree",
   "translation": "桦树",
   "context": "ID: t_tree_birch_harvested\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/overrides.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→terrain→t_tree_birch_harvested\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_tree_birch_harvested",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "438648be2616a2710cf616a24cda23d9",
@@ -1248,14 +1248,14 @@
   "key": "54687ac6511589056033053ffed64109",
   "original": "charcoal water purifier",
   "translation": "炭滤净水器",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6d4876273bb2bb28931ffcb8bb10ce8d",
   "original": "chunk of sulfur",
   "translation": "硫磺块",
   "context": "ID: chunk_sulfur\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→chunk_sulfur\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=chunk_sulfur",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "913c7306d66141104252d3eb7bc9be58",
@@ -1336,7 +1336,7 @@
   "original": "copper javelin",
   "translation": "铜尖标枪",
   "context": "ID: javelin_copper\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→javelin_copper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=javelin_copper",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "cbd260d7f5eb9b75c4492d7f3dcd07e4",
@@ -1370,7 +1370,7 @@
   "key": "4fb3d432dd2de1af9625798971e285ac",
   "original": "ember carrier (lit)",
   "translation": "火种罐（点燃）",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "4f2378dca08618cb015a301c549f4ee4",
@@ -1403,48 +1403,48 @@
   "key": "df23d0f7401956ec712f00d902fe3f52",
   "original": "garlic bread",
   "translation": "蒜蓉面包",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7af339e3fed69361a95838e2ec8961a9",
   "original": "garlic oil",
   "translation": "大蒜油",
   "context": "ID: oil_garlic\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→oil_garlic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=oil_garlic",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eb5ef3a0147259eb7732c2a1cbc963ed",
   "original": "golf ball",
   "translation": "高尔夫球",
   "context": "ID: golf_ball\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→golf_ball\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=golf_ball",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6f4464596c38177b1ea52dfe21aeb4eb",
   "original": "growing beehive",
   "translation": "蜂箱（生长中）",
   "context": "ID: t_hive_growing\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→terrain→t_hive_growing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_hive_growing",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1f38c4aed55ce280a826d79756912f75",
   "original": "heavy snare kit",
   "translation": "大型捕猎陷阱",
   "context": "ID: heavy_snare_kit\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→heavy_snare_kit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=heavy_snare_kit",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "b6bd8e971b5edaedd72c07d9fed63f95",
   "original": "heavy snare trap",
-  "translation": "大型捕猎陷阱",
+  "translation": "重物捕捉陷阱",
   "context": "ID: tr_heavy_snare\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→trap→tr_heavy_snare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_heavy_snare",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "f85db8a7edfe1297e3dee4cfb739a5b7",
   "original": "hobo stove",
   "translation": "流浪汉火炉",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "ef12547c86f663d0279a160f7f599303",
@@ -1457,54 +1457,54 @@
   "key": "134422755b78e454d51a987c87561e9a",
   "original": "iron javelin",
   "translation": "铁尖标枪",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "215caf08daa64171406e34cb1816ea74",
   "original": "javelin",
   "translation": "标枪",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "96a50984799691ba45c7f4255d86019f",
   "original": "javelin bag",
   "translation": "标枪包",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "66e0e80b427427d619f81e041ed48731",
   "original": "jerked offal",
   "translation": "烤干杂碎",
   "context": "ID: jerky_offal\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→jerky_offal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jerky_offal",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7f7c7e30314578fbea5bf9b566e03c01",
   "original": "large batch of curdling milk",
   "translation": "大包凝结中的酪乳",
   "context": "ID: milk_curdling3\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling3",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6a9559a7c893102ae1e49adaf0052146",
   "original": "large batches of curdling milk",
   "translation": "大包凝结中的酪乳",
   "context": "ID: milk_curdling3\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "46457019293bac7660ff72cf7cbf3aa3",
   "original": "lead pellet",
   "translation": "铅弹丸",
   "context": "ID: bearing_lead\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→bearing_lead\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bearing_lead",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "fddfe1a10c90d2aa66ffdce1ee23a2bb",
   "original": "leather raincatcher",
   "translation": "皮革集雨器",
   "context": "ID: tr_raincatcher_leather\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→trap→tr_raincatcher_leather\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_raincatcher_leather",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "56b26925298b9b0615a7ca30be9fac53",
@@ -1525,14 +1525,14 @@
   "original": "light snare kit",
   "translation": "小型捕猎陷阱",
   "context": "ID: light_snare_kit\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→light_snare_kit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=light_snare_kit",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "2aa45f756f9737b9270f3d904d4c7e9c",
   "original": "light snare trap",
-  "translation": "小型捕猎陷阱",
+  "translation": "轻型捕捉陷阱",
   "context": "ID: tr_light_snare\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/traps.json\n类型为 trap\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→trap→tr_light_snare\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tr_light_snare",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "0a0046bd6a51ace1b91deb8734c1fdfc",
@@ -1553,7 +1553,7 @@
   "original": "limestone",
   "translation": "石灰岩",
   "context": "ID: material_limestone\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→material_limestone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=material_limestone",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "6049cbc0b29b7d1da37b9e9f7d2cfb47",
@@ -1623,14 +1623,14 @@
   "original": "makeshift crossbow",
   "translation": "简易弩",
   "context": "ID: crossbow_makeshift\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GUN→crossbow_makeshift\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crossbow_makeshift",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "24fd39409cc4ebcff51c68f0e6e4fa6c",
   "original": "makeshift distillation",
   "translation": "简易蒸馏器",
   "context": "ID: mound_distillation\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→mound_distillation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mound_distillation",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b8aa8ddcc4f9f0b3c724f960ed58af47",
@@ -1798,26 +1798,26 @@
   "original": "petrified eye",
   "translation": "石化之眼",
   "context": "ID: petrified_eye\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→petrified_eye\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=petrified_eye",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "0e7e318cb89140f5b1ee650c4d1ec34c",
   "original": "pine tree",
   "translation": "松树",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "7fac9e39d364fc73f2de8773ecf865d5",
   "original": "pinebark",
   "translation": "松树皮",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8ee0b79fb35b0efe85b44c0ee243f8d5",
   "original": "pitch",
   "translation": "树脂",
   "context": "ID: pitch_wood\n位于 /Kenan-Structured-Modpack/MST_Extra/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→pitch_wood\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pitch_wood",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "beaaf6ce6f528dde421b0966c6e2ea9a",
@@ -1838,20 +1838,20 @@
   "original": "pool ball",
   "translation": "台球",
   "context": "ID: pool_ball\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→pool_ball\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pool_ball",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "b4a3495f53841a9cbdd41125e52f1aaa",
   "original": "porridge",
   "translation": "麦片粥",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "340eeee58093f531fb15fad2fb3bd64e",
   "original": "posca",
   "translation": "波斯卡酒",
   "context": "ID: posca\n位于 /Kenan-Structured-Modpack/MST_Extra/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→COMESTIBLE→posca\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=posca",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "32c1a6eb8f9efab329dd0c2bcacda9ad",
@@ -1864,7 +1864,7 @@
   "original": "pulley lifting",
   "translation": "升降滑轮",
   "context": "ID: pulley lifting\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→pulley lifting\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=pulley%20lifting",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2547d33c5fe902deba8a11cf4148679e",
@@ -1884,7 +1884,7 @@
   "key": "817583460dc660182e68c5f4f54f0be2",
   "original": "roasted bark",
   "translation": "烤树皮",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "21739a2ac05ccb0da68d311ca73c6db6",
@@ -1896,7 +1896,7 @@
   "key": "a662b6b488efd4f183472c3a292a221f",
   "original": "roasted garlic",
   "translation": "烤蒜",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "984f06c5643d44147367d06276aa3524",
@@ -1910,7 +1910,7 @@
   "original": "rubber slug",
   "translation": "橡胶弹头",
   "context": "ID: rubber_slug\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→rubber_slug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rubber_slug",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "d1bfa1c99f6a6fe5c687574cc724bee9",
@@ -1979,7 +1979,7 @@
   "original": "small batch of curdling milk",
   "translation": "小包凝结中的酪乳",
   "context": "ID: milk_curdling\n位于 /Kenan-Structured-Modpack/MST_Extra/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→milk_curdling\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=milk_curdling",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "d028f16b658b5e9e1187a8df7653fe97",
@@ -1993,14 +1993,14 @@
   "original": "snare trigger",
   "translation": "陷阱触发器",
   "context": "ID: snare_trigger\n位于 /Kenan-Structured-Modpack/MST_Extra/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→TOOL→snare_trigger\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=snare_trigger",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "e2cced6a4067c75887beb9ad68b787c6",
   "original": "spiral stone",
   "translation": "螺旋石",
   "context": "ID: spiral_stone\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→AMMO→spiral_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spiral_stone",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "ad51249dff7e4813bfb6a45f1af636d7",
@@ -2021,7 +2021,7 @@
   "original": "stone javelin",
   "translation": "石尖标枪",
   "context": "ID: javelin_stone\n位于 /Kenan-Structured-Modpack/MST_Extra/items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→GENERIC→javelin_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=javelin_stone",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "95540940e1427cd7d6b4c30f130b09ca",
@@ -2042,7 +2042,7 @@
   "original": "tarpaulin",
   "translation": "防水帆布雨罩",
   "context": "ID: tarp\n位于 /Kenan-Structured-Modpack/MST_Extra/items/item_overrides.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→ARMOR→tarp\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tarp",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "d3693700b06aafa80ad28a7c8d6aed24",
@@ -2075,28 +2075,28 @@
   "key": "e1fa8d5dd1c45fb680788497293ec6b9",
   "original": "wooden javelin",
   "translation": "木标枪",
-  "stage": 1
+  "stage": 5
  },
  {
   "key": "5cf03d2b6df604bea3d7b427ca4afde6",
   "original": "wooden platform",
   "translation": "木制平台",
   "context": "ID: t_wooden_scaffolding\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→terrain→t_wooden_scaffolding\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_wooden_scaffolding",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "667de4a83b694354a2e7408bf8e975c7",
   "original": "wooden windbreak",
   "translation": "木质挡风篱",
   "context": "ID: f_barricade_windbreak\n位于 /Kenan-Structured-Modpack/MST_Extra/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→furniture→f_barricade_windbreak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_barricade_windbreak",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fb96d78e0870eb1074de0f2112a24d2f",
   "original": "woven storage basket",
   "translation": "编织储物篮",
   "context": "ID: makeshift_sled_basket_part\n位于 /Kenan-Structured-Modpack/MST_Extra/vehicles/vehicleparts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MST_Extra→vehicle_part→makeshift_sled_basket_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=makeshift_sled_basket_part",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dd2f8b709e7b42a03c59248604000738",
