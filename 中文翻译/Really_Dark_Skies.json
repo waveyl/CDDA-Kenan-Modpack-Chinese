@@ -3781,8 +3781,8 @@
   {
     "key": "6041b4bf5f684b4e1e8abccda8623f08",
     "original": "    The steadfastness of individual survivors after the cataclysm impressed the tattered remains of the once glorious union.  Spurred on by small successes, a number of operations to re-secure facilities met with limited success.  Forced to eventually consolidate to large bases, the Old Guard left these facilities in the hands of the few survivors that remained.  As the years passed, little materialized from the hopes of rebuilding civilization…",
-    "translation": "    一个个灾变幸存者们的坚定不移的精神打动了曾经辉煌联邦的些许残存组织。因数次任务成功所鼓舞而展开的一系列夺回其他设施的行动却成果有限。旧日守护者们最终不得不将有限的资源集中到更大的基地中去，将已夺回的设施交给剩余的少数幸存者管理。年复一年，重建人类文明的希望却始终渺茫……",
-    "stage": 0,
+    "translation": "灾变过后，个体幸存者展现出了坚定的决心与毅力，这深深打动了那曾一度辉煌、如今却支离破碎的联盟残部。他们在小范围胜利的鼓舞下，进行了一系列旨在重新夺回关键设施的行动，并且在一定程度上取得了成功。然而，在不得已的情况下，他们最终选择将力量整合至几个大型据点，将那些已收复的设施交由留守的少数幸存者管理。时光荏苒，尽管怀着重建文明的殷切希望，但现实中的进展却始终显得微乎其微……",
+    "stage": 1,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/snippets/epilogue_factions.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→snippet→[0]\n"
   },
   {
@@ -3800,8 +3800,8 @@
   {
     "key": "8854af364a8fa7aa018ed0060ad2a979",
     "original": "A cat must be friendly to you in order to accept going into confinement.  If you're having problems catching the cat, try befriending it with food.",
-    "translation": "猫必须对你友好，才能接受监禁。如果你抓猫有困难，试着用食物来帮助它。",
-    "stage": 0,
+    "translation": "如果你想要把一只猫关进笼子里，它必须跟你关系亲昵。如果你在捉猫时遇到问题，尝试用食物来和它交朋友。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_FELINE_MUTANT_FIND_CAT\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_FELINE_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_FELINE_MUTANT_FIND_CAT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_FELINE_MUTANT_FIND_CAT"
   },
   {
@@ -3814,50 +3814,50 @@
   {
     "key": "4a5711276ab458a77b9160d962bd143d",
     "original": "A hospital might have one, or maybe a secret lab?",
-    "translation": "医院可能有一个，或者可能有一个秘密实验室？",
-    "stage": 0,
+    "translation": "医院可能会有一个，或者秘密实验室？",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_BIONIC_DOCTOR_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_BIONIC_DOCTOR_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_BIONIC_DOCTOR_MISSION_1"
   },
   {
     "key": "6ccc6f31db92695ff1f1aac4f833748a",
     "original": "A new autoclave",
-    "translation": "新型高压灭菌器",
-    "stage": 0,
+    "translation": "新型高压灭菌釜",
+    "stage": 1,
     "context": "ID: DKZ_MAQUIS_BIONIC_DOCTOR_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_BIONIC_DOCTOR_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_BIONIC_DOCTOR_MISSION_1"
   },
   {
     "key": "a0586b94c58a0b92f80b1ad83c4a2cfc",
     "original": "A state of the art bionic implant go beyond a basic instinctual knowledge about the operation of flying machines.  This sophisticated CBM also grants superior spotting ability as well as an integrated CAD interface which allows for near infinite customization to virtually any flying machine.",
-    "translation": "最先进的仿生植入物超越了关于飞行器操作的基本本能知识。这种先进的CBM还提供了卓越的定位能力和集成的CAD界面，允许几乎无限量地定制任何飞行器。",
-    "stage": 0,
+    "translation": "先进的仿生植入技术超越了对飞行器的认知。这种尖端的CBM不仅提供了卓越的侦查定位能力，还集成了CAD（计算机辅助设计）界面，使得几乎可以针对任何飞行器进行无限定制化调整与优化。这意味着使用者不仅能更精准地操控飞行器，还能根据具体任务需求和环境变化灵活调整飞行器的各项参数与功能，从而实现前所未有的高效能与适应性。",
+    "stage": 1,
     "context": "ID: dkz_zenture_industries_trinityCBM\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/items/bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→bionic→dkz_zenture_industries_trinityCBM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dkz_zenture_industries_trinityCBM"
   },
   {
     "key": "a1f7764e6258b4e1633445845ed6f469",
     "original": "A steel factory or lumbermill might have one, maybe even a stray or a zombie with a toolbelt?",
-    "translation": "钢铁厂或伐木厂可能有一个，甚至可能有一个流浪汉或一个带工具带的僵尸？",
-    "stage": 0,
+    "translation": "钢铁厂或者锯木厂可能会有一个，或者是一个带着工具带的流浪汉或者僵尸？",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_ENGINEER_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ENGINEER.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_ENGINEER_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_ENGINEER_MISSION_1"
   },
   {
     "key": "f10b5263a47b43b9325130e2ad1b773c",
     "original": "A swage and die set is used for testing higher mechanical tolerances and intricate fabrication, this would be extremely useful with repairs and maintance of everything in the building.",
-    "translation": "型锻和模具组用于测试更高的机械公差和复杂的制造，这对于建筑物中所有东西的维修和维护非常有用。",
-    "stage": 0,
+    "translation": "一组缩口模和冲模是用来检测较高机械公差和复杂制造工艺的工具，这对于建筑物内所有设备的维修和维护工作极为有用。",
+    "stage": 1,
     "context": "ID: DKZ_MAQUIS_ENGINEER_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ENGINEER.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_ENGINEER_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_ENGINEER_MISSION_1"
   },
   {
     "key": "1aedda5153469ea1efc39e3c2a00e39e",
     "original": "A swage and die set of what?",
-    "translation": "什么模锻模具？",
-    "stage": 0,
+    "translation": "什么的模锻模具？",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_ENGINEER_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ENGINEER.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_ENGINEER_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_ENGINEER_MISSION_1"
   },
   {
     "key": "0fa8a2d08bd96d9863affd21ad201335",
     "original": "All I can say is that when I saw his eyes pulse red and the whole world around me changed.  The aliens with swords now appeared like armoured knights with a golden cross on the shield.  The strangest thing is that I never really paid attention to history in school, but I knew they were Knights Templar coming to kill us.  Just when they seemed like they were about to strike, I must have came to my senses because I was on the floor of the bus dry heaving.",
-    "translation": "我能说的就是当我看到他的眼睛红红的，我周围的整个世界都变了。带着剑的外星人现在看起来像盔甲骑士，盾牌上有一个金色的十字架。最奇怪的是，我在学校从来没有真正关注过历史，但我知道他们是圣殿骑士来杀我们的。就在他们似乎要罢工的时候，我一定是清醒过来了，因为我当时在公共汽车的地板上干得喘不过气来。",
-    "stage": 0,
+    "translation": "我能说的就是，当我看到他的眼睛闪出红光，周围整个世界都变了样。原本手握利剑的外星生物在我眼中变成了身披铠甲的骑士，盾牌上赫然印着金色十字架。最不可思议的是，我在学校时从没真正关注过历史，但我却立刻认出他们是来杀我们的圣殿骑士团。就在他们即将发动攻击之际，我似乎恢复了理智，发现自己正瘫倒在公交车地板上，干呕不止。",
+    "stage": 1,
     "context": "ID: TALK_EVAC_Fatima_HALLUCINATION\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_Fatima.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_EVAC_Fatima_HALLUCINATION\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_EVAC_Fatima_HALLUCINATION"
   },
   {
@@ -3870,8 +3870,8 @@
   {
     "key": "ad88f8869f6538e46dec109219c87165",
     "original": "Any and all remaining humans that will resist the invading Xenoids to the last man.",
-    "translation": "所有能抵抗外来入侵的人类，直到最后一个人。",
-    "stage": 0,
+    "translation": "所有剩余的人类将会誓死抵抗入侵的异种直到最后一人。",
+    "stage": 1,
     "context": "ID: maquis\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→faction→maquis\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=maquis"
   },
   {
@@ -6358,36 +6358,36 @@
   {
     "key": "3fe56a798bbad8345ebd69570d63c154",
     "original": "Then you should go find one of the many merchants around the tower.  They are scattered around all over.",
-    "translation": "然后你应该去找塔楼周围众多的商人中的一个。他们到处都是。",
-    "stage": 0,
+    "translation": "那么你应该去找塔楼周围众多的商人中的一个。他们遍布各处。",
+    "stage": 1,
     "context": "ID: TALK_MAQUIS_QUARTERMASTER_TRADE\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_QUARTERMASTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_QUARTERMASTER_TRADE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_QUARTERMASTER_TRADE"
   },
   {
     "key": "82254bb89e8de3302f5803ceea0f7cda",
     "original": "There are some mutants in the upper floors and a few in the basement, but they're good people.  So long as you don't stare at the heavily deformed ones.",
-    "translation": "楼上有一些变种人，地下室也有一些，但他们都是好人。只要你不盯着那些严重变形的。",
-    "stage": 0,
+    "translation": "楼上有少量变种人，地下室也有一些，但他们都是好人。只要你不盯着那些严重畸形的人看。",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_SNIPER_UPSTAIRS\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_SNIPER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_SNIPER_UPSTAIRS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SNIPER_UPSTAIRS"
   },
   {
     "key": "829fe311f4bf10b82753bc5fb0ef9dfd",
     "original": "There are some mutants in the upper floors and some in the basement, but they're good people.  So long as you don't stare at the heavily deformed ones.",
-    "translation": "楼上和地下室都有变种人，但他们都是好人。只要你不盯着那些严重变形的。",
-    "stage": 0,
+    "translation": "楼上有一些变种人，地下室也有一些，但他们都是好人。只要你不盯着那些严重畸形的人看。",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_GUNSLINGER_DOING\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_GUNSLINGER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_GUNSLINGER_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_GUNSLINGER_DOING"
   },
   {
     "key": "7c5e6f9d2fc79fe94f552361d5190916",
     "original": "There is an arrangement with everyone that lives here, the bottom few floors are a free trade zone, the middle floors are general living space, and the upper floors are for the alien resistance operation. Part of that agreement means some of us with sharp eyes and quick trigger-fingers get to be up here.",
-    "translation": "所有住在这里的人都有一个安排，最底层的几层是自由贸易区，中间层是一般的生活空间，上层是外星人抵抗行动的场所。协议的一部分意味着我们中的一些人有着锐利的眼睛和快速触发的手指，可以来到这里。",
-    "stage": 0,
+    "translation": "这里居住的每个人都达成了一个协议，最下面的几层是自由贸易区，中间的楼层是一般的生活空间，而上面的楼层则是外星抵抗组织的行动基地。这项协议的一部分意味着我们中一些视力过人、反应迅速的人可以待在这里。",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_SNIPER_DOING\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_SNIPER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_SNIPER_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SNIPER_DOING"
   },
   {
     "key": "74aaf25156ef848c58b01c9cf9e0afca",
     "original": "There is an arrangement with everyone that lives here, the bottom two floors are a free trade zone and the upper floors are for the alien resistance operation.  We all help them keep the outside defences in our own ways.",
-    "translation": "所有住在这里的人都有一个安排，最下面的两层是自由贸易区，最上面的两层用于外星人抵抗行动。我们都以自己的方式帮助他们保持外部防御。",
-    "stage": 0,
+    "translation": "这里所有居民都有一个约定:底层两层是自由贸易区,而上层则是外星人抵抗活动场所。我们每个人都用自己的方式帮助他们维护外部防御。",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_SCIENTIST_DOING\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_SCIENTIST.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_SCIENTIST_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_SCIENTIST_DOING"
   },
   {
