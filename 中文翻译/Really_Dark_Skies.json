@@ -3877,14 +3877,14 @@
   {
     "key": "bcdcf4378fdf812c55ebed35b9c75c7d",
     "original": "Are these Xenoids related to everything else that has happened?",
-    "translation": "这些类氙与其他发生的事情有关吗？",
-    "stage": 0,
+    "translation": "这些异种是否与发生的其他所有事情有关？",
+    "stage": 3,
     "context": "ID: TALK_CHAD_ERIKSON_ASK_ABOUT_XENOIDS\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_CHAD_ERIKSON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_CHAD_ERIKSON_ASK_ABOUT_XENOIDS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAD_ERIKSON_ASK_ABOUT_XENOIDS"
   },
   {
     "key": "c6acb26e9dd75ee8526f7fa65ef25d1a",
     "original": "Are you in charge of the Maquis?",
-    "translation": "你是马奎斯家族的负责人吗？",
+    "translation": "",
     "stage": 0,
     "context": "ID: TALK_MAQUIS_QUARTERMASTER_DOING\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_QUARTERMASTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_QUARTERMASTER_DOING\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_QUARTERMASTER_DOING"
   },
@@ -3912,8 +3912,8 @@
   {
     "key": "60e83d8f1d4831f609046e39678ece0a",
     "original": "Can I help you marshal?  Got any bionics that need a tune up?.",
-    "translation": "我能帮你吗，元帅？有需要调整的仿生学吗？。",
-    "stage": 0,
+    "translation": "我能帮上忙吗，执法官？有哪些仿生装置需要调试升级？",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_ROOT\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_ROOT"
   },
   {
@@ -4003,57 +4003,57 @@
   {
     "key": "ab4a99f576b437be9d7c0bcd245e30a7",
     "original": "Ever since I turned into a insect mutant, I've been wanting to have few more cans of my favorite energy cola, it was like a clear morning dew. I even have some of the new money for your troubles.",
-    "translation": "自从我变成了一个昆虫变种人，我就一直想再喝几罐我最喜欢的能量可乐，它就像一个清澈的晨露。我甚至有一些新的钱来解决你的麻烦。",
-    "stage": 0,
+    "translation": "自从我变成了昆虫变异人后，我一直渴望再喝上几罐我最爱的能量可乐，那感觉就像清晨的露水一样清新。我甚至准备了一些崭新的货币来酬谢你的帮助。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1"
   },
   {
     "key": "28fafdd568762ffbc1b8aa394ae1df5c",
     "original": "Excellent worth, it was a pleasure working with you.  Now lets go back to base.",
-    "translation": "非常值得，和你一起工作很愉快。现在让我们回到基地。",
-    "stage": 0,
+    "translation": "非常值得，和你一起工作很愉快。现在我们回到基地吧。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_KILL_25_STRAYZ\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_KILL_25_STRAYZ\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_KILL_25_STRAYZ"
   },
   {
     "key": "9e7ab714ad0996b0fad0dbdc48ce772b",
     "original": "Fair enough.  <end_talking>",
-    "translation": "有道理。<end_talking>",
-    "stage": 0,
+    "translation": "很合理。<end_talking>",
+    "stage": 3,
     "context": "ID: BGSS_DKZ_Scavenger_1_STORY1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/Backgrounds/Scavenger_1.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→BGSS_DKZ_Scavenger_1_STORY1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_DKZ_Scavenger_1_STORY1"
   },
   {
     "key": "9e991eee71042829bd075da96b984f83",
     "original": "Finally I have all my favorite mods for Cataclysm Bright Nights, this game is so boring unmodded.  Here is a book you'll really like, plus some paper money the staff here keep giving me.",
-    "translation": "终于有了我最喜欢的《大灾变光明之夜》的MOD，这个游戏太无聊了。这是一本你会很喜欢的书，加上这里的工作人员一直给我的一些纸币。",
-    "stage": 0,
+    "translation": "终于给《大灾变：明亮之夜》装上了我最喜欢的模组，这游戏不加模组真是太无聊了。这里有本你肯定会喜欢的书，还有一些这里的工作人员给我的纸币。",
+    "stage": 3,
     "context": "ID: MISSION_REFUGEE_RANDY_ERIKSON_6\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_REFUGEE_RANDY_ERIKSON.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→MISSION_REFUGEE_RANDY_ERIKSON_6\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_REFUGEE_RANDY_ERIKSON_6"
   },
   {
     "key": "d27624d7f8dc1a817579d825fac86753",
     "original": "Find 3 erotic novels.",
-    "translation": "找3本情色小说。",
-    "stage": 0,
+    "translation": "找到3本情色小说。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_RODENT_DIRTY_BOOKS_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_TROG_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_RODENT_DIRTY_BOOKS_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_RODENT_DIRTY_BOOKS_1"
   },
   {
     "key": "11c81712a4644cc508aafec1043eec02",
     "original": "Find Civil War Sabre",
-    "translation": "找到内战刀",
-    "stage": 0,
+    "translation": "寻找美国内战时期的军刀",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_MISSION_HEIRLOOM_SABRE\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ATHLETIC.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_MISSION_HEIRLOOM_SABRE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MISSION_HEIRLOOM_SABRE"
   },
   {
     "key": "8d9d5ea3088df52f038dcbb1250175c9",
     "original": "Find a dozen cans of the best energy cola that ever existed.",
-    "translation": "找到十几罐有史以来最好的能量可乐。",
-    "stage": 0,
+    "translation": "找一打史上最棒的能量可乐。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1"
   },
   {
     "key": "29f15825d9f54336bcfcd0ba00d6fd43",
     "original": "Find a few packs of Sorcery cards.",
-    "translation": "找几包魔法卡。",
-    "stage": 0,
+    "translation": "找几包魔法卡牌（Sorcery cards）。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_ELF_MUTANT_CARDS_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ELF_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_ELF_MUTANT_CARDS_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_ELF_MUTANT_CARDS_MISSION_1"
   },
   {
@@ -4073,8 +4073,8 @@
   {
     "key": "cc99f377b9e41b30d04dd04ac2a68ffe",
     "original": "Find a swage and die set.",
-    "translation": "找一个模锻和模具组。",
-    "stage": 0,
+    "translation": "找到一个锻造模具。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_ENGINEER_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ENGINEER.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_ENGINEER_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_ENGINEER_MISSION_1"
   },
   {
@@ -4095,7 +4095,7 @@
     "key": "f6c18d2aef98d8691ad61d435176637d",
     "original": "Find six quarts of new motor oil in exchange for <reward_count:FMCNote> certified notes.",
     "translation": "找到六夸脱新机油，换取<reward_count:FMCNote>认证票据。",
-    "stage": 0,
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_MECHANIC_MOTOR_OIL_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_MECHANIC.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_MECHANIC_MOTOR_OIL_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MECHANIC_MOTOR_OIL_MISSION_1"
   },
   {
@@ -4136,8 +4136,8 @@
   {
     "key": "aacbd2621e306fb1f870efd9fc0291f1",
     "original": "From the first time you saw the Xenoids, you've been trying to figure out how they're technology works.  You can't wait to take them apart, alive and functional if possible.\\n\\nThis has no direct skill benefit, but allows you to present yourself as a technician to certain NPCs.",
-    "translation": "从你第一次看到Xenoids开始，你就一直在试图弄清楚它们是如何工作的。你迫不及待地想把它们拆开，如果可能的话，它们是活的、功能性的。\\n\\n这没有直接的技能优势，但允许你向某些NPC展示自己是一名技术员。",
-    "stage": 0,
+    "translation": "自从你第一次看到异种以来，你就一直在努力弄清楚他们的技术是如何运作的。你迫不及待地想要把它们拆解研究，但如果可能的话，最好还是保证他们是活体和功能完整的状态。\\n\\n这样做虽然不会直接提升你的技能，但却能让你在面对某些非玩家角色（NPC）时，展现出自己作为一名技术专家的身份。",
+    "stage": 3,
     "context": "ID: DKZ_TECH\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/mutations/traits.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mutation→DKZ_TECH\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_TECH"
   },
   {
@@ -4178,8 +4178,8 @@
   {
     "key": "a59b566e8c94b159088617d2db9c1849",
     "original": "Got to have my favorite cola.",
-    "translation": "一定要喝我最喜欢的可乐。",
-    "stage": 0,
+    "translation": "我得来点我最爱的可乐。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_MOTH_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MOTH_MUTANT_DEW_THE_DEW_MISSION_1"
   },
   {
@@ -4213,8 +4213,8 @@
   {
     "key": "5c1c0a7b23ae9f2f5ca699a49bf9cfb3",
     "original": "Hello marshal, need any bionics installed?",
-    "translation": "你好，元帅，需要安装仿生装置吗？",
-    "stage": 0,
+    "translation": "你好，执法官，需要安装一些仿生部件吗？",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_ROOT\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_ROOT"
   },
   {
@@ -4248,8 +4248,8 @@
   {
     "key": "01fef502d91c4ae870b7e1734ca55da7",
     "original": "Hmm, that would be great!  But if you do, please bring more than just one.  I could read a single novel in a day.  Could you get me… 3 erotic novels?",
-    "translation": "那太好了！但如果你想，请带不止一个。我一天能读一本小说。你能给我…3本情色小说吗？",
-    "stage": 0,
+    "translation": "嗯，那就太好了！不过要是你能的话，请多带几本，我一天就能读完一本小说。你能给我……找三本情色小说吗？",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_RODENT_DIRTY_BOOKS_1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_TROG_MUTANT.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_RODENT_DIRTY_BOOKS_1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_RODENT_DIRTY_BOOKS_1"
   },
   {
@@ -4269,15 +4269,15 @@
   {
     "key": "c96374989c5474706e1064bd40a40dde",
     "original": "I am so glad to see anyone still wearing a U.S. Marshal Badge.  I'm going to assume that you didn't pick it up off a dead zombie but it doesn't really matter since this Armageddon is the great equalizer.  What can we do for each other today?",
-    "translation": "我很高兴看到有人仍然戴着美国元帅徽章。我假设你不是从一个死僵尸身上捡到的，但这并不重要，因为这场世界末日是一个伟大的均衡器。我们今天能为彼此做些什么？",
-    "stage": 0,
+    "translation": "很高兴看到还有人佩戴着美国联邦执法官徽章。我会假设这并不是你在僵尸尸体上捡来的，但说实话，在这场末日浩劫面前，这一点都不重要，因为它让我们所有人都站在了同一水平线上。那么，今天我们能为彼此做些什么呢？",
+    "stage": 3,
     "context": "ID: TALK_CHAD_ERIKSON_ROOT\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_CHAD_ERIKSON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_CHAD_ERIKSON_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAD_ERIKSON_ROOT"
   },
   {
     "key": "740281b8d7fffaf6a8b00cb63bfd126d",
     "original": "I can help you install or remove bionics",
-    "translation": "我可以帮你安装或移除仿生学",
-    "stage": 0,
+    "translation": "我可以帮你安装或移除仿生学装置",
+    "stage": 3,
     "context": "ID: TALK_MAQUIS_BIONIC_DOCTOR_INSTALL_BIONICS\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_BIONIC_DOCTOR.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_MAQUIS_BIONIC_DOCTOR_INSTALL_BIONICS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_MAQUIS_BIONIC_DOCTOR_INSTALL_BIONICS"
   },
   {
@@ -4290,43 +4290,43 @@
   {
     "key": "f310481c29476ba5d0df3076a0709108",
     "original": "I don't recognize you, but I will next time.  My name is Mr. Erikson and I'm in overall ground command around here, by attrition if nothing else.  If you've come all the way up here you must have a reason.  What can we do for each other today?",
-    "translation": "我不认识你，但下次我会的。我的名字是埃里克森先生，我是这里的总地面指挥部，如果没有其他的话，就是消耗。如果你大老远来到这里，你一定有原因。我们今天能为彼此做些什么？",
-    "stage": 0,
+    "translation": "我不记得见过你，但下次我会记住的。我是艾瑞克森先生，在此地负责全面的地面指挥工作，即便只是因为人员损耗而担此重任。既然你一路来到这里，肯定是有原因的。那么，今天我们可以如何互相帮助呢？",
+    "stage": 3,
     "context": "ID: TALK_CHAD_ERIKSON_ROOT\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_CHAD_ERIKSON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_CHAD_ERIKSON_ROOT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAD_ERIKSON_ROOT"
   },
   {
     "key": "4d8fb530de3822987b92f2c518144934",
     "original": "I don't think that was quite a dozen xenoids.",
-    "translation": "我不认为那是一打氙。",
-    "stage": 0,
+    "translation": "我认为刚才出现的异种并没有达到十二个。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_KILL_12_XENOIDS\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_KILL_12_XENOIDS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_KILL_12_XENOIDS"
   },
   {
     "key": "57db4444770db1c3db5c672bb1b03003",
     "original": "I don't think that was quite twenty-five strays.",
-    "translation": "我不认为那是25次流浪。",
-    "stage": 0,
+    "translation": "我想那里的流浪者并没有二十五个。",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_KILL_25_STRAYZ\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/Maquis_Missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_KILL_25_STRAYZ\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_KILL_25_STRAYZ"
   },
   {
     "key": "e8f99565fe0c21c805a0dbc47ec8001a",
     "original": "I have a general idea of where my uncle Chad Erikson is at, I give you a general idea which direction and how far away it is, but other than that I can only guess.",
-    "translation": "我对我叔叔查德·埃里克森在哪里有一个大致的想法，我给你一个大致的想法，它的方向和距离，但除此之外，我只能猜测。",
-    "stage": 0,
+    "translation": "我大概知道我叔叔查德·埃里克森所在的位置，我可以给你一个大致的方向以及距离有多远，除此之外，我也只能猜测了。",
+    "stage": 3,
     "context": "ID: MISSION_CHECK_UP_ON_BIG_BROTHER\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_REFUGEE_RANDY_ERIKSON.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→MISSION_CHECK_UP_ON_BIG_BROTHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_CHECK_UP_ON_BIG_BROTHER"
   },
   {
     "key": "1b72dd72c08b61c177f4831eadc868cc",
     "original": "I have a heist for you…",
-    "translation": "我有个抢劫案要告诉你…",
-    "stage": 0,
+    "translation": "我有一个计划要跟你商量……",
+    "stage": 3,
     "context": "ID: DKZ_MAQUIS_MISSION_HEIRLOOM_SABRE\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_ATHLETIC.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→mission_definition→DKZ_MAQUIS_MISSION_HEIRLOOM_SABRE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=DKZ_MAQUIS_MISSION_HEIRLOOM_SABRE"
   },
   {
     "key": "f4ce89eb98087242e159ae2b995c7a6b",
     "original": "I have a question about the specific types of Xenoid attackers?",
-    "translation": "我有一个关于氙气袭击者的具体类型的问题？",
-    "stage": 0,
+    "translation": "我有个关于袭击的异种的具体种类的问题。",
+    "stage": 3,
     "context": "ID: TALK_CHAD_ERIKSON_ASK_ABOUT_XENOIDS\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_CHAD_ERIKSON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_CHAD_ERIKSON_ASK_ABOUT_XENOIDS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAD_ERIKSON_ASK_ABOUT_XENOIDS"
   },
   {
@@ -4339,8 +4339,8 @@
   {
     "key": "a93fc3b59c8a6df0a6c159140ccb9856",
     "original": "I have no idea what happened.  I remember having the weirdest dream like I was crawling out of a cave or being born or something, but it must not have been a dream because when I woke up it was like I had moulted my entire skin off. Now I'm some kind of moth mutant just trying to survive zombie and alien attacks.",
-    "translation": "我不知道发生了什么。我记得我做了一个最奇怪的梦，比如我从洞穴里爬出来，或者出生了，但那一定不是梦，因为当我醒来时，我感觉自己的整个皮肤都脱掉了。现在我是某种飞蛾变种人，只是想在僵尸和外星人的攻击下生存。",
-    "stage": 0,
+    "translation": "我完全不知道发生了什么。我只记得做过一个特别奇怪的梦，好像我在从一个洞穴爬出来，或者像重生一般，但现在看来那显然不是梦，因为我醒来时发现自己仿佛蜕去了一整层皮肤。现在我变成了某种蛾类变异人，正努力在这满是僵尸和外星人袭击的世界中求生存。",
+    "stage": 3,
     "context": "ID: BGSS_DKZ_Mutant_Insect_2_STORY1\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/Backgrounds/Mutant_Insect_2.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→BGSS_DKZ_Mutant_Insect_2_STORY1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BGSS_DKZ_Mutant_Insect_2_STORY1"
   },
   {
@@ -4353,8 +4353,8 @@
   {
     "key": "c09c5a3735b6f7748d1dcca6d5c8fced",
     "original": "I have some questions about the Xenoids.",
-    "translation": "我有一些关于氙的问题。",
-    "stage": 0,
+    "translation": "我有一些关于异种的问题。",
+    "stage": 3,
     "context": "ID: TALK_CHAD_ERIKSON_ASK_ABOUT_RACING_ARCOLOGY\n位于 /Kenan-Structured-Modpack/Real_Dark_Skies_Above/NPC/TALK_MAQUIS_CHAD_ERIKSON.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Real_Dark_Skies_Above→talk_topic→TALK_CHAD_ERIKSON_ASK_ABOUT_RACING_ARCOLOGY\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=TALK_CHAD_ERIKSON_ASK_ABOUT_RACING_ARCOLOGY"
   },
   {

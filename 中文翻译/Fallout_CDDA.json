@@ -2,15 +2,15 @@
   {
     "key": "b041ba7e1fc49957639024015b9c2e99",
     "original": "\"A lawful use of deadly force is in progress. Citizens are advised to steer clear.\"",
-    "translation": "“正在合法使用致命武力。建议市民避开。”",
-    "stage": 1,
+    "translation": "“正在进行合法使用致命武器。建议市民避开该区域。”",
+    "stage": 3,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→speech→mon_protectron→1\n"
   },
   {
     "key": "5920044189114f86c0173729895c79ed",
     "original": "\"And we're back. This is Mr. New Vegas, and I feel something magic in the air tonight, and I'm not just talking about the gamma radiation.\"",
-    "translation": "“又见面了。我是新维加斯先生，今晚我感到空气中充满了魔力，哦，我说的不仅仅是伽马射线。”",
-    "stage": 3,
+    "translation": "“我们回来了。这里是维加斯先生，今晚我感觉到了空气中有些神奇的东西，我指的不仅仅是伽马射线。”",
+    "stage": 5,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→speech→mon_eyebot_mrnewvegas→30\n"
   },
   {
@@ -9783,21 +9783,21 @@
     "key": "2762255270836521d4266a98ecc5b986",
     "original": "A combination of a tomato and potato.",
     "translation": "西红柿和土豆的混合物。",
-    "stage": 3,
+    "stage": 5,
     "context": "ID: tato\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/other.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→tato\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tato"
   },
   {
     "key": "f17d66e9cd2b0e815edc695efa368656",
     "original": "A edible flower commonly farmed in boston for the taste.",
     "translation": "一种可食用的花，因其美味而广泛在波士顿种植。",
-    "stage": 3,
+    "stage": 5,
     "context": "ID: carrot_flower\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/other.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→carrot_flower\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=carrot_flower"
   },
   {
     "key": "eb44b6d5c4d9f71d8ce0220b4d97b15a",
     "original": "A large, mutant chameleon. Unable to cloak itself, but lethally powerful, this one has been infected by fungal spores and seems stronger than normal.",
-    "translation": "一只巨大的变异蜥蜴。无法遮掩自己，但是致命且强大，这一只已经被真菌孢子感染了，看起来比正常的还要强。",
-    "stage": 1,
+    "translation": "一只大型变异变色龙，虽无法隐形伪装，但却具有致命的力量，显然它已被真菌孢子感染并变得比寻常更为强壮。",
+    "stage": 3,
     "context": "ID: mon_feathclaw\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/monsters/reptiles.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_feathclaw\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_feathclaw"
   },
   {
@@ -10314,8 +10314,8 @@
   {
     "key": "b8a83b8dff1d81cf99114b906446cc85",
     "original": "Nuka-Void is a mixture of Nuka-Cola Dark and Nuka-Cola Quantum, the two flavors stabilize each other to create the perfect balance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "核子-虚空是核子黑暗版可乐和量子型核子可乐的混合饮料，这两种口味相互稳定，创造出完美的平衡。",
+    "stage": 1,
     "context": "ID: cola_nuka_void\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→cola_nuka_void\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cola_nuka_void"
   },
   {
@@ -10328,7 +10328,7 @@
   {
     "key": "b39f5dcf99ad660cc2acb2e8886b4616",
     "original": "Nuka-Xtreme is a mix between Nuka-Grape, Nuka-Cola, and Nuka-Cola Quantum, its flavor is unique and loved by many.",
-    "translation": "Nuka Xtreme是由Nuka葡萄、Nuka可乐和Nuka Cola Quantum混合而成，其风味独特，深受许多人喜爱。",
+    "translation": "",
     "stage": 0,
     "context": "ID: cola_nuka_xtreme\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→cola_nuka_xtreme\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cola_nuka_xtreme"
   },
