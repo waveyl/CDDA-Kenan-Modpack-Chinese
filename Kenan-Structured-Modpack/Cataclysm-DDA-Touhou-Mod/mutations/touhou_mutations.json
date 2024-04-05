@@ -887,7 +887,7 @@
         "condition": "ALWAYS",
         "values": [
           { "value": "SLEEPINESS_REGEN", "multiply": 0.25 },
-          { "value": "FATIGUE", "multiply": 0.25 },
+          { "value": "SLEEPINESS", "multiply": 0.25 },
           { "value": "SLEEPY", "add": 25 }
         ]
       }
