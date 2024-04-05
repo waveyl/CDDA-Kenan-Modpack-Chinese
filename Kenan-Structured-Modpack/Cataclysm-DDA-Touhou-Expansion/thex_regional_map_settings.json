@@ -459,25 +459,7 @@
         "terrain_furniture": {  }
       },
       "forest_water": {
-        "terrains": [
-          "forest_water",
-          "hunter_shack_north",
-          "hunter_shack_south",
-          "hunter_shack_east",
-          "hunter_shack_west",
-          "hunter_shack_1_north",
-          "hunter_shack_1_south",
-          "hunter_shack_1_east",
-          "hunter_shack_1_west",
-          "shipwreck_river_1_north",
-          "shipwreck_river_1_south",
-          "shipwreck_river_1_east",
-          "shipwreck_river_1_west",
-          "shipwreck_river_2_north",
-          "shipwreck_river_2_south",
-          "shipwreck_river_2_east",
-          "shipwreck_river_2_west"
-        ],
+        "terrains": [ "forest_water", "hunter_shack", "hunter_shack_1", "shipwreck_river_1", "shipwreck_river_2" ],
         "sparseness_adjacency_factor": 2,
         "item_group": "forest",
         "item_group_chance": 60,
