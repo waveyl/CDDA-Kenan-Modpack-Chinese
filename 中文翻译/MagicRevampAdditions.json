@@ -2389,7 +2389,7 @@
   "key": "81fe7a2640ecc237f1ccf9665892f443",
   "original": "Nature's Trance",
   "translation": "自然冥想",
-  "context": "ID: recover_fatigue\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→recover_fatigue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recover_fatigue",
+  "context": "ID: recover_sleepiness\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→recover_sleepiness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recover_sleepiness",
   "stage": 5
  },
  {
@@ -4864,8 +4864,14 @@
   "key": "5c9e2777d68c9f8ca3526d7f5aa4c278",
   "original": "Your connection to living things allows you to go into a magical trance.  This allows you to recover fatige quickly in exchange for mana.",
   "translation": "你与其它生命的连接允许你进入一种魔法冥想状态。在这种状态下你会消耗魔法，加速疲劳恢复。",
-  "context": "ID: recover_fatigue\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→recover_fatigue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recover_fatigue",
   "stage": 5
+ },
+ {
+  "key": "a47bee23cc1270f67c37e0d61a50affe",
+  "original": "Your connection to living things allows you to go into a magical trance.  This allows you to recover from fatigue quickly in exchange for mana.",
+  "translation": "Your connection to living things allows you to go into a magical trance.  This allows you to recover from fatigue quickly in exchange for mana.",
+  "context": "ID: recover_sleepiness\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→recover_sleepiness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recover_sleepiness",
+  "stage": 1
  },
  {
   "key": "fd5a784a5c2320d7f92f59845ce8378a",
