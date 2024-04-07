@@ -701,7 +701,7 @@
     "id": "mounted_rifle_38",
     "copy-from": "turret",
     "type": "vehicle_part",
-    "name": { "str": ".38 Special pipe rifle turret" },
+    "name": { "str": ".38 pipe rifle turret" },
     "item": "rifle_38",
     "breaks_into": [ { "item": "rifle_38", "prob": 50 } ],
     "requirements": {
@@ -975,3 +975,4 @@
     }
   }
 ]
+
