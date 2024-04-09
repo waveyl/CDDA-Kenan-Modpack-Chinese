@@ -174,7 +174,7 @@
  {
   "key": "0c213457cded9517ed093348fb5333fa",
   "original": "<npcname> does a cute backflip while attacking %s!",
-  "translation": "<npcname> 攻击 %s 时做了一个可爱的后空翻!",
+  "translation": "<npcname> 攻击 %s 并做了一个可爱的后空翻!",
   "context": "ID: tec_tenko_backflip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_backflip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_tenko_backflip",
   "stage": 3
  },
@@ -1824,9 +1824,9 @@
  {
   "key": "7e331abb5498b2ae8e9725924f5a4e58",
   "original": "Backflip",
-  "translation": "Backflip",
+  "translation": "后空翻",
   "context": "ID: tec_tenko_backflip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_backflip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_tenko_backflip",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5f3eb3bb444b20bd875e84c095b280c2",
@@ -6609,9 +6609,9 @@
  {
   "key": "4d42261042d319d649fd0847038d5f42",
   "original": "Noh battle performance",
-  "translation": "Noh battle performance",
+  "translation": "能剧战斗演出",
   "context": "ID: style_kokoro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kokoro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_kokoro",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f42440f5789dd81feafa5cecf668c643",
@@ -7792,23 +7792,23 @@
  {
   "key": "10fb6fb058e0afa0f24c544455319c74",
   "original": "Ritual: Shikaisen",
-  "translation": "Ritual: Shikaisen",
+  "translation": "仪式：尸解仙",
   "context": "ID: seiga_shikaisenritual\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0965ece02956388186c77cdeb6a05d82",
   "original": "Ritual: Shikaisen (transform)",
   "translation": "Ritual: Shikaisen (transform)",
   "context": "ID: seiga_shikaisenritual2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual2",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c35c9bba853eb152f3e8e2cf5af02fbe",
   "original": "Ritual: Shikaisen (transform) (remove)",
   "translation": "Ritual: Shikaisen (transform) (remove)",
   "context": "ID: seiga_shikaisenritual3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_shikaisenritual3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual3",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "48882413bd7c10c4aa79539a97eb189a",
@@ -10755,7 +10755,7 @@
   "original": "WALLWALK_SUCCESS",
   "translation": "WALLWALK_SUCCESS",
   "context": "ID: seiga_wallwalk_store\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_wallwalk_store\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_wallwalk_store",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aa8655ac3c4726ac935c2918903416aa",
@@ -11194,9 +11194,9 @@
  {
   "key": "d893de365d6ce21fcf7e04aa9974eaf4",
   "original": "You begin performing the ritual…",
-  "translation": "You begin performing the ritual…",
+  "translation": "你开始举行仪式...",
   "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=seiga_shikaisenritual_sheet_found",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "099e4b3f2ed12b78427281ca6510d126",
@@ -11325,9 +11325,9 @@
  {
   "key": "597b6fa11921fc2ea8afafeb78612187",
   "original": "You do a cute backflip while attacking %s!",
-  "translation": "You do a cute backflip while attacking %s!",
+  "translation": "你攻击%s并做了一个可爱的后空翻！",
   "context": "ID: tec_tenko_backflip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_backflip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=tec_tenko_backflip",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "00f49752d8fa38b1e1fb2236f372f15b",
@@ -13152,9 +13152,9 @@
  {
   "key": "222ca644a55e3d0045353e29b12c33d0",
   "original": "bed (ritual)",
-  "translation": "bed (ritual)",
+  "translation": "床（仪式）",
   "context": "ID: f_bed_shikaisen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→furniture→f_bed_shikaisen\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_bed_shikaisen",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1a8f9ef1f627c018a7a935ef53c2df50",
@@ -13488,9 +13488,9 @@
  {
   "key": "6995978e112bf2980ea3b626f0212ad5",
   "original": "corpse (ammo)",
-  "translation": "corpse (ammo)",
+  "translation": "尸体",
   "context": "ID: touhou_corpse_ammo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_ammo_types.json\n类型为 ammunition_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ammunition_type→touhou_corpse_ammo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=touhou_corpse_ammo",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ee694d8d7d926fbe5aacf37dd9a4770d",
@@ -13950,9 +13950,9 @@
  {
   "key": "de97e75e5b4604526a2afaed5f5439d7",
   "original": "hole",
-  "translation": "hole",
+  "translation": "洞",
   "context": "ID: t_wall_hole\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_wall_hole\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_wall_hole",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e10127af717075b73dbf2c3b1fa24972",
@@ -14760,9 +14760,9 @@
  {
   "key": "19f52e5bc67d019b534611c16d4e5108",
   "original": "red ties (LDC training uniform)",
-  "translation": "red ties (LDC training uniform)",
+  "translation": "红色领带（LDC新兵服）",
   "context": "ID: ldc_tie\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_gyokuto_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→ldc_tie\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ldc_tie",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c62d58e027e7b2def5dea97d11adacb4",
