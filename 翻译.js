@@ -1120,7 +1120,12 @@ ${getItemBrowserLink(fullItem)}`
       }
     }
     if (Array.isArray(item.ongethit_buffs)) {
-      for (const buff of item.onhit_buffs) {
+      for (const buff of item.ongethit_buffs) {
+        await namePlDesc(buff);
+      }
+    }
+    if (Array.isArray(item.onpause_buffs)) {
+      for (const buff of item.onpause_buffs) {
         await namePlDesc(buff);
       }
     }
