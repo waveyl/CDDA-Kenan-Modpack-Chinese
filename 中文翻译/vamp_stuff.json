@@ -2182,12 +2182,6 @@
   "stage": 1
  },
  {
-  "key": "ecf097e8f8ca646d80bb3a9861b31406",
-  "original": "Deep Blood",
-  "translation": "深沉的血液",
-  "stage": 1
- },
- {
   "key": "8888001732c68b20d74ce5fa3dc78fcf",
   "original": "Depletes the stamina.",
   "translation": "耗尽体力。",
@@ -2688,12 +2682,6 @@
   "translation": "它从古老的墓地中爬起。这个丧尸的年龄导致它的血液凝固成厚厚的，岩石般的盔甲。但不知何故能保持正常的速度。它有着奇怪的牙齿衬里和石爪，它的威胁度非常的高。",
   "context": "ID: mon_zombie_bloodcompact\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Zombies/Graveyard.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_zombie_bloodcompact\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_bloodcompact",
   "stage": 3
- },
- {
-  "key": "902602ba6bfde4ca297b998ef89878f9",
-  "original": "From the old graveyard it arises. This zombie's age cause its blood to solidify into thick, rock-like armor, but somehow maintains natural speed. With odd-looking teeth lining and stony claws, its threat is impeccable.",
-  "translation": "它从古老的墓地升起。这个丧尸的年龄导致它的血液凝固成厚厚的，岩石般的盔甲，但不知何故保持自然速度。有着奇怪的牙齿衬里和石爪，它的威胁是无可挑剔的。",
-  "stage": 1
  },
  {
   "key": "45f41b300f18513e5bf66f3a54190d8f",
@@ -5140,13 +5128,6 @@
   "stage": 3
  },
  {
-  "key": "01b09ed421a470de04c635640dd58c01",
-  "original": "Sacrifices a massive amount of life force to summon a <color_brown>lingering aura</color> that <color_yellow>saps life</color> from all surrounding creatures, dealing constant <color_green>biological damage</color>.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "Sacrifices a massive amount of life force to summon a <color_brown>lingering aura</color> that <color_yellow>saps life</color> from all surrounding creatures, dealing constant <color_green>biological damage</color>.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "context": "ID: t6_blood_desolation\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_desolation\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t6_blood_desolation",
-  "stage": 1
- },
- {
   "key": "4d96a1d2e0ec3907459d414ba1656ca4",
   "original": "Sacrifices a massive amount of life force to summon a <color_light_brown>lingering aura</color> that <color_yellow>saps life</color> from all surrounding creatures, dealing constant <color_green>biological damage</color>.\n\nThis is a <color_magenta>tier 6</color> spell.",
   "translation": "牺牲大量生命召唤一个<color_light_brown>持续的光环</color>，从周围所有生物处<color_yellow>吸取生命</color>，造成持续的<color_green>生化伤害</color>。\n\n这是一个<color_magenta>六阶</color>法术。",
@@ -5247,12 +5228,6 @@
   "original": "Sets you in catastrophic madness, consuming own's life force in exchange of barraging random attacks.\n* For every damage, you randomly attack foes with 25 (<color_magenta>bash</color>, cut or <color_light_red>stab</color>) damage within a 12 tile radius. There's a 1/10 chance to suck the target's life force, dealing up to <color_green>10 biological damage</color> and heals you by <color_green>5</color>.\n\nThis is a <color_red>tier 5</color> spell.",
   "translation": "让你陷入灾难性的疯狂，消耗自己的生命力量来交换弹幕式的随机攻击。\n*每造成一点伤害，你在12个方圆内随机攻击敌人25点伤害（<color_magenta>击</color>，砍或<color_light_red>刺）。有1/10的几率吸取目标的生命力，造成最多<color_green>10点生物伤害，并通过<color_green>5治疗你。\n\n这是一个<color_red>第5层的咒语。",
   "context": "ID: t5_blood_vampiricoutrage\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_vampiricoutrage\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t5_blood_vampiricoutrage",
-  "stage": 1
- },
- {
-  "key": "29db9bd7171f182f7bb547dfd70ce1d0",
-  "original": "Shallow Blood",
-  "translation": "浅薄的血液",
   "stage": 1
  },
  {
@@ -5577,13 +5552,6 @@
   "stage": 1
  },
  {
-  "key": "5ca5b93595160b6ce829eb9e139f0851",
-  "original": "Summons the <color_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "Summons the <color_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "context": "ID: t6_blood_leechswhip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_leechswhip\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t6_blood_leechswhip",
-  "stage": 1
- },
- {
   "key": "7bd1a7715a2314cf99a5f15e6cd8dae8",
   "original": "Summons the <color_light_blue>etherean silhouette</color>(s), striding through the world swiftly and are invulnerable to physical hazards.\n* These minions do not harm with brute strength, but casts a basic warlock spell at foe weights from <color_gray>tier 1</color> to <color_white>tier 3</color>. After the duration or casting any spell, they vanish.",
   "translation": "",
@@ -5595,12 +5563,6 @@
   "translation": "召唤<color_light_blue>以太轮廓</color>（s），快速跨越世界，不受身体伤害。\n*这些仆从不会以蛮力伤害敌人，但会在<color_light_gray>第1层</color>到<color_white>第3层</color>之间对敌人施放一个基本的术士法术。持续时间或施法后，它们消失。",
   "context": "ID: t5_mana_danceofthesilhouettes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_danceofthesilhouettes\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t5_mana_danceofthesilhouettes",
   "stage": 0
- },
- {
-  "key": "ed8f42aeaf244fcc3ac0a88b6342f68b",
-  "original": "Summons the <color_light_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "召唤<color_light_brown>水蛭之鞭</color>，一种生物近战武器。\n*如果在激活状态下挥舞，则为属性（STR+1，SPD+5）提供正面平级加值，并使你的最大生命值增加10。\n\n这是<color_magenta>第6层的咒语。",
-  "stage": 1
  },
  {
   "key": "853fbbeb76e35bea97202cc179baa627",
@@ -6538,23 +6500,11 @@
   "stage": 3
  },
  {
-  "key": "b0468827667be37baa462bd6fd2e5980",
-  "original": "This glorious entity has been engulfed by black, oozing liquid on its eye. Still walks in passion, its thirst for blood has been replaced with fresh meat. Now, the almighty power of a nightmare is now the vessel of extermination.",
-  "translation": "这个光荣的实体已经被它眼睛上渗出的黑色液体吞没了。依然行走在激情之中，它对鲜血的渴望已经被鲜肉所取代。现在，噩梦的万能力量现在是毁灭的容器。",
-  "stage": 1
- },
- {
   "key": "8f7c7a4bb83283b9e080a88c07b59cd5",
   "original": "This hollowed zombie's blood melts away and cause a minor mutation, such as long claws and immensive fangs. Lackness of weight provides swiftness and good reflexes, but in most cases, its fragility makes it easy to take down.",
   "translation": "这个被挖空的丧尸的液会融化并导致一些小规模的变异。比如长长的爪子和巨大的尖牙。较轻的体重提供了快速和良好的反应，但在大多数情况下，它很脆弱，所以很容易干掉。",
   "context": "ID: mon_zombie_blooddefused\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Zombies/Graveyard.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_zombie_blooddefused\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_blooddefused",
   "stage": 3
- },
- {
-  "key": "1b9516c22efcffa0535b66cae9878ff2",
-  "original": "This hollowed zombie's blood melts away and cause a minor mutation, such as long claws and immensive fangs. Lackness of weight provides swiftness and good reflexes, but in most cases, its fragility makes them easy to take down.",
-  "translation": "这个被挖空的丧尸的血液会融化，并导致一个微小的变异，比如长爪子和巨大的尖牙。体重的不足提供了快速和良好的反应，但在大多数情况下，它的脆弱性使他们容易采取下来。",
-  "stage": 1
  },
  {
   "key": "a013879808b7805ccd324ebacb237079",
@@ -6652,12 +6602,6 @@
   "original": "This worn leather folio smells faintly of iron and a musty hint of decay. Within are multiple pages outlining spells and incantations for the adept Warlock, mostly discovered via experimentation.",
   "translation": "这本破旧的皮革对开本散发着淡淡的铁味和腐朽的霉味。里面有多页概述了熟练术士所用的法术和咒语，大部分是通过实验发现的。",
   "context": "ID: v_mana_T3_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_mana_T3_tome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=v_mana_T3_tome",
-  "stage": 1
- },
- {
-  "key": "89db53fd099fd9de71fbb945d03826b3",
-  "original": "This zombie's blood was once compact, but now it soaks and caused to mutate into a dangerous oversized bone plates and spikes, leaving its fleshy skin saggy. The bone scythes on its hands are symmetrical as a pair while its sharpened teeth potrudes from its jaw, but despite fearsome looks, its weight causes it to stumble... often.",
-  "translation": "这只丧尸的血液曾经很紧实，但现在它被浸泡并变异成危险的超大骨板和刺，使其肉质皮肤下垂。它手上的骨镰刀是对称的一对，而它锋利的牙齿从它的下巴凹陷，但尽管可怕的外观，它的重量导致它绊倒…经常。",
   "stage": 1
  },
  {
@@ -7745,19 +7689,6 @@
   "stage": 3
  },
  {
-  "key": "710032237ec02fba368633215aa0be26",
-  "original": "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
-  "translation": "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
-  "context": "ID: t6_mana_etherealenchantment\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_etherealenchantment\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t6_mana_etherealenchantment",
-  "stage": 1
- },
- {
-  "key": "9b549129824f4db78eb899a86453abe5",
-  "original": "You gain an <color_light_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
-  "translation": "你获得了一个<color_light_brown>空灵结界</color>，使你的攻击感觉更轻，但却更深入你敌人的内心。\n *如果佩戴，你的攻击将获得<color_light_yellow>点20点的穿刺护甲，并且其消耗减少15点。\n\n这是一个<color_magenta>等级6的法术。",
-  "stage": 1
- },
- {
   "key": "5d0e0b4f2c79110a53558e485e505568",
   "original": "You got something to say, descendant?.",
   "translation": "你有话要说吗，后裔？",
@@ -7916,19 +7847,6 @@
   "translation": "你用你的血液输送到<color_yellow>流血的</color>身体部位，并立即修复它。激活时，它将进一步阻止<color_yellow>出血</color>。\n\n这是一个<color_light_gray>一阶</color>法术。",
   "context": "ID: t1_blood_clot\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_clot\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t1_blood_clot",
   "stage": 3
- },
- {
-  "key": "be39acc1125aea742e6473da2597d980",
-  "original": "You withdraw for a very short moment, covering your whole body with <color_brown>thick blood layer</color> that nullifies most physical damage. This thick layer does not burden you in any way.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "You withdraw for a very short moment, covering your whole body with <color_brown>thick blood layer</color> that nullifies most physical damage. This thick layer does not burden you in any way.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "context": "ID: t6_blood_crimsoncoat\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_crimsoncoat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t6_blood_crimsoncoat",
-  "stage": 1
- },
- {
-  "key": "3a4f7b786a17a7288fe7e884c1af63c0",
-  "original": "You withdraw for a very short moment, covering your whole body with <color_light_brown>thick blood layer</color> that nullifies most physical damage. This thick layer does not burden you in any way.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "你抽回的瞬间非常短暂，用<color_light_brown>厚的血层</color>覆盖全身，抵消大部分物理伤害。这厚厚的一层不会给你带来任何负担。\n\n这是一个<color_magenta>第6层法术。",
-  "stage": 1
  },
  {
   "key": "b27d711e36e6023fd6200c54e8bf6b11",
@@ -8993,19 +8911,5 @@
   "translation": "邪恶的术士",
   "context": "ID: mon_zombie_succumbvampire_warlock\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Zombies/Vampire.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_zombie_succumbvampire_warlock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_zombie_succumbvampire_warlock",
   "stage": 3
- },
- {
-  "key": "893c217e78e84abe7074167f145056d0",
-  "original": "你将教堂的地址添加到地图中。",
-  "translation": "你将教堂的地址添加到地图中。",
-  "context": "ID: crypt_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→crypt_map\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=crypt_map",
-  "stage": 1
- },
- {
-  "key": "f3d56ae1946b4bf1b509ebf31c06fa0f",
-  "original": "你把吸血鬼湾的地址添加到地图中。",
-  "translation": "你把吸血鬼湾的地址添加到地图中。",
-  "context": "ID: vampcave_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→vampcave_map\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vampcave_map",
-  "stage": 1
  }
 ]
