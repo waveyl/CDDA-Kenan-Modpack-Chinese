@@ -48,7 +48,7 @@ jobs:
 
       - uses: montudor/action-zip@v0.1.1
         with:
-          args: zip -qq -r Kenan-Modpack-Mod汉化版.zip Kenan-Modpack-Chinese/ 汉化说明.txt QQ频道.jpg 适配版本.txt
+          args: zip -qq -r Kenan-Modpack-Mod汉化版.zip Kenan-Modpack-Chinese/ 汉化说明.txt 适配版本.txt
 
       - name: Get build timestamp
         id: get-timestamp
