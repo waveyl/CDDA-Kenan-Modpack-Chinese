@@ -81,5 +81,5 @@ jobs:
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'feat: 自动拉取Paratranz最新内容并发布'
+          message: '自动拉取Paratranz最新内容并发布'
 #           pull_strategy: NO-PULL
