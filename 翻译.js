@@ -31,8 +31,8 @@ const getFakeId = (item, index) =>
     ? `[${index}]`
     : '';
 const getContext = (sourceModName, item, index) => `${sourceModName}→${item.type}→${getFakeId(item, index)}`;
-const getItemBrowserLink = (item) =>
-  item.id ? `http://cdda.aloxaf.cn/search?q=${escape(Array.isArray(item.id) ? item.id[0] : item.id)}` : '';
+// const getItemBrowserLink = (item) =>
+//   item.id ? `http://cdda.aloxaf.cn/search?q=${escape(Array.isArray(item.id) ? item.id[0] : item.id)}` : '';
 // 日志记录相关
 let logCounter = 0;
 let logs = [];
@@ -538,12 +538,12 @@ title: ${jsonName.replace('.tid', '')}
 type: text/vnd.tiddlywiki
 `
   );
-  if (item.id) {
-    fs.append(
-      path.join(cddaWikiFolder, jsonName),
-      `\n\n[[物品浏览器：${escape(item.id)}|${getItemBrowserLink(item)}]]\n\n`
-    );
-  }
+  // if (item.id) {
+  //   fs.append(
+  //     path.join(cddaWikiFolder, jsonName),
+  //     `\n\n[[物品浏览器：${escape(item.id)}|${getItemBrowserLink(item)}]]\n\n`
+  //   );
+  // }
   fs.append(path.join(cddaWikiFolder, jsonName), `\n\n!! 所在文件\n\n${filePath}\n`);
   fs.append(path.join(cddaWikiFolder, jsonName), '\n\n!! 原文\n\n```json\n');
   fs.append(path.join(cddaWikiFolder, jsonName), JSON.stringify(item, undefined, '  '));
@@ -628,12 +628,7 @@ function getCDDATranslator(modTranslationCache, sourceModName, fullItem, index, 
 
 WIKI:
 ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
-${
-  fullItem.id
-    ? `物品浏览器：
-${getItemBrowserLink(fullItem)}`
-    : ''
-}`
+`
     );
   const noop = () => {};
 
