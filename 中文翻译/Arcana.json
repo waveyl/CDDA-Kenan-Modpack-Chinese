@@ -12784,9 +12784,9 @@
  {
   "key": "0dfdb0b1fb9696783964a16475c47225",
   "original": "I have my own reasons for being here.",
-  "translation": "我来这里有我自己的理由。",
+  "translation": "我来这里有我自己的原因。",
   "context": "ID: TALK_CF_REP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f5750a1bb64e2f4c3d4b01d306b09b4d",
@@ -13173,9 +13173,9 @@
  {
   "key": "79a2b789be5c16757df92a7a6bac90c4",
   "original": "I see.  However you accomplished that, I'm impressed.  I hope that you have learned caution and temperance regarding powers from the Beyond.  I can offer any guidance I can, if you accept it.",
-  "translation": "我懂了。不管你怎么做到的，我都印象深刻。我希望你已经学会了谨慎和节制对于来自外部的力量。如果你接受的话，我可以提供我能提供的任何指导。",
+  "translation": "我明白了。不论你是如何做到这一点的，我都感到印象深刻。我希望你已经学会了对来自彼端的力量保持谨慎和节制。如果你接受的话，我可以提供任何我能给予的指导。",
   "context": "ID: TALK_CF_REP_CHOSEN\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_CHOSEN\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "686e31fa3791e65102f7680459bee27a",
@@ -28717,7 +28717,7 @@
  {
   "key": "8741071d77c74cdea0224a304cf237ca",
   "original": "This exists to grant the long-term side effects of Healing, 12 seconds per stamina cost of the spell.",
-  "translation": "此设定旨在为“治疗术”带来长期的附带效果，其持续时间按施法所耗耐力值计算，每点耐力值对应延长12秒。",
+  "translation": "这旨在为“治疗术”带来长期的附带效果，其持续时间按施法所耗耐力值计算，每点耐力值对应延长12秒。",
   "context": "ID: arcana_aftermath_healing_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_aftermath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_aftermath_healing_side_effects\n",
   "stage": 1
  },
@@ -29433,7 +29433,7 @@
  {
   "key": "58f11b478e14f44d810efb0f73951640",
   "original": "This is the integral weapon system for the Anomaly Recon Mech, focusing a small-scale hole in reality into a powerful beam.  Potent but useless against robots and some anomalous monsters, and carries the risk of opening temporary holes in reality.  Activating this weapon will let you launch a dazzling ghostly flare, illuminating an area in exchange for draining fatigue.  This flare will inflict similar forms of supernatural harm on anything caught in its radius.",
-  "translation": "This is the integral weapon system for the Anomaly Recon Mech, focusing a small-scale hole in reality into a powerful beam.  Potent but useless against robots and some anomalous monsters, and carries the risk of opening temporary holes in reality.  Activating this weapon will let you launch a dazzling ghostly flare, illuminating an area in exchange for draining fatigue.  This flare will inflict similar forms of supernatural harm on anything caught in its radius.",
+  "translation": "这是异常侦察机甲配备的内置武器系统，其核心功能是聚焦一小片现实中的裂隙，将其转化为威力强大的光束。尽管此武器对机器人及部分异常生物效果微乎其微，但其开动之时，却有可能在现实中短暂撕扯出漏洞。启动该武器时，您将发射一道炫目光华四射的幽灵耀斑，照亮周围区域，代价则是消耗操作者的体力。这道耀斑所及之处，任何陷入其辐射范围的实体都将遭受同样性质的超自然伤害。",
   "context": "ID: arcana_mech_laser\n位于 /Kenan-Structured-Modpack/Arcana/items/ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GUN→arcana_mech_laser\n",
   "stage": 1
  },
