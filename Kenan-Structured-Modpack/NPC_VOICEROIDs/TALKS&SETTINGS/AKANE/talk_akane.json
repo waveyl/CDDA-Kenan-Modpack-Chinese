@@ -11,7 +11,7 @@
           "follow",
           { "math": [ "n_counter_var_love_points_love_point", "+=", "3" ] },
           { "u_add_var": "know_akane", "type": "flag", "context": "akane_is_friend", "value": "yes" },
-          { "math": [ "n_val('stored_kcal')", "=", "60000" ] },
+          { "math": [ "n_calories()", "=", "60000" ] },
           { "npc_add_var": "uniqe_friend", "type": "flag", "context": "voiro_flag", "value": "yes" }
         ],
         "opinion": { "trust": 1, "value": 1, "fear": -1, "anger": -1 }
