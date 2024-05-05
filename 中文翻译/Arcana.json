@@ -120,9 +120,9 @@
  {
   "key": "b173c1a5965ca16ceba37f4bb2dbacf3",
   "original": "\"Any otherworldly monster must be returned to its true domain, living or dead.\"  That is my duty.  Do not interfere.",
-  "translation": "“所有的异界怪物都必须滚回它的该待的地方，不论生死。”这是我的使命，别拦着我。",
+  "translation": "“所有的异界怪物都必须滚回它该待的地方，不论生死。”这是我的使命，别拦着我。",
   "context": "ID: TALK_MARLOSS_VOICE_INTERLOPERS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MARLOSS_VOICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MARLOSS_VOICE_INTERLOPERS\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "531d9c3be082bc2a61a53882c1bd4048",
@@ -2285,7 +2285,7 @@
  {
   "key": "e7c4242b4c8d33996cd6d7947393308c",
   "original": "A barrier projected by your mech is currently providing resistance to acid and fire, plus immunity to toxic gas.  Also shields you from being blinded, and negates falling damage.",
-  "translation": "一个由你的机甲投射的屏障现在提供了对酸和火的抵抗力，以及对有毒气体的免疫力。同时保护你不被蒙蔽，并抵消坠落伤害。",
+  "translation": "你的机甲投射出的屏障目前正为你提供抗酸和防火能力，同时让你免受有毒气体的影响。还能保护你不被致盲，并消除坠落伤害。",
   "context": "ID: arcana_mech_laser_immunities\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_mech_laser_immunities\n",
   "stage": 1
  },
@@ -8348,21 +8348,21 @@
  {
   "key": "914edb48ea757bfd5feb44f7e9ab079e",
   "original": "Complete immunity to acid damage, in addition to its aftereffects.",
-  "translation": "除了完全的抗酸性损伤外。",
+  "translation": "完全免疫酸性伤害，以及所有后续影响。",
   "context": "ID: acid_ward_true\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→acid_ward_true\n",
   "stage": 1
  },
  {
   "key": "b17ed22635f441b993d709e7cc440086",
   "original": "Complete immunity to fire, and to related side effects.",
-  "translation": "火属性免疫",
+  "translation": "完全免疫火焰伤害，以及所有副作用。",
   "context": "ID: heat_ward_true\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→heat_ward_true\n",
   "stage": 3
  },
  {
   "key": "4aff31269a956d26a00961def28e07fd",
   "original": "Complete immunity to lightning, reduced speed.",
-  "translation": "完全抗闪电，减速。",
+  "translation": "完全免疫点击伤害，但移动速度减缓。",
   "context": "ID: lightning_ward\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→lightning_ward\n",
   "stage": 1
  },
@@ -9934,7 +9934,7 @@
  {
   "key": "6aaae1d26205583a60971f1839e82722",
   "original": "Environmental Shielding",
-  "translation": "环境屏蔽",
+  "translation": "环境护盾",
   "context": "ID: arcana_mech_laser_immunities\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_mech_laser_immunities\n",
   "stage": 1
  },
@@ -15090,14 +15090,14 @@
  {
   "key": "72ca73234e4667f7fe0f9e4354a334a7",
   "original": "Immunity to fall damage.",
-  "translation": "抗坠落伤害。",
+  "translation": "免疫摔落伤害。",
   "context": "ID: feather_fall_dragonblood\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→feather_fall_dragonblood\n",
   "stage": 1
  },
  {
   "key": "d0870c246890cbd1eb75b1940361ad0e",
   "original": "Immunity to food poisoning and parasites, increased hunger gain.  Does not purge pre-existing conditions.",
-  "translation": "对食物中毒和寄生虫有免疫力，增加饥饿感。不会清除预先存在的状况。",
+  "translation": "免疫食物中毒和寄生虫感染，加快饥饿感增加。但不会清除已存在的状况。",
   "context": "ID: revenant_hunger\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→revenant_hunger\n",
   "stage": 1
  },
@@ -16648,14 +16648,14 @@
  {
   "key": "a833ccdf15bcd8030bb2b829931a6ff7",
   "original": "Light seems to warp around you in an unnatural manner, rendering you invisible and protecting against various perception-related hazards.",
-  "translation": "光似乎以一种不自然的方式在你周围扭曲，使你看不见并保护你免受各种与感知有关的危险。",
+  "translation": "光线以一种不自然的方式环绕着你，使你隐形，并保护你免受各种与感知有关的危险。",
   "context": "ID: arcana_invis\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_invis\n",
   "stage": 1
  },
  {
   "key": "ad3625324c29468405ea5c1749796575",
   "original": "Light seems to warp around you in an unnatural manner, rendering you invisible.",
-  "translation": "光似乎以一种不自然的方式在你周围扭曲，使你看不见。",
+  "translation": "光线以一种不自然的方式环绕着你，使你隐形。",
   "context": "ID: arcana_invis_lesser\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_invis_lesser\n",
   "stage": 1
  },
@@ -19550,7 +19550,7 @@
  {
   "key": "e6d33246c53e4ef19c86c14e6ed89445",
   "original": "Most of them will be fresh meat, armed with whatever weapons they were able to scavenge.  Their leader will be dangerous, single them out and pick them off if you get a chance.  Try to drop whoever's keeping watch before they can raise the alarm.  And if you see one of them geared up like they were actually prepared for a proper fight, focus on them immediately.  That's most likely a sanguine shrike.",
-  "translation": "他们中的大多数将是新鲜的肉，装备着他们能够清除的任何武器。他们的领导人会很危险，如果你有机会，把他们挑出来，把他们干掉。在他们发出警报之前，试着把看守的人放下。如果你看到他们中的一个准备好了，好像他们真的准备好了一场正式的战斗，那么立刻关注他们。那很可能是一只乐观的伯劳科鸟。",
+  "translation": "他们中的大多数将是新鲜的肉，装备着他们能够清除的任何武器。他们的领导人会很危险，如果你有机会，把他们挑出来，把他们干掉。在他们发出警报之前，试着把看守的人放下。如果你看到他们中的一个准备好了，好像他们真的准备好了一场正式的战斗，那么立刻关注他们。那很可能是一名猩红教派的屠猎者。",
   "context": "ID: TALK_SHRIKE_MERCHANT_GM_3_THREAT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_SHRIKE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_SHRIKE_MERCHANT_GM_3_THREAT\n",
   "stage": 1
  },
@@ -19835,7 +19835,7 @@
  {
   "key": "16cc22780b8cf304e63bcb68ea01396d",
   "original": "No longer slowed down by heat exhaustion.  You are still vulnerable to the other side effects of heatstroke, and may blister in extreme temperatures.",
-  "translation": "不再因中暑而减速。你仍然容易受到中暑的其他副作用的影响，在极端温度下可能会起水泡。",
+  "translation": "不再因中暑而减速，但仍需警惕中暑的其他副作用，在极端高温下仍可能起水泡。",
   "context": "ID: heat_ward_dragonblood\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→heat_ward_dragonblood\n",
   "stage": 1
  },
@@ -19856,7 +19856,7 @@
  {
   "key": "27faeb946774d7e28f9882e221799044",
   "original": "Not immortality, but it still feels nice.",
-  "translation": "虽然不能永生不朽，但仍然感觉很好。",
+  "translation": "虽然不能永生不朽，但感觉确实不错。",
   "context": "ID: potion_healing\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→potion_healing\n",
   "stage": 1
  },
@@ -20306,7 +20306,7 @@
  {
   "key": "4309cfaea5f0b7440bd7c6be13a3420f",
   "original": "One of Elena's shrikes said to tell you that.",
-  "translation": "伊莲娜的一只伯劳科鸟说要告诉你这个。",
+  "translation": "伊莲娜的一名屠猎者说要告诉你这个。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_PASSWORD\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_PASSWORD\n",
   "stage": 3
  },
@@ -20502,21 +20502,21 @@
  {
   "key": "f31a93267a81baade192f53ca1b90a19",
   "original": "Otherworldly Offering",
-  "translation": "超凡脱俗",
+  "translation": "异界奉献",
   "context": "ID: chalice_offering_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→chalice_offering_side_effects\n",
   "stage": 1
  },
  {
   "key": "18581e170de22083621522ca8f458c88",
   "original": "Otherworldly Sickness",
-  "translation": "超自然疾病",
+  "translation": "异界病态",
   "context": "ID: chalice_offering_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→chalice_offering_side_effects\n",
   "stage": 1
  },
  {
   "key": "334f913670269f743571f433245ddb52",
   "original": "Otherworldly Weakness",
-  "translation": "超自然的弱点",
+  "translation": "异界虚弱",
   "context": "ID: chalice_offering_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→chalice_offering_side_effects\n",
   "stage": 1
  },
@@ -22435,14 +22435,14 @@
  {
   "key": "c29a29d0e94034edf45aba1aaef8afd8",
   "original": "Revenant Blood",
-  "translation": "报应血",
+  "translation": "复仇之血",
   "context": "ID: dragonblood_clarity\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→dragonblood_clarity\n",
   "stage": 1
  },
  {
   "key": "5ba0ff0c69f0249ca7967a37e4e8caa1",
   "original": "Revenant Hunger",
-  "translation": "亡魂般饥饿",
+  "translation": "亡灵般饥渴",
   "context": "ID: revenant_hunger\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→revenant_hunger\n",
   "stage": 1
  },
@@ -23205,7 +23205,7 @@
  {
   "key": "0b8dd5121adbdbe77e7a5306bd2a0ccc",
   "original": "Shrike Mission Marker",
-  "translation": "伯劳任务印记",
+  "translation": "屠猎者任务印记",
   "context": "ID: SHRIKE_MISSION_MARKER\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_other.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SHRIKE_MISSION_MARKER\n",
   "stage": 1
  },
@@ -23922,7 +23922,7 @@
  {
   "key": "681e394f86e9f5f9401a00b961112ff0",
   "original": "So one of the shrikes sent you?  Have they strayed from The Path?  What is the meaning of this?",
-  "translation": "一只伯劳科鸟派你来的？他们已经偏离正轨了吗？这是什么意思？",
+  "translation": "屠猎者的人派你来的？他们已经偏离正轨了吗？这是什么意思？",
   "context": "ID: TALK_BLOOD_MAGE_APPRENTICE_PASSWORD_NORMAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_APPRENTICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_APPRENTICE_PASSWORD_NORMAL\n",
   "stage": 3
  },
@@ -27094,7 +27094,7 @@
  {
   "key": "3a97ba495df36401994163bee07ac804",
   "original": "The otherworldly adrenaline running through you fades.",
-  "translation": "你体内那超凡脱俗的肾上腺素消失了。",
+  "translation": "贯穿你体内的异界肾上腺素逐渐消散。",
   "context": "ID: adrenaline_arcana\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→adrenaline_arcana\n",
   "stage": 1
  },
@@ -29704,7 +29704,7 @@
  {
   "key": "30a74ed1ef3c007428eb6649126174b3",
   "original": "This trait singles out a specific Sanguine Shrike NPC as the focus of a mission, altering their dialogue.",
-  "translation": "这一特点使得一个特定的血质伯劳鸟NPC作为任务的焦点，改变了他们的对话。",
+  "translation": "这一特点使得一个特定的血质屠猎者NPC作为任务的焦点，改变了他们的对话。",
   "context": "ID: SHRIKE_MISSION_MARKER\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_other.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SHRIKE_MISSION_MARKER\n",
   "stage": 1
  },
@@ -33400,7 +33400,7 @@
  {
   "key": "d4218f9d54b8c5b72f56de772c925b61",
   "original": "You can feel a soothing sensation lingering after applying salve to your wounds.",
-  "translation": "在你的伤口涂上药膏后，你会感觉到一种舒缓的感觉挥之不去。",
+  "translation": "涂上药膏后，你能感觉到一种舒缓的感觉在伤口处挥之不去。",
   "context": "ID: potion_vulnerary\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→potion_vulnerary\n",
   "stage": 1
  },
@@ -33675,7 +33675,7 @@
  {
   "key": "4cb0229cfa4bacda46f3bcce65998ed7",
   "original": "You feel a faint sense of relief wash over you.",
-  "translation": "你感到一种淡淡的解脱感笼罩着你。",
+  "translation": "你感到一丝淡淡的慰藉涌上心头。",
   "context": "ID: archon_gaze_effect\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→archon_gaze_effect\n",
   "stage": 1
  },
@@ -33819,9 +33819,9 @@
  {
   "key": "4f00dcf7192e23e23e23b20582049383",
   "original": "You feel mighty, like you could take on the world.",
-  "translation": "你的身体变得更强壮，你感觉自己随时准备好直面这个世界了。",
+  "translation": "你觉得自己力大无穷，仿佛能征服全世界。",
   "context": "ID: potion_strength\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→potion_strength\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f989b39b94769b5c3520886adb5dbec3",
@@ -33833,7 +33833,7 @@
  {
   "key": "fb5c0dcd26235f8be8670a6e48d3efcf",
   "original": "You feel numb, hit with the sheer weight of the unnatural magic fading.",
-  "translation": "你感觉麻木了，被非自然魔法的重量所击退。",
+  "translation": "你感到麻木，被渐渐消散的不自然魔法的重量击中。",
   "context": "ID: spell_eclipse\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→spell_eclipse\n",
   "stage": 1
  },
@@ -33847,7 +33847,7 @@
  {
   "key": "337d5dfb4028d8df73dd4c9b486b6fc9",
   "original": "You feel sluggish as your magically-induced agility leaves you.",
-  "translation": "当你的魔法感应敏捷离开你时，你会感到迟钝。",
+  "translation": "随着魔法敏捷离你而去，你感到逐渐迟缓。",
   "context": "ID: spell_agility\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→spell_agility\n",
   "stage": 1
  },
@@ -34825,7 +34825,7 @@
  {
   "key": "32e6ba33477615de93d015620ee4d6ad",
   "original": "You should know how dangerous the Shrikes are, sanguinist.  I doubt you'll be able to just walk in and charm them into giving us what we need, but you're welcome to try.  Personally I'd suggest you err on the side of caution.",
-  "translation": "你应该知道伯劳有多危险，乐观主义者。我怀疑你是否能走进来，引诱他们给我们我们所需要的，但欢迎你试试。我个人建议你谨慎行事。",
+  "translation": "你应该知道屠猎者有多危险，猩红教徒。我怀疑你是否能走进来，引诱他们给我们所需要的，但欢迎你试试。我个人建议你谨慎行事。",
   "context": "ID: TALK_CF_GM_ADVICE_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_ADVICE_3\n",
   "stage": 1
  },
