@@ -99,7 +99,7 @@
  {
   "key": "5b1d0ad1c247793a8b344b440601bfdb",
   "original": "\"All things are of nature, born from the mother who shines upon both finite and infinite.\"  Would you truly wish harm upon the blessing we have been given?",
-  "translation": "\"万物皆源于自然，诞生于那位照耀有限与无限的母亲之手。”你真的愿意破坏我们得到的祝福吗？",
+  "translation": "\"万物皆源于自然，诞生于那位照耀有限与无限的母亲之手。”你真的希望破坏我们得到的祝福吗？",
   "context": "ID: TALK_MARLOSS_VOICE_INTERLOPERS_CLEANSINGFLAME\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MARLOSS_VOICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MARLOSS_VOICE_INTERLOPERS_CLEANSINGFLAME\n",
   "stage": 3
  },
@@ -2951,7 +2951,7 @@
  {
   "key": "b4d45cf65fc786b8e7c13ae15cc99e72",
   "original": "A flood of strange awareness has filled your mind.  Your intelligence has been temporarily augmented by magic, aiding spellcasting and crafting.",
-  "translation": "一股奇怪的意识充斥着你的脑海。你的智力暂时被魔法增强，有助于施法和制造。",
+  "translation": "一股奇异的意识洪流充盈了你的脑海。你的智力暂时被魔法增强，有助于施法和制造。",
   "context": "ID: spell_revelation\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→spell_revelation\n",
   "stage": 3
  },
@@ -8348,9 +8348,9 @@
  {
   "key": "914edb48ea757bfd5feb44f7e9ab079e",
   "original": "Complete immunity to acid damage, in addition to its aftereffects.",
-  "translation": "完全免疫酸性伤害，以及所有后续影响。",
+  "translation": "完全免疫酸液伤害，以及所有后续影响。",
   "context": "ID: acid_ward_true\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→acid_ward_true\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b17ed22635f441b993d709e7cc440086",
@@ -8362,14 +8362,14 @@
  {
   "key": "4aff31269a956d26a00961def28e07fd",
   "original": "Complete immunity to lightning, reduced speed.",
-  "translation": "完全免疫点击伤害，但移动速度减缓。",
+  "translation": "完全免疫电击伤害，但移动速度减缓。",
   "context": "ID: lightning_ward\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→lightning_ward\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7d7db0e70e7e86ed266c4e62302bb173",
   "original": "Complete immunity to lightning.",
-  "translation": "电属性免疫",
+  "translation": "免疫电击伤害",
   "context": "ID: lightning_ward_true\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→lightning_ward_true\n",
   "stage": 3
  },
@@ -9414,28 +9414,28 @@
  {
   "key": "0918860b619afc6068781980fb3f0455",
   "original": "Draconic Exertion",
-  "translation": "龙形耗能",
+  "translation": "龙裔之力",
   "context": "ID: sanguine_mark_burnout\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→sanguine_mark_burnout\n",
-  "stage": 3
+  "stage": 1
  },
  {
   "key": "d530f826da449518a6700634af280fb3",
   "original": "Draconic Hind Limbs",
   "translation": "龙形后肢",
   "context": "ID: ARCANA_DRAGONLEGS\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONLEGS\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "94c4204094fab6d77f20ba216d8dd967",
   "original": "Draconic Muzzle",
   "translation": "龙形口鼻",
   "context": "ID: ARCANA_DRAGONMUZZLE\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONMUZZLE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "22c720cbcdd24ee3383a793801d00b4a",
   "original": "Draconic Plating",
-  "translation": "龙形板甲",
+  "translation": "板状龙鳞",
   "context": "ID: ARCANA_PLATES\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_PLATES\n",
   "stage": 3
  },
@@ -9444,21 +9444,21 @@
   "original": "Draconic Scales",
   "translation": "龙鳞",
   "context": "ID: ARCANA_DRAGONSCALES\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONSCALES\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c693a7ebbe93b069b2cc7b55ff00810d",
   "original": "Draconic Tail",
   "translation": "龙尾",
   "context": "ID: ARCANA_DRAGONTAIL\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONTAIL\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "33e38a12abf70700e4a8184a55a1d4bb",
   "original": "Draconic Wings",
   "translation": "龙翼",
   "context": "ID: feather_fall_dragonblood\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→feather_fall_dragonblood\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d5d1239f0ac054c89baa1cd9950503db",
@@ -9711,9 +9711,9 @@
  {
   "key": "62711d8402233e9067e80e60b208b128",
   "original": "Elemental Affinity",
-  "translation": "元素亲和力",
+  "translation": "元素亲和",
   "context": "ID: heat_ward_dragonblood\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→heat_ward_dragonblood\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "810b363383894829855015c9059bf908",
@@ -12483,9 +12483,9 @@
  {
   "key": "ceb4b9a08a333898cf953cc4a16e4e54",
   "original": "I do not know how to slay this enemy, Chosen.  But there is always an option.  No matter how desperate things may seem.  He From Beyond The Veil has no doubt conferred many blessings upon you, some may prove useful tools to aid you in your time of need, and no doubt many other weapons may be at your disposal.  I am hopeful then, that perseverance will see you through long enough to find your answer.",
-  "translation": "我不知如何杀死这个敌人，被拣选者。但不论眼下多么束手无策，你还有后路一条。帷幕彼端的祂必然给予你许多祝福，有些能在你需要的时候帮你大忙，而且必然还有许多武器任你使用。我希望你能坚持下去，直至你取得自己的答案。",
+  "translation": "我不知道如何消灭这敌人，被拣选者，但总会有办法的。无论情况多么绝望，帷幕彼端的祂必然赐予你诸多祝福，有些能在你危难关头帮你大忙，而且必然还有其它许多种武器你可用。我满怀希望，坚持到底将使你撑过这段时日，直到找到你的答案。",
   "context": "ID: TALK_HERMIT_GM_4_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_GM_4_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c5ccd77c2ad97ce0d3b5d0fc91b7d1fd",
@@ -13194,16 +13194,16 @@
  {
   "key": "7f449baf4544e8ead97fbcc3595dd5ce",
   "original": "I see.  I can tell in your eyes young one, and sense it in my heart.  Another of our faithful.  If this is true, then you understand our shared mission.  I am sorry for deceiving you, but one can never be too cautious these days.  Come, we have much to discuss.",
-  "translation": "我懂了。我能从你的眼睛里看出一个年轻人，在我的心里能感觉到。我们的另一个信徒。如果这是真的，那么你理解我们的共同使命。我很抱歉欺骗了你，但现在谁也不能太谨慎。来吧，我们有很多事情要讨论。",
+  "translation": "我懂了。年轻人，从你的眼神中我能看出来，在我心里也能感受到。又是一位忠诚的信徒。如果真是这样，那你一定明白我们共同的使命。对于欺骗了你，我感到抱歉，但在这个时代，谨慎些总不会错。来吧，我们有许多事情需要讨论。",
   "context": "ID: TALK_HERMIT_BOOK_RELIGIOUS_CHALICE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_BOOK_RELIGIOUS_CHALICE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "82afaf53c99d0315f548c5177a1f19d4",
   "original": "I see.  I did not quite recognize that fire in your eyes, the presence which guides you.  If this is true, and you are indeed acting on their behalf, then I will trust you.  What do they pursue?",
-  "translation": "我懂了。我不太认识你眼中的火焰，那指引你的存在。如果这是真的，而且你确实代表他们行事，那么我就相信你。他们追求什么？",
+  "translation": "我明白了。之前未曾注意到你眼中的那份火光，以及指引着你的那个存在。倘若此言属实，你确实是在为他们行事，那我愿意信任你。他们追求的是什么？",
   "context": "ID: TALK_HERMIT_CF_REP_MISSION_CHOSEN\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_CF_REP_MISSION_CHOSEN\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "27d897f7b3339cc7f2b678642eb2acf0",
@@ -13215,16 +13215,16 @@
  {
   "key": "fc41ed261e03c3daa4a90b9f3e45fafb",
   "original": "I see.  I have another thing to ask about.",
-  "translation": "我懂了。我还有一件事要问。",
+  "translation": "我明白了。我还有另一件事想问。",
   "context": "ID: TALK_HERMIT_DISCUSS_4_BETRAYAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_4_BETRAYAL\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a000da21e93b0250b5e5cb7b511efabc",
   "original": "I see.  I have something else to ask you about the place.",
-  "translation": "我懂了。关于这个地方我还有别的事要问你。",
+  "translation": "我明白了。我还有想问问你关于这个地方的情况。",
   "context": "ID: TALK_CF_REP_JOHNATHAN_ADVICE_1_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_JOHNATHAN_ADVICE_1_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e7fec76007d38a9b5155a67c4cc4fd79",
@@ -13236,9 +13236,9 @@
  {
   "key": "bac2e4a106faacdac77af2f0bb2858d1",
   "original": "I see.  I think…",
-  "translation": "我懂了。我想…",
+  "translation": "我明白了。我想…",
   "context": "ID: TALK_CF_REP_ARCANE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_ARCANE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3651f22c84901b588531dca73278ae8c",
@@ -13376,9 +13376,9 @@
  {
   "key": "592d5a0797609ba8f2e6f04cd14b5cf8",
   "original": "I see.  Well, the truth is laid bare for you it seems, the nature of my studies.  If you wish, I will answer your questions.  And I may have something for you to do.",
-  "translation": "我懂了。好吧，事实已经向你暴露了，我学习的源质。如果你愿意，我会回答你的问题。我可能有事要你做。",
+  "translation": "我明白了。看来真相已对你展露无遗，关于我研究的性质。如果你愿意，我可以回答你的问题。并且，我或许有件事需要你去做。",
   "context": "ID: TALK_HERMIT_MASK_NOT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_MASK_NOT\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "78b5df6605afd0ef2ea62ea349cfbddb",
@@ -13418,9 +13418,9 @@
  {
   "key": "0f1ef4481a96e688b76da9f66e5f1e9e",
   "original": "I should've suspected as such.  It has been so long since I have seen one of those masks.  But do you wear it with purpose?",
-  "translation": "我应该这么怀疑的。我已经很久没见过那种面具了。但你是故意穿的吗？",
+  "translation": "我本该有所预料的。这么久以来我都没再见那样的面具了。但你佩戴它，是故意的吗？",
   "context": "ID: TALK_HERMIT_MASK_REVEAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_MASK_REVEAL\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d4127f0d8f6423b3ec1fe6e2ec695719",
@@ -13439,9 +13439,9 @@
  {
   "key": "851b5b57179e5e80bafa542eeb246019",
   "original": "I suppose you have a point there.  New people come in every so often, giving them details on another place to go must ease a bit of burden here.  I'll see what I can do, what can you tell me about them?",
-  "translation": "我想你说得有道理。新来的人经常来，给他们提供另一个地方的详细信息，一定能减轻这里的负担。我看看我能做些什么，你能告诉我些什么？",
+  "translation": "我想你说得有道理。隔三差五就有新来的人，给他们提供另一个地方的详细信息，应该能减轻这里的一些压力。我会尽力而为，你能告诉我他们的情况吗？",
   "context": "ID: TALK_RANCH_CROP_OVERSEER_CF_REP_MISSION_4_CONTACT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_CROP_OVERSEER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_CROP_OVERSEER_CF_REP_MISSION_4_CONTACT\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "681156a6aef15a8a02a07e752e09f9a9",
@@ -13467,16 +13467,16 @@
  {
   "key": "42c87917037fac97f6c101fcde10ed9c",
   "original": "I think I might be able to help track the cause down, actually.",
-  "translation": "实际上，我想我可以帮你找出原因。",
+  "translation": "实际上，我认为我或许能帮上忙，找出问题的根源。",
   "context": "ID: TALK_CF_GM_PRELUDE_4_ATTACKS_2_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_PRELUDE_4_ATTACKS_2_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "97feb47e1174098518eeda3a4db18aaa",
   "original": "I think I see the problem.  Let me guess, quit the Order, found religion, and now the Keepers' little friend is pulling your strings?  \"No god, no demon, no spirit can be trusted with power over you.\"  You've compromised your principles, friend.",
-  "translation": "我想我看到了问题所在。让我猜猜，退出秩序，找到了宗教信仰，现在看守者的小朋友在牵线搭桥？”没有上帝，没有恶魔，没有灵魂可以信任你。“你已经妥协了你的原则，朋友。",
+  "translation": "我想我看出问题所在了。让我猜猜，你退出了教会，找到了新的信仰，现在守誓者的那个小东西在操控你？“不论是神、恶魔还是精灵，都不应被赋予控制你的权力。”你违背了自己的原则，朋友。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_MISGUIDED\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_MISGUIDED\n",
-  "stage": 1
+  "stage": 2
  },
  {
   "key": "8a46ecce0216bca4ecde04ecd010076a",
@@ -13542,23 +13542,23 @@
  {
   "key": "e0ae89babf4417d84e04666a9feea871",
   "original": "I understand.  Come back when you are prepared.",
-  "translation": "我知道了。等你准备好了再回来吧。",
+  "translation": "我了解了。等你准备好了再来吧。",
   "context": "ID: MISSION_CF_GM_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_GM_3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "0b54cdae259a672eb1be7e5bed556c11",
   "original": "I understand.  The threat that defiles the old temple is not to be underestimated.  If I felt I could make the journey, I would attempt it myself, even if I failed I could die knowing I did the right thing.  Seek my guidance if you change your mind.",
-  "translation": "我理解。玷污古庙的威胁不容小觑。如果我觉得我可以踏上旅程，我会自己去尝试，即使失败了，我也会因为知道自己做了正确的事而死去。如果你改变主意，找我指点。",
+  "translation": "我明白。亵渎古老神庙的威胁不容小觑。如果我觉得自己能完成这趟旅程，我会亲自去尝试。即便失败，我也能死而无憾，因为我做了正确的事情。如果你改变主意，随时来寻求我的指引。",
   "context": "ID: MISSION_HERMIT_RETRIEVE_SWORD\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_HERMIT_RETRIEVE_SWORD\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "046a733036d055204d9becbc70d013e4",
   "original": "I understand.  There is much to be done even here.  Still, I suspect I'll be busy here for much longer than I expected, so if you get the chance please see me about it.  I don't have much to offer in return, but I'll scrounge up what I can.",
-  "translation": "我理解。即使在这里也有很多事情要做。不过，我想我在这里要忙的时间比我预期的要长得多，所以如果你有机会，请找我谈谈。我没有什么可供回报的，但我会尽我所能去争取。",
+  "translation": "我明白。即便在这里，也有许多事情要做。我怀疑我会比预期忙碌得更久，所以如果你有机会，请来找我。我能提供的并不多，但我会尽力筹集一些东西回报你。",
   "context": "ID: MISSION_CF_DEACON_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_DEACON_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f4182c0df38a18edc51a3c219e2a553d",
@@ -13584,9 +13584,9 @@
  {
   "key": "5f98a45252cceff640ceafed52116da3",
   "original": "I was asked to bring back any research that would help us.",
-  "translation": "我要我们做的任何研究都能帮上忙。",
+  "translation": "我被要求带回任何能帮助我们的研究资料。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1c5907d489fd28a2860b205c8545959d",
@@ -13605,16 +13605,16 @@
  {
   "key": "c9c9f4f1a7c38a8d653a6e68350b54af",
   "original": "I was on a hunt.  Not much to say about that, just another mage hunter making trouble.  Didn't get to finish my business with them.",
-  "translation": "我在打猎。没什么好说的，只是又一个法师猎人在捣乱。没能完成我和他们的生意。",
+  "translation": "我那时在执行一次捕猎任务。关于这个没太多可说的，不过是又遇到了一个制造麻烦的法师猎人。没能和他们把事情了结。",
   "context": "ID: BGSS_BLOOD_MAGE_2_STORY1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_BLOOD_MAGE_2_STORY1\n",
   "stage": 1
  },
  {
   "key": "066e05eafc3af88a813f4ea7fd964350",
   "original": "I was one of their enemies.  What does that tell you?",
-  "translation": "我是他们的敌人之一。这说明了什么？",
+  "translation": "我是他们的敌人之一。这告诉了你什么？",
   "context": "ID: TALK_HERMIT_CF_REP_MISSION\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_CF_REP_MISSION\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ee70cfba41571b16dc6f2763383b2153",
@@ -13626,7 +13626,7 @@
  {
   "key": "e96cb6d09879ab1b84f592308d00fd05",
   "original": "I was sent by the deacon at the refugee center, to check up on you.",
-  "translation": "我是被难民中心的执事派来检查你的。",
+  "translation": "我是难民营救济处的执事派来查看你的状况的。",
   "context": "ID: TALK_CF_REP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP\n",
   "stage": 1
  },
@@ -13640,9 +13640,9 @@
  {
   "key": "6593300b04666785a2575ec9b3e4801f",
   "original": "I was told about this place by the merchant at the refugee center, and decided to see if things are any better here.",
-  "translation": "难民中心的商人告诉我这个地方的情况，决定看看这里的情况是否好转。",
+  "translation": "我在难民营的商人那里听说了这个地方，决定来看看这里的情况是否有所好转。",
   "context": "ID: TALK_CF_REP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1ed508734cbd66801c650b7a8c9a33e8",
@@ -13794,9 +13794,9 @@
  {
   "key": "55a8e06236d56e003d5fa2423270a897",
   "original": "I …see.  Never mind.",
-  "translation": "我…明白了。没事。",
+  "translation": "我…明白了。没事了。",
   "context": "ID: TALK_CF_REP_VEIL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_VEIL\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1322b10e5c055dc5a389a18852e09c49",
@@ -13822,9 +13822,9 @@
  {
   "key": "41dd8c38ea02e7c9c1c5dfd8f2318b04",
   "original": "I'd like to ask about something else, please.",
-  "translation": "我能问点别的事情吗？",
+  "translation": "我想问点别的事情。",
   "context": "ID: TALK_CF_REP_JOHNATHAN_ADVICE_2_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_JOHNATHAN_ADVICE_2_3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c3aa22de9a063789ed245ab9ddb91e6c",
@@ -14095,9 +14095,9 @@
  {
   "key": "2c609926a4e1ccbc454eb56a6a255fd9",
   "original": "I'll look into alternatives then.  Thank you though.",
-  "translation": "那么我会研究其他的选择。不过还是谢谢你。",
+  "translation": "我会考虑其他选择的。不过还是谢谢你。",
   "context": "ID: TALK_OLD_GUARD_REP_CF_MISSION_4_CF2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_OLD_GUARD_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_OLD_GUARD_REP_CF_MISSION_4_CF2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "77caafac620d4055c9c019591260b08c",
@@ -14144,7 +14144,7 @@
  {
   "key": "f5de4ab2bf218b239889fce660f62f69",
   "original": "I'll see about this another time.",
-  "translation": "之后我会处理的。",
+  "translation": "我下次再考虑吧。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER_BLADE_CF_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER_BLADE_CF_2\n",
   "stage": 3
  },
@@ -14165,9 +14165,9 @@
  {
   "key": "c273bc9d1f16af96798a4a55c0dccf6a",
   "original": "I'll see what I can do to help.  We can't afford to lose such valuable information.",
-  "translation": "我看看能帮上什么忙。我们可不能放过这么有价值的信息。",
+  "translation": "我看看能帮上什么忙。我们可不能错过这么有价值的信息。",
   "context": "ID: TALK_CF_AUX_MAGE_HOARD\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MAGE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MAGE_HOARD\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e273f918483cda2578a8a2cd3a7c9c01",
@@ -14200,9 +14200,9 @@
  {
   "key": "f1a9792f1528a446c57b842f9d17ffbf",
   "original": "I'll try to figure it out.",
-  "translation": "我会设法弄清楚的。",
+  "translation": "我会想办法弄清楚的。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER_BLADE_HELP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER_BLADE_HELP\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9e76afa0117533e06a3ad671d4aa6899",
@@ -14352,9 +14352,9 @@
  {
   "key": "97b92cb9b2faffaad7b37d933eeaead8",
   "original": "I'm guessing the town was overrun.",
-  "translation": "我猜这个镇已经被占领了。",
+  "translation": "我猜这个小镇已经被占领了。",
   "context": "ID: BGSS_CF_2_STORY1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_CF_2_STORY1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4ece5d6457440c922675e340d435f107",
@@ -14366,9 +14366,9 @@
  {
   "key": "6ceda8cf020ea6b794a150ecec66b85f",
   "original": "I'm impressed, young one.  He From Beyond The Veil has sought to bring us hope in these dark times.  To see such a thing, after all that has come to pass, is a relief to my old heart.  Come, we will have much to discuss.",
-  "translation": "我印象深刻，年轻人。帷幕彼端的祂寻求在这些黑暗的时代给我们带来希望。看到这样的事情，毕竟已经过去了，我的旧心松了一口气。来吧，我们有很多事情要讨论。",
+  "translation": "后生可畏啊，那位帷幕彼端的祂试图在这漆黑时代为我们带来希望。经历过如此种种，能目睹这般景象，着实让我这把老骨头感到慰藉。来吧，我们有许多事情需要商讨。",
   "context": "ID: TALK_HERMIT_DISCUSS_3_BACKDOOR_COMPLETE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_BACKDOOR_COMPLETE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bd4841d47bb510fbb8568a4a4b2a012e",
@@ -14380,9 +14380,9 @@
  {
   "key": "f89841e7f54b7de466ddcf9a55aee626",
   "original": "I'm just a ol' hired hand.  So long as there's good pay, I do what needs t' be done.",
-  "translation": "我只是个老雇工。只要有好的薪水，我就做不该做的事。",
+  "translation": "我不过是个老雇工，只要有够好的报酬，需要干的活儿我从不推辞。",
   "context": "ID: TALK_CF_AUX_MERC_WHO\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MERC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MERC_WHO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "54cc58285654b623a8053c469f65f173",
@@ -14457,23 +14457,23 @@
  {
   "key": "f3d3d97840669df1556ce2ccb8bfeb09",
   "original": "I'm not here to fight you.",
-  "translation": "我不是来和你打架的。",
+  "translation": "我不是来和你战斗的。",
   "context": "ID: TALK_CF_REP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8d591832d2b4050f72bae296def0abf4",
   "original": "I'm not in charge here, sorry.",
-  "translation": "这儿不归我管，抱歉。",
+  "translation": "这儿可不归我管，抱歉。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4336c9c3e26328c147faed30b166d542",
   "original": "I'm not one of the mage hunters actually, but I've learned the usefulness of these items.",
-  "translation": "其实我不是法师猎人，但我已经学会了这些东西的用法。",
+  "translation": "我不是真正的法师猎人，但我学到了这些东西的实质作用。",
   "context": "ID: TALK_HERMIT_MASK_REVEAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_MASK_REVEAL\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e6c8584bf8ee24581e950d9d04357bf1",
@@ -14499,9 +14499,9 @@
  {
   "key": "c893b73fb65bc73d59c22d87f9c7ab56",
   "original": "I'm not sure how much of that intel you've been privy to, but you surely saw it more closely than I did.  A contaminant with its origins in the cities, that's likely to blame for the initial wave of deaths.  Likely from Beyond The Veil, as the abominations are, but other than reasonable evidence the cause wasn't arcane in origin, we have nothing but guesswork to go on.",
-  "translation": "我不知道你知道多少情报，但你肯定比我看得更近。一种来源于城市的污染物，很可能是造成最初一波死亡的罪魁祸首。很可能来自帷幕彼端，就像那些可憎的东西一样，但是除了合理的证据，原因不是神秘的，我们只有猜测。",
+  "translation": "我不确定你了解多少情况，但你观察到的肯定比我更细致。城市中出现了一种污染物，很可能是造成最初死亡潮的罪魁祸首。它可能也源自彼端，就像那些可憎之物一样，不过除了有合理证据表明其起因并非奥术之外，我们只能靠猜测来推测了。",
   "context": "ID: BGSS_CF_1_IDEAS2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_CF_1_IDEAS2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e8f499fc35c0ad1a7d1b21db006dfdd",
@@ -14527,21 +14527,21 @@
  {
   "key": "e530af2d92e4b5165931b55d3ff53c20",
   "original": "I'm not that familiar with this place, only really found out about it from other survivors.  Some with experience in otherworldly matters, who could confirm this place was a refuge for others who seek knowledge.",
-  "translation": "我对这个地方不太熟悉，只是从其他幸存者那里了解到的。一些有着超凡脱俗经验的人，谁能证实这个地方是其他求知者的避难所。",
+  "translation": "我对这个地方不太熟悉，主要是从其他幸存者那里听说的。他们中有些人在超自然事务上颇有经验，能确认这里是其他求知者的避难所。",
   "context": "ID: TALK_CF_AUX_MAGE_WHERE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MAGE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MAGE_WHERE\n",
   "stage": 1
  },
  {
   "key": "f4380e3022350e255a4ce18bc9799cc1",
   "original": "I'm one of then, actually.  We have a common interest, doing our best to ensure humanity's survival.  We have our ways, rooted in the otherworldly though they are.",
-  "translation": "实际上，我也是其中之一。我们有共同的利益，尽我们最大的努力确保人类的生存。我们有自己的方式，虽然它们是根植于超自然的。",
+  "translation": "实际上，我就是其中之一。我们有着共同的利益，尽我们所能确保人类的存续。我们的方法虽然是超自然的，但却是切实有效的。",
   "context": "ID: TALK_OLD_GUARD_REP_CF_MISSION_4_CHURCH\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_OLD_GUARD_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_OLD_GUARD_REP_CF_MISSION_4_CHURCH\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7990355e00d0ee1706b5211da03fcc9a",
   "original": "I'm plenty measured in my practice, and I think you'd look better with a bit of said backstabbing.",
-  "translation": "在我的练习中，我很有分寸，我想你再多说点背后的话会让你看起来更好。",
+  "translation": "我在实践时总是谨慎有度，而且我认为若你能对背后捅刀子这事儿多点防备，形象会更好些。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_FAILURE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_FAILURE\n",
   "stage": 1
  },
@@ -14564,14 +14564,14 @@
   "original": "I'm sorry.  I'll be leaving…",
   "translation": "我很抱歉。我要走了…",
   "context": "ID: TALK_HERMIT_DISCUSS_3_FAIL_TENET\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_FAIL_TENET\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab4db18754c1fb906794678d60d2ad8e",
   "original": "I'm sorry.  Is there any way to atone for this?",
-  "translation": "我很抱歉。有什么办法弥补吗？",
+  "translation": "我很抱歉。有什么方法可以弥补这个过错吗？",
   "context": "ID: TALK_HERMIT_DISCUSS_1_HAPPENED\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_1_HAPPENED\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8f87669c88418ffcd0cd232259e02c2e",
@@ -14590,16 +14590,16 @@
  {
   "key": "37052b834d1dc1a6a527473f9dc2078a",
   "original": "I'm watching you.  What are you here for?",
-  "translation": "我会盯着你。你在这儿干什么？",
+  "translation": "我在盯着你。你到这儿来干什么？",
   "context": "ID: TALK_MAGE_HUNTER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MAGE_HUNTER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "615066624d1c399775d082bb1920c456",
   "original": "I'm well past my prime.  You've already proven yourself capable and worthy of His favor.  Better that I do what I can, to guide you down the right path.",
-  "translation": "我已经过了青春年华。你已经证明了自己的能力，值得他的青睐。我最好尽我所能，引导你走上正确的道路。",
+  "translation": "我早已年华逝去，光辉不再。你已经证明了自己的能力和值得祂的青睐。还是让我尽我所能，指引走上正确的道路。",
   "context": "ID: TALK_HERMIT_DISCUSS_3_ANOTHER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_ANOTHER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "59df18df07dbf2354b7564558f8eebf1",
@@ -14625,30 +14625,30 @@
  {
   "key": "eb3fc9f239ef06eeda29055fa15f6857",
   "original": "I've been a lot of things in the past, but now I am nothing more than a survivor as any other.  A scholar I suppose, as I've little to do but read what the old world has left behind.",
-  "translation": "我只是过去的幸存者。我想我是个学者，因为我除了读旧世界留下的东西外，几乎没什么可做的。",
+  "translation": "在过去，我曾扮演过许多角色，但现在我和其他人一样，仅仅是个幸存者。或许也算个学者吧，因为我除了阅读旧世界遗留下的东西，别无他事可做。",
   "context": "ID: TALK_HERMIT_WHO\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_WHO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9c08cdce5278d551de835bf437d8f2dd",
   "original": "I've been a part of their group since before things boiled over.  We were focused on hunting down and dealing with some of the anomalies that began to show up in the months leading up to this.",
-  "translation": "在事情还没结束之前，我就已经是他们小组的一员了。我们专注于寻找和处理一些异常现象，这些异常现象在这之前的几个月里开始显现出来。",
+  "translation": "早在事态全面爆发之前，我就已经是他们团队的一员了。我们专注于追捕和处理在这一切发生前几个月开始出现的一些异常现象。",
   "context": "ID: TALK_OLD_GUARD_REP_CF_MISSION_4_CHURCH\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_OLD_GUARD_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_OLD_GUARD_REP_CF_MISSION_4_CHURCH\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6da2683dd1fea1350eb447a0ff8d9aa4",
   "original": "I've been in that part of the countryside before, and what I saw in the dream definitely wasn't there back then.  Looked a bit more dangerous but there might be something valuable to make up for it.  And if there's nothing there, fine by me.  Would mean those dreams are just that, and nothing meaningful.",
-  "translation": "我以前去过乡下的那个地方，我在梦里看到的肯定不在那时候。看上去有点危险，但也许有什么值得弥补的。如果什么都没有，我很好。意味着那些梦就是这样，没有任何意义。",
+  "translation": "我以前去过那个乡下的地方，而当时在梦里看到的东西也绝对不在那里。看上去更危险了些，但也许会有价值连城的宝贝作为补偿。如果那里什么都没有，我也无所谓。那就意味着那些梦仅仅是梦，没有任何实际意义。",
   "context": "ID: MISSION_FIND_HERMIT_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_FIND_HERMIT_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "40b47c9d9e8eecde8d7a033e91d1c501",
   "original": "I've been sent to ask about recent attacks on survivors by anomalous creatures.  Know anything about that?",
-  "translation": "我被派去询问最近有什么异常生物袭击幸存者。知道吗？",
+  "translation": "我被派来询问有关近期异常生物袭击幸存者的事。你知道这方面的情况吗？",
   "context": "ID: TALK_SCIENCE_REP\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_SCIENCE_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_SCIENCE_REP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b0e68ace8dd5632588a7d61b518493a8",
@@ -14660,9 +14660,9 @@
  {
   "key": "0a7620d8ccb2c6edbefd07671aea6a02",
   "original": "I've heard a bit, got intel on one in fact.  Old associate of mine came back telling tall tales of weird shadow monsters, coming out of the woodwork in this one raider hideout they were clearing.  He saw one of those things catch the guy on point, wrung his neck till his head popped off.  Then one of the others hit the dirt and lit up the whole freakshow with the 240.",
-  "translation": "我听说过，事实上有情报。我的一个老同事回来了，讲述了一些奇怪的影子怪兽，他们正在清理一个袭击者的藏身处。他看到其中一个东西抓住了那家伙，扭动脖子，直到他的头跳了出来。然后其他人中的一个撞到了地上，用240点亮了整个怪诞秀。",
+  "translation": "我听闻了一些，实际上掌握了一个情报。我的一位老搭档回来后，讲述了一个奇特的影子怪兽的故事，据说他们在清剿一个强盗藏身处时，这玩意突然从不知哪里冒了出来。他亲眼见到其中一个怪物抓住了前锋队员，像拧毛巾似的拧断了他的脖子，直到头颅脱落。接着其他人倒地，M240机枪的火光把整个诡异的场景照亮。",
   "context": "ID: TALK_SCAVENGER_MERC_GM_PRELUDE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_SCAVENGER_MERC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_SCAVENGER_MERC_GM_PRELUDE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "baa0accd580225ecdd8a33631a7020b2",
@@ -14681,58 +14681,58 @@
  {
   "key": "787c7659d9dcaf55408db8741a2afa8c",
   "original": "I've heard rumors, and I know some people trying to make the journey here have had trouble of that sort.  I'll go ahead and relay to you the most recent bit of information I've overheard regarding that, send it off to whoever you're asking on behalf of.",
-  "translation": "我听说过一些谣言，我知道有些人想在这里旅行，但遇到了这种麻烦。我会把我听到的最新消息转达给你，把它发给你代表的任何人。",
+  "translation": "我听说过一些谣言，并且知道一些试图来到这里的人遇到了那种麻烦。我可以把我最近无意中听到的关于此事的消息转告给你，然后你可以代为转达给相关人士。",
   "context": "ID: TALK_RANCH_FOREMAN_GM_PRELUDE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_GM_PRELUDE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cad9b7b76e360a4718c1bf4c66cc9b5b",
   "original": "I've heard stranger rumors than that, so I suppose if that's what they are at heart, then it's in our best interest to work together.  I still have my reservations about this, but if you're sure, I can get in touch with my superiors and try to win them over.",
-  "translation": "我听到过比这更奇怪的谣言，所以我想如果这就是他们的心里话，那么我们最好一起合作。我对此仍有保留意见，但如果你确定的话，我可以和我的上级取得联系，争取他们的支持。",
+  "translation": "我听过更离奇的谣言，所以如果他们本质上真是那样的存在，那么我们最好一起合作。我对此仍保留意见，但如果你确定的话，我可以联系我的上级，并试试说服他们。",
   "context": "ID: TALK_OLD_GUARD_REP_CF_MISSION_4_HUNTER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_OLD_GUARD_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_OLD_GUARD_REP_CF_MISSION_4_HUNTER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "14a8d6d48568b312b113a04da80d3ddc",
   "original": "I've never been to the center myself, so I'm not sure what to suggest.  More hands to help build and hunt would be nice, though I suppose a source of trade would be useful, to keep our supplies well stocked.  I'll trust you to use your discretion.",
-  "translation": "我自己从来没有去过中心，所以我不知道该怎么建议。如果能有更多的人手来帮助建造和狩猎，那就太好了，不过我想有一个贸易来源会很有用，这样可以保证我们的物资储备充足。我相信你会运用你的判断力。",
+  "translation": "我自己从未去过中心区，所以不太清楚该提什么建议。不过，多些人手帮忙建造和狩猎当然很好，我想，有个贸易来源也很有用，可以保证我们的补给充足。我相信你能酌情处理。",
   "context": "ID: TALK_CF_GM_ADVICE_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_ADVICE_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b34f50b8eb00647cf6e208b191084121",
   "original": "I've no further questions for now.  We'll see what I can do.",
-  "translation": "我现在没有要问的了。看看我能做些什么。",
+  "translation": "我现在没有更多要问的了。看看我能做些什么。",
   "context": "ID: TALK_HERMIT_DISCUSS_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "24e5cd4764e263ff6a67eab230252e8f",
   "original": "I've no more tasks I can offer you.  Your path is your own, though under the guidance of He From Beyond The Veil.  However, if you have questions that remain, I will help as best as I can.",
-  "translation": "我不能再给你更多的任务了，道路在你自己脚下。当然，那是帷幕彼端的祂的指引。不过如果你还有想问的，我会尽我所能帮助你。",
+  "translation": "我不能给你提供更多的任务了。你的道路虽由自己决定，却也在帷幕彼端的祂的指引之下。不过如果你还有想问的，我会竭尽所能帮助你。",
   "context": "ID: TALK_HERMIT_DISCUSS_4\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_4\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7943dbf83d080107294bfb90f325088c",
   "original": "I've nothing to say to you, Hunter.  If you haven't gotten yourself in trouble yet, speak to the huntmaster.",
-  "translation": "我没什么好说的，猎人。如果你还没有惹麻烦的话，就去和猎人长官谈谈。",
+  "translation": "我对你没什么好说的，猎人。如果你还没有惹麻烦的话，就去和猎人长官谈谈。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n",
   "stage": 1
  },
  {
   "key": "3229bf14f890fbb00635882a03715642",
   "original": "I've tried to think about what I can recall from the dreams.  Seeing that last place with my own eyes brought a bit of clarity to what I remember.  There's another place that stood out, another part of the countryside I've been to with strange features that shouldn't be there.  It might be more useful to investigate than the last place, too.",
-  "translation": "我试着想想我能从梦中回忆起什么。亲眼看到最后一个地方，让我的记忆更加清晰。还有一个地方很突出，我去过的乡村的另一个地方，有着不该有的奇怪特征。调查可能比最后一个地方更有用。",
+  "translation": "我努力回想梦境中的内容。亲眼见到梦境中的最后一个地方，让我的记忆变得清晰了一些。还有另一个地方让我印象深刻，那是我曾去过的乡村地区的另一部分，有着本不该存在的奇异特征。调查那里可能比上一个地点更有用。",
   "context": "ID: MISSION_FIND_HERMIT_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_FIND_HERMIT_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb4b61b3677d16320badca9b9f10ad2d",
   "original": "I, er …can't read.",
-  "translation": "我，呃…不会读。",
+  "translation": "我，呃…不识字。",
   "context": "ID: TALK_HERMIT_QUEST_HELP_1_PLAYER_DUN_GOOFED\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_QUEST_HELP_1_PLAYER_DUN_GOOFED\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "786be82f5617adb79f7d87393fe3ae8b",
@@ -14744,9 +14744,9 @@
  {
   "key": "a4e9a67540d9ee6d242e5ae2e3e5754f",
   "original": "If I had any ill intent here, you would already be dead, and I would've simply taken what we're after.  Is that sufficient proof?",
-  "translation": "但凡我有一点坏心思，你现在早就死了，而我直接取走想要的东西就好。但我没有这么做。这点够了吗？",
+  "translation": "但凡我有一点坏心思，你早就死了，然后我直接拿走想要的东西就好。但我没有这么做。这足够了吗？",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER_CLEANSINGFLAME\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER_CLEANSINGFLAME\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2fbde8f7311ba96d3825a2745753b331",
@@ -14897,9 +14897,9 @@
  {
   "key": "c1e96af9912cfc293d66bacb96953f0b",
   "original": "If you have the cash, sure.  I've accepted that group's offers mostly since they've been reliable customers.  I've been honoring their deals pretty close to what they figure it at, so 175 Merch should cover it.",
-  "translation": "当然可以，只要你有现钱。大部分时候我都接受那个团体的报价，毕竟他们一直是可靠的客户。和他们交易我向来公平公正，价格基本和他们估算的一样。那样的话，我想175件商会币应该就够数了。",
+  "translation": "当然可以，只要你有现钱。大部分时候我都接受他们的报价，毕竟他们一直是很可靠的客户。和他们交易我向来公平公正，价格基本和他们的估估价一致。那样的话，我想175件商会币应该就够了。",
   "context": "ID: TALK_FREE_MERCHANTS_MERCHANT_Talk_CF_MISSION_CASH\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_FREE_MERCHANTS_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_FREE_MERCHANTS_MERCHANT_Talk_CF_MISSION_CASH\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "32295dd7dbce34cf6d27ccb0c73b6758",
@@ -14946,9 +14946,9 @@
  {
   "key": "dc9b77939c53a4303274bee908e27147",
   "original": "If you insist.  What am I to do?",
-  "translation": "如果你一定要这么做的话，好吧。我该怎么做？",
+  "translation": "如果你坚持的话。我该怎么做？",
   "context": "ID: TALK_HERMIT_DISCUSS_2_FLAME\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_2_FLAME\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b2d0902c7a998fe57947eb677a5aeb0c",
@@ -15008,7 +15008,7 @@
  {
   "key": "dbf3e596b5dad2d50b4e52a8ade9c1f1",
   "original": "If you're certain.  You're one of the Keepers Chosen, aren't you?  Whatever strange magic is at work might be something you can make use of.  I have a rough area mapped out, if you have one of their artifacts at hand?",
-  "translation": "如果你确定的话。你是被选中的守誓者之一，对吧？不论生效的会是什么奇特的魔法，说不定都能为你所用。我大致划定了一个区域，如果你手头正好有他们的遗物，说不定能派上用场。",
+  "translation": "如果你确定的话。你是被选中的守誓者之一，不是吗？无论生效的是什么奇特的魔法，说不定都能为你所用。我大致划定了一个区域，如果你手头正好有他们的遗物，说不定能派上用场。",
   "context": "ID: TALK_CF_GM_PRELUDE_4_ATTACKS_2_1_VEIL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_PRELUDE_4_ATTACKS_2_1_VEIL\n",
   "stage": 3
  },
@@ -15036,9 +15036,9 @@
  {
   "key": "40bcdc9c9dcddd588398c8db707a618a",
   "original": "Illusion Cloak",
-  "translation": "幻觉斗篷",
+  "translation": "隐形斗篷",
   "context": "ID: arcana_invis\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_invis\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0db3340d70a3c5920160eb69625beebc",
@@ -15092,14 +15092,14 @@
   "original": "Immunity to fall damage.",
   "translation": "免疫摔落伤害。",
   "context": "ID: feather_fall_dragonblood\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→feather_fall_dragonblood\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d0870c246890cbd1eb75b1940361ad0e",
   "original": "Immunity to food poisoning and parasites, increased hunger gain.  Does not purge pre-existing conditions.",
-  "translation": "免疫食物中毒和寄生虫感染，加快饥饿感增加。但不会清除已存在的状况。",
+  "translation": "免疫食物中毒和寄生虫感染，加快饥饿感增加。但不会清除已存在的问题。",
   "context": "ID: revenant_hunger\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→revenant_hunger\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e8dc2dd5d3d12d9ec5acf52d5c0747a0",
@@ -15204,7 +15204,7 @@
   "original": "Indeed.",
   "translation": "的确。",
   "context": "ID: TALK_HERMIT_ABOMINATION_TENET\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_ABOMINATION_TENET\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "dd554c233ded3443e31adf5cbd75377c",
@@ -15502,9 +15502,9 @@
  {
   "key": "3540ace0256c829e3c5ce0481ea59006",
   "original": "Intense Numbness",
-  "translation": "强烈的麻木",
+  "translation": "极度麻木",
   "context": "ID: potion_numbness\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→potion_numbness\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "03bb063139985ab7293447bcf58f5465",
@@ -15644,7 +15644,7 @@
   "original": "Is that all you do out here?",
   "translation": "你在这就干这个？",
   "context": "ID: TALK_HERMIT_DOING\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DOING\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "5a9e0a571212c68e37d42d3efa3b4e94",
@@ -15746,9 +15746,9 @@
  {
   "key": "25f2559874ec4cddf8caaccc2f29e78f",
   "original": "It feels like your body is struggling to sustain itself, as your overuse of the athame's magic has taken its toll on you.  It might be a good idea to stop using that damn thing for a while…",
-  "translation": "你觉得你的身体在挣扎着支撑着你的身体。暂时停止使用那个该死的东西也许是个好主意…",
+  "translation": "你觉得你的身体在挣扎着支撑着你的身体，因为过度使用血魔法已经对你造成了影响。停止使用那个该死的东西也许是个好主意……",
   "context": "ID: blood_athame_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→blood_athame_side_effects\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "541dc26533ecf2f7442526bb4d083aed",
@@ -16365,7 +16365,7 @@
   "original": "Know anything about what happened to the place?",
   "translation": "你知道这地方发生了什么吗？",
   "context": "ID: TALK_CF_REP_JOHNATHAN_ADVICE_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_JOHNATHAN_ADVICE_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9e11ee6ac1ebf3cf98719189a59669bd",
@@ -16487,9 +16487,9 @@
  {
   "key": "8bfffe9ff66f7dab83f2be971c1aa1e6",
   "original": "Lesser Illusion Cloak",
-  "translation": "小幻觉斗篷",
+  "translation": "初级隐形斗篷",
   "context": "ID: arcana_invis_lesser\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_invis_lesser\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7f2ed920bddbcecca17837a7c2bcbd80",
@@ -16650,14 +16650,14 @@
   "original": "Light seems to warp around you in an unnatural manner, rendering you invisible and protecting against various perception-related hazards.",
   "translation": "光线以一种不自然的方式环绕着你，使你隐形，并保护你免受各种与感知有关的危险。",
   "context": "ID: arcana_invis\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_invis\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ad3625324c29468405ea5c1749796575",
   "original": "Light seems to warp around you in an unnatural manner, rendering you invisible.",
   "translation": "光线以一种不自然的方式环绕着你，使你隐形。",
   "context": "ID: arcana_invis_lesser\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_invis_lesser\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fb187771b5135a15ee2e407dc005bccb",
@@ -19075,9 +19075,9 @@
  {
   "key": "493ee9882b52c1576eb366a50b1a862f",
   "original": "Mark: Revenant Blood",
-  "translation": "印记：复仇之血",
+  "translation": "印记：亡魂之血",
   "context": "ID: arcana_mark_revenant_blood\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_sanguine_marks.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_mark_revenant_blood\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "52775c6d47f404e5e4b8d2f1e667626d",
@@ -19287,7 +19287,7 @@
  {
   "key": "1a5875bf5451330b988ac474bf3c5fb7",
   "original": "Might",
-  "translation": "力量",
+  "translation": "强力",
   "context": "ID: spell_might\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→spell_might\n",
   "stage": 3
  },
@@ -19835,9 +19835,9 @@
  {
   "key": "16cc22780b8cf304e63bcb68ea01396d",
   "original": "No longer slowed down by heat exhaustion.  You are still vulnerable to the other side effects of heatstroke, and may blister in extreme temperatures.",
-  "translation": "不再因中暑而减速，但仍需警惕中暑的其他副作用，在极端高温下仍可能起水泡。",
+  "translation": "不再因中暑而减速。但你仍需警惕中暑的其他副作用，在极端高温下皮肤仍可能起水泡。",
   "context": "ID: heat_ward_dragonblood\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→heat_ward_dragonblood\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f7079c59069355346a6ed81ced27ae67",
@@ -19856,9 +19856,9 @@
  {
   "key": "27faeb946774d7e28f9882e221799044",
   "original": "Not immortality, but it still feels nice.",
-  "translation": "虽然不能永生不朽，但感觉确实不错。",
+  "translation": "虽非永生，但感觉依然美妙。",
   "context": "ID: potion_healing\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→potion_healing\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "36539ffc540877f4e79ec60679bbe5cb",
@@ -21861,7 +21861,7 @@
   "original": "Protects against various anomalous effects.",
   "translation": "保护你不受各类异常状态的影响。",
   "context": "ID: cleric_warding\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→cleric_warding\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3a6398d842d1e9d73647b2162d2b35a3",
@@ -22435,9 +22435,9 @@
  {
   "key": "c29a29d0e94034edf45aba1aaef8afd8",
   "original": "Revenant Blood",
-  "translation": "复仇之血",
+  "translation": "亡魂之血",
   "context": "ID: dragonblood_clarity\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→dragonblood_clarity\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5ba0ff0c69f0249ca7967a37e4e8caa1",
@@ -22526,7 +22526,7 @@
  {
   "key": "ca023e4cc01d1d22493bbd51a89cec9d",
   "original": "Rural Church Survivors",
-  "translation": "Rural Church Survivors",
+  "translation": "乡村教堂幸存者",
   "context": "ID: cleansing_flame_aux\n位于 /Kenan-Structured-Modpack/Arcana/npcs/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→faction→cleansing_flame_aux\n",
   "stage": 1
  },
@@ -23184,9 +23184,9 @@
  {
   "key": "1ae03a7a0b4b3d2fbe1ed48a277f824a",
   "original": "Should you master the secrets of this blade, wielding it will force portal storms to burn out earlier than normal.  Only the worthy will be offered protection.",
-  "translation": "如果你掌握了这把刀的秘密，竭尽所能挥舞它迫使传送风暴提前结束。只有具备资格才能得到保护。",
+  "translation": "如若掌握了这把刀的秘密，挥舞它将迫使空间风暴比平常更快消散。唯有真正的勇士方能得到它的庇护。",
   "context": "ID: arcana_veilblade_halt_portal_storms\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→arcana_veilblade_halt_portal_storms\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fce4c525769d2a0d94331d0c4ffe2699",
@@ -24303,7 +24303,7 @@
  {
   "key": "ad04eabbef9dda8e88dd4a6cfac79987",
   "original": "Something stirs in your veins as the staff's protective effect washes over you.",
-  "translation": "Something stirs in your veins as the staff's protective effect washes over you.",
+  "translation": "当法杖的保护效果流经你全身时，你感觉到血脉中有什么在蠢蠢欲动。",
   "context": "ID: sanguine_staff_buff\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→sanguine_staff_buff\n",
   "stage": 1
  },
@@ -26567,7 +26567,7 @@
  {
   "key": "25788d703c3379f354d8fde1e79dbbf8",
   "original": "The effect of the staff's strange magic is waning.",
-  "translation": "The effect of the staff's strange magic is waning.",
+  "translation": "法杖奇异魔法的效果正在逐渐减弱。",
   "context": "ID: sanguine_staff_buff\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→sanguine_staff_buff\n",
   "stage": 1
  },
@@ -26616,16 +26616,16 @@
  {
   "key": "1fb73d6a029d2112dd6c4d1b9d0e48aa",
   "original": "The eyes of The Beyond shall guide you.  Your perception is augmented by magic, and you can see clearly in darkness.",
-  "translation": "远方的眼睛将指引你。你的知觉被魔法增强了，在黑暗中你能看得很清楚。",
+  "translation": "彼端的视线将指引你前行，你的感知因魔法而敏锐，能在黑暗中洞悉一切。",
   "context": "ID: spell_insight\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→spell_insight\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ced2523dfa3e0236d2c8f213b6270e6a",
   "original": "The fabric of The Veil is woven into your frame.  Your strength is augmented by magic.",
-  "translation": "帷幕的布料织入你的身体。你的力量被魔法增强了。",
+  "translation": "彼端的本质已融入进你的身躯之中，你的力量因魔法而更加强大。",
   "context": "ID: spell_might\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→spell_might\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5b940e2364f9aaa99daeeb19d6e3d5da",
@@ -30309,7 +30309,7 @@
  {
   "key": "d43268bc17a1b1cb5bc7342a277a6c77",
   "original": "Turning inward, your elusiveness gives way to resilence.\n\n-2 Dodge attempts, Dodge Skill reduced by 50% of Intelligence, +2 Block attempts, damage blocked increased by 100% of intelligence, bash and electric armor increased by 50% of Intelligence.\nLasts 2 turns.",
-  "translation": "Turning inward, your elusiveness gives way to resilence.\n\n-2 Dodge attempts, Dodge Skill reduced by 50% of Intelligence, +2 Block attempts, damage blocked increased by 100% of intelligence, bash and electric armor increased by 50% of Intelligence.\nLasts 2 turns.",
+  "translation": "转向内在，你的躲避变得不那么重要，取而代之的是坚韧不拔。\n\n- 消耗2闪避次数，闪避技能降低至智力的50%，+ 增加2格挡次数，格挡效率增加至智力的100%，破坏与电甲防御提升至智力的50%。\n持续2回合。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n",
   "stage": 1
  },
@@ -30497,9 +30497,9 @@
  {
   "key": "8b49cae4a429d8c12e56eec63de5713b",
   "original": "Using that athame so many times was a terrible mistake, you feel like you've been drained half to death…",
-  "translation": "使用那把仪式刀这么多次是一个可怕的错误，你觉得自己已经被榨了个半死…",
+  "translation": "频繁使用那把仪式刀是一个可怕的错误，你感觉自己仿佛被抽干了半条命……",
   "context": "ID: blood_athame_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→blood_athame_side_effects\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "44be231d5c7867fa5d534c7695c9b21a",
@@ -32641,7 +32641,7 @@
  {
   "key": "0e986aa5b45775b960dde3989995c41b",
   "original": "Whatever area you target with it goes up in flames.  Its damage is best when you center it on whatever you want dead, just be careful since it can blow out windows or otherwise wreck the place.  Not to mention accidentally blowing up your ally or burning your house down wouldn't be a good idea.  I'll teach it to you for 3 Golden Scales.",
-  "translation": "Whatever area you target with it goes up in flames.  Its damage is best when you center it on whatever you want dead, just be careful since it can blow out windows or otherwise wreck the place.  Not to mention accidentally blowing up your ally or burning your house down wouldn't be a good idea.  I'll teach it to you for 3 Golden Scales.",
+  "translation": "无论你用它瞄准哪个区域，那里都会燃起熊熊大火。它的破坏力最强时是在集中攻击你想消灭的目标上，但要小心，因为它可能会炸碎窗户或破坏周围环境。更不用说不小心炸飞盟友或烧毁自己的房屋可不是什么好主意。我可以教你这个技能，代价是3枚黄金鳞片。",
   "context": "ID: TALK_CF_AUX_MAGE_SPELL_MENU_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MAGE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MAGE_SPELL_MENU_2\n",
   "stage": 1
  },
@@ -32821,7 +32821,7 @@
  {
   "key": "f54f03166071afa4db684d70df105dd3",
   "original": "Whoever put together this wishlist of yours has been following those quacks over in the Y-series anomalous materials research directives.  There's a very low chance they'd have anything of interest to us, but I think can work something out.",
-  "translation": "Whoever put together this wishlist of yours has been following those quacks over in the Y-series anomalous materials research directives.  There's a very low chance they'd have anything of interest to us, but I think can work something out.",
+  "translation": "这份愿望清单的制定者一直在关注那些在Y系列异常材料研究指令中的骗子。他们拥有我们感兴趣的东西的可能性非常低，但我想我们可以想点办法。",
   "context": "ID: TALK_ROBOFAC_INTERCOM_NICHOLAS_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_ROBOFAC_INTERCOM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_ROBOFAC_INTERCOM_NICHOLAS_3\n",
   "stage": 1
  },
@@ -33008,7 +33008,7 @@
  {
   "key": "4855e47d15e2351344a30f90e1c7788d",
   "original": "With how you've helped us out, I could try to teach you a few things.  I have experience with Capacitance, Consecrate, and Opening, should you need it.  That said, I will need a few Golden Scales for the deed.  Binding a spell pattern safely takes a special touch, and the local scavengers don't part with materials easily.",
-  "translation": "With how you've helped us out, I could try to teach you a few things.  I have experience with Capacitance, Consecrate, and Opening, should you need it.  That said, I will need a few Golden Scales for the deed.  Binding a spell pattern safely takes a special touch, and the local scavengers don't part with materials easily.",
+  "translation": "鉴于你对我们的帮助，我可以试着教你一些东西。如果你需要的话，我在电容、祝圣和开启方面有一定的经验。话虽如此，我进行些教学需要支付一些黄金鳞片。安全地绑定法术绘卷需要特殊的技巧，而当地的拾荒者并不轻易放弃他们的物资。",
   "context": "ID: TALK_CF_PURIFIER_SPELL_MENU\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_PURIFIER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_PURIFIER_SPELL_MENU\n",
   "stage": 1
  },
@@ -33400,9 +33400,9 @@
  {
   "key": "d4218f9d54b8c5b72f56de772c925b61",
   "original": "You can feel a soothing sensation lingering after applying salve to your wounds.",
-  "translation": "涂上药膏后，你能感觉到一种舒缓的感觉在伤口处挥之不去。",
+  "translation": "涂上药膏后，你能感到一种舒缓的感觉在伤口处弥漫。",
   "context": "ID: potion_vulnerary\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→potion_vulnerary\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b6a0009011d644fcf8d5b4e976091fc9",
@@ -33758,7 +33758,7 @@
  {
   "key": "8b3125a57e36dc14ae9d2083eec865c0",
   "original": "You feel an intense fire burning inside of you, before… you're… FREE!",
-  "translation": "You feel an intense fire burning inside of you, before… you're… FREE!",
+  "translation": "你感到体内燃烧着剧烈的火焰，紧接着……你……自由了！",
   "context": "ID: arcana_dragonblood_sacramental_heart_eoc_thresh_test\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutation_effect_on_condition.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_on_condition→arcana_dragonblood_sacramental_heart_eoc_thresh_test\n",
   "stage": 1
  },
@@ -33826,7 +33826,7 @@
  {
   "key": "f989b39b94769b5c3520886adb5dbec3",
   "original": "You feel more weary lately, and it's getting hard to think straight.  Overuse of the chalice seems to have an effect on you.",
-  "translation": "You feel more weary lately, and it's getting hard to think straight.  Overuse of the chalice seems to have an effect on you.",
+  "translation": "近来你感到更加疲惫，连思路都变得不清晰了。过度使用圣杯似乎对你产生了影响。",
   "context": "ID: chalice_offering_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→chalice_offering_side_effects\n",
   "stage": 1
  },
@@ -33910,7 +33910,7 @@
  {
   "key": "990e42394f8b503a037fca1b4faf9d97",
   "original": "You flow with the impact, and draw upon your enemy's own strength.\n\nSpeed increased by 100% of Intelligence.\nLasts 3 turns.",
-  "translation": "You flow with the impact, and draw upon your enemy's own strength.\n\nSpeed increased by 100% of Intelligence.\nLasts 3 turns.",
+  "translation": "你随着冲击顺势而动，并汲取着敌人的力量为己所用。\n\n速度提升：智力值的100%。\n持续时间：3回合。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n",
   "stage": 1
  },
@@ -34391,7 +34391,7 @@
  {
   "key": "c5c1dbe1d6b16f73def59afeae649a60",
   "original": "You have a pair of relatively short horns, sweeping and pointing backwards.  They allow you to make a strong bashing headbutt attack, but prevent wearing any headwear.",
-  "translation": "You have a pair of relatively short horns, sweeping and pointing backwards.  They allow you to make a strong bashing headbutt attack, but prevent wearing any headwear.",
+  "translation": "你有一对相对短小的角，向后弯曲。它们使你能做出有力的撞击头槌钝击，但同时也妨碍了佩戴头部装备。",
   "context": "ID: ARCANA_DRAGONHORNS\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONHORNS\n",
   "stage": 1
  },
@@ -34533,10 +34533,16 @@
   "stage": 3
  },
  {
+  "key": "18b9002ef77cf68ee73043882ddbeed4",
+  "original": "You have still proven yourself trustworthy to come this far, and even to seek my advice even after being led astray.  The sword can still serve its purpose, and I suspect He may still reward you for it.  Every channeling will be a sin offering, penance for faltering.  You may still be fit to gain some benefit from it, but there are other options as well.",
+  "translation": "You have still proven yourself trustworthy to come this far, and even to seek my advice even after being led astray.  The sword can still serve its purpose, and I suspect He may still reward you for it.  Every channeling will be a sin offering, penance for faltering.  You may still be fit to gain some benefit from it, but there are other options as well.",
+  "context": "ID: TALK_HERMIT_DISCUSS_3_FAIL_FAVOR\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_FAIL_FAVOR\n",
+  "stage": 1
+ },
+ {
   "key": "f68db6c2c943352778333bc98cc6a446",
   "original": "You have still proven yourself trustworthy to come this far, and even to seek my advice even after being led astray.  The sword can still serve its purpose, and I suspect He will still reward you for it.  Every channeling will be a sin offering, penance for faltering.  You will still be fit to gain some benefit from it, but there are other options as well.",
   "translation": "你虽然走了这一步，仍然证明自己是值得信赖的，甚至在被引入歧途之后，仍然寻求我的建议。这把剑还能起作用，我想他还是会奖励你的。每一次通灵都是赎罪祭，是悔改。你仍然可以从中获得一些好处，但也有其他选择。",
-  "context": "ID: TALK_HERMIT_DISCUSS_3_FAIL_FAVOR\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_FAIL_FAVOR\n",
   "stage": 1
  },
  {
@@ -34687,7 +34693,7 @@
  {
   "key": "38b7716c78d0a0f1e34ef348738f2354",
   "original": "You offer void where the enemy offers strength, and thus unravel their defenses.\n\nAccuracy increased by 50% of intelligence, bash/cut/stab armor penetration increased by 100% of Intelligence.\nLasts 3 turns.",
-  "translation": "You offer void where the enemy offers strength, and thus unravel their defenses.\n\nAccuracy increased by 50% of intelligence, bash/cut/stab armor penetration increased by 100% of Intelligence.\nLasts 3 turns.",
+  "translation": "你以虚空应对敌人的强力，从而瓦解其防御。\n\n命中率变为为智力的50%，钝击/斩击/刺击护甲穿透增加为智力的100%。\n持续3回合。",
   "context": "ID: style_veil_chosen\n位于 /Kenan-Structured-Modpack/Arcana/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→martial_art→style_veil_chosen\n",
   "stage": 1
  },
@@ -34811,7 +34817,7 @@
  {
   "key": "5c27f8c351b5011a6a0ea74e4c690f1d",
   "original": "You set up the mech and start powering it up, bringing energy fields flickering to life and animating spindly limbs.",
-  "translation": "You set up the mech and start powering it up, bringing energy fields flickering to life and animating spindly limbs.",
+  "translation": "你启动了机甲并开始为其充能，能量场闪烁着激活起来，细长的四肢也随之运动起来。",
   "context": "ID: bot_mech_arcana\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→bot_mech_arcana\n",
   "stage": 1
  },
@@ -34860,7 +34866,7 @@
  {
   "key": "9a37682d841d089f9b3975f551101aa0",
   "original": "You still feel fatigued more readily, and you've been having hunger pangs.  It seems blood magic has consequences if overused.",
-  "translation": "You still feel fatigued more readily, and you've been having hunger pangs.  It seems blood magic has consequences if overused.",
+  "translation": "你仍然更容易感到疲劳，并且开始频繁出现饥饿感。看来血液魔法如果过度使用，是有后果的。",
   "context": "ID: blood_athame_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→blood_athame_side_effects\n",
   "stage": 1
  },
@@ -35492,7 +35498,7 @@
  {
   "key": "400763978a8dfd98be139e9abc65be18",
   "original": "Your heart skips a beat briefly as your feel the staff's influence fade.",
-  "translation": "Your heart skips a beat briefly as your feel the staff's influence fade.",
+  "translation": "当你感受到法杖影响力的消退时，你的心跳瞬间漏了一拍。",
   "context": "ID: sanguine_staff_buff\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→sanguine_staff_buff\n",
   "stage": 1
  },
@@ -39442,7 +39448,7 @@
  {
   "key": "63e05ad446cf9b6627697f327bc61f73",
   "original": "shrouded exotic amulet",
-  "translation": "异域护身符",
+  "translation": "异域隐伏护身符",
   "context": "ID: amulet_exotic_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→amulet_exotic_empowered\n",
   "stage": 3
  },

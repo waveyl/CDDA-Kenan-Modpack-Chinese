@@ -137,6 +137,12 @@
   "key": "09a56d49d0911d436e49a18ed1b0ae0b",
   "original": "%1$s bites at your %2$s!",
   "translation": "%1$s bites at your %2$s!",
+  "stage": 1
+ },
+ {
+  "key": "6dcdcba9b07c2df7f96e0798613635fd",
+  "original": "%1$s bites hard at your %2$s!",
+  "translation": "%1$s bites hard at your %2$s!",
   "context": "ID: secro_maneater_floralbite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_floralbite\n",
   "stage": 1
  },
@@ -792,6 +798,20 @@
   "stage": 1
  },
  {
+  "key": "955cbc0c9d52200922f30bd8446a917b",
+  "original": "%1$s tries to stab <npcname>, but it fails to penetrate their armor.",
+  "translation": "%1$s tries to stab <npcname>, but it fails to penetrate their armor.",
+  "context": "ID: secro_maneater_bloodsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_bloodsuck\n",
+  "stage": 1
+ },
+ {
+  "key": "185e709e3ffc688749fad08049384a15",
+  "original": "%1$s tries to stab <npcname>, but they dodge!",
+  "translation": "%1$s tries to stab <npcname>, but they dodge!",
+  "context": "ID: secro_maneater_bloodsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_bloodsuck\n",
+  "stage": 1
+ },
+ {
   "key": "234dce18056ddff92b4ada412294a025",
   "original": "%1$s tries to stab you afar, but fails to penetrate your armor!",
   "translation": "%1$s tries to stab you afar, but fails to penetrate your armor!",
@@ -799,10 +819,24 @@
   "stage": 1
  },
  {
+  "key": "6d805e78c67c812d8d73ad7f042c89de",
+  "original": "%1$s tries to stab you, but you dodge!",
+  "translation": "%1$s tries to stab you, but you dodge!",
+  "context": "ID: secro_maneater_bloodsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_bloodsuck\n",
+  "stage": 1
+ },
+ {
   "key": "b2cfdc89c56637e8a67c03426bccf824",
   "original": "%1$s tries to stab your %2$s, but fails to penetrate armor!",
   "translation": "%1$s tries to stab your %2$s, but fails to penetrate armor!",
   "context": "ID: secro_tendrilstab\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilstab\n",
+  "stage": 1
+ },
+ {
+  "key": "49d4e9267b2a3cff7ef9731de48db867",
+  "original": "%1$s tries to stab your %2$s, but it fails to penetrate your armor.",
+  "translation": "%1$s tries to stab your %2$s, but it fails to penetrate your armor.",
+  "context": "ID: secro_maneater_bloodsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_bloodsuck\n",
   "stage": 1
  },
  {
@@ -831,6 +865,34 @@
   "original": "%1$s's tentacles thrash at you!",
   "translation": "%1$s's tentacles thrash at you!",
   "context": "ID: sflesh_flesh_city_thrash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_city_thrash\n",
+  "stage": 1
+ },
+ {
+  "key": "38313fd55db9f3f06a23b65899788d6d",
+  "original": "%1$s's vine thrusts into <npcname>!",
+  "translation": "%1$s's vine thrusts into <npcname>!",
+  "context": "ID: secro_maneater_bloodsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_bloodsuck\n",
+  "stage": 1
+ },
+ {
+  "key": "08028d5f59933d68093669b532c3ef88",
+  "original": "%1$s's vine thrusts into your %2$s, absorbing your blood!",
+  "translation": "%1$s's vine thrusts into your %2$s, absorbing your blood!",
+  "context": "ID: secro_maneater_bloodsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_bloodsuck\n",
+  "stage": 1
+ },
+ {
+  "key": "a04449563ffbc63cdda67eb83991c005",
+  "original": "%s's vine reaches at <npcname>, but they dodge!",
+  "translation": "%s's vine reaches at <npcname>, but they dodge!",
+  "context": "ID: secro_maneater_tentapull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_tentapull\n",
+  "stage": 1
+ },
+ {
+  "key": "f2fd32429529c2099c19750553598946",
+  "original": "%s's vine reaches at you, but you dodge!",
+  "translation": "%s's vine reaches at you, but you dodge!",
+  "context": "ID: secro_maneater_tentapull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_tentapull\n",
   "stage": 1
  },
  {
@@ -890,9 +952,9 @@
  {
   "key": "e529f90cbddde583d95fa7419b47f957",
   "original": "<color_dark_gray>%1$s submerges…</color>",
-  "translation": "<color_dark_gray> %1$s淹没…</color>",
+  "translation": "<color_dark_gray> %1$s潜入水中…</color>",
   "context": "ID: mon_zombie_nautilus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nautilus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d4cf1fb79f0d4af674c430538b6f6acb",
@@ -943,9 +1005,9 @@
  {
   "key": "3e0ea24c84193f8921fd858f649c8b50",
   "original": "<color_light_red>%1$s destroys its surroundings!</color>",
-  "translation": "<color_light_red>%1$s破坏了它的周围环境！</color>",
+  "translation": "<color_light_red>%1$s破坏了它周围的环境！</color>",
   "context": "ID: mon_zombieworm_onger\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/Worms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombieworm_onger\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6d12eb80fb5e462a3cf6925312c0c0e9",
@@ -1500,6 +1562,13 @@
   "stage": 3
  },
  {
+  "key": "3f1e5def9a1056539314a9230899b414",
+  "original": "<color_magenta>%1$s explodes into a shower of blood!</color>",
+  "translation": "<color_magenta>%1$s explodes into a shower of blood！</color>",
+  "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
+  "stage": 1
+ },
+ {
   "key": "be8fb28e68551f3820fcded1dc824a21",
   "original": "<color_magenta>%1$s explodes!</color>",
   "translation": "<color_magenta>%1%s 爆炸了！</color>",
@@ -1546,10 +1615,24 @@
   "stage": -1
  },
  {
+  "key": "a33f57b9ceb3c3ddbebab7ff05191077",
+  "original": "<color_magenta>%1$s sprays at %3$s.</color>",
+  "translation": "<color_magenta>%1$s sprays at %3$s.</color>",
+  "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
+  "stage": 1
+ },
+ {
   "key": "ad1e76ada4033c8d25981330ddfc0231",
   "original": "<color_magenta>%1$s spreads its goo at %3$s!</color>",
   "translation": "<color_magenta> %1$s令%3$s覆盖满了粘液！</color>",
   "context": "ID: mon_zombie_revenant_allure\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Revenant.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_revenant_allure\n",
+  "stage": 1
+ },
+ {
+  "key": "ec204f90857562897dc8dd8f32e3c14e",
+  "original": "<color_magenta>%1$s's mouth closes as it accumulates blood!</color>",
+  "translation": "<color_magenta>%1$s's mouth closes as it accumulates blood！</color>",
+  "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
   "stage": 1
  },
  {
@@ -1851,7 +1934,7 @@
   "original": "<color_yellow>%1$s is accumulating noxious gas!</color>",
   "translation": "<color_yellow>%1$s正在积聚有害气体！</color>",
   "context": "ID: mon_zombie_leptiosa\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Scourge.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_leptiosa\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "842a8381612357d4710d3394a35283c2",
@@ -1877,14 +1960,14 @@
  {
   "key": "76db4feae6e8260a9ead74f7e1e12d97",
   "original": "<color_yellow>%1$s launches its tongue at %3$s!</color>",
-  "translation": "<color_yellow>%1$s在%3$s发射它的舌头！</color>",
-  "stage": 0
+  "translation": "<color_yellow>%1$s将舌头伸向了%3$s！</color>",
+  "stage": 1
  },
  {
   "key": "50d6835704edc7817863cf871c4c0354",
   "original": "<color_yellow>%1$s launches its tongue at %3$s</color>",
-  "translation": "<color_yellow>%1$s在%3$s222发射它的舌头",
-  "stage": 0
+  "translation": "<color_yellow>%1$s将舌头伸向%3$s</color>",
+  "stage": 1
  },
  {
   "key": "ad025070550fc9c067995169c8351e89",
@@ -1908,9 +1991,9 @@
  {
   "key": "0e711ef1bf82a6f82bcb19cb6adbac3b",
   "original": "<color_yellow>%1$s ravages its surroundings!</color>",
-  "translation": "<color_yellow>%1$s破坏了它的周围环境！</color>",
+  "translation": "<color_yellow>%1$s破坏了它周围的环境！</color>",
   "context": "ID: mon_zombieworm_mawy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/Worms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombieworm_mawy\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6d24ee10438241993f4270539d0d64ec",
@@ -2012,8 +2095,8 @@
  {
   "key": "e646a01e9bec46396b297c4d4acb3e07",
   "original": "<color_yellow>%1$s's blood gurgling intensifies...</color>\n<color_red>%1$s spits a glob of thick blood at %3$s</color>",
-  "translation": "<color_yellow>%1$s的血液汩汩流动加剧。。。</color> \n <color_red> %1$s在%3$s </color>处吐出一团浓血",
-  "stage": 0
+  "translation": "<color_yellow>%1$s的血液汩汩流动加剧了……</color> \n <color_red> %1$s朝%3$s吐出一团浓血 </color>",
+  "stage": 1
  },
  {
   "key": "c17490525ba769d7eb8c3639b24559c7",
@@ -2058,15 +2141,14 @@
  {
   "key": "230e7eec55bcb2a0e80c09e517864d6e",
   "original": "<color_yellow>%1$s's tentacles thrashes its surroundings!</color>",
-  "translation": "<color_yellow>%1$s的触角在它周围的环境中摆动！</color>",
-  "stage": 0
+  "translation": "<color_yellow>%1$s的触手在周围乱舞！</color>",
+  "stage": 1
  },
  {
   "key": "6b9da1a5ac8d930457612764ce4b3afa",
   "original": "<color_yellow>%1$s's vines pulls %3$s in!</color>",
-  "translation": "<color_yellow>%1$s的葡萄藤吸引了%3$s！</color>",
-  "context": "ID: mon_maneater\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater\n",
-  "stage": 0
+  "translation": "<color_yellow>%1$s的藤蔓把%3$s拉了进去！</color>",
+  "stage": 1
  },
  {
   "key": "7baa0063cdb70fb9b31168d937f1298b",
@@ -2090,16 +2172,30 @@
  {
   "key": "4859a9de9a9c8284feed85e6078c30a1",
   "original": "<color_yellow>A blood vessel were formed under %1$s's hands!</color>",
-  "translation": "<color_yellow>在%1$s的手下形成了一条血管！</color>",
+  "translation": "<color_yellow>在%1$s的手掌下形成了一条血管！</color>",
   "context": "ID: mon_zombie_unify\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Unifier.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_unify\n",
-  "stage": 0
+  "stage": 1
+ },
+ {
+  "key": "be6a22c9e313c7745a8d43238fe98d97",
+  "original": "<color_yellow>Blood flows through %1$s from %3$s!</color>",
+  "translation": "<color_yellow>Blood flows through %1$s from %3$s！</color>",
+  "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
+  "stage": 1
+ },
+ {
+  "key": "b4d183d3c596f490571afa66b408f9bf",
+  "original": "<color_yellow>Blood flows through %1$s!</color>",
+  "translation": "<color_yellow>Blood flows through %1$s！</color>",
+  "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
+  "stage": 1
  },
  {
   "key": "518cd84e02bcd112cd0066806cfbdec4",
   "original": "<color_yellow>Blood vessels emerge from %1$s's core!</color>",
-  "translation": "<color_yellow>条血管从%1$s的核心冒出！</color>",
+  "translation": "<color_yellow>血管从%1$s的核心部位冒出！</color>",
   "context": "ID: mon_zombie_unity\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Unifier.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_unity\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "414d3831d8e000182ebe407460116e48",
@@ -2188,9 +2284,9 @@
  {
   "key": "e80eebe18a09f01486c474daf3de00aa",
   "original": "<color_yellow>Twisted abominations crawl out of %1$s!</color>",
-  "translation": "<color_yellow>个扭曲的可憎生物爬出%1$s！</color>",
+  "translation": "<color_yellow>扭曲的憎恶从%1$s爬出！</color>",
   "context": "ID: mon_zombie_equinox\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_equinox\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a1f6858475719b376276848e490d1ca0",
@@ -2360,16 +2456,16 @@
  {
   "key": "717f8b21336bb9be8f55cbfe14de0efe",
   "original": "A colossal worm, mysterious to its origin. Its mouth drips of gooey red substance",
-  "translation": "一种巨大的蠕虫，其起源神秘莫测。它的嘴里滴着粘红色的物质",
+  "translation": "一种巨大的蠕虫，来历神秘。它的嘴里滴着黏糊糊的红色物质。",
   "context": "ID: mon_zombieworm_mawy\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Insects/Worms.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombieworm_mawy\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f99e2341fee1b921350a84aa7bfe6925",
   "original": "A colossal, humanoid corpse, distinct to its seemingly volatile, torsal lump, a headless top and a set of arm biters with swollen eyes united into them.",
-  "translation": "这是一具巨大的人形尸体，与它看似易变的环状肿块截然不同，一具无头上衣和一组眼睛肿胀的咬人手臂连在一起。",
+  "translation": "一具巨大的人形尸体， 在它那看似不稳定的躯干上，无头的顶部和一组由肿胀的眼睛结合而成的咬人手臂连在一起。",
   "context": "ID: mon_zombie_cordev\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_cordev\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1bc0abf2110b84014b956fa34701c15d",
@@ -2415,14 +2511,14 @@
  {
   "key": "aa80063b122bed99906b9a75a28990e9",
   "original": "A corpse induced in rotten smell, with a noticable bone sword that glimmers when struck by a source of light.",
-  "translation": "一具腐烂的尸体，带有一把明显的骨剑，当被光源击中时会闪闪发光。",
+  "translation": "一具散发着腐臭味的尸体，身上长有一把显眼的骨剑，在光源的照射下会闪闪发光。",
   "context": "ID: mon_zombie_sharpblade\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Bladed.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_sharpblade\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "020abcc8c56ac0be3baef0ce312e6513",
   "original": "A corpse induced in rotten smell, with noticable bone sword that glimmers when struck by a source of light.",
-  "translation": "一具散发着腐臭的尸体，长有显眼的骨头剑，被光照之后会反光。",
+  "translation": "一具散发着腐臭味的尸体，身上长有一把显眼的骨剑，在光源的照射下会闪闪发光。",
   "stage": 3
  },
  {
@@ -2558,9 +2654,9 @@
  {
   "key": "66dcb1f7eeaf785645d4a245c3382eab",
   "original": "A fat zombie distinct to its gaping mouth on its ruptured belly as rows of sharp, irregular teeth protrude from it.",
-  "translation": "一种肥胖的僵尸，当一排排锋利的、不规则的牙齿从它的肚子上伸出时，它张开的嘴与破裂的肚子截然不同。",
+  "translation": "一具肥胖的僵尸，它破裂的肚皮上有一张大嘴，一排排锋利、不规则的牙齿从其中伸出。",
   "context": "ID: mon_zombie_bellymouth\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Mouth.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_bellymouth\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8f7945cf48c1425519b5662d83afe193",
@@ -2659,9 +2755,9 @@
  {
   "key": "6b20fb83d81a688e7809eed9ef3ed75e",
   "original": "A frail-looking corpse with raging long tentacles covering its rotten skin.",
-  "translation": "一具体弱的尸体，腐烂的皮肤上覆盖着愤怒的长触手。",
+  "translation": "一具看起来很虚弱的尸体，狂躁扭动的长触手覆盖着它腐烂的皮肤。",
   "context": "ID: mon_zombie_tendricles\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tendricles\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2357a81a36ca8bea95c65baeb68f9d0f",
@@ -2973,9 +3069,9 @@
  {
   "key": "98fd5fa2f8f90955aa7d25b6a5aa1b4f",
   "original": "A human body with two twitching tentacles and stem-like outgrowths slit through its worn and tattered clothing.",
-  "translation": "有两条抽搐的触须和茎状突起物的人体，穿过它破旧的衣服。",
+  "translation": "一具长有两根抽搐着的触手的尸体，茎状的突起从破旧不堪的衣服里穿出。",
   "context": "ID: mon_zombie_tendrils\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tendrils\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "761214fb949a5f37d1ecd48dcc8336da",
@@ -3287,9 +3383,9 @@
  {
   "key": "38fa80680d5dc65eed3325f0e2cbf6d2",
   "original": "A large, ravenous zed with a thick skin and an elongated mouth viciously altered similar to lamprey's.",
-  "translation": "一种大而贪婪的蜥蜴，皮肤厚实，嘴巴细长，与七鳃鳗相似。",
+  "translation": "一种大而贪婪的丧尸，长着一张细长的，与七鳃鳗相似的嘴。",
   "context": "ID: mon_zombie_suctionmouth\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Mouth.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_suctionmouth\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "132ab6a5ec4b17a9a2e16e0af5e9fc6f",
@@ -3334,9 +3430,9 @@
  {
   "key": "27039f8fbe4e83dc15bca4c789aa9e7b",
   "original": "A massive conglomeration of thick, gangrenous flesh, forming a snake-like figurine with its head resembling a dragon. Terrifyingly disastrous, its entire body is covered in bony scales and lies under it are spikes of similar material.",
-  "translation": "巨蟒一种由厚而腐烂的肉组成的巨大团块，形成一个蛇形的雕像，其头部类似于龙。可怕的灾难是，它的整个身体覆盖着骨鳞，下面是类似材料的刺。",
+  "translation": "大量厚实的坏死肉块凝结在一起， 形成了一个头部像龙的蛇形雕像。它全身覆盖着骨质鳞片，其下是材质相似的尖刺，令人毛骨悚然。",
   "context": "ID: mon_zombie_fleshysnaky\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_fleshysnaky\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "368ea33c925f6f79953e0645c773d10d",
@@ -3421,15 +3517,15 @@
  {
   "key": "52ac05fbe28043bc7d4a961aca2f906f",
   "original": "A morbidly large zombie heavily mutated from long exposure to irradiated waters, which altered most of its body parts into something like that of a mollusk.",
-  "translation": "一种病态的大僵尸由于长时间暴露在受辐射的水中而发生了严重的变异，它的大部分身体部位都变成了类似软体动物的东西。",
+  "translation": "一种体型畸形而巨大的的丧尸，由于长期暴露在辐射水中而发生严重变异，其身体的大部分都变成了某种类似软体动物的模样。",
   "context": "ID: mon_zombie_nautilus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nautilus\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "48b14157d3697745f018839e68129002",
   "original": "A morbidly large zombie heavily mutated from long exposure to irradiated waters, which altered most of its body parts into something like that of a mollusk. Sluggish, yet full of surprises.",
-  "translation": "一种病态的大僵尸由于长时间暴露在受辐射的水中而发生了严重的变异，它的大部分身体部位都变成了类似软体动物的东西。行动迟缓，但充满惊喜。",
-  "stage": 0
+  "translation": "一种体型畸形而巨大的的丧尸，由于长期暴露在辐射水中而发生严重变异，其身体的大部分都变成了某种类似软体动物的模样。速度缓慢，但充满惊喜。",
+  "stage": 1
  },
  {
   "key": "9816a2b3dbd5d45a99f8b60721e4fd4f",
@@ -3789,9 +3885,9 @@
  {
   "key": "3050a929b2c584d3ca36e6d76062d8e5",
   "original": "A shadow emerges from %1$s and scratches you!",
-  "translation": "%1$s出现了一个阴影，划伤了你！",
+  "translation": "一个阴影自%1$s出现，并抓伤了你！",
   "context": "ID: secro_nocturne_sstrike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_nocturne_sstrike\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "68de1928f59b3be5cf4b1e382ba34ced",
@@ -3935,7 +4031,6 @@
   "key": "7936e3ca6a33241e1ba68becf3666eed",
   "original": "A snatcher zombie is here.",
   "translation": "这里有一个掠夺丧尸。",
-  "context": "ID: mx_secro_snatcherzed_spawn\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/map_extras.json\n类型为 map_extra\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→map_extra→mx_secro_snatcherzed_spawn\n",
   "stage": 3
  },
  {
@@ -3947,9 +4042,9 @@
  {
   "key": "e46d3b919cf8e68cf8856312e020b523",
   "original": "A squidling, or some sort of maggot but with tentacles. Tiny, feeble and short-lived, it seeks a lively host on its ways to attach to.",
-  "translation": "乌贼，或某种有触角的蛆。它身材娇小、虚弱、寿命短暂，在与人交往的过程中寻找一位活泼的主人。",
+  "translation": "一条鱿鱼，或某种有触角的蛆。它体形娇小而脆弱，寿命也很短，只能寻找有活力的宿主来附着。",
   "context": "ID: mon_zombie_nautilus_pedo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nautilus_pedo\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "019143a7ac65b38b41983121e8b9957b",
@@ -4195,10 +4290,16 @@
   "stage": 3
  },
  {
+  "key": "dbc130d2875fcb2a7b609e0e03da883e",
+  "original": "A triffid-looking creature, composed of staggering flesh and bones. Its \"flower petals\" are lined with razor-sharp teeth, with slender \"vines\" twitching incoherently. The need for \"nutrients\" drive it to face everything with voracious intent.",
+  "translation": "A triffid-looking creature, composed of staggering flesh and bones. Its \"flower petals\" are lined with razor-sharp teeth, with slender \"vines\" twitching incoherently. The need for \"nutrients\" drive it to face everything with voracious intent.",
+  "context": "ID: mon_maneater\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater\n",
+  "stage": 1
+ },
+ {
   "key": "6b898ed450d5faf673ef3818f30d3919",
   "original": "A triffid-looking creature, composed of staggering flesh and bones. Its 'flower petals' are lined with razor-sharp teeth, with slender 'vines' twitching incoherently. Unique to its adaptive instincts, its need for 'nutrients' drive it to face everything with voracious intent.",
   "translation": "一种看起来像三脚兽的生物，由摇摇晃晃的肉和骨头组成。它的“花瓣”排列着锋利的牙齿，纤细的“藤蔓”不连贯地抽动着。独特的适应性本能，它对“营养”的需求驱使它以贪婪的意图面对一切。",
-  "context": "ID: mon_maneater\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater\n",
   "stage": 3
  },
  {
@@ -4408,7 +4509,7 @@
   "original": "Absorbing",
   "translation": "吸收",
   "context": "ID: secro_gorepit_absorb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_gorepit_absorb\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f5dd8a1125daca6c5224baa0357fe6a1",
@@ -4582,9 +4683,9 @@
  {
   "key": "81e07e20143bc0a36baa88f1b010ac57",
   "original": "An elderly vector, much higher and larger than a regular oak tree. Nearly immobile, strands of dense vines cover its thick bark.",
-  "translation": "一种年老的病媒，比普通的橡树高得多，大得多。厚厚的树皮上覆盖着几缕浓密的藤蔓，几乎一动不动。",
+  "translation": "一种古老的病媒，比普通的橡树要高大得多。它几乎一动不动，茂密的藤蔓覆盖着它厚厚的树皮。",
   "context": "ID: mon_vector_tree\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Unknown/Vector.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_vector_tree\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d1788097fcbc48742de867c62812379a",
@@ -4705,9 +4806,9 @@
  {
   "key": "c0399dc9458a02fbce090fc43e5d6e89",
   "original": "An oddly formed orifice that has emerged as an outgrowth of the flesh, with rows of razor-sharp bones surrounding the gap.",
-  "translation": "一种形状奇特的孔口，是肉的一种生长物，周围有一排剃刀般锋利的骨头。",
+  "translation": "一个奇形怪状的孔口从血肉中长出，周围是一排排锋利的骨头。",
   "context": "ID: mon_sflesh_jaw\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Crimson Horrors/Flesh_biome.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_jaw\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "98ec492b0b027ed2d72c716d9c3f80a8",
@@ -4731,9 +4832,9 @@
  {
   "key": "a7607264d52a7e6d03d8eda107fa82e3",
   "original": "An overwhelming mass of flesh resembling a brain, constantly emitting vaporized poison gas originating from its protruding shroom-like outgrowths. Large, hollow gaps reveal nothing but shady gloom.",
-  "translation": "一块巨大的、类似于大脑的肉，不断地从其突出的、像shroom一样的突起物中释放出汽化的毒气。巨大、中空的缝隙只露出阴暗的阴影。",
+  "translation": "形似大脑的巨大肉块，不断从其突出的蘑菇状突起中释放出毒气。巨大而空洞的缝隙中只有阴影。",
   "context": "ID: mon_zombie_equinox\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_equinox\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cdfa9d8ef6b1d1a151431339bf271cb1",
@@ -4862,23 +4963,71 @@
   "stage": 5
  },
  {
+  "key": "fa7d4e8cfde590cc28fe268ff10fd497",
+  "original": "Blood Check",
+  "translation": "Blood Check",
+  "context": "ID: mon_maneater_bloodcheck_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodcheck_target\n",
+  "stage": 1
+ },
+ {
   "key": "8cccb7178e6ceaf4fb370e7da588c1e4",
   "original": "Blood Curl",
   "translation": "血卷",
   "stage": 5
  },
  {
+  "key": "662ebd7a46e6be1d289414ff91957052",
+  "original": "Blood Explosion",
+  "translation": "Blood Explosion",
+  "context": "ID: mon_maneater_bloodexp\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp\n",
+  "stage": 1
+ },
+ {
+  "key": "0b339c66d4093c3cec056fd3eaf28718",
+  "original": "Blood Explosion EVO",
+  "translation": "Blood Explosion EVO",
+  "context": "ID: mon_maneater_evo_bloodexp\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_evo_bloodexp\n",
+  "stage": 1
+ },
+ {
+  "key": "41ddb7beb321965accfa64339bd2cfae",
+  "original": "Blood Explosion Stun",
+  "translation": "Blood Explosion Stun",
+  "context": "ID: mon_maneater_bloodexp_stun\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp_stun\n",
+  "stage": 1
+ },
+ {
   "key": "2e293f5c9cb57363b5b6e354b9af85ca",
   "original": "Blood Spit",
-  "translation": "包括恐怖的大血池",
+  "translation": "血液喷吐",
   "context": "ID: mon_zombie_hemo_bspit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_hemo_bspit\n",
-  "stage": 0
+  "stage": 1
+ },
+ {
+  "key": "40d3229c5a4b70091bf611851f3dcf3a",
+  "original": "Blood Spray",
+  "translation": "Blood Spray",
+  "context": "ID: mon_maneater_bloodexp_effcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp_effcheck\n",
+  "stage": 1
+ },
+ {
+  "key": "f14df1bb5a30ab66a3e2a7f9f90e662f",
+  "original": "Blood Spray - Cost",
+  "translation": "Blood Spray - Cost",
+  "context": "ID: mon_maneater_bloodexp_loseeff\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp_loseeff\n",
+  "stage": 1
+ },
+ {
+  "key": "f80e95362b19390b0dafba6df60aaf2d",
+  "original": "Blood Spray EVO",
+  "translation": "Blood Spray EVO",
+  "context": "ID: mon_maneater_evo_bloodspray\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_evo_bloodspray\n",
+  "stage": 1
  },
  {
   "key": "8baefc5220a1f280aefc8a2b8c2d2279",
   "original": "Blood Suck",
   "translation": "吸血",
-  "context": "ID: mon_maneater_bsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bsuck\n",
   "stage": 5
  },
  {
@@ -4912,7 +5061,6 @@
   "key": "169d089398d8acd4e1f739f047ea9f9f",
   "original": "Bloodcoat leaves your body!",
   "translation": "血衣离开你的身体！",
-  "context": "ID: unify_bloodslow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→unify_bloodslow\n",
   "stage": 5
  },
  {
@@ -5140,6 +5288,13 @@
   "translation": "收缩的",
   "context": "ID: secro_akin_constrict\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→secro_akin_constrict\n",
   "stage": 0
+ },
+ {
+  "key": "d2e0379c3a30439bfc1b6869af4408cc",
+  "original": "Consume",
+  "translation": "Consume",
+  "context": "ID: mon_maneater_bloodconsume_invertebrate\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodconsume_invertebrate\n",
+  "stage": 1
  },
  {
   "key": "1d1c5175a3f6d0c6e7bb8890ea85679b",
@@ -5401,9 +5556,9 @@
  {
   "key": "f645b380bf9ad0dbbce5b9cd4b493d17",
   "original": "Disperse",
-  "translation": "分散的",
+  "translation": "驱散",
   "context": "ID: death_mon_zombie_nightwail\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→death_mon_zombie_nightwail\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f99a83f4fcf93c6830314a9bf9bc437e",
@@ -5469,6 +5624,13 @@
   "original": "Dreadful outgrowths of savage tentacles accompanies this corpse's crimson body, thrashing anything in its path. Within a closer look, one of its arm pulsates that burdens the body, dragging the heavily mutated portion into the ground.",
   "translation": "Dreadful outgrowths of savage tentacles accompanies this corpse's crimson body, thrashing anything in its path. Within a closer look, one of its arm pulsates that burdens the body, dragging the heavily mutated portion into the ground.",
   "context": "ID: mon_zombie_tentawraith\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_tentawraith\n",
+  "stage": 1
+ },
+ {
+  "key": "e80bc02c202281e8478286b560673909",
+  "original": "EOC base",
+  "translation": "EOC base",
+  "context": "ID: mon_secro_eoc_spell_base\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secro_eoc_spell_base\n",
   "stage": 1
  },
  {
@@ -5552,7 +5714,7 @@
   "original": "Enshrouded",
   "translation": "掩蔽",
   "context": "ID: nightwail_shadow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→nightwail_shadow\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d8c026c885498553be3f1c625306e188",
@@ -6155,6 +6317,20 @@
   "translation": "治愈",
   "context": "ID: mon_zombie_skittyweavy_sickly_heal\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_skittyweavy_sickly_heal\n",
   "stage": 5
+ },
+ {
+  "key": "123f1bcb488eda972e00a756110de5d9",
+  "original": "Heal Check",
+  "translation": "Heal Check",
+  "context": "ID: mon_maneater_healcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_healcheck\n",
+  "stage": 1
+ },
+ {
+  "key": "296c1aface3f85bce3e8edbfe4401d73",
+  "original": "Heal Check EVO",
+  "translation": "Heal Check EVO",
+  "context": "ID: mon_maneater_evo_healcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_evo_healcheck\n",
+  "stage": 1
  },
  {
   "key": "88302d96612bac4eaf480069ed1fc684",
@@ -6860,7 +7036,6 @@
   "key": "17eb2adeb073d29d7a917109e435f71d",
   "original": "Pull Blood",
   "translation": "抽血",
-  "context": "ID: mon_maneater_pullb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_pullb\n",
   "stage": 5
  },
  {
@@ -7168,14 +7343,14 @@
   "original": "Shadow Enshroud",
   "translation": "阴影掩蔽",
   "context": "ID: mon_zombie_nightwail_shadow_enshroud\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_nightwail_shadow_enshroud\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "77543ce477f422c9bbe9d58f6dc7673e",
   "original": "Shadow Enshroud: Blind",
-  "translation": "暗影掩体：盲人",
+  "translation": "暗影笼罩：致盲",
   "context": "ID: mon_zombie_nightwail_shadow_enshroud_blind\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_nightwail_shadow_enshroud_blind\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cb0e9fadd1ad2c5294a08e678d878867",
@@ -7530,7 +7705,7 @@
   "key": "e93b66d28ddfa8709abb2b1f7f77edd6",
   "original": "Snatch",
   "translation": "抢夺",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "86940087c95e4948da5e9afdb80ec6f6",
@@ -7557,7 +7732,6 @@
   "key": "a7160888783b70519b2314c70956aeb9",
   "original": "Snatcher",
   "translation": "诱拐者",
-  "context": "ID: mx_secro_snatcherzed_spawn\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/map_extras.json\n类型为 map_extra\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→map_extra→mx_secro_snatcherzed_spawn\n",
   "stage": 5
  },
  {
@@ -7766,6 +7940,13 @@
   "stage": 1
  },
  {
+  "key": "6d3b353c4ed6dcb4d6cb3a4d1a96dde7",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Base spell for EOCs.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Base spell for EOCs.'",
+  "context": "ID: mon_secro_eoc_spell_base\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secro_eoc_spell_base\n",
+  "stage": 1
+ },
+ {
   "key": "6f2c1ce480caa2ea103c718a79dec8d3",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Blinds target for few turns as well.'",
   "translation": "怪物施放的咒语。如果你看到了这个，那就读读这个:\n'使目标也失明几个回合'。",
@@ -7904,8 +8085,8 @@
  {
   "key": "81c33f42a0f5ce7d6a1840a9324ea123",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster bursts 2-4 tentacles at the target.'",
-  "translation": "怪物施法的。如果你看到了这个，那就读这个：\n‘施法者向目标施放2-4个触角。’",
-  "stage": 0
+  "translation": "由怪物施放的法术。如果你看到了这个，请阅读这个：：\n‘施法者向目标突发2到4根触手。’",
+  "stage": 1
  },
  {
   "key": "1bfd27f5bb2420c81d717f597fa2efd6",
@@ -7924,7 +8105,7 @@
   "key": "8366f1259d1fab6501b842fbab4b9d60",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster cannot act for set period of time.'",
   "translation": "怪物施法。如果你看到了这一点，那么请阅读这一条：\n“施法者不能在设定的时间段内行动。”",
-  "context": "ID: mon_zombie_bootlegsmoker_snatch_cost\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_bootlegsmoker_snatch_cost\n",
+  "context": "ID: mon_maneater_bloodexp_stun\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp_stun\n",
   "stage": 0
  },
  {
@@ -8082,6 +8263,20 @@
   "stage": 3
  },
  {
+  "key": "0ccd2ff340090c75b85e8dcbff288c94",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster consumes the blood underneath, and heals based on its intensity.'",
+  "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Caster consumes the blood underneath，and heals based on its intensity.'",
+  "context": "ID: mon_maneater_bloodcheck_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodcheck_target\n",
+  "stage": 1
+ },
+ {
+  "key": "f77388de2c081b89562b4fa3cc870446",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster consumes the blood.'",
+  "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Caster consumes the blood.'",
+  "context": "ID: mon_maneater_bloodconsume_invertebrate\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodconsume_invertebrate\n",
+  "stage": 1
+ },
+ {
   "key": "20e198afb791fb7d3e3f25097203f5b4",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster converts nearby terrain into flesh variant.'",
   "translation": "怪物施法的咒语。如果你看到了这一点，请阅读这一条：\n“施法者将附近的地形转化为血肉变体。”",
@@ -8217,6 +8412,13 @@
   "stage": 1
  },
  {
+  "key": "35c90223214265cb6ff09666792dd608",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster explodes into a shower of blood, dealing damage to anyone caught in it.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster explodes into a shower of blood, dealing damage to anyone caught in it.'",
+  "context": "ID: mon_maneater_bloodexp\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp\n",
+  "stage": 1
+ },
+ {
   "key": "5917b82569d7ff744b6156fa0e93c347",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster explodes, dealing acid damage and spreads blood acid.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这篇：\n“施法者爆炸，造成酸伤害并传播血酸。”",
@@ -8249,6 +8451,13 @@
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster forms several needle-like tentacles to strike at the target that hits a random limb. This is casted randomly from 1 to 4.'",
   "translation": "怪物施法的。如果你看到了这一点，那么请阅读这一条：\n'的施法者形成几个针状触须，打击目标，击中一个随机的肢体。这是从1到4随机铸造的",
   "stage": 5
+ },
+ {
+  "key": "d86d9d008b3b97bd6c1af9d1ec9ed9be",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains an effect that greatly increases armor.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster gains an effect that greatly increases armor.'",
+  "context": "ID: mon_maneater_bloodexp_effcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp_effcheck\n",
+  "stage": 1
  },
  {
   "key": "52b2fd1908e8eabad38f2663e5febd96",
@@ -8349,6 +8558,13 @@
   "stage": 5
  },
  {
+  "key": "bbd16f0c5a8eb0bf27f44a00bb88aa63",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster heals by an amount based on their current health.'",
+  "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Caster heals by an amount based on their current health.'",
+  "context": "ID: mon_maneater_evo_healcheck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_evo_healcheck\n",
+  "stage": 1
+ },
+ {
   "key": "23433930f4dc3eae75e17cf690bafa41",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster heals its nearby allies. If caster stands above a gore field, perform the healing, otherwise it takes away its own health to do so.'",
   "translation": "怪物施法。如果你看到了这一点，那么请阅读这一条：\n'施法者治疗其附近的盟友。如果施法者站在血污场上方，进行治疗，否则会夺走其自身的生命。”",
@@ -8418,6 +8634,20 @@
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者跳到目标的脚上，伤害了他们的整体机动性。”",
   "context": "ID: mon_zombie_cling_cling\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_cling_cling\n",
   "stage": 5
+ },
+ {
+  "key": "eeb810dc9a673db84cb7ccf4bbeddd7e",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster loses 120 stack after using this ability.'",
+  "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Caster loses 120 stack after using this ability.'",
+  "context": "ID: mon_maneater_bloodexp_loseeff\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodexp_loseeff\n",
+  "stage": 1
+ },
+ {
+  "key": "873a8b6b2bbf0b4451902a3ddaeab2ba",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster loses 40 stack after using this ability.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster loses 40 stack after using this ability.'",
+  "context": "ID: mon_maneater_bloodspray_cost\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodspray_cost\n",
+  "stage": 1
  },
  {
   "key": "8083655cea6d2344f8e50770419e41cc",
@@ -8844,6 +9074,13 @@
   "stage": 3
  },
  {
+  "key": "d40aad1a59f066c19d8ecfe9d7ba5461",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster sprays blood at their target.'",
+  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster sprays blood at their target.'",
+  "context": "ID: mon_maneater_bloodspray\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bloodspray\n",
+  "stage": 1
+ },
+ {
   "key": "e1ea23086276ed041ae4609af461857f",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster spreads its blob-stimulating goo through its fingers, causing the infected creature's blob to grow rapidly which increases the host's body mass, gaining combat bonuses, but makes them suffer from excessive growth.'",
   "translation": "怪物施法的。如果你看到了这一点，那就读这一条：\n“施法者通过手指传播其刺激性粘液，使受感染生物的粘液迅速增长，从而增加宿主的体重，获得战斗加值，但使其遭受过度增长的痛苦。”",
@@ -9218,7 +9455,6 @@
   "key": "006110b3041f3af41428ea4439c0a1a0",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster's blood suck pulls in the blood fields. This is casted for 3 times.'",
   "translation": "怪物施法的。如果你看到这个，那就读这篇：\n'施法者的吸血吸进了血场。这是铸造3次",
-  "context": "ID: mon_maneater_pullb\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_pullb\n",
   "stage": 5
  },
  {
@@ -9472,7 +9708,6 @@
   "key": "7f6d72cd0220b0ba34bcbe23f2cf024b",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'More vine strands from the caster sweeps around the vicinity, collecting and sucking the blood fields in which heals the caster.'",
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n'来自施法者的更多藤蔓在附近扫来扫去，收集并吸吮施法者疗愈的血田。'",
-  "context": "ID: mon_maneater_bsuck\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_maneater_bsuck\n",
   "stage": 5
  },
  {
@@ -9659,9 +9894,9 @@
  {
   "key": "8a9e64d86ed12ad40de129bc7f4683b2",
   "original": "Split",
-  "translation": "剥离",
+  "translation": "分裂",
   "context": "ID: mon_zombie_nightwail_shadow_split\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_nightwail_shadow_split\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "180bc3b1c5619aaef40e803f49921012",
@@ -10865,8 +11100,14 @@
   "key": "df5aaf1dd3a9fff7d243245e19226414",
   "original": "The %s's vine reaches at you, but you dodge!",
   "translation": "%s的藤蔓向你伸出，但你躲闪了！",
-  "context": "ID: secro_maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_vineslash\n",
   "stage": 0
+ },
+ {
+  "key": "b4c9754a8ecd4d90204be1e2fb6498ed",
+  "original": "The %s's vine slashes at you, but you dodge!",
+  "translation": "The %s's vine slashes at you, but you dodge!",
+  "context": "ID: secro_maneater_vineslash\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_maneater_vineslash\n",
+  "stage": 1
  },
  {
   "key": "8fb8f0960ee04f94d20f82d63a51f3b9",
@@ -11018,6 +11259,13 @@
   "original": "The clinger detaches!",
   "translation": "The clinger detaches!",
   "context": "ID: clinger_clinging\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_monitem.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→TOOL_ARMOR→clinger_clinging\n",
+  "stage": 1
+ },
+ {
+  "key": "fdbb35659820cd095d58337d2a37ee09",
+  "original": "The colossal maneater is rapidly regenerating!",
+  "translation": "The colossal maneater is rapidly regenerating!",
+  "context": "ID: eoc_secro_mon_maneater_evo_heal\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_maneater_evo_heal\n",
   "stage": 1
  },
  {
@@ -11272,6 +11520,13 @@
   "stage": 3
  },
  {
+  "key": "d782b1f6ae5f9d5a3a37d601108bc7a7",
+  "original": "The maneater is rapidly regenerating!",
+  "translation": "The maneater is rapidly regenerating!",
+  "context": "ID: eoc_secro_mon_maneater_heal\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_maneater_heal\n",
+  "stage": 1
+ },
+ {
   "key": "3ef125a33609f3531b48f0b19da328aa",
   "original": "The nix eats away your mental stability!",
   "translation": "尼克斯侵蚀了你的精神稳定性！",
@@ -11398,6 +11653,20 @@
   "translation": "喷吐者喷出一股酸液！",
   "context": "ID: mon_zedfail_squirtler\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Failed.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zedfail_squirtler\n",
   "stage": 3
+ },
+ {
+  "key": "f1eabca0a98493ec0b9f8093c549216e",
+  "original": "The sticky blood leaves your body!",
+  "translation": "The sticky blood leaves your body!",
+  "context": "ID: unity_bloodslow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→unity_bloodslow\n",
+  "stage": 1
+ },
+ {
+  "key": "b8c5fd2aabee0fab2fe3f81b3c495d5a",
+  "original": "The sticky blood leaves your body.",
+  "translation": "The sticky blood leaves your body.",
+  "context": "ID: unify_bloodslow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→unify_bloodslow\n",
+  "stage": 1
  },
  {
   "key": "15ef0bf53e554828c3867ec39f246b43",
@@ -11604,7 +11873,6 @@
   "key": "66ab01fc4a858bf0b35ec95f06637202",
   "original": "Thick bloodcoat leaves your body!",
   "translation": "厚厚的血衣离开你的身体！",
-  "context": "ID: unity_bloodslow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_type→unity_bloodslow\n",
   "stage": 3
  },
  {
@@ -11794,9 +12062,9 @@
  {
   "key": "8322f6064364d0e0c51179aff30264a6",
   "original": "This is an animate shadow-looking thing. There's nothing to fear about its appearance, nothing at all.",
-  "translation": "这是一个具有动画效果的阴影。它的外表没有什么可怕的，一点也不可怕。",
+  "translation": "这是一个动画风格的影子。它的外表没有什么可怕的地方，一点都没有。",
   "context": "ID: mon_zombie_nightwail_shadow\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Lying.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nightwail_shadow\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "53da5a3c11ad27269592ff3224ee67f5",
@@ -13264,6 +13532,13 @@
   "stage": 3
  },
  {
+  "key": "ec9dbd11f34619482f5fdd8b5f9bc50c",
+  "original": "colossal maneater",
+  "translation": "colossal maneater",
+  "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
+  "stage": 1
+ },
+ {
   "key": "538042a5a815292b3a215776718b89e0",
   "original": "cooked flesh chunk",
   "translation": "熟的块状血肉",
@@ -14132,7 +14407,6 @@
   "key": "e174f5c7e5c73d48970661a8242963d9",
   "original": "gas station",
   "translation": "加油站",
-  "context": "ID: s_gas\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[0]\n",
   "stage": 3
  },
  {
@@ -14291,28 +14565,24 @@
   "key": "e919c49d5f0cd737285367810a3394d0",
   "original": "hotel",
   "translation": "旅馆",
-  "context": "ID: hotel_tower_roof_1_4\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[2]\n",
   "stage": 3
  },
  {
   "key": "8477e85961404f83b51b1135ed9d1ad5",
   "original": "hotel basement",
   "translation": "酒店地下室",
-  "context": "ID: hotel_tower_b_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[4]\n",
   "stage": 3
  },
  {
   "key": "38bd592eeee9b6340a95b9b8cd625547",
   "original": "hotel entrance",
   "translation": "酒店大堂",
-  "context": "ID: hotel_tower_1_5\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[3]\n",
   "stage": 3
  },
  {
   "key": "3acc87a998aff69c47ce8a6626ebc7c9",
   "original": "hotel parking",
   "translation": "酒店停车场",
-  "context": "ID: hotel_tower_1_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[1]\n",
   "stage": 3
  },
  {
@@ -14538,14 +14808,12 @@
   "key": "be6f3369f3d1e8cb81e39c3f680ce46d",
   "original": "motel",
   "translation": "汽车旅馆",
-  "context": "ID: motel_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[8]\n",
   "stage": 3
  },
  {
   "key": "5fc08b328d538129444266df220b93e8",
   "original": "motel roof",
   "translation": "汽车旅馆（屋顶）",
-  "context": "ID: motel_entrance_roof\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Maps/-Essentials/overmap_terrain_overrides.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→overmap_terrain→[7]\n",
   "stage": 3
  },
  {
