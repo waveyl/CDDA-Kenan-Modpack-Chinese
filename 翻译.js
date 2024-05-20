@@ -70,7 +70,7 @@ const sourceModDirs = _.sortedUniq(
 
 // 尝试用qwen翻译
 const apiKey = process.env.QWEN;
-const endpointUrl = 'https://dashscope.aliyuncs.com/api/v1/services/qwen/text-generation/generation';
+const endpointUrl = 'https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation';
 
 /**
  * 使用Qwen API进行文本生成
@@ -81,11 +81,22 @@ async function qwenTextGenerate(promptValue) {
   // 构建请求体
   const requestBody = {
     model: 'qwen-max',
-    prompt: `你是一名专业翻译员，擅长使用AI工具翻译我输入的内容。
-目标语言：中文
-优化要点：语法纠正、符合正常中文表达、适应中国文化
-要求：尽量使用我上传的文件中专业术语的表达，但在意思严重冲突下不需要符合文件中的翻译
-特别注意：保持原意，优化语言流畅性和准确性，这是CDDA大灾变中的游戏内容，确保它符合一个丧尸病毒爆发后的世界，直接输出内容，不用跟我解释为什么要那样翻译，除了有非常特殊的情况，比如运用了俚语或者典故之类的,${promptValue}\n\n翻译:`,
+    "input":{
+      "messages":[      
+        {
+          "role": "system",
+          "content": `你是一名专业翻译员，擅长使用AI工具翻译我输入的内容。
+          目标语言：中文
+          优化要点：语法纠正、符合正常中文表达、适应中国文化
+          要求：尽量使用我上传的文件中专业术语的表达，但在意思严重冲突下不需要符合文件中的翻译
+          特别注意：保持原意，优化语言流畅性和准确性，这是CDDA大灾变中的游戏内容，确保它符合一个丧尸病毒爆发后的世界，直接输出内容，不用跟我解释为什么要那样翻译，除了有非常特殊的情况，比如运用了俚语或者典故之类的`
+        },
+        {
+          "role": "user",
+          "content": `${promptValue}\n\n翻译:`
+        }
+      ]
+    },
     max_tokens: 100,
     temperature: 0.7,
   };
@@ -110,7 +121,7 @@ async function qwenTextGenerate(promptValue) {
 
     // 解析响应数据
     const data = await response.json();
-    const generatedText = data.text.trim();
+    const generatedText = data.output.text.trim();
 
     return generatedText;
   } catch (error) {
