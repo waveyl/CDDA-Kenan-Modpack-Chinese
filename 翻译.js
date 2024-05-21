@@ -295,7 +295,7 @@ function kvToParatranz(kvTranslationsCache, stages, contexts) {
         original,
         translation,
         context: contexts[original],
-        stage: stages[original],
+        stage: stages[original] ?? 0,
       };
     }),
     'original'
@@ -418,6 +418,7 @@ class ModCache {
       this.stages[value] = 1;
     } else {
       sharedTranslationCache[key] = `${sharedTranslationCache[key]}\n\n${value}`;
+      this.stages[value] = 0;
     }
     this.debouncedWriteTranslationCache();
   }
