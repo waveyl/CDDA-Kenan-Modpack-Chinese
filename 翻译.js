@@ -253,12 +253,13 @@ function tryTranslation(value) {
           }
           lastResult = result;
           retryCount = number;
-          retry();
+          return retry(new Error('Translation failed'));
         })
         .catch((error) => {
           logger.error('Translate failed', error.message, `stringToTranslate:\n${stringToTranslate}`);
           retryCount = number;
-          setTimeout(retry, 2000);
+          return new Promise((resolve) => setTimeout(resolve, 2000))
+            .then(retry);
         });
     },
     { retries: 10, maxTimeout: 10000, randomize: true }
