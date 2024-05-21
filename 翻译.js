@@ -117,7 +117,7 @@ async function qwenTextGenerate(promptValue) {
 
     if (!response.ok) {
       const errorData = await response.json();
-      throw new Error(`API请求失败，状态码：${response.status}，错误代码：${errorData.code}，错误信息：${errorData.message}, key: ${apiKey}`);
+      throw new Error(`API请求失败，状态码：${response.status}，错误代码：${errorData.code}，错误信息：${errorData.message}`);
     }
 
     // 解析响应数据
