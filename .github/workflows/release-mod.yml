@@ -43,6 +43,7 @@ jobs:
           BAIDU_TRANSLATION_SECRET: ${{ secrets.BAIDU_TRANSLATION_SECRET }}
           SOUGOU_TRANSLATION_APP_ID: ${{ secrets.SOUGOU_TRANSLATION_APP_ID }}
           SOUGOU_TRANSLATION_SECRET: ${{ secrets.SOUGOU_TRANSLATION_SECRET }}
+          QWEN: ${{ secrets.QWEN }}
       - name: Build Wiki
         run: npm run build-wiki
 
