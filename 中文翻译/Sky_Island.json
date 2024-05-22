@@ -1,0 +1,2277 @@
+[
+  {
+    "key": "b58ce3be8ac42b09633500580c62e112",
+    "original": "A boon from whatever powers control the warpstream, meant to make your first excursions safer. Using this strange blue-black goop will instantly heal your wounds and return you to health, but only while in your island sanctuary. Most importantly, this will only work while you are getting started. After you have survived a few return trips, it becomes a useless goo.",
+    "translation": "一种神奇的蓝黑色凝胶状药膏，来自掌控着扭曲流的力量的恩惠，能够使你的探险起步更顺利。使用这种凝胶可以立即治愈您的伤口，让你恢复健康，但只能在岛内生效。需要注意的是，这种凝胶只有在刚开始探险时有效果。随着生还回归几次之后，它就变成了无用的粘稠物。",
+    "stage": 5,
+    "context": "ID: warpheal_stone\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→warpheal_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpheal_stone"
+  },
+  {
+    "key": "fc03561cdf09d8ab2c6e5edd7da0826f",
+    "original": "A group of lethal mi-gos are draining a location where warp resonance is high. Destroy them all for a very large reward of warp shards.",
+    "translation": "一群致命的米·戈正在汲取一片扭曲波动较高的区域里的能量。消灭它们可获得巨量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MIGO_ELITE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_MIGO_ELITE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MIGO_ELITE"
+  },
+  {
+    "key": "9f313140148f8d1ecdc78c1dd3080d0d",
+    "original": "A hand-sized cage with a shimmering portal at its aperture. Despite being shaped more like a cat carrier, the power of warp enables it to capture creatures far bigger than you. This may be your best bet for bringing animals home to your island sanctuary. Activate to capture an adjacent animal, or to release a carried animal.",
+    "translation": "手掌大小的笼子，在它的笼口有一个闪光的入口。尽管它大小和外形只是个猫笼，但扭曲之力能使它能够捕捉比笼子大得多的生物。这可能是你把动物带回家的最佳选择。激活以捕获邻近的动物，或释放携带的动物。",
+    "stage": 5,
+    "context": "ID: warp_carrier\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→warp_carrier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_carrier"
+  },
+  {
+    "key": "639396427359f88aac6372cbdc3821de",
+    "original": "A handful of zombies are congregating at a location where warp resonance is high. Clear them out for a minimal reward of warp shards.",
+    "translation": "一小群丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得极少扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_LIGHT\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_LIGHT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_LIGHT"
+  },
+  {
+    "key": "ef670dda7ea5064bbc9c6ab32b5efce6",
+    "original": "A horde of low level zombies are congregating at a location where warp resonance is high. Clear them out for a small reward of warp shards.",
+    "translation": "一大群低级丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得少量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_HORDE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_HORDE"
+  },
+  {
+    "key": "6dd942f15b252651f70a91b9a8dce4e2",
+    "original": "A huge horde of evolved zombies are congregating at a location where warp resonance is high. Clear them out for a large reward of warp shards.",
+    "translation": "一大群进化丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得大量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MID_HORDE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_MID_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MID_HORDE"
+  },
+  {
+    "key": "c38d3fe73486953da3af9e34b100aa64",
+    "original": "A hundred shards of wood roughly tied together for easier transport.  Disassemble to untie them.",
+    "translation": "被粗略地捆起来的碎木，每100个捆在一起方便运输。激活以解绑.",
+    "stage": 5,
+    "context": "ID: bundle_splinter\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→bundle_splinter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bundle_splinter"
+  },
+  {
+    "key": "3dbb358e53ac54c1eb14ace76927aafa",
+    "original": "A looped pair of shimmering blue-black straps that can be worn over the shoulders like a harness. They make hauling effortless, and one could easily cart home anything from an engine block to a bull moose with this, while still keeping hands free. The downside is that no matter how you might try, they only seem to be able to support a single item. It also outright refuses to be packed inside of other bags.",
+    "translation": "一对闪闪发光的蓝黑色背带，可以系在肩上。有了这个，搬运物品便省力多了，无论是搬发动机还是驼鹿的尸体，还顺带解放双手。但缺点是不管你怎么试，背带每次都只能挂起单个物品。这个背带没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warphaulbag\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→ARMOR→warphaulbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphaulbag"
+  },
+  {
+    "key": "c2219ff9098b9dd41bc5093ee75babc7",
+    "original": "A rift to another dimension has drained latent energies which must be released into the stream of warp once more. Kill at least 3 nether-born creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "一道通往其他维度的裂缝抽干了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少3个异界生物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_NETHER\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_NETHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_NETHER"
+  },
+  {
+    "key": "0af4d42214a5a1493ad1cb7596b9ddd4",
+    "original": "A shimmering translucent barrier that almost yields to the touch, but adamantly refuses entry.",
+    "translation": "一道闪闪发光的半透明屏障，表面能够伸手触摸，但无法穿透过去。",
+    "stage": 5,
+    "context": "ID: t_traderwall\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→terrain→t_traderwall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_traderwall"
+  },
+  {
+    "key": "c05f52c05f8ede9197b2e62a1a1086b1",
+    "original": "A sickening wet sound rips through you as another warp pulse hits. You can feel your whole body trying to pull itself apart, and if you wait any longer, it just might. If you want to live, you need to get home NOW!",
+    "translation": "一道扭曲脉冲穿过了你，令人作呕的潮湿声音正撕裂着你。你感觉整个身体都在试图把自己给四分五裂。如果你还不想死，现在就回去！",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck5\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck5"
+  },
+  {
+    "key": "c1e388734c7c224c774eaa3384429e7b",
+    "original": "A single supremely powerful zombie has been found at a location where warp resonance is high. Destroy it for a very large reward of warp shards.",
+    "translation": "一个无比危险的丧尸个体出现在了一片扭曲波动较高的地区。消灭它，可获得巨量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_BOSS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS"
+  },
+  {
+    "key": "f04d9c12cf21010ccdaa17b9f99a0e51",
+    "original": "A small quantity of airy-thin material that resembles flaked obsidian. It glints with a purplish shimmer that seems to stretch off the bounds of itself and into the air itself. Offered to the powers that be, one could exchange it for valuable artifacts.",
+    "translation": "一小份薄如空气的类似黑曜石片的物质，闪烁着紫色的光芒，它的边缘似乎有种延伸到空气中的感觉。将其献给某种强大存在，可以用来交换有价值的造物。",
+    "stage": 5,
+    "context": "ID: warptoken\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→AMMO→warptoken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warptoken"
+  },
+  {
+    "key": "093cab14542171133f5d8fb816e0ddd3",
+    "original": "A special stone slab that lets you change how difficult you want your expedition time limits to be.",
+    "translation": "一块特殊的石板，可以调整你想要的探险最大时长的难度。",
+    "stage": 5,
+    "context": "ID: warpdifficulty_stone\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warpdifficulty_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdifficulty_stone"
+  },
+  {
+    "key": "ce583352fea2c6b6b6c333fed0ba00fa",
+    "original": "A special stone slab that you can activate to check your expedition statistics.",
+    "translation": "一块特殊的石板.激活以查看你的探险数据.",
+    "stage": 5,
+    "context": "ID: warpstat_stone\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warpstat_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpstat_stone"
+  },
+  {
+    "key": "5eae4ca0d02dd551f5a91314c730e8ad",
+    "original": "A strange cube, deceptively bulky and heavy. It flickers and shimmers, a thousand possible realities stretching out in as many directions. It can be activated by touch to permanently transform it into an artifact of truly random design.",
+    "translation": "一个怪异的立方体，给人一种厚重的感觉. 它闪烁着，微光摇曳. 千种可能的现实向各处延伸.可以通过触摸来激活，能够永久转变为一件随机的神器.",
+    "stage": 5,
+    "context": "ID: artifactbox\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→artifactbox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artifactbox"
+  },
+  {
+    "key": "d78e63aa1af2739798c17abfc3fcad89",
+    "original": "A strange statue that will take you back home.",
+    "translation": "一座古怪的建筑物，能让你返回浮空岛。",
+    "stage": 5,
+    "context": "ID: f_returnportal\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_returnportal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_returnportal"
+  },
+  {
+    "key": "638b73973f10f7afdb6d34173ab12b05",
+    "original": "A strange statue that will whisk you away to the dangerous world beyond.",
+    "translation": "一座古怪的建筑物，能够将你传送至岛下的险恶之地。",
+    "stage": 5,
+    "context": "ID: f_exitportal\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_exitportal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_exitportal"
+  },
+  {
+    "key": "34a514dd825613c3fa8efbf48909dc04",
+    "original": "A supremely powerful zombie has been found at a location where warp resonance is high. Be warned that it will be accompanied by an elite swarm! Destroy them all for a huge reward of warp shards.",
+    "translation": "一个危险至极的丧尸个体出现在了一片扭曲波动较高的地区。它身边伴随着一群精英丧尸。消灭它们，可获得极多扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_GROUP\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_BOSS_GROUP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_GROUP"
+  },
+  {
+    "key": "0cd0d51902a5da5ba1a881ed9c31326f",
+    "original": "A supremely powerful zombie has been found at a location where warp resonance is high. Be warned that it will be accompanied by an massive horde of weaker zombies! Destroy them all for a huge reward of warp shards.",
+    "translation": "一个危险至极的丧尸个体出现在了一片扭曲波动较高的地区。它身边伴随着数量极多的丧尸。消灭它们，可获得极多扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_HORDE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_BOSS_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_HORDE"
+  },
+  {
+    "key": "0bdf7897ce65ef600014ac7c084cea3e",
+    "original": "A swarm of evolved zombies are congregating at a location where warp resonance is high. Clear them out for a medium reward of warp shards.",
+    "translation": "一些进化丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得中量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MID\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_MID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MID"
+  },
+  {
+    "key": "aa1f19e880d676679a160534d8ebd98e",
+    "original": "A swarm of extremely dangerous zombies are congregating at a location where warp resonance is high. Clear them out for a very large reward of warp shards.",
+    "translation": "一群极度危险的丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得巨量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_ELITE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_ELITE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_ELITE"
+  },
+  {
+    "key": "a7071d3ee16d0c34fc348cfeb9ae143e",
+    "original": "A swarm of rather powerful zombies are congregating at a location where warp resonance is high. Clear them out for a large reward of warp shards.",
+    "translation": "一群相当强大的丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得大量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_HARD\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_HARD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_HARD"
+  },
+  {
+    "key": "c40578202836ed9208b52a4897abe803",
+    "original": "A team of supremely powerful zombies has been found at a location where warp resonance is high. Destroy it for a very large reward of warp shards.",
+    "translation": "一群无比危险的丧尸群出现在了一片扭曲波动较高的地区。消灭它们，可获得极多扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_MULTI\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_KILL_BOSS_MULTI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_MULTI"
+  },
+  {
+    "key": "60b06814996e178d115dea9b7ca734eb",
+    "original": "A very small cluster of warp energy has left shards behind at this location. All you need to do is find and retrieve them. There may be threats nearby, but unlike most tasks, no special guards are on-site. A minimal reward, but little risk.",
+    "translation": "任务区域留下了一小团扭曲能量的碎片，你的任务是搜寻并把碎片带回来。区域周围可能会存在威胁，但不同于大部分任务，区域内没有特殊怪物，虽然任务奖励很少，但风险也相当小。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_TREASURE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_TREASURE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_TREASURE"
+  },
+  {
+    "key": "bda6945dd10e00dc53282bd8a1a859ee",
+    "original": "A warp pulse passing through you twists your blood inside your veins and your eyes pulse in pain. You've overstayed your welcome and need to get home.",
+    "translation": "随着扭曲脉冲穿过了你，你感到血管中的血液在扭曲，眼球伴随痛苦抽动着。你待得太久，该返程了。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck2"
+  },
+  {
+    "key": "5c84616653693e33679e12112664911e",
+    "original": "A warp pulse shudders through your head like a localized earthquake and your extremities surge with pain like they're peeling open. You need to get home as soon as possible.",
+    "translation": "扭曲脉冲掠过你的脑海，你感到脑子像地震般的颤动，你的四肢疼痛不堪，像被人扒掉了皮。你最好赶快回去。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck3"
+  },
+  {
+    "key": "bfd4eb25ac1acd6c7634d8504f447216",
+    "original": "An attempt at an entirely new way to play CDDA, inspired by games like Escape from Tarkov and Dark and Darker. Begin on a floating island in the sky and warp down to random spots on the earth below to conduct expeditions for items you need. Permadeath is gone - you will return to the island on death but lose any items you had on you. Build up your stockpile, carry out missions for unique rewards, customize your home island, and be prudent about what you take on any given outing. Be aware that 'PLAY NOW' will NOT work, you MUST make a custom character.",
+    "translation": "一种全新的CDDA玩法，灵感来自于《逃离塔科夫》和《Dark and Darker》等游戏。开始时你将置身于一座浮空之岛，通过随机传送至地面的某个地方，进行探险以搜集所需的物资。你的角色不会消失——当你死亡时，你将回到岛屿上，但会失去身上所携带的任何物品。填补库存、执行任务、获得独特奖励、构建你的岛屿之家，出发探索前考虑好你所携带的物品。无法使用“直接开始”进行游玩，需要创建新人物。",
+    "stage": 5,
+    "context": "ID: skyisland\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→MOD_INFO→skyisland\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=skyisland"
+  },
+  {
+    "key": "8e90a25f1179eb4a683de7d409169f27",
+    "original": "Another warp pulse rocks through you and your organs wrench themselves over. Existence is fracturing. You need to get home immediately.",
+    "translation": "随着扭曲脉冲穿过了你，你感觉体内的内脏被扭曲了，身体正在瓦解。你必须马上回去。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck4\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck4"
+  },
+  {
+    "key": "962d51ecf0a5697bbc4c51934e7728ff",
+    "original": "Are the birds around here... sparkling? It seems even the local wildlife has started absorbing latent warp energy. Kill at least 5 non-zombie birds of any kind before returning to your sanctuary for bonus warp shards.",
+    "translation": "周围有鸟在环绕吗…看起来闪闪发亮的？似乎本地的野生动物也都开始汲取扭曲流了。杀死至少5个未丧尸化的鸟类，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_BIRD\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_BIRD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_BIRD"
+  },
+  {
+    "key": "fd728c9ae22b8af812320f6aab24af90",
+    "original": "Are the critters around here... sparkling? It seems even the local wildlife has started absorbing latent warp energy. Kill at least 5 non-zombie mammals of any kind before returning to your sanctuary for bonus warp shards.",
+    "translation": "周围有活物在动吗…看起来闪闪发亮的？似乎本地的野生动物也都开始汲取扭曲流了。杀死至少5个未丧尸化的哺乳动物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_MAMMAL\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_MAMMAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_MAMMAL"
+  },
+  {
+    "key": "ca75233e6c45138c303eb06e9641a5f2",
+    "original": "As if the world ending wasn't enough, it seems some kind of extradimensional powers that be have taken an interest in you. You have been placed on a floating island high above the Earth, safe but isolated. Only by using the reality-bending powers of warp technology can you visit the world below in brief, randomly-targeted excursions below. Venture down, gather supplies, and return with only what you can carry to build up your home base and your stash over time. The powers of the warp make you unable to ever truly die, so on failing such an expedition, you will simply lose all items and equipment you were carrying and be swiftly returned home at low health.",
+    "translation": "某些超维存在似乎不满足于这场毁灭世界的浩劫，进而对你产生了兴趣。你被放置在一座浮于地表之上的浮空岛上，安全但孤立无援。只有通过能扭曲现实的传送技术，才能随机传送至地下某个地方。勇闯直下，收集物资，带着你能扛动的东西回家，逐渐建设你的家园和库存。传送技术还让你无法真正死去，当你死亡时，你只会失去携带的所有物品和装备，并以低血量返回岛屿。",
+    "stage": 5,
+    "context": "ID: scenario_warper\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→scenario→scenario_warper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warper"
+  },
+  {
+    "key": "fdcbd6f3096036d36cdf90b50f3fdaa0",
+    "original": "As the warp pulse hits, you realize there are no words to describe how much trouble you're in. Your body is crumbling to wet paste and your blood is twisting into a viny tangle. All you know is pain. \\nYou're not just dying, you're dying horribly. \\nIf escape is already near you may survive against all odds, but oblivion is only moments away.",
+    "translation": "伴随着一道扭曲脉冲击中了你，言语已经无力去形容你的麻烦有多大。你的身体正在崩溃成一滩烂糊，血液如藤蔓般扭曲。你只能感受到极度的痛苦。\\n你不仅要死了，而且会死得很惨。\\n如果传送点就在不远处，尚有一线生机。但消逝仅有咫尺之遥。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck6\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck6\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck6"
+  },
+  {
+    "key": "828043ebf3368359c67731fd0960badb",
+    "original": "Autodoc copyplate (activated)",
+    "translation": "全自动医疗仪复制板 (就绪)",
+    "stage": 5,
+    "context": "ID: warp_autodoc_active\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→warp_autodoc_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_active"
+  },
+  {
+    "key": "a402c70a08d24c71d3f621fa14a0f9f0",
+    "original": "Autodoc copyplate (inert)",
+    "translation": "全自动医疗仪复制板 (空白)",
+    "stage": 5,
+    "context": "ID: warp_autodoc_inert\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→warp_autodoc_inert\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_inert"
+  },
+  {
+    "key": "31ef0d60543cf1df3d28deefb745cd2c",
+    "original": "Autodoc copyplates (activated)",
+    "translation": "全自动医疗仪复制板 (就绪)",
+    "stage": 5,
+    "context": "ID: warp_autodoc_active\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→warp_autodoc_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_active"
+  },
+  {
+    "key": "a0c4d8873d729837b21abc6ab7166fd9",
+    "original": "Autodoc copyplates (inert)",
+    "translation": "全自动医疗仪复制板 (空白)",
+    "stage": 5,
+    "context": "ID: warp_autodoc_inert\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→warp_autodoc_inert\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_inert"
+  },
+  {
+    "key": "41f267a467ed36f7a83fc1324201ea00",
+    "original": "Build sofa",
+    "translation": "建造沙发",
+    "stage": 5,
+    "context": "ID: build_sofa\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→build_sofa\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=build_sofa"
+  },
+  {
+    "key": "9635c4817dfa223f82bdc13b3335a7fc",
+    "original": "Chop some wood from Infinitree",
+    "translation": "砍伐无尽树",
+    "stage": 5,
+    "context": "ID: infinitree_chop\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→infinitree_chop\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=infinitree_chop"
+  },
+  {
+    "key": "dc3ce013f5fd6508933379c4d4769e21",
+    "original": "Convert sofa into Autodoc couch",
+    "translation": "沙发转为手术台",
+    "stage": 5,
+    "context": "ID: autodoc_couch_conversion\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→autodoc_couch_conversion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=autodoc_couch_conversion"
+  },
+  {
+    "key": "b9a87645f4f67dd63635cdb2fc218894",
+    "original": "Cover soil with grass",
+    "translation": "铺盖草地",
+    "stage": 5,
+    "context": "ID: sow_grass\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→sow_grass\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sow_grass"
+  },
+  {
+    "key": "d30a2a54c1c204772a941f5ca12596b2",
+    "original": "Difficulty Adjuster",
+    "translation": "难度调整石板",
+    "stage": 5,
+    "context": "ID: warpdifficulty_stone\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warpdifficulty_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdifficulty_stone"
+  },
+  {
+    "key": "1d2d449a1be07cee19f6e124788f486c",
+    "original": "Difficulty set to Casual. You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为普通难度.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck1"
+  },
+  {
+    "key": "e1f73f6792784b661b4026dd8c351696",
+    "original": "Difficulty set to Hard. You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为困难模式.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck2"
+  },
+  {
+    "key": "3340bcb652950cf3ddeef99accb6e3cc",
+    "original": "Difficulty set to Impossible. You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为极难模式.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck3"
+  },
+  {
+    "key": "de5ae7e61e4cf3b8e1cf81422792af8c",
+    "original": "Difficulty set to Normal. You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为普通模式.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck0\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck0\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck0"
+  },
+  {
+    "key": "913a3940e297285a083d34cd9af44a97",
+    "original": "Disintegrating!",
+    "translation": "解体!",
+    "stage": 5,
+    "context": "ID: warpdisintegration\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpdisintegration\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdisintegration"
+  },
+  {
+    "key": "323c27c1491de379a6c7b8a78438e548",
+    "original": "Earthside",
+    "translation": "地表探险",
+    "stage": 5,
+    "context": "ID: awayfromhome\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mutation→awayfromhome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=awayfromhome"
+  },
+  {
+    "key": "6e631b11b1956235e7b2ca6feb4fb118",
+    "original": "Find the warp shards!",
+    "translation": "寻找扭曲碎片!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_TREASURE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_TREASURE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_TREASURE"
+  },
+  {
+    "key": "beff196eeea82b4fffd24fdcbe3488b7",
+    "original": "Goosebumps cover your skin as a warp pulse passes through you. You're only one warp pulse from your deadline.",
+    "translation": "随着扭曲脉冲穿过了你，你的身体起满鸡皮疙瘩。下一次脉冲开始会让你患上扭曲病。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck1"
+  },
+  {
+    "key": "af6602bff1f116e153faa5b18067d1f5",
+    "original": "If you want to get home with your stuff, you'll need to reach one of these nearby warp points. They're only things that can bring you back to your sanctuary island in one piece.",
+    "translation": "要是你想把你收集的战利品带回去，你需要找到附近的某个回归传送点。它们是唯一能让你完好无损回到岛上的东西。",
+    "stage": 5,
+    "context": "ID: MISSION_REACH_EXTRACT\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_REACH_EXTRACT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_REACH_EXTRACT"
+  },
+  {
+    "key": "1049eaef6a782c75f8333b255f4e5e6f",
+    "original": "Kill 10 Zombies this expedition",
+    "translation": "本次消灭10个丧尸",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED1\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_ZED1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED1"
+  },
+  {
+    "key": "18064db35607c52c312ee7fe7de54a53",
+    "original": "Kill 100 Zombies this expedition",
+    "translation": "本次消灭100个丧尸",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED3\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_ZED3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED3"
+  },
+  {
+    "key": "3c8becd6dc993e6f98808bb36e6ef043",
+    "original": "Kill 3 nether creatures this expedition",
+    "translation": "本次消灭3个异界生物",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_NETHER\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_NETHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_NETHER"
+  },
+  {
+    "key": "fa355554fb25b6db33be5163113c5a01",
+    "original": "Kill 5 un-zombified birds this expedition",
+    "translation": "本次消灭5只未丧尸化的鸟类",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_BIRD\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_BIRD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_BIRD"
+  },
+  {
+    "key": "cce1ead8bef13384f2a3a89c4d5c2d50",
+    "original": "Kill 5 un-zombified mammals this expedition",
+    "translation": "本次消灭5只未丧尸化的哺乳动物",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_MAMMAL\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_MAMMAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_MAMMAL"
+  },
+  {
+    "key": "24572bacd040c311670a02559c92ae51",
+    "original": "Kill 50 Zombies this expedition",
+    "translation": "本次消灭50个丧尸",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED2\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_ZED2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED2"
+  },
+  {
+    "key": "65afbc1e7dab74bfd006427a0ff75ed3",
+    "original": "Kill a Mi-Go this expedition",
+    "translation": "本次消灭1个米·戈",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_MIGO\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_MIGO"
+  },
+  {
+    "key": "7fdedb053dba157f3231ec6fd5d762c9",
+    "original": "Kill the armed interloper!",
+    "translation": "消灭武装闯入者!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN1\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_ASSASSIN1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN1"
+  },
+  {
+    "key": "39d2a14b98126335c89e9cce61d9e3c1",
+    "original": "Kill the guarded interloper!",
+    "translation": "消灭守卫闯入者!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3"
+  },
+  {
+    "key": "973f4dfb1f14f0616619592c4e0fd85c",
+    "original": "Kill the interloper!",
+    "translation": "消灭闯入者!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN2\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_ASSASSIN2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN2"
+  },
+  {
+    "key": "2d5c13315f41eb3dfeb3eceb09e07b45",
+    "original": "Kill the warp-draining elite zombies!",
+    "translation": "消灭汲取扭曲的精英丧尸群!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_ELITE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_ELITE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_ELITE"
+  },
+  {
+    "key": "63f9f35dceb0e8a1b6931231b6f50fa4",
+    "original": "Kill the warp-draining evolved horde!",
+    "translation": "消灭汲取扭曲的进化丧尸群!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MID_HORDE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MID_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MID_HORDE"
+  },
+  {
+    "key": "3263067eb4cbde754a277a9a6b6a2d15",
+    "original": "Kill the warp-draining evolved zombies!",
+    "translation": "消灭汲取扭曲的进化丧尸!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MID\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MID"
+  },
+  {
+    "key": "def6f20ef90596135f3a30b80d3172cb",
+    "original": "Kill the warp-draining fearsome zombies!",
+    "translation": "消灭汲取扭曲的恐怖丧尸!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_HARD\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_HARD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_HARD"
+  },
+  {
+    "key": "c44718243de9ab287e1a8eab75f5c56d",
+    "original": "Kill the warp-draining horde!",
+    "translation": "消灭汲取扭曲的丧尸群!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_HORDE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_HORDE"
+  },
+  {
+    "key": "2a9781af06b41cff0a6a328c3566a749",
+    "original": "Kill the warp-draining mi-go overlord!",
+    "translation": "消灭汲取扭曲的米·戈霸主!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MIGO_ELITE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MIGO_ELITE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MIGO_ELITE"
+  },
+  {
+    "key": "770b57a265d02812b275e8a7656f77e1",
+    "original": "Kill the warp-draining mi-go threat!",
+    "translation": "消灭汲取扭曲的米·戈!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MIGO\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MIGO"
+  },
+  {
+    "key": "fdf24d6a54095b68de19a2b0ecfb7f16",
+    "original": "Kill the warp-draining zombie horde lord!",
+    "translation": "消灭汲取扭曲的丧尸列王!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_HORDE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_HORDE"
+  },
+  {
+    "key": "a2a09e56a41bb071de024091bb6ae1eb",
+    "original": "Kill the warp-draining zombie leader!",
+    "translation": "消灭汲取扭曲的丧尸领主!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_GROUP\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS_GROUP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_GROUP"
+  },
+  {
+    "key": "1be021f61261fbe1a2456d842c900648",
+    "original": "Kill the warp-draining zombie lord!",
+    "translation": "消灭汲取扭曲的丧尸头目",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS"
+  },
+  {
+    "key": "47bbde52b3fac63c35bb0564887daea7",
+    "original": "Kill the warp-draining zombie superteam!",
+    "translation": "消灭汲取扭曲的丧尸头目群!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_MULTI\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS_MULTI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_MULTI"
+  },
+  {
+    "key": "3575d22e7e014df73dc36307c7ec40a1",
+    "original": "Kill the warp-draining zombies!",
+    "translation": "消灭汲取扭曲的丧尸!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_LIGHT\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_LIGHT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_LIGHT"
+  },
+  {
+    "key": "06eabf8bf22e452002550778fe4fe362",
+    "original": "Moments before your last breath leaves your body, the mote of warp essence on you jolts with a brilliant energy. Its thin filament immediately snaps tight, reeling you home faster than you can process what it was that just saved your life. The mote is spent, but you arrive home alive and well.",
+    "translation": "在你死前只有最后一口气的瞬间，你身上的溯返之尘开始带着耀眼的能量震荡起来，飘荡空中的细线立刻绷紧，在意识到什么救了你之前，你已经回到了岛上。尘埃已经消散了，你完好无损的回来了。",
+    "stage": 5,
+    "context": "ID: EOC_youdied\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_youdied\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_youdied"
+  },
+  {
+    "key": "388efe8d1c02e91f56be705513e05144",
+    "original": "Now, let's select your difficulty mode!\\n\\nThis only affects how long the expedition timer is. It won't change combat difficulty or any other settings.",
+    "translation": "现在，请选择你想要的游戏难度！\\n\\n游戏难度只会影响你的最大探险时长。除此之外不会影响其他参数和设置。",
+    "stage": 5,
+    "context": "ID: scenario_warp_begins\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→scenario_warp_begins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warp_begins"
+  },
+  {
+    "key": "aad1cb09a883122d18b46310c2f5da04",
+    "original": "Place Autodoc from copyplate",
+    "translation": "构建全自动外科医生",
+    "stage": 5,
+    "context": "ID: autodoc_paste\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→autodoc_paste\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=autodoc_paste"
+  },
+  {
+    "key": "5eff7fe848c723b35e88716f32fb66f9",
+    "original": "Plant Infinitree",
+    "translation": "种下无尽树",
+    "stage": 5,
+    "context": "ID: infinitree_growing\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→infinitree_growing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=infinitree_growing"
+  },
+  {
+    "key": "cfce160f7d9b59ac8fdbe5148f5ad210",
+    "original": "Pluck Infinitree sticks",
+    "translation": "采集无尽树枝条",
+    "stage": 5,
+    "context": "ID: infinitree_sticks\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→infinitree_sticks\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=infinitree_sticks"
+  },
+  {
+    "key": "8c048e3fb65bc05caf307690733d0c8f",
+    "original": "Portal Storm Warding Stone",
+    "translation": "空间风暴驱散石",
+    "stage": 5,
+    "context": "ID: warp_portalstorm_ender\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warp_portalstorm_ender\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_portalstorm_ender"
+  },
+  {
+    "key": "89dedf182ba9c9859b06b664e4cd46a8",
+    "original": "Prolonged warp is destroying you. You're coming apart.",
+    "translation": "长时间与扭曲接触，你的身体正在分崩离析。",
+    "stage": 5,
+    "context": "ID: warpdisintegration\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpdisintegration\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdisintegration"
+  },
+  {
+    "key": "18bf85059f739bf2b55d968f86582a6c",
+    "original": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. You can harvest sticks, logs, and other materials from it using the construction menu.",
+    "translation": "这棵树苗的叶片周围闪烁着紫蓝色光芒。树枝的生长似乎在几秒钟之内就完成了，就像时光快进一样，而且似乎不会再进一步生长。无论怎样树苗总是保持着原状，可以在建筑菜单里收获树枝、原木和其他材料。",
+    "stage": 5,
+    "context": "ID: t_infinitree1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→terrain→t_infinitree1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_infinitree1"
+  },
+  {
+    "key": "606acdc9065205a2dce686ee7b32bb5a",
+    "original": "Purple-blue shimmers sparkle around the leaves of this small sapling. New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches. It's always in equilibrium. You could probably use this in some recipes.",
+    "translation": "这棵树苗的叶片周围闪烁着紫蓝色光芒。树枝的生长似乎在几秒钟之内就完成了，就像时光快进一样，而且似乎不会再进一步生长。无论怎样树苗总是保持着先前的状态。也许一些配方用得到这个。",
+    "stage": 5,
+    "context": "ID: t_infinitree3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→terrain→t_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_infinitree3"
+  },
+  {
+    "key": "9586804fccb736b224b5e179ed80fbc4",
+    "original": "Reach one of the exit points!",
+    "translation": "寻找回归传送点!",
+    "stage": 5,
+    "context": "ID: MISSION_REACH_EXTRACT\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_REACH_EXTRACT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_REACH_EXTRACT"
+  },
+  {
+    "key": "073f809054b874c581f00726dc8cf1dc",
+    "original": "Return Obelisk",
+    "translation": "回归方尖碑",
+    "stage": 5,
+    "context": "ID: f_returnportal\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_returnportal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_returnportal"
+  },
+  {
+    "key": "a6d1fc269d62d195cfec573cd3331431",
+    "original": "Salve of Forgiveness",
+    "translation": "疗慰药膏",
+    "stage": 5,
+    "context": "ID: warpheal_stone\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warpheal_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpheal_stone"
+  },
+  {
+    "key": "115fc3c57c2eb4fb89d25123c911548a",
+    "original": "Sky Island",
+    "translation": "浮空岛",
+    "stage": 5,
+    "context": "ID: sloc_skyisland\n位于 /Kenan-Structured-Modpack/Sky_Island/scenario.json\n类型为 start_location\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→start_location→sloc_skyisland\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sloc_skyisland"
+  },
+  {
+    "key": "6a8506f14b27c04f850b418ea6f6a6ec",
+    "original": "Stat Stone",
+    "translation": "历程石",
+    "stage": 5,
+    "context": "ID: warpstat_stone\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warpstat_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpstat_stone"
+  },
+  {
+    "key": "94f44ab65873f3733d5b758a37c16fb2",
+    "original": "Store Autodoc onto copyplate",
+    "translation": "复制全自动外科医生",
+    "stage": 5,
+    "context": "ID: autodoc_copy\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→autodoc_copy\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=autodoc_copy"
+  },
+  {
+    "key": "1de336e9db311f08ebc62e8792ac7819",
+    "original": "Take a full minute of concentration and return to the safety of your home base. THIS SPELL IS FOR EMERGENCIES AND CHEATERS ONLY -- USE IN THE EVENT YOUR EXIT ROOM DID NOT SPAWN SUCCESSFULLY.",
+    "translation": "只需花上一分钟来集中注意力，然后你就回到安全的浮空岛上了！此法术仅适用于作弊或特殊情况使用——在你的回归点未正常生成时使用。",
+    "stage": 5,
+    "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home"
+  },
+  {
+    "key": "b2365c9b444bd8ba34296a276fb1056c",
+    "original": "The bile suddenly rises in your throat and your fingers feel like they're peeling themselves open. Your warp sickness is getting worse. You should get home soon.",
+    "translation": "你的喉咙突然涌起胆汁，手指感觉就像是在扒开自己的皮。你的扭曲病越来越严重了，你应该快点回家。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "ac8f4036ec0abc45d92a77e082dc91d6",
+    "original": "The effect is wasted and you don't feel any better. You have to be in your sanctuary to be healed by this!",
+    "translation": "药效被浪费掉了，你的身体毫无变化。这个药品只能在你的避难岛上使用！",
+    "stage": 5,
+    "context": "ID: EOC_healall\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_healall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_healall"
+  },
+  {
+    "key": "da0e919de65875f26bdef65f67aa5784",
+    "original": "The mi-go have sucked up latent energies which must be released into the stream of warp once more. Kill at least one mi-go creature before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些米·戈汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少1个米·戈，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_MIGO\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_MIGO"
+  },
+  {
+    "key": "6b712b2446bfeac404eb72e2c3c2c69e",
+    "original": "The ravages of the world intensify. Everything hurts and existence is a surreal wash of pain. Your warp sickness is unbearable. You need to get home as soon as possible.",
+    "translation": "世界在进一步摧残你的身体。一切都痛苦无比，存在本身就是一种超现实的痛苦洗涤。你的扭曲病已经无法忍受，你得赶紧回家了。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "0046a53570b071d52b88807c8de79d45",
+    "original": "The rending of the warp has finally abated. You feel like you exist again.",
+    "translation": "扭曲的撕裂终于结束了. 你感觉又活过来了.",
+    "stage": 5,
+    "context": "ID: warpdisintegration\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpdisintegration\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdisintegration"
+  },
+  {
+    "key": "8cae9055771dcaed5a37b1ef71095eec",
+    "original": "The salve has no effect. It was only ever meant for the inexperienced and the innocent. You've proved capable in your successful expeditions and must rely on yourself from now on.",
+    "translation": "药膏已经失去效果了，它只适用于初涉此地和不幸之人。你已经通过成功的探险证明了你的能力，你现在只能依靠自己了。",
+    "stage": 5,
+    "context": "ID: EOC_HEAL_NEWBIE\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_HEAL_NEWBIE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_HEAL_NEWBIE"
+  },
+  {
+    "key": "beb742ab447bf0e577ca8c77218cdc94",
+    "original": "The very fabric of your being is unraveling! You're in dire straits. You need to get back to your sanctuary island NOW!",
+    "translation": "你的身体正在不断瓦解，你现在的状况举步维艰。你需要立即回到岛上！",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "02c20259eaa4142c31011c4aab0c409c",
+    "original": "The warding stone crackles with static electricity.",
+    "translation": "驱散石发出噼啪的静电声.",
+    "stage": 5,
+    "context": "ID: EOC_CHECK_ISLANDSTORM\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_CHECK_ISLANDSTORM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_CHECK_ISLANDSTORM"
+  },
+  {
+    "key": "3f26e69b21a0d9ccba6785601d939ac1",
+    "original": "The warp has marked a single human being for death. They may be accompanied. Their sins are not your concern. All you need to know is that it must be done.",
+    "translation": "扭曲标记了一个应死之人。他们周围可能会有人随同。他们身上背负的罪与你无关，你只需要知道任务必须完成。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3"
+  },
+  {
+    "key": "5b7ef5773e0ce83e618322e430347770",
+    "original": "The warp has marked a single human being for death. They will likely carry a melee weapon. They will be alone. Their sins are not your concern. All you need to know is that it must be done.",
+    "translation": "扭曲标记了一个应死之人。他们可能装备了近战武器。他们孤立无援。他们身上背负的罪与你无关，你只需要知道任务必须完成。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN2"
+  },
+  {
+    "key": "42c2d8951f926bc66faaebb67efc6372",
+    "original": "The warp has marked a single human being for death. They will likely carry a ranged weapon. They will be alone. Their sins are not your concern. All you need to know is that it must be done.",
+    "translation": "扭曲标记了一个应死之人。他们可能装备了近战武器。他们孤立无援，他们身上背负的罪与你无关，你只需要知道任务必须完成。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_ASSASSIN1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN1"
+  },
+  {
+    "key": "779131901f4c3e757613c5ccfcc6350d",
+    "original": "The whole world shimmers in front of your eyes. Everything feels slow and sticky. Warp sickness is setting in. You should focus on getting home.",
+    "translation": "整个世界在你眼前闪烁无比，一切都感觉变得迟缓和黏稠。扭曲病开始影响你了，也许该考虑回归岛上。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "b899292d950d5568fd380f536920bdb3",
+    "original": "There are no words to describe how much trouble you're in. Your body is crumbling to wet paste and your blood is twisting into a viny tangle. All you know is pain. You're not just dying, you're dying horribly. Your only hope is escape to your sanctuary, but oblivion is only moments away.",
+    "translation": "言语已无法形容你的麻烦有多大。你的身体正在崩溃成一滩烂泥，血液如藤蔓般扭曲。你所能感受到的只有极度痛苦。你不仅要死了，而且会死得很惨。你唯一的希望就是逃到你的避难岛，但是消逝只是一瞬间的事。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "226a30d3382b66e26baa84c8e99f1f89",
+    "original": "This bag shimmers before your eyes, glinting in perfectly vertical slivers of purplish light. No matter how much you pack into it, it never seems to grow heavier, and its interior is a great yawning gullet of space the items seem to simply disappear into. It is a remarkably picky eater, however, and seems to yearn for lumps of raw metal like steel and scrap. It does, however, also yield to a few particularly dense processed forms, like pipes, sheet metal, steel frames, and metal plating. It also outright refuses to be packed inside of other bags.",
+    "translation": "这个背包在你眼前闪闪发光，紫色的线条完美垂直地闪烁着。无论你往里面装了多少东西，它都不会变重，好似一个深渊巨口把里面的东西给弄消失了。这个背包相当挑食， 似乎渴望着像钢块和铁废料之类的金属块。然而，它也能装入一些特别密集的加工产品，如金属管、金属板之类的东西。这个背包没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warpmetalbag\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→ARMOR→warpmetalbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpmetalbag"
+  },
+  {
+    "key": "06536b78695dcd311407349982ed575b",
+    "original": "This bag shimmers before your eyes, glinting in perfectly vertical slivers of purplish light. No matter how much you pack into it, it never seems to grow heavier, and its interior is a great yawning gullet of space the items seem to simply disappear into. It seems a remarkably picky eater, however, and will only swallow up planks, boards, wood panels, sticks, and similar wooden construction items. It also outright refuses to be packed inside of other bags.",
+    "translation": "这个背包在你眼前闪闪发光，紫色的线条完美垂直地闪烁着。无论你往里面装了多少东西，它都不会变重，好似一个深渊巨口把里面的东西给弄消失了，不过这个背包相当挑食，只能装入木板、木材、木制板材、木棍和类似的木质建筑材料。此外，这个背包没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warpwoodbag\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→ARMOR→warpwoodbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpwoodbag"
+  },
+  {
+    "key": "1289ede27cdbee428fad623baafd051e",
+    "original": "This bag shimmers before your eyes, glinting in perfectly vertical slivers of purplish light. No matter how much you pack into it, it never seems to grow heavier, and its interior is a great yawning gullet of space the items seem to simply disappear into. This is surely the biggest of its type. It seems a remarkably picky eater, however, and will only swallow up soil, sand, gravel, clay, and most common stones. It does seem, however, to also yield to a handful of construction materials like raw limestone, cement, concrete, and mortar, to name a few. It also outright refuses to be packed inside of other bags.",
+    "translation": "这个背包在你眼前闪闪发光，紫色的线条完美垂直地闪烁着。无论你往里面装了多少东西，它都不会变重，好似一个深渊巨口把里面的东西给弄消失了。在同类型的造物中它是最大的。这个背包相当挑食，只能装入土壤、沙子、砾石、粘土和最常见的石头，不过，它似乎也能装进少数建筑材料，如原始石灰石、水泥、混凝土和砂浆等等。此外，这个背包没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warpdirtbag\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→ARMOR→warpdirtbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdirtbag"
+  },
+  {
+    "key": "f57bb4cccc3a2e47140a07fcfee5e4d2",
+    "original": "This faintly humming purplish stone is meant to ward portal storms away from the island. When used on the sanctuary island during a portal storm, it will clear the weather. No effect if used earthside.",
+    "translation": "这个带有紫色光泽的石头发出微弱的嗡嗡声，能够将空间风暴驱离岛屿。空间风暴期间在避难空岛上使用，能使天气晴朗。在地面使用没有效果。",
+    "stage": 5,
+    "context": "ID: warp_portalstorm_ender\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→warp_portalstorm_ender\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_portalstorm_ender"
+  },
+  {
+    "key": "efdad8a1db9a3f3bd5e19dadf97ca899",
+    "original": "This is a crafting_pseudo_item if you have it something is wrong.",
+    "translation": "这是一个虚拟物品，正常不应该出现在你的游戏里。",
+    "stage": 5,
+    "context": "ID: fakeitem_infinityore\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→fakeitem_infinityore\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fakeitem_infinityore"
+  },
+  {
+    "key": "acc58c5fd456ed8ef04d801f1de291ec",
+    "original": "This is a template you shouldn't actually see.",
+    "translation": "这是一个模板物品，你不应该看到它。",
+    "stage": 5,
+    "context": "ID: warpbag_base\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpbag_base\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpbag_base"
+  },
+  {
+    "key": "4d2967b1281c35b75116e75e9739e9ad",
+    "original": "This is the edge of the island. A metaphysical border stops you from going over the edge yourself, but anything you drop here will be gone forever.",
+    "translation": "浮空岛的边缘。形而上的边界阻止你越过它，丢到边界外的任何东西都将永远消失。",
+    "stage": 5,
+    "context": "ID: t_fake_air\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/furniture and terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→terrain→t_fake_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fake_air"
+  },
+  {
+    "key": "eca985615d7ef6e79e68db562911c928",
+    "original": "This pseudomagical pill extends the amount of time you can stay earthside by 4 pulses, or about 50% of a normal trip. They're precious, but should help buy time for a difficult extract.",
+    "translation": "这种魔幻般的药丸可以延长你在地表上停留的时间——大约4次扭曲脉冲，差不多是普通难度下的50%。它们很珍贵，但应能为探险中的艰难回收争取到时间。",
+    "stage": 5,
+    "context": "ID: warpextender\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→COMESTIBLE→warpextender\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpextender"
+  },
+  {
+    "key": "f48b97fb4dacb8cacbeb649a9c534095",
+    "original": "This pseudomagical pill will heal all your damaged parts, but only if swallowed while on your sanctuary island. No reason to bring this into the field.",
+    "translation": "这种魔幻般的药品能够治愈你所有受伤的部位，但只能在你的避难岛上生效，带到地表上没有任何用处.",
+    "stage": 5,
+    "context": "ID: quickheal\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/items.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→COMESTIBLE→quickheal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quickheal"
+  },
+  {
+    "key": "393172eb672ddbf8139ba8a0e0e5cb67",
+    "original": "This stone can only be used in your sanctuary!",
+    "translation": "这块石头只能在岛上激活!",
+    "stage": 5,
+    "context": "ID: EOC_CHECK_ISLANDSTORM\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_CHECK_ISLANDSTORM\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_CHECK_ISLANDSTORM"
+  },
+  {
+    "key": "e00d7f54ccd0a9c564002b32c06bb0a4",
+    "original": "This strange obsidian-colored plate is capable of mimicking the advanced tech found within a modern Autodoc, and can be used to create a working copy at your sanctuary. However, it is inert in its current state and must first be imprinted on a working Autodoc. To do so, find an Autodoc during an expedition and use the construction menu to imprint this plate.",
+    "translation": "这块奇特的黑曜石板可以复现全自动外科医生中的先进技术，可以在你的避难空岛中创造出一个复制品…现在这块复制板还无法使用，需要你在探索中找到一个能正常工作的全自动外科医生，并在建筑菜单中把它复制到石板里。",
+    "stage": 5,
+    "context": "ID: warp_autodoc_inert\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→GENERIC→warp_autodoc_inert\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_inert"
+  },
+  {
+    "key": "2047f0e53fa32a86e2d9d3635b29b9bb",
+    "original": "This strange obsidian-colored plate is capable of mimicking the advanced tech found within a modern Autodoc, and can be used to create a working copy at your sanctuary. It has been successfully activated and can be used as the catalyst to create a new Autodoc at a location of your choosing using the construction menu. Be aware this cannot be safely moved once placed, and will also require you to add an adjacent couch, then convert it to an Autodoc couch.",
+    "translation": "这块奇特的黑曜石板可以复现全自动外科医生中的先进技术，可以在你的避难空岛中创造出一个复制品。这块石板已经被成功激活，在建筑菜单中可以作为所需物品，在你所选定的地方来建造一个全自动外科医生。 请注意，一旦建造完毕后，它就不能被安全移动，并且还需要在旁边相邻的地方放上一个沙发，然后用复制盘将其转换为对应的手术台。",
+    "stage": 5,
+    "context": "ID: warp_autodoc_active\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→GENERIC→warp_autodoc_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_active"
+  },
+  {
+    "key": "009ffb025f0e5512def7462e4cff4a34",
+    "original": "Though visibly little more than a glowing dustbunny, this strange ethereal mote of warp essence reveals, on closer inspection, something more. A tiny, twisting, half-visible thread of shimmering bluish-purple trails away into the sky and far out of sight, unimpeded by any obstacles. \\n\\nTaking this rare and valuable artifact with you on an expedition is essentially buying life insurance. If you die with this mote in your inventory, you will instead be restored to full health and brought home, WITH all items and equipment carried. But this effect will only last for a single expedition. Even if you extract safely, any and all motes carried on your person when you return home will be DESTROYED.",
+    "translation": "看上去只是一小团发光的尘兔，但你仔细观察后发现这团飘渺且奇异的尘埃中的微粒似乎揭示了许多东西，一条纤细得微不可见的扭曲细线闪烁着蓝紫色光芒，不受任何障碍物的阻碍地延伸至遥不可视的空中。\\n\\n带着这件稀有而珍贵的神器去探险，本质上是给自己买了份保险。只要你携带着这件物品，在探险中死亡后会完好无损的回到岛上，你所携带的一切物品和装备也会保留下来。但该物品只能生效一次，无论是死亡还是从传送点回归，当再次回到岛屿上时，你携带着的所有溯返之尘都会被清除。(尘兔，一种团在一起的大块灰尘。)",
+    "stage": 5,
+    "context": "ID: warphome\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→warphome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphome"
+  },
+  {
+    "key": "dc236b9736b1bf838333a51c94947fdf",
+    "original": "Total expeditions: <u_val:raidstotal> \\nWins: <u_val:raidswon> \\nLosses: <u_val:raidslost> \\nMissions complete: <u_val:missionswon> \\nSlaughter missions complete: <u_val:slaughterswon>\\n\\nCurrent difficulty settings:\\nWarpsickness at: 8 pulses.\\nDisintegration at: 12 pulses.\\nPulses every: <global_val:readablesicknessintervals> minutes.",
+    "translation": "探险总次数: <u_val:raidstotal> \\n存活次数: <u_val:raidswon> \\n死亡次数: <u_val:raidslost> \\n任务完成数: <u_val:missionswon> \\n歼灭任务完成数: <u_val:slaughterswon>\\n\\n当前难度设置:\\n扭曲病时限: 8 次“脉冲”\\n解体时限: 12 次“脉冲”\\n扭曲脉冲间隔: <global_val:readablesicknessintervals> minutes.",
+    "stage": 5,
+    "context": "ID: EOC_statcheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_statcheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statcheck"
+  },
+  {
+    "key": "79822fd162e5972b832f47175ee073da",
+    "original": "Warp Debilitation",
+    "translation": "扭曲衰退",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "ed19e86a3ddca536618994feb579f764",
+    "original": "Warp Disintegration!",
+    "translation": "扭曲解体!",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "0f906eb81ee3500e17b032f765c129d5",
+    "original": "Warp Home",
+    "translation": "回归传送术",
+    "stage": 5,
+    "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home"
+  },
+  {
+    "key": "82754fd8f3f86786dec36ef9599bf638",
+    "original": "Warp Nausea",
+    "translation": "扭曲反胃",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "d30034ab684db8c2d9dbb13f481431e9",
+    "original": "Warp Necrosis",
+    "translation": "扭曲坏死",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "e6cacb3960f506742863938cef5de7d3",
+    "original": "Warp Obelisk",
+    "translation": "传送方尖碑",
+    "stage": 5,
+    "context": "ID: f_exitportal\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_exitportal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_exitportal"
+  },
+  {
+    "key": "6e34ca0a57d061dbc2343ec4025a04ab",
+    "original": "Warp Sickness",
+    "translation": "扭曲病态",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "7196bd029d48e618f29ad846a9819d5e",
+    "original": "Warp Stability",
+    "translation": "扭曲稳定",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "57cd1fedeaaa970c4d40ccd3ff66e6f5",
+    "original": "Warpcloaked",
+    "translation": "传送庇护",
+    "stage": 5,
+    "context": "ID: warpcloak\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpcloak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpcloak"
+  },
+  {
+    "key": "93ef4e367c048dc16d041c189cd0b7f8",
+    "original": "Warper",
+    "translation": "传送者",
+    "stage": 5,
+    "context": "ID: scenario_warper\n位于 /Kenan-Structured-Modpack/Sky_Island/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→scenario→scenario_warper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warper"
+  },
+  {
+    "key": "69c1f1dc5a5b62cd7780635057b8f79e",
+    "original": "Welcome to Sky Islands. Here, you will have to make expeditions from your floating sanctuary base to the world below. Fight your way to the exit within the time limit and bring back whatever you can carry, but if you die, you will be returned to the island injured, and lose all equipment you were carrying.",
+    "translation": "欢迎来到浮空岛。在这里，你必须从漂浮的避难基地传送到下方的世界进行探险。在一定时间限制内一路杀到出口，并带回你能携带的任何东西，但如果你在探险中死亡，你将带着伤口回到岛上，并失去你携带的所有装备。",
+    "stage": 5,
+    "context": "ID: scenario_warp_begins\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→scenario_warp_begins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warp_begins"
+  },
+  {
+    "key": "4abd23bae7b6c043443244036a990535",
+    "original": "While on expedition, you will be timed by 'warp pulses', which hit you at regular intervals. After 8 pulses, you will suffer warp sickness, which results in reduced stats. Every pulse after that will lower your stats even further. After the 12th pulse, you will also begin disintegrating, taking damage until you die.\\n\\nGet home safely to reset the timer!",
+    "translation": "在探索的过程中，你需要面对周期性出现的“扭曲脉冲”，当经历第8次脉冲后，你会患上带有减益效果的“扭曲病”，之后的每次“扭曲脉冲”都会进一步加深这种影响。到了第12次脉冲后你会受到“解体”状态，身体状况和血量将会迅速下降直至死亡。\\n\\n传送回归会重置累计次数！",
+    "stage": 5,
+    "context": "ID: scenario_warp_begins\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→scenario_warp_begins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warp_begins"
+  },
+  {
+    "key": "166cd0fe86d7c487e2fc5811133bdd88",
+    "original": "While these are certainly imbued with warp, they don't seem to have any supernatural powers beyond just growing quickly. A nice option if you want to re-plant grass on your island, for decoration's sake.",
+    "translation": "这些草种上毫无疑问充满了扭曲，但除了长得快以外，似乎没有其他特殊之处。如果你想重新种上草来装饰岛屿，那这些草种是不错的选择。",
+    "stage": 5,
+    "context": "ID: warp_grassbag\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/warpitems.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→AMMO→warp_grassbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_grassbag"
+  },
+  {
+    "key": "37e59b9a8cbebb53d2f6b23d8decf417",
+    "original": "You are away from your sanctuary island. Over time, you will begin to succumb to the intangible miasma of the world below, and your stats will suffer. You have several hours after warp before this becomes a problem, after which it will rapidly get worse until you warp home or die.",
+    "translation": "你离开了你的避难岛。随着时间推移，你会受到地表上的无形瘴气的影响，情况也会变得糟糕起来。传送下来后，在出问题前你还有数个小时的探索时间，之后就会开始恶化，直至你回归或死在下面。",
+    "stage": 5,
+    "context": "ID: awayfromhome\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mutation→awayfromhome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=awayfromhome"
+  },
+  {
+    "key": "c2eaca856b82e8ee7ad3f750fc243b24",
+    "original": "You are invisible for a very brief time. Now's your chance to get to cover. You're also incorporeal enough to not take fall damage, but hopefully that won't be relevant.",
+    "translation": "你在短时间内是隐形的。现在是找掩护的机会了。肉体还未成型，不会受到坠落伤害，但希望你不会需要这个。",
+    "stage": 5,
+    "context": "ID: warpcloak\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpcloak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpcloak"
+  },
+  {
+    "key": "2c1fa28f68a3b2efca9cdb250f54cdda",
+    "original": "You died at home? What's the matter with you? Stop this. You are restored. The powers that be have made you temporarily incorporeal, in case you were stuck in a deadly loop.",
+    "translation": "你死在岛上了？你在搞什么？停下来。你恢复了原样，某些存在暂时消去了你的肉体，免得你再继续弄死自己。",
+    "stage": 5,
+    "context": "ID: EOC_deathconfirmed\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_deathconfirmed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_deathconfirmed"
+  },
+  {
+    "key": "75a8e2d1e5122963e31797c47d216a28",
+    "original": "You feel the icy grip of death begin to take you, and the world whirls and rushes past. Reality bends and at the peak of your last mortal moment, something snags you and hauls you through space and time. Your mind has been preserved, at cost, and your body is not far behind.",
+    "translation": "你感觉死亡的冰冷之爪扼住了你，随后世界在飞速旋转。现实开始畸曲起来。在你生命的最后一刻，某个东西抓住了你，拖越了空间与时间。你的灵魂被存留下来了，以某些代价的，而你的身体也紧随其后。",
+    "stage": 5,
+    "context": "ID: EOC_deathconfirmed\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_deathconfirmed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_deathconfirmed"
+  },
+  {
+    "key": "d784fe4f1f48c63fa0d327c26f9ccd6b",
+    "original": "You fully materialize. You're not invisible anymore!",
+    "translation": "你的身体重新物质化，隐身效果消失了！",
+    "stage": 5,
+    "context": "ID: warpcloak\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpcloak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpcloak"
+  },
+  {
+    "key": "f1dcf25698e00f72ed981f23995a2751",
+    "original": "You haven't selected a difficulty. This could be because you're playing an old save.\\n\\nYour current difficulty has been set to Normal. In this setting, you will have 4 hours in every expedition to reach the exit and leave safely. After this, warp sickness sets in and applies heavy debuffs until you exit. After 6 hours, warp disintegration begins, and you will rapidly lose health until you exit or die.",
+    "translation": "你尚未选择游戏难度，可能是你正在游玩先前的存档导致的。\\n\\n你目前的游戏难度已设置为普通难度。此难度下，每次前往地面探险都有4个小时去寻找传送点并离开。超出时间后你将开始受到扭曲病影响，受到严重的负面效果。6小时后你将受到扭曲解体的影响，会导致血量迅速降低，直到回归或死亡。",
+    "stage": 5,
+    "context": "ID: EOC_difficultysafeguard\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultysafeguard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultysafeguard"
+  },
+  {
+    "key": "fbf808df473a8cc11d3205ba08a4eb8c",
+    "original": "You taste blood and your eyes sink back into their sockets. You've stayed out too long. Your warp sickness is about to consume you entirely and you're falling apart at the seams. Get home NOW!",
+    "translation": "你的嘴里尝到了血的味道，眼睛好似要完全凹陷到眼窝里。你在外面呆太久，扭曲病快要把你完全吞噬了。赶紧回去，就现在！",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "bab597ce0ae4ca389b0a68ec353ef6b2",
+    "original": "You're being unmade!",
+    "translation": "你的身体开始分崩离析!",
+    "stage": 5,
+    "context": "ID: warpdisintegration\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpdisintegration\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdisintegration"
+  },
+  {
+    "key": "394ac4c0f0df1be9bac8234609d968e5",
+    "original": "You're fresh from your stay at your sanctuary island. The intangible miasma of terra firma currently has no effect on you, and you feel fine. This should last for several hours. Stay too long, however, and you'll gradually begin to suffer ever-worsening debilitating effects.",
+    "translation": "你刚刚从你的避难岛上传送下来。地表上无形的毒气对你还没什么影响。现在你感觉良好。这种状态还能保持几个小时，但你呆得太久的话，就会逐渐开始受越来越严重的衰弱影响。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "0d72ad57209a23996948a0906571b745",
+    "original": "You're going to die. And if you weren't busy leaking blood out of every pore, you'd find a better way to emphasize just how badly you're dying. Your only hope is to return home immediately.",
+    "translation": "你就要死了，没有什么能比你现在全身毛孔渗血的样子更能强调这点。你唯一的活路就是回到岛上。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "7d004110438f52c622ab8513ccfe0580",
+    "original": "You're still materializing and not fully visible yet. In about 60 seconds, the world will be able to see you, so if you were warped into danger, now's your chance to get to cover.",
+    "translation": "你的身体还在物质化中，尚未完全可见。大概60秒后全世界都看得见你了。如果你的出生点存在危险，现在就是你找掩体的时候。",
+    "stage": 5,
+    "context": "ID: EOC_initiate_randomport\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_initiate_randomport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_initiate_randomport"
+  },
+  {
+    "key": "7a8c50cbb52d701db588886d578ad40b",
+    "original": "You've arrived!\\nPress a key when ready and random missions will be generated for this expedition. This may take another minute.",
+    "translation": "你已抵达区域！\\n按下任意按键以继续，随机任务将会生成，这可能需要一分钟。",
+    "stage": 5,
+    "context": "ID: EOC_initiate_randomport\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_initiate_randomport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_initiate_randomport"
+  },
+  {
+    "key": "0a8e898ac381146212b0ff50433506f5",
+    "original": "You've overstayed your time earthside. It's getting hard to concentrate, there's a painful ringing in your ears, and your muscles sting and jolt. Every action feels delayed. You need to warp home to refresh yourself, or this is going to get worse. Probably within just a few hours.",
+    "translation": "你在地表待得有些久了。你开始难以集中精力，耳膜里有种令人痛苦的响声，你的肌肉有些刺痛和抽搐，每一步都像带着延迟。赶紧回岛上清醒一下，不然在几个小时后情况可能更糟。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "f816a8707feaf98b81c66191c8f614c5",
+    "original": "You've proved sufficient understanding of the warpstream. The hardest tier of missions is now available. You never know what awaits earthside.",
+    "translation": "你的经历证明了你对扭曲流已经有了充分认识.最高级别的任务可以获取了.你永远不知道地表上有什么在等待着你.",
+    "stage": 5,
+    "context": "ID: EOC_progressgate2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_progressgate2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_progressgate2"
+  },
+  {
+    "key": "14930c29961fcf7c0f5721c4ac433606",
+    "original": "You've proved you can survive a few excursions to the world below. As if in response, the warpstream surges with new energies. You may find yourself deploying to more dangerous places, or charged with harder missions.\\nYour magical healing salve will no longer work. Be cautious in your future endeavors.",
+    "translation": "从地表的几次短暂探险中存活下来，证明了你自身的能力。像是认可般的，扭曲流中涌动着新的能量。你会发现自己将被传送到更危险的地区，接受更加艰巨的任务。\\n疗慰药膏对经历磨难的你不再生效。继续努力的谨慎前行吧。",
+    "stage": 5,
+    "context": "ID: EOC_progressgate1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_progressgate1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_progressgate1"
+  },
+  {
+    "key": "762ae91982d885c3d5fa9e656d500622",
+    "original": "You've stayed earthside WAY too long! Your body barely responds and your senses are slush. The world itself feels barbed and frayed, and the very air is like breathing fiberglass. If you want to survive, you need to warp home as soon as possible.",
+    "translation": "你在地表待得太久了！你的身体几乎失去知觉，且反应迟钝。现在世界本身如同充满了刺痛和磨伤的感觉，呼吸就像在吸入玻璃纤维。如果你还想活下去，就得尽快回到岛上。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "ad3e02221b96d3d57b03561ff13b48c9",
+    "original": "You've stayed earthside too long. Your body aches and your senses are dulling. Every step feels like you're walking through thick mud and breathing hot tar. You should warp home as soon as you can, or this is only going to get worse.",
+    "translation": "你在地表停留太久了。你的身体浑身作痛，反应变得迟钝，每一步如在泥潭里蹒跚跋涉，像在呼吸着灼热的焦油。你应该回到岛上，否则情况会继续恶化。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "7f10ecda949ad71661177995822094d5",
+    "original": "Your body mends itself in the blink of an eye. Underlying health issues may persist, but your structural integrity is restored.",
+    "translation": "你的身体眨眼间便自我痊愈了。潜存的健康问题可能还会困扰你，但至少你的四肢无碍。",
+    "stage": 5,
+    "context": "ID: EOC_healall\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_healall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_healall"
+  },
+  {
+    "key": "d0bdef401d3f33e1c1238bd1743089e7",
+    "original": "Your body shivers slightly as a warp pulse passes through it. Another pulse will hit in <global_val:readablesicknessintervals> minutes. Warp sickness won't set in for another <global_val:readablepulsesleft> pulses.",
+    "translation": "扭曲脉冲穿过你时，你的身体在微微颤抖。下一次扭曲脉冲在 <global_val:readablesicknessintervals> 分钟后。距离获得扭曲病还有 <global_val:readablepulsesleft> 次 。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_sicknesscheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck"
+  },
+  {
+    "key": "b3fb63280b43e1fe1deda0d0e87e82e1",
+    "original": "Zombies have absorbed latent energies which must be released into the stream of warp once more. Kill at least 10 zombified humans or creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些丧尸汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少10个丧尸或怪物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_ZED1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED1"
+  },
+  {
+    "key": "5d2808d6258eaf9dbdd965f1e9748068",
+    "original": "Zombies have absorbed latent energies which must be released into the stream of warp once more. Kill at least 100 zombified humans or creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些丧尸汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少100个丧尸或怪物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_ZED3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED3"
+  },
+  {
+    "key": "7e320c7c38d8dd2962d7b1aa3c119415",
+    "original": "Zombies have absorbed latent energies which must be released into the stream of warp once more. Kill at least 50 zombified humans or creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些丧尸汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少50个丧尸或怪物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/missions and mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→mission_definition→MISSION_BONUS_SLAUGHTER_ZED2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED2"
+  },
+  {
+    "key": "e7de90c697bbbbd545e6b0fa1db98ad9",
+    "original": "bundle of splinters",
+    "translation": "一捆碎木",
+    "stage": 5,
+    "context": "ID: bundle_splinter\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→bundle_splinter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bundle_splinter"
+  },
+  {
+    "key": "7e20c3f82fd4b4082279ced86bad01dd",
+    "original": "bundles of splinters",
+    "translation": "一捆碎木",
+    "stage": 5,
+    "context": "ID: bundle_splinter\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→bundle_splinter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bundle_splinter"
+  },
+  {
+    "key": "11b7afbc63c59b3537241cc89caa28aa",
+    "original": "earthbound pill",
+    "translation": "迟返药丸",
+    "stage": 5,
+    "context": "ID: warpextender\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→COMESTIBLE→warpextender\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpextender"
+  },
+  {
+    "key": "83babd502bebbe54d632b186b405c317",
+    "original": "homeward mote",
+    "translation": "溯返之尘",
+    "stage": 5,
+    "context": "ID: warphome\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warphome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphome"
+  },
+  {
+    "key": "a164e1d957412423a4a0065b325e28f7",
+    "original": "infinitree sapling",
+    "translation": "无尽树种苗",
+    "stage": 5,
+    "context": "ID: f_infinitree3\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_infinitree3"
+  },
+  {
+    "key": "9ca4d5087b8d2cfefa0cc99f118c7dad",
+    "original": "nearby infinitree",
+    "translation": "无尽树(占位)",
+    "stage": 5,
+    "context": "ID: fakeitem_infinitree1\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→fakeitem_infinitree1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fakeitem_infinitree1"
+  },
+  {
+    "key": "17913f8c8cbcbcdf83abc81693ea7827",
+    "original": "nearby warp obelisk",
+    "translation": "传送方尖碑（占位）",
+    "stage": 5,
+    "context": "ID: fakeitem_statue\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→fakeitem_statue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fakeitem_statue"
+  },
+  {
+    "key": "77d21be8a68692e0dc40a7be6bfc2ddb",
+    "original": "open air",
+    "translation": "浮空",
+    "stage": 5,
+    "context": "ID: t_fake_air\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→terrain→t_fake_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fake_air"
+  },
+  {
+    "key": "01ba48df4b3cba1549d204819a7e9e2f",
+    "original": "potential artifact",
+    "translation": "未知神器",
+    "stage": 5,
+    "context": "ID: artifactbox\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→TOOL→artifactbox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=artifactbox"
+  },
+  {
+    "key": "d76e3e9b55a24f850149dead09120913",
+    "original": "quickheal pill",
+    "translation": "速愈片",
+    "stage": 5,
+    "context": "ID: quickheal\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→COMESTIBLE→quickheal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quickheal"
+  },
+  {
+    "key": "d265476ab1ce93c2295fb3155c34d3db",
+    "original": "sky island",
+    "translation": "浮空岛",
+    "stage": 5,
+    "context": "ID: sky_island_core\n位于 /Kenan-Structured-Modpack/Sky_Island/island_mapgen.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→overmap_terrain→[0]\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sky_island_core"
+  },
+  {
+    "key": "5f555201669d341fa99a7ca85f06dfb7",
+    "original": "warp shards",
+    "translation": "扭曲碎片",
+    "stage": 5,
+    "context": "ID: warptoken\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→AMMO→warptoken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warptoken"
+  },
+  {
+    "key": "b310afb4c011210370c2b5a7dfe82751",
+    "original": "warped animal carrier",
+    "translation": "扭曲动物携具",
+    "stage": 5,
+    "context": "ID: warp_carrier\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warp_carrier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_carrier"
+  },
+  {
+    "key": "d633ec47d950660481599bb4caa37e46",
+    "original": "warped bag",
+    "translation": "扭曲背包",
+    "stage": 5,
+    "context": "ID: warpbag_base\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpbag_base\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpbag_base"
+  },
+  {
+    "key": "4a422a751f1bba66681c9ed74a938b0c",
+    "original": "warped excavator's bag",
+    "translation": "扭曲掘土背包",
+    "stage": 5,
+    "context": "ID: warpdirtbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpdirtbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdirtbag"
+  },
+  {
+    "key": "1ebfcbf159d608191a10bd51ef9d003e",
+    "original": "warped grass seeds",
+    "translation": "扭曲草种子",
+    "stage": 5,
+    "context": "ID: warp_grassbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→AMMO→warp_grassbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_grassbag"
+  },
+  {
+    "key": "70eb124188ddc1563116dcd7b6442385",
+    "original": "warped hauler's harness",
+    "translation": "扭曲搬运轭带",
+    "stage": 5,
+    "context": "ID: warphaulbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warphaulbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphaulbag"
+  },
+  {
+    "key": "efcbd20a2e0b6e7db5366b8649965f40",
+    "original": "warped hauler's harnesses",
+    "translation": "扭曲搬运轭带",
+    "stage": 5,
+    "context": "ID: warphaulbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warphaulbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphaulbag"
+  },
+  {
+    "key": "56b02846e1f7b49320c5270b80f26389",
+    "original": "warped lumberjack's bag",
+    "translation": "扭曲伐木背包",
+    "stage": 5,
+    "context": "ID: warpwoodbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpwoodbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpwoodbag"
+  },
+  {
+    "key": "30c4544b1c6698adc73f459e0eb7b9cd",
+    "original": "warped scrapper's bag",
+    "translation": "扭曲废铁背包",
+    "stage": 5,
+    "context": "ID: warpmetalbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpmetalbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpmetalbag"
+  },
+  {
+    "key": "d6d4daa5553c6d9acbbeaf507b7c2470",
+    "original": "warpglass wall",
+    "translation": "传送屏障",
+    "stage": 5,
+    "context": "ID: t_traderwall\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→terrain→t_traderwall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_traderwall"
+  },
+  {
+    "key": "ed7e72c81af8f433c96c2753116c37e2",
+    "original": "Begin searching for a spot to teleport to? This may take a moment while we scan the world. Your game may appear to freeze for up to a few minutes, especially for your first expedition.",
+    "translation": "开始搜寻传送地点？扫描世界可能需要花费一些时间。你的游戏进程可能会未响应几分钟，首次使用耗时更为明显。",
+    "stage": 5,
+    "context": "ID: EOC_warp_statue\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_warp_statue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_warp_statue"
+  },
+  {
+    "key": "4c7a9951e458a0b52a58179cf8c210b4",
+    "original": "In Casual difficulty, time limits are more relaxed.\\nWarp pulses occur every 90 minutes. This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours. You will have more time for activities and reaching the extract should generally not be a problem.\\n\\nDo you wish to play in Casual Difficulty? Choosing no will provide other options.",
+    "translation": "休闲模式，时间限制更为宽松。\\n此难度下“扭曲脉冲”的间隔为90分钟。这意味着你拥有12个小时来进行探险，停留超过18小时才会受到“解体”状态影响。此难度下你拥有充裕的时间进行活动或收集额外物资。\\n\\n确定以休闲模式进行游玩？按否以切换难度。",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck1\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck1"
+  },
+  {
+    "key": "51ce9521a4068fad89b671c2c9d2b82b",
+    "original": "In Hard difficulty, time limits are strict.\\nWarp pulses occur every 30 minutes. This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours. You will have much less time to spare and must make getting to the exit your immediate priority.\\n\\nDo you wish to play in Hard Difficulty? Choosing no will provide other options.",
+    "translation": "困难模式,时间变得更为紧迫.\\n此难度下“扭曲脉冲”的间隔为30分钟. 这意味着你只有4个小时来进行探险,停留超过6小时就会受到“解体”状态影响.你可以腾出手的时间会少得多,最好把抵达撤离点作为你的首要目标.\\n\\n确定以困难模式进行游玩?按否以切换难度.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck2\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck2"
+  },
+  {
+    "key": "cb86c395a6f768f4ea7a0170c57dcc31",
+    "original": "In Impossible difficulty, time limits are extremely tight.\\nWarp pulses occur every 15 minutes. This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours. Reaching the extract alive will take all the time you can spare, and warp sickness will be common. You will not be given mercy!\\n\\nDo you wish to play in Impossible Difficulty? Choosing no will restart this menu.",
+    "translation": "极难模式,每次探索都分秒必争.\\n此难度下“扭曲脉冲”的间隔仅为15分钟.仅仅2小时后你便会受到“扭曲病”的影响, 停留超过3小时就会获得“解体”状态. 活着抵达撤离点将会花费你的所有精力.扭曲病也将变得习以为常.一切事物都不会怜悯你!\\n\\n确定以极难模式进行游玩?按否以切换难度.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck3\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck3"
+  },
+  {
+    "key": "442182a4d36e985132bdc57d1f29e781",
+    "original": "In Normal Difficulty, pulses occur every 45 minutes. This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\\nThis is the intended way to play. Getting to the exit is not a cakewalk, but you should have time to explore while earthside.\\n\\nDo you wish to play Normal Difficulty? Choosing no will provide other options.",
+    "translation": "普通难度.此难度下“扭曲脉冲”的间隔为45分钟,这意味着你拥有6个小时进行探险、消灭敌人、寻找物资、以及找到回归传送点.在此之后你会逐渐受到“扭曲病”的影响. 停留超过8小时,你会受到“解体”状态影响.\\n此难度为默认难度,此难度下玩家有足够的搜索时间以及不算轻松的回归难度.\\n\\n确定以普通难度进行游玩?按否以切换难度.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck0\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_difficultycheck0\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck0"
+  },
+  {
+    "key": "78f24ed984aefd9a20d56a290457a398",
+    "original": "It seems the portal couldn't find a valid location.",
+    "translation": "传送点未找到有效的地点.",
+    "stage": 5,
+    "context": "ID: EOC_initiate_randomport\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_initiate_randomport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_initiate_randomport"
+  },
+  {
+    "key": "b27330e626c55cd9b4591fcb7d1e0a64",
+    "original": "This will teleport you back home with only the items on your person. Anything left behind will be as good as gone. Are you ready to leave?",
+    "translation": "你将和所携带的物品传送回归,这片区域剩下的一切物品都会消失.是否要进行传送?",
+    "stage": 5,
+    "context": "ID: EOC_statue_return\n位于 /Kenan-Structured-Modpack/CDDA-Sky-Islands/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#CDDA-Sky-Islands→effect_on_condition→EOC_statue_return\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statue_return"
+  },
+  {
+    "key": "4c7b80bd0725846a2849b2312ba3a1ad",
+    "original": "A boon from whatever powers control the warpstream, meant to make your first excursions safer.  Using this strange blue-black goop will instantly heal your wounds and return you to health, but only while in your island sanctuary.  Most importantly, this will only work while you are getting started.  After you have survived a few return trips, it becomes a useless goo.",
+    "translation": "一种神奇的蓝黑色凝胶状药膏，来自掌控着扭曲流的力量的恩惠，能让你的探险起步更顺利。使用这种凝胶可以立即治愈您的伤口，让你恢复健康，但只能在岛内生效。需要注意的是，这种凝胶只有在刚开始探险时有效果。随着生还回归几次之后，它就变成了无用的粘稠物。",
+    "stage": 5,
+    "context": "ID: warpheal_stone\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warpheal_stone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpheal_stone"
+  },
+  {
+    "key": "5687e62ec4f449554908067ad5efa8be",
+    "original": "A group of lethal mi-gos are draining a location where warp resonance is high.  Destroy them all for a very large reward of warp shards.",
+    "translation": "一群致命的米·戈正在汲取一片扭曲波动较高的区域里的能量。消灭它们可获得巨量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MIGO_ELITE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MIGO_ELITE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MIGO_ELITE"
+  },
+  {
+    "key": "e5f96fd7b29e10eefac5cf3d608f85a3",
+    "original": "A hand-sized cage with a shimmering portal at its aperture.  Despite being shaped more like a cat carrier, the power of warp enables it to capture creatures far bigger than you.  This may be your best bet for bringing animals home to your island sanctuary.  Activate to capture an adjacent animal, or to release a carried animal.",
+    "translation": "手掌大小的笼子，在它的笼口有一个闪光的入口。尽管它大小和外形只是个猫笼，但扭曲之力能使它能够捕捉比笼子大得多的生物。这可能是你把动物带回家的最佳选择。激活以捕获邻近的动物，或释放携带的动物。",
+    "stage": 5,
+    "context": "ID: warp_carrier\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warp_carrier\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_carrier"
+  },
+  {
+    "key": "bc32baccf0d5bb4acef75def59617110",
+    "original": "A handful of zombies are congregating at a location where warp resonance is high.  Clear them out for a minimal reward of warp shards.",
+    "translation": "一小群丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得极少扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_LIGHT\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_LIGHT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_LIGHT"
+  },
+  {
+    "key": "88908fecb17b142ef8b2295bcfd9049c",
+    "original": "A horde of low level zombies are congregating at a location where warp resonance is high.  Clear them out for a small reward of warp shards.",
+    "translation": "一大群低级丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得少量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_HORDE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_HORDE"
+  },
+  {
+    "key": "4ab423d11300b35ed653e31a15c23a19",
+    "original": "A huge horde of evolved zombies are congregating at a location where warp resonance is high.  Clear them out for a large reward of warp shards.",
+    "translation": "一大群进化丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得大量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MID_HORDE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MID_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MID_HORDE"
+  },
+  {
+    "key": "7b43f238627a2fc8861a69b91b49c4db",
+    "original": "A looped pair of shimmering blue-black straps that can be worn over the shoulders like a harness.  They make hauling effortless, and one could easily cart home anything from an engine block to a bull moose with this, while still keeping hands free.  The downside is that no matter how you might try, they only seem to be able to support a single item.  It also outright refuses to be packed inside of other bags.",
+    "translation": "一对闪闪发光的蓝黑色背带，可以系在肩上。有了这个，搬运物品便省力多了，无论是搬发动机还是驼鹿的尸体，还顺带解放双手。但缺点是不管你怎么试，背带每次都只能挂起单个物品。这个背带没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warphaulbag\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warphaulbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphaulbag"
+  },
+  {
+    "key": "de799ffdeed00c8e2224cb2a558bfedc",
+    "original": "A rift to another dimension has drained latent energies which must be released into the stream of warp once more.  Kill at least 3 nether-born creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "一道通往其他维度的裂缝抽干了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少3个异界生物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_NETHER\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_NETHER\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_NETHER"
+  },
+  {
+    "key": "85e3ab139b67570ff170fa335300cba0",
+    "original": "A sickening wet sound rips through you as another warp pulse hits.  You can feel your whole body trying to pull itself apart, and if you wait any longer, it just might.  If you want to live, you need to get home NOW!",
+    "translation": "一道扭曲脉冲穿过了你，令人作呕的潮湿声音正撕裂着你。你感觉整个身体都在试图把自己给四分五裂。如果你还不想死，现在就回去！",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck5\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck5"
+  },
+  {
+    "key": "080bdadc022c7a543897a88fc5493245",
+    "original": "A single supremely powerful zombie has been found at a location where warp resonance is high.  Destroy it for a very large reward of warp shards.",
+    "translation": "一个无比危险的丧尸个体出现在了一片扭曲波动较高的地区。消灭它，可获得巨量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS"
+  },
+  {
+    "key": "668ab387e616f2c39db9d73b7bc3cac0",
+    "original": "A small quantity of airy-thin material that resembles flaked obsidian.  It glints with a purplish shimmer that seems to stretch off the bounds of itself and into the air itself.  Offered to the powers that be, one could exchange it for valuable artifacts.",
+    "translation": "一小份薄如空气的类似黑曜石片的物质，闪烁着紫色的光芒，它的边缘似乎有种延伸到空气中的感觉。将其献给某种强大存在，可以用来交换有价值的造物。",
+    "stage": 5,
+    "context": "ID: warptoken\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→AMMO→warptoken\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warptoken"
+  },
+  {
+    "key": "8f58814313eb47c90754e8baa16d55eb",
+    "original": "A supremely powerful zombie has been found at a location where warp resonance is high.  Be warned that it will be accompanied by an elite swarm!  Destroy them all for a huge reward of warp shards.",
+    "translation": "一个危险至极的丧尸个体出现在了一片扭曲波动较高的地区。它身边伴随着一群精英丧尸。消灭它们，可获得极多扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_GROUP\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS_GROUP\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_GROUP"
+  },
+  {
+    "key": "272b3f04ac1b6c1ad08d5a7fd2f17fbf",
+    "original": "A supremely powerful zombie has been found at a location where warp resonance is high.  Be warned that it will be accompanied by an massive horde of weaker zombies!  Destroy them all for a huge reward of warp shards.",
+    "translation": "一个危险至极的丧尸个体出现在了一片扭曲波动较高的地区。它身边伴随着数量极多的丧尸。消灭它们，可获得极多扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_HORDE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS_HORDE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_HORDE"
+  },
+  {
+    "key": "f8d5c2cb83eec400505a5ebfc5192e3b",
+    "original": "A swarm of evolved zombies are congregating at a location where warp resonance is high.  Clear them out for a medium reward of warp shards.",
+    "translation": "一些进化丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得中量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_MID\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_MID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_MID"
+  },
+  {
+    "key": "d3a1c63e0440abe139ec332b2a18e367",
+    "original": "A swarm of extremely dangerous zombies are congregating at a location where warp resonance is high.  Clear them out for a very large reward of warp shards.",
+    "translation": "一群极度危险的丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得巨量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_ELITE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_ELITE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_ELITE"
+  },
+  {
+    "key": "50ba13f5dbc2ec6964934a018fe5ea45",
+    "original": "A swarm of rather powerful zombies are congregating at a location where warp resonance is high.  Clear them out for a large reward of warp shards.",
+    "translation": "一群相当强大的丧尸聚集在了一片扭曲波动较高的地区。消灭它们，可获得大量扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_HARD\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_HARD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_HARD"
+  },
+  {
+    "key": "40b7415152b081c46e8cb79520af9962",
+    "original": "A team of supremely powerful zombies has been found at a location where warp resonance is high.  Destroy it for a very large reward of warp shards.",
+    "translation": "一群无比危险的丧尸群出现在了一片扭曲波动较高的地区。消灭它们，可获得极多扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_KILL_BOSS_MULTI\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_KILL_BOSS_MULTI\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_KILL_BOSS_MULTI"
+  },
+  {
+    "key": "9757786b2171df6a3f1ef331eef80d20",
+    "original": "A very small cluster of warp energy has left shards behind at this location.  All you need to do is find and retrieve them.  There may be threats nearby, but unlike most tasks, no special guards are on-site.  A minimal reward, but little risk.",
+    "translation": "任务区域留下了一小团扭曲能量的碎片，你的任务是搜寻并把碎片带回来。区域周围可能会存在威胁，但不同于大部分任务，区域内没有特殊怪物，虽然任务奖励很少，但风险也相当小。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_TREASURE\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_TREASURE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_TREASURE"
+  },
+  {
+    "key": "f16a1a8839981f025a663560bcc7a8b3",
+    "original": "A warp pulse passing through you twists your blood inside your veins and your eyes pulse in pain.  You've overstayed your welcome and need to get home.",
+    "translation": "随着扭曲脉冲穿过了你，你感到血管中的血液在扭曲，眼球伴随痛苦抽动着。你待得太久，该返程了。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck2\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck2"
+  },
+  {
+    "key": "13cc077af0a0bd8258a2d8f3d68eaa7f",
+    "original": "A warp pulse shudders through your head like a localized earthquake and your extremities surge with pain like they're peeling open.  You need to get home as soon as possible.",
+    "translation": "扭曲脉冲掠过你的脑海，你感到脑子像地震般的颤动，你的四肢疼痛不堪，像被人扒掉了皮。你最好赶快回去。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck3\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck3"
+  },
+  {
+    "key": "6fb79d389484f604c1aeeac401b6887e",
+    "original": "An attempt at an entirely new way to play CDDA, inspired by games like Escape from Tarkov and Dark and Darker.  Begin on a floating island in the sky and warp down to random spots on the earth below to conduct expeditions for items you need.  Permadeath is gone - you will return to the island on death but lose any items you had on you.  Build up your stockpile, carry out missions for unique rewards, customize your home island, and be prudent about what you take on any given outing.  Be aware that 'PLAY NOW' will NOT work, you MUST make a custom character.",
+    "translation": "一种全新的CDDA玩法，灵感来自于《逃离塔科夫》和《Dark and Darker》等游戏。开始时你将置身于一座浮空之岛，通过随机传送至地面的某个地方，进行探险以搜集所需的物资。你的角色不会消失——当你死亡时，你将回到岛屿上，但会失去身上所携带的任何物品。填补库存、执行任务、获得独特奖励、构建你的岛屿之家，出发探索前考虑好你所携带的物品。无法使用“直接开始”进行游玩，需要创建新人物。",
+    "stage": 5,
+    "context": "ID: skyisland\n位于 /Kenan-Structured-Modpack/Sky_Island/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→MOD_INFO→skyisland\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=skyisland"
+  },
+  {
+    "key": "1b16cdda4abae90b8ac7f90c0c876f86",
+    "original": "Another warp pulse rocks through you and your organs wrench themselves over.  Existence is fracturing.  You need to get home immediately.",
+    "translation": "随着扭曲脉冲穿过了你，你感觉体内的内脏被扭曲了，身体正在瓦解。你必须马上回去。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck4\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck4"
+  },
+  {
+    "key": "039cc6f60d645700d99ed328b7389e1b",
+    "original": "Are the birds around here…  sparkling?  It seems even the local wildlife has started absorbing latent warp energy.  Kill at least 5 non-zombie birds of any kind before returning to your sanctuary for bonus warp shards.",
+    "translation": "周围有鸟在环绕吗…看起来闪闪发亮的？似乎本地的野生动物也都开始汲取扭曲流了。杀死至少5个未丧尸化的鸟类，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_BIRD\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_BIRD\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_BIRD"
+  },
+  {
+    "key": "9302d3d55751c40938894d8743033cd5",
+    "original": "Are the critters around here…  sparkling?  It seems even the local wildlife has started absorbing latent warp energy.  Kill at least 5 non-zombie mammals of any kind before returning to your sanctuary for bonus warp shards.",
+    "translation": "周围有活物在动吗…看起来闪闪发亮的？似乎本地的野生动物也都开始汲取扭曲流了。杀死至少5个未丧尸化的哺乳动物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_MAMMAL\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_MAMMAL\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_MAMMAL"
+  },
+  {
+    "key": "e1461ef4f5c1199a1bacc84d58ee03ef",
+    "original": "As if the world ending wasn't enough, it seems some kind of extradimensional powers that be have taken an interest in you.  You have been placed on a floating island high above the Earth, safe but isolated.  Only by using the reality-bending powers of warp technology can you visit the world below in brief, randomly-targeted excursions below.  Venture down, gather supplies, and return with only what you can carry to build up your home base and your stash over time.  The powers of the warp make you unable to ever truly die, so on failing such an expedition, you will simply lose all items and equipment you were carrying and be swiftly returned home at low health.",
+    "translation": "某些超维存在似乎不满足于这场毁灭世界的浩劫，进而对你产生了兴趣。你被放置在一座浮于地表之上的浮空岛上，安全但孤立无援。只有通过能扭曲现实的传送技术，才能随机传送至地下某个地方。勇闯直下，收集物资，带着你能扛动的东西回家，逐渐建设你的家园和库存。传送技术还让你无法真正死去，当你死亡时，你只会失去携带的所有物品和装备，并以低血量返回岛屿。",
+    "stage": 5,
+    "context": "ID: scenario_warper\n位于 /Kenan-Structured-Modpack/Sky_Island/scenario.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→scenario→scenario_warper\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warper"
+  },
+  {
+    "key": "2fec84188f66247a5448faafa3e0a6ee",
+    "original": "As the warp pulse hits, you realize there are no words to describe how much trouble you're in.  Your body is crumbling to wet paste and your blood is twisting into a viny tangle.  All you know is pain.  \\nYou're not just dying, you're dying horribly.  \\nIf escape is already near you may survive against all odds, but oblivion is only moments away.",
+    "translation": "伴随着一道扭曲脉冲击中了你，言语已经无力去形容你的麻烦有多大。你的身体正在崩溃成一滩烂糊，血液如藤蔓般扭曲。你只能感受到极度的痛苦。\\n你不仅要死了，而且会死得很惨。\\n如果传送点就在不远处，尚有一线生机。但消逝仅有咫尺之遥。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck6\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck6\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck6"
+  },
+  {
+    "key": "0bdbf89ca05ade7ab05fa7aa5a63146b",
+    "original": "Begin searching for a spot to teleport to?  This may take a moment while we scan the world.  Your game may appear to freeze for up to a few minutes, especially for your first expedition.",
+    "translation": "开始搜寻传送地点？扫描世界可能需要花费一些时间。你的游戏进程可能会未响应几分钟，首次使用耗时更为明显。",
+    "stage": 5,
+    "context": "ID: EOC_warp_statue\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_warp_statue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_warp_statue"
+  },
+  {
+    "key": "418e617541bc8803319287f41fa4bb45",
+    "original": "Difficulty set to Casual.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为普通难度.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficulty1\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty1"
+  },
+  {
+    "key": "ac199a99609deee321b8146f14b4b735",
+    "original": "Difficulty set to Hard.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为困难模式.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficulty2\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty2"
+  },
+  {
+    "key": "010221793564d737bfcc315ec225f29b",
+    "original": "Difficulty set to Impossible.  You can use the Difficulty Adjuster if you wish to change your setting at any time.",
+    "translation": "难度设定为极难模式.你可以随时通过难度调整石板重新设置.",
+    "stage": 5,
+    "context": "ID: EOC_difficulty3\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty3"
+  },
+  {
+    "key": "47a525395a93443623ed48d6008e12fe",
+    "original": "Goosebumps cover your skin as a warp pulse passes through you.  You're only one warp pulse from your deadline.",
+    "translation": "随着扭曲脉冲穿过了你，你的身体起满了鸡皮疙瘩。下一次脉冲开始会让你患上扭曲病。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck1\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck1"
+  },
+  {
+    "key": "dc072828abaa1968f84275d0861de1d1",
+    "original": "If you want to get home with your stuff, you'll need to reach one of these nearby warp points.  They're only things that can bring you back to your sanctuary island in one piece.",
+    "translation": "如果你想把收集的战利品带回去，你需要找到附近的某个回归传送点。它们是唯一能让你完好无损回到岛上的东西。",
+    "stage": 5,
+    "context": "ID: MISSION_REACH_EXTRACT\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_REACH_EXTRACT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_REACH_EXTRACT"
+  },
+  {
+    "key": "e70b8f539bc461dc8003336a56beb918",
+    "original": "Kill the guarded interlopers!",
+    "translation": "消灭守卫闯入者!",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3"
+  },
+  {
+    "key": "d76e8fe02d763fe2eb44ce29553589c1",
+    "original": "Moments before your last breath leaves your body, the mote of warp essence on you jolts with a brilliant energy.  Its thin filament immediately snaps tight, reeling you home faster than you can process what it was that just saved your life.  The mote is spent, but you arrive home alive and well.",
+    "translation": "在你死前只有最后一口气的瞬间，你身上的溯返之尘开始带着耀眼的能量震荡起来，飘荡空中的细线立刻绷紧，在意识到什么救了你之前，你已经回到了岛上。尘埃已经消散了，你完好无损的回来了。",
+    "stage": 5,
+    "context": "ID: EOC_youdied\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_youdied\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_youdied"
+  },
+  {
+    "key": "a43ceae0d38c98438c1cd5953f1db554",
+    "original": "Now, let's select your difficulty mode!\\n\\nThis only affects how long the expedition timer is.  It won't change combat difficulty or any other settings.",
+    "translation": "现在，请选择你想要的游戏难度！\\n\\n游戏难度只会影响你的最大探险时长。除此之外不会影响其他参数和设置。",
+    "stage": 5,
+    "context": "ID: scenario_warp_begins\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→scenario_warp_begins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warp_begins"
+  },
+  {
+    "key": "577bbf54411284759551638a41908276",
+    "original": "Prolonged warp is destroying you.  You're coming apart.",
+    "translation": "长时间与扭曲接触，你的身体正在分崩离析。",
+    "stage": 5,
+    "context": "ID: warpdisintegration\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpdisintegration\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdisintegration"
+  },
+  {
+    "key": "4808ae5ba1a03e498734507c332784a7",
+    "original": "Purple-blue shimmers sparkle around the leaves of this small sapling.  New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches.  It's always in equilibrium.  Its strange nature allows you to shift it around like furniture.  You can harvest sticks, logs, and other materials from it using the construction menu.",
+    "translation": "这棵树苗的叶片周围闪烁着紫蓝色光芒。树枝的生长似乎在几秒钟之内就完成了，就像时光快进一样，而且似乎不会再进一步生长。无论怎样树苗总是保持着原状，可以在建筑菜单里收获树枝、原木和其他材料。",
+    "stage": 5,
+    "context": "ID: f_infinitree1\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_infinitree1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_infinitree1"
+  },
+  {
+    "key": "a547ae034d8fca0966c3291ed2506030",
+    "original": "Purple-blue shimmers sparkle around the leaves of this small sapling.  New growth seems to spring up in seconds, as if in a timelapse, and yet there never seem to be too many branches.  It's always in equilibrium.  Its strange nature allows you to shift it around like furniture.  You could probably use this in some recipes.",
+    "translation": "这棵树苗的叶片周围闪烁着紫蓝色光芒。树枝的生长似乎在几秒钟之内就完成了，就像时光快进一样，而且似乎不会再进一步生长。无论怎样树苗总是保持着先前的状态。也许一些配方用得到这个。",
+    "stage": 5,
+    "context": "ID: f_infinitree3\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_infinitree3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_infinitree3"
+  },
+  {
+    "key": "8508e55edea97d43ca7276d303e972bd",
+    "original": "Take a full minute of concentration and return to the safety of your home base.  THIS SPELL IS FOR EMERGENCIES AND CHEATERS ONLY -- USE IN THE EVENT YOUR EXIT ROOM DID NOT SPAWN SUCCESSFULLY.",
+    "translation": "只需花上一分钟来集中注意力，然后你就回到安全的浮空岛上了！此法术仅适用于作弊或特殊情况使用——在你的回归点未正常生成时使用。",
+    "stage": 5,
+    "context": "ID: warp_home\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→SPELL→warp_home\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_home"
+  },
+  {
+    "key": "2679af0bd8046c562a6af52ac2d8d990",
+    "original": "The bile suddenly rises in your throat and your fingers feel like they're peeling themselves open.  Your warp sickness is getting worse.  You should get home soon.",
+    "translation": "你的喉咙突然涌起胆汁，手指感觉就像是在扒开自己的皮。你的扭曲病越来越严重了，你应该快点回家。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "ae6b6f4a3c2e9c3f9e0715834087b44b",
+    "original": "The effect is wasted and you don't feel any better.  You have to be in your sanctuary to be healed by this!",
+    "translation": "药效被浪费掉了，你的身体毫无变化。这个药品只能在你的避难岛上使用！",
+    "stage": 5,
+    "context": "ID: EOC_healall\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_healall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_healall"
+  },
+  {
+    "key": "e075cdc10be9345d60b580a1a41deb20",
+    "original": "The mi-go have sucked up latent energies which must be released into the stream of warp once more.  Kill at least one mi-go creature before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些米·戈汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少1个米·戈，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_MIGO\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_MIGO\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_MIGO"
+  },
+  {
+    "key": "2d7f2b6fe4b693819abae4fc8035edc8",
+    "original": "The ravages of the world intensify.  Everything hurts and existence is a surreal wash of pain.  Your warp sickness is unbearable.  You need to get home as soon as possible.",
+    "translation": "世界在进一步摧残你的身体。一切都痛苦无比，存在本身就是一种超现实的痛苦洗涤。你的扭曲病已经无法忍受，你得赶紧回家了。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "6eda1a8ce99e5bb36ad1aec477ec5483",
+    "original": "The rending of the warp has finally abated.  You feel like you exist again.",
+    "translation": "扭曲的撕裂终于结束了. 你感觉又活过来了.",
+    "stage": 5,
+    "context": "ID: warpdisintegration\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpdisintegration\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdisintegration"
+  },
+  {
+    "key": "e10874e68ec18dc05ef135490171c137",
+    "original": "The salve has no effect.  It was only ever meant for the inexperienced and the innocent.  You've proved capable in your successful expeditions and must rely on yourself from now on.",
+    "translation": "药膏已经失去效果了，它只适用于初涉此地和不幸之人。你已经通过成功的探险证明了你的能力，你现在只能依靠自己了。",
+    "stage": 5,
+    "context": "ID: EOC_HEAL_NEWBIE\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_HEAL_NEWBIE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_HEAL_NEWBIE"
+  },
+  {
+    "key": "8a5e24641e3dab0f1d15d4341832640d",
+    "original": "The very fabric of your being is unraveling!  You're in dire straits.  You need to get back to your sanctuary island NOW!",
+    "translation": "你的身体正在不断瓦解，你现在的状况举步维艰。你需要立即回到岛上！",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "3f066205052fcd415e63a33dc479ab90",
+    "original": "The warp has marked a single human being for death.  They will likely carry a melee weapon.  They will be alone.  Their sins are not your concern.  All you need to know is that it must be done.",
+    "translation": "扭曲标记了一个应死之人。他们可能装备了近战武器。他们孤立无援。他们身上背负的罪与你无关，你只需要知道任务必须完成。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN2\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_ASSASSIN2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN2"
+  },
+  {
+    "key": "be667ce938ff9c0219f5693da5848ff8",
+    "original": "The warp has marked a single human being for death.  They will likely carry a ranged weapon.  They will be alone.  Their sins are not your concern.  All you need to know is that it must be done.",
+    "translation": "扭曲标记了一个应死之人。他们可能装备了近战武器。他们孤立无援，他们身上背负的罪与你无关，你只需要知道任务必须完成。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN1\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_ASSASSIN1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN1"
+  },
+  {
+    "key": "f4c79f93c503d6374848d31433828455",
+    "original": "The warp has marked human beings for death.  They may be accompanied.  Their sins are not your concern.  All you need to know is that it must be done.",
+    "translation": "扭曲标记了一个应死之人。他们周围可能会有人随同。他们身上背负的罪与你无关，你只需要知道任务必须完成。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_ASSASSIN3\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_ASSASSIN3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_ASSASSIN3"
+  },
+  {
+    "key": "2f8aee523c704437fbce401c4e0ac2c4",
+    "original": "The whole world shimmers in front of your eyes.  Everything feels slow and sticky.  Warp sickness is setting in.  You should focus on getting home.",
+    "translation": "整个世界在你眼前闪烁无比，一切都感觉变得迟缓和黏稠。扭曲病开始影响你了，也许该考虑回归岛上。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "a4d4d8d28775a07b31423387f78f3a09",
+    "original": "There are no words to describe how much trouble you're in.  Your body is crumbling to wet paste and your blood is twisting into a viny tangle.  All you know is pain.  You're not just dying, you're dying horribly.  Your only hope is escape to your sanctuary, but oblivion is only moments away.",
+    "translation": "言语已无法形容你的麻烦有多大。你的身体正在崩溃成一滩烂泥，血液如藤蔓般扭曲。你所能感受到的只有极度痛苦。你不仅要死了，而且会死得很惨。你唯一的希望就是逃到你的避难岛，但是消逝只是一瞬间的事。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "b8ee21d0b2d97da8e65dd5e12d3f25ed",
+    "original": "This bag shimmers before your eyes, glinting in perfectly vertical slivers of purplish light.  No matter how much you pack into it, it never seems to grow heavier, and its interior is a great yawning gullet of space the items seem to simply disappear into.  It is a remarkably picky eater, however, and seems to yearn for lumps of raw metal like steel and scrap.  It does, however, also yield to a few particularly dense processed forms, like pipes, sheet metal, steel frames, and metal plating.  It also outright refuses to be packed inside of other bags.",
+    "translation": "这个背包在你眼前闪闪发光，紫色的线条完美垂直地闪烁着。无论你往里面装了多少东西，它都不会变重，好似一个深渊巨口把里面的东西给弄消失了。这个背包相当挑食， 似乎渴望着像钢块和铁废料之类的金属块。然而，它也能装入一些特别密集的加工产品，如金属管、金属板之类的东西。这个背包没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warpmetalbag\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpmetalbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpmetalbag"
+  },
+  {
+    "key": "824cfdaca6a16d2aea320c0aa55e7bae",
+    "original": "This bag shimmers before your eyes, glinting in perfectly vertical slivers of purplish light.  No matter how much you pack into it, it never seems to grow heavier, and its interior is a great yawning gullet of space the items seem to simply disappear into.  It seems a remarkably picky eater, however, and will only swallow up planks, boards, wood panels, sticks, and similar wooden construction items.  It also outright refuses to be packed inside of other bags.",
+    "translation": "这个背包在你眼前闪闪发光，紫色的线条完美垂直地闪烁着。无论你往里面装了多少东西，它都不会变重，好似一个深渊巨口把里面的东西给弄消失了，不过这个背包相当挑食，只能装入木板、木材、木制板材、木棍和类似的木质建筑材料。此外，这个背包没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warpwoodbag\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpwoodbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpwoodbag"
+  },
+  {
+    "key": "04ba57e88073083e4497c332b027862b",
+    "original": "This bag shimmers before your eyes, glinting in perfectly vertical slivers of purplish light.  No matter how much you pack into it, it never seems to grow heavier, and its interior is a great yawning gullet of space the items seem to simply disappear into.  This is surely the biggest of its type.  It seems a remarkably picky eater, however, and will only swallow up soil, sand, gravel, clay, and most common stones.  It does seem, however, to also yield to a handful of construction materials like raw limestone, cement, concrete, and mortar, to name a few.  It also outright refuses to be packed inside of other bags.",
+    "translation": "这个背包在你眼前闪闪发光，紫色的线条完美垂直地闪烁着。无论你往里面装了多少东西，它都不会变重，好似一个深渊巨口把里面的东西给弄消失了。在同类型的造物中它是最大的。这个背包相当挑食，只能装入土壤、沙子、砾石、粘土和最常见的石头，不过，它似乎也能装进少数建筑材料，如原始石灰石、水泥、混凝土和砂浆等等。此外，这个背包没法被塞到另一个背包里。",
+    "stage": 5,
+    "context": "ID: warpdirtbag\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpdirtbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpdirtbag"
+  },
+  {
+    "key": "4cab72055cdb1242575be352e2a135e4",
+    "original": "This faintly humming purplish stone is meant to ward portal storms away from the island.  When used on the sanctuary island during a portal storm, it will clear the weather.  No effect if used earthside.",
+    "translation": "这个带有紫色光泽的石头发出微弱的嗡嗡声，能够将空间风暴驱离岛屿。空间风暴期间在避难空岛上使用，能使天气晴朗。在地面使用没有效果。",
+    "stage": 5,
+    "context": "ID: warp_portalstorm_ender\n位于 /Kenan-Structured-Modpack/Sky_Island/warpitems.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warp_portalstorm_ender\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_portalstorm_ender"
+  },
+  {
+    "key": "7b196ff96d222340ac2db240db557073",
+    "original": "This is the edge of the island.  A metaphysical border stops you from going over the edge yourself, but anything you drop here will be gone forever.",
+    "translation": "浮空岛的边缘。形而上的边界阻止你越过它，丢到边界外的任何东西都将永远消失。",
+    "stage": 5,
+    "context": "ID: t_fake_air\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→terrain→t_fake_air\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=t_fake_air"
+  },
+  {
+    "key": "182a97f3e6464e75ca095c8d5fea184b",
+    "original": "This pseudomagical pill extends the amount of time you can stay earthside by 4 pulses, or about 50% of a normal trip.  They're precious, but should help buy time for a difficult extract.",
+    "translation": "这种魔幻般的药丸可以延长你在地表上停留的时间——大约4次扭曲脉冲，差不多是普通难度下的50%。它们很珍贵，但应能为探险中的艰难回收争取到时间。",
+    "stage": 5,
+    "context": "ID: warpextender\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→COMESTIBLE→warpextender\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpextender"
+  },
+  {
+    "key": "4c9f9fc71e00b4d5be02111c2153f787",
+    "original": "This pseudomagical pill will heal all your damaged parts, but only if swallowed while on your sanctuary island.  No reason to bring this into the field.",
+    "translation": "这种魔幻般的药品能够治愈你所有受伤的部位，但只能在你的避难岛上生效，带到地表上没有任何用处.",
+    "stage": 5,
+    "context": "ID: quickheal\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→COMESTIBLE→quickheal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=quickheal"
+  },
+  {
+    "key": "866f8a28e4cd36901ae9c9ee7c117edd",
+    "original": "This strange obsidian-colored plate is capable of mimicking the advanced tech found within a modern Autodoc, and can be used to create a working copy at your sanctuary.  However, it is inert in its current state and must first be imprinted on a working Autodoc.  To do so, find an Autodoc during an expedition and use the construction menu to imprint this plate.",
+    "translation": "这块奇特的黑曜石板可以复现全自动外科医生中的先进技术，可以在你的避难空岛中创造出一个复制品…现在这块复制板还无法使用，需要你在探索中找到一个能正常工作的全自动外科医生，并在建筑菜单中把它复制到石板里。",
+    "stage": 5,
+    "context": "ID: warp_autodoc_inert\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→warp_autodoc_inert\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_inert"
+  },
+  {
+    "key": "7d95b954250108a43b62889448bfa684",
+    "original": "This strange obsidian-colored plate is capable of mimicking the advanced tech found within a modern Autodoc, and can be used to create a working copy at your sanctuary.  It has been successfully activated and can be used as the catalyst to create a new Autodoc at a location of your choosing using the construction menu.  Be aware this cannot be safely moved once placed, and will also require you to add an adjacent couch, then convert it to an Autodoc couch.",
+    "translation": "这块奇特的黑曜石板可以复现全自动外科医生中的先进技术，可以在你的避难空岛中创造出一个复制品。这块石板已经被成功激活，在建筑菜单中可以作为所需物品，在你所选定的地方来建造一个全自动外科医生。 请注意，一旦建造完毕后，它就不能被安全移动，并且还需要在旁边相邻的地方放上一个沙发，然后用复制盘将其转换为对应的手术台。",
+    "stage": 5,
+    "context": "ID: warp_autodoc_active\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→GENERIC→warp_autodoc_active\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_autodoc_active"
+  },
+  {
+    "key": "86bf6425cfd1751659c5b40f4b78bf49",
+    "original": "This will teleport you back home with only the items on your person.  Anything left behind will be as good as gone.  Are you ready to leave?",
+    "translation": "你将和所携带的物品传送回归,这片区域剩下的一切物品都会消失.是否要进行传送?",
+    "stage": 5,
+    "context": "ID: EOC_statue_return\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_statue_return\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_statue_return"
+  },
+  {
+    "key": "fbfb903e7963bea58eccb45af58eb97b",
+    "original": "Though visibly little more than a glowing dustbunny, this strange ethereal mote of warp essence reveals, on closer inspection, something more.  A tiny, twisting, half-visible thread of shimmering bluish-purple trails away into the sky and far out of sight, unimpeded by any obstacles.\\n\\nTaking this rare and valuable artifact with you on an expedition is essentially buying life insurance.  If you die with this mote in your inventory, you will instead be restored to full health and brought home, WITH all items and equipment carried.  But this effect will only last for a single expedition.  Even if you extract safely, any and all motes carried on your person when you return home will be DESTROYED.",
+    "translation": "看上去只是一小团发光的尘兔，但你仔细观察后发现这团飘渺且奇异的尘埃中的微粒似乎揭示了许多东西，一条纤细得微不可见的扭曲细线闪烁着蓝紫色光芒，不受任何障碍物的阻碍地延伸至遥不可视的空中。\\n\\n带着这件稀有而珍贵的神器去探险，本质上是给自己买了份保险。只要你携带着这件物品，在探险中死亡后会完好无损的回到岛上，你所携带的一切物品和装备也会保留下来。但该物品只能生效一次，无论是死亡还是从传送点回归，当再次回到岛屿上时，你携带着的所有溯返之尘都会被清除。(尘兔，一种团在一起的大块灰尘。)",
+    "stage": 5,
+    "context": "ID: warphome\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→TOOL→warphome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warphome"
+  },
+  {
+    "key": "25acec129c281d3188fd3b9e67607386",
+    "original": "Utilizing the unstable, reality-changing nature of the warp shards, you could combine several to create a powerful semi-magical item.  This is a skill you have no way of practicing and a field of science no one's ever really touched, so exactly what you'd get from it is anyone's guess.",
+    "translation": "利用扭曲碎片不稳定、改变现实的特性，你可以将几个碎片组合在一起，创造一个强大的半魔法物品。这是一项你无法练习的技能，也是一个没有人真正接触过的科学领域，所以你到底能从中得到什么，谁也说不准。",
+    "stage": 5,
+    "context": "ID: recipe_craft_random_artifact\n位于 /Kenan-Structured-Modpack/Sky_Island/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→recipe→recipe_craft_random_artifact\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_craft_random_artifact"
+  },
+  {
+    "key": "70fe14f878551f7c38c5fa700ac18674",
+    "original": "Welcome to Sky Islands.  Here, you will have to make expeditions from your floating sanctuary base to the world below.  Fight your way to the exit within the time limit and bring back whatever you can carry, but if you die, you will be returned to the island injured, and lose all equipment you were carrying.",
+    "translation": "欢迎来到浮空岛。在这里，你必须从漂浮的避难基地传送到下方的世界进行探险。在一定时间限制内一路杀到出口，并带回你能携带的任何东西，但如果你在探险中死亡，你将带着伤口回到岛上，并失去你携带的所有装备。",
+    "stage": 5,
+    "context": "ID: scenario_warp_begins\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→scenario_warp_begins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warp_begins"
+  },
+  {
+    "key": "37c1f599ef50d90f123dedfefb315032",
+    "original": "While on expedition, you will be timed by 'warp pulses', which hit you at regular intervals.  After 8 pulses, you will suffer warp sickness, which results in reduced stats.  Every pulse after that will lower your stats even further.  After the 12th pulse, you will also begin disintegrating, taking damage until you die.\\n\\nGet home safely to reset the timer!",
+    "translation": "在探索的过程中，你需要面对周期性出现的“扭曲脉冲”，当经历第8次脉冲后，你会患上带有减益效果的“扭曲病”，之后的每次“扭曲脉冲”都会进一步加深这种影响。到了第12次脉冲后你会受到“解体”状态，身体状况和血量将会迅速下降直至死亡。\\n\\n传送回归会重置累计次数！",
+    "stage": 5,
+    "context": "ID: scenario_warp_begins\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→scenario_warp_begins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=scenario_warp_begins"
+  },
+  {
+    "key": "66c0a07e51632f1093a0c3c4f550dafe",
+    "original": "While these are certainly imbued with warp, they don't seem to have any supernatural powers beyond just growing quickly.  A nice option if you want to re-plant grass on your island, for decoration's sake.",
+    "translation": "这些草种上毫无疑问充满了扭曲，但除了长得快以外，似乎没有其他特殊之处。如果你想重新种上草来装饰岛屿，那这些草种是不错的选择。",
+    "stage": 5,
+    "context": "ID: warp_grassbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→AMMO→warp_grassbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warp_grassbag"
+  },
+  {
+    "key": "e1a3ae42618a4c23355fc47ddf67382b",
+    "original": "You are away from your sanctuary island.  Over time, you will begin to succumb to the intangible miasma of the world below, and your stats will suffer.  You have several hours after warp before this becomes a problem, after which it will rapidly get worse until you warp home or die.",
+    "translation": "你离开了你的避难岛。随着时间推移，你会受到地表上的无形瘴气的影响，情况也会变得糟糕起来。传送下来后，在出问题前你还有数个小时的探索时间，之后就会开始恶化，直至你回归或死在下面。",
+    "stage": 5,
+    "context": "ID: awayfromhome\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mutation→awayfromhome\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=awayfromhome"
+  },
+  {
+    "key": "0008a584ee82e23df5ada4f4a9491d91",
+    "original": "You are invisible for a very brief time.  Now's your chance to get to cover.  You're also incorporeal enough to not take fall damage, but hopefully that won't be relevant.",
+    "translation": "你在短时间内是隐形的。现在是找掩护的机会了。肉体还未成型，不会受到坠落伤害，但希望你不会需要这个。",
+    "stage": 5,
+    "context": "ID: warpcloak\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpcloak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpcloak"
+  },
+  {
+    "key": "4064d010c23d761a83e99d214df5370e",
+    "original": "You died at home?  What's the matter with you?  Stop this.  You are restored.  The powers that be have made you temporarily incorporeal, in case you were stuck in a deadly loop.",
+    "translation": "你死在岛上了？你在搞什么？停下来。你恢复了原样，某些存在暂时消去了你的肉体，免得你再继续弄死自己。",
+    "stage": 5,
+    "context": "ID: EOC_deathconfirmed\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_deathconfirmed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_deathconfirmed"
+  },
+  {
+    "key": "f0ab3a78b729e9933c68017298633682",
+    "original": "You feel the icy grip of death begin to take you, and the world whirls and rushes past.  Reality bends and at the peak of your last mortal moment, something snags you and hauls you through space and time.  Your mind has been preserved, at cost, and your body is not far behind.",
+    "translation": "你感觉死亡的冰冷之爪扼住了你，随后世界在飞速旋转。现实开始畸曲起来。在你生命的最后一刻，某个东西抓住了你，拖越了空间与时间。你的灵魂被存留下来了，以某些代价的，而你的身体也紧随其后。",
+    "stage": 5,
+    "context": "ID: EOC_deathconfirmed\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_deathconfirmed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_deathconfirmed"
+  },
+  {
+    "key": "e12ee16c5b2a71b4cd434018df25da2b",
+    "original": "You fully materialize.  You're not invisible anymore!",
+    "translation": "你的身体重新物质化，隐身效果消失了！",
+    "stage": 5,
+    "context": "ID: warpcloak\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpcloak\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpcloak"
+  },
+  {
+    "key": "9c8b1cdc963709746254ae37b2deb61b",
+    "original": "You haven't selected a difficulty.  This could be because you're playing an old save.\\n\\nYour current difficulty has been set to Normal.  In this setting, you will have 4 hours in every expedition to reach the exit and leave safely.  After this, warp sickness sets in and applies heavy debuffs until you exit.  After 6 hours, warp disintegration begins, and you will rapidly lose health until you exit or die.",
+    "translation": "你尚未选择游戏难度，可能是你正在游玩先前的存档导致的。\\n\\n你目前的游戏难度已设置为普通难度。此难度下，每次前往地面探险都有4个小时去寻找传送点并离开。超出时间后你将开始受到扭曲病影响，受到严重的负面效果。6小时后你将受到扭曲解体的影响，会导致血量迅速降低，直到回归或死亡。",
+    "stage": 5,
+    "context": "ID: EOC_difficultysafeguard\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultysafeguard\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultysafeguard"
+  },
+  {
+    "key": "e13a578547489f107700d42ecf5653ed",
+    "original": "You taste blood and your eyes sink back into their sockets.  You've stayed out too long.  Your warp sickness is about to consume you entirely and you're falling apart at the seams.  Get home NOW!",
+    "translation": "你的嘴里尝到了血的味道，眼睛好似要完全凹陷到眼窝里。你在外面呆太久，扭曲病快要把你完全吞噬了。赶紧回去，就现在！",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "3365add9f6b6a4808c50378d9b6800d1",
+    "original": "You're fresh from your stay at your sanctuary island.  The intangible miasma of terra firma currently has no effect on you, and you feel fine.  This should last for several hours.  Stay too long, however, and you'll gradually begin to suffer ever-worsening debilitating effects.",
+    "translation": "你刚刚从你的避难岛上传送下来。地表上无形的毒气对你还没什么影响。现在你感觉良好。这种状态还能保持几个小时，但你呆得太久的话，就会逐渐开始受越来越严重的衰弱影响。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "85270c23d8be3ff2223a02e8e2d81d68",
+    "original": "You're going to die.  And if you weren't busy leaking blood out of every pore, you'd find a better way to emphasize just how badly you're dying.  Your only hope is to return home immediately.",
+    "translation": "你就要死了，没有什么能比你现在全身毛孔渗血的样子更能强调这点。你唯一的活路就是回到岛上。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "8f7e7987c2f59eb75da01f23b2216af5",
+    "original": "You're still materializing and not fully visible yet.  In about 60 seconds, the world will be able to see you, so if you were warped into danger, now's your chance to get to cover.",
+    "translation": "你的身体还在物质化中，尚未完全可见。大概60秒后全世界都看得见你了。如果你的出生点存在危险，现在就是你找掩体的时候。",
+    "stage": 5,
+    "context": "ID: EOC_initiate_randomport\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_initiate_randomport\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_initiate_randomport"
+  },
+  {
+    "key": "6c53e73d13a9a3f39ffd73d61697b29d",
+    "original": "You've arrived!\\nPress a key when ready and random missions will be generated for this expedition.  This may take another minute.",
+    "translation": "你已抵达区域！\\n按下任意按键以继续，随机任务将会生成，这可能需要一分钟。",
+    "stage": 5,
+    "context": "ID: EOC_safely_landed\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_safely_landed\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_safely_landed"
+  },
+  {
+    "key": "ba555311d24dc5194663c5ae6dbfc978",
+    "original": "You've overstayed your time earthside.  It's getting hard to concentrate, there's a painful ringing in your ears, and your muscles sting and jolt.  Every action feels delayed.  You need to warp home to refresh yourself, or this is going to get worse.  Probably within just a few hours.",
+    "translation": "你在地表待得有些久了。你开始难以集中精力，耳膜里有种令人痛苦的响声，你的肌肉有些刺痛和抽搐，每一步都像带着延迟。赶紧回岛上清醒一下，不然在几个小时后情况可能更糟。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "bdadb6b7821d6766cb35a2836746f76a",
+    "original": "You've proved sufficient understanding of the warpstream.  The hardest tier of missions is now available.  You never know what awaits earthside.",
+    "translation": "你的经历证明了你对扭曲流已经有了充分认识.最高级别的任务可以获取了.你永远不知道地表上有什么在等待着你.",
+    "stage": 5,
+    "context": "ID: EOC_progressgate2\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_progressgate2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_progressgate2"
+  },
+  {
+    "key": "b956bacf25cae655e569b4ec4a47daf7",
+    "original": "You've proved you can survive a few excursions to the world below.  As if in response, the warpstream surges with new energies.  You may find yourself deploying to more dangerous places, or charged with harder missions.\\nYour magical healing salve will no longer work.  Be cautious in your future endeavors.",
+    "translation": "从地表的几次短暂探险中存活下来，证明了你自身的能力。像是认可般的，扭曲流中涌动着新的能量。你会发现自己将被传送到更危险的地区，接受更加艰巨的任务。\\n疗慰药膏对经历磨难的你不再生效。继续努力的谨慎前行吧。",
+    "stage": 5,
+    "context": "ID: EOC_progressgate1\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_progressgate1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_progressgate1"
+  },
+  {
+    "key": "929f8785eb44c0ac6cad727aa0dee5c3",
+    "original": "You've stayed earthside WAY too long!  Your body barely responds and your senses are slush.  The world itself feels barbed and frayed, and the very air is like breathing fiberglass.  If you want to survive, you need to warp home as soon as possible.",
+    "translation": "你在地表待得太久了！你的身体几乎失去知觉，且反应迟钝。现在世界本身如同充满了刺痛和磨伤的感觉，呼吸就像在吸入玻璃纤维。如果你还想活下去，就得尽快回到岛上。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "357d5e033bae7481d45f99810b7a0622",
+    "original": "You've stayed earthside too long.  Your body aches and your senses are dulling.  Every step feels like you're walking through thick mud and breathing hot tar.  You should warp home as soon as you can, or this is only going to get worse.",
+    "translation": "你在地表停留太久了。你的身体浑身作痛，反应变得迟钝，每一步如在泥潭里蹒跚跋涉，像在呼吸着灼热的焦油。你应该回到岛上，否则情况会继续恶化。",
+    "stage": 5,
+    "context": "ID: warpsickness\n位于 /Kenan-Structured-Modpack/Sky_Island/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_type→warpsickness\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpsickness"
+  },
+  {
+    "key": "e8032757ecfcfaed1437384a88b5b047",
+    "original": "Your body mends itself in the blink of an eye.  Underlying health issues may persist, but your structural integrity is restored.",
+    "translation": "你的身体眨眼间便自我痊愈了。潜存的健康问题可能还会困扰你，但至少你的四肢无碍。",
+    "stage": 5,
+    "context": "ID: EOC_healall\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_healall\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_healall"
+  },
+  {
+    "key": "a62b34cdaa9812ef59d5e45fb4e147ac",
+    "original": "Your body shivers slightly as a warp pulse passes through it.  Another pulse will hit in <global_val:readablesicknessintervals> minutes.  Warp sickness won't set in for another <global_val:readablepulsesleft> pulses.",
+    "translation": "扭曲脉冲穿过你时，你的身体在微微颤抖。下一次扭曲脉冲在 <global_val:readablesicknessintervals> 分钟后。距离获得扭曲病还有 <global_val:readablepulsesleft> 次 。",
+    "stage": 5,
+    "context": "ID: EOC_sicknesscheck\n位于 /Kenan-Structured-Modpack/Sky_Island/sickness_checks.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_sicknesscheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_sicknesscheck"
+  },
+  {
+    "key": "676aca06ea8b24fb6c09e38ccd5c41d6",
+    "original": "Zombies have absorbed latent energies which must be released into the stream of warp once more.  Kill at least 10 zombified humans or creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些丧尸汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少10个丧尸或怪物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED1\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_ZED1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED1"
+  },
+  {
+    "key": "83cd7a188264adaa3fa95997e070e7cb",
+    "original": "Zombies have absorbed latent energies which must be released into the stream of warp once more.  Kill at least 100 zombified humans or creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些丧尸汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少100个丧尸或怪物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED3\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_ZED3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED3"
+  },
+  {
+    "key": "f745feb68d33a3d5c852ff858cf6e9ef",
+    "original": "Zombies have absorbed latent energies which must be released into the stream of warp once more.  Kill at least 50 zombified humans or creatures before returning to your sanctuary for bonus warp shards.",
+    "translation": "这些丧尸汲取了潜在的能量，这些能量必须再次释放到扭曲流中。杀死至少50个丧尸或怪物，然后回到避难岛获得额外的扭曲碎片。",
+    "stage": 5,
+    "context": "ID: MISSION_BONUS_SLAUGHTER_ZED2\n位于 /Kenan-Structured-Modpack/Sky_Island/missions_and_mapgen.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→MISSION_BONUS_SLAUGHTER_ZED2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MISSION_BONUS_SLAUGHTER_ZED2"
+  },
+  {
+    "key": "2a6d57718a6a9f622a10ad50b0583f30",
+    "original": "materialize random artifact",
+    "translation": "合成随机神器",
+    "stage": 5,
+    "context": "ID: recipe_craft_random_artifact\n位于 /Kenan-Structured-Modpack/Sky_Island/recipes.json\n类型为 recipe\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→recipe→recipe_craft_random_artifact\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=recipe_craft_random_artifact"
+  },
+  {
+    "key": "28d5d53226be8aa8da42d9cbdd312e62",
+    "original": "Casual",
+    "translation": "休闲",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "3656183169810334a96b91129dc9d881",
+    "original": "Hard",
+    "translation": "困难",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "011d7bb0c88f95394e3a8d417304b218",
+    "original": "Impossible",
+    "translation": "极难",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "b83360989f53e6deb9eead45138b20d5",
+    "original": "In Casual difficulty, time limits are more relaxed.\\nWarp pulses occur every 90 minutes.  This means warp sickness sets in after 12 hours of being earthside, and disintegration at 18 hours.  You will have more time for activities and reaching the extract should generally not be a problem.",
+    "translation": "休闲模式,时间限制更为宽松.\\n此难度下\"扭曲脉冲\"的间隔为90分钟.这意味着你拥有12个小时来进行探险,停留超过18小时才会受到\"解体\"状态影响.此难度下你拥有充裕的时间进行活动或收集额外物资.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "5bcc544e5cc80f3e951880318d3e017b",
+    "original": "In Hard difficulty, time limits are strict.\\nWarp pulses occur every 30 minutes.  This means warp sickness sets in after only 4 hours of being earthside, and disintegration at 6 hours.  You will have much less time to spare and must make getting to the exit your immediate priority.",
+    "translation": "困难模式,时间变得更为紧迫.\\n此难度下“扭曲脉冲”的间隔为30分钟. 这意味着你只有4个小时来进行探险,停留超过6小时就会受到“解体”状态影响.你可以腾出手的时间会少得多,最好把抵达撤离点作为你的首要目标.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "aa6b5fe9a9835f5e4cb3d938870b97e5",
+    "original": "In Impossible difficulty, time limits are extremely tight.\\nWarp pulses occur every 15 minutes.  This means warp sickness sets in after only 2 hours of being earthside, and disintegration at 3 hours.  Reaching the extract alive will take all the time you can spare, and warp sickness will be common.  You will not be given mercy!",
+    "translation": "极难模式,每次探索都分秒必争.\\n此难度下“扭曲脉冲”的间隔仅为15分钟.仅仅2小时后你便会受到“扭曲病”的影响, 停留超过3小时就会获得“解体”状态. 活着抵达撤离点将会花费你的所有精力.扭曲病也将变得习以为常.一切事物都不会怜悯你!",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "38b0476cfd2cf2b793f02da40ac7ec13",
+    "original": "In Normal Difficulty, pulses occur every 45 minutes.  This means on every expedition, you will have 6 hours to explore, fight, loot, and find the exit before warp sickness sets in, and 8 hours total before disintegration begins.\\nThis is the intended way to play.  Getting to the exit is not a cakewalk, but you should have time to explore while earthside.",
+    "translation": "普通难度.\\n此难度下“扭曲脉冲”的间隔为45分钟,这意味着你拥有6个小时进行探险、消灭敌人、寻找物资、以及找到回归传送点.在此之后你会逐渐受到“扭曲病”的影响. 停留超过8小时,你会受到“解体”状态影响.\\n此难度为默认难度,此难度下玩家有足够的搜索时间以及不算轻松的回归难度.",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "960b44c579bc2f6818d2daaf9e4c16f0",
+    "original": "Normal",
+    "translation": "普通",
+    "stage": 5,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "48ed7fabbe0ce62ab6ceb3f47a195d89",
+    "original": "Construct: Bunker Entrance",
+    "translation": "Construct： Bunker Entrance",
+    "stage": 1,
+    "context": "ID: SKYISLAND_BUILD_base1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_BUILD_base1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_BUILD_base1"
+  },
+  {
+    "key": "b7fc4a456a68b8246ea6220c09f96ce4",
+    "original": "Construct: Main Room 1",
+    "translation": "Construct： Main Room 1",
+    "stage": 1,
+    "context": "ID: SKYISLAND_BUILD_bigroom1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_BUILD_bigroom1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_BUILD_bigroom1"
+  },
+  {
+    "key": "e1ab0a09316f4ec1016a374a80aa84b1",
+    "original": "Construct: Main Room 2",
+    "translation": "Construct： Main Room 2",
+    "stage": 1,
+    "context": "ID: SKYISLAND_BUILD_bigroom2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_BUILD_bigroom2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_BUILD_bigroom2"
+  },
+  {
+    "key": "4f4aa59494c0a8caa57089782616edc8",
+    "original": "Construct: Main Room 3",
+    "translation": "Construct： Main Room 3",
+    "stage": 1,
+    "context": "ID: SKYISLAND_BUILD_bigroom3\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_BUILD_bigroom3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_BUILD_bigroom3"
+  },
+  {
+    "key": "5697da6f7755cc9ac726ee220f8e7d90",
+    "original": "Construct: Main Room 4",
+    "translation": "Construct： Main Room 4",
+    "stage": 1,
+    "context": "ID: SKYISLAND_BUILD_bigroom4\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_BUILD_bigroom4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_BUILD_bigroom4"
+  },
+  {
+    "key": "3ffdd101f645ba1bfe78e6b1f1f2e6c1",
+    "original": "Difficulty set to Casual.  You can speak to the Heart of the Island to change this at any time.",
+    "translation": "当前难度为休闲。你可以随时和空岛之心交谈以改变难度设置。",
+    "stage": 1,
+    "context": "ID: EOC_difficulty0\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty0\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty0"
+  },
+  {
+    "key": "943d46ecbd622c08f45c5e2442459fa6",
+    "original": "Difficulty set to Hard.  You can speak to the Heart of the Island to change this at any time.",
+    "translation": "当前难度为困难。你可以随时和空岛之心交谈以改变难度设置。",
+    "stage": 1,
+    "context": "ID: EOC_difficulty2\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty2"
+  },
+  {
+    "key": "7ca7581307c305f50f92bd790d2fd3ec",
+    "original": "Difficulty set to Impossible.  You can speak to the Heart of the Island to change this at any time.",
+    "translation": "当前难度为地狱。你可以随时和空岛之心交谈以改变难度设置。",
+    "stage": 1,
+    "context": "ID: EOC_difficulty3\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficulty3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficulty3"
+  },
+  {
+    "key": "fbf6e44d150cf14de84b54c457f6c44b",
+    "original": "Grow a Warped Cherry Tree",
+    "translation": "种植扭曲樱桃树",
+    "stage": 1,
+    "context": "ID: warped_cherry_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_cherry_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_cherry_tree"
+  },
+  {
+    "key": "c4502bf97739d86b79dd8de16275b74d",
+    "original": "Grow a Warped Maple Tree",
+    "translation": "种植扭曲枫树",
+    "stage": 1,
+    "context": "ID: warped_maple_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_maple_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_maple_tree"
+  },
+  {
+    "key": "2b55e8e02718794c815e8a862bae0b4f",
+    "original": "Grow a Warped Mulberry Tree",
+    "translation": "种植扭曲桑树",
+    "stage": 1,
+    "context": "ID: warped_mulberry_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_mulberry_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_mulberry_tree"
+  },
+  {
+    "key": "94333c2b64f59cec96185990cc5419e2",
+    "original": "Grow a Warped Oak Tree",
+    "translation": "种植扭曲橡树",
+    "stage": 1,
+    "context": "ID: warped_oak_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_oak_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_oak_tree"
+  },
+  {
+    "key": "cd59cdafdb56d8748ca8c77bde7afa59",
+    "original": "Grow a Warped Peach Tree",
+    "translation": "种植扭曲桃子树",
+    "stage": 1,
+    "context": "ID: warped_peach_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_peach_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_peach_tree"
+  },
+  {
+    "key": "5b1368d27cf69d57eb0ee09114cb2a07",
+    "original": "Grow a Warped Pear Tree",
+    "translation": "种植扭曲梨树",
+    "stage": 1,
+    "context": "ID: warped_pear_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_pear_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_pear_tree"
+  },
+  {
+    "key": "07dfccc3489fb923ef264e0305b17549",
+    "original": "Grow a Warped Pine Tree",
+    "translation": "种植扭曲松树",
+    "stage": 1,
+    "context": "ID: warped_pine_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_pine_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_pine_tree"
+  },
+  {
+    "key": "646d6d30387c8cc0a5bcff4f058043b7",
+    "original": "Grow a Warped Plum Tree",
+    "translation": "种植扭曲李子树",
+    "stage": 1,
+    "context": "ID: warped_plum_tree\n位于 /Kenan-Structured-Modpack/Sky_Island/constructions.json\n类型为 construction_group\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→construction_group→warped_plum_tree\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warped_plum_tree"
+  },
+  {
+    "key": "a42962e58c5b06cdd3f3f4da5e291aa6",
+    "original": "I see…",
+    "translation": "我明白了……",
+    "stage": 1,
+    "context": "ID: SKYISLAND_WHAT\n位于 /Kenan-Structured-Modpack/Sky_Island/dialog_statue.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→talk_topic→SKYISLAND_WHAT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_WHAT"
+  },
+  {
+    "key": "cc024d553019ba6507829ace815a1b83",
+    "original": "Island's Heart",
+    "translation": "空岛之心",
+    "stage": 1,
+    "context": "ID: f_islandstatue\n位于 /Kenan-Structured-Modpack/Sky_Island/furniture_and_terrain.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→furniture→f_islandstatue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=f_islandstatue"
+  },
+  {
+    "key": "2c317dd611ca014ba69e4554ae7c8872",
+    "original": "Nevermind.",
+    "translation": "算了。",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADES_INFRASTRUCTURE\n位于 /Kenan-Structured-Modpack/Sky_Island/dialog_statue.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→talk_topic→SKYISLAND_UPGRADES_INFRASTRUCTURE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADES_INFRASTRUCTURE"
+  },
+  {
+    "key": "aadcae2c1ffcd64a270c8bba9b284140",
+    "original": "Select a Difficulty",
+    "translation": "选择难度",
+    "stage": 1,
+    "context": "ID: EOC_difficultycheck\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_difficultycheck\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_difficultycheck"
+  },
+  {
+    "key": "a001d5b077206b53e6b4b02b83d18f06",
+    "original": "Select a Starting Location",
+    "translation": "选择一个起始位置",
+    "stage": 1,
+    "context": "ID: EOC_warp_choose_locale\n位于 /Kenan-Structured-Modpack/Sky_Island/obelisk_selector.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_warp_choose_locale\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_warp_choose_locale"
+  },
+  {
+    "key": "c1043e61d032ccc93668d8eda5b88567",
+    "original": "THIS ITEM HAS BEEN OBSOLETED.  If you have one from an old save, you may continue to use it, but no more may be crafted.  You can deconstruct this for a full refund on warp shards.",
+    "translation": "THIS ITEM HAS BEEN OBSOLETED.  If you have one from an old save，you may continue to use it，but no more may be crafted.  You can deconstruct this for a full refund on warp shards.",
+    "stage": 1,
+    "context": "ID: warpmetalbag\n位于 /Kenan-Structured-Modpack/Sky_Island/items.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→ARMOR→warpmetalbag\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=warpmetalbag"
+  },
+  {
+    "key": "a71e1f9b935e45d686881b57e984b139",
+    "original": "Unlock Start Location: Basements",
+    "translation": "Unlock Start Location： Basements",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_basementsunlock\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_basementsunlock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_basementsunlock"
+  },
+  {
+    "key": "2801e41541cd81ab87b6d3cd9f754a49",
+    "original": "Unlock Start Location: Labs",
+    "translation": "Unlock Start Location： Labs",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_labsunlock\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_labsunlock\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_labsunlock"
+  },
+  {
+    "key": "78e26adbbb39862a2549407b5ead8d05",
+    "original": "Unlock: Expedition Missions",
+    "translation": "Unlock： Expedition Missions",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_bonusmissions1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_bonusmissions1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_bonusmissions1"
+  },
+  {
+    "key": "9aedd11374d08aa6b59e4b7e3410e535",
+    "original": "Unlock: Extended Expeditions",
+    "translation": "Unlock： Extended Expeditions",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_raidlength2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_raidlength2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_raidlength2"
+  },
+  {
+    "key": "c1bf801e83caeaa0de9d3356c1379e71",
+    "original": "Unlock: Harder Missions",
+    "translation": "Unlock： Harder Missions",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_hardmissions1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_hardmissions1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_hardmissions1"
+  },
+  {
+    "key": "c3b3c0a1b62f6914270eae7c36ea8620",
+    "original": "Unlock: Hardest Missions",
+    "translation": "Unlock： Hardest Missions",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_hardmissions2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_hardmissions2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_hardmissions2"
+  },
+  {
+    "key": "2f1d5b9cb30e61da901950c02176d095",
+    "original": "Unlock: Large Expeditions",
+    "translation": "Unlock： Large Expeditions",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_raidlength1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_raidlength1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_raidlength1"
+  },
+  {
+    "key": "23b6a9fd064acdc962c941fa232aff52",
+    "original": "Unlock: Slaughter Missions",
+    "translation": "Unlock： Slaughter Missions",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_slaughter\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_slaughter\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_slaughter"
+  },
+  {
+    "key": "0515320d3edc601579a2083152c477a4",
+    "original": "Unlock: Three Exits per Expedition",
+    "translation": "Unlock： Three Exits per Expedition",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_exit2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_exit2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_exit2"
+  },
+  {
+    "key": "7f3e8f69d4785cfdbab92fc507c8cb32",
+    "original": "Unlock: Three Missions per Expedition",
+    "translation": "Unlock： Three Missions per Expedition",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_bonusmissions3\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_bonusmissions3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_bonusmissions3"
+  },
+  {
+    "key": "92d47450dacad68f6d37d6af1736c26f",
+    "original": "Unlock: Two Exits per Expedition",
+    "translation": "Unlock： Two Exits per Expedition",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_exit1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_exit1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_exit1"
+  },
+  {
+    "key": "f21c5201ece7bdc2e12aa1c18c13eaad",
+    "original": "Unlock: Two Missions per Expedition",
+    "translation": "Unlock： Two Missions per Expedition",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_bonusmissions2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_bonusmissions2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_bonusmissions2"
+  },
+  {
+    "key": "4a50ed96956a88e1ba2cf099c8b48453",
+    "original": "Upgrade: Landing 1",
+    "translation": "Upgrade： Landing 1",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_landing1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_landing1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_landing1"
+  },
+  {
+    "key": "d2098a8fcef8e0605bedbeb72b0d8d03",
+    "original": "Upgrade: Landing 2",
+    "translation": "Upgrade： Landing 2",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_landing2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_landing2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_landing2"
+  },
+  {
+    "key": "f7230bae83b436d927e2a6bd1e708194",
+    "original": "Upgrade: Landing 3",
+    "translation": "Upgrade： Landing 3",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_landing3\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_landing3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_landing3"
+  },
+  {
+    "key": "12af53d852842daae80a59b469a28d2e",
+    "original": "Upgrade: Landing 4",
+    "translation": "Upgrade： Landing 4",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_landing4\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_landing4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_landing4"
+  },
+  {
+    "key": "2be491cb0e2d17b9901372165139d42f",
+    "original": "Upgrade: Landing 5",
+    "translation": "Upgrade： Landing 5",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_landing5\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_landing5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_landing5"
+  },
+  {
+    "key": "c35c9d32127dd7207801c4ed75cf0e23",
+    "original": "Upgrade: Scouting 1",
+    "translation": "Upgrade： Scouting 1",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_scouting1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_scouting1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_scouting1"
+  },
+  {
+    "key": "0a01788348e896f93406265a7771b800",
+    "original": "Upgrade: Scouting 2",
+    "translation": "Upgrade： Scouting 2",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_scouting2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_scouting2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_scouting2"
+  },
+  {
+    "key": "1bf8aa62abe67deae183b1794b7efd70",
+    "original": "Upgrade: Scouting 3",
+    "translation": "Upgrade： Scouting 3",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_scouting3\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_scouting3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_scouting3"
+  },
+  {
+    "key": "394e0360899777e3668e969ff3d1284e",
+    "original": "Upgrade: Scouting 4",
+    "translation": "Upgrade： Scouting 4",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_scouting4\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_scouting4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_scouting4"
+  },
+  {
+    "key": "7ec237ff9b05a4068e4fdb1c1ea815b1",
+    "original": "Upgrade: Scouting 5",
+    "translation": "Upgrade： Scouting 5",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_scouting5\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_scouting5\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_scouting5"
+  },
+  {
+    "key": "5d96a200a1fe7ec4667f3db35b6e0878",
+    "original": "Upgrade: Stability 1",
+    "translation": "Upgrade： Stability 1",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_stability1\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_stability1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_stability1"
+  },
+  {
+    "key": "f2550faff49015ebe54bba8bea57bb7f",
+    "original": "Upgrade: Stability 2",
+    "translation": "Upgrade： Stability 2",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_stability2\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_stability2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_stability2"
+  },
+  {
+    "key": "30e05c2f0fa740a04e16f44ac93ba6c4",
+    "original": "Upgrade: Stability 3",
+    "translation": "Upgrade： Stability 3",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_stability3\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_stability3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_stability3"
+  },
+  {
+    "key": "96cc8831b393e9b15c86d5c823397c02",
+    "original": "Upgrade: Stability 4",
+    "translation": "Upgrade： Stability 4",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_stability4\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_stability4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_stability4"
+  },
+  {
+    "key": "6f0502fdba9d5c4ce42090457778d9e5",
+    "original": "With the supplied recipe, you will be able to expand the capacity of your secure container.\\n\\nEMPTY YOUR SECURE CONTAINER FIRST!  Anything left inside when upgrading will be lost forever!",
+    "translation": "With the supplied recipe，you will be able to expand the capacity of your secure container.\\n\\nEMPTY YOUR SECURE CONTAINER FIRST！  Anything left inside when upgrading will be lost forever！",
+    "stage": 1,
+    "context": "ID: SKYISLAND_UPGRADE_security4\n位于 /Kenan-Structured-Modpack/Sky_Island/upgrade_missions.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→mission_definition→SKYISLAND_UPGRADE_security4\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SKYISLAND_UPGRADE_security4"
+  },
+  {
+    "key": "67bcda255a7ae7ba15883328a683b094",
+    "original": "You cannot warp home with enemies nearby!",
+    "translation": "You cannot warp home with enemies nearby！",
+    "stage": 1,
+    "context": "ID: EOC_WARPED_ENEMY_CHECK_RETURN\n位于 /Kenan-Structured-Modpack/Sky_Island/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Sky_Island→effect_on_condition→EOC_WARPED_ENEMY_CHECK_RETURN\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=EOC_WARPED_ENEMY_CHECK_RETURN"
+  }
+]
