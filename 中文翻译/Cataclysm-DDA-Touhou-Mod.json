@@ -530,16 +530,16 @@
  {
   "key": "7a670ec54982a9b17caa4fd8aaac9919",
   "original": "<u_val:u_val('mana')> E",
-  "translation": "法力值 E",
+  "translation": "<u_val:u_val('mana')> E",
   "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "54534f11d78f4b221de503d397162efb",
   "original": "<u_val:var_corpseexplosion_dmg> A",
-  "translation": "/u_val:var_corpseexplosion_dmg> A\n\n翻译：单位尸体爆炸伤害 A",
+  "translation": "<u_val:var_corpseexplosion_dmg> A",
   "context": "ID: AAA_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→AAA_eoc\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "eaff2dd955de2a0ef5156564cc550e67",
@@ -2448,9 +2448,9 @@
  {
   "key": "68fcf4e8225fb2188afa223efd845609",
   "original": "Celestial elegance (evasion)",
-  "translation": "天穹雅韵（回避）",
+  "translation": "天人优雅（闪避）",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "258ba7fd2e520463b5f1ebb072deac7a",
@@ -2462,9 +2462,9 @@
  {
   "key": "7e8248acdbc1f1f46290f8de5a31a3c6",
   "original": "Celestial grace (debuff)",
-  "translation": "天界恩赐（减益）",
+  "translation": "天人优雅（debuff）",
   "context": "ID: style_celestial_brawling_iku\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_celestial_brawling_iku\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a82fc998bda888f8f27d0d2740a2e8a2",
@@ -2613,9 +2613,9 @@
  {
   "key": "4eb0ca54d435d1909538a6c118f28240",
   "original": "Corpse explosion (dmg) (bash)",
-  "translation": "尸体爆炸（伤害）（钝击）",
+  "translation": "Corpse explosion (dmg) (bash)",
   "context": "ID: kaenbyou_corpseexplosion3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7f8b5d6ce1a90f4776e9f49a108cd44d",
@@ -2791,9 +2791,9 @@
  {
   "key": "66f5c57658ee48813c229c319da892b9",
   "original": "Curse of corpses (EOC) (2)",
-  "translation": "腐尸诅咒（EOC）（2）",
+  "translation": "Curse of corpses (EOC) (2)",
   "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d794294e530d55fa93725742e7dc4656",
@@ -2805,9 +2805,9 @@
  {
   "key": "5bb70ef82c04c1db5a1a8d28140df9ba",
   "original": "Curse of corpses (dmg)",
-  "translation": "尸体诅咒（伤害）",
+  "translation": "Curse of corpses (dmg)",
   "context": "ID: seiga_corpsecurse4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse4\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d0e0b39f2a0d2599813d2a36383887b0",
@@ -3162,21 +3162,21 @@
   "key": "4e1a7c5a6b5ffb2df94f69d86a15bc37",
   "original": "Damned's rope",
   "translation": "诅咒之绳",
-  "context": "ID: yamame_damnedrope\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope\n",
+  "context": "ID: yamame_damnedrope_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope_UPDATED\n",
   "stage": 3
  },
  {
   "key": "2fd3c29431b8cc3898b97dfb5af0632b",
   "original": "Damned's rope (pull)",
   "translation": "Damned's rope （pull）",
-  "context": "ID: yamame_damnedrope2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2\n",
+  "context": "ID: yamame_damnedrope2_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2_UPDATED\n",
   "stage": 3
  },
  {
   "key": "fd0d87f6b39491accd86cf77e11b2d33",
   "original": "Damned's rope (stun)",
   "translation": "Damned's rope （stun）",
-  "context": "ID: yamame_damnedrope3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3\n",
+  "context": "ID: yamame_damnedrope3_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3_UPDATED\n",
   "stage": 3
  },
  {
@@ -3367,9 +3367,9 @@
  {
   "key": "72429a51f95f9c1c0e81447fe2d8d9da",
   "original": "Detect radiation (creature)",
-  "translation": "探测辐射（生物）",
+  "translation": "Detect radiation (creature)",
   "context": "ID: utsuho_detectrad4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad4\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "353e57ef3b56539ec9fa0580db846ca0",
@@ -3381,9 +3381,9 @@
  {
   "key": "e284d5488a5e0976f8936be8b9c8cf77",
   "original": "Detect radiation (item)",
-  "translation": "探测辐射（物品）",
+  "translation": "Detect radiation (item)",
   "context": "ID: utsuho_detectrad5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad5\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cb0ff5333a11d688398eb1000425dda3",
@@ -3423,9 +3423,9 @@
  {
   "key": "ab523d0aefd29fc530411e1849a68dd0",
   "original": "Disbelief aspect (summon)",
-  "translation": "召唤不信之面",
+  "translation": "Disbelief aspect (summon)",
   "context": "ID: udonge_disbeliefaspect_spawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_disbeliefaspect_spawn\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "dd1f6a3e85e8cd59ef92b264c8032929",
@@ -3451,9 +3451,9 @@
  {
   "key": "b9c4cc2d4dad280c0ab02ff2cbbc2b59",
   "original": "Disease: Icy pyrexia (EOC) (player)",
-  "translation": "疾病：冰冻高热（EOC）（玩家）",
+  "translation": "Disease: Icy pyrexia (EOC) (player)",
   "context": "ID: yamame_disease_icypyrexia2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_disease_icypyrexia2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7661cb1a08633a9dd2a8d45c04116673",
@@ -3479,9 +3479,9 @@
  {
   "key": "7bb1b2338438c40aee03ca5a6c1a2e41",
   "original": "Disease: Scarlet plague (EOC) (player)",
-  "translation": "疾病：猩红瘟疫（EOC）（玩家）",
+  "translation": "Disease: Scarlet plague (EOC) (player)",
   "context": "ID: yamame_disease_scarletplague2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_disease_scarletplague2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f0aefe007305b4fd6c024bd8eab191a5",
@@ -3507,9 +3507,9 @@
  {
   "key": "c7541765abbddb6dcbf74fd82ca26546",
   "original": "Disease: Volatile rot (EOC) (player)",
-  "translation": "疾病：挥发性腐烂（EOC）（玩家）",
+  "translation": "Disease: Volatile rot (EOC) (player)",
   "context": "ID: yamame_disease_volatilerot2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_disease_volatilerot2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e89d5bdb216d57c848c9f3b08e0fe857",
@@ -3916,7 +3916,7 @@
   "key": "e4536268470f248eb54ddbba3f3d737f",
   "original": "Entangle a target and pull it towards your position, stunning it for a short time.",
   "translation": "Entangle a target and pull it towards your position，stunning it for a short time.",
-  "context": "ID: yamame_damnedrope2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2\n",
+  "context": "ID: yamame_damnedrope2_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope2_UPDATED\n",
   "stage": 3
  },
  {
@@ -8869,9 +8869,9 @@
  {
   "key": "554cac08b2548d6bfddc12ad05718082",
   "original": "Storage for the corpse cart.  When assembled, you can store stuff here.",
-  "translation": "僵尸车的储物空间。组装完成后，你可以在这里存放物品。",
+  "translation": "丧尸车的储物空间。组装完成后，你可以在这里存放物品。",
   "context": "ID: storage_corpsecart\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/vehicle/touhou_corpsecart_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→storage_corpsecart\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0649cf1e855cddb69b35c5da1ccd1e77",
@@ -8996,7 +8996,7 @@
   "key": "7a6686d9b37792d2c3f36c25d4684b58",
   "original": "Stun component of yamame_damnedrope ",
   "translation": "Stun component of yamame_damnedrope ",
-  "context": "ID: yamame_damnedrope3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3\n",
+  "context": "ID: yamame_damnedrope3_UPDATED\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope3_UPDATED\n",
   "stage": 3
  },
  {
@@ -10213,7 +10213,7 @@
   "key": "7a22fed6a6467ce1f9b13e5aa8b3ed4b",
   "original": "Time manipulation (Time stop)",
   "translation": "时间操纵（停止）",
-  "context": "ID: sakuya_timestop_wip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_wip\n",
+  "context": "ID: sakuya_timestop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop\n",
   "stage": 3
  },
  {
@@ -12302,7 +12302,7 @@
   "original": "You sweep %s!",
   "translation": "你横扫了%s！",
   "context": "ID: tec_kokoro_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_sweep\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6c3ead8c9f705b5c692af6ba7b9f2cc5",
@@ -12456,7 +12456,7 @@
   "original": "You were almost grabbed by %s, but you break its grab!",
   "translation": "你差点被%s抓住，但是你挣脱了！",
   "context": "ID: tec_kokoro_grab_break\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_grab_break\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5aa05f9e758c61fd12f5cc9a3e90a75f",
@@ -12982,9 +12982,9 @@
  {
   "key": "48f9d2887dbf5e6a74adaaac00201985",
   "original": "Your trusty jiang shi companion.  Eager to help you, she will assist you in battle as long as her body allows her to.",
-  "translation": "你可靠的僵尸伙伴。她渴望帮助你，只要她的身体允许，她就会在战斗中助你一臂之力。",
+  "translation": "你可靠的丧尸伙伴。她渴望帮助你，只要她的身体允许，她就会在战斗中助你一臂之力。",
   "context": "ID: mon_yoshika\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_yoshika\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a9884c871310e8cacebc06e81717839a",
@@ -13089,7 +13089,7 @@
   "original": "a creature from the mi-go homeworld",
   "translation": "来自米戈位面的生物",
   "context": "ID: MIGO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_species_override.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→MIGO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "526695e47e41573f034278a60dacff46",
@@ -14209,7 +14209,7 @@
   "original": "keystone pillar",
   "translation": "要石之柱",
   "context": "ID: f_keystone_pillar\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→furniture→f_keystone_pillar\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5cae72c4a3348c297f19ee42de90cf43",

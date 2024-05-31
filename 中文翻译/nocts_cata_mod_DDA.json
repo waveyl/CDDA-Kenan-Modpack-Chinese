@@ -620,7 +620,7 @@
   "original": "A beast of a (mostly) homemade anti-materiel rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .50 BMG cartridge via its custom-made magazine, or can accept lower-capacity Barret magazines.",
   "translation": "Translation Error",
   "context": "ID: surv_full_50\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→surv_full_50\n",
-  "stage": 0
+  "stage": "Translation Error"
  },
  {
   "key": "46781ea994ce60425555cff58e243b23",
@@ -951,9 +951,9 @@
  {
   "key": "aade0075ef6dc3ac5b6790337a854a0c",
   "original": "A glassy green pellet of alien resin, molded in a shape resembling an elongated rifle bullet.  Designed for an exotic pneumatic weapon.",
-  "translation": "一枚晶莹翠绿的外星树脂弹丸，形状宛如一颗拉长了的步枪子弹。它是为一种异国情调的气动武器所设计。",
+  "translation": "一枚晶莹翠绿的外星树脂弹丸，形状宛如一颗拉长了的步枪子弹。它是为一种奇异的气动武器所设计。",
   "context": "ID: c_alien_resin_bullet\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "73ffed483431db114a65df768ef8ebff",
@@ -1310,9 +1310,9 @@
  {
   "key": "f501f19180a38bedbc3967e569496502",
   "original": "A mi-go weapon that projects pieces of hardened alien resin at high velocities, its exotic controls stripped down it fit human anatomy.  The product of pre-cataclysm biotechnology applied to solve an outside-context problem.  Although it relies on special ammunition, it is relatively easy to mold resin or metal into compatible projectiles, and it packs a decent punch with very little noise.",
-  "translation": "一种源自Mi-go的武器，能以高速投射固化外星树脂碎片，其异域控制装置经过简化以适应人类生理结构。这是大灾变前生物技术的产物，旨在解决一个超乎常规的问题。尽管它依赖特殊弹药，但将树脂或金属塑形为兼容的弹丸相对容易，且在极低声响的情况下具有相当的威力。",
+  "translation": "一种源自米-戈的武器，能以高速投射固化外星树脂碎片，其异域控制装置经过简化以适应人类生理结构。这是大灾变前生物技术的产物，旨在解决一个超乎常规的问题。尽管它依赖特殊弹药，但将树脂或金属塑形为兼容的弹丸相对容易，且在极低声响的情况下具有相当的威力。",
   "context": "ID: c_mi_go_rifle_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→c_mi_go_rifle_salvaged\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a177bf26ea9ec7301611243a29dc834f",
@@ -1576,14 +1576,14 @@
   "original": "A second skin of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Activating it will reduce the suit's encumbrance, make your attacks faster, enhance strength and dexterity, protect the wearer from toxic gas, serve as a rebreather, enhance stamina and carry capacity, and provide some protection from outside temperature.  Recharges in sunlight, being active will also gradually fatigue the user and affect healthiness, plus render them more vulnerable to electric shocks.",
   "translation": "一副由异种筋腱与钢铁支撑的第二层皮肤，外覆以树脂制成的装甲板。此装备基于大灾难前对其他生物兵器的研究残余加以改造，实际上已为了适应人类（或变异人）穿戴者而经历了极端的改造。激活后，该套装会减轻负重，加快攻击速度，增强力量与敏捷，保护穿戴者免受有毒气体侵害，充当循环呼吸器，提升耐力与负重能力，并为穿戴者提供一定的外界温度防护。它能在日光下充电，但激活状态下也会逐渐使使用者疲劳，影响其健康状态，并使其对电击更加敏感。",
   "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b26af9dc889d0cab71995e1fbc4d0cbc",
   "original": "A second skin of alien sinew and steel support, covered in armor plates made of resin.  Salvaged using pre-cataclysm research into other living weaponry, it's been practically mutilated to fit a human (or mutant) wearer.  Currently active, it enhances strength and dexterity, make your attacks faster, protects the wearer from toxic gas, serves as a rebreather, enhances stamina and carry capacity, and provides some protection from outside temperature.  Recharges in sunlight, being active also gradually fatigues the user and affects healthiness, plus renders them more vulnerable to electric shocks.",
   "translation": "一副由异种筋腱与钢铁支撑的第二层皮肤，外覆以树脂制成的装甲板。此装备基于大灾难前对其他生物兵器的研究残余拼凑而成，为了适配人类（或变异人）穿戴者，几乎可以说是经过了残忍的改造。当前激活状态下，它能增强穿戴者的力与敏捷，使攻击更为迅捷，同时保护穿戴者免受有毒气体侵害，充当循环呼吸器，提升耐力和负重能力，并提供一定的外界温度防护。在阳光下可重新充电，但持续激活也会逐渐使穿戴者疲劳，影响其健康状态，并使其对电击更加敏感。",
   "context": "ID: c_mi_go_carapace_salvaged_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged_on\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d2a5602349b472b9988bfa46568b65c5",
@@ -1623,7 +1623,7 @@
   "original": "A side-mounted handle designed for machine guns, to help in hip fire.  Makes aiming easier and greatly reduces recoil, but hinders the use of the weapon's default sights and makes it slower to wield.",
   "translation": "专为机枪设计的侧装把手，便于腰射。它使瞄准更轻松，并大幅减小后坐力，但妨碍了武器默认瞄准具的使用，且挥舞速度变慢。",
   "context": "ID: lmg_handle\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→lmg_handle\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2e75c1bfe18756ddbfc3e6e366ce5f03",
@@ -2018,7 +2018,7 @@
   "original": "All your life, you have been experimented on and forced to fight others for the amusement of your masters.  Never having seen the sun or the outside, the cataclysm gave you a chance at freedom.  Now you just have to escape from your fellow combatants…",
   "translation": "你的一生都在实验中度过，被迫与他人战斗以取悦你的主人。从未见过阳光和外界，大灾变给了你自由的机会。现在，你只需逃离那些昔日的战斗同伴……",
   "context": "ID: house_fight_scenario\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→house_fight_scenario\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3dce0611957f0a0932a0a71e4ec6637e",
@@ -2259,7 +2259,7 @@
   "original": "An electric motor improvised to serve as an electric generator, to be attached to an internal combustion engine.  It requires a rather powerful engine to operate, at reduced efficiency compared to its normal application as a motor.",
   "translation": "一种即兴改造的电动机，用于充当发电机，需连接到内燃机上。相较于作为电动机的常规应用，它要求装备相当强劲的发动机以保证运作，但工作效率会有所降低。",
   "context": "ID: generator_electric_enhanced\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Vehicles/c_vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→vehicle_part→generator_electric_enhanced\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8c47ea956a97cbde199aaa93c794e070",
@@ -2343,7 +2343,7 @@
   "original": "An experimental compact plasma projector developed by Omnitech, designed to be assembled in the field.  Given the complexity of its components, they made some ambitious assumptions about the availability of parts mid-mission.  Remarkably powerful though short-ranged, its variable-pressure design allows it to use commercial-grade hydrogen or military plasma cells.",
   "translation": "奥尼科技研发的一种便携式等离子体投影装置原型，旨在能够在战场环境下组装。鉴于其组件的复杂性，他们在任务中期对于零件可获取性的设想颇为大胆。尽管射程较短，但威力惊人，且通过其可变压力设计，能够兼容商用氢气或军用等离子电池作为能源。",
   "context": "ID: omnitech_plasma_pistol\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→omnitech_plasma_pistol\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e522b7b6a08cc562fe08fa49b9a7209e",
@@ -2389,14 +2389,14 @@
   "original": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  It's currently active, strengthening the wearer, increasing raw speed and making the armor less encumbering, but also being warmer and making stealth more difficult.",
   "translation": "一套极为沉重的钢和凯夫拉板盔甲，覆盖着液压网络，由一台拆卸柴油发动机的部件拼凑而成，专门设计来辅助穿戴者的行动。目前该装置处于激活状态，强化了穿戴者的力量，提高了原始速度，使得盔甲对行动的妨碍减少，但也导致体温升高，使潜行变得更加困难。",
   "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6ca083ed905ebf06cd768340820f8740",
   "original": "An incredibly heavy suit of steel and kevlar plates covering a network of hydraulics, driven by pieces of a stripped-down diesel engine jury-rigged to assist the wearer's movements.  When running it will increase your strength and raw speed, plus make it less encumbering to wear, but the motors make things warm and make stealth harder.",
   "translation": "一套极为沉重的钢和凯夫拉板制成的盔甲，内部覆盖着液压网络，通过一台拆卸下来的柴油发动机部件临时拼凑而成，旨在辅助穿戴者的行动。当奔跑时，它能增强你的力量和原始速度，并减轻穿戴时的负重感，但马达运转会使温度升高，使得潜行更为困难。",
   "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e11bac267e94f8a4078b6cab5ce13798",
@@ -3021,9 +3021,9 @@
  {
   "key": "37029d453701d6f20ef3c8834f3c596c",
   "original": "Conserving your energy and focusing your mind will permit explosive bursts of action.\n\n-10% move cost.\nLasts 3 turns.",
-  "translation": "保存体力，集中精神，将使你能够进行爆发性的行动。【耐力专精】：移动消耗降低10%。【持续专注】：效果持续3回合。",
+  "translation": "保存体力，集中精神，将使你能够进行爆发性的行动。\n\n【耐力专精】：移动消耗降低10%。\n【持续专注】：效果持续3回合。",
   "context": "ID: style_mut_com\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→martial_art→style_mut_com\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f304fcb4be3a3cdc6c05a3edaad3c2ca",
@@ -4391,7 +4391,7 @@
   "original": "It appears to be a launcher, firing powerful pulses of energy.  It has been modified to use plutonium fuel cells to generate massive blasts of nuclear plasma, supplanting both the original UPS cost and the hydrogen it used to fire.  You hope anything that warrants firepower like this won't get too close.",
   "translation": "这似乎是一种发射器，能发射强大的能量脉冲。它经过改良，采用钚燃料细胞来产生巨大的核等离子体爆炸，从而取代了原本所需的能量单元成本和用来发射的氢气。你希望任何值得动用如此火力的目标都不会靠得太近。",
   "context": "ID: mk_ionic_cannon_plut\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→mk_ionic_cannon_plut\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5d9595883ec63dc5a0bd74bfaaa8dd03",
@@ -5027,9 +5027,9 @@
  {
   "key": "1c1fec85306661d0c3bbcde27da45469",
   "original": "One powerful blow makes the follow-up that much easier.\n\n+2 Accuracy, armor penetration increased by 25% of strength.\nLasts 2 turns, stacks 2 times.",
-  "translation": "强力一击能让后续动作更加自如。+2精准度，穿透力提升至力量值的25%。效果持续2回合，可叠加2次。",
+  "translation": "强力一击能让后续动作更加自如。\n\n+2精准度，穿透力提升至力量值的25%。\n效果持续2回合，可叠加2次。",
   "context": "ID: style_mut_com\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→martial_art→style_mut_com\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f80ba8950bcd6a6987a4125fc604dcd4",
@@ -5208,7 +5208,7 @@
   "original": "Quick and fluid movements make you harder to catch, and better able to roll with the punches.\n\n+1 Dodge attempts, Dodge skill increased by 25% of Intelligence, bash damage taken reduced by 25% of Intelligence, quicker recovery from knockdowns.\nLasts 3 turns, stacks 2 times.",
   "translation": "敏捷而流畅的动作使你更难以被抓住，并能更好地随机应变。\n\n +1次躲避尝试，躲避技能提升为智力的25%，受到的钝击伤害降低智力值的25%，从倒地状态更快恢复。\n 持续3回合，可叠加2次。\n\n在丧尸病毒肆虐的末日世界里，这项能力让你如同狡兔般灵动，不仅增加了躲避攻击的机会，还让智力成为了生存的利刃——它不仅提升了你的机敏反应，还让每一次智谋闪现都能减轻外界冲击对你的伤害，更迅速地从困境中站起，持续数轮，层层叠加，确保你在危机四伏的环境中游刃有余。",
   "context": "ID: style_surv_com\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→martial_art→style_surv_com\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "00dd6076a69d51eeac986ec566b71b3e",
@@ -6292,7 +6292,7 @@
   "original": "Stored Potential",
   "translation": "储存潜能",
   "context": "ID: style_mut_com\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→martial_art→style_mut_com\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "530568968a67bdf4b1d4df31ab635f18",
@@ -7107,7 +7107,7 @@
   "original": "The end of the world brings out the best and worst in everyone.  For you, it was a chance to channel your pre-Cataclysm expertise into something more primal.  Whether you have the might to use such armament remains to be seen.",
   "translation": "世界末日激发出每个人最好与最坏的一面。对你而言，这是一个将大灾变前的专业技能转化为更原始用途的机会。你是否有力气使用这样的武器装备，还有待观察。",
   "context": "ID: surv_techno_barbarian\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_r.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→surv_techno_barbarian\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4f5cfcaf6d98795d98ecd9032710ed41",
@@ -7796,7 +7796,7 @@
   "original": "This is a journal with what seems to be an invitation of some sort from some unknown organization.  While its contents are rather boring to read, some bits offer promises of 'forbidden knowledge' and that said contents are 'just a taste of true power'…  Science has definitely gone too far…",
   "translation": "这是一本日记，里面似乎夹着某个未知组织发来的邀请函。尽管其内容读来颇为乏味，但其中几段承诺了‘禁忌知识’的获取，并声称这些内容 merely 是‘真正力量’的一点皮毛……科学显然已经走得太过火了……",
   "context": "ID: evil_invitation\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_books.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→BOOK→evil_invitation\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "79f30459949755c1ea2caf6931e23a5a",
@@ -7952,7 +7952,7 @@
   "original": "Thoroughly poring over the map，you memorize the location.",
   "translation": "你仔细研究了地图，记住了位置。",
   "context": "ID: shmap\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GENERIC→shmap\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0dfd099092bc17256e73ce43208bec77",
@@ -8167,7 +8167,7 @@
   "original": "Wasteland Techno-Barbarian",
   "translation": "废土技术野蛮人",
   "context": "ID: surv_techno_barbarian\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_r.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→surv_techno_barbarian\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "beb164ff72385b57dfaeae957df02be4",
@@ -8401,7 +8401,7 @@
   "original": "When you get enough momentum going, they're going to feel it.\n\nMovement speed increased by 45% of strength, damage increased by 15% of strength.  Enables \"Battering Ram\" technique.\nLasts 3 turns, stacks 3 times.",
   "translation": "当你积累足够的势头时，他们会切身感受到的。\n\n 力量提升45%的移动速度，伤害增加15%的力量加成。启用“破城锤”技能。\n 持续3回合，可叠加3次。",
   "context": "ID: style_mut_com\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→martial_art→style_mut_com\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6fca4594468d751449b86707a778d1bd",
@@ -8950,28 +8950,28 @@
   "original": "You were kidnapped for some sort of underground bloodsport, augmented with a blade and enhancements to your speed and reaction time.  Forced through rudimentary training as a novelty fighter, you were expected to be able to be down opponents with ease.",
   "translation": "你被绑架用于某种地下血腥运动，身体被植入了刀刃，并对速度和反应时间进行了增强。作为新奇斗士，你被迫接受了粗暴的训练，期望你能轻而易举地击败对手。",
   "context": "ID: sf_blade\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_blade\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2276367e7553f390f2eda99751a3e59d",
   "original": "You were kidnapped for some sort of underground bloodsport, augmented with bionic claws and enhancements to your reflexes.  Forced through rudimentary training as a novelty fighter, you were expected to tear your foes apart like an animal.",
   "translation": "你被绑架用作某种地下血腥运动的角斗士，身体被植入了仿生利爪，并对你的反应速度进行了增强。被迫接受粗暴的训练，成为了一个新奇的斗士，他们期望你能像野兽一般撕碎对手。",
   "context": "ID: sf_claw\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_claw\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cb0f79f5d23fe2eaa4e2d8ce28aceb98",
   "original": "You were kidnapped for some sort of underground bloodsport, augmented with electrical generation and protection bionics.  It was expected that you'd be a living tesla coil in the ring, frying victims until they roll over and die.",
   "translation": "你被绑架用于某种地下血腥运动，并被植入了发电和防护的生物机械装置。他们期望你能成为拳台上的活特斯拉线圈，将对手电击至瘫痪，直至死亡。",
   "context": "ID: sf_shock\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_shock\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "20079b5c87b7238f6768308e93722236",
   "original": "You were kidnapped for some sort of underground bloodsport.  Augmented with a mish-mash of support bionics and put through hellish training, you were intended to be a wild card to spice up matches, able to weaponize whatever you could get your hands on.",
-  "translation": "你被绑架，卷入了某种地下血腥斗技。身体被胡乱植入各种辅助性生化组件，历经炼狱般的训练，你成了比赛中的一张王牌，能够将手边的一切化为武器。\n\n翻译优化版：你遭人绑架，被迫参与一项地下血腥竞技。他们为你杂乱无章地安装了各类辅助生化装置，并对你进行了惨无人道的训练，旨在将你塑造成比赛中的一名不可预测的奇兵，无论何物，皆能成为你手中的致命武器。",
+  "translation": "你遭人绑架，被迫参与一项地下血腥竞技。他们为你杂乱无章地安装了各类辅助生化装置，并对你进行了惨无人道的训练，旨在将你塑造成比赛中的一名不可预测的奇兵，无论何物，皆能成为你手中的致命武器。",
   "context": "ID: sf_weapon\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_classes_bw.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→profession→sf_weapon\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "02c1256860d694fc10507de936dd65d6",
@@ -9015,9 +9015,9 @@
  {
   "key": "77f8eb61358444d3440a648d0d65e895",
   "original": "You woke up, where are you?  Who are you?  What are you?!  That doesn't matter right now… you have a bad feeling…",
-  "translation": "你醒来时，发现自己身处何方？你是谁？你变成了什么？！这些现在都不重要……你有种不祥的预感……\n\n\nYou're in some sort of ruined shelter, the world outside is quiet, too quiet.  Your stomach growls, reminding you that you need to find food soon, and perhaps some answers.\n\n翻译:\n\n你身处一个破败的避难所里，外面的世界一片死寂，静得可怕。肚子咕咕作响，提醒你得尽快找到食物，也许还有答案。\n\n\nYou find a mirror fragment, your reflection reveals a person on the edge of collapse, eyes sunken, face gaunt, and a strange aura emanating from within.\n\n翻译:\n\n你找到了一面破碎的镜子，镜中的倒影显示你已濒临崩溃，双眼深陷，面容憔悴，还散发出一股莫名的气息。\n\n\nYou notice a crude map on the wall, locations marked with strange symbols - could these be clues to your existence in this desolate world?\n\n翻译:\n\n你注意到墙上挂着一幅粗略的地图，上面用奇怪的符号标记了几个地点——这些或许是解开你在这荒芜世界中生存之谜的线索？\n\n \nThere's also a journal here, its pages filled with frantic scrawls detailing experiments, survival techniques, and warnings about something called \"The Infection\".\n\n翻译:\n\n这里还有一本日记，页页写满了狂乱的笔迹，记录着实验、生存技巧，以及对某种名为“感染”的东西的警告。",
+  "translation": "你醒来时，发现自己身处何方？你是谁？你变成了什么？！这些现在都不重要……你有种不祥的预感……",
   "context": "ID: bio_weapon_lab\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→bio_weapon_lab\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e5721318e40a90b336e1093da1d476bc",
@@ -9450,7 +9450,7 @@
   "original": "Your skin and underlying muscles are hard as stone.  You have innate resistance to all forms of physical damage, but you also suffer extra encumbrance.",
   "translation": "你的皮肤和下面的肌肉硬如磐石。你对所有形式的物理伤害都有天生的抵抗力，但你也承受了额外的负重。",
   "context": "ID: ARMOR_BIOWEAPON\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Mutations/c_bio_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→ARMOR_BIOWEAPON\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cfd9c82f1f431a7d323988abdf8431b5",
@@ -10192,9 +10192,9 @@
  {
   "key": "078d264b05447f85de40b0c38d4ea88e",
   "original": "makeshift greatbow",
-  "translation": "临时大型长弓",
+  "translation": "简易自制大型长弓",
   "context": "ID: greatbow_makeshift\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ranged.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUN→greatbow_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "19c2929661e9fc477ae3d1729c317176",
@@ -10348,7 +10348,7 @@
   "original": "molded projector bullet",
   "translation": "模具投影子弹",
   "context": "ID: c_alien_resin_bullet_makeshift\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→AMMO→c_alien_resin_bullet_makeshift\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "54a1e954d02d4c36bed2495b26fd1460",
@@ -11288,7 +11288,7 @@
   "original": "survivor's LMG recoil handle",
   "translation": "生存者轻机枪后坐力把手",
   "context": "ID: lmg_handle\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Weapons/c_mods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→GUNMOD→lmg_handle\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5cbe67efb168f6bd9e7ad3dbd1ffdc22",

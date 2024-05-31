@@ -102,7 +102,7 @@
   "key": "ba17fc033c77223d7da64c71795934f0",
   "original": "%1$s bites <npcname>!",
   "translation": "%1$s bites <npcname>！",
-  "context": "ID: secro_swarmerzed_bite_stro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_stro\n",
+  "context": "ID: secro_swarmerzed_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite\n",
   "stage": 1
  },
  {
@@ -123,7 +123,7 @@
   "key": "829d8011699c022de0187d06f3ad97d3",
   "original": "%1$s bites as it grasps at you!",
   "translation": "%1$s bites as it grasps at you！",
-  "context": "ID: secro_swarmerzed_bite_stro\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite_stro\n",
+  "context": "ID: secro_swarmerzed_bite\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_swarmerzed_bite\n",
   "stage": 1
  },
  {
@@ -1101,7 +1101,7 @@
   "key": "9064dd015bbad67e3fa0f5aa466a4905",
   "original": "<color_light_red>%1$s trembles!</color>",
   "translation": "<color_light_red>%1$s抖动着...！</color>",
-  "context": "ID: mon_sflesh_camp_turret_unify\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/BO Turrets.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_sflesh_camp_turret_unify\n",
+  "context": "ID: mon_zombie_fake_psyrus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_fake_psyrus\n",
   "stage": 3
  },
  {
@@ -2258,16 +2258,16 @@
  {
   "key": "7522f566eb441190f7968bdecc24b5bc",
   "original": "<color_yellow>The snatcher zombie launches its tongue at %3$s!</color>",
-  "translation": "<color_yellow>号夺舌僵尸向%3$s号目标发射舌头！</color>号注意。",
+  "translation": "<color_yellow>号夺舌丧尸向%3$s号目标发射舌头！</color>号注意。",
   "context": "ID: mon_zombie_bootlegsmoker\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Snatcher.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_bootlegsmoker\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "62fee57be6e554025233dd461d264c4b",
   "original": "<color_yellow>The snatcher zombie launches its tongue at %3$s</color>",
-  "translation": "<color_yellow> 年，夺舌僵尸向目标发射舌头，坐标为 %3$s, </color>。",
+  "translation": "<color_yellow> 年，夺舌丧尸向目标发射舌头，坐标为 %3$s, </color>。",
   "context": "ID: mon_zombie_bootlegsmoker_mode\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Snatcher.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_bootlegsmoker_mode\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e80eebe18a09f01486c474daf3de00aa",
@@ -2610,9 +2610,9 @@
  {
   "key": "abdb05bfc16d6804cd88fd151f014745",
   "original": "A diluted zombie, staggering as its wicked eyes only show a vigorious expression to whom it looks at. One can easily take its life, but something inhumane lingers around this rotting vessel…",
-  "translation": "一只虚弱的僵尸，踉踉跄跄，邪恶的目光中唯有对视之人显露出残存的凶悍。它的生命脆弱，任人收割，然而在这腐朽身躯周围，却萦绕着一股非人的阴霾……",
+  "translation": "一只虚弱的丧尸，踉踉跄跄，邪恶的目光中唯有对视之人显露出残存的凶悍。它的生命脆弱，任人收割，然而在这腐朽身躯周围，却萦绕着一股非人的阴霾……",
   "context": "ID: mon_zombie_relinquish\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_relinquish\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0afb7eca347315a68e7c7560a1508133",
@@ -2642,7 +2642,7 @@
  {
   "key": "66dcb1f7eeaf785645d4a245c3382eab",
   "original": "A fat zombie distinct to its gaping mouth on its ruptured belly as rows of sharp, irregular teeth protrude from it.",
-  "translation": "一具肥胖的僵尸，它破裂的肚皮上有一张大嘴，一排排锋利、不规则的牙齿从其中伸出。",
+  "translation": "一具肥胖的丧尸，它破裂的肚皮上有一张大嘴，一排排锋利、不规则的牙齿从其中伸出。",
   "context": "ID: mon_zombie_bellymouth\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Mouth.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_bellymouth\n",
   "stage": 1
  },
@@ -2851,10 +2851,16 @@
   "stage": 3
  },
  {
+  "key": "da2016b1b5bfe9c8c795782cd335ab76",
+  "original": "A greenish scourge with significant lust upon the living flesh. Incredibly nimble despite of its decaying state.",
+  "translation": "一种对活人血肉充满极度渴望的绿脓疫病。尽管其躯体已腐朽不堪，却仍异常敏捷。",
+  "context": "ID: mon_zombie_swarmer_evo_virulent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_virulent\n",
+  "stage": 0
+ },
+ {
   "key": "5698676817189b4125fbdf63868755b6",
   "original": "A greenish scourge with significant lust upon the living flesh. Usually docile, but seeing any living thing brings this corpse to a ferocious berserk, gnawing the air as it chase them down.",
   "translation": "一种绿色的鞭子，对活着的肉体有强烈的欲望。通常是温顺的，但看到任何生物都会让这具尸体变得凶猛狂暴，在追赶他们的过程中啃咬着空气。",
-  "context": "ID: mon_zombie_swarmer_evo_virulent\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_virulent\n",
   "stage": 5
  },
  {
@@ -3503,10 +3509,16 @@
   "stage": 3
  },
  {
+  "key": "c5750dcccc8f3a8dc63587de143ad458",
+  "original": "A morbidly large zombie heavily mutated from long exposure to irradiated waters, altering most of its body parts into shellfish-like.",
+  "translation": "一个因长时间暴露于辐射水域而发生严重变异的巨型僵尸，其大部分身体部位已变异成类似贝类的形态。",
+  "context": "ID: mon_zombie_nautilus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nautilus\n",
+  "stage": 0
+ },
+ {
   "key": "52ac05fbe28043bc7d4a961aca2f906f",
   "original": "A morbidly large zombie heavily mutated from long exposure to irradiated waters, which altered most of its body parts into something like that of a mollusk.",
   "translation": "一种体型畸形而巨大的的丧尸，由于长期暴露在辐射水中而发生严重变异，其身体的大部分都变成了某种类似软体动物的模样。",
-  "context": "ID: mon_zombie_nautilus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_nautilus\n",
   "stage": 1
  },
  {
@@ -3595,14 +3607,13 @@
   "key": "d3ab02359eac30d37583825477e92881",
   "original": "A normal humanoid body, almost in its decaying state.",
   "translation": "一个正常的人形身体，几乎处于腐烂状态。",
-  "context": "ID: mon_zombie_swarmer_strong\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_strong\n",
+  "context": "ID: mon_zombie_swarmer_evo_hungry\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_hungry\n",
   "stage": 5
  },
  {
   "key": "f32912538c6d74a47ac51cee162409ee",
   "original": "A normal humanoid body, almost in its decaying state. Despite that, its excitement for flesh makes it a threat.",
   "translation": "一个普通的人类躯体，几乎处于腐朽状态。尽管如此，它对血肉的兴奋使它成为了一个威胁。",
-  "context": "ID: mon_zombie_swarmer_evo_hungry\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_hungry\n",
   "stage": 1
  },
  {
@@ -3647,9 +3658,9 @@
  {
   "key": "0ccdd2f41a0547115c38cd41fb4a37f2",
   "original": "A once stout zombie, now covered by protruding bone spikes under its skin.",
-  "translation": "曾经健壮的僵尸，现在皮肤下布满了突起的骨刺。",
+  "translation": "曾经健壮的丧尸，现在皮肤下布满了突起的骨刺。",
   "context": "ID: mon_zombie_charger_spike\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Charger.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_charger_spike\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f3af783d738a9a953f4773db7ab3aa59",
@@ -3936,10 +3947,16 @@
   "stage": 3
  },
  {
+  "key": "db3b6828166d2cf6ccc189f25c96f005",
+  "original": "A skinny tall zombie with a swollen mouth and elongated jaws, seeping with black ooze.",
+  "translation": "一个瘦高个的僵尸，嘴巴肿胀，下颌拉长，黑色脓液渗出。",
+  "context": "ID: mon_zombie_disser\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_disser\n",
+  "stage": 0
+ },
+ {
   "key": "4d3c46f8b732314fe9ad2a9048b0ed51",
   "original": "A skinny tall zombie with swollen mouth and elongated jaws, seeping with black ooze. Its harsh, high-pitched voice makes it suprisingly dangerous.",
   "translation": "一种瘦高的丧尸，嘴巴肿胀，下颚拉长，渗出黑色的软泥。它刺耳、高亢的声音使它变得异常危险。",
-  "context": "ID: mon_zombie_disser\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_disser\n",
   "stage": 3
  },
  {
@@ -4076,10 +4093,16 @@
   "stage": 3
  },
  {
+  "key": "62554bc454155822510ba98e7a4c18a7",
+  "original": "A stout humanoid body, almost in its decaying state.",
+  "translation": "一个健壮的人形身躯，几乎处于腐朽状态。",
+  "context": "ID: mon_zombie_swarmer_alpha\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_alpha\n",
+  "stage": 0
+ },
+ {
   "key": "9dd5578b1a5f3d1d2b41eafb9688d1d1",
   "original": "A stout humanoid body, almost in its decaying state. Unlike other swarmers, something's strange on its body that attracts its \"team\".",
   "translation": "一个结实的人形身体，几乎处于腐烂状态。与其他集群丧尸不同的是，它身上有奇怪的东西吸引着它的“团队”。",
-  "context": "ID: mon_zombie_swarmer_alpha\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_alpha\n",
   "stage": 3
  },
  {
@@ -4152,15 +4175,15 @@
  {
   "key": "4d714604a66dda526792d36263f4f97c",
   "original": "A tendril zombie with its tentacle pairs thickened from prolonged mutations.",
-  "translation": "一种触手僵尸，它的触手因长期突变而变厚。",
+  "translation": "一种触手丧尸，它的触手因长期突变而变厚。",
   "stage": 3
  },
  {
   "key": "21c80647a7e85b2e7c339cd8d3aec366",
   "original": "A tendril zombie with larger and thicker set of tentacle limbs.",
-  "translation": "一只触须僵尸，拥有更大更粗壮的触手肢体。",
+  "translation": "一只触须丧尸，拥有更大更粗壮的触手肢体。",
   "context": "ID: mon_zombie_thicktendrils\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Tendrils.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_thicktendrils\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "da55a825edd639bc93e277273602dae3",
@@ -4435,9 +4458,9 @@
  {
   "key": "1904fa28a5292905fd2d62eb6677041e",
   "original": "A zombie rose up from the ground!",
-  "translation": "一只僵尸从地下爬了起来！",
+  "translation": "一只丧尸从地下爬了起来！",
   "context": "ID: eoc_secro_mon_zombie_uruxis_passive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_uruxis_passive\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "88cc1d2b039400df2875a420c9973703",
@@ -4585,6 +4608,34 @@
   "translation": "有着迷人的海星形状的大皮肤。嘴上的裂口在每一个尖端附近轻轻地啃咬着。它的腹部被一个巨大的蜥蜴眼装满了，渴望地寻找着猎物。",
   "context": "ID: mon_zedfail_seeker\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Failed.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zedfail_seeker\n",
   "stage": 3
+ },
+ {
+  "key": "a50b5c592a631781c85d53b82fa263f9",
+  "original": "Alpha Swarmer Death",
+  "translation": "阿尔法蜂群死亡",
+  "context": "ID: mon_zombie_swarmer_alphadeath\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphadeath\n",
+  "stage": 0
+ },
+ {
+  "key": "ddfa8c278af6b22dd64e8b887c4bfbb2",
+  "original": "Alpha Swarmer Form",
+  "translation": "阿尔法蜂群形态",
+  "context": "ID: mon_zombie_swarmer_alphaform\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphaform\n",
+  "stage": 0
+ },
+ {
+  "key": "ddfc171449502291b6c03b1c3f4c6ec4",
+  "original": "Alpha Swarmer Form Check",
+  "translation": "阿尔法蜂拥形态检测",
+  "context": "ID: mon_zombie_swarmer_alphaform_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphaform_check\n",
+  "stage": 0
+ },
+ {
+  "key": "c58481d12ba388f4a2c60d6ec7effa68",
+  "original": "Alpha Swarmer Passive",
+  "translation": "阿尔法蜂群被动",
+  "context": "ID: mon_zombie_swarmer_alphasive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphasive\n",
+  "stage": 0
  },
  {
   "key": "09a35dc03ae6877ba315bf5dd7dbf06e",
@@ -5062,6 +5113,12 @@
   "key": "bc3f129f2709f585b52ef334e24c7360",
   "original": "Bone needles that forms around the flesilisk's in-between \"scales\". This one showers it upclose.",
   "translation": "骨针，这围绕着肉蜥蜴体表间“鳞片”生长。这一款会在近身处施以密集打击。",
+  "stage": 0
+ },
+ {
+  "key": "5b6df019fbe9f6f95b9c8a8c3b268c60",
+  "original": "Bone needles that forms around the flesilisk's in-between scales. This one showers it upclose.",
+  "translation": "骨针，围绕着肉蜥蜴体表鳞片间生成。这一款在近距离喷射而出。",
   "context": "ID: fleshysnaky_bn_shower\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_gun_zombie.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→GUN→fleshysnaky_bn_shower\n",
   "stage": 0
  },
@@ -5173,7 +5230,7 @@
   "key": "517349a3cdc1acf50617693e3ba33988",
   "original": "Charge",
   "translation": "冲锋",
-  "context": "ID: mon_zombie_charger_vanguard_charge_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_charger_vanguard_charge_pull\n",
+  "context": "ID: mon_zombie_titan_charging_pull\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_titan_charging_pull\n",
   "stage": 3
  },
  {
@@ -5549,6 +5606,13 @@
   "stage": 1
  },
  {
+  "key": "20c5f8a06b6220418ebf7b9fa124d669",
+  "original": "Disser Shriek Sound",
+  "translation": "尖啸声",
+  "context": "ID: mon_zombie_disser_shrieks\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_disser_shrieks\n",
+  "stage": 0
+ },
+ {
   "key": "f99a83f4fcf93c6830314a9bf9bc437e",
   "original": "Dissolving",
   "translation": "溶解",
@@ -5867,7 +5931,7 @@
   "key": "20a8b1e6e473f9f1b219973fb365af44",
   "original": "Flee",
   "translation": "逃跑",
-  "context": "ID: mon_zombie_skittyweavy_flee\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_skittyweavy_flee\n",
+  "context": "ID: mon_bot_secrolauncher_deploy_flee\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_bot_secrolauncher_deploy_flee\n",
   "stage": 3
  },
  {
@@ -6245,8 +6309,14 @@
   "key": "f0fa9c7fbe4c224816927f0de1b792f0",
   "original": "Gray-ish visage in misunderstandable expression, this zombie has gone feral, visible to its extreme twitching of its head. Although possesses a regular body, there's something wrong in it.",
   "translation": "灰色的面容在误解的表达中，这具丧尸已经变得野性，可以看到它的头部极度抽搐。虽然有一个正常的身体，但有一些不对劲。",
-  "context": "ID: mon_zombie_swarmer_evo_savage\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_savage\n",
   "stage": 5
+ },
+ {
+  "key": "d1ec907ae288c371be1819fa44f6e610",
+  "original": "Gray-ish visage in misunderstandable expression, this zombie has gone feral. Although possesses a regular body, there's something wrong with it.",
+  "translation": "这张面孔灰白，表情难以理解，僵尸已变得野性十足。虽然拥有普通人的体格，但显然有什么地方出了问题。",
+  "context": "ID: mon_zombie_swarmer_evo_savage\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_evo_savage\n",
+  "stage": 0
  },
  {
   "key": "8c9660e13feab2278a3b528bb4dd8f24",
@@ -6315,6 +6385,13 @@
   "stage": 0
  },
  {
+  "key": "315015f89151f7d58db40a239339b974",
+  "original": "Heaps of greenish flesh has replaced the head under its undulating bulbous torso.",
+  "translation": "其肿胀的球状躯干下方，一堆堆绿油油的肉块取代了头部。",
+  "context": "ID: mon_zombie_ichorus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_ichorus\n",
+  "stage": 0
+ },
+ {
   "key": "88302d96612bac4eaf480069ed1fc684",
   "original": "Heaps of greenish flesh has replaced the head under its undulating bulbous torso. Slow and is heavily hampered, yet it opposes a big threat for its corrosive bodily fluids.",
   "translation": "一条绿色的脖子取代了头部在其起伏的球状躯干上的位置。缓慢且受到严重阻碍，但它有着腐蚀性体液的巨大威胁",
@@ -6324,7 +6401,6 @@
   "key": "8738760545e354ed58d7c8e2d87ca5e5",
   "original": "Heaps of greenish flesh has replaced the head under its undulating bulbous torso. Slow and is heavily hampered, yet opposes a big threat for its corrosive bodily fluids.",
   "translation": "成堆的绿色肉瘤取代了它起伏的球状躯干下的头部。行动缓慢并且受到严重阻碍，但腐蚀性体液使其依旧是一个巨大的威胁。",
-  "context": "ID: mon_zombie_ichorus\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_ichorus\n",
   "stage": 1
  },
  {
@@ -6610,7 +6686,7 @@
   "key": "80d2677cf518f4d04320042f4ea6c146",
   "original": "Limit",
   "translation": "限制",
-  "context": "ID: mon_insect_saddler_brood_birth_limit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_insect_saddler_brood_birth_limit\n",
+  "context": "ID: mon_bot_secrolauncher_deploy_limit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_bot_secrolauncher_deploy_limit\n",
   "stage": 5
  },
  {
@@ -6710,7 +6786,7 @@
   "key": "ab58c3d23f25832de807772cb54f5627",
   "original": "Morph",
   "translation": "变形",
-  "context": "ID: mon_zombie_fake_psyrus_poly\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fake_psyrus_poly\n",
+  "context": "ID: mon_sflesh_flesh_convert_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_convert_initial\n",
   "stage": 3
  },
  {
@@ -7701,9 +7777,9 @@
  {
   "key": "4ac947c948be6a1945ea8409578e6906",
   "original": "Snatcher Zombie - Snatch",
-  "translation": "捕猎者僵尸 - 捕捉",
+  "translation": "捕猎者丧尸 - 捕捉",
   "context": "ID: mon_zombie_bootlegsmoker_snatch_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_bootlegsmoker_snatch_check\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ceb1539fd855f201948b9caa9610971a",
@@ -7756,9 +7832,9 @@
  {
   "key": "7c80fdd97b0e8d545d00ac3e9bff10ac",
   "original": "Spawn Flesh Zombies",
-  "translation": "生成腐肉僵尸",
+  "translation": "生成腐肉丧尸",
   "context": "ID: mon_sflesh_zombie_turret_death_extra\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_zombie_turret_death_extra\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7f8e029d998d4d1ed653dbcbfbc75afe",
@@ -8239,7 +8315,7 @@
   "key": "cba8a704bde23d7da518eaec853280c2",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster converts the surrounding terrain into flesh.'",
   "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Caster converts the surrounding terrain into flesh.'",
-  "context": "ID: mon_sflesh_veinstalk_initial_convert\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_veinstalk_initial_convert\n",
+  "context": "ID: mon_sflesh_flesh_convert_terrain2\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_convert_terrain2\n",
   "stage": 1
  },
  {
@@ -8821,10 +8897,16 @@
   "stage": 5
  },
  {
+  "key": "7b0acf24e283acbcec1dfacec6f351f9",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster shoots out tendrils that pierces nearby allies and injecting them with extra flesh, healing a moderate amount of health and removes/blocks bleeding.'",
+  "translation": "怪物施放的法术。若你正看到这条信息，请阅读以下内容代替：\n '施法者射出触须穿透附近的盟友，并注入额外的肉体，中等程度地恢复生命值并移除/阻止出血。'",
+  "context": "ID: mon_zombie_fleshmonger_reflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh\n",
+  "stage": 0
+ },
+ {
   "key": "87dc1d252ea90b5a537725ac36ce9108",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster shoots out tendrils that pierces nearby allies then injecting them with extra flesh, healing a moderate amount of health and removes/blocks bleeding.'",
   "translation": "由怪物施放的法术。若你正看到这个信息，请阅读以下内容代替：\n '施法者发射触须穿透附近的盟友，向他们注入额外的肉体，中等程度地恢复生命值并移除/阻止出血。'",
-  "context": "ID: mon_zombie_fleshmonger_reflesh\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fleshmonger_reflesh\n",
   "stage": 0
  },
  {
@@ -8846,6 +8928,13 @@
   "translation": "怪物施法的。如果你看到了这一点，那就改读这一条：\n“施法者用集中的热射线射击，穿透目标。”",
   "context": "ID: mon_secro_laserturret_mod_heatray\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secro_laserturret_mod_heatray\n",
   "stage": 5
+ },
+ {
+  "key": "d7ed1098875d6dcf956fced145afe719",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster shrieks.'",
+  "translation": "怪物施放的法术。若你正看见这个信息，请改读以下内容：\n  '施法者尖叫。'",
+  "context": "ID: mon_zombie_disser_shrieks\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_disser_shrieks\n",
+  "stage": 0
  },
  {
   "key": "87b3dd813661bc851e0d57ae18a6c2b4",
@@ -8925,9 +9014,9 @@
  {
   "key": "36c518994f70fb58cbe55b33a8fb9f13",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster spawns in a zombie.'",
-  "translation": "由怪物施放的法术。若你正看到这个信息，请转而阅读以下内容：\n '施法者以僵尸形态出现。'",
+  "translation": "由怪物施放的法术。若你正看到这个信息，请转而阅读以下内容：\n '施法者以丧尸形态出现。'",
   "context": "ID: mon_zombie_uruxis_spawn_passive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_uruxis_spawn_passive\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "72a58d399727aa38608cd43d1800d411",
@@ -9298,6 +9387,13 @@
   "stage": 5
  },
  {
+  "key": "8db15b4f9f1f8ca4e70b825e1feb5901",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster turns into an alpha swarmer.'",
+  "translation": "怪物施放的法术。若你正看到这个信息，请阅读以下内容代替：\n '施法者变为阿尔法蜂拥体。'",
+  "context": "ID: mon_zombie_swarmer_alphaform\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphaform\n",
+  "stage": 0
+ },
+ {
   "key": "547b46783cc176662ed9c284896161ad",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster unleashes the tower's destructive turbulence - to which all tentacles hidden under the flesh rampages the entirety of the area, causing unconsciousness and dealing massive bashing damage to all affected creatures.'",
   "translation": "怪物施法的。如果你看到了这一点，那就读一读这篇：\n“施法者释放了塔的破坏性湍流——所有隐藏在肉体下的触手都会冲向整个区域，造成无意识并对所有受影响的生物造成巨大的冲击伤害。”",
@@ -9508,6 +9604,13 @@
   "stage": 5
  },
  {
+  "key": "e2a43134bbad98709fefcadf45e46494",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Checks if this swarmer can become an alpha.'",
+  "translation": "由怪物施放的法术。若您正看到此信息，请改读以下内容：\n '检查此蜂拥者是否能成为阿尔法。'",
+  "context": "ID: mon_zombie_swarmer_alphaform_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphaform_check\n",
+  "stage": 0
+ },
+ {
   "key": "bc5aa887fb06afce36047fe1d28a3c39",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Conditional checks for the target. If conditions fail, extends stunned effect for 3 turns.'",
   "translation": "由怪物施放的法术。若你正看到这条信息，请转而阅读以下内容：\n '针对目标的条件检查。若条件未达成，则延长昏迷效果3回合。'",
@@ -9615,6 +9718,20 @@
   "stage": 5
  },
  {
+  "key": "03675457551e2aecf4f492242981440c",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Nearby swarmers gain an effect, preventing them from becoming a new alpha after some moments.'",
+  "translation": "由怪物施放的法术。若您正观看此信息，请改读以下内容：\n  '附近徘徊者获得一种效果，阻止它们在一段时间后成为新的领头者。'",
+  "context": "ID: mon_zombie_swarmer_alphadeath\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphadeath\n",
+  "stage": 0
+ },
+ {
+  "key": "806476492def1c420d606c6126ca06d1",
+  "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Nearby swarmers gain extra speed.'",
+  "translation": "由怪物施放的咒语。若你正看到这个信息，请转而阅读以下内容：\n  '附近集群者获得额外速度。'",
+  "context": "ID: mon_zombie_swarmer_alphasive\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_swarmer_alphasive\n",
+  "stage": 0
+ },
+ {
   "key": "aa936829a34b3ce557f981af5a3a1610",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Part of the caster's body explodes, shooting a large chunk of flesh towards the target, dealing bashing damage.'",
   "translation": "怪物施法的。如果你看到了这个，那就改读这个：\n“施法者身体的一部分爆炸，向目标射出一大块肉，造成重击伤害。”",
@@ -9645,7 +9762,7 @@
   "key": "201fa9687e0455ceecfd0c37647f0257",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Target is converted into its flesh variant'",
   "translation": "Spell casted by a monster. If you're seeing this，then read this one instead：\n'Target is converted into its flesh variant'",
-  "context": "ID: mon_zombie_fake_psyrus_poly\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_fake_psyrus_poly\n",
+  "context": "ID: mon_sflesh_flesh_convert_initial\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_convert_initial\n",
   "stage": 1
  },
  {
@@ -9862,7 +9979,7 @@
   "key": "11a755d598c0c417f9a36758c3da7481",
   "original": "Stop",
   "translation": "住手",
-  "context": "ID: mon_zombie_blacktitan_charging_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_blacktitan_charging_stop\n",
+  "context": "ID: mon_bot_secrolauncher_deploy_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_bot_secrolauncher_deploy_stop\n",
   "stage": 5
  },
  {
@@ -10028,14 +10145,14 @@
   "key": "4a8d36f898ff13b33fe6647ba345f9dc",
   "original": "Target spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster locks its line of sight onto the target, then casts the Spell(s).'",
   "translation": "怪物施法的目标。如果你看到了这个，那么改读这个：\n'施法者将视线锁定在目标上，然后施法",
-  "context": "ID: mon_sflesh_surface_spawner_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_surface_spawner_target\n",
+  "context": "ID: mon_sflesh_flesh_city_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_flesh_city_target\n",
   "stage": 5
  },
  {
   "key": "e80e04dcb7226088f8f985892a1fd1e7",
   "original": "Target spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster locks its line of sight onto the target, then randomly casts one of the Spell(s).'",
   "translation": "怪物施法的目标。如果你看到了这个，那么改读这个：\n'施法者将视线锁定在目标上，然后随机施放一个法术。'",
-  "context": "ID: mon_zombie_equinox_summon_check_target_random\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_equinox_summon_check_target_random\n",
+  "context": "ID: mon_bot_secrolauncher_deploy_random\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_bot_secrolauncher_deploy_random\n",
   "stage": 5
  },
  {
@@ -10050,6 +10167,13 @@
   "translation": "传送",
   "context": "ID: mon_shifter_teleport\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_shifter_teleport\n",
   "stage": 3
+ },
+ {
+  "key": "731d6566cc4ac626e9bf98fd0a31c584",
+  "original": "Template guy.",
+  "translation": "模板人员。",
+  "context": "ID: mon_zombie_swarmer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer\n",
+  "stage": 0
  },
  {
   "key": "61b796aa9c3822612f1e2e4b911183ab",
@@ -10095,7 +10219,7 @@
  {
   "key": "8f2c06305a6b6f561693647eb0726b58",
   "original": "Tendril Zombie - Sprint",
-  "translation": "触手僵尸-冲刺",
+  "translation": "触手丧尸-冲刺",
   "context": "ID: mon_zombie_tendrils_sprint_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_tendrils_sprint_check\n",
   "stage": 1
  },
@@ -11252,9 +11376,9 @@
  {
   "key": "684101f0836d918d3f00d46f5a5df5ca",
   "original": "The snatcher zombie constricted you!",
-  "translation": "捕猎僵尸将你紧紧缠住！",
+  "translation": "捕猎丧尸将你紧紧缠住！",
   "context": "ID: eoc_secro_mon_zombie_bootlegsmoker_snatch_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_bootlegsmoker_snatch_check\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ec221c710520309fb92f86c550a1614c",
@@ -11601,7 +11725,6 @@
   "key": "e4417bfbffef443edd7a116655e9e771",
   "original": "This guy exists to ease the author's work. If you see this in-game then you've cheated.",
   "translation": "这家伙的存在是为了减轻作者的工作。如果你在游戏中看到这个，那你就作弊了。",
-  "context": "ID: mon_zombie_swarmer\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer\n",
   "stage": 3
  },
  {
@@ -12432,9 +12555,9 @@
  {
   "key": "8163affc759bbfd354292e0545a2aa1e",
   "original": "You resist the snatcher zombie's tongue!",
-  "translation": "你成功抵抗了捕猎者僵尸的舌头攻击！",
+  "translation": "你成功抵抗了捕猎者丧尸的舌头攻击！",
   "context": "ID: eoc_secro_mon_zombie_bootlegsmoker_snatch_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_bootlegsmoker_snatch_check\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d1ad958477e08fa4d10912f18c39c1ed",
@@ -12474,7 +12597,6 @@
   "key": "dccfcaae441f4d41ea22a3320b5fd46d",
   "original": "You were caught at its impact!",
   "translation": "你被它的冲击波及了！",
-  "context": "ID: eoc_secro_mon_zombie_fleshysnaky_devastate_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_fleshysnaky_devastate_check\n",
   "stage": 0
  },
  {
@@ -12701,9 +12823,9 @@
  {
   "key": "227f8fee4ded69122c0e6cdc0e9a033f",
   "original": "Zombieworm - Destroy",
-  "translation": "僵尸蠕虫 - 毁灭",
+  "translation": "丧尸蠕虫 - 毁灭",
   "context": "ID: mon_zombieworm_onger_destroy_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombieworm_onger_destroy_check\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "72f13987a4c569f25bd711750512c27b",
@@ -12751,7 +12873,6 @@
   "key": "cade8491b5593f5ad17b2aa022c2c0c9",
   "original": "a insectoid",
   "translation": "一只昆虫",
-  "context": "ID: SSADDLER\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPECIES→SSADDLER\n",
   "stage": 3
  },
  {
@@ -12771,7 +12892,7 @@
   "key": "47967d1ec01a7a1d17a5dff7a9336920",
   "original": "a secronom mutant",
   "translation": "一个一阶Secronom突变体",
-  "context": "ID: SECROZED_1\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPECIES→SECROZED_1\n",
+  "context": "ID: SECROSWARMER_ALPHA\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPECIES→SECROSWARMER_ALPHA\n",
   "stage": 3
  },
  {
@@ -12792,7 +12913,7 @@
   "key": "2bd69213f8be92ae85f3efcee4198f35",
   "original": "a spell",
   "translation": "一个法术",
-  "context": "ID: mon_sflesh_surface_spawner_target\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_surface_spawner_target\n",
+  "context": "ID: mon_secrodragon_edischarge_target_random\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_large.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_secrodragon_edischarge_target_random\n",
   "stage": 3
  },
  {
@@ -12863,10 +12984,16 @@
   "stage": 3
  },
  {
+  "key": "eb89d4358a1ba513afaf81a6c87ebcae",
+  "original": "an insectoid",
+  "translation": "昆虫类生物",
+  "context": "ID: SSADDLER\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPECIES→SSADDLER\n",
+  "stage": 0
+ },
+ {
   "key": "9a196d9814ad17a2fdd3ba690c90909e",
   "original": "an intense rumbling of the ground.",
   "translation": "地面剧烈震动。",
-  "context": "ID: eoc_secro_mon_zombie_fleshysnaky_devastate_check\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→effect_on_condition→eoc_secro_mon_zombie_fleshysnaky_devastate_check\n",
   "stage": 0
  },
  {
@@ -13005,7 +13132,7 @@
   "key": "a6fe881cecd3fb7660083aea35cce430",
   "original": "bolt",
   "translation": "巨型雷电球",
-  "context": "ID: mon_zombie_jolt_bolt_big\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_jolt_bolt_big\n",
+  "context": "ID: mon_zombie_jolt_bolt_smol\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_jolt_bolt_smol\n",
   "stage": 3
  },
  {
@@ -15094,6 +15221,13 @@
   "translation": "集群丧尸",
   "context": "ID: mon_zombie_swarmer_strong\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_strong\n",
   "stage": 3
+ },
+ {
+  "key": "9d417625cd2bba40106cd9bb0ce39890",
+  "original": "swarmer alpha",
+  "translation": "swarmer alpha\n\n翻译：蜂拥者阿尔法",
+  "context": "ID: mon_zombie_swarmer_alpha\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Swarmer.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_swarmer_alpha\n",
+  "stage": 0
  },
  {
   "key": "3605a607d3fba34d63a0a9970589dd84",
