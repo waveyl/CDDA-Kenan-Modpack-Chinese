@@ -108,7 +108,6 @@
     "weapon_categories_allowed": [ "WHIPS" ],
     "melee_allowed": true,
     "crit_tec": false,
-    "attack_override": true,
     "eocs": [
       {
         "id": "tec_iku_palm_eoc",
@@ -197,7 +196,6 @@
     "knockback_follow": true,
     "knockback_dist": 1,
     "stun_dur": 1,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.1 } ],
     "eocs": [
       {
@@ -249,7 +247,6 @@
     "required_buffs_all": [ "buff_celestial_brawling_iku_onpause2" ],
     "weapon_categories_allowed": [ "WHIPS" ],
     "melee_allowed": true,
-    "attack_override": true,
     "eocs": [
       {
         "id": "tec_iku_slap_elec_eoc",
@@ -272,7 +269,6 @@
     "unarmed_allowed": true,
     "crit_tec": true,
     "stun_dur": 2,
-    "attack_override": true,
     "eocs": [ { "id": "tec_iku_step_eoc", "effect": [ { "u_cast_spell": { "id": "iku_step" }, "targeted": false } ] } ],
     "attack_vectors": [ "HAND", "WEAPON" ],
     "//": "WEAPON so it can be used with the weapon equipped",
@@ -369,7 +365,6 @@
     ],
     "skill_requirements": [ { "name": "unarmed", "level": 2 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.17 } ],
     "eocs": [
       {
@@ -386,7 +381,6 @@
     "messages": [ "You palm strike %s with your left hand!", "<npcname> palm strikes %s with their left hand!" ],
     "skill_requirements": [ { "name": "unarmed", "level": 2 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.1 } ],
     "condition": { "and": [ { "u_has_effect": "mabuff:buff_kasen_static" }, { "math": [ "u_var_kasen_arm", "==", "1" ] } ] },
     "eocs": [
@@ -408,7 +402,6 @@
     "messages": [ "You palm strike %s with your right hand!", "<npcname> palm strikes %s with their right hand!" ],
     "skill_requirements": [ { "name": "unarmed", "level": 2 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.1 } ],
     "condition": { "and": [ { "u_has_effect": "mabuff:buff_kasen_static" }, { "math": [ "u_var_kasen_arm", "==", "0" ] } ] },
     "eocs": [
@@ -432,7 +425,6 @@
     ],
     "skill_requirements": [ { "name": "unarmed", "level": 4 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "condition": { "and": [ { "u_has_effect": "mabuff:buff_kasen_static" }, { "math": [ "u_var_kasen_arm", "==", "1" ] } ] },
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.17 } ],
     "eocs": [
@@ -454,7 +446,6 @@
     "messages": [ "You punch %s with your left hand!", "<npcname> punches %s with their left hand!" ],
     "skill_requirements": [ { "name": "unarmed", "level": 4 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.2 } ],
     "condition": { "and": [ { "u_has_effect": "mabuff:buff_kasen_static" }, { "math": [ "u_var_kasen_arm", "==", "1" ] } ] },
     "eocs": [
@@ -477,7 +468,6 @@
     "messages": [ "You punch %s with your right hand!", "<npcname> punches %s with their right hand!" ],
     "skill_requirements": [ { "name": "unarmed", "level": 4 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.2 } ],
     "condition": { "and": [ { "u_has_effect": "mabuff:buff_kasen_static" }, { "math": [ "u_var_kasen_arm", "==", "0" ] } ] },
     "eocs": [
@@ -498,7 +488,6 @@
     "messages": [ "You unwrap your bandages and swipe towards %s!", "<npcname> unwraps their bandages and swipes towards %s!" ],
     "skill_requirements": [ { "name": "unarmed", "level": 4 } ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.1 } ],
     "eocs": [
       {
@@ -557,7 +546,6 @@
     "crit_tec": false,
     "reach_ok": true,
     "stun_dur": 1,
-    "attack_override": true,
     "eocs": [ { "id": "tec_kokoro_spin_eoc", "effect": [ { "u_cast_spell": { "id": "kokoro_spin" }, "targeted": false } ] } ],
     "attack_vectors": [ "WEAPON" ],
     "//": "This is inspired in her 'jump, fall upside down while spinning' attack, but that would be too long to perform by itself, implement as combo ending if possible",
@@ -590,7 +578,6 @@
     "weapon_categories_allowed": [ "LONG_SWORDS", "GREAT_SWORDS", "QUARTERSTAVES", "SPEARS", "POLEARMS", "GREAT_AXES" ],
     "melee_allowed": true,
     "reach_ok": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.1 } ],
     "eocs": [
       {
@@ -651,7 +638,6 @@
     ],
     "melee_allowed": true,
     "reach_ok": true,
-    "attack_override": true,
     "eocs": [
       {
         "id": "tec_kokoro_switch_eoc",
@@ -789,7 +775,6 @@
     "skill_requirements": [ { "name": "unarmed", "level": 5 } ],
     "required_buffs_all": [ "buff_meiling_onpause2" ],
     "unarmed_allowed": true,
-    "attack_override": true,
     "eocs": [
       {
         "id": "tec_meiling_qiblast_eoc",
@@ -954,7 +939,6 @@
     "skill_requirements": [ { "name": "unarmed", "level": 2 } ],
     "unarmed_allowed": true,
     "crit_ok": false,
-    "attack_override": true,
     "eocs": [
       {
         "id": "tec_mokou_talons_eoc",
@@ -1000,7 +984,6 @@
     "skill_requirements": [ { "name": "unarmed", "level": 2 } ],
     "unarmed_allowed": true,
     "crit_tec": false,
-    "attack_override": true,
     "mult_bonuses": [
       { "stat": "movecost", "scale": 0.95 },
       { "stat": "damage", "type": "bash", "scaling-stat": "dex", "scale": 1 },
@@ -1018,7 +1001,6 @@
     "unarmed_allowed": true,
     "crit_tec": true,
     "knockback_dist": 1,
-    "attack_override": true,
     "mult_bonuses": [
       { "stat": "damage", "type": "bash", "scaling-stat": "dex", "scale": 1.33 },
       { "stat": "damage", "type": "bash", "scaling-stat": "per", "scale": 1.33 },
@@ -1034,7 +1016,6 @@
     "skill_requirements": [ { "name": "unarmed", "level": 3 } ],
     "unarmed_allowed": true,
     "down_dur": 2,
-    "attack_override": true,
     "condition": { "or": [ { "not": { "npc_has_flag": "FLIES" } }, { "npc_has_flag": "DISABLE_FLIGHT" } ] },
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.1 } ],
     "eocs": [ { "id": "tec_tenko_stomp_eoc", "effect": [ { "u_cast_spell": { "id": "tenko_stomp" }, "targeted": false } ] } ],
@@ -1110,7 +1091,6 @@
     "messages": [ "You powerfully stab %s", "<npcname> stabs %s" ],
     "skill_requirements": [ { "name": "melee", "level": 5 } ],
     "melee_allowed": true,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 1.25 } ],
     "eocs": [
       {
@@ -1146,7 +1126,6 @@
     "melee_allowed": true,
     "unarmed_allowed": false,
     "down_dur": 2,
-    "attack_override": true,
     "mult_bonuses": [ { "stat": "movecost", "scale": 0.66 } ],
     "eocs": [
       {
