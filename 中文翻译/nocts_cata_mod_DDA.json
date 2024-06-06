@@ -2647,10 +2647,16 @@
   "stage": 3
  },
  {
+  "key": "dea680ca193f1e404c4be7c1b8be4926",
+  "original": "Before the Cataclysm, you were a member of a local community of like-minded survivalists, occasionally meeting to contribute to preparing and stocking safehouses.  Now that the world's ended, you might be able to count on any of your friends out there, if they're still alive.",
+  "translation": "在大灾变之前，你是当地一个志同道合的生存主义者团体的成员，偶尔会面以共同为安全屋的准备和储备物资作出贡献。如今世界已经终结，如果你的朋友们还活着，你或许能指望上他们中的任何一个。",
+  "context": "ID: PROF_PREPPER_HOLDOUT\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Mutations/c_bio_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→PROF_PREPPER_HOLDOUT\n",
+  "stage": 0
+ },
+ {
   "key": "7e0b36c0cabad3a01819a5ef99ffdf39",
   "original": "Best Friend",
   "translation": "最好的朋友",
-  "context": "ID: bff\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/c_npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→npc→bff\n",
   "stage": 3
  },
  {
@@ -2866,7 +2872,6 @@
   "key": "02420eb511c93dd47a7d14fb2580687f",
   "original": "Boarded Up House",
   "translation": "民宅（木板封死）",
-  "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
   "stage": 3
  },
  {
@@ -3426,7 +3431,6 @@
   "key": "ce3ede8ceb3b138cb7206ba0554863f6",
   "original": "Glad to see you too buddy, let's go now!",
   "translation": "我也很高兴见到你，伙计，我们走吧！",
-  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
   "stage": 3
  },
  {
@@ -3696,15 +3700,27 @@
   "key": "39728c67bcf1c8b9d4f66fd7241a99c0",
   "original": "Holy shit girl, you are still alive?!  I'm glad, I thought I was going to have to deal with all this alone. We got this place far away and are safe for now.  It's now you and me, just like old times!",
   "translation": "天哪，你还活着？！我很高兴，我以为我要独自处理这一切。我们到了很远的地方，现在安全了。现在是你和我，就像过去一样！",
-  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
   "stage": 3
+ },
+ {
+  "key": "d172b792d1df24cfab7d71a65cab33d5",
+  "original": "Holy shit girl, you're still alive?!  I'm glad, I thought I was going to have to deal with all this alone.  We've got shelter and supplies at least.  Whenever you want to head out, I'll follow your lead.",
+  "translation": "哇塞，姑娘，你还活着！？太好了，我还以为得一个人对付这一切了。至少我们有避难所和补给。只要你准备出门，我跟着你走。\n\n翻译（优化版）：\n天哪，姑娘，你还活着吗？！真是太好了，我还担心得独自面对这一切。至少我们这里有避难所和必需品。无论何时你想出发，我随你行动。",
+  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
+  "stage": 0
  },
  {
   "key": "a214844c3466afce152dcfc03d4f6699",
   "original": "Holy shit man, you are still alive?!  I'm glad, I thought I was going to have to deal with all this alone.  We got this place far away and are safe for now.  It's now you and me, just like old times!",
   "translation": "天哪，你还活着？！我很高兴，我以为我要独自处理这一切。这个地方离得比较远，现在暂时是安全的。现在就像过去一样有人作伴了！",
-  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
   "stage": 3
+ },
+ {
+  "key": "de83ef78ad69a0bf5d5705e1e3dfd15e",
+  "original": "Holy shit man, you're still alive?!  I'm glad, I thought I was going to have to deal with all this alone.  We've got shelter and supplies at least.  Whenever you want to head out, I'll follow your lead.",
+  "translation": "老天，伙计，你还活着？！太好了，我还以为得一个人应付这一切。至少我们有避难所和补给。只要你准备出门，我就跟着你走。",
+  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
+  "stage": 0
  },
  {
   "key": "c18a1bb483127ea42173b8495b0f6943",
@@ -5149,11 +5165,24 @@
   "stage": 3
  },
  {
+  "key": "8e5333705cceafd314e1e57a1e69fba4",
+  "original": "Prepper Holdout",
+  "translation": "末日预备者坚守点",
+  "context": "ID: PROF_PREPPER_HOLDOUT\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Mutations/c_bio_mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→PROF_PREPPER_HOLDOUT\n",
+  "stage": 0
+ },
+ {
   "key": "683b5492becfa546921c780f1705f0be",
   "original": "Prepper Household",
   "translation": "准备者家庭",
-  "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
   "stage": 3
+ },
+ {
+  "key": "b79af86d31d17cf798ac95a0121a206e",
+  "original": "Prepper Safehouse",
+  "translation": "末日准备者安全屋",
+  "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
+  "stage": 0
  },
  {
   "key": "48f477a9db326fd8af4402d3685cb5fa",
@@ -5731,6 +5760,13 @@
   "stage": 5
  },
  {
+  "key": "9841af3d7ece6195410d58d861a90603",
+  "original": "Safehouse",
+  "translation": "安全屋",
+  "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
+  "stage": 0
+ },
+ {
   "key": "1d772d6636f7e7506b309bbd824ce01c",
   "original": "Scavenged the kit along the way.  I wouldn't still be alive if I wasn't both resourceful and lucky.  I'd rather not talk about what I've had to go through to survive, at least not right now.  Okay?",
   "translation": "一路上搜刮装备。如果我不是机智又幸运，我就不会活到现在。我不想谈论我为了生存所经历的一切，至少现在不是时候。好吗?",
@@ -5743,6 +5779,13 @@
   "translation": "生物武器实验室的安全漏洞……实际上可能是伊芙琳，而不仅仅是那里的生物武器。",
   "context": "ID: TALK_MSCI_PROOF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_MSCI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_MSCI_PROOF\n",
   "stage": 3
+ },
+ {
+  "key": "be266dedb6a4fbcec6a69464d399117a",
+  "original": "See you later.",
+  "translation": "再见。",
+  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
+  "stage": 0
  },
  {
   "key": "5e30c0f820153c32c7d071c059e8d8e9",
@@ -6363,6 +6406,13 @@
   "translation": "当然，你可以自己清理一下，尽量不要惹恼任何人。如果你有时间，我很感激你的帮助。",
   "context": "ID: TALK_MSCI_ASK_STAY\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_MSCI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_MSCI_ASK_STAY\n",
   "stage": 3
+ },
+ {
+  "key": "043585dd750d0c67c9ee035a2ab6e454",
+  "original": "Sure, let's head out!",
+  "translation": "好的，我们出发吧！",
+  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
+  "stage": 0
  },
  {
   "key": "a1150969a373ddf188dd5455292263f1",
@@ -8357,6 +8407,13 @@
   "stage": 3
  },
  {
+  "key": "7feb4ace79f5601ba4b0287f3a4246d9",
+  "original": "What's up?  Whenever you feel like hitting the road, I'm with you.",
+  "translation": "咋了？只要你有心情上路，我就跟你走。",
+  "context": "ID: TALK_BFF\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Npc/TALK_BFF.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→talk_topic→TALK_BFF\n",
+  "stage": 0
+ },
+ {
   "key": "d05c4423222677ff708f22d094de9088",
   "original": "What's with the badge?  A Bio-Weapon, it says?",
   "translation": "这徽章是怎么回事？上面说是生物武器？",
@@ -8706,10 +8763,16 @@
   "stage": 3
  },
  {
+  "key": "ec089efa326ce45004dd3d81924a68bc",
+  "original": "You knew something was coming, so you made connections with like-minded survivors beforehand to establish safe refuge.  You've made your plans, now it's time to put them into action.",
+  "translation": "你预感到危机即将来临，因此事先与其他志同道合的幸存者建立了联系，共同为安全避难所打下基础。计划已定，现在是将其付诸实施的时刻。",
+  "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
+  "stage": 0
+ },
+ {
   "key": "6e96b13232115ccd4b1df9e7159a3753",
   "original": "You knew something was coming, you prepared, when the dead rose, you knew what to do. With your house now barricaded, it's time to put your plan into action.",
   "translation": "你知道有什么东西要来了，你做好了准备。当死人重新站起来时，你知道自己该做什么。你的房子已经被加固，是时候将你的计划付诸行动了。",
-  "context": "ID: prep_house\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Char_creation/c_scenarios.json\n类型为 scenario\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→scenario→prep_house\n",
   "stage": 3
  },
  {
@@ -9840,6 +9903,20 @@
   "stage": 3
  },
  {
+  "key": "bac6feaae2d4ab34d4a1ba0538c8b62f",
+  "original": "dirt lot",
+  "translation": "空地",
+  "context": "ID: Survivor_Encampment_Lot_Preppers\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Terrain/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→overmap_terrain→Survivor_Encampment_Lot_Preppers\n",
+  "stage": 0
+ },
+ {
+  "key": "a09b37f592c777f955187db8e96ccf44",
+  "original": "dirt road",
+  "translation": "土路",
+  "context": "ID: Survivor_Holdout_2\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Terrain/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→overmap_terrain→Survivor_Holdout_2\n",
+  "stage": 0
+ },
+ {
   "key": "5bca594ea0c09432ed390ff3d3a7a87c",
   "original": "dormitories",
   "translation": "秘密宿舍",
@@ -9885,7 +9962,7 @@
   "key": "06e3d36fa30cea095545139854ad1fb9",
   "original": "field",
   "translation": "旷野",
-  "context": "ID: Plain_Slaughter\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Terrain/overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→overmap_terrain→Plain_Slaughter\n",
+  "context": "ID: b_field\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/legacy.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→overmap_terrain→b_field\n",
   "stage": 5
  },
  {

@@ -1018,7 +1018,6 @@
   "key": "5649ea4a4b09fb1ebc7a737dd2e17805",
   "original": "Black katana",
   "translation": "黑色武士刀",
-  "context": "ID: kr_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_katana\n",
   "stage": 1
  },
  {
@@ -1207,7 +1206,6 @@
   "key": "9f2c93b51e0c344902d048907602d982",
   "original": "Cloud katana",
   "translation": "云纹武士刀",
-  "context": "ID: kr_cloud_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_cloud_katana\n",
   "stage": 1
  },
  {
@@ -1892,9 +1890,9 @@
  {
   "key": "58ea7f2f99af8dbe3ee450bb9b894133",
   "original": "Hm.  The escoltin' our way be less.  This'n'll yark at the Scythy mayhaps.",
-  "translation": "嗯。沿途的护卫少了。这家伙可能会朝斯基瑟人吠叫。",
+  "translation": "嗯，往我们这边跑的人比较少 ，也许这家伙会去找Scythy。",
   "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "302a6555765038c2417c459c6352674b",
@@ -2215,8 +2213,15 @@
   "key": "7ab832e8553616af737d663b6ab63a91",
   "original": "Kurokumo",
   "translation": "黑云会",
-  "context": "ID: kurokumo\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Faqtions/TheyAreBigTheyAreSmall.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→faction→kurokumo\n",
+  "context": "ID: MARTIAL_KR\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→MARTIAL_KR\n",
   "stage": 1
+ },
+ {
+  "key": "05875659c40097d3aee04b19c0608e96",
+  "original": "Kurokumo clan",
+  "translation": "黑云族",
+  "context": "ID: kurokumo\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Faqtions/TheyAreBigTheyAreSmall.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→faction→kurokumo\n",
+  "stage": 0
  },
  {
   "key": "5e96436ff010cc050690792695734bbc",
@@ -2313,14 +2318,12 @@
   "key": "e0a68de13e95cf0dc49e8ecbac2a9a6d",
   "original": "Lab security baton",
   "translation": "实验室镇暴棍",
-  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
   "stage": 1
  },
  {
   "key": "42a24c6ccd26f7a95ff2a547e5e500df",
   "original": "Lab security batons",
   "translation": "实验室镇暴棍",
-  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
   "stage": 1
  },
  {
@@ -4669,6 +4672,13 @@
   "stage": 1
  },
  {
+  "key": "ec4ad52b53eb39ba494ed156c844b086",
+  "original": "black katana",
+  "translation": "黑色武士刀",
+  "context": "ID: kr_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_katana\n",
+  "stage": 0
+ },
+ {
   "key": "1377517dcf6d88f0851473956c26fd24",
   "original": "black necktie",
   "translation": "黑色领带",
@@ -4807,6 +4817,13 @@
   "translation": "文职",
   "context": "ID: lc_clerk_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_clerk_npc\n",
   "stage": 1
+ },
+ {
+  "key": "e23734af2ae583cbec34c85ea4c6eb07",
+  "original": "cloud katana",
+  "translation": "云之武士刀",
+  "context": "ID: kr_cloud_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_cloud_katana\n",
+  "stage": 0
  },
  {
   "key": "e3e90fd6d2a7c4661a1a3acf2f60bc6d",
@@ -5045,6 +5062,20 @@
   "translation": "实验室大衣",
   "context": "ID: lc_labcoat\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→lc_labcoat\n",
   "stage": 1
+ },
+ {
+  "key": "28394e6d6f96af38e4df1840ddcf90ba",
+  "original": "lab security baton",
+  "translation": "实验室安保棍",
+  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
+  "stage": 0
+ },
+ {
+  "key": "1f91238b3e2d5218c803644f3c9bbe35",
+  "original": "lab security batons",
+  "translation": "实验室安保棍",
+  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
+  "stage": 0
  },
  {
   "key": "21420ac9735d087ddc788a20e1f84a42",
@@ -5309,8 +5340,14 @@
   "key": "1312eac2f26039257073ac9c9874964a",
   "original": "sturdy shoulder pad",
   "translation": "坚固的肩垫",
-  "context": "ID: zw_spads\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_spads\n",
   "stage": 1
+ },
+ {
+  "key": "29ce476f19a4b23356c3f6550e76ae06",
+  "original": "sturdy shoulder pads",
+  "translation": "结实的肩垫",
+  "context": "ID: zw_spads\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_spads\n",
+  "stage": 0
  },
  {
   "key": "2dfd03a674d7c1cde1cb567fbd88fbe5",
