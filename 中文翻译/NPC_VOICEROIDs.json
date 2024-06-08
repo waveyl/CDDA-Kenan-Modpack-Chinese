@@ -2,16 +2,16 @@
  {
   "key": "0a0344c872f6ca644f31f426ab484268",
   "original": " *ぐぅぅ～*\nお腹が、お腹が空きました…。\nチョコバーをください…。",
-  "translation": "*咕呜~* \n 我的肚子，好饿啊… \n 请给我巧克力棒…",
+  "translation": "*咕呜~* \n 我的肚子，好饿啊……。\n 请给我巧克力棒……。",
   "context": "ID: TALK_STRANGER_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "345d3c6f7513c4799fadc37ea9f16711",
   "original": " *ぐぅぅ～*\nそ、そんなぁ～…",
-  "translation": "*呃呜～* \n 那、那样子啊～…",
+  "translation": "*咕呜～* \n怎么这样～…",
   "context": "ID: MISSION_KILL_5_Z_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/missiondef_akari.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKARI\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "196d4a5ac6b5d24df5a6edd05e20674e",
@@ -30,14 +30,14 @@
  {
   "key": "e114e16846a818f80c0e6f731ed94b62",
   "original": "&(二、三度大きく深呼吸をする)\n「すいません、もう大丈夫です…ありがとう<u_name>さん。\n私、それが怖くてシェルターから飛び出したんです。実は、そのシェルターには何人か兵士さんが来てくれてたんですけど、走ってる時後ろの方で銃声が何度も聞こえて…。\nシェルターで何度か爆発が起きたんです。何が爆発したのかまではわからないけど…もしかすると兵士さんが持ってた何かに引火したのかも。\nそこからはもう本当に滅茶苦茶で。たくさんの悲鳴の中、何度も転んだり誰かにぶつかりながら逃げたんです。」",
-  "translation": "（深吸几口气，尝试平复情绪）\n \n\"对不起，我已经没事了…谢谢你，<u_name>。\n \n我因为害怕，从避难所里冲了出来。其实，有几位士兵来到了那个避难所，但在逃跑的时候，我多次听到后方传来枪声...\n \n避难所里发生了好几次爆炸，虽然不清楚具体是什么爆炸了…但或许可能是士兵们携带的东西引发了火灾。\n \n之后的情况就变得极度混乱。在一片尖叫和混乱中，我不停地摔倒，又不断地与人碰撞，勉强逃脱。\"",
+  "translation": "（深吸几口气）\n\"对不起，我已经没事了……谢谢你，<u_name>。\n我因为害怕，从避难所里冲了出来。其实，有几位士兵来到了那个避难所，但在逃跑的时候，我多次听到后方传来枪声...\n避难所里发生了好几次爆炸，虽然不清楚具体是什么爆炸了……但或许可能是士兵们携带的东西引发了火灾。\n之后的情况就变得极度混乱。在一片尖叫和混乱中，我不停地摔倒，又不断地与人碰撞，勉强逃脱。\"",
   "context": "ID: TALK_STORY3_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/background_storys_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_IA\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "70c818e889246bcc021edad5644c6a63",
   "original": "&必要アイテム一覧\nアルミニウム屑1個\n充電池(小/高容量)1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
-  "translation": "&必要アイテム一覧\nアルミニウム屑1個\n充電池（小/高容量）1個\n小型液晶ディスプレイ1個\nSDメモリーカード1個\nマザーボード1個",
+  "translation": "&所需物品清单\n铝废料1个\n电池（轻型+）1个\n小型LCD屏幕1个\nSD存储卡1个\n主机板1个",
   "context": "ID: TALK_MAKING_POIPON_U92\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[18]\n",
   "stage": 1
  },
@@ -151,28 +151,28 @@
   "original": "<npc_name>は力を振り絞って立ち上がった！",
   "translation": "<npc_name>拼尽全力，挣扎着站了起来！",
   "context": "ID: EOC_event_lovers_guts_message\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/EOCs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_on_condition→EOC_event_lovers_guts_message\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fc35f51c0ec9a6ca3c078642e0127b31",
   "original": "<npc_name>は頷くと作業を手伝うための準備を始めました。",
   "translation": "<npc_name>点头同意，开始着手准备协助工作。",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4eca6e3dc8156ffdd4b3f069175155a6",
   "original": "<u_name>だね！あーしの名前は<npc_name>って言うの！\nへへっ、これからよろしくね！",
-  "translation": "嘿！你叫<u_name>对吧！我叫<npc_name>哦！\n 嘿嘿，以后请多多关照啦！",
+  "translation": "你叫<u_name>对吧！我叫<npc_name>哦！\n嘿嘿，以后请多多关照啦！",
   "context": "ID: TALK_STRANGER3_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER3_TUMUGI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2cba504bf277cfb46f1f7da9fac54269",
   "original": "<youname_kiritan>腐ってない？話できる？やったー！久しぶりの人間だ！\nあの、良ければわたしも一緒に行動していいですか！？",
-  "translation": "<你名_kiritan>你没腐烂吧？能说话？太好了！好久没见到活人了！\n那个，如果可以的话，我能和你一起行动吗？",
+  "translation": "<youname_kiritan>你没腐烂吧？能说话？太好了！好久没见到活人了！\n那个，如果可以的话，我能和你一起行动吗？",
   "context": "ID: TALK_STRANGER_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_kiri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_KIRITAN\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "14a6e141ec427d713d10e32d130934ca",
@@ -275,9 +275,9 @@
  {
   "key": "52a16f25682a2ecbb0745565596c2cb6",
   "original": "……そう、ですよね。\n大丈夫です、無くした私が悪いので……気にしないでください！",
-  "translation": "是的，您说得对。\n 没关系的，是我弄丢了，所以……请别在意！",
+  "translation": "……也，也对啦。\n 没关系的，都怪我弄丢了……请别在意！",
   "context": "ID: MISSION_KILL_5_Z_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/missiondef_aoi.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AOI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dbb9020323c3900c0a3a2e323d3dcaeb",
@@ -331,51 +331,51 @@
  {
   "key": "80509caccd8a0c29c2e087288b441e66",
   "original": "あ、あったー！！！\nよかった…本当によかったぁ！\nあの、<u_name>さん、本当にありがとうございます！\n……えへへ、実はこれ、昔初めてお小遣いをもらった時にお姉ちゃんと二人でお揃いのやつを買って、お互いに交換した思い出の髪飾りなんです。\nボロボロになってもう付けられないけど……本当に大事な……せやから、おおきにな<u_name>さん。\n……はっ！？わ、私今……あわわっ、いっ！今のは忘れてくださいー！",
-  "translation": "啊，找到了！！！\n 太好了…真是太好了！\n 那个，<u_name>，真的非常感谢你！\n ……嘿嘿，其实这个，是当初第一次拿到零花钱时，我和姐姐一起买了配套的发饰，互相交换的纪念品。\n 虽然现在已经破旧得无法再戴了……但对我来说真的很珍贵……所以，请你收下，<u_name>。\n ……哎呀！？我、我现在……哎呀呀，咦！请忘了刚刚的话吧！",
+  "translation": "啊，找到了！！！\n 太好了…真是太好了！\n 那个，<u_name>，真的非常感谢你！\n ……嘿嘿，其实这个，是当初第一次拿到零花钱时，我和姐姐一起买了配套的发饰，互相交换的纪念品。\n 虽然现在已经破旧得无法再戴了……但对我来说真的很珍贵……所以，谢谢你，<u_name>。\n ……哎呀！？我、我刚刚……哎呀呀，请！请忘了刚刚的话吧！",
   "context": "ID: MISSION_KILL_5_Z_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/missiondef_aoi.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AOI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5ed30eddb36be621f6dfeaf37309dae3",
   "original": "あ、あの！\nすいません、ちょっとお聞きしたいんですけど私にそっくりな女の子知りませんか？\n双子の姉なんですけど、はぐれてしまって連絡も取れないんです……！",
   "translation": "啊，那个！\n 不好意思，能打扰一下问您个事吗？您知道一个和我长得一模一样的女孩吗？\n 她是我的双胞胎姐姐，可是走散了，现在完全联系不上……！",
   "context": "ID: TALK_STRANGER_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AOI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5eba052e297d8413138a8e4951a0ed93",
   "original": "あ、はい。えっと…どこから話せばいいのかな。\n私、実は日本から友達と妹と一緒に遊びに来たんです。それで、まあ…こんな形で大変なことになっちゃったんだけど…あはは。\n実は結構大人数なんですよっ！友達の友達も集まっちゃって、ちょっとした修学旅行みたいになってたんです。\nそれで、自由行動を取っていた時に…\n仲のいい数人と妹と一緒にいたんですけど…。",
-  "translation": "啊，好的。嗯…从哪里开始说好呢。\n 其实，我是和朋友还有妹妹从日本一起来这里游玩的。然后，嗯…没想到会变成这样棘手的情况呢…哈哈。\n 实际上我们是挺多人一起来的！朋友们的朋友也聚在一起，搞得有点像小型修学旅行了。\n 结果，在自由活动的时候…\n 我正和几个关系好的朋友以及妹妹在一起…。",
+  "translation": "啊，好的。嗯……从哪里开始说好呢。\n 其实，我是和朋友还有妹妹从日本一起来这里游玩的。然后，嗯……没想到会变成这样棘手的情况呢……哈哈。\n 实际上我们是挺多人一起来的！朋友们的朋友也聚在一起，搞得有点像小型修学旅行了。\n 结果，在自由活动的时候……\n 我正和几个关系好的朋友以及妹妹在一起……。",
   "context": "ID: TALK_STORY_V1_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/background_storys_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY_V1_IA\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a7a5ab96ed87dfe817b3a57c5db92573",
   "original": "あ、はい。それで…そちらから走ってくる、粉まみれになった人たちとぶつかったんです。\nなんだかみんな怯えてて、化け物がいる、とかキノコが歩いてる、って叫んでて。\nふふっ、歩くキノコなんて面白いじゃないですか！\nその時は危ないなんて全く思わなかったので、そのまま爆発のあった方に向かったんです。\nそうしたら、ほんとに歩くキノコがいたんです！",
-  "translation": "啊，是的。然后…我遇到了从那边跑过来的，满身尘土的人们。\n 大家似乎都很害怕，喊着有怪物出没、蘑菇在走路之类的话。\n 呵呵，会走路的蘑菇不是很有趣吗！\n 那时我完全没有觉得危险，于是就直接朝爆炸发生的方向去了。\n 结果，真的有会走路的蘑菇在那里！",
+  "translation": "啊，是的。然后……我遇到了从那边跑过来的，满身粉尘的人们。\n 大家似乎都很害怕，喊着有怪物出没、蘑菇在走路之类的话。\n 呵呵，会走路的蘑菇不是很有趣吗！\n 那时我完全没有觉得危险，于是就直接朝爆炸发生的方向去了。\n 结果，真的有会走路的蘑菇在那里！",
   "context": "ID: TALK_STORY3_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/background_storys_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "02b05541dc8e1d5f1a2149a9bbeb7736",
   "original": "あ、生存者さん。　ちょっと相談したいことがあるんですけども、私、妹を探してるって言いましたよね？　実はFEMAキャンプっていうのがあるって知りまして。　それで、もしよければ一緒にそこまで行ってもらえませんか？　もしかしたらONEちゃんそこに非難してるかも……。　一人じゃちょっと不安なんで、デートのつもりでお願いします！",
-  "translation": "啊，幸存者先生/女士。有点事情想和您商量一下，我之前提到过我在找我的妹妹对吧？其实我听说有个叫做FEMA营地的地方。所以，如果您不介意的话，能和我一起去那里吗？可能ONE酱会在那里...遭到指责什么的。我一个人去有点担心，就当是约会吧，拜托了！",
+  "translation": "啊，幸存者。有点事情想和您商量一下，我之前提到过我在找我的妹妹对吧？其实我听说有个叫做联邦应急管理局营地的地方。所以，如果您不介意的话，能和我一起去那里吗？说不定ONE酱在那里避难……。我一个人去有点担心，就当是约会吧，拜托了！",
   "context": "ID: MISSION_REACH_FEMA_CAMP_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/missiondef_ia.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_REACH_FEMA_CAMP_IA\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8d27b7ba9a1ebc62cfb5e3ce87f98a1d",
   "original": "あ、終わりました？",
   "translation": "啊，结束了吗？",
   "context": "ID: MISSION_KILL_30_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_30_Z\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b9f3ae3285fe653f272ade02de11cdd5",
   "original": "あ、見つかりました！？",
   "translation": "啊，找到了！？",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d07592e1db3e068e4b26281f88997c36",
@@ -429,9 +429,9 @@
  {
   "key": "79bae29fd701311b1a9e5c8904d5db6a",
   "original": "あちゃー、すまん。\nこっちまだ見つかってへん...。\nもうちょいお願いしてもええかな？",
-  "translation": "哎呀，对不起。\n 这边还没被发现呢...。\n 能不能再稍微等等我？",
+  "translation": "哎呀，对不起。\n我这边还没找到呢……。\n能不能再稍微等等我？",
   "context": "ID: MISSION_KILL_5_Z_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/missiondef_akane.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "26debd7a69ee49cd7470c52a4eb133a3",
@@ -450,9 +450,9 @@
  {
   "key": "1e456b417ed0adfb2fcf720e69ea98e9",
   "original": "あなたが治療薬を飲むのを見届けると、<npc_name>はにっこり笑って目を閉じました。\nその後、<npc_name>の目が再び開くことはありませんでした…。",
-  "translation": "当你亲眼目睹<npc_name>喝下疗愈药物后，他露出了微笑，缓缓闭上了眼睛。但随后，<npc_name>的眼睛再也没有睁开过……",
+  "translation": "<npc_name>看着你喝下疗愈药物后，露出了微笑，缓缓闭上了眼睛。\n但随后，<npc_name>的眼睛再也没有睁开过……。",
   "context": "ID: TALK_LOVE_IS_OVER_2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "249ea34400e0e3276bff41c4e2b42641",
@@ -478,37 +478,37 @@
  {
   "key": "5b8c4ded3300809a79cd86cd531a248f",
   "original": "あなたは命の恩人です！\nチョコのお礼に一緒に行動してあげましょう！\nなのでもっと食べ物ください！",
-  "translation": "您是我的救命恩人！作为巧克力的回礼，我将与您同行！不过，请再给我一些食物吧！",
+  "translation": "您是我的救命恩人！\n作为巧克力的回礼，我将与您同行！\n所以请再给我一些食物吧！",
   "context": "ID: TALK_STRANGER3_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER3_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b59502fa3327a7415b3e8290b4cc5446",
   "original": "あの、馬鹿には見えない充電池、とか笑えないんでやめてくださいね？",
-  "translation": "那个，不要开一些明显愚蠢的玩笑，比如什么看不见的充电电池之类的，好不好？",
+  "translation": "那个，笨蛋看不见的电池什么的一点也不好笑，请不要开这种玩笑好不好？",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "764e029038b8e6a7456eea117330353b",
   "original": "ありがとうございます！\nじゃあわたしはここでゲームしながら待ってるのでバッテリーが切れる前にお願いしますね。\n……え、手伝えって？ 嫌ですよ、死んじゃったらどうするん……ああ、ちょっと引っ張らないで！\n嫌だ―！ わたしは働かないぞー！",
-  "translation": "谢谢啦！\n 那我就在这儿边玩游戏边等了，趁着电池还没耗尽，快点回来哦。\n ……哎，让我传话？真不愿意啊，要是我死了可怎么办……喂，别扯那么远！\n 不要——！我可不想工作呀！",
+  "translation": "谢谢啦！\n 那我就在这儿边玩游戏边等了，趁着电池还没耗尽，快点回来哦。\n ……哎，让我帮忙？不要啦，要是我死了可怎么办……喂，别拽我啊！\n 不要——！我可不想工作呀——！",
   "context": "ID: MISSION_KILL_10_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_10_Z\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9ed83edfbe25c3f74b92989f9778471e",
   "original": "ありがとうございます！ これでちょっとは静かになったような気がしますね！ さて、それじゃあわたしのためにポテチ作ってくれてもいいんですよ？",
-  "translation": "太好了！感觉好像稍微安静一点了呢！那么，你能为我做点薯片吗？",
+  "translation": "谢谢！感觉好像稍微安静一点了呢！那么，你能为我做点薯片吗？",
   "context": "ID: MISSION_KILL_10_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_10_Z\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "84e9da3ad1eb1edc3725514debbf3168",
   "original": "ありがとうございます！ これで電池の心配は無くなりましたね！ さて、それじゃあわたしはのんびりゲームしてるので良ければ一緒に遊びませんか？",
-  "translation": "太好了，这样一来就不必担心电池问题了！那么，如果你愿意，我可以轻松地玩游戏，你能和我一起玩吗？",
+  "translation": "谢谢！这样一来就不必担心电池问题了！那么，我就悠闲地打游戏啦，愿意的话要和我一起玩吗？",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a80b5cc24a52748078115720765cf57a",
@@ -534,16 +534,16 @@
  {
   "key": "8911910063d55495a4df24963612beaa",
   "original": "ありがとう！　よーし、これならONEちゃんをなんとか探しに行けるかも！",
-  "translation": "太好了！这样一来，我们或许就能找到办法去营救ONE酱了！",
+  "translation": "谢谢！好嘞，这样一来说不定就能去找ONE酱了！",
   "context": "ID: MISSION_KILL_5_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/missiondef_ia.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "133311c876143e17170f19ff8e03cbe0",
   "original": "ありがとなー！こっちも無事見つかったでー！\nいやー、これ小っちゃい頃に葵からもらったプレゼントでなー。\n双子やから誕生日同じやしーってプレゼント交換でおんなじ柄で色違いのリボンをプレゼントし合ったんよ。\nだからすんごく大事な物だったから無くさずに済んでほんま良かったで！\n改めて協力してくれてありがとうな、<u_name>！\n（感極まったのか急に<npc_name>はあなたに抱きついてきた）",
-  "translation": "太好了！这边也平安无事地找到了哦！\n  \n哎呀，这个是我小时候从葵那里收到的礼物呢。\n  \n因为是双胞胎，所以生日一样，我们就交换了礼物，给了对方同款不同色的蝴蝶结。\n  \n所以这东西对我来说特别珍贵，能没弄丢真是太好了！\n  \n再次感谢你的协助，<u_name>！\n  \n（或许是因为感动，<npc_name>突然扑过来抱住了你）",
+  "translation": "太好了！这边也平安无事地找到了哦！\n哎呀，这个是我小时候从葵那里收到的礼物呢。\n因为是双胞胎，所以生日一样，我们就交换了礼物，给了对方同款不同色的蝴蝶结。\n所以这东西对我来说特别重要，最终没弄丢真是太好了！\n再次感谢你的协助，<u_name>！\n（或许是因为感动，<npc_name>突然扑过来抱住了你）",
   "context": "ID: MISSION_KILL_5_Z_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/missiondef_akane.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d6b31d6c50e56c7a6c4b4ddebe9b01bf",
@@ -555,9 +555,9 @@
  {
   "key": "0ed4d8f3774aca8d01844193fca03c49",
   "original": "あれ、食事の時間はまだでは…あ、おやつですか？",
-  "translation": "哎，还没到吃饭时间吗...啊，是零食吗？",
+  "translation": "哎，还没到吃饭时间吧……啊，是零食吗？",
   "context": "ID: TALK_EAT_ITEM_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_band_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7fb7429701ccbcbdaee4175092efb7a4",
@@ -569,9 +569,9 @@
  {
   "key": "5306ac996cca3d07f21add36e6beec4f",
   "original": "あー、あん時なぁ...。\n大変動が起きた直後のことはよう覚えてへんのよな。\n友達と葵...ああ、葵ってのはうちの妹な？\n友達と葵と、何人かで買い物してたんやけど、そん時に急に地震が起きてな。\nかなり大きかったからこれはあかんねってことで避難しようとしてたんよ。\nで、近場のシェルターに向かってたんやけど...前の方から走って逃げてくる人波に攫われて、うちだけ葵達とはぐれてしもたんよ",
-  "translation": "哎呀，那个时候啊...\n 大变动刚发生不久的事情，记得不太清楚了。\n 和朋友还有葵...对了，葵是我的妹妹来着？\n 我们几个人正一起购物，突然间地震就来了。\n 震级相当大，感觉不妙，于是我们打算去避难。\n 正朝着附近的避难所走，结果被从前面狂奔而来的逃生人群冲散，我不知不觉就跟葵他们走丢了。",
+  "translation": "哎呀，那个时候啊...\n大灾变刚发生不久的事情，记得不太清楚了。\n和朋友还有葵...对了，葵是我的妹妹哦？\n我们几个人正一起购物，突然间地震就来了。\n震级相当大，感觉不妙，于是我们打算去避难。\n正朝着附近的避难所走……结果被从前面狂奔而来的逃生人群冲散，我不知不觉就跟葵他们走丢了。",
   "context": "ID: TALK_STORY1_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/background_storys_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY1_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c06f5b8eb3b824ce489512439ca8a066",
@@ -611,16 +611,16 @@
  {
   "key": "ed9729528078a0fffeda64efe3e3cdf6",
   "original": "あー！オタクちゃんだ！キミもこっち来てたんだね！\n友達に会えてほっとしたよー！",
-  "translation": "啊！宅男小弟！你也来这边了啊！\n 能见到朋友真是太让人松一口气了！",
+  "translation": "啊！是宅宅酱！你也来这边了啊！\n能见到朋友真是太让人松一口气了！",
   "context": "ID: TALK_STRANGER_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_TUMUGI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8c7e4f96e3b0ee2a0ba6a4a2909993a8",
   "original": "あー！オタク君だ！キミもこっち来てたんだね！\n知り合いに会えてほっとした～！",
-  "translation": "啊！是宅男君！你也来这边了啊！\n 能见到熟人真是松了口气～！",
+  "translation": "啊！是宅宅君！你也来这边了啊！\n 能见到熟人真是松了口气～！",
   "context": "ID: TALK_STRANGER_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/talk_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_TUMUGI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b5970a1b4697668589599183841f8a29",
@@ -632,9 +632,9 @@
  {
   "key": "f49ec5b96fbaa6c98535c7c576548828",
   "original": "いいところに来ましたね<u_name>さん！\nあなたが以前ビリビリに破いた私の著書、覚えてますか？覚えてますよね！\nあれから改良を加えベテランサバイバーの指南書2を作ってるんです。\nそれでですね、私の指南書をより完璧にするために、<u_name>さんには実際に一緒に戦って検証してほしいんです。\n嫌とは言わせませんよ、なんたって私の指南書1号を破いたんですからね！",
-  "translation": "<u_name>先生，您来得正是时候啊！\n 您还记得吗？您曾经在B站上吐槽过的我的著作。当然记得对吧！\n 从那以后，我一直在对它进行改进，正在创作《资深生存者指南2》。\n 所以呢，为了使我的指南更加完美，我非常希望<u_name>先生能与我并肩作战，亲自验证一下。\n 您可逃不掉哦，毕竟您可是破解了我第一版指南的人呐！",
+  "translation": "<u_name>，您来得正是时候啊！\n 还记得吗？您曾经把我写的书撕得粉碎。当然记得对吧！\n 从那以后，我对它进行改进，创作了《资深生存者指南2》。\n 所以呢，为了使我的指南更加完美，希望<u_name>能与我并肩作战，亲自验证一下。\n 您可逃不掉哦，毕竟您可是撕了我的《指南1》呐！",
   "context": "ID: MISSION_KILL_5_Z_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/missiondef_yukari.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_YUKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "43f76de434659bf545efec0a5fcc256c",
@@ -653,9 +653,9 @@
  {
   "key": "a2c1b3a2443b094daf6b0061779e22f6",
   "original": "いえ、その人の話だと何かの研究員だったって言ってました。確か…真菌って言ってたかな？\nそれで、その人と一緒に街外れまで逃げたんですけど…途中で見たものはだいたい<u_name>さんも見たんじゃないかな？\n街外れの家まで逃げて一息ついた後、研究員さんに何をしてたのか問い詰められました。\nまあ隠すことでもないかなーって思って全部話したんですけど、それはもう怒られましたね。その後、何か薬を飲まされて、『ここは大丈夫だから少し寝てなさい』って言われたんです。\n色々起こったせいで疲れちゃって…お言葉に甘えて少し眠ったんですけど、目を覚ましたら研究員さんはどこにもいなくて。\n探しに外に出たら…研究員さん、死んじゃってました。",
-  "translation": "不，据那个人说，他之前是个研究员之类的。对了…是提到了真菌，对吧？\n\n然后，我和那个人一起逃到了城郊…沿途所见，大概<u_name>你也见识过了吧？\n\n逃到城郊的一栋房子后，总算能喘口气了，那个研究员就开始追问我在那之前都干了些什么。\n\n我想着也没什么好隐瞒的，就全盘托出了，结果却惹他生气了。接着，他让我服用了某种药物，并说“这里安全，你先休息一下”。\n\n因为经历了太多事，实在疲惫不堪…我就听从他的话，小憩了一会儿。但醒来时，研究员已经不见了踪影。\n\n我出去寻找，却发现研究员已经死了。",
+  "translation": "不，据那个人说，他之前是个研究什么的研究员。对了…说是真菌来着？\n然后，我和那个人一起逃到了城郊……沿途所见，大概<u_name>你也见识过了吧？\n逃到城郊的一栋房子后，总算能喘口气了，那个研究员就开始追问我在那之前都干了些什么。\n我想着也没什么好隐瞒的，就全盘托出了，结果却惹他生气了。接着，他让我服用了某种药物，并说“这里安全，你先休息一下”。\n因为经历了太多事，实在疲惫不堪……我就听从他的话，小憩了一会儿。但醒来时，研究员已经不见了踪影。\n我出去寻找……却发现研究员已经死了。",
   "context": "ID: TALK_STORY5_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/background_storys_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY5_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "50bd9e4c316a7db480abb3a5fddea8ba",
@@ -667,9 +667,9 @@
  {
   "key": "fb2381aaed64a989fbe2d4d5d244d5d6",
   "original": "いやー、それはうちにはわからんなぁ...。\nもし葵に会えたら知ってるかもしれんけど...ああ、なんかブロブがどうとか言うてたな。\nまあ、それでその人波に流されて、なんとか自力で這い出したと思った時には林の近くにおってな。\nそんで、落ち着いて周りを見渡してみたら妙なことに気が付いたんや",
-  "translation": "哎呀，这个我们可不清楚呢...要是能见到葵的话，也许她会知道些什么...对了，好像听谁提过Blob那边有什么情况来着。\n嘛，总之你就随波逐流，好不容易自己爬出来后，就发现自己到了森林附近。然后呢，等你平静下来，环顾四周时，发现了一件奇怪的事情。",
+  "translation": "哎呀，这个我可不清楚呢……\n要是能见到葵的话，也许她会知道些什么……对了，好像说是变形怪什么的。\n嘛，然后我被人流带着走，好不容易自己爬出来后，发现到了森林附近。\n然后呢，等我平静下来环顾四周时，发现了一件奇怪的事情。",
   "context": "ID: TALK_STORY2_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/background_storys_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY2_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "44621b0961364d5fe09c483b879ca167",
@@ -688,9 +688,9 @@
  {
   "key": "de8866563e567956f1f4a981bc433ecb",
   "original": "うん、キミに会う一週間くらい前だよ。夜、眠っていたら急に悲鳴と怒号が聞こえてきたのは。\n外に出たら小さい、虫…とも違う平たくて白い何かが見張りをしてた人や騒ぎを聞いて外に出てきた人を襲ってたんだ。\nあーしはそれが現実に見えなくて呆然とそれを眺めてた。\nだって、さっきまで一緒にご飯食べて冗談言って笑ってた人たちだよ？\nおやすみ、また明日ーなんて笑って別れた人が目の前で食いちぎられて、変な化け物が吐き出した液体でドロドロに溶けていくのは……ちょっと現実味無かったな。\nそれをぼーっと眺めてたら、最初に話に出てきたおじさんに思いっきりほっぺ叩かれてさ、それであーしも我に返ってテントから荷物を入れてたバッグだけ持ち出して急いで逃げたんだ。",
-  "translation": "嗯，那是在遇见你前一周左右的事。夜里，我正熟睡时，突然被尖叫声和咆哮声惊醒。出去一看，发现有些既小又扁平、白色但又不像是虫子的东西在四处巡逻，并袭击了那些听到动静而出来的人们以及在场的人。我当时完全无法相信眼前的一切，只是愣愣地看着这一幕。要知道，那些刚才还一起吃饭、开玩笑、欢笑的人们... 然而，刚才还笑着道别说明天见的人，转眼间就在眼前被撕咬，被那些怪物吐出的液体弄得黏糊糊地溶解掉，这一切都太不真实了。我呆呆地看着这一切，直到最初出现的那个大叔猛地拍了我的脸颊，我才回过神来，急忙从帐篷里抓起装有行李的背包逃走了。",
+  "translation": "嗯，那是在遇见你前一周左右的事。夜里，我正熟睡时，突然被尖叫声和咆哮声惊醒。\n出去一看，发现有些既小又扁平、白色但又不像是虫子的东西，袭击了那些负责警戒和听到动静出来的人。\n我当时完全无法相信眼前的一切，只是愣愣地看着这一幕。\n因为，那可是刚才还一起吃饭、开玩笑、欢笑的人们……\n刚才还笑着道别说晚安明天见的人，转眼间就在眼前被撕咬，被那些怪物吐出的液体弄得黏糊糊地溶解掉……这一切都太不真实了。\n我呆呆地看着这一切，直到最开始提到的那个大叔猛地拍了我的脸颊，我才回过神来，急忙从帐篷里抓起装有行李的背包逃走了。",
   "context": "ID: TALK_STORY4_TUMUGI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/TUMUGI/background_storys_tumugi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY4_TUMUGI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "59e44428bc915e59c2f14f3a35c87d46",
@@ -702,9 +702,9 @@
  {
   "key": "d11d17655bf8acf71269291d8bf4a1fa",
   "original": "うん？\n食べ物なんて…なんや気ぃ使わせてごめんな？",
-  "translation": "嗯？\n...食物什么的...哎呀，别提了，真是不好意思啊。",
+  "translation": "嗯？\n食物啊……不好意思啊，给你添麻烦了？",
   "context": "ID: TALK_EAT_ITEM_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_band_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fddb685b13ba8d3ac57c245b44435db1",
@@ -751,30 +751,30 @@
  {
   "key": "281d5854159e4df2b3b4e88f26090dc9",
   "original": "お、おやつの時間ですか？",
-  "translation": "哦，是时候对付那些家伙了吗？",
+  "translation": "哦，是点心时间吗？",
   "context": "ID: TALK_EAT_ITEM_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_band_kiritan.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "810fc4e6ad8189925becf0ac6abca656",
   "original": "おお、人や！\n良かった～～！！\nうちの名前は琴葉茜や、一人で困ってたやんけど、君が良ければ一緒に行動してくれへんかな？",
-  "translation": "哦，是人啊！\n 太好了～～！！\n 我叫琴叶茜，一个人挺为难的，如果你愿意的话，能不能和我一起行动呢？",
+  "translation": "哦，是人啊！\n太好了～～！！\n我叫琴叶茜，一个人挺为难的，如果你愿意的话，能不能和我一起行动呢？",
   "context": "ID: TALK_STRANGER_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/talk_akane.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f4858130e08c0168ac24a057093fd01e",
   "original": "おおきにな、<u_name>！",
-  "translation": "长大了，<u_name>！",
+  "translation": "谢谢你啊，<u_name>！",
   "context": "ID: MISSION_KILL_5_Z_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/missiondef_akane.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f67f12bc3d6e59fe90c5b596bdd38744",
   "original": "おかげさまで無事見つかり……ませんでした！\n手伝ってくれて本当にありがとう、<u_name>さん。\n（……そう言って笑う彼女の口元に着いた食べかすについて、何も言わないことにした。）",
-  "translation": "多亏了你，我并没……有安然无恙地被找到！\n 真的非常感谢你的帮助，<u_name>。\n （……对于她笑着时嘴角挂着的食物残渣，我决定什么也不说。）",
+  "translation": "多亏了你，我平安无事地……没有找到！\n真的非常感谢你的帮助，<u_name>。\n （……对于她笑着时嘴角挂着的食物残渣，我决定什么也不说。）",
   "context": "ID: MISSION_KILL_5_Z_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/missiondef_akari.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a0d507168c17fb77ab1ddff994b2b026",
@@ -786,9 +786,9 @@
  {
   "key": "d911af37eb6ef78d26650d42385363f9",
   "original": "おっ？\nなんか気になることでもあった？",
-  "translation": "嗯？\n，有什么事情让我在意的吗？",
+  "translation": "嗯？\n有什么在意的事吗？",
   "context": "ID: MISSION_KILL_5_Z_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/missiondef_akane.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKANE\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "14fca241637fe330c6530ec0987b9387",
@@ -814,9 +814,9 @@
  {
   "key": "711f3b392807e70f52f9f6b850f5eda1",
   "original": "こちらはまだ見つかってないのでもう少しお願いします。",
-  "translation": "这个还没有找到，请再帮我找一会儿。",
+  "translation": "我这边还没找到，请再等我一会儿。",
   "context": "ID: MISSION_KILL_5_Z_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/missiondef_akari.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c94d9f2dc9e82120656c310e78ddbcc4",
@@ -1542,9 +1542,9 @@
  {
   "key": "b9529a99440521d925faa9c0fcc86492",
   "original": "ゲームに夢中になりすぎて。乾電池が切れちゃいました！ やっぱり使い捨てはダメですね……。 申し訳ないんですけど充電池(小)を5個ほど持ってきてもらえませんか？",
-  "translation": "ゲームに夢中になりすぎて。乾電池が切れちゃいました！ やっぱり使い捨てはダメですね……。 申し訳ないんですけど充電池(小)を5个ほど持ってきてもらえませんか？",
+  "translation": "太沉迷于游戏，电池没电了！果然一次性电池不行啊……。抱歉，能不能给我带5个电池（轻型）来？",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "29726090b39269a1ee7e0579450e38b8",
@@ -1591,7 +1591,7 @@
  {
   "key": "cbcd38657cc2c61be8d311b3e73012f9",
   "original": "ゾンビさんはどうにかできました？",
-  "translation": "丧尸们不知怎的做到了。",
+  "translation": "丧尸解决了吗？",
   "context": "ID: MISSION_KILL_5_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/missiondef_ia.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z\n",
   "stage": 1
  },
@@ -1605,14 +1605,14 @@
  {
   "key": "2ee507ae0abd9153b6a7efab426525b7",
   "original": "ゾンビを10体静かにさせてください",
-  "translation": "请让我安静地处理十只丧尸。",
+  "translation": "请让10只丧尸安静下来",
   "context": "ID: MISSION_KILL_10_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_10_Z\n",
   "stage": 1
  },
  {
   "key": "af532c51217b2c6659f9f4b381c8bb12",
   "original": "ゾンビを15体黙らせてください",
-  "translation": "请制伏15只丧尸。",
+  "translation": "请让15只丧尸闭嘴",
   "context": "ID: MISSION_KILL_15_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_15_Z\n",
   "stage": 1
  },
@@ -1920,7 +1920,7 @@
  {
   "key": "d606fb91f1816e131cb3504717ad5c46",
   "original": "充電池(小)を5個持ってきてください！",
-  "translation": "充電池(小)を5个持ってきてください！",
+  "translation": "请带给我5个电池（轻型）！",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
   "stage": 1
  },
@@ -1968,30 +1968,30 @@
  {
   "key": "76da77e08640f8b554e6e0630559b0e4",
   "original": "咬まれた時には感染症に注意せなあかんよ。\nこれはゾンビだけの話や無いけど、虫なんかに咬まれた時も注意が必要やで",
-  "translation": "被咬时可得小心传染病哦。\n 这不仅仅是丧尸的问题，被虫子之类咬了也得留神。",
+  "translation": "被咬时可得小心感染哦。\n不止是丧尸，被虫子之类咬了也得留神。",
   "context": "ID: MISSION_KILL_5_Z_AKANE\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKANE/missiondef_akane.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_AKANE\n",
   "stage": 1
  },
  {
   "key": "9f6e624d757c68d197af5d678dbfa954",
   "original": "大丈夫だ、落ち着いて。ここに君を悪く言うやつなんていないさ。",
-  "translation": "没问题，冷静点。这里没人会说你坏话的。",
+  "translation": "没关系，冷静点。这里没人会责怪你。",
   "context": "ID: TALK_STORY2_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/background_storys_ia.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY2_IA\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f0f189e6944ec0f41a5409fc7da14e85",
   "original": "大変動が起きた、と",
-  "translation": "巨变已生，曰",
+  "translation": "发生了大灾变",
   "context": "ID: TALK_STORY3_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/background_storys_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_YUKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "516c01f23e7940c0f3fec36fbe21dd08",
   "original": "大変動が起こった……ですか？\nええと、話して信じてもらえるかな……。",
-  "translation": "发生了巨大的变动……是吗？\n 呃，你能相信我所说的吗……",
+  "translation": "发生了大灾变……是吗？\n 呃，你能相信我所说的吗……",
   "context": "ID: TALK_STORY1_AOI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/background_storys_aoi.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY1_AOI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e1c0bff2921cba5ae63fe1903303b7f7",
@@ -2066,9 +2066,9 @@
  {
   "key": "72777a1ca68b29d432a7a8f49a032d31",
   "original": "子供でも特別扱いは出来ないぞ。\nそれでも良ければ一緒に来るといい。",
-  "translation": "即使是孩子也不能得到特殊对待哦。\n 但如果你愿意，尽管如此还是欢迎你一起来。",
+  "translation": "即使是孩子也不能得到特殊对待哦。\n这样也没问题的话就一起走吧。",
   "context": "ID: TALK_STRANGER_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_kiri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER_KIRITAN\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9f8742a3b6ec19ef27f30bb332ff66f1",
@@ -2115,14 +2115,14 @@
  {
   "key": "8e5c77c9613d649a0564c9114ae91c8b",
   "original": "後何体…？\n後何体倒せばいいんだっけ…？",
-  "translation": "后来怎么样了……？\n 后来该击倒哪个才好呢……？",
+  "translation": "还有几只……？\n还要干掉几只来着……？",
   "context": "ID: MISSION_KILL_5_Z_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/missiondef_yukari.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z_YUKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "de0d19b935ccb3836aca0402d5af3ae1",
   "original": "必要アイテム一覧\n磁電管3個\nパイプ1個\n増幅回路1個\n廃電子機器5個\n鋼鉄塊3個",
-  "translation": "必要アイテム一覧\n磁電管3個\nパイプ1個\n増幅回路1個\n廃電子機器5个\n鋼鉄塊3個",
+  "translation": "所需物品清单\n磁控管3个\n钢管1个\n电流放大电路1个\n电子废料5个\n钢块3个",
   "context": "ID: TALK_MAKING_HM12\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_make_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[16]\n",
   "stage": 1
  },
@@ -3081,9 +3081,9 @@
  {
   "key": "475c1a1812b362654e81e54a08999481",
   "original": "電話くらいしましたー！でも、その時には既に電話が通じなくなってたんです。\nそれで、もしはぐれたら落ち合おう、ってなってた場所があったんですけど…まあ、迷子になってるのでどこにあるのかわかりませんよね。\nそれで、警察署で道を聞こうと思って移動してる最中に…",
-  "translation": "我们本打算用电话联系的！但那时电话已经不通了。\n 所以，我们约定了如果走散了就在一个地点集合...不过现在我成了迷路的孩子，自然不知道那地方在哪。\n 于是，我正打算去警察局问问路，结果...",
+  "translation": "电话还是打过的！但那时电话已经打不通了。\n所以，我们约定了如果走散了就在一个地点集合……不过我迷路了，自然不知道那地方在哪。\n于是，我正打算去警察局问问路，结果在路上……",
   "context": "ID: TALK_STORY3_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/background_storys_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_YUKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9df5fae7c7ce23eba02b1f83d6729536",
@@ -3137,9 +3137,9 @@
  {
   "key": "a9962f83583d3749c201fa79ba118a75",
   "original": "！！！！！！\nはぐっ！もぐもぐもぐもぐ…\nお、おいしー！！！",
-  "translation": "！！！！！！ \n 呀嘞嘞！咕噜咕噜咕噜… \n 哇，真好吃！！！",
+  "translation": "！！！！！！ \n 啊呜！嚼嚼嚼嚼……\n 哇，真好吃！！！",
   "context": "ID: TALK_STRANGER2_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER2_AKARI\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e2c63f8ad0ba227184a59f0d3203a0fc",
@@ -3158,9 +3158,9 @@
  {
   "key": "d2fb66b68300535fa89cbf478c2bf58a",
   "original": "［アホ毛の先までしおしおになって］そんなぁ……。　うぅ、これじゃあONEちゃん探しに行けないよぅ……。",
-  "translation": "哎呀，全身都湿透了呢……呜，这样子可没法去找ONE酱啊……",
+  "translation": "［呆毛尖都蔫了］怎么这样……。呜，这样子可没法去找ONE酱啊……。",
   "context": "ID: MISSION_KILL_5_Z\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/missiondef_ia.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_KILL_5_Z\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9be28daf6d462454ca01e712306331b4",
