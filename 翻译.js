@@ -1329,6 +1329,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     item.verb = await translateFunction(item.verb);
   };
   translators.weakpoint_set = weakpoint_set;
+  translators.body_part = async (item) => {
+    item.name = await translateFunction(item.name);
+    item.name_multiple = await translateFunction(item.name_multiple);
+    item.accusative.str = await translateFunction(item.accusative.str);
+    item.heading = await translateFunction(item.heading);
+    item.heading_multiple = await translateFunction(item.heading_multiple);
+    item.encumbrance_text = await translateFunction(item.encumbrance_text);
+    item.smash_message = await translateFunction(item.smash_message);
+    if(item?.hp_bar_ui_text){
+      item.hp_bar_ui_text = await translateFunction(item.hp_bar_ui_text);
+    }
+  }
   
 
   return translators;
