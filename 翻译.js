@@ -887,11 +887,23 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
           if (typeof item?.no === 'string') {
             item.no = await translateFunction(item.no);
           }
-          if (typeof item?.no === 'object'){
-            let now = item.no
-            while(now?.no && typeof now.no !== 'string'){
-              now.yes = await translateFunction(now.yes);
-              now = now.no;
+          let now;
+          if(typeof item?.yes === 'object' || typeof item?.no === 'object'){
+            if(typeof item?.yes === 'object'){
+              now = item.yes
+            }
+            if(typeof item?.no === 'object'){
+              now = item.no
+            }
+            while (now?.yes === 'object' || typeof now?.no === 'object'){
+              if(typeof now?.yes === 'object'){
+                now.no = await translateFunction(now.no);
+                now = now.yes
+              }
+              if(typeof now?.no === 'object'){
+                now.yes = await translateFunction(now.yes);
+                now = now.no
+              }
             }
             if(now?.yes){
               now.yes = await translateFunction(now.yes);
