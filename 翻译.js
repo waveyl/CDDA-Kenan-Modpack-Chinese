@@ -1264,8 +1264,13 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   translators.skill = namePlDesc;
   translators.snippet = async (item) => {
     if (Array.isArray(item.text)) {
-      item.text = await Promise.all(item.text.map((msg) => translateFunction(msg)));
-      item.text.text = await Promise.all(item.text.text.map((msg) => translateFunction(msg)));
+      for (const text of item.text){
+        if (typeof text === 'string'){
+          text = await translateFunction(text)
+        } else if (typeof text === 'object'){
+          text.text = await translateFunction(text.text)
+        }
+      }
     } else if (typeof item.text === 'string') {
       item.text = await translateFunction(item.text);
     }
