@@ -872,8 +872,12 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
           now.yes = await translateFunction(now.yes);
           now = now.no;
         }
-        now?.yes = await translateFunction(now.yes);
-        now?.no = await translateFunction(now.no);
+        if(now?.yes){
+          now.yes = await translateFunction(now.yes);
+        }
+        if(now?.no){
+          now.no = await translateFunction(now.no);
+        }
       }
       else if (Array.isArray(now)){
         await Promise.all(now.map(async (item) => {
@@ -883,7 +887,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
           if (item.hasOwnProperty('no')) {
             item.no = await translateFunction(item.no);
           }
-        });
+        }))
       }
     }
     if (typeof line.yes === 'string') {
