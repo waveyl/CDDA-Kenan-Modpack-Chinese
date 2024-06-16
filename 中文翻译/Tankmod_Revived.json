@@ -3,30 +3,35 @@
   "key": "f321bdd330ee87ea794c1c4e69bc2157",
   "original": "\"Found what used to be an armored platoon.  I don't want to find out what did them in.\"",
   "translation": "“找到了曾经的一个装甲排。我不想知道他们被谁杀了。”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[0]\n",
   "stage": 3
  },
  {
   "key": "891d00a9fc3a5afbd3e1ca8ef3165ca1",
   "original": "\"I have a bicycle-mounted tank cannon.  Your argument is invalid.\"",
   "translation": "“我有一个自行车载坦克炮。不接受反驳。”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[0]\n",
   "stage": 3
  },
  {
   "key": "167ec76067caf6fd9eadbd63f8e838e8",
   "original": "\"Next person to call this infantry fighting vehicle a 'tank' is walking home.\"",
   "translation": "“下一个把这个步兵战车叫成'坦克'的家伙给我自己走回去。”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[0]\n",
   "stage": 5
  },
  {
   "key": "0a19e8ecdf236a0b0d563ec69c593690",
   "original": "\"Tank drone, meet the real deal.  See how you handle 120 millimeters of HELL YEAH!\"",
   "translation": "“坦克无人机，见识下真家伙。看你怎么应对这120mm的地狱之火！”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[0]\n",
   "stage": 5
  },
  {
   "key": "f4d2f47d2704a61bc3b24a0c500b3912",
   "original": "\"big fucking gun, earplugs are good for your brain\"",
   "translation": "“该死的大枪，耳塞能保护你的大脑”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[0]\n",
   "stage": 5
  },
  {
@@ -398,7 +403,7 @@
   "key": "e9142540db67d4b1c8968651cea3a5c9",
   "original": "A section of continuous track, the kind mounted on construction vehicles and military fighting vehicles.  It acts as a wheel, and the broad surface provides plenty of traction to move heavy vehicles off-road, but at the cost of speed due to the heavy weight.",
   "translation": "一条连续履带中的一段，安装在工程载具或是军用载具上的那种。它能够充当车轮，宽阔的接触面让它为重型载具提供更好的越野性能，但是因其重量和增加的阻力会降低载具速度。",
-  "context": "ID: tread1\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/treads.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→tread1\n",
+  "context": "ID: tread3\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/treads.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→tread3\n",
   "stage": 5
  },
  {
@@ -502,6 +507,7 @@
   "key": "fc013b6f647ed6765390722f58e59aa1",
   "original": "Bandit Bulldozer",
   "translation": "强盗推土机",
+  "context": "ID: tractor_bandit\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→tractor_bandit\n",
   "stage": 5
  },
  {
@@ -514,24 +520,28 @@
   "key": "d8b1ed606dcd0131576400e8ede8089e",
   "original": "EXPERIMENTAL TANKS TO ENTER FIELD TESTS - A press release yesterday from the Department of Defense has confirmed plans for a series of field tests for a new model of light tank, currently designated the XM7 Tankette.  A major departure from previous armor doctrine, the experimental design features a long-range electric engine and a state-of-the-art autoloader, recently upgraded to fit a 120mm main gun.  Most notable was the confirmation of a one-man crew compartment, with mention of advanced fire control and sensors rendering a commander and gunner unnecessary.  According to General Dabrowski, \"These aren't expected to replace the venerable Abrams, instead we're expecting them to find a new niche for urban warfare.  We're hoping in about a year these will cost a fourth as much as an Abrams to produce while having the same level of firepower.  For the same number of soldiers it'd take to crew one tank, we could have four of these all supporting each other, each monitoring the situation and calling in targets.\"",
   "translation": "美国国防部昨天发布的新闻稿证实了一种新型轻型坦克（目前命名为XM7坦克）的一系列实地测试计划。这一实验设计与以往的装甲理论有很大不同，它采用了远程电动发动机和最先进的自动装弹机，最近升级为可装120毫米主炮。最值得注意的是确认了一个人的乘员舱，并提到了先进的火力控制和传感器，使指挥官和枪手成为不必要的。根据达布罗夫斯基将军的说法，“人们并不指望这些战机能取代艾布拉姆斯，相反，我们希望他们能为城市战争找到一个新的阵地。我们希望在大约一年内，这些将花费四分之一的艾布拉姆斯生产，同时拥有同等水平的火力。对于一辆坦克的乘员人数相同的士兵来说，我们可以有四个这样的人互相支援，每个人都在监视局势并召唤目标。”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[1]\n",
   "stage": 1
  },
  {
   "key": "0c605322a0de5a62a8f1d0004454bdb2",
   "original": "Heavy Planter Tractor",
   "translation": "重型播种拖拉机",
+  "context": "ID: tractor_heavy_seed\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→tractor_heavy_seed\n",
   "stage": 5
  },
  {
   "key": "1bac8ec73e24aee133f481e5d4940dfa",
   "original": "Heavy Plow Tractor",
   "translation": "重型挂犁拖拉机",
+  "context": "ID: tractor_heavy_plow\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→tractor_heavy_plow\n",
   "stage": 5
  },
  {
   "key": "037e4f38c2cfd652cc3133068d263c60",
   "original": "Heavy Reaper Tractor",
   "translation": "重型收割拖拉机",
+  "context": "ID: tractor_heavy_reaper\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→tractor_heavy_reaper\n",
   "stage": 5
  },
  {
@@ -545,12 +555,14 @@
   "key": "58300b1a6a541995eb88ec3d048536c3",
   "original": "M109 Self-Propelled Howitzer",
   "translation": "M109自行式榴弹炮",
+  "context": "ID: howitzer_m109\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→howitzer_m109\n",
   "stage": 3
  },
  {
   "key": "625e5ac55f985b6831304ba36205a568",
   "original": "M2 Bradley Infantry Fighting Vehicle",
   "translation": "M2布莱德利步兵战车",
+  "context": "ID: ifv_m2_bradley\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→ifv_m2_bradley\n",
   "stage": 3
  },
  {
@@ -584,6 +596,7 @@
   "key": "715f894931d914ab1b78b67a6da3b2ac",
   "original": "M60 Patton Main Battle Tank",
   "translation": "M60巴顿主战坦克",
+  "context": "ID: tank_m60_patton_mothballed\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→tank_m60_patton_mothballed\n",
   "stage": 3
  },
  {
@@ -658,6 +671,7 @@
   "key": "8b278530f1c5c13e8c4058055f5ba86a",
   "original": "PATTON TANKS TO BE RESTORED - Amid rumors of war on the horizon and growing unrest, a recent new briefing outlined an emergency plan to restore and rearm several M60 Patton main battle tanks, with roughly two hundred projected to be available across the New England region within the coming weeks.  Officials refused to clarify the purpose of this rearmament program, leaving speculation that the move is an unintentional confirmation of an impending Chinese invasion.  According to an anonymous source within the military, \"They don't expect them to be facing Type 96 or 99 tanks.  They'll likely be used to engage IFVs such as the Type 08 or the Type 15 light tank.\"",
   "translation": "巴顿坦克将被修复！——在战争即将来临和日益动荡的传言中，最近一次新的简报概述了一项紧急计划，以修复和重新武装几辆 M60 巴顿主战坦克，预计在未来几周内将在新英格兰地区提供大约 200 辆。官员们拒绝澄清这一重新武装计划的目的，让人猜测此举是无意中证实了中国即将前来解放。据军方内部一位匿名消息人士透露，“他们预计这些坦克可能无法用于对抗 96 型或 99 型坦克，它们很可能被用来对付诸如 08 型或 15 型轻型坦克之类的 IFV。”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[3]\n",
   "stage": 3
  },
  {
@@ -684,6 +698,7 @@
   "key": "117057e22dfa3765b24e555edea6c2fc",
   "original": "ROBOT TANK UNVEILED - A recent press conference has confirmed the latest development in AI-driven defense systems.  Much of the details remain classified, other than the new project having only recently entered early testing.  \"We've refined some of the developments that went into the XM7 Tankette to fit an even more compact package.\" says the update, in reference to the experimental light tank program to see increased production and formal adoption in the coming months.  \"We're exploring uncharted territory with the autonomous fire control, nothing we've put into use so far has handled anything as large as a tank cannon.  Once we have all the kinks worked out we'll proceed with the next wave of trials.  We should have a working dual-core AI ready by the end of the year that can handle both the main gun and an M2 Browning, but for now we're focusing on the main gun.\"",
   "translation": "机器人坦克亮相——最近的一次新闻发布会证实了人工智能驱动防御系统的最新发展。除了最近才进入早期测试的新项目外，大部分细节仍然保密。”我们已经改进了XM7 Tankette的一些开发，以适应一个更紧凑的包。“更新说，在参考实验轻坦克计划，看到增加产量和正式采用在未来几个月。”我们正在探索未知领域的自主火力控制，迄今为止，我们投入使用的任何武器都不能像坦克大炮那样大。一旦我们解决了所有的问题，我们将进行下一波的试验。我们应该在年底前准备好一个可以工作的双核AI，它可以同时处理主炮和M2 Browning，但目前我们的重点是主炮。”",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/snippets.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→snippet→[2]\n",
   "stage": 1
  },
  {
@@ -725,6 +740,7 @@
   "key": "f8bdb6167ace671f6a95326032595f4b",
   "original": "Tank Commander",
   "translation": "坦克车长",
+  "context": "ID: tankmod_commander\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→profession→tankmod_commander\n",
   "stage": 5
  },
  {
@@ -745,6 +761,7 @@
   "key": "bf26d4288f5abfeeb8b334ee4f48b0cc",
   "original": "Tank Loader",
   "translation": "坦克装填手",
+  "context": "ID: tankmod_loader\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→profession→tankmod_loader\n",
   "stage": 5
  },
  {
@@ -821,6 +838,7 @@
   "key": "05796115f8b97c1356755dcf2af0782f",
   "original": "XM7 Electric Mini-Tank",
   "translation": "XM7电动迷你坦克",
+  "context": "ID: tank_xm7_elec\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/vehicles.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle→tank_xm7_elec\n",
   "stage": 3
  },
  {
@@ -841,12 +859,14 @@
   "key": "0cdfae40c694d5f05e31fc817055eb3e",
   "original": "Your job was to help the main gunner with loading, now you'll have to do all the work yourself.",
   "translation": "你的工作是帮助主炮手装弹，现在你得自己来做所有的工作了。",
+  "context": "ID: tankmod_loader\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→profession→tankmod_loader\n",
   "stage": 3
  },
  {
   "key": "3bd5d0f85a4c0eb101616e40d4c2a702",
   "original": "Your role was to coordinate the tank crew's actions and spot targets, a job made significantly harder by everyone else being either dead or MIA.",
   "translation": "你的任务是协调坦克乘员的行动和发现目标，其他人要么死了，要么失踪，这项工作就变得非常困难。",
+  "context": "ID: tankmod_commander\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→profession→tankmod_commander\n",
   "stage": 1
  },
  {
@@ -1097,6 +1117,7 @@
   "key": "2cdf9c0bb7b4f993e4f81c1f25daf2db",
   "original": "steel treads",
   "translation": "钢履带",
+  "context": "ID: tread2\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/treads.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→tread2\n",
   "stage": 5
  },
  {
@@ -1116,6 +1137,7 @@
   "key": "1a5181b78d5f24444c3aa6ea0be90f6f",
   "original": "tank treads",
   "translation": "坦克履带",
+  "context": "ID: tread3\n位于 /Kenan-Structured-Modpack/Tankmod_Revived/treads.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Tankmod_Revived→vehicle_part→tread3\n",
   "stage": 5
  },
  {
