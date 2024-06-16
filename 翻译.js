@@ -708,6 +708,9 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     if (useAction.activation_message) {
       useAction.activation_message = await translateFunction(useAction.activation_message);
     }
+    if(useAction.summon_msg){
+      useAction.summon_msg = await translateFunction(useAction.summon_msg);
+    }
     await messageOrMessages(useAction);
     if (useAction.msg) {
       useAction.msg = await translateFunction(useAction.msg);
