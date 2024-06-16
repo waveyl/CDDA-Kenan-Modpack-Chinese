@@ -478,7 +478,7 @@
  {
   "key": "61b01b162ead5e1b9dae4e307efaa1dd",
   "original": "<u_name>…無事でよかった…。\nうぅん、無事でもないよね…かなり顔色が悪いもん、ごめんなさい…。\nえっと、探しに行った薬は見つかりました？",
-  "translation": "<u_name>…还好你没事…。\n 呃，也不能说没事…脸色挺差的，真的很抱歉…。\n 那么，去找的药找到了吗？",
+  "translation": "<u_name>…还好你没事…。\n 呃，也不能说没事…脸色挺差的，真的很抱歉…。\n 那个，去找的药找到了吗？",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
   "stage": 0
  },
@@ -793,7 +793,7 @@
  {
   "key": "3b3fa3235212965578fcd2e420c9d807",
   "original": "……あっ、おかえり、なさい…。\nぐすっ、帰ってきたんですね…見捨てられたかと思っちゃった…えへへ、ダメですね。\nなんだか気が弱ってるみたいで…すごく心細くて。",
-  "translation": "啊，欢迎回来……\n 咕滋，你真的回来了呢…我还以为被抛弃了呢…嘿嘿，这样可不行哦。\n 你看起来有点虚弱…我好担心，心里很不是滋味。",
+  "translation": "啊，欢迎回来……\n 咕斯，你真的回来了呢…我还以为被抛弃了呢…嘿嘿，这样可不行哦。\n 你好像有点精神不振…我感到非常不安。",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
   "stage": 0
  },
@@ -1059,7 +1059,7 @@
  {
   "key": "e2b42908d43e80e4bd1c8cd26872b92e",
   "original": "あっ…はは、お帰りなさい、<u_name>さん。\n帰ってきたんですね。あなたも万全じゃないから心配してましたよ…。\nその顔見ればわかりますよ、薬…見つからなかったんですよね？",
-  "translation": "啊…哈哈，欢迎回来，<u_name>。\n 您终于回来了。我也担心您可能没做好万全的准备呢…。\n 看您的表情我就明白了，药物…您没找到吧？",
+  "translation": "啊…哈哈，欢迎回来，<u_name>。\n 您终于回来了。我也很担心您，毕竟您也不是无懈可击的…。\n 看您的表情就知道了，药物…没找到对吧？",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
   "stage": 0
  },
@@ -1096,7 +1096,7 @@
   "original": "あなたの冒険の裏で仲間たちが様々な素材を回収しています",
   "translation": "在你冒险的同时，同伴们正在收集各种材料。",
   "context": "ID: band_collecting\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→band_collecting\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5f1dc258910d0e1811bdaf64e95d9339",
@@ -1521,7 +1521,7 @@
  {
   "key": "c462100f39e6b9659f3b4a3e742a4292",
   "original": "おかえり～…ごめんね、座ったままで…。\nなんだか体に力が入らなくて…あーしももうダメなのかなー、でも、最後に<u_name>の顔見れて良かったかも？なんてね、あはは…。",
-  "translation": "欢迎回来~…对不起，我就这样坐着没动…\n…不知怎的，身体使不上劲了…我是不是也快不行了呢~不过，最后能见到<u_name>的脸，或许也是好的吧？哈哈…",
+  "translation": "欢迎回来~…对不起，我就这样坐着没动…\n…不知怎的，身体使不上劲了…我是不是也快不行了呢~不过，最后能见到<u_name>的脸，或许也是好的吧？呵呵…",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
   "stage": 0
  },
@@ -1570,7 +1570,7 @@
  {
   "key": "9954eebdd1b34b0d3f4b2997216a8b69",
   "original": "おや…<u_name>さん、帰ってきたんですね…てっきりわたしのこと見捨てて行ったのかとばかり…。\nはは、冗談ですよ、冗談。あなたが何をしようとしてたのかはちゃんとわかってるつもりです…けほっ",
-  "translation": "哦呀…<u_name>先生，您回来了呢…我还以为您抛弃我走了呢…呵呵，开个玩笑，开个玩笑。我想我很清楚您打算做什么…嘿嘿",
+  "translation": "哦呀…<u_name>，你回来了啊…我还以为你抛弃我不管了呢…呵呵，开个玩笑，开个玩笑。我想我很清楚你想做什么呢…嘿嘿",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
   "stage": 0
  },
@@ -1591,7 +1591,7 @@
  {
   "key": "2b1538c1c368a75a98cb2dd437527a2d",
   "original": "おー、おかえり…無事帰ってきたんやな～、良かったわ…。\nなんやそんな顔して、薬見つからなかったんか？\nはは、ええよそんなん、君が無事ならそんでうちは満足やで？",
-  "translation": "哦，你回来啦…平安无事真是太好了…。\n 怎么了，一脸那样，没找到药吗？\n 哈哈，没事的，只要你安全回来，我们就心满意足了。",
+  "translation": "哦，你回来啦…平安无事真是太好了。嗯？怎么那副表情，没找到药吗？哈哈，没事的，只要你安全回来，我们就心满意足了。",
   "context": "ID: TALK_LOVE_IS_OVER\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/SCENARIOS/love_is_over.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[2]\n",
   "stage": 0
  },
@@ -2459,9 +2459,9 @@
  {
   "key": "95e07a4453ded1ddf897235da364783a",
   "original": "もはや言葉は無くとも相手の考えが伝わってきます。間違いなく、生涯を共にするパートナーだと断言できます！\n全ステータス+7、移動コスト-35%、及び+好感度/50のステータスボーナス\nさらに好感度50以上で致死量のダメージを受けた時に好感度を-30して食いしばる。",
-  "translation": "无需言语，彼此心意已相通。毫无疑问，是可共度一生的伴侣！\n 全属性+7，移动消耗减少35%，以及每50点好感度提供额外状态加成 +1、\n 当好感度超过50时，若受到致命伤害，则会牺牲30点好感度坚持生存下去。",
+  "translation": "无需言语，彼此心意已相通。毫无疑问，是可共度一生的伴侣！\n全属性+7，移动消耗-35%，属性额外增加好感度/50\n当好感度超过50时，在遭受致命伤害时会-30点好感度来顽强抵抗死亡。",
   "context": "ID: band_lv5\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv5\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c99439fde9d61898d2c70d4d7f02f7d9",
@@ -3014,14 +3014,14 @@
   "original": "仲間たちは現在休息を取っています。",
   "translation": "伙伴们目前正在休息。",
   "context": "ID: band_resting\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→band_resting\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "211eb303f4ca9a53c59db086cd74975d",
   "original": "仲間と共に穏やかな時間を過ごしました。\n心が充実しているのを感じます。",
-  "translation": "与伙伴们共度了宁静的时光，心中感受到了满满的充实感。\n",
+  "translation": "与伙伴们共度了宁静的时光。\n心中感受到了满满的充实感。\n",
   "context": "ID: band_talk_end\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→band_talk_end\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "02013d4c2ec23bf4037f339dcfcfad8b",
@@ -3113,6 +3113,13 @@
   "translation": "请带给我5个电池（轻型）！",
   "context": "ID: MISSION_PLZ_BATTERY\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/missiondef_kiri.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_PLZ_BATTERY\n",
   "stage": 1
+ },
+ {
+  "key": "ce6c57674f7527525c1607ea834367c7",
+  "original": "内容を一瞥しただけでも時間を無駄にした気がします...。\n？「ちょっと、どういう意味ですか！？」",
+  "translation": "仅仅扫了一眼这些内容，我就觉得时间被浪费了...。\n？“等等，这到底是什么意思！？”",
+  "context": "ID: yukari_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→yukari_nikki\n",
+  "stage": 0
  },
  {
   "key": "860c2e15f114f42dd42e174e0b3f57f1",
@@ -3823,9 +3830,9 @@
  {
   "key": "74c7a80693885e938fbaa0e83e13ae2b",
   "original": "手間暇かけて作られた手作りの日の丸弁当です。この時代に誰かの手作りを食べられるのは奇跡です。手と手を合わせていただきます！",
-  "translation": "这是一份精心制作的手工日式盒饭，能在这样的时代吃到别人亲手制作的食物，简直是奇迹。让我们双手合十，心怀感激地享用吧！",
+  "translation": "这是一份精心制作的手作日之丸便当。能在这样的时代吃到别人亲手制作的食物，简直是奇迹。让我们双手合十，心怀感激地享用吧！",
   "context": "ID: bento_friend\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/bento.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→COMESTIBLE→bento_friend\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3f00f48517441a345f97febbb70aed74",
@@ -3858,9 +3865,9 @@
  {
   "key": "988f15892a33cc93472a38c7ca510b34",
   "original": "日々を共に乗り越え、友人と呼べる仲になりました。\n全ステータス+1、移動コスト-10%",
-  "translation": "我们齐心协力，共度日日夜夜，成为了可以称为朋友的亲密伙伴。\n - 所有状态数值+1，移动消耗减少10%",
+  "translation": "我们齐心协力，共度日日夜夜，成为了可以称为朋友的亲密伙伴。\n全属性+1，移动消耗-10%",
   "context": "ID: band_lv1\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv1\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c77a509b83ac65d3309e3c0cd456715b",
@@ -3868,6 +3875,13 @@
   "translation": "这是一本马克笔写的日本琦玉县旅游指南，各色文字写得密密麻麻，圆润的字迹充满了少女气息。其中不仅包含了似乎是作者亲自拍摄的景点照片，还细致周到地推荐了各个游览亮点。",
   "context": "ID: tumugi_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→tumugi_nikki\n",
   "stage": 1
+ },
+ {
+  "key": "0f314fae934d3bc75dce3f5efc6de96d",
+  "original": "日記を読むと空から小学五年生が降ってきた！",
+  "translation": "阅读日记得知，一个小学五年级学生从天而降！",
+  "context": "ID: kiritan_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→kiritan_nikki\n",
+  "stage": 0
  },
  {
   "key": "cc54456499499fd5e869344aa7a18134",
@@ -4061,9 +4075,9 @@
  {
   "key": "847969b1bcc50cf43d29dc59d725d9a8",
   "original": "特別強い絆で結ばれた恋人、あるいはそれ以上と言えるパートナーです！\n全ステータス+7、移動コスト-30%、及び+好感度/100のステータスボーナス、\nさらに好感度50以上で致死量のダメージを受けた時に好感度を-30して食いしばる。",
-  "translation": "这是一种由极其坚固的纽带相连的恋人，或者说超越了恋人的伙伴！\n赋予所有状态+7，移动耗费减少30%，以及每100点好感度提供额外的状态加成，\n并且，当好感度超过50时，若受到致命伤害，则会消耗30点好感度来顽强抵抗死亡。",
+  "translation": "结下特别的牢固羁绊的恋人，或者说超越了恋人的搭档！\n全属性+7，移动耗费-30%，属性额外增加好感度/100\n当好感度超过50时，在遭受致命伤害时会-30点好感度来顽强抵抗死亡。",
   "context": "ID: band_lv4\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv4\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "56657896d5cc3b1a2b03504f5ae5d8b0",
@@ -4112,7 +4126,7 @@
   "original": "穏やかな時間",
   "translation": "宁静时光",
   "context": "ID: band_talk_end\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→effect_type→band_talk_end\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "00b6192b33d5df11ec951fd48acadef7",
@@ -4334,9 +4348,9 @@
  {
   "key": "f91758339d76488ddf9873033625622b",
   "original": "艱難辛苦を共に乗り越えた二人は、既に最高の親友と呼べる仲でしょう！。\n全ステータス+5、移動コスト-20%、及び+好感度/50のステータスボーナス\nさらに好感度50以上で致死量のダメージを受けた時に好感度を-30して食いしばる。",
-  "translation": "经历过重重困难并肩作战的两人，早已成为了无话不谈的最佳拍档！\n 全属性增加5点，移动消耗减少20%，以及每50点好感度提供额外加成、\n 当好感度超过50时，在遭受致命伤害时会牺牲30点好感度来坚持生存。",
+  "translation": "经历过重重困难并肩作战的两人，已经称得上是最好的亲友！\n全属性+5，移动消耗-20%，属性额外增加好感度/50\n当好感度超过50时，在遭受致命伤害时会-30点好感度来顽强抵抗死亡。",
   "context": "ID: band_lv3\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5088c97925a4b2f3ab9487d27ea34718",
@@ -4348,9 +4362,9 @@
  {
   "key": "3336dd676f1d49f0d0e468897b154f5f",
   "original": "苦楽を共にすることで、安心して背中を任せられる仲間と言えるようになりました。\n全ステータス+3、移動コスト-15%",
-  "translation": "通过共患难，我们成为了能够相互信赖，放心托付背后的伙伴。\n - 全属性+3，移动消耗减少15%",
+  "translation": "我们同甘共苦，成为了能够放心托付背后的伙伴。\n全属性+3，移动消耗-15%",
   "context": "ID: band_lv2\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "986c7569482e933d75404a0c4806f37a",
@@ -4378,6 +4392,20 @@
   "original": "製作を手伝ってもらう",
   "translation": "帮忙进行制作",
   "context": "ID: TALK_INTERCTION_GENERIC\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_generic.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
+  "stage": 0
+ },
+ {
+  "key": "9ef9607911dda2df8ce31fb9de7f18a8",
+  "original": "観光ガイドを読んでみました。なんだかとっても埼玉に行ってみたい気分です！",
+  "translation": "我读了旅游指南，不知怎地，现在非常想去埼玉看看！",
+  "context": "ID: tumugi_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→tumugi_nikki\n",
+  "stage": 0
+ },
+ {
+  "key": "21b2675fbed04e36eeb40f3354798f23",
+  "original": "計画書を読んでいると不思議な気持ちになってきます…LLP…。 気が付くと隣に謎の少女が立っていました！",
+  "translation": "阅读着计划书，我不禁感到一阵奇妙...LLP...。回过神来，发现身边站着一位神秘少女！",
+  "context": "ID: LLP_project\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→LLP_project\n",
   "stage": 0
  },
  {
@@ -4418,9 +4446,9 @@
  {
   "key": "480ed4a92273986af6bc12a1420a4f74",
   "original": "誰かの日記のようです。内容を流し見た感じ、とても口にはできない姉への妄想が書いてありそうです。",
-  "translation": "这看起来像某人的日记。大致浏览内容，似乎写着一些对姐姐难以启齿的幻想。",
+  "translation": "好像是某人的日记。大致浏览内容，似乎写着一些对姐姐难以启齿的幻想。",
   "context": "ID: kiritan_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→kiritan_nikki\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "75c911889b24702cfc146d058337aeef",
@@ -4551,9 +4579,9 @@
  {
   "key": "c7e8529fc830e9b0182997fbb2d17807",
   "original": "顔見知り程度の認識です。\nこれから仲良くなって行きましょう！",
-  "translation": "我们只是彼此脸熟而已。\n，让我们今后逐渐成为好朋友吧！",
+  "translation": "只是彼此脸熟而已。\n让我们今后逐渐成为好朋友吧！",
   "context": "ID: band_lv0\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/effects.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mutation→band_lv0\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3593fb42d8d43159327031dd5b0f69ec",
@@ -4565,15 +4593,22 @@
  {
   "key": "e4d09b3acb7d4ac449e5d59515199a2e",
   "original": "食べる人のことを第一に考え、手間暇かけて作られた手作りの弁当です。この時代に誰かの手作り(しかも美味しい！)を食べられるのは奇跡です。\nあっ！このハート、ハムで出来てる！",
-  "translation": "这是一份用心制作的手工便当，首先考虑了食用者的感受，倾注了不少时间和精力。在这个时代，能吃到别人亲手制作（而且味道还很棒！）的食物简直是奇迹。\n 哎呀！这个心形图案，是用火腿做成的！",
+  "translation": "这是一份精心制作的手作便当，最优先考虑了食用者的感受，倾注了不少时间和精力。在这个时代，能吃到别人亲手制作（而且味道还很棒！）的食物简直是奇迹。\n 哎呀！这个心形图案，是用火腿做成的！",
   "context": "ID: bento_lovers\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/bento.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→COMESTIBLE→bento_lovers\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f1291db3750a9364e284afc3a4cd5596",
   "original": "食べ歩き28軒…？いや、まあいい、続けてくれ",
   "translation": "吃了28家餐馆...？不，算了，继续吧。",
   "context": "ID: TALK_STORY1_AKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/background_storys_akari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY1_AKARI\n",
+  "stage": 0
+ },
+ {
+  "key": "0d94df593512d5b7af2f7cbaf22924d5",
+  "original": "食レポを読み終わると、すぐそばに少女が倒れていた！",
+  "translation": "阅读完食品报告后，我发现旁边有一个少女倒下了！",
+  "context": "ID: akari_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→akari_nikki\n",
   "stage": 0
  },
  {
@@ -4617,6 +4652,20 @@
   "translation": "（没在听你说话）",
   "context": "ID: TALK_STRANGER3_YUKARI\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_yukari.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STRANGER3_YUKARI\n",
   "stage": 1
+ },
+ {
+  "key": "4a61df3bbcab0f4ca02f6d189ad3b614",
+  "original": "？「今チョコミントの話した！？」",
+  "translation": "\"刚才你说的是薄荷巧克力吧！？\"",
+  "context": "ID: aoi_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→aoi_nikki\n",
+  "stage": 0
+ },
+ {
+  "key": "6406e3f0b61e14fd890e6a7a19550b70",
+  "original": "？「呼ばれて飛び出て茜ちゃんやで！」",
+  "translation": "“被叫到就飞奔而出的小茜酱哟！”",
+  "context": "ID: akane_nikki\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→TOOL→akane_nikki\n",
+  "stage": 0
  },
  {
   "key": "d2fb66b68300535fa89cbf478c2bf58a",
