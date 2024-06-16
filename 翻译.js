@@ -879,13 +879,26 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
           now.no = await translateFunction(now.no);
         }
       }
-      else if (Array.isArray(now)){
-        await Promise.all(now.map(async (item) => {
-          if (item.hasOwnProperty('yes')) {
+      if (Array.isArray(line?.concatenate)){
+        await Promise.all(line.concatenate.map(async (item) => {
+          if (typeof item?.yes === 'string') {
             item.yes = await translateFunction(item.yes);
           }
-          if (item.hasOwnProperty('no')) {
+          if (typeof item?.no === 'string') {
             item.no = await translateFunction(item.no);
+          }
+          if (typeof item?.no === 'object'){
+            now = item.no
+            while(now?.no && typeof now.no !== 'string'){
+              now.yes = await translateFunction(now.yes);
+              now = now.no;
+            }
+            if(now?.yes){
+              now.yes = await translateFunction(now.yes);
+            }
+            if(now?.no){
+              now.no = await translateFunction(now.no);
+            }
           }
         }))
       }
