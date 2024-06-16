@@ -865,6 +865,27 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   };
 
   const dynamicLine = async (line) => {
+    if (line?.concatenate) {
+      let now = line.concatenate;
+      if (typeof now === 'object'){
+        while(now?.no && typeof now.no !== 'string'){
+          now.yes = await translateFunction(now.yes);
+          now = now.no;
+        }
+        now?.yes = await translateFunction(now.yes);
+        now?.no = await translateFunction(now.no);
+      }
+      else if (Array.isArray(now)){
+        await Promise.all(now.map(async (item) => {
+          if (item.hasOwnProperty('yes')) {
+            item.yes = await translateFunction(item.yes);
+          }
+          if (item.hasOwnProperty('no')) {
+            item.no = await translateFunction(item.no);
+          }
+        });
+      }
+    }
     if (typeof line.yes === 'string') {
       line.yes = await translateFunction(line.yes);
     } else if (typeof line.yes === 'object') {
