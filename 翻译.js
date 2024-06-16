@@ -866,19 +866,19 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
 
   const dynamicLine = async (line) => {
     if (line?.concatenate) {
-      let now = line.concatenate;
-      if (typeof now === 'object'){
-        while(now?.no && typeof now.no !== 'string'){
-          now.yes = await translateFunction(now.yes);
-          now = now.no;
-        }
-        if(now?.yes){
-          now.yes = await translateFunction(now.yes);
-        }
-        if(now?.no){
-          now.no = await translateFunction(now.no);
-        }
-      }
+      // let now = line.concatenate;
+      // if (typeof now === 'object'){
+      //   while(now?.no && typeof now.no !== 'string'){
+      //     now.yes = await translateFunction(now.yes);
+      //     now = now.no;
+      //   }
+      //   if(now?.yes){
+      //     now.yes = await translateFunction(now.yes);
+      //   }
+      //   if(now?.no){
+      //     now.no = await translateFunction(now.no);
+      //   }
+      // }
       if (Array.isArray(line?.concatenate)){
         await Promise.all(line.concatenate.map(async (item) => {
           if (typeof item?.yes === 'string') {
@@ -888,7 +888,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             item.no = await translateFunction(item.no);
           }
           if (typeof item?.no === 'object'){
-            now = item.no
+            let now = item.no
             while(now?.no && typeof now.no !== 'string'){
               now.yes = await translateFunction(now.yes);
               now = now.no;
