@@ -733,6 +733,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     if (useAction.menu_text) {
       useAction.menu_text = await translateFunction(useAction.menu_text);
     }
+    if(Array.isArray(useAction?.player_descriptions)){
+      useAction.player_descriptions = await translateFunction(useAction.player_descriptions);
+    }
+    if(typeof useAction?.player_descriptions === 'string'){
+      useAction.player_descriptions = await translateFunction(useAction.player_descriptions)
+    }
+    if(Array.isArray(useAction?.npc_descriptions)){
+      useAction.npc_descriptions = await translateFunction(useAction.npc_descriptions);
+    }
+    if(typeof useAction?.npc_descriptions === 'string'){
+      useAction.npc_descriptions = await translateFunction(useAction.npc_descriptions)
+    }
   };
   const attacks = async (item) => {
     if (item.attacks) {
