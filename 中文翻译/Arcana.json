@@ -30167,7 +30167,7 @@
   "key": "8e61d99ca246955cc31b67a365b2a216",
   "original": "Turn off",
   "translation": "关闭",
-  "context": "ID: robe_shadow_xl_on\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→robe_shadow_xl_on\n",
+  "context": "ID: sun_sword_on\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→sun_sword_on\n",
   "stage": 3
  },
  {
@@ -34705,6 +34705,27 @@
   "stage": 5
  },
  {
+  "key": "40b7445c657aed2b62bd4caabc7ac13c",
+  "original": "You play a little tune on your flute.",
+  "translation": "你在笛子上吹奏了一段小曲。",
+  "context": "ID: stinger_flute\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→stinger_flute\n",
+  "stage": 0
+ },
+ {
+  "key": "fe9f602c196ec2e7371a8682a6a730be",
+  "original": "You play a piece on your flute that sounds downright otherworldly.",
+  "translation": "你用长笛吹奏出一段听起来完全不属于这个世界的旋律。",
+  "context": "ID: stinger_flute\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→stinger_flute\n",
+  "stage": 0
+ },
+ {
+  "key": "074e8d9e99ce787b2f374744e0f6b136",
+  "original": "You play an eerie piece on your flute.",
+  "translation": "你用笛子演奏了一曲诡异的旋律。",
+  "context": "ID: stinger_flute\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→stinger_flute\n",
+  "stage": 0
+ },
+ {
   "key": "cdfc808d5a7e00dceccb18910e6ac75a",
   "original": "You play with dangerous power, Keeper.  Even if you weren't a part of their order before, you're effectively one now.  Regardless, better that than a sanguinist.  We are not enemies, here.  Peace be upon you.",
   "translation": "你玩弄着危险的力量，守护者。即使以前你不是他们的一员，但现在你是了。不过，这总比成为一个嗜血的人要好。在这里，我们并非敌人。愿你平安。",
@@ -35466,6 +35487,13 @@
   "translation": "你的眼睛被暂时打开，给予你在一定范围内透视的能力，直到引起它的能量消失。",
   "context": "ID: ARCANA_MASK_INSIGHT_EFFECT\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_other.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_MASK_INSIGHT_EFFECT\n",
   "stage": 3
+ },
+ {
+  "key": "1866a5cde6b45681ab92ebe499eed431",
+  "original": "Your flute resounds with the piping of a terrible swarm.",
+  "translation": "你的笛声回荡着恐怖蜂群的嗡鸣。",
+  "context": "ID: stinger_flute\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→stinger_flute\n",
+  "stage": 0
  },
  {
   "key": "1d3f3d2cd70557af8dd20201fae282bf",
