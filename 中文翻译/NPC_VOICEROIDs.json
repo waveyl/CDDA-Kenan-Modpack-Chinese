@@ -261,9 +261,9 @@
  {
   "key": "83e26be389928d856be146e5b857e375",
   "original": "*ごくっ*ああ、生き返る…",
-  "translation": "*咕咳*啊，复活过来…",
+  "translation": "*咕嘟*啊，活过来了……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b57e11c8f48d4f6e776c965745b1fdd9",
@@ -282,9 +282,9 @@
  {
   "key": "9baca44408e61fa1df25887b578b750f",
   "original": "*もぐもぐ*<camp_food_thanks_ia>",
-  "translation": "*咕噜咕噜*<camp_food_thanks_ia>",
+  "translation": "*咀嚼咀嚼*<camp_food_thanks_ia>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6ec9ef00b33c670f0d32f54f9d467c1e",
@@ -1355,35 +1355,35 @@
   "original": "<u_name>さん、<acknowledged_ia>",
   "translation": "<u_name>，<acknowledged_ia>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a44f09dac2c77fb0bc04c16a5c900578",
   "original": "<u_name>さん、<combat_noise_warning_Yukari>",
   "translation": "<u_name>，<combat_noise_warning_Yukari>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c6323e567630a86dcabd40a1664752a0",
   "original": "<u_name>さん、<combat_noise_warning_akari>",
-  "translation": "<u_name>，战斗噪音警告，Akari。",
+  "translation": "<u_name>，<combat_noise_warning_akari>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "83e530a5cea9b4991e6f304cd0260826",
   "original": "<u_name>さん、<combat_noise_warning_aoi>",
-  "translation": "<u_name>，战斗噪音警报区域",
+  "translation": "<u_name>，<combat_noise_warning_aoi>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_tags_aoi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "735fa5f2f5cccfd050bd5fe2377ecf59",
   "original": "<u_name>さん、<combat_noise_warning_ia>",
-  "translation": "<u_name>，战斗噪音警告，IA已启动。",
+  "translation": "<u_name>，<combat_noise_warning_ia>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7dfb29a6c1003e3b56753920f4794dae",
@@ -1880,7 +1880,7 @@
   "original": "<u_name>さん、私に任せて！",
   "translation": "<u_name>，交给我吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_tags_aoi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[25]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "30cdcc3b944aff0dab0c83827ad12244",
@@ -2669,9 +2669,9 @@
  {
   "key": "dbb9020323c3900c0a3a2e323d3dcaeb",
   "original": "……キャンプ、ダメになってたね。　［ぐしぐしと涙を拭いて］で、でもONEちゃんの姿は無かったし、きっとどこかで生きてるよね！　ありがとう、生存者さん！　ここにONEちゃんがいないってわかっただけでも一歩前進したよ！",
-  "translation": "营地似乎已经不行了呢。[哽咽着擦去眼泪]不过，ONE酱并不在那里，她肯定在别的地方活着！谢谢你，幸存者！光是知道ONE酱不在这儿，我就向前迈进了一步！",
+  "translation": "……营地似乎已经不行了呢。[哽咽着擦去眼泪]不过，ONE酱并不在那里，她肯定在别的地方活着！谢谢你，幸存者！光是知道ONE酱不在这儿，我就向前迈进了一步！",
   "context": "ID: MISSION_REACH_FEMA_CAMP_IA\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/missiondef_ia.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→mission_definition→MISSION_REACH_FEMA_CAMP_IA\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "817091d3e178647e5ca357e69c67bc60",
@@ -2753,9 +2753,9 @@
  {
   "key": "6d7c52239b204490d1f99539d5d892df",
   "original": "…？よくわかりませんけどブランケットとゲームウォッチはもらいましたよ。後、チョコバーとお水を少し。優しく笑ってわたしの頭を撫でた後、銃を担いで外に出ていくオーナーさんを見送ったのが最後でした。それからどのくらいだったかな…辺りは真っ暗だったので半日かそこらだったと思います。外の騒ぎも銃声も収まり、時々呻き声みたいなのが聞こえるだけになったのでわたしはそっと外の様子をうかがうことにしたんです。あれは…うっぷ、ちょっと思い出したくないですね…。",
-  "translation": "嗯…虽然不太明白，但我确实拿到了毯子和游戏手表。还有，拿了一些巧克力棒和水。店主微笑着温柔地摸了摸我的头，然后扛着枪走出去，那是我最后见到他的情景。之后过了多久呢…因为周围一片漆黑，我想大概有半天左右吧。外面的喧闹和枪声都平息了，只剩下偶尔传来的类似呻吟的声音，于是我悄悄地窥视外面的情况。那个…呃，真不想回忆起来呢…",
+  "translation": "……？嗯…虽然不太明白，但我确实拿到了毯子和游戏手表。还有，拿了一些巧克力棒和水。店主微笑着温柔地摸了摸我的头，然后扛着枪走出去，那是我最后见到他的情景。之后过了多久呢…因为周围一片漆黑，我想大概有半天左右吧。外面的喧闹和枪声都平息了，只剩下偶尔传来的类似呻吟的声音，于是我悄悄地窥视外面的情况。那个…呃，真不想回忆起来呢…",
   "context": "ID: TALK_STORY3_KIRITAN\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/background_storys_kiri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→TALK_STORY3_KIRITAN\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "345c14c5e7706d684cc8b5fa5efd47f1",
@@ -2907,9 +2907,9 @@
  {
   "key": "88cb9db5a4caf51f415b3257f408b029",
   "original": "あ、危ない！",
-  "translation": "哎呀，危险！",
+  "translation": "啊，有危险！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[9]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "02b05541dc8e1d5f1a2149a9bbeb7736",
@@ -3026,9 +3026,9 @@
  {
   "key": "9a33137d7f886d502a6d9b9cb2e6b477",
   "original": "ああ、他にも生きてる人がいたんだ…！",
-  "translation": "啊，还有其他人活着呢…！",
+  "translation": "啊，原来还有其他幸存者！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[27]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "030cf18edfdedd70d07acd1103aacd10",
@@ -3040,9 +3040,9 @@
  {
   "key": "97a31ca16a1c67ff94ab7b05218db08b",
   "original": "ああ、怖い…！",
-  "translation": "啊，好可怕…！",
+  "translation": "啊，好可怕……！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[9]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8798f141edad8cb9e50ddc922b9e707d",
@@ -3117,9 +3117,9 @@
  {
   "key": "5dd9a82a9a3d61497aff5403105ed52b",
   "original": "あかん、怖い…怖いよぉ",
-  "translation": "不好了，好可怕...真的好可怕啊",
+  "translation": "不行了，好可怕...真的好可怕啊",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_tags_aoi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[37]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "38009a6ed652fe9f3dcce1cbd8412b08",
@@ -3572,9 +3572,9 @@
  {
   "key": "26612ec261ce069c39cdca3e1f5a78b5",
   "original": "あほー！",
-  "translation": "哎呦！",
+  "translation": "白痴！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[1]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "21685ac14d89b94138a27849031ef37a",
@@ -3770,7 +3770,7 @@
   "original": "あれは何の音かな？",
   "translation": "那是什么声音呢？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fd78ffa95cc33094d61131287a11e232",
@@ -4330,21 +4330,21 @@
   "original": "いただきます",
   "translation": "我开动了",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a6d6fda4e14d7e038bce1dec9960c969",
   "original": "いただきます！",
   "translation": "我开动了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[51]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c2e9a4388a5b34ec244dd0d084befb8b",
   "original": "いただきます！！",
   "translation": "我开动了！！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[51]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "14f37b2f8f0a7bd0994c7398b4f02436",
@@ -4398,16 +4398,16 @@
  {
   "key": "d420af1f103b592f835dbc625369e094",
   "original": "いっただっきまーす♪",
-  "translation": "刚刚才到呀~",
+  "translation": "我收下咯——♪",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[10]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "00a7dfcf0a142245e9c9f7821e566e10",
   "original": "いっただっきまーす！\n………<u_name>さんも食べます？",
-  "translation": "哎呀呀，您好啊！\n………<u_name>先生/女士也来点吃的吗？",
+  "translation": "我开动啦——！\n………<u_name>也要吃点吗？",
   "context": "ID: TALK_EAT_ITEMS_+1\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/talk_band_eat_items.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→talk_topic→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "38382c3962e1db80eda779246914da0e",
@@ -4440,9 +4440,9 @@
  {
   "key": "97409892fcb4ea637bc1773f335783a6",
   "original": "いつの間に…",
-  "translation": "不知不觉间...",
+  "translation": "不知不觉间就靠上来了…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0568052af33b9d34c95c47fa69d79670",
@@ -5140,9 +5140,9 @@
  {
   "key": "2bcf4e2a6bd199a1db7dad1cf8f78850",
   "original": "うん、それならできると思う",
-  "translation": "嗯，那样的话，我觉得可以。",
+  "translation": "嗯，如果是那样的话，我觉得我可以做到",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "de8866563e567956f1f4a981bc433ecb",
@@ -6001,9 +6001,9 @@
  {
   "key": "253e2bb6e9c800b275ff5575353c6697",
   "original": "お水がこんなにおいしく感じるなんて、今まで無かったな",
-  "translation": "这样的水居然能如此美味，还真是前所未有的体验。",
+  "translation": "没想到水会觉得这么好喝，以前从没感受过呢",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "09cfd706694945fba40a0820fbf356cc",
@@ -6456,9 +6456,9 @@
  {
   "key": "2565020fbd0c0a813c256df74a3767f3",
   "original": "こ、怖い…足が動かない…",
-  "translation": "哎呀，好可怕…我的腿动不了了…",
+  "translation": "好，好可怕……我的腿动不了了……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[37]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3dbdb5c15ae624d8dde9746ef1cd74b2",
@@ -7275,9 +7275,9 @@
  {
   "key": "3cd706036b30f0e8d593a18d2613f924",
   "original": "こんな時こそ冷静に、頭を使って…",
-  "translation": "这种时候正需要冷静下来，用脑子思考…",
+  "translation": "这种时候正需要冷静下来，用脑子思考……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6bd8f37a9aa6a83da74530293e92f586",
@@ -7536,7 +7536,7 @@
   "original": "ご飯を食べて一休み…",
   "translation": "吃饭休息一下…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1adf45a033ea4a94092571db026bb96a",
@@ -7597,9 +7597,9 @@
  {
   "key": "9b25cd99d1941db9db0eb746e873f5f1",
   "original": "さいっってー！！",
-  "translation": "赛特！",
+  "translation": "最差劲了——！！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[1]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3ce250d3f1fe3628a62059cdba937c5b",
@@ -8397,7 +8397,7 @@
   "original": "そんな、すぐそこに！！",
   "translation": "哎呀，就在那儿！！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "23c391718527b7e2df18fd88a924f6c6",
@@ -8689,9 +8689,9 @@
  {
   "key": "1000969dd5ee23e6cbbab8ab80c850f3",
   "original": "ちょっと待って、静かにっ",
-  "translation": "稍等一下，保持安静。",
+  "translation": "等一下，安静",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b753dc6a05b55dfec84df06797679255",
@@ -8829,9 +8829,9 @@
  {
   "key": "dbe06de3897318e554c6a8c4869b4aa8",
   "original": "と、隣にいる！",
-  "translation": "喂，就在你旁边！",
+  "translation": "啊，就在身边！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "836a3b7f614d3c3b449bab3143692910",
@@ -8920,9 +8920,9 @@
  {
   "key": "cf837e43c955c629803b899eee75c45f",
   "original": "どこかでまたね！",
-  "translation": "再见，咱们会在某个地方再见面的！",
+  "translation": "下次别处再见啦！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[10]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "22a609d47516e23ff6b66254714fed10",
@@ -9165,9 +9165,9 @@
  {
   "key": "bd1ec3deefea565d0e388a876b023aab",
   "original": "なんだか悪い予感がする…",
-  "translation": "我有种不祥的预感...",
+  "translation": "我有种不祥的预感……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a670899caea83c9669ba41dd8cbbe081",
@@ -9216,7 +9216,7 @@
   "original": "なんで、どうして目の前に！",
   "translation": "为什么，怎么会出现在眼前！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[9]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3773b3700de3c2b9dc4c3c8c9dec4bbf",
@@ -9881,7 +9881,7 @@
   "original": "ばーか！",
   "translation": "傻瓜！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[1]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a21758a800c13fed3556d7f6fa97fd08",
@@ -9949,9 +9949,9 @@
  {
   "key": "fc284822443fce348e09276c0ddb8e0f",
   "original": "ひどい",
-  "translation": "糟糕透了",
+  "translation": "太过分了",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6b28622af5c1d537aa9b611df3269218",
@@ -10166,9 +10166,9 @@
  {
   "key": "f76c76dcadc3d417c369b96b46f4b37c",
   "original": "ふふっ、ごめんね？<name_b>さん♪",
-  "translation": "呵呵，不好意思呢？<name_b> 先生~",
+  "translation": "嘻嘻，对不起嗷？<name_b>♪",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[10]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "09b83c50db43875054965c0b4f79033e",
@@ -11337,7 +11337,7 @@
   "original": "やだ",
   "translation": "讨厌",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1dcaab8c6b020a2554711c9659f56bce",
@@ -11748,9 +11748,9 @@
  {
   "key": "5676f30c591fb76b393c8a1eb6e91c1a",
   "original": "りょーかいでーす",
-  "translation": "你好呀",
+  "translation": "了解——",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "18bdee9b1a222912fe9dcfd5a777e836",
@@ -11820,7 +11820,7 @@
   "original": "わかったー！",
   "translation": "明白了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f5b9db63fff08831db35ee17414ebda9",
@@ -12343,16 +12343,16 @@
  {
   "key": "05943f7214dbc1240078709e76d8f00a",
   "original": "オッケーです！",
-  "translation": "好的！",
+  "translation": "OK！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AOI/talk_tags_aoi.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cf7e4a90ab2c5e1bab30c5c1d4c4d7ec",
   "original": "オッケー！",
-  "translation": "好的！",
+  "translation": "OK！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a59f7d31237e09df9479c6c8b32d6345",
@@ -13211,9 +13211,9 @@
  {
   "key": "3426af42c3568b643c8fe40d6dc1c084",
   "original": "了解でありまーす！…なんて",
-  "translation": "了解しました！…というより",
+  "translation": "知道啦——！……啥的",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4cb46946b7bec33d45e698c0f0efa88e",
@@ -13640,7 +13640,7 @@
   "original": "任せて！",
   "translation": "交给我吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7a7cb3f7c1790d56b895d1abb1cda92d",
@@ -13708,23 +13708,23 @@
  {
   "key": "d21c9857b9e5428f48903c22d73ab1c5",
   "original": "何かが戦ってるみたい",
-  "translation": "好像有什么东西在战斗。",
+  "translation": "似乎有什么在战斗",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "74421326ceefa5596cf7ec811ce3ccb5",
   "original": "何かが戦ってるみたいですね",
-  "translation": "好像有什么东西在战斗呢",
+  "translation": "似乎有什么在战斗呢",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/AKARI/talk_tags_akari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f0702955797071026a590bf4df7040f0",
   "original": "何かが戦ってるみたい！",
-  "translation": "好像有什么东西在战斗！",
+  "translation": "似乎有什么在战斗！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "aa4c14915de9aee37ba2f4da5c9f0ce0",
@@ -14421,9 +14421,9 @@
  {
   "key": "da9d616f0aa82206603deb52af27b50a",
   "original": "安全な水がこんなに貴重だったなんて…",
-  "translation": "安全的饮用水竟然如此珍贵...",
+  "translation": "安全的饮用水竟然如此珍贵……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9f8742a3b6ec19ef27f30bb332ff66f1",
@@ -14764,9 +14764,9 @@
  {
   "key": "6f1e6837188088492649a1e81e04dccb",
   "original": "怖い…<swear_ia>。",
-  "translation": "恐怖的…该死。",
+  "translation": "好可怕……<swear_ia>。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[30]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "14c695b1ced90911609581b415ab5188",
@@ -15667,7 +15667,7 @@
  {
   "key": "1c73433cc8046f0e92f71548e52bf8ea",
   "original": "最低",
-  "translation": "最低",
+  "translation": "差劲",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/YUKARI/talk_tags_yukari.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[0]\n",
   "stage": 1
  },
@@ -15688,9 +15688,9 @@
  {
   "key": "743650d4e675a359dc9b3d5e1e851df4",
   "original": "最悪",
-  "translation": "最糟糕的情况",
+  "translation": "最糟糕了",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/KIRITAN/talk_tags_kiri.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a4908acc38d766a6edf443c0bad92015",
@@ -16362,14 +16362,14 @@
   "original": "目と鼻の先に！",
   "translation": "就在眼前！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "83151af7d02409451b5dc8a720a80b46",
   "original": "目の前だなんて…",
-  "translation": "就在眼前...",
+  "translation": "就在眼前……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7daa92bc8bda23fa1fa2d130dbc2d34b",
@@ -16626,9 +16626,9 @@
  {
   "key": "a90cef04ba5125cdc68649427cdc20a1",
   "original": "私にまかせてっ",
-  "translation": "交给我吧。",
+  "translation": "就交给我吧",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/NPC_VOICEROIDs/TALKS&SETTINGS/IA/talk_tags_ia.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#NPC_VOICEROIDs→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5f571202caac82c712a87b73cc026070",

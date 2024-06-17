@@ -51,9 +51,9 @@
  {
   "key": "83e26be389928d856be146e5b857e375",
   "original": "*ごくっ*ああ、生き返る…",
-  "translation": "*咕咳*啊，复活过来…",
+  "translation": "*咕嘟*啊，活过来了……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b57e11c8f48d4f6e776c965745b1fdd9",
@@ -65,16 +65,16 @@
  {
   "key": "92e29b4b0f8678705fd54b32fbf87d0e",
   "original": "*もぐもぐ*<camp_food_thanks_maki>",
-  "translation": "*嚼嚼声*<camp_food_thanks_maki>",
+  "translation": "*咀嚼咀嚼*<camp_food_thanks_maki>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "24eefebad0fca34fbe59651ffcdddcc1",
   "original": "*もぐもぐ*<camp_food_thanks_yukari>",
-  "translation": "*咕噜咕噜*<camp_food_thanks_yukari>",
+  "translation": "*咀嚼咀嚼*<camp_food_thanks_yukari>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "69c9f45bd77479aafd0aebcd082b6962",
@@ -128,9 +128,9 @@
  {
   "key": "2c718db9349e004fd2a4cd493991927c",
   "original": "<swear_maki>、何か悪いことが起きてるみたい",
-  "translation": "<swear_maki>，好像出什么坏事了",
+  "translation": "<swear_maki>，好像发生什么坏事了",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "356da80ea677a06b70b63dddc070afea",
@@ -149,9 +149,9 @@
  {
   "key": "3da42c884c679d600a72bc4044a87e71",
   "original": "<swear_maki>！<swear_maki>！死んでたまるかー！",
-  "translation": "见鬼！见鬼！我怎么能就这样死了！",
+  "translation": "<swear_maki>！<swear_maki>！我才不会就这样死掉！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[6]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2c04d22859f60af00e18befa5b988580",
@@ -340,14 +340,14 @@
   "original": "<u_name>さん、<acknowledged_maki>",
   "translation": "<u_name>，<acknowledged_maki>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a886d80ca54455a9d53e1a92479742c6",
   "original": "<u_name>さん、<acknowledged_yukari>",
   "translation": "<u_name>，<acknowledged_yukari>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e2e114fd610b793c56d4d7c81ac97f47",
@@ -359,16 +359,16 @@
  {
   "key": "d2e888c07e28018bf92a7f606b0861a2",
   "original": "<u_name>さん、<combat_noise_warning_maki>",
-  "translation": "<u_name>，战斗噪音警告，Maki。",
+  "translation": "<u_name>，<combat_noise_warning_maki>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ca2f950e06e967c4874f5e2e9ba3110e",
   "original": "<u_name>さん、<combat_noise_warning_yukari>",
-  "translation": "<u_name>，请注意战斗噪音，Yukari。",
+  "translation": "<u_name>，<combat_noise_warning_yukari>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "79b9d4567b8e85d0e9b7b9cf951d5f7c",
@@ -569,16 +569,16 @@
  {
   "key": "271fd4028376410c55767c94f1cd3053",
   "original": "<u_name>君<u_name>君、<camp_larder_empty_maki>",
-  "translation": "<u_name>君、<camp_larder_empty_maki>",
+  "translation": "<u_name><u_name>，<camp_larder_empty_maki>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[4]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "49247990bdc469e79f3604bfb8073274",
   "original": "<u_name>君<u_name>君、<camp_larder_empty_yukari>",
-  "translation": "<u_name>君<u_name>君、<camp_larder_empty_yukari>\n\n翻译后内容：\n[u_name]君的营地储藏室空了，Yukari。",
+  "translation": "<u_name><u_name>，<camp_larder_empty_yukari>",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[4]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "43c655415e89a904ab08d45fc15eed15",
@@ -683,21 +683,21 @@
   "original": "<u_name>君、警戒して！何か起きてるみたいだよ！",
   "translation": "<u_name>，警惕起来！好像有什么事情发生了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7b4d509ea21fd91c8d28a170fa3cb032",
   "original": "<u_name>君、警戒して！何か起きてるみたいです！",
   "translation": "<u_name>，警惕起来！好像有什么事情发生了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "679ccebe7fcb15831baee4185492ebd0",
   "original": "<u_name>君、逃げて！",
   "translation": "<u_name>，快逃！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[16]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "de5219fb917477221d6111aa43e762d9",
@@ -2032,7 +2032,7 @@
  {
   "key": "c0803f58c38a19a9a0f31b8ef353356a",
   "original": "『天恵』のハイド",
-  "translation": "『天佑』之海德",
+  "translation": "『天惠之』钻",
   "context": "ID: voiro_spear_pipe_metan\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→GENERIC→voiro_spear_pipe_metan\n",
   "stage": 3
  },
@@ -2263,9 +2263,9 @@
  {
   "key": "26612ec261ce069c39cdca3e1f5a78b5",
   "original": "あほー！",
-  "translation": "哎呦！",
+  "translation": "白痴！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[1]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "01899f9140d542f4732156dde3f10a91",
@@ -2384,7 +2384,7 @@
   "original": "あれは何の音かな？",
   "translation": "那是什么声音呢？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "856067e3afa88505786e12e635e8e1be",
@@ -2524,7 +2524,7 @@
   "original": "いただきます！",
   "translation": "我开动了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "14f37b2f8f0a7bd0994c7398b4f02436",
@@ -2550,9 +2550,9 @@
  {
   "key": "d420af1f103b592f835dbc625369e094",
   "original": "いっただっきまーす♪",
-  "translation": "刚刚才到呀~",
+  "translation": "我收下咯——♪",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[10]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "97409892fcb4ea637bc1773f335783a6",
@@ -2690,9 +2690,9 @@
  {
   "key": "2bcf4e2a6bd199a1db7dad1cf8f78850",
   "original": "うん、それならできると思う",
-  "translation": "嗯，那样的话，我觉得可以。",
+  "translation": "嗯，如果是那样的话，我觉得我可以做到",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4fc7d54a3ceeeaf40825662ee3711ef6",
@@ -2942,9 +2942,9 @@
  {
   "key": "7e9ae27277e179545a5b2e1279eada14",
   "original": "お水おいしいねえ",
-  "translation": "这水真好喝呢",
+  "translation": "水真好喝呢",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0bc268b0ed0d692d7a3632912655b401",
@@ -2956,9 +2956,9 @@
  {
   "key": "253e2bb6e9c800b275ff5575353c6697",
   "original": "お水がこんなにおいしく感じるなんて、今まで無かったな",
-  "translation": "这样的水居然能如此美味，还真是前所未有的体验。",
+  "translation": "没想到水会觉得这么好喝，以前从没感受过呢",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c2910a7a928105e37bb82f656523fe8e",
@@ -3049,7 +3049,7 @@
   "original": "からっぽだ！",
   "translation": "空空如也！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[4]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cf2352796afe59f73d025112daa68e27",
@@ -3166,16 +3166,16 @@
  {
   "key": "54b69c46271f5616995b038f8e0132f5",
   "original": "こっちくるなー！",
-  "translation": "别过来这边呀！",
+  "translation": "不要过来——！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[6]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "30c8a363c6eb99ebe92a1e70a232a5e2",
   "original": "こっち来るなーー！",
-  "translation": "别过来这边——！",
+  "translation": "别过来啊——！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[6]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b962e686e6827fc42a59b4aef2f63d4d",
@@ -3215,9 +3215,9 @@
  {
   "key": "11cf4c4be5feb048ef6dce765e630f54",
   "original": "この音、聞こえてる？",
-  "translation": "这声音，你能听到吗？",
+  "translation": "你听到这个声音了吗？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f1d2ce6ff02e8cbb457a3a8dc3c83423",
@@ -3327,16 +3327,16 @@
  {
   "key": "3cd706036b30f0e8d593a18d2613f924",
   "original": "こんな時こそ冷静に、頭を使って…",
-  "translation": "这种时候正需要冷静下来，用脑子思考…",
+  "translation": "这种时候正需要冷静下来，用脑子思考……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2caabf6a2e417d14347883ab1c521418",
   "original": "ごはんごはん！",
   "translation": "吃饭饭！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ebe4f76f51b4e1cda28104179d06dba4",
@@ -3350,7 +3350,7 @@
   "original": "ごはんないよー！",
   "translation": "没饭啦！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[4]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "48693d65102ee1ad10ee3a5c3f416a1d",
@@ -3411,16 +3411,16 @@
  {
   "key": "a7b56d051a6d004f2374b8976c6ab09c",
   "original": "ご飯を食べてるとまだ生きてるんだ、って思えるよねー",
-  "translation": "吃着饭的时候，还会觉得自己活着呢，是吧。",
+  "translation": "吃饭的时候就会觉得，“自己还活着呢”。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6eecac7a1a0f984318153461e96919ac",
   "original": "ご飯を食べて一休み…",
   "translation": "吃饭休息一下…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ae35657310030f827847256393199b0e",
@@ -3439,9 +3439,9 @@
  {
   "key": "9b25cd99d1941db9db0eb746e873f5f1",
   "original": "さいっってー！！",
-  "translation": "赛特！",
+  "translation": "最差劲了——！！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[1]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5925a67e4bd5e6aada154b43056853db",
@@ -3910,7 +3910,7 @@
   "original": "そんな、すぐそこに！！",
   "translation": "哎呀，就在那儿！！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "107963b0d69c08b0645b729582b481bb",
@@ -3936,7 +3936,7 @@
  {
   "key": "dda0d3db9ed4723d067d325053f8c35f",
   "original": "たんちゃんの半身にあたる巨大な二門のきりたんぽ。普段は味噌が詰まっている筈ですが、何故か今は40mmグレネード弾が詰まっています。",
-  "translation": "相当于切蒲英酱半身的巨大的二门切蒲英炮。平时应该塞满了味噌，但不知为何现在塞满了40mm榴弹。",
+  "translation": "有切蒲英酱一半高度的巨大的二门切蒲英炮。平时应该塞满了味噌，但不知为何现在塞满了40mm榴弹。",
   "context": "ID: voiro_kiritan_cannons\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→GUN→voiro_kiritan_cannons\n",
   "stage": 3
  },
@@ -4006,9 +4006,9 @@
  {
   "key": "790170c50fb05a456e78b53242b92ea2",
   "original": "ちょっとした怪我のお供に絆創膏。ダメージをわずかに回復します。",
-  "translation": "一点小伤，贴上绷带相伴。略微恢复些许损伤。",
+  "translation": "用于治疗微小伤口的创可贴。略微恢复些许伤害。",
   "context": "ID: band_aid\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→COMESTIBLE→band_aid\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6051d73b4da1df4346196bdeebd0c962",
@@ -4055,16 +4055,16 @@
  {
   "key": "3473f4e07537010f6e4e3815bc30d0e3",
   "original": "ちょっと待って、静かに…",
-  "translation": "稍等一下，保持安静…",
+  "translation": "等一下，安静……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1000969dd5ee23e6cbbab8ab80c850f3",
   "original": "ちょっと待って、静かにっ",
-  "translation": "稍等一下，保持安静。",
+  "translation": "等一下，安静",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "746f2e2bbbceccddb1289813a0e2c171",
@@ -4118,9 +4118,9 @@
  {
   "key": "dbe06de3897318e554c6a8c4869b4aa8",
   "original": "と、隣にいる！",
-  "translation": "喂，就在你旁边！",
+  "translation": "啊，就在身边！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0b3ed4ebb9c40b1f54020d4db9243507",
@@ -4139,9 +4139,9 @@
  {
   "key": "eb66babfd4230391a043a9b84a45bc46",
   "original": "どうして目の前に！",
-  "translation": "为什么出现在我面前！",
+  "translation": "怎么会出现在眼前！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[9]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8b3d6e7e065f74ab9017edf102fde6be",
@@ -4167,9 +4167,9 @@
  {
   "key": "cf837e43c955c629803b899eee75c45f",
   "original": "どこかでまたね！",
-  "translation": "再见，咱们会在某个地方再见面的！",
+  "translation": "下次别处再见啦！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[10]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "22a609d47516e23ff6b66254714fed10",
@@ -4225,7 +4225,7 @@
   "original": "なんだか悪い予感がする！",
   "translation": "我有种不祥的预感！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "823e6af58d85e21e2ac7a294861221e9",
@@ -4251,7 +4251,7 @@
  {
   "key": "ecf390401dd479a7167ea3b16cecdec9",
   "original": "なんばしょっと？",
-  "translation": "你要去哪里？",
+  "translation": "你在干什么呢？",
   "context": "ID: TALK_HIME_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_HIME.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_HIME_SAN_1\n",
   "stage": 3
  },
@@ -4300,9 +4300,9 @@
  {
   "key": "7a82ef1bad526c63271a8887e9c64321",
   "original": "ねえ、<u_name>君。もう食べ物が残ってないみたいだよ？",
-  "translation": "嘿，<u_name>，看起来我们好像没食物剩下啦？",
+  "translation": "嘿，<u_name>。看起来我们已经没食物啦？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[4]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "05eeecfcb57463d39d1bb98477c38eeb",
@@ -4321,7 +4321,7 @@
  {
   "key": "33ade161742ab5986d2a3b6a3f484ddc",
   "original": "はい(仲間に勧誘)",
-  "translation": "招人（邀请加入队伍）",
+  "translation": "是的（邀请加入队伍）",
   "context": "ID: TALK_TAKAHASHI_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TAKAHASHI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TAKAHASHI_SAN_1\n",
   "stage": 3
  },
@@ -4358,7 +4358,7 @@
   "original": "はいよー",
   "translation": "好的哟",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "aed28e86559f4f9cb6377ba3c290988d",
@@ -4393,14 +4393,14 @@
   "original": "ばーか",
   "translation": "傻瓜",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[25]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9539a8038d1f130a14ff9191ef89f084",
   "original": "ばーか！",
   "translation": "傻瓜！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[1]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "59a6c6901b98354d12cb67bfb19ddff9",
@@ -4419,9 +4419,9 @@
  {
   "key": "fc284822443fce348e09276c0ddb8e0f",
   "original": "ひどい",
-  "translation": "糟糕透了",
+  "translation": "太过分了",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c2d5395eef627c3936c250446b412636",
@@ -4531,9 +4531,9 @@
  {
   "key": "8a6fa1a3281aeb2e7981b1dea120404b",
   "original": "べーっ！…あっ、嘘嘘、ちゃんとやるよ？",
-  "translation": "哎呀！…嗯，别急，我会好好做的！",
+  "translation": "略略略！……啊，开玩笑啦，我会好好做的哦？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "882707d417f0e640ed1e76c75a1c69f0",
@@ -4792,7 +4792,7 @@
   "original": "やだ",
   "translation": "讨厌",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "14c99848696dc288c65684d57c46870c",
@@ -4916,7 +4916,7 @@
  {
   "key": "bd8d83a192aaf7fb35831ad65d1680d5",
   "original": "よかよか",
-  "translation": "很好很好",
+  "translation": "可以哦",
   "context": "ID: TALK_HIME_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_HIME.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_HIME_SAN_2\n",
   "stage": 3
  },
@@ -4958,16 +4958,16 @@
  {
   "key": "1de6877487491754d87982b59e39b3c0",
   "original": "りょーかい",
-  "translation": "预料",
+  "translation": "了解",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8c6a2609cda406bec8226718ae6e9353",
   "original": "わかったー！",
   "translation": "明白了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ad7a978ba733087c977b4edbda8ace9a",
@@ -4981,7 +4981,7 @@
   "original": "わがまま言えない状況だけど今は仕方ないよね",
   "translation": "虽然这不是能任性的状况，但现在也没办法呢。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c1f3a4bdc23e6c4e4d1d80720e4b7d4e",
@@ -5700,9 +5700,9 @@
  {
   "key": "cf7e4a90ab2c5e1bab30c5c1d4c4d7ec",
   "original": "オッケー！",
-  "translation": "好的！",
+  "translation": "OK！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "182572a78f8a3235c9b89e7c8cefeffe",
@@ -6750,7 +6750,7 @@
  {
   "key": "0b93cc5d8732274c2eb2202b9779ce59",
   "original": "ニプレス(絆創膏)[voiro]",
-  "translation": "创可贴[voiro]",
+  "translation": "乳贴（创可贴）[voiro]",
   "context": "ID: hentai_band_aid3\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/hentai/hentai.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→hentai_band_aid3\n",
   "stage": 3
  },
@@ -7030,7 +7030,7 @@
  {
   "key": "90cd8f86558bb2a787d3b9866165edd3",
   "original": "ピンク色の長耳うさちゃん。これで叩かれても痛くも痒くもないでしょう。「演奏」と枕の代わりが出来そうです。",
-  "translation": "粉红色的长耳朵。即使被打也不痛不痒。可以用于演奏或者当作枕头。",
+  "translation": "粉红色的长耳朵兔兔。即使被打也不痛不痒。可以用于演奏或者当作枕头。",
   "context": "ID: voiro_stuffed_bunny_ai\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL_ARMOR→voiro_stuffed_bunny_ai\n",
   "stage": 3
  },
@@ -7338,28 +7338,28 @@
  {
   "key": "9366efc3117a6190b1a2fc2c71794373",
   "original": "ポイポン8(音楽)[voiro]",
-  "translation": "ポイポン8（音楽）[voiro]",
+  "translation": "Poipon 8（音乐）[voiro]",
   "context": "ID: voiro_poipon8_music\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_poipon8_music\n",
   "stage": 3
  },
  {
   "key": "e573e9a9bda736fff163428051641c99",
   "original": "ポイポン8専用に作られた、結月ゆかりコラボデザインの防水スマートフォンケースです。高級感のある紫色を基調として、ケースの中心に記号的な兎のイラストが描かれており、よく見ると縁の部分がチェーンソーをデフォルメしたようなデザインになっています。",
-  "translation": "这是一款专为PoiPon8设计的，采用结月缘合作设计的防水智能手机壳。以彰显高端的紫色为主色调，手机壳中央绘制有标志性的兔子图案；细看之下，边缘部分的设计仿佛是链锯的卡通化变形。",
+  "translation": "这是一款专为PoiPon8设计的，采用结月缘联动设计的防水智能手机壳。以彰显高端的紫色为主色调，手机壳中央绘制有标志性的兔子图案；细看之下，边缘部分的设计是卡通化的链锯。",
   "context": "ID: waterproof_smart_phone_case_voiro\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/containers.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→GENERIC→waterproof_smart_phone_case_voiro\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "38cfb14f7375ac611e4ad6b7e99a9aa5",
   "original": "ポイポンU92 Pro (ライト)[voiro]",
-  "translation": "ポイポンU92 Pro （ライト）[voiro]",
+  "translation": "Poipon U92 Pro（手电筒）[voiro]",
   "context": "ID: voiro_atomic_poipon_u92_flashlight\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_atomic_poipon_u92_flashlight\n",
   "stage": 3
  },
  {
   "key": "bc982bceb11e1da1cf9eef2d97c60604",
   "original": "ポイポンU92 Pro (音楽)[voiro]",
-  "translation": "ポイポンU92 Pro （音楽）[voiro]",
+  "translation": "Poipon U92 Pro（音乐）[voiro]",
   "context": "ID: voiro_atomic_poipon_u92_music\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_atomic_poipon_u92_music\n",
   "stage": 3
  },
@@ -7401,9 +7401,9 @@
  {
   "key": "629f69fcfddc5cc7e0e2e5407e86c6a4",
   "original": "マーチングバンドにおけるドラムメジャー(指揮者)が持つ指揮棒です。音街ウナの物はティップ、ボールと呼ばれる両端が宝石の様になっています。",
-  "translation": "这是一根指挥棒，类似于行进乐队中鼓队长所使用的。音街ウナ拥有的那根，两端被称为“尖端”和“球体”，都设计得像宝石一样。",
+  "translation": "这是一根指挥棒，类似于行进乐队的指挥所使用的。音街鳗拥有的那根，被称为“尖端”和“球体”的两端都设计得像宝石一样。",
   "context": "ID: voiro_majorbaton\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_majorbaton\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ba8ffd019e307ad8a47a687c332e3643",
@@ -7716,9 +7716,9 @@
  {
   "key": "4a834c412c43c1473b5dc228180fe0bd",
   "original": "一般的な市販のマイクです。伴奏者は消えようとも歌は文化です。世界にあなたの声を響かせましょう。鈍器の様に扱うことも出来ますが、対した脅威にはならないでしょう。",
-  "translation": "这是一款普通的市售麦克风。即便伴奏消失，歌唱仍是文化的传承。让我们把你的声音传遍世界。尽管你可以像使用钝器那样挥舞它，但对面临的威胁却无济于事。",
+  "translation": "这是一款普通的市售麦克风。即便伴奏者消失，歌唱仍传承文化。让你的声音响彻世界吧。尽管可以如钝器般握在手中，却不足以对抗面临的威胁。",
   "context": "ID: voiro_mic\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_mic\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1155d92f3c3c2a461aac08e91346d0b1",
@@ -7786,9 +7786,9 @@
  {
   "key": "3426af42c3568b643c8fe40d6dc1c084",
   "original": "了解でありまーす！…なんて",
-  "translation": "了解しました！…というより",
+  "translation": "知道啦——！……啥的",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "ce9dc89ced37f258fae7f8c1dbf47a88",
@@ -7968,7 +7968,7 @@
  {
   "key": "5a23c69c6d472fbe8ecea9b29a781de4",
   "original": "今連れていくのは危険だ…もう少しここで待っててもらおう",
-  "translation": "现在带他走很危险......让她在这里等一会儿",
+  "translation": "现在带他走很危险......让他在这里等一会儿",
   "context": "ID: TALK_SHOTA_SAN_1\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_SHOTA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_SHOTA_SAN_1\n",
   "stage": 3
  },
@@ -8040,7 +8040,7 @@
   "original": "任せて！",
   "translation": "交给我吧！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "69d7cbbebe8ec26ee6904992f1b114f5",
@@ -8094,9 +8094,9 @@
  {
   "key": "d21c9857b9e5428f48903c22d73ab1c5",
   "original": "何かが戦ってるみたい",
-  "translation": "好像有什么东西在战斗。",
+  "translation": "似乎有什么在战斗",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "e937bd57ceab1143e15f8a1422c3b48d",
@@ -8108,9 +8108,9 @@
  {
   "key": "f0702955797071026a590bf4df7040f0",
   "original": "何かが戦ってるみたい！",
-  "translation": "好像有什么东西在战斗！",
+  "translation": "似乎有什么在战斗！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3ceabab5764e21edfc0248c8378af001",
@@ -8122,9 +8122,9 @@
  {
   "key": "e0b27e21d5952709cab59028b482ce30",
   "original": "何か起こってるみたい",
-  "translation": "好像有什么事情正在发生",
+  "translation": "似乎发生了什么事情",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[8]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "0b798d2bb7eff7869380dd4f18284eca",
@@ -8318,9 +8318,9 @@
  {
   "key": "71cdea532e3ac4fd4dad2c0bf3669655",
   "original": "助かった…ありがとう！あ、当分は一緒に行動させてもらうね！あ、ラキストンもお腹減ったって",
-  "translation": "太好了...谢谢你！啊，那我们就暂时一起行动吧！啊，拉基斯顿也说它饿了。",
+  "translation": "真是救了我一命…谢谢！啊，暂时让我和你们一起行动吧！啊，Lakiston也说它饿了。",
   "context": "ID: TALK_RIKKA_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_RIKKA.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_RIKKA_SAN_2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "4883b9e1c9428f0a695448f74c796ee9",
@@ -8684,7 +8684,7 @@
   "original": "安全な水がこんなに貴重だったなんてねー…",
   "translation": "安全的饮用水竟然如此珍贵啊…",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[5]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "70b83b3e4853f2d86d36031b96af9522",
@@ -8948,16 +8948,16 @@
  {
   "key": "18ad6b1c6a9943f1c97ad238d01f68ca",
   "original": "怖い…<swear_maki>。",
-  "translation": "可怕…<swear_maki>。",
+  "translation": "好可怕……<swear_maki>。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[30]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "06d885f07e38f31910088ea10b132356",
   "original": "怖い…<swear_yukari>。",
-  "translation": "好可怕…<swear_yukari>。",
+  "translation": "好可怕……<swear_yukari>。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[30]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "69c35ae0ca3be62a9aa9bbe0afc4eae5",
@@ -8969,9 +8969,9 @@
  {
   "key": "4b3eea2ef0327aade0ad53668f1492e0",
   "original": "怖い…！",
-  "translation": "好可怕…！",
+  "translation": "好可怕……！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[9]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bb0d68e80bcc92ed46a789f199469549",
@@ -9062,7 +9062,7 @@
   "original": "戦うしかない？",
   "translation": "只能战斗了？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[6]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c2f5047f850989bd844e9181db848dee",
@@ -9095,9 +9095,9 @@
  {
   "key": "673245ce7a4a60e242f24721714dc942",
   "original": "折り畳みソーラーパネル(九州そら)(展開)[voiro]",
-  "translation": "折叠式太阳能板（九州天空型）（展开状态）[voiro]",
+  "translation": "可折叠太阳能板（九州宇宙）（展开）[voiro]",
   "context": "ID: voiro_solar_sora_on\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_solar_sora_on\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1e4df84b05739a2abd671d17ac9e8e32",
@@ -9193,7 +9193,7 @@
  {
   "key": "eb9d89c517b52ac6d67fa1e3f07d7223",
   "original": "方相氏の用いる長柄武器です。かなりの重量と大きさを誇ります。地域によっては一方の刃が短い三叉の矛もあり、役追儺は両方を使い分けます。",
-  "translation": "方相氏使用的长柄武器。拥有相当大的重量和尺寸。根据地域的不同，也有单刃较短的三叉戟，如月追傩式样的是分开成两刃的类型。",
+  "translation": "方相氏使用的长柄武器。拥有相当大的重量和尺寸。根据地域的不同，也有单刃较短的三叉戟，役追傩会分别灵活使用这两种类型。",
   "context": "ID: voiro_halberd_tuina\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→GENERIC→voiro_halberd_tuina\n",
   "stage": 3
  },
@@ -9375,21 +9375,21 @@
  {
   "key": "d09a802cef81d2502c06cd74f73f1602",
   "original": "書店や図書館あったら寄ってね、…そういえばささらちゃんたちはどこへ行ったのかしらね",
-  "translation": "如果有书店或图书馆的话，记得顺道去看看…说起来，小莎她们去哪儿了呢？",
+  "translation": "如果有书店或图书馆的话，记得顺道去看看……说起来，莎莎拉酱她们去哪儿了呢？",
   "context": "ID: TALK_TUZUMI_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TUZUMI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TUZUMI_SAN_2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1c73433cc8046f0e92f71548e52bf8ea",
   "original": "最低",
-  "translation": "最低",
+  "translation": "差劲",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[0]\n",
   "stage": 1
  },
  {
   "key": "3681c5d7d9300c6f81d14138d73b6989",
   "original": "最低！",
-  "translation": "最低！",
+  "translation": "差劲！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[36]\n",
   "stage": 1
  },
@@ -9417,9 +9417,9 @@
  {
   "key": "743650d4e675a359dc9b3d5e1e851df4",
   "original": "最悪",
-  "translation": "最糟糕的情况",
+  "translation": "最糟糕了",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[0]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "628d6f3573f9fc80723885aad60226ac",
@@ -9979,7 +9979,7 @@
   "original": "発電用のソーラーパネルです。使用することでケーブルを自身に刺し、充電できます。噂では翼の代わりになったりするようです。",
   "translation": "这是一块用于发电的太阳能板。通过使用它，你可以将电缆连接到自己身上进行充电。有传言说，它甚至能成为翅膀的替代品。",
   "context": "ID: voiro_solar_sora_on\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_solar_sora_on\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "61c3becc71b6be97b879605e78c043c3",
@@ -10028,14 +10028,14 @@
   "original": "目と鼻の先に！",
   "translation": "就在眼前！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "83151af7d02409451b5dc8a720a80b46",
   "original": "目の前だなんて…",
-  "translation": "就在眼前...",
+  "translation": "就在眼前……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[7]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "672d3c1c69547089abb05ff7ac637131",
@@ -10222,9 +10222,9 @@
  {
   "key": "b64f8391c2b4a7c0a4b915eafca52002",
   "original": "私、今日まだ食べてなんだけどー？",
-  "translation": "我今天还没吃东西呢~",
+  "translation": "我今天还没吃东西呢~？",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[4]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f8fbf379be5f307f5850ab38233f611c",
@@ -10257,9 +10257,9 @@
  {
   "key": "a90cef04ba5125cdc68649427cdc20a1",
   "original": "私にまかせてっ",
-  "translation": "交给我吧。",
+  "translation": "就交给我吧",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[2]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d785477f6d1874e01eca49016e0346f6",
@@ -10474,9 +10474,9 @@
  {
   "key": "b3d2363e322093ea48a39dc835f2e588",
   "original": "美味しいねー",
-  "translation": "真好吃呢",
+  "translation": "真好吃呢——",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[3]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1f3670cccc7694855b50e0ed46c5787a",
@@ -10670,9 +10670,9 @@
  {
   "key": "078c9c42203ebbbe946c0da6f69a40f2",
   "original": "薄くて軽い、洗練されたデザイン。超高速ワイヤレス接続。そして豊富に揃ったアプリケーション。精細な地図の表示、苦しい家計の計算、そして世界征服。あなたがしたいと思うすべてのことを、驚くほどのスピードで、思いのままに。ポイポン8は、最高のパートナーです。",
-  "translation": "轻薄而精致的设计，超高速无线连接，以及丰富多样的应用程序。无论是展现细腻的地图细节，管理紧巴巴的家庭预算，还是迈向世界征服， poi pon8 都能以惊人的速度，随心所欲地助你实现所有想做的事情。它是你最理想的伙伴。",
+  "translation": "轻薄而精致的设计，超高速无线连接，以及丰富多样的应用程序。无论是详细的地图显示，痛苦的家庭收支计算，还是世界征服， Poipon 8都能以惊人的速度，助你随心所欲地实现所有想做的事情。它是你最理想的伙伴。",
   "context": "ID: voiro_poipon8\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_poipon8\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d8f9585ac71ec8b6a5d13cf93199ff96",
@@ -10824,7 +10824,7 @@
  {
   "key": "6a1734a6196775249eb8df390ac2614e",
   "original": "誰かの日記のようです。使用すると…?",
-  "translation": "誰かの日記のようです。使用すると…？",
+  "translation": "似乎是某人的日记。使用后会……？",
   "context": "ID: nikki_37\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/test_item/items.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→nikki_37\n",
   "stage": 3
  },
@@ -10992,16 +10992,16 @@
  {
   "key": "45fbdeab5b7c00e995da1daf4dcf96a4",
   "original": "逃げられない、やるしかないようですね！",
-  "translation": "看来是避无可避，只能放手一搏了！",
+  "translation": "无处可逃，只能拼了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_YUKARI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[6]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9025043694dc5eab10b2d5bdd5dc0fde",
   "original": "逃げられない、やるしかないよ！",
   "translation": "无处可逃，只能拼了！",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/talk_tags_MAKI.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→snippet→[6]\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2faa0821ad39e177a316d5dc8f50a375",
@@ -11111,7 +11111,7 @@
  {
   "key": "4f9ef9d33916b19c0f40612f940903ad",
   "original": "鉄製に見えますが、鋲が打たれ漆塗りを施された木製の盾です。表面にはペンキで「ONI IS OUT!!」と書かれています。",
-  "translation": "看起来是铁制的，其实是钉了铆钉并涂了漆的木制盾牌。表面用油漆写着“ONI IS OUT！！”写着。",
+  "translation": "看起来是铁制的，其实是钉了铆钉并涂了漆的木制盾牌。表面用油漆写着“ONI IS OUT！！”。",
   "context": "ID: voiro_shield_tuina\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→ARMOR→voiro_shield_tuina\n",
   "stage": 3
  },
@@ -11209,9 +11209,9 @@
  {
   "key": "df9c04503285e46244f55d0f0340f626",
   "original": "雷模様が入ったマイクです。伴奏者は消えようとも歌は文化です。世界にあなたの声を響かせましょう。鈍器の様に扱うことも出来ますが、対した脅威にはならないでしょう。",
-  "translation": "这是一款带有雷电图案的麦克风。即便伴奏消失，歌唱仍传承文化。让您的声音响彻世界。尽管可以如钝器般握在手中，却不足以对抗面临的威胁。",
+  "translation": "这是一款带有雷电图案的麦克风。即便伴奏者消失，歌唱仍传承文化。让你的声音响彻世界吧。尽管可以如钝器般握在手中，却不足以对抗面临的威胁。",
   "context": "ID: voiro_mic_una_spicy\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→TOOL→voiro_mic_una_spicy\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d4a960aa1d76954612c25f42d72f1a05",
@@ -11510,7 +11510,7 @@
  {
   "key": "14f55b8cf45a8f0db022c60dfebc6442",
   "original": "ﾅﾆﾆｼﾏｽｶ?",
-  "translation": "你—在—做—什—么？",
+  "translation": "你要点什么吗？",
   "context": "ID: TALK_TAKAHASHI_SAN_2\n位于 /Kenan-Structured-Modpack/VOICEROID+Ex_mod/npcs/TALK/TALK_TAKAHASHI.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#VOICEROID+Ex_mod→talk_topic→TALK_TAKAHASHI_SAN_2\n",
   "stage": 3
  }
