@@ -916,7 +916,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             if(typeof item?.no === 'object'){
               now = item.no
             }
-            while (now?.yes === 'object' || typeof now?.no === 'object'){
+            while (typeof now?.yes === 'object' || typeof now?.no === 'object'){
               if(typeof now?.yes === 'object'){
                 if(typeof now?.no === 'string') {
                   now.no = await translateFunction(now.no);
