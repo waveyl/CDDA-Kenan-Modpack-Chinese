@@ -687,15 +687,6 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     );
   const noop = () => {};
 
-  const translateFunctionB = async (data) =>{
-    if(Array.isArray(data)){
-      data = await Promise.all(data.map((data) => translateFunction(data)));
-    }
-    if (typeof data === 'string') {
-      data = await translateFunction(data);
-    }
-  }
-
   // 常用的翻译器
   const maleFemaleItemDesc = async (item) => {
     item.male = await translateFunction(item.male);
@@ -905,8 +896,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       // }
       if (Array.isArray(line?.concatenate)){
         await Promise.all(line.concatenate.map(async (item) => {
-          await translateFunctionB(item?.yes)
-          await translateFunctionB(item?.no)
+          if (typeof item?.yes === 'string') {
+            item.yes = await translateFunction(item.yes);
+          }
+          if(Array.isArray(item?.yes)){
+            item.yes = await Promise.all(item.yes.map((yes) => translateFunction(yes)));
+          }
+          if (typeof item?.no === 'string') {
+            item.no = await translateFunction(item.no);
+          }
+          if(Array.isArray(item?.no)){
+            item.no = await Promise.all(item.no.map((no) => translateFunction(no)));
+          }
           let now;
           if(typeof item?.yes === 'object' || typeof item?.no === 'object'){
             if(typeof item?.yes === 'object'){
@@ -917,16 +918,36 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             }
             while (typeof now?.yes === 'object' || typeof now?.no === 'object'){
               if(typeof now?.yes === 'object'){
-                await translateFunctionB(now?.no)
+                if(typeof now?.no === 'string') {
+                  now.no = await translateFunction(now.no);
+                }
+                if(Array.isArray(now?.no)){
+                  now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
+                }
                 now = now.yes
               }
               if(typeof now?.no === 'object'){
-                await translateFunctionB(now?.yes)
+                if(typeof now?.yes === 'string') {
+                  now.yes = await translateFunction(now.yes);
+                }
+                if(Array.isArray(now?.yes)){
+                  now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
+                }
                 now = now.no
               }
             }
-            await translateFunctionB(now?.yes)
-            await translateFunctionB(now?.no)
+            if (typeof now?.yes === 'string') {
+              now.yes = await translateFunction(now.yes);
+            }
+            if(Array.isArray(now?.yes)){
+              now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
+            }
+            if (typeof now?.no === 'string') {
+              now.no = await translateFunction(now.no);
+            }
+            if(Array.isArray(now?.no)){
+              now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
+            }
           }
         }))
       }
