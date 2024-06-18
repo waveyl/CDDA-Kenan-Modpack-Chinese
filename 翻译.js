@@ -909,15 +909,16 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             item.no = await Promise.all(item.no.map((no) => translateFunction(no)));
           }
           let now;
-          if(typeof item?.yes === 'object' || typeof item?.no === 'object'){
-            if(typeof item?.yes === 'object'){
+          // typeof无法区分不是array的object
+          if(Object.getPrototypeOf(item?.yes) === Object.prototype || Object.getPrototypeOf(item?.no) === Object.prototype){
+            if(Object.getPrototypeOf(item?.yes) === Object.prototype){
               now = item.yes
             }
-            if(typeof item?.no === 'object'){
+            if(Object.getPrototypeOf(item?.no) === Object.prototype){
               now = item.no
             }
-            while (typeof now?.yes === 'object' || typeof now?.no === 'object'){
-              if(typeof now?.yes === 'object'){
+            while (Object.getPrototypeOf(now?.yes) === Object.prototype || Object.getPrototypeOf(now?.no) === Object.prototype){
+              if(Object.getPrototypeOf(now?.yes) === Object.prototype){
                 if(typeof now?.no === 'string') {
                   now.no = await translateFunction(now.no);
                 }
@@ -926,7 +927,7 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
                 }
                 now = now.yes
               }
-              if(typeof now?.no === 'object'){
+              if(Object.getPrototypeOf(now?.no) === Object.prototype){
                 if(typeof now?.yes === 'string') {
                   now.yes = await translateFunction(now.yes);
                 }
