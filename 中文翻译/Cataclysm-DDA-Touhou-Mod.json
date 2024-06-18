@@ -162,9 +162,9 @@
  {
   "key": "3dd3c8ae46cec53b7182b350126e9115",
   "original": "<npcname> crosses their hands, sending a bolt of electricity at %s!",
-  "translation": "<npcname> 交叉双手，向 %s 射出了一条电弧!",
+  "translation": "<npcname> 交叠双手，向 %s 射出了一道电弧!",
   "context": "ID: tec_iku_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_palm\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "3ec16b023c69b2ecb85a7283cd173839",
@@ -439,7 +439,7 @@
  {
   "key": "267c0be88f2f967984f7e594d8a5f7a4",
   "original": "<npcname> swings a low wide arc at %s, knocking them back!",
-  "translation": "<npcname> 以一记低而宽的弧线向%s挥出，将他们击退！",
+  "translation": "<npcname> 朝着%s低扫，将他们击退！",
   "context": "ID: tec_iku_earthen_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_earthen_crescent\n",
   "stage": 3
  },
@@ -1600,16 +1600,16 @@
  {
   "key": "446e3993da23b5bae11f3fd52bca3cb2",
   "original": "Adds the effect, which intermitently casts the spell(s) below",
-  "translation": "添加效果，间歇性地施放以下咒语",
+  "translation": "Adds the effect, which intermitently casts the spell(s) below",
   "context": "ID: yamame_disease_volatilerot2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_disease_volatilerot2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "4475172571eaa6cd5ef1b8b259835085",
   "original": "Adds the heal effect of seiga_chidrain , which intermitently casts the spell below (each 1 s)",
-  "translation": "添加了seiga_chidrain的治疗效果，该效果间歇性地施放以下法术（每隔1秒）",
+  "translation": "Adds the heal effect of seiga_chidrain , which intermitently casts the spell below (each 1 s)",
   "context": "ID: seiga_chidrain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_chidrain2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "444d3e6c80c7b40657f0b4dede441daa",
@@ -4358,9 +4358,9 @@
  {
   "key": "f1a76f66cca677c6e628d9ca58a6c8fc",
   "original": "Flow",
-  "translation": "流速",
+  "translation": "流",
   "context": "ID: style_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kasen\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e24ee2487879116dcab772c0ac4fe341",
@@ -6287,16 +6287,16 @@
  {
   "key": "1de715ff17de9b7d878d5ae17bdf285d",
   "original": "Maple fan wind (dmg)",
-  "translation": "枫叶扇风（伤害）",
+  "translation": "Maple fan wind (dmg)",
   "context": "ID: aya_fanwind2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_fanwind2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e711743e8b32bc3f7771bbdf3e7a0cf8",
   "original": "Maple fan wind (stun)",
-  "translation": "枫叶扇风（眩晕）",
+  "translation": "Maple fan wind (stun)",
   "context": "ID: aya_fanwind3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_aya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aya_fanwind3\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cb1ae7c55cde5f4e60050d323f327de7",
@@ -9669,9 +9669,9 @@
  {
   "key": "7f9817858a015c97602a8a73da73ba6a",
   "original": "The %s tries to grab <npcname>, but <npcname> breaks through!",
-  "translation": "The %s tries to grab <npcname>，but <npcname> breaks through！",
+  "translation": "%s试图抓住<npcname>，但<npcname>破开了！",
   "context": "ID: tec_kasen_break_unarmed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_break_unarmed\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "674b495bad9ef23ccd23c71c213a684b",
@@ -9682,9 +9682,9 @@
  {
   "key": "76d568a941f02b60e5e705f88d24d6c9",
   "original": "The %s tries to grab you, but you break through!",
-  "translation": "The %s tries to grab you，but you break through！",
+  "translation": "%s试图抓住你，但你破开了！",
   "context": "ID: tec_kasen_break_unarmed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kasen_break_unarmed\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "60c608dbf28f0112b6c7fbee5b0f5db5",
@@ -9801,9 +9801,9 @@
  {
   "key": "d9cf61463008d0110c0381521aeaf02c",
   "original": "The path that can be walked through is not the way.  Evading attacks increase your parry chance, but makes it more difficult to evade sucessive attacks.",
-  "translation": "能行走的道路非正道。躲避攻击会提升格挡几率，但使你更难连续避开攻击。",
+  "translation": "可道非常道。闪避攻击会提升格挡几率，但使你更难闪避接下来的攻击。",
   "context": "ID: style_kasen\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_kasen\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "dc76842e6f92111a6c667130ce608b36",
@@ -9995,30 +9995,30 @@
  {
   "key": "33215437c57ff22fd89356e8a6e3bd04",
   "original": "This adds the condition for mon_utsuho_minisun to cast their version of the spell",
-  "translation": "这为 mon_utsuho_minisun 添加了施放它们版本法术的条件。",
+  "translation": "This adds the condition for mon_utsuho_minisun to cast their version of the spell",
   "context": "ID: hellcannon_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_utsuho_hellcannon.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→hellcannon_to_mon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "8236c7b88a4f47f2276cd21f1d6bc311",
   "original": "This adds the condition for mon_yoshika to cast her stuff",
-  "translation": "这为mon_yoshika施放她的能力添加了条件。",
+  "translation": "This adds the condition for mon_yoshika to cast her stuff",
   "context": "ID: seiga_yoshika_var\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_var\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "1705ff12157433000d1bc6056b42cf25",
   "original": "This adds the condition for mon_youmumyon to cast the uncontrollable version of the spell",
-  "translation": "这为mon_youmumyon施放不可控版本的法术增添了条件。",
+  "translation": "This adds the condition for mon_youmumyon to cast the uncontrollable version of the spell",
   "context": "ID: slasheternal2_bash_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slasheternal2_bash_to_mon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "96e5bfeb280c96a581d45b4e3408481b",
   "original": "This adds the condition for mon_youmumyon to cast their version of the spell",
-  "translation": "这为mon_youmumyon施放它们版本的法术增添了条件。",
+  "translation": "This adds the condition for mon_youmumyon to cast their version of the spell",
   "context": "ID: slashnether2_to_mon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_youmu_phantoms.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→slashnether2_to_mon\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "e7c1e367a7a066c64603f4a910e96faf",
@@ -11449,9 +11449,9 @@
  {
   "key": "9d5246a8c764231003dd8b7a33cb3a0d",
   "original": "You cross your hands and discharge energy at %s!",
-  "translation": "你双手交叠，释放出能量，攻击力达到了%s！",
+  "translation": "你双手交叠，向%s倾泻能量！",
   "context": "ID: tec_iku_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_palm\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "b018e9f1ab1f13534d99fbf35e1761be",
@@ -12454,9 +12454,9 @@
  {
   "key": "1ade6e41065fd7430ec2972393ba0681",
   "original": "You swing a low wide arc at %s, knocking them back!",
-  "translation": "You swing a low wide arc at %s，knocking them back！",
+  "translation": "你朝着%s低扫，将他们击退！",
   "context": "ID: tec_iku_earthen_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_earthen_crescent\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "273a41992d75e24a6266f6539d3af71c",
