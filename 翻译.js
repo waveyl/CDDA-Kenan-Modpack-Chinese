@@ -899,8 +899,14 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
           if (typeof item?.yes === 'string') {
             item.yes = await translateFunction(item.yes);
           }
+          if(Array.isArray(item?.yes)){
+            item.yes = await Promise.all(item.yes.map((yes) => translateFunction(yes)));
+          }
           if (typeof item?.no === 'string') {
             item.no = await translateFunction(item.no);
+          }
+          if(Array.isArray(item?.no)){
+            item.no = await Promise.all(item.no.map((no) => translateFunction(no)));
           }
           let now;
           if(typeof item?.yes === 'object' || typeof item?.no === 'object'){
@@ -912,19 +918,35 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             }
             while (now?.yes === 'object' || typeof now?.no === 'object'){
               if(typeof now?.yes === 'object'){
-                now.no = await translateFunction(now.no);
+                if(typeof now?.no === 'string') {
+                  now.no = await translateFunction(now.no);
+                }
+                if(Array.isArray(now?.no)){
+                  now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
+                }
                 now = now.yes
               }
               if(typeof now?.no === 'object'){
-                now.yes = await translateFunction(now.yes);
+                if(typeof now?.yes === 'string') {
+                  now.yes = await translateFunction(now.yes);
+                }
+                if(Array.isArray(now?.yes)){
+                  now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
+                }
                 now = now.no
               }
             }
-            if(now?.yes){
+            if (typeof now?.yes === 'string') {
               now.yes = await translateFunction(now.yes);
             }
-            if(now?.no){
+            if(Array.isArray(now?.yes)){
+              now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
+            }
+            if (typeof now?.no === 'string') {
               now.no = await translateFunction(now.no);
+            }
+            if(Array.isArray(now?.no)){
+              now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
             }
           }
         }))
