@@ -981,6 +981,8 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             if (res_effect.u_message) res_effect.u_message = await translateFunction(res_effect.u_message);
           }
         }
+        if (response?.effect && Object.getPrototypeOf(response?.effect) === Object.prototype)
+          response.effect.u_message = await translateFunction(response.effect.u_message)
       }
     }
     if (item.dynamic_line) {
