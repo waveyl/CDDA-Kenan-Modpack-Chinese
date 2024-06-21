@@ -94,9 +94,9 @@
  {
   "key": "2a47ff16b5fc308f44b463be7e89f611",
   "original": "%1$s bites <npcname> into the ground!",
-  "translation": "%1$s 狠狠地咬进了地面深处!",
+  "translation": "%1$s 把<npcname> 咬到了地上!",
   "context": "ID: secro_ayenel_bitedown\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_ayenel_bitedown\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ba17fc033c77223d7da64c71795934f0",
@@ -248,9 +248,9 @@
  {
   "key": "7f77b082ef49028029c5bacf46a27351",
   "original": "%1$s hits <npcname>, but fails to penetrate armor!",
-  "translation": "攻击击中了%1$s次，但未能穿透盔甲!",
+  "translation": "%1$s 攻击 <npcname>，但未能穿透护甲!",
   "context": "ID: secro_tendrilswing\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_tendrilswing\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3510a5a01fd7ae4a1f7a6d8cc97e4af8",
@@ -262,9 +262,9 @@
  {
   "key": "6b37e0fdddaecf8b22c7601307cbda70",
   "original": "%1$s lashes <npcname>!",
-  "translation": "一千一百一十一鞭 六千六百六十六！",
+  "translation": "%1$s鞭打<npcname>！",
   "context": "ID: secro_sflesh_vbeast_wlace\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_sflesh_vbeast_wlace\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "3323e2a27076c561e42f63d460151343",
@@ -1839,9 +1839,9 @@
  {
   "key": "236ee496d156b4381c69d2b31b62aa06",
   "original": "<color_red>You feel the ground shaking.</color>\n<color_yellow>%1$s sends a defeaning screech!</color>",
-  "translation": "你感到地面在震动。</color>   \n   <color_yellow>   %1$s   发出了一声震耳欲聋的尖叫！</color>",
+  "translation": "<color_red>你感到地面在颤动。</color>   \n<color_yellow>%1$s 发出了一声震耳欲聋的尖叫！</color>",
   "context": "ID: mon_zombie_gorepit\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_gorepit\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "d953006f519f55905bcb7fad611e44b9",
@@ -2129,9 +2129,9 @@
  {
   "key": "879e3350dc1ebf75eeca1ec15048883d",
   "original": "<color_yellow>%1$s volleys bone needles at %3$s!</color>",
-  "translation": "<color_yellow>号 向 %3$s号 发射了一连串骨针！</color>号注意。",
+  "translation": "<color_yellow>%1$s 向 %3$s 射出一串骨针！</color>",
   "context": "ID: mon_zombie_fleshysnaky\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/+Misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_fleshysnaky\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "686c1ad867357766b13c37851c28c3f1",
@@ -2227,16 +2227,16 @@
  {
   "key": "be6a22c9e313c7745a8d43238fe98d97",
   "original": "<color_yellow>Blood flows through %1$s from %3$s!</color>",
-  "translation": "鲜血从%3$s涌向%1$s！</color>",
+  "translation": "<color_yellow>鲜血从 %3$s 流向 %1$s！</color>",
   "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b4d183d3c596f490571afa66b408f9bf",
   "original": "<color_yellow>Blood flows through %1$s!</color>",
-  "translation": "鲜血涌动于 %1$s 之中！</color>",
+  "translation": "<color_yellow>鲜血流过 %1$s ！</color>",
   "context": "ID: mon_maneater_evo\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Abberations/Maneater.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_maneater_evo\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "518cd84e02bcd112cd0066806cfbdec4",
@@ -11208,7 +11208,7 @@
  {
   "key": "7405c47345320a51e5f28c58eec4bd92",
   "original": "The flesh feels warm.",
-  "translation": "这肉质摸起来温热。",
+  "translation": "Translation Error",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_eoc.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→snippet→[0]\n",
   "stage": 0
  },
@@ -12692,7 +12692,7 @@
  {
   "key": "206788feac13f6ee6f62b6d223bbe796",
   "original": "You hear trembling underneath.",
-  "translation": "你听到下方传来颤抖的声音。",
+  "translation": "Translation Error",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Others/secro_eoc.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→snippet→[0]\n",
   "stage": 0
  },
