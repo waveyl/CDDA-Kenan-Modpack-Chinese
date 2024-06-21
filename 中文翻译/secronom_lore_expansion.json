@@ -1992,9 +1992,9 @@
  {
   "key": "9f90fd32b828437c8811c2eb65169ac2",
   "original": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.\n\nModule implant type \"Optics\" provides:\n<color_white>Perception: <color_light_green>+6</color>\nSight range: <color_light_green>+4</color></color>",
-  "translation": "一套动力装甲模块，可在眼部安装多种先进瞄准系统。类型为“光学”的模块植入极大增强了感知能力。使用内置不间断电源(UPS)。\n\n类型为“光学”的模块植入提供如下加成：\n\n感知：+6\n\n视野范围：+4",
+  "translation": "一套动力装甲模块，可在眼部安装多种先进瞄准系统。模块植入型号“光学”极大增强了感知能力。使用内置的UPS电源。\n\n模块植入型号“光学”的提供如下加成：\n<color_white>感知：<color_light_green>+6</color>\n视野范围：<color_light_green>+4</color></color>",
   "context": "ID: secro_power_armor_module_optics_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_optics_act\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "b0ff8119470a11ce22f43c620da14f6f",
@@ -7016,9 +7016,9 @@
  {
   "key": "4f138eaead8fdab92904fcb7e2c7d680",
   "original": "Your bio-organic exoskeleton needs a constant supply of artificial flesh in your inventory to remain functional.\n\nTo complete this mission, obtain a <color_light_green>blob glob</color>.",
-  "translation": "你的生物有机外骨骼需要库存中持续供应的人造肉体以维持功能。为了完成这项任务，你需要获取一块 **blob glob** 。",
+  "translation": "你的生物有机外骨骼需要在背包中持续供应人造肉体以维持功能。\n\n为了完成这项任务，获取一份<color_light_green>变形怪糊</color> 。",
   "context": "ID: MISSION_SECRO_FV_TUTORIAL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mission_definition→MISSION_SECRO_FV_TUTORIAL\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "a5f365e2bbef10427520a649b1a52ab5",
