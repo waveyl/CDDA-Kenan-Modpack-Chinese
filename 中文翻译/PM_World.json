@@ -1196,6 +1196,13 @@
   "stage": 1
  },
  {
+  "key": "715102f7c5e27c5e4a213cc505bd2161",
+  "original": "Clerk",
+  "translation": "Clerk",
+  "context": "ID: NC_LC_CLERK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_CLERK\n",
+  "stage": 1
+ },
+ {
   "key": "e0ad02f058e4abbe39ef404f3020ba39",
   "original": "Cloud Cutter",
   "translation": "裁云断雾",
@@ -2007,10 +2014,52 @@
   "stage": 1
  },
  {
+  "key": "e560e82db6f3a47838af88d8b13a9a9d",
+  "original": "I'm fixer of Zwei association",
+  "translation": "I'm fixer of Zwei association",
+  "context": "ID: NC_ZW_FIXER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER\n",
+  "stage": 1
+ },
+ {
   "key": "7e9d252bd014ef8cfb4acacd05c03edf",
   "original": "I'm just an observer, and I feel like guilt is eating me up from inside",
   "translation": "我只是一个旁观者，我感觉内疚从内心深处吞噬着我",
   "context": "ID: skin_down3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down3\n",
+  "stage": 1
+ },
+ {
+  "key": "87fa17178d6250805148d359b366ed8d",
+  "original": "I'm leader of Kurokumo clan",
+  "translation": "I'm leader of Kurokumo clan",
+  "context": "ID: NC_KR_SAYO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR_SAYO\n",
+  "stage": 1
+ },
+ {
+  "key": "31dbf243add9d8f940dc032617e762ab",
+  "original": "I'm leader of Rusted Chains Syndicate",
+  "translation": "I'm leader of Rusted Chains Syndicate",
+  "context": "ID: NC_RC_JIKAN\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_RC_JIKAN\n",
+  "stage": 1
+ },
+ {
+  "key": "921d3260574b1553d39b425d78ff6ead",
+  "original": "I'm leader of this section of Zwei association",
+  "translation": "I'm leader of this section of Zwei association",
+  "context": "ID: NC_ZW_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_WALTER\n",
+  "stage": 1
+ },
+ {
+  "key": "beedfbeb8a97c5293dad88363d92fe2a",
+  "original": "I'm member of Kurokumo clan",
+  "translation": "I'm member of Kurokumo clan",
+  "context": "ID: NC_KR\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR\n",
+  "stage": 1
+ },
+ {
+  "key": "b6764061420ba0e94af97e672782a2d9",
+  "original": "I'm member of Rusted Chains Syndicate",
+  "translation": "I'm member of Rusted Chains Syndicate",
+  "context": "ID: NC_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_RC\n",
   "stage": 1
  },
  {
@@ -2213,7 +2262,7 @@
   "key": "7ab832e8553616af737d663b6ab63a91",
   "original": "Kurokumo",
   "translation": "黑云会",
-  "context": "ID: MARTIAL_KR\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→MARTIAL_KR\n",
+  "context": "ID: NC_KR\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR\n",
   "stage": 1
  },
  {
@@ -2331,6 +2380,13 @@
   "original": "Law and Order",
   "translation": "治安维和",
   "context": "ID: law\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→law\n",
+  "stage": 1
+ },
+ {
+  "key": "d53f663bf12cca7becb8d04c06c75313",
+  "original": "Lc guard",
+  "translation": "Lc guard",
+  "context": "ID: NC_LC_GUARD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_GUARD\n",
   "stage": 1
  },
  {
@@ -2698,6 +2754,13 @@
   "stage": 1
  },
  {
+  "key": "22567aba8d64ab99fe9115b6f7cb9c48",
+  "original": "Oh...",
+  "translation": "Oh...",
+  "context": "ID: NC_BONGBONG\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_BONGBONG\n",
+  "stage": 1
+ },
+ {
   "key": "a06f68a3673e9ac3d146a554af60deb7",
   "original": "Okay, I'm leaving",
   "translation": "好吧，我走了。",
@@ -2971,6 +3034,13 @@
   "stage": 0
  },
  {
+  "key": "9a15881cc8ac684ff7f623f121f12773",
+  "original": "Scientist",
+  "translation": "Scientist",
+  "context": "ID: NC_LC_SCIENTIST\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_SCIENTIST\n",
+  "stage": 1
+ },
+ {
   "key": "de1efe4a77cd578d50228df98b08d355",
   "original": "Self Harm",
   "translation": "自我伤害",
@@ -3241,6 +3311,13 @@
   "original": "TETH EGO suitcases",
   "translation": "TETH EGO 手提箱",
   "context": "ID: ego_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "278c491bdd8a53618c149c4ac790da34",
+  "original": "Template",
+  "translation": "Template",
+  "context": "ID: NC_AKIHIRO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_AKIHIRO\n",
   "stage": 1
  },
  {
@@ -3850,6 +3927,13 @@
   "original": "Who is \"fixer's\"?",
   "translation": "\"收尾人\"是谁？",
   "context": "ID: TALK_ZW_HELP2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP2\n",
+  "stage": 1
+ },
+ {
+  "key": "24c345b30d3dfb29c3d6bbbcc21e467d",
+  "original": "Who is that?",
+  "translation": "Who is that？",
+  "context": "ID: NC_WHITE\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_WHITE\n",
   "stage": 1
  },
  {
@@ -4465,7 +4549,7 @@
   "key": "6139e7d0f6163e23d264b39ee0351416",
   "original": "Zwei",
   "translation": "Zwei",
-  "context": "ID: MARTIAL_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→MARTIAL_ZWEI\n",
+  "context": "ID: NC_ZW_FIXER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER\n",
   "stage": 3
  },
  {
@@ -4819,6 +4903,13 @@
   "stage": 1
  },
  {
+  "key": "302c77895c1c45e8730eba12c3f0c63a",
+  "original": "clerk of Lobotomy Corporation",
+  "translation": "clerk of Lobotomy Corporation",
+  "context": "ID: NC_LC_CLERK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_CLERK\n",
+  "stage": 1
+ },
+ {
   "key": "e23734af2ae583cbec34c85ea4c6eb07",
   "original": "cloud katana",
   "translation": "云太刀",
@@ -5001,6 +5092,13 @@
   "stage": 1
  },
  {
+  "key": "13282428afee2f85029d1178a3613c5d",
+  "original": "guard of Lc",
+  "translation": "guard of Lc",
+  "context": "ID: NC_LC_GUARD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_GUARD\n",
+  "stage": 1
+ },
+ {
   "key": "05c5da8d2d61917b089c290309bfd452",
   "original": "hand chain",
   "translation": "手链",
@@ -5113,6 +5211,13 @@
   "stage": 1
  },
  {
+  "key": "f6092a754595ba3041932e376e4f9dec",
+  "original": "leader of clerk department",
+  "translation": "leader of clerk department",
+  "context": "ID: NC_LC_ZONYA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_ZONYA\n",
+  "stage": 1
+ },
+ {
   "key": "3330e1fc71f803896760594e55aaab47",
   "original": "leader of clerk dept",
   "translation": "文职部门负责人",
@@ -5124,6 +5229,20 @@
   "original": "leader of guards",
   "translation": "特职负责人",
   "context": "ID: isao_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isao_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "dd48ee1ccef62ff55d40ac150e5549dd",
+  "original": "leader of science department",
+  "translation": "leader of science department",
+  "context": "ID: NC_AKIHIRO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_AKIHIRO\n",
+  "stage": 1
+ },
+ {
+  "key": "2981924f97ce1b1a8304f3403d4dcd7e",
+  "original": "leader of security department",
+  "translation": "leader of security department",
+  "context": "ID: NC_ISAO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ISAO\n",
   "stage": 1
  },
  {
@@ -5278,6 +5397,13 @@
   "original": "scientist",
   "translation": "研究员",
   "context": "ID: lc_sci_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_sci_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "b0ae8a0b5d3185705d49e216a5e652ba",
+  "original": "scientist of Lobotomy Corporation",
+  "translation": "scientist of Lobotomy Corporation",
+  "context": "ID: NC_LC_SCIENTIST\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_SCIENTIST\n",
   "stage": 1
  },
  {

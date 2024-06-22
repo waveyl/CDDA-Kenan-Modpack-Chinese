@@ -2915,6 +2915,13 @@
   "stage": 3
  },
  {
+  "key": "d1208f9ac821415caaff410e9bfcf1b7",
+  "original": "Gunshop owner.",
+  "translation": "Gunshop owner.",
+  "context": "ID: V_GUNSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_GUNSHOP\n",
+  "stage": 1
+ },
+ {
   "key": "22d76f5243e5177700cbb348ea09e231",
   "original": "HANDS",
   "translation": "手掌",
@@ -3346,6 +3353,13 @@
   "stage": 3
  },
  {
+  "key": "984977f270e7c88cc6980b97133a4044",
+  "original": "I hide at wastelands.",
+  "translation": "I hide at wastelands.",
+  "context": "ID: H_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_WASTELAND\n",
+  "stage": 1
+ },
+ {
   "key": "c8598cf25134ba802ed89394b623e811",
   "original": "I just want you as an odd friend... I'm sorry.",
   "translation": "我只想把你当作一个朋友...抱歉。",
@@ -3483,6 +3497,13 @@
   "original": "I thank you for this rune.\n*Shatters it by hand*\n",
   "translation": "谢谢你给我这个符文。\n*手工粉碎*",
   "context": "ID: VAMP_LONELY_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest3\n",
+  "stage": 1
+ },
+ {
+  "key": "651c507aec60e0bf062bc0d443d4849c",
+  "original": "I trade at wastelands.",
+  "translation": "I trade at wastelands.",
+  "context": "ID: H_JUNKSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_JUNKSHOP\n",
   "stage": 1
  },
  {
@@ -3833,6 +3854,13 @@
   "translation": "有这样的地方吗？",
   "context": "ID: TALK_VAMP_LONELY_here\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Isolated/v_lo_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_LONELY_here\n",
   "stage": 3
+ },
+ {
+  "key": "d943ccf521afd89ca3b36cdb8ee5bbc6",
+  "original": "Isolated vampires.",
+  "translation": "Isolated vampires.",
+  "context": "ID: V_LONELY\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_LONELY\n",
+  "stage": 1
  },
  {
   "key": "8a95ad3ccb5f91f3870e63da1e38e077",
@@ -6829,6 +6857,27 @@
   "stage": 1
  },
  {
+  "key": "a9c93d91da96c242fb448569dbeb0109",
+  "original": "Underground vampire commando.",
+  "translation": "Underground vampire commando.",
+  "context": "ID: V_UNDERCOMMANDO\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERCOMMANDO\n",
+  "stage": 1
+ },
+ {
+  "key": "772a8b6fdfd7be428e38aa916651c6fd",
+  "original": "Underground vampire refugees.",
+  "translation": "Underground vampire refugees.",
+  "context": "ID: V_UNDERREFUGEE\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERREFUGEE\n",
+  "stage": 1
+ },
+ {
+  "key": "ceea06d96039298b55478b9f6a466947",
+  "original": "Underground vampire traders.",
+  "translation": "Underground vampire traders.",
+  "context": "ID: V_UNDERTRADER\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERTRADER\n",
+  "stage": 1
+ },
+ {
   "key": "470eaa3865bff3cfbd3210809e046428",
   "original": "Underguard",
   "translation": "地下探索者",
@@ -7093,6 +7142,20 @@
   "translation": "荒地居民",
   "context": "ID: wastelander\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_faction.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→faction→wastelander\n",
   "stage": 3
+ },
+ {
+  "key": "ab3ff68df6a52e0b385bd737de341a41",
+  "original": "Wasteland refugee guard.",
+  "translation": "Wasteland refugee guard.",
+  "context": "ID: V_WASTEGUARD2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTEGUARD2\n",
+  "stage": 1
+ },
+ {
+  "key": "a836bcb7bd3a71388a644e95b374b224",
+  "original": "Wasteland refugees.",
+  "translation": "Wasteland refugees.",
+  "context": "ID: V_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTELAND\n",
+  "stage": 1
  },
  {
   "key": "f8f9004d247a9b9b1c7b6459c31b7170",
