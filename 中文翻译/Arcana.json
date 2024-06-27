@@ -679,7 +679,7 @@
  {
   "key": "0b23288db6156d1910474ee3d62f1acc",
   "original": "\"Let purity guide your hand and your heart.\"  A brilliant radiance envelops your surroundings, piercing the heavens as a surge of power flows through your body!",
-  "translation": "“让圣灵指引你的手和你的心。”一道璀璨的光芒笼罩着你的周围，一股力量流过你的身体，而后直冲云霄！",
+  "translation": "“让圣灵指引你的手和心灵。”一道璀璨的光芒笼罩着你的周围，一股力量流过你的身体，直冲云霄！",
   "context": "ID: arcana_item_scroll_sun\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_scroll_sun\n",
   "stage": 3
  },
@@ -2339,9 +2339,9 @@
  {
   "key": "86a4c8ccb8d3ff9f9628d96531c33076",
   "original": "A bolt of blood-red lightning arcs from your fingertips, fading to a natural coloration as it courses through your victim!",
-  "translation": "一道血红色的闪电从你的指尖划出弧线，当它穿过你的受害者时，它会褪色成自然的颜色！",
+  "translation": "一道血红色的闪电从你的指尖划出弧线，当它穿过你的敌人时，它褪色成了自然的颜色！",
   "context": "ID: arcana_item_thunder_gauntlets_taze\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_thunder_gauntlets_taze\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b7fd81001f7b9e3268afda44ed3796c1",
@@ -2458,9 +2458,9 @@
  {
   "key": "f2049230cc5183c9284de568aa256771",
   "original": "A burst of protective magic radiates from the brooch!",
-  "translation": "胸针放射出保护性的魔法场！",
+  "translation": "胸针放射出一个魔法保护屏障！",
   "context": "ID: arcana_item_brooch_iridescent_empowered\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_brooch_iridescent_empowered\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "7cf2d49e3c20c6dfebcf094abec8dbd0",
@@ -2978,7 +2978,7 @@
  {
   "key": "b4d5469353e3af8ee9678d3816fcb2d0",
   "original": "A glimpse of otherworldly insight floods your mind.",
-  "translation": "对异界洞察力的短暂领会灌满了你的脑海。",
+  "translation": "你的脑海中涌过一丝超凡的洞察。",
   "context": "ID: arcana_item_orb_veil_wonder_insight\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_orb_veil_wonder_insight\n",
   "stage": 3
  },
@@ -8064,9 +8064,9 @@
  {
   "key": "c096af8744b12a5d11b5630dfe56d52a",
   "original": "Can you tell me more?",
-  "translation": "你能告诉我更多吗？",
+  "translation": "你能告诉我更多的事情吗？",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9f428c29a3b24296c8947d3667dae1f3",
@@ -9337,9 +9337,9 @@
  {
   "key": "5b76f490ab5a4feeea74b70a717ba053",
   "original": "Don't have much contact with people who'd know about that sort of thing.  However, I did hear about a scavenger caravan the refugee center sent that hit some of the old labs.",
-  "translation": "不要和知道那种事情的人有太多接触。尽管如此，我确实听说了难民中心派出的清道夫车队遇见了一些旧实验室。",
+  "translation": "我和了解这些事情的人接触不多。不过，我倒是听说难民中心派出的一支拾荒者车队遇到了一些旧实验室。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5d23321fd3a307a8e3cde4633950409f",
@@ -13132,9 +13132,9 @@
  {
   "key": "aa48ef73154120a31a6b0464eeded3f8",
   "original": "I need more information on what was being shipped between the sites on this list.",
-  "translation": "我需要更多关于在这个列表上的站点之间运送什么的信息。",
+  "translation": "我需要更多关于这份清单上各站点间运输的具体信息。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1fffa5d11f3cf131cb5dc35fd6ef7b50",
@@ -13236,9 +13236,9 @@
  {
   "key": "f6abf725d885adf9690ae0b1cd5fa528",
   "original": "I see.  I apologize then.  All I have seen, it's hard not to be wary.  Well young one, if you will tolerate an old Keeper and his ramblings, perhaps you can help with something.",
-  "translation": "我懂了。我为此道歉。鉴于我所经历的一切，很难不保持警惕。好吧，小朋友，如果你能容忍一位老守誓者和他的絮叨，或许你可以帮我解决点事情。",
+  "translation": "我知道了。我为此道歉。鉴于我所经历的一切，很难不保持警惕。好吧，小朋友，如果你能容忍一位老守誓者和他的絮叨，或许你可以帮我解决点事情。",
   "context": "ID: TALK_HERMIT_BOOK_HUNTER_PEACE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_BOOK_HUNTER_PEACE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7f449baf4544e8ead97fbcc3595dd5ce",
@@ -13299,30 +13299,30 @@
  {
   "key": "5e79b24e638d4548cd5dd12df6811745",
   "original": "I see.  I won't trouble you further.",
-  "translation": "我懂了。我不会再麻烦你了。",
+  "translation": "好吧。我不会再麻烦你了。",
   "context": "ID: TALK_HERMIT_DISCUSS_3_FAIL_MUTATION\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_FAIL_MUTATION\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0ff54f2692d0c3c9d682d9d77f82033b",
   "original": "I see.  I'll assume it's dangerous if it involved anomalous stuff as you described it.  I think we can make a deal here.  If you find whatever that caravan was so excited over and it leads you to what you're after, clue us in too if there's any other useful labs it can help scope out.  That way we'll know what to look for and where, so we won't be risking our lives over nothing.",
-  "translation": "我明白了。我会假设它是危险的，如果它像你描述的那样涉及异常的东西。我想我们可以在这里做个交易。如果你发现了商队如此兴奋的东西，它会带你找到你要找的东西，如果有任何其他有用的实验室，它也可以帮你找到。这样我们就知道在哪里寻找什么，所以我们就不会冒生命危险。",
+  "translation": "我明白了。我会假设如果涉及到你描述的那种异常的东西，那确实是危险的。我想我们可以在这里达成一项交易。如果你找到了那个让商队兴奋的东西，并且它引导你找到了你要找的东西，也请告诉我们，如果有其他有用的实验室可以帮助确定范围。这样我们就会知道要寻找什么以及在哪里寻找，这样我们就不会冒着生命危险去做无谓的事情。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_5\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_5\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5051637bb50f0e9adc10ac50a4665d9c",
   "original": "I see.  I'll do what I can, then.",
-  "translation": "我懂了。我会尽我所能。",
+  "translation": "我知道了。我会竭尽所能的。",
   "context": "ID: TALK_HERMIT_DISCUSS_3_FAIL_FAVOR\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_3_FAIL_FAVOR\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6a8de759b953addf89a04382beef5446",
   "original": "I see.  I'll speak with her then.",
-  "translation": "我懂了。那我就和她谈谈。",
+  "translation": "我知道了。我去和她谈谈。",
   "context": "ID: TALK_MAGE_HUNTER_OTHERWORLDLY_ARCANIST\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MAGE_HUNTER_OTHERWORLDLY_ARCANIST\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4653e8af358edb8ef9c55309655a2534",
@@ -13495,9 +13495,9 @@
  {
   "key": "681156a6aef15a8a02a07e752e09f9a9",
   "original": "I suppose.  But first I'm interested in something myself.  What you need this for anyway?",
-  "translation": "我想是的。但是首先我自己对一些东西感兴趣。你到底要这个干什么？",
+  "translation": "当然。不过我首先对一件事颇感兴趣。你们到底为什么需要这些信息呢？",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "22c6edeb403aab0e15542c46356cd79a",
@@ -13915,7 +13915,7 @@
   "original": "I'll ask around for other leads.",
   "translation": "我会四处打听其他线索。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43b5d48016f105c18cd0e0901ddff855",
@@ -14165,9 +14165,9 @@
  {
   "key": "19e58476027fd3428ec5d5fa8d222270",
   "original": "I'll mark where they were last heard from.  Goes without saying, be careful out there.  I don't know for sure what sort of paperwork or maps or whatever they found, but they seemed excited enough and it sounded like whatever they had would've been the key to any future lab dives they had planned.  You come back here in one piece with that info and I'll do what I can to compensate you.",
-  "translation": "我会记下他们最后的消息。不用说，在那边要小心。我不知道他们找到了什么样的文件、地图或其他什么，但他们似乎已经足够兴奋了，听起来他们所做的一切都是他们计划的未来任何探索实验室更深处的关键。你带着这些信息回来，我会尽我所能补偿你。",
+  "translation": "我会标注他们最后传回消息的位置。不言而喻，外面情况复杂，务必小心。我不清楚他们究竟找到了什么样的文件、地图或者其他什么东西，但他们显得相当兴奋，并且听上去他们所发现的很可能是解锁未来实验室探索计划的关键。如果你能安然无恙地带回那些信息，我会尽我所能给予你报酬。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_ACCEPT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_ACCEPT\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5e934ab8911dde32d424cae5281f40cd",
@@ -19789,7 +19789,7 @@
   "original": "Nevermind then.",
   "translation": "没关系。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_1\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fde743d5b5708db652f9c2593a296512",
@@ -20005,7 +20005,7 @@
   "original": "Nothing important.",
   "translation": "没什么。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "eb9c5a2e1e816bb16212af2bcfa027c8",
@@ -24345,9 +24345,9 @@
  {
   "key": "5c050e9ffcf4d1e55e74246947d67bf1",
   "original": "Some old refugee caravan that wasn't even headed our way's nothing important, either.  Probably just got eaten by what passes for wildlife these days.  You change your mind and feel a bit more open to telling me what you're after, then maybe we can make a deal.",
-  "translation": "一些旧的难民车队甚至没有朝我们的方向前进，这也没什么。可能是被野生动物吃了。如果你改变主意愿意告诉我你在找什么，也许我们可以做个交易。",
+  "translation": "一些旧的难民车队甚至没有朝我们的方向前进，这也没什么。可能是被野生动物吃了。如果你改变主意愿意告诉我你在找什么，也许我们还可以做个交易。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_REFUSE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_REFUSE\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "4db4bd4a70c59c3848233300144f1c3b",
@@ -24380,9 +24380,9 @@
  {
   "key": "a02b9caec317d0c15fdeb4d3f9fcb76e",
   "original": "Something interesting, evidently.  Enough that they had to fight some bandits for it.  They struck camp sometime after that and never made it back onto the road.",
-  "translation": "很明显，有件有趣的事足以让他们为之与强盗搏斗。他们在那之后的某个时候袭击了营地，然后再也没有出现在大路上。",
+  "translation": "显然是些有意思的东西，以至于他们还得为了它和强盗干上一架。之后他们在某个时间拆营离开，就再也没能在路上看到他们了。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "236e2e98ba206c414531d183e0ab1547",
@@ -25326,7 +25326,7 @@
  {
   "key": "91415a1b4321262bbc39b7b3e66c20b5",
   "original": "Sure.  Tell me what you know.",
-  "translation": "当然可以。说说你知道的。",
+  "translation": "当然。跟我说说你知道的。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_4\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_4\n",
   "stage": 3
  },
@@ -27976,9 +27976,9 @@
  {
   "key": "60b9400bc9a5159495e7d6fe025ea5e2",
   "original": "There's a specific research facility I was asked to try and find.",
-  "translation": "我被要求去尝试寻找一个特别的研究机构。",
+  "translation": "我接到了一个特别的任务，要求尽力找到一个特定的研究设施。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_3\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "d997129c9442dca15ed609713be0d7c1",
@@ -31712,9 +31712,9 @@
  {
   "key": "709cd538f682037b89fe212d7e8e0799",
   "original": "Well that is fascinating.  You're doing your homework on these locations, you could say.  I'd be interested too, we're always in need of supplies and this might give us another way to get them.  Whatever you're looking for in those shipments, if you're willing to share that info we can coordinate on this to avoid stepping on each other's toes.",
-  "translation": "这很有趣。你可以说，你在这些地方做作业。我也很感兴趣，我们总是需要供应品，这可能会使我们得以用另一种方式来获得它们。无论你在这些货物中寻找什么，如果你愿意分享那些信息，我们可以就此相互配合，以避免互相干扰。",
+  "translation": "这确实很吸引人。你对这些地点做足了功课，可以说是未雨绸缪。我对这个也很感兴趣，我们总是需要补给，而这也可能是获取它们的另一条途径。无论你在那些货物中寻找什么，如果你愿意分享这些信息，我们可以互相配合，避免互相妨碍。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_4\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_4\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "1b9a5285eab6dac35fd3bf946f3df91f",
@@ -34400,9 +34400,9 @@
  {
   "key": "994738a78eaaf7913a9bbd7c7716f8ea",
   "original": "You have a deal, then.",
-  "translation": "那么，你达成协议。",
+  "translation": "那么就说好了。",
   "context": "ID: TALK_RANCH_FOREMAN_NICHOLAS_5\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_FOREMAN.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_FOREMAN_NICHOLAS_5\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "158afceb724b631f81739ff5e0249120",
