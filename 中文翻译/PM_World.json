@@ -605,7 +605,6 @@
   "key": "35a6f379333219415f75f37042757ea3",
   "original": "A black incredibly heavy two-handed sword. The handle of which is 60 centimeters thick by 1 centimeter, has a mutually sharp blade with a length of 2 meters, a width of 25 centimeters, and a thickness of 1 centimeter. There are spots of burnt blood of the wearer on the blade of the sword",
   "translation": "一把沉重无比的黑色双手剑。剑柄长 60 厘米，宽 1 厘米，剑刃锋利无比，长 2 米，宽 25 厘米，厚 1 厘米。剑刃上有佩戴者烧焦的血迹。",
-  "context": "ID: sl_2sword\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→sl_2sword\n",
   "stage": 1
  },
  {
@@ -718,6 +717,41 @@
   "original": "A pair of thick brown trouses.",
   "translation": "一条厚厚的棕色长裤。",
   "context": "ID: pm_trouses_brown\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_trouses_brown\n",
+  "stage": 1
+ },
+ {
+  "key": "c09fd1be784a396c5076478216785b7a",
+  "original": "A patch of unusualy stout leather. It feels different from all leather that you have touched.",
+  "translation": "A patch of unusualy stout leather. It feels different from all leather that you have touched.",
+  "context": "ID: pm_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_leather_item\n",
+  "stage": 1
+ },
+ {
+  "key": "07cef56d30c26d45a81187a4f391e39a",
+  "original": "A patch of unusualy stout leather. It feels warm, but the heat seems to come not from the leather but from your fingers.",
+  "translation": "A patch of unusualy stout leather. It feels warm, but the heat seems to come not from the leather but from your fingers.",
+  "context": "ID: stigma_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_leather_item\n",
+  "stage": 1
+ },
+ {
+  "key": "2d5d03d71130d842aa0dd4fbe7cb1d05",
+  "original": "A piece of cotton. It perfectly protects against heat.",
+  "translation": "A piece of cotton. It perfectly protects against heat.",
+  "context": "ID: stigma_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "d61ee49e458a8fa5989ce773da2d75f1",
+  "original": "A piece of cotton. It seems denser than ordinary cotton.",
+  "translation": "A piece of cotton. It seems denser than ordinary cotton.",
+  "context": "ID: pm_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "0996efcf75decca60ab367a429961255",
+  "original": "A plate of black ballistic polymer material. It is used in military equipment, among other things, you have not heard anything specifically about this material.",
+  "translation": "A plate of black ballistic polymer material. It is used in military equipment, among other things, you have not heard anything specifically about this material.",
+  "context": "ID: b_polymer_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_polymer_item\n",
   "stage": 1
  },
  {
@@ -962,6 +996,12 @@
   "key": "f1da40e2e3b9825eece22024fdeb9ad2",
   "original": "Balistic polymer",
   "translation": "均衡型聚合材料",
+  "stage": 1
+ },
+ {
+  "key": "6d23a2a61de1736ea7b42251db261283",
+  "original": "Ballistic polymer",
+  "translation": "Ballistic polymer",
   "context": "ID: b_polymer\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→b_polymer\n",
   "stage": 1
  },
@@ -1018,6 +1058,13 @@
   "key": "5649ea4a4b09fb1ebc7a737dd2e17805",
   "original": "Black katana",
   "translation": "黑色武士刀",
+  "stage": 1
+ },
+ {
+  "key": "195e3360eee24492a77b21a72a2172a8",
+  "original": "Black metal, warm to the touch, when it refracts the light, a faint glint of orange incandescent metal is visible under the surface layer.",
+  "translation": "Black metal, warm to the touch, when it refracts the light, a faint glint of orange incandescent metal is visible under the surface layer.",
+  "context": "ID: stigma_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_steel_item\n",
   "stage": 1
  },
  {
@@ -1234,6 +1281,20 @@
   "original": "Cotton",
   "translation": "棉",
   "context": "ID: pm_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_cotton\n",
+  "stage": 1
+ },
+ {
+  "key": "a3fff9288f98fdd86527e039e60ed5ad",
+  "original": "Created in very special conditions. Incredibly light and ressistant.",
+  "translation": "Created in very special conditions. Incredibly light and ressistant.",
+  "context": "ID: l_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "f4c4fd3591d308f8eb15b922c3b36362",
+  "original": "Created in very special conditions. Incredibly light, so much so that if you put this piece on your hand you almost don't feel its weight.",
+  "translation": "Created in very special conditions. Incredibly light, so much so that if you put this piece on your hand you almost don't feel its weight.",
+  "context": "ID: l_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_steel_item\n",
   "stage": 1
  },
  {
@@ -1619,6 +1680,13 @@
   "original": "Franchesko",
   "translation": "弗朗切斯科",
   "context": "ID: lc_cook_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_cook_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "23801d36e6b83441fc9639a72deef175",
+  "original": "From whichever side you look at this ingot, the outlines of clouds are visible on it.",
+  "translation": "From whichever side you look at this ingot, the outlines of clouds are visible on it.",
+  "context": "ID: c_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→c_steel_item\n",
   "stage": 1
  },
  {
@@ -2105,6 +2173,13 @@
   "stage": 1
  },
  {
+  "key": "b1d435e48184ca20f6a07636956e1249",
+  "original": "Incredibly beautiful and expensive black silk.",
+  "translation": "Incredibly beautiful and expensive black silk.",
+  "context": "ID: b_silk_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_silk_item\n",
+  "stage": 1
+ },
+ {
   "key": "451bb58c2e5a9ba5f9c024ef7c44ef3b",
   "original": "Infrared Vision",
   "translation": "红外视觉",
@@ -2168,6 +2243,13 @@
   "stage": 1
  },
  {
+  "key": "bca87f32849fd3094de957bb4578dea3",
+  "original": "It's heavy enough. You have not seen such metal before.",
+  "translation": "It's heavy enough. You have not seen such metal before.",
+  "context": "ID: b_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_steel_item\n",
+  "stage": 1
+ },
+ {
   "key": "c8157e48005ea51469b72a5e1d62cec9",
   "original": "Jikan",
   "translation": "基坎",
@@ -2206,7 +2288,6 @@
   "key": "386c7c6eb318861bada1e2dadd35ff4b",
   "original": "Karpid",
   "translation": "卡皮德",
-  "context": "ID: sl_2sword\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→sl_2sword\n",
   "stage": 0
  },
  {
@@ -2373,6 +2454,13 @@
   "key": "42a24c6ccd26f7a95ff2a547e5e500df",
   "original": "Lab security batons",
   "translation": "实验室镇暴棍",
+  "stage": 1
+ },
+ {
+  "key": "7aa9057679c3f548a3c2f62730b76a7e",
+  "original": "Laboratory steel",
+  "translation": "Laboratory steel",
+  "context": "ID: l_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_steel_item\n",
   "stage": 1
  },
  {
@@ -2887,6 +2975,13 @@
   "stage": 1
  },
  {
+  "key": "7c1020e17b85ea8a655b3759900537e3",
+  "original": "Pretty generic. But it seems more dense.",
+  "translation": "Pretty generic. But it seems more dense.",
+  "context": "ID: pm_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_steel_item\n",
+  "stage": 1
+ },
+ {
   "key": "c22548c49214c718b440a6ea0fc333c0",
   "original": "Project Moon World",
   "translation": "月计世界",
@@ -3128,7 +3223,6 @@
   "key": "46629b474d62df46ea485d1337da7891",
   "original": "Solomon steel",
   "translation": "所罗门钢",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
   "stage": 1
  },
  {
@@ -3216,6 +3310,34 @@
   "stage": 1
  },
  {
+  "key": "4c015328f2d00bbf5e46892b9caf2749",
+  "original": "Stigma Workshop cotton",
+  "translation": "Stigma Workshop cotton",
+  "context": "ID: stigma_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "ea8c6b2e31d96c989dc1f3c8fe7105d5",
+  "original": "Stigma Workshop leather",
+  "translation": "Stigma Workshop leather",
+  "context": "ID: stigma_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_leather\n",
+  "stage": 1
+ },
+ {
+  "key": "91ac1a49f0c63b4b7e75c970b1f4596f",
+  "original": "Stigma Workshop leather patch",
+  "translation": "Stigma Workshop leather patch",
+  "context": "ID: stigma_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_leather_item\n",
+  "stage": 1
+ },
+ {
+  "key": "fa66a7c182b5197d1e18384297793ee2",
+  "original": "Stigma Workshop steel ingot",
+  "translation": "Stigma Workshop steel ingot",
+  "context": "ID: stigma_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_steel_item\n",
+  "stage": 1
+ },
+ {
   "key": "87b96d2fd8bb78e9f0efe5ae3124c1d7",
   "original": "Strange sctructure",
   "translation": "奇异结构",
@@ -3227,6 +3349,13 @@
   "original": "Stun 1 turns",
   "translation": "击晕1回合",
   "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
+  "stage": 1
+ },
+ {
+  "key": "60555b6d07d1cdd76090bc4b55d60934",
+  "original": "Sturdy cotton",
+  "translation": "Sturdy cotton",
+  "context": "ID: pm_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_cotton_item\n",
   "stage": 1
  },
  {
@@ -3989,21 +4118,19 @@
   "key": "1bfd202098c06ac4e162de56bce6d3c1",
   "original": "Workshop cotton",
   "translation": "工坊棉",
-  "context": "ID: stigma_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_cotton\n",
   "stage": 1
  },
  {
   "key": "8bc7e65b54f9512e2de7f1999d13e0f7",
   "original": "Workshop leather",
   "translation": "工坊皮革",
-  "context": "ID: stigma_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_leather\n",
   "stage": 1
  },
  {
   "key": "55defbae6e9667254fa7a43c072abb7e",
   "original": "Workshop steel",
   "translation": "工坊钢材",
-  "context": "ID: dw_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→dw_steel\n",
+  "context": "ID: stigma_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_steel\n",
   "stage": 1
  },
  {
@@ -4728,6 +4855,13 @@
   "stage": 1
  },
  {
+  "key": "1224e6d9db98000a49872849d0cedf6e",
+  "original": "ballistic polymer",
+  "translation": "ballistic polymer",
+  "context": "ID: b_polymer_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_polymer_item\n",
+  "stage": 1
+ },
+ {
   "key": "29494ec27c694b5488025530079c536c",
   "original": "bartender of Rusted Chains",
   "translation": "锈链调酒师",
@@ -4770,6 +4904,13 @@
   "stage": 1
  },
  {
+  "key": "44ed9b1fb7b20af0aad60d49010e4ef7",
+  "original": "black silk",
+  "translation": "black silk",
+  "context": "ID: b_silk_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_silk_item\n",
+  "stage": 1
+ },
+ {
   "key": "6034c0b550bfca88b705567de78b0850",
   "original": "black silk shirt",
   "translation": "黑色丝绸衬衫",
@@ -4788,6 +4929,13 @@
   "original": "black silk yukata",
   "translation": "黑色丝绸浴衣",
   "context": "ID: kr_yukata\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_yukata\n",
+  "stage": 1
+ },
+ {
+  "key": "8f5a3e5f0e654ab5d1356e48647b3ab0",
+  "original": "black steel ingot",
+  "translation": "black steel ingot",
+  "context": "ID: b_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_steel_item\n",
   "stage": 1
  },
  {
@@ -4917,6 +5065,13 @@
   "stage": 0
  },
  {
+  "key": "d9ad0a2f8b966ef1b84f3163f0e0d113",
+  "original": "cloud steel ingot",
+  "translation": "cloud steel ingot",
+  "context": "ID: c_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→c_steel_item\n",
+  "stage": 1
+ },
+ {
   "key": "e3e90fd6d2a7c4661a1a3acf2f60bc6d",
   "original": "cook",
   "translation": "厨师",
@@ -4990,7 +5145,7 @@
   "key": "d1018c81e900c4b65f7611c4ae73fb88",
   "original": "dented",
   "translation": "凹损",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
@@ -5176,6 +5331,13 @@
   "stage": 0
  },
  {
+  "key": "1575ea59e5872f816414e0e288e36ace",
+  "original": "laboratory cotton",
+  "translation": "laboratory cotton",
+  "context": "ID: l_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_cotton_item\n",
+  "stage": 1
+ },
+ {
   "key": "21420ac9735d087ddc788a20e1f84a42",
   "original": "laboratory throwing knife",
   "translation": "实验室用投刀",
@@ -5256,7 +5418,7 @@
   "key": "5bbf2d6725b29ad8ddb7c3ab47c50930",
   "original": "marked",
   "translation": "划伤",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
@@ -5410,14 +5572,14 @@
   "key": "e5036d30fcedf7998f08abbb599229e2",
   "original": "scratched",
   "translation": "刮花",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
   "key": "965ca662c7141613e1b845c526baa86c",
   "original": "shattered",
   "translation": "破碎",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 3
  },
  {
@@ -5445,7 +5607,7 @@
   "key": "3f70089fd34f35b851b9a913bd28c546",
   "original": "smashed",
   "translation": "砸扁",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
@@ -5463,6 +5625,13 @@
   "stage": 1
  },
  {
+  "key": "9f93ca562a7564acdb7bd16d85f83d8f",
+  "original": "sturdy leather",
+  "translation": "sturdy leather",
+  "context": "ID: pm_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_leather_item\n",
+  "stage": 1
+ },
+ {
   "key": "1312eac2f26039257073ac9c9874964a",
   "original": "sturdy shoulder pad",
   "translation": "坚固的肩垫",
@@ -5474,6 +5643,13 @@
   "translation": "结实的肩垫",
   "context": "ID: zw_spads\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_spads\n",
   "stage": 0
+ },
+ {
+  "key": "2ececfb9ddee5d0d6a2803dd23642ec0",
+  "original": "sturdy steel ingot",
+  "translation": "sturdy steel ingot",
+  "context": "ID: pm_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_steel_item\n",
+  "stage": 1
  },
  {
   "key": "2dfd03a674d7c1cde1cb567fbd88fbe5",

@@ -4812,7 +4812,6 @@
   "key": "1ddae07339b3909812055441bb032001",
   "original": "Makeshift Power Armor Noise",
   "translation": "自制动力装甲噪音",
-  "context": "ID: C_MOVE_NOISE\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→C_MOVE_NOISE\n",
   "stage": 3
  },
  {
@@ -8993,10 +8992,16 @@
   "stage": 5
  },
  {
+  "key": "f0c27185384ca18df12a532f713a8b7b",
+  "original": "You shut the makeshift hydraulic armor off.",
+  "translation": "You shut the makeshift hydraulic armor off.",
+  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
+  "stage": 1
+ },
+ {
   "key": "9ae44f7a284442de54b3402f641c0327",
   "original": "You shut the makeshift power armor off.",
   "translation": "你关闭了自制动力护甲。",
-  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
   "stage": 3
  },
  {
@@ -10407,24 +10412,49 @@
   "stage": 3
  },
  {
+  "key": "4fa632b638b964868cee078e67935e3a",
+  "original": "makeshift hydraulic armor",
+  "translation": "makeshift hydraulic armor",
+  "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n",
+  "stage": 1
+ },
+ {
+  "key": "62540a5c782d9bed074e43cba6a48889",
+  "original": "makeshift hydraulic armor (on)",
+  "translation": "makeshift hydraulic armor (on)",
+  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
+  "stage": 1
+ },
+ {
+  "key": "4f3ad35c72104aa1cf26f32921c73578",
+  "original": "makeshift hydraulic armor Noise",
+  "translation": "makeshift hydraulic armor Noise",
+  "context": "ID: C_MOVE_NOISE\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→mutation→C_MOVE_NOISE\n",
+  "stage": 1
+ },
+ {
+  "key": "635c3d41997543e45131ba70053a9699",
+  "original": "makeshift hydraulic armors (on)",
+  "translation": "makeshift hydraulic armors (on)",
+  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
+  "stage": 1
+ },
+ {
   "key": "a1d456320106888afe6d2a0fdb5c1751",
   "original": "makeshift power armor",
   "translation": "自制动力装甲",
-  "context": "ID: c_power_armor_surv\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv\n",
   "stage": 3
  },
  {
   "key": "7635b8f1b0a98e8c02efbfb2ea6b94b5",
   "original": "makeshift power armor (on)",
   "translation": "自制动力装甲（开）",
-  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
   "stage": 3
  },
  {
   "key": "aa4c6525783f2628ad29a57424d81f17",
   "original": "makeshift power armors (on)",
   "translation": "自制动力装甲（开）",
-  "context": "ID: c_power_armor_surv_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_power_armor_surv_on\n",
   "stage": 3
  },
  {
