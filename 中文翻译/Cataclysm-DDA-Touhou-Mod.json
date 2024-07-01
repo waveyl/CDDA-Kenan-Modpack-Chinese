@@ -336,7 +336,7 @@
   "original": "<npcname> rapidly attacks %s!",
   "translation": "<npcname> 迅速攻击 %s ！",
   "context": "ID: tec_kokoro_rapid\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_rapid\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "eab95f8ae157dbba193e2ee1bc9dd9ed",
@@ -355,37 +355,37 @@
  {
   "key": "0e6f8e03e658a59f3e86612007218c37",
   "original": "<npcname> slashes upwards at %s",
-  "translation": "<npcname> 向上猛砍至 %s",
+  "translation": "<npcname> 向上猛砍 %s",
   "context": "ID: tec_youmu_high_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_high_slash\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "5e2295c8f00a20becc4111421ddc1213",
   "original": "<npcname> slices %s sideways while jumping",
-  "translation": "<npcname> 片 %s 横向切割 跳跃中",
+  "translation": "<npcname> 跳跃时横砍向 %s",
   "context": "ID: tec_youmu_rising_fang\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_rising_fang\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "60cc3ce70543c94a0942f9374287a0ca",
   "original": "<npcname> snaps their weapon at %s!",
-  "translation": "<npcname>号猛地朝%s号挥动武器！",
+  "translation": "<npcname> 猛地用武器攻击 %s！",
   "context": "ID: tec_iku_poke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_poke\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "0861aba378c19aa6d1e6ba01b844de31",
   "original": "<npcname> snaps their weapon through %s!",
-  "translation": "<npcname>号猛地挥动武器，击穿了%s号！",
+  "translation": "<npcname> 挥动武器刺穿 %s！",
   "context": "ID: tec_iku_poke2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_poke2\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "d060a1ee219cd9480564abd42bb6e3bb",
   "original": "<npcname> spins, hitting nearby enemies!",
-  "translation": "<npcname>次旋转攻击，击中附近敌人！",
+  "translation": "<npcname> 旋转攻击，攻击附近的敌人！",
   "context": "ID: tec_kokoro_spin\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_spin\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "cab9649764009f534bf8b8afa1066673",
@@ -406,7 +406,7 @@
   "original": "<npcname> strikes %s with the hilt of their weapon",
   "translation": "<npcname>用武器的柄击打%s",
   "context": "ID: tec_youmu_hilt_nudge\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_hilt_nudge\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "7e51133dc76b64b8a28c64a22d6ebee0",
@@ -425,9 +425,9 @@
  {
   "key": "393d702463789ead0626ba8f5778d244",
   "original": "<npcname> sweeps at %s, slowing them down",
-  "translation": "<npcname>号在%s号区域进行清扫，使其行动减缓。",
+  "translation": "<npcname> 横扫向 %s，使其行动减缓。",
   "context": "ID: tec_youmu_sweep\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_sweep\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5970d51a1b17c4088434c6655827c409",
@@ -446,23 +446,23 @@
  {
   "key": "3140bc8b39e0f99391eab9df3b3518ef",
   "original": "<npcname> swings quickly at %s",
-  "translation": "<npcname>迅速向%s挥动",
+  "translation": "<npcname> 快速攻向 %s",
   "context": "ID: tec_iku_slap\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_slap\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "3cb7d8d30fb9ff4d4a7483b362547e86",
   "original": "<npcname> swings quickly at %s!",
-  "translation": "<npcname>迅速向%s挥击！",
+  "translation": "<npcname> 迅速攻向 %s！",
   "context": "ID: tec_kokoro_swing_1h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_1h\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "eb62ffbb4fc41d253f4fbbbc6ccb3b49",
   "original": "<npcname> swings their weapon at %s!",
   "translation": "<npcname> 猛烈地朝 %s 砍去！",
   "context": "ID: tec_kokoro_swing_2h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_2h\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "dcb4ef8477beb4b934b98f2e7c249184",
@@ -474,9 +474,9 @@
  {
   "key": "9872080fe21d2120fd85ca050bbcbb7d",
   "original": "<npcname> tackles %s!",
-  "translation": "<npcname>次擒抱，%s次！",
+  "translation": "<npcname> 撞击 %s！",
   "context": "ID: tec_mokou_tackle\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_tackle\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "a4f76a11a54fa5cf4fe70ff4ec116575",
@@ -502,9 +502,9 @@
  {
   "key": "486e35528d2243eaa842a452058522e8",
   "original": "<npcname> turns around and attacks %s while moving backwards!",
-  "translation": "<npcname>在后退中转身攻击%s！",
+  "translation": "<npcname>在后退中转身攻击 %s！",
   "context": "ID: tec_kokoro_switch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_switch\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "bb8e64d94b1f5a230a669a8824de0411",
@@ -676,7 +676,7 @@
   "original": "A cotton skirt with frills at the end that goes just above the knees.",
   "translation": "一条棉质短裙，裙摆带有褶边，长度在膝盖以上。",
   "context": "ID: tengu_skirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_tengu_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→tengu_skirt\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "8ad79a573b7d6541349de1cfe751acf1",
@@ -724,7 +724,7 @@
   "original": "A dark red tabard, displaying plant motiffs, and decorated with a large, pink rose in the middle of the chest area.",
   "translation": "一件深红色的短袖罩衣，饰以植物图案，并在胸前中央装饰有一朵大粉色玫瑰。",
   "context": "ID: kasen_tabard\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_tabard\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cd596db155f5136e83f22b6671aba855",
@@ -836,14 +836,14 @@
   "original": "A knee-length, breezy cotton skirt, halter style.",
   "translation": "一条及膝的、轻盈透气的棉质裙，采用吊带设计。",
   "context": "ID: kasen_dress\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_dress\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "226333d906aba3c7eda1647cf579b5b6",
   "original": "A knife, frozen in time and space.  It can be used as platform.",
-  "translation": "一把凝固在时空中的刀。它可以作为立足点使用。",
+  "translation": "一把在时空中凝固的刀。可当作平台使用。",
   "context": "ID: t_frozen_knife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_frozen_knife\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "43a398fdf1b244242d040eb2facbee0f",
@@ -1008,7 +1008,7 @@
   "original": "A pair of hair bun brocades, worn on the sides of your head.",
   "translation": "一对发髻锦缎，饰于头部两侧。",
   "context": "ID: kasen_buns\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL_ARMOR→kasen_buns\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5240398bd75d7c5ad27dc50ac16bbca8",
@@ -1042,7 +1042,7 @@
   "original": "A piece of clothing you use to cover your missing arm.",
   "translation": "一件用来遮盖你失去的手臂的衣物。",
   "context": "ID: kasen_bandages\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kasen_bandages\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "f97dff6bf8f87df3a84c7d8bb23d4e92",
@@ -1333,9 +1333,9 @@
  {
   "key": "28a8c74dd6f8faaa57cdeacdd0272bb8",
   "original": "A special set of footwear used by dancers.  They're comfortable enough you can use them without socks, although you can still combine them.",
-  "translation": "舞者专用的一套特殊鞋履。它们足够舒适，即便不穿袜子也能使用，当然也可以搭配袜子穿着。",
+  "translation": "一种专为舞者设计的特殊鞋类。它们非常舒适，可以不用穿袜子直接穿着，当然，你也可以选择搭配袜子一起使用。",
   "context": "ID: kokoro_socks\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→kokoro_socks\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "22aca0b49f6078f45dc5bf63ff2b58e0",
@@ -2826,9 +2826,9 @@
  {
   "key": "e872c7b17c704abd3e841462b3b62b8b",
   "original": "Cut the air, materializing a barrier that protects you from high speed proyectiles for a short time.  \nRequires a sword.",
-  "translation": "斩击空气，瞬间构筑起一道屏障，短时间内保护你免受高速投射物的伤害。需求：一把剑。",
+  "translation": "斩击空气，实体化出一道屏障，在短时间内保护你免受高速投掷物的伤害。\n需要一把剑。",
   "context": "ID: youmu_reflectionslash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_reflectionslash\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "1b640d6f67b7afe795ba1870ca906802",
@@ -5375,16 +5375,16 @@
  {
   "key": "5361ffb156319d9f343c103941e99c52",
   "original": "If nothing else revealed you're a vampire, this will surely do.  You're currently transformed into bat form.  Activate the mutation to switch to human form.",
-  "translation": "若此前尚未暴露你的吸血鬼身份，此刻必将真相大白。你当前正处于蝙蝠形态。激活此变异以转变为人形。",
+  "translation": "如果此前尚未暴露你的吸血鬼身份，此刻必将真相大白。你当前正处于蝙蝠形态。激活此变异以转变为人形。",
   "context": "ID: VAMPIRE_BAT_REMI_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI_active\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "fda60a87edf11ab8c9a29b2a4f4e8e86",
   "original": "Ignoring incoming attacks.",
   "translation": "忽略即将到来的攻击。",
   "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c0a7c731cbb95e4c0cc30db0de804a7e",
@@ -5520,9 +5520,9 @@
  {
   "key": "41cc8707d456bf1b1513546a769fc732",
   "original": "Infuse a nearby corpse with hellish energies, causing it to violently explode.  Deals Fire damage proportional to the target's life in life.",
-  "translation": "将附近的一具尸体灌注来自地狱的能量，导致其剧烈爆炸。造成的火焰伤害与目标生命值成正比。",
+  "translation": "朝附近的一具尸体灌注来自地狱的能量，导致其剧烈爆炸。造成的火焰伤害与目标生命值成正比。",
   "context": "ID: kaenbyou_corpseexplosion\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_corpseexplosion\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "811444dc0a38524cf66116385900ab17",
@@ -5548,23 +5548,23 @@
  {
   "key": "410c8697e1eba85688d028092c5b8200",
   "original": "Insightful sword (bash)",
-  "translation": "洞察之剑（击砸）",
+  "translation": "洞察之剑（钝击）",
   "context": "ID: youmu_insightfulsword2_bash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword2_bash\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "6c107ee1a7e207fc2ede5e86bc7cac69",
   "original": "Insightful sword (cut)",
-  "translation": "洞察之剑（斩）",
+  "translation": "洞察之剑（斩击）",
   "context": "ID: youmu_insightfulsword2_cut\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword2_cut\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "eaa335bf6b53116e940a313f767fe6b2",
   "original": "Insightful sword (stun)",
   "translation": "洞察之剑（眩晕）",
   "context": "ID: youmu_insightfulsword3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_insightfulsword3\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "205b28249dc72beae456d706ff8d1e3d",
@@ -6006,14 +6006,14 @@
   "original": "Life drain",
   "translation": "生命汲取",
   "context": "ID: yoshika_drain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "c9b09beaa055349e71906378d7517e2a",
   "original": "Life drain (self heal)",
   "translation": "生命汲取（自我治疗）",
   "context": "ID: yoshika_drain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_drain2\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "598e41dd167a76be2d5dcb3393eefce6",
@@ -6082,14 +6082,14 @@
   "original": "Long socks, reaching just below the knee.",
   "translation": "长袜，延伸至膝盖下方。",
   "context": "ID: socks_long\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_generic_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→socks_long\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "ed2da2239b4cb9a641ca8d134ed7c680",
   "original": "Long, black socks that reach above the knees.  There's a crescent printed on the left side of the left sock.  These are worn by trainees of the Lunar Defense Corps.",
-  "translation": "长及膝盖以上的黑色袜子。左脚左侧袜子上印有新月图案。这些是月球防御兵团学员的专属装备。",
+  "translation": "长及膝盖以上的黑色袜子。左脚左侧袜子上印有新月图案。这些是月球防御部队新兵的专属装备。",
   "context": "ID: ldc_kneesocks\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_gyokuto_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→ldc_kneesocks\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "cc0b6441dc2fdacff9bcc720f087679f",
@@ -6574,7 +6574,7 @@
   "original": "Movement speed is reduced.",
   "translation": "移动速度降低。",
   "context": "ID: youmumyon2_slasheternal2_slow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→youmumyon2_slasheternal2_slow\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "2e222e9dc87a2f89f5a9a2b47f3538a3",
