@@ -1789,9 +1789,9 @@
  {
   "key": "4dd460e072dfa0f2e6eba17a7d40a085",
   "original": "A creature, having the appearance and gait of a gangly, bowed dog or canid.  The animal looks sickly, with the gray skin looking smooth, being almost completely hairless except for patches of skin over the shoulders in some individuals.  The fangs look bigger than they should, and while the overall appearance of the beast is fragile, the illusion is quickly broken once you see it moving to hunt prey.",
-  "translation": "这种生物的外观和步态类似于瘦长、驼背的狗或犬科动物。其外表显得病态，灰白色的皮肤光滑，几乎全无毛发，仅在某些个体的肩部有少量皮肤斑块。獠牙看起来比寻常的大，尽管这野兽整体给人一种脆弱的错觉，但一旦见到它为猎捕猎物而移动时，这种假象便迅速破灭。",
+  "translation": "这种生物的外观和步态类似于瘦长、驼背的狗或犬科动物。它的外观十分病态，光滑的灰白色皮肤，全身无毛，仅在某些个体的肩部有少量皮肤斑块。獠牙看起来异常巨大，尽管这野兽整体给人一种弱小的错觉，但一旦见到它的捕猎场景，这种假象便迅速破灭。",
   "context": "ID: mon_chupacabra\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_chupacabra\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "386de9a5980a1da4c4c69efcc2a26f43",
@@ -1817,9 +1817,9 @@
  {
   "key": "4216a35094871191c81620a1fe302b4e",
   "original": "A cunning pack predator, once extinct in the three southern islands from the Japanese archipielago. Once revered in ancient Japan, the animal suffered the consequences of human activities in modern times, not to mention the active persecution during the 19th and early 20th centuries.  Smaller than a North American wolf, it's still a wolf regardless.",
-  "translation": "一种狡猾的群居捕食者，曾一度在日本群岛南部三个岛屿上灭绝。这种动物在古代日本备受尊崇，但在现代遭受了人类活动的影响，更不用说在19世纪至20世纪初遭受的主动猎杀。尽管体型比北美的狼小，但它无疑仍是一种狼。",
+  "translation": "一种狡猾的群居掠食者，曾一度在日本群岛南部三个岛屿上灭绝。这种动物在古代日本备受尊崇，在现代受到人类活动的影响，并且在19世纪至20世纪初被大量猎杀。尽管体型比北美的狼小，但它无疑仍是一种狼。",
   "context": "ID: mon_honshuu_wolf\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reference.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_honshuu_wolf\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "2960ad50c7b544e0a223b3a3f60d354a",
@@ -1971,9 +1971,9 @@
  {
   "key": "4c6ceb8669d99bea3906670321bbf181",
   "original": "A fish-shaped snack, usually filled with anko, nowadays carrying custard, chocolate, cheese or sweet potato.",
-  "translation": "鱼形小吃，传统上填充红豆馅，如今也包含卡仕达、巧克力、奶酪或红薯馅料。",
+  "translation": "长的像鱼的小吃，传统上采用红豆馅，但现在也用卡仕达、巧克力、奶酪或红薯馅料。",
   "context": "ID: taiyaki\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→taiyaki\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "9fb3fa5dfc436162b5910fcf0c91a477",
@@ -7634,23 +7634,23 @@
  {
   "key": "ef0135c3e752adbed8f48a2ad9e6cb00",
   "original": "The %s's lower mandible hangs slack!",
-  "translation": "The %s's lower mandible hangs slack！",
+  "translation": "",
   "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "c65a0cf0c7e812ef6b3bcbe6d95aa2eb",
   "original": "The %s's mandibles are crippled!",
-  "translation": "The %s's mandibles are crippled！",
+  "translation": "",
   "context": "ID: wps_gorgonopsid_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_theriodontia_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_gorgonopsid_body\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "ffdf9f6458624cc4f55f33b05c0dd83a",
   "original": "The %s's mandibles hang slack!",
-  "translation": "The %s's mandibles hang slack！",
+  "translation": "",
   "context": "ID: wps_enfield_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_enfield_body\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "1f13925a627b907dba3d0f5b62f54126",
@@ -11850,7 +11850,7 @@
  {
   "key": "5f7929b21433fd04b78e99ddc04728bf",
   "original": "the \"arm\"",
-  "translation": "the “arm”",
+  "translation": "“手臂”",
   "context": "ID: wps_posessed_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_tsukumogami_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_posessed_body\n",
   "stage": 1
  },
