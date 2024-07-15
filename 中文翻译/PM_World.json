@@ -273,6 +273,20 @@
   "stage": 1
  },
  {
+  "key": "094e0fee36739a24ee714f669f4520be",
+  "original": "'TETH' card reader terminal",
+  "translation": "'TETH' card reader terminal",
+  "context": "ID: t_l_corp_card_reader_he\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_he\n",
+  "stage": 1
+ },
+ {
+  "key": "3d5640989073a903139920ed3e620da3",
+  "original": "'ZAYIN' card reader terminal",
+  "translation": "'ZAYIN' card reader terminal",
+  "context": "ID: t_l_corp_card_reader_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_zayin\n",
+  "stage": 1
+ },
+ {
   "key": "822738a6605f257700a86879e0f4cdc4",
   "original": "*Lim is very glad that you will help him. Lim will be waiting for you here. ",
   "translation": "*林很高兴你能帮助他。林会在这里等你 。",
@@ -284,6 +298,13 @@
   "original": "*Turn around and leave*",
   "translation": "*转身离开*",
   "context": "ID: QUEST_LIM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→QUEST_LIM\n",
+  "stage": 1
+ },
+ {
+  "key": "847e3f10afa25714403f2bc2c815f126",
+  "original": "*doing something",
+  "translation": "*doing something",
+  "context": "ID: TALK_BLANK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_BLANK\n",
   "stage": 1
  },
  {
@@ -318,14 +339,14 @@
   "key": "2f43b42fd833d1e77420a8dae7419000",
   "original": "...",
   "translation": "…",
-  "context": "ID: ACCEPT_QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→ACCEPT_QUEST_LIM_DAUGHTER\n",
+  "context": "ID: TALK_BLANK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_BLANK\n",
   "stage": 3
  },
  {
   "key": "36cc3bbab7def5f958b9ad827822813d",
   "original": "100 000 Ahn",
   "translation": "100 000 Ahn",
-  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
+  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
   "stage": 1
  },
  {
@@ -615,10 +636,38 @@
   "stage": 1
  },
  {
+  "key": "9861b2c3d7b01f93590682744b7604a4",
+  "original": "A card reader with the blue inscription 'HE' on it, whatever that means. Requires a special card",
+  "translation": "A card reader with the blue inscription 'HE' on it, whatever that means. Requires a special card",
+  "context": "ID: t_l_corp_card_reader_he\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_he\n",
+  "stage": 1
+ },
+ {
+  "key": "8552a9ba585895bdb3d72362d9e01fa7",
+  "original": "A card reader with the blue inscription 'TETH' on it, whatever that means. Requires a special card",
+  "translation": "A card reader with the blue inscription 'TETH' on it, whatever that means. Requires a special card",
+  "context": "ID: t_l_corp_card_reader_teth\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "91a6aa03d4159a1f2e07e85fafd04284",
+  "original": "A card reader with the green inscription 'ZAIN' on it, whatever that means. Requires a special card",
+  "translation": "A card reader with the green inscription 'ZAIN' on it, whatever that means. Requires a special card",
+  "context": "ID: t_l_corp_card_reader_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_zayin\n",
+  "stage": 1
+ },
+ {
+  "key": "44b94dd954260ef3f81339c759b03ce9",
+  "original": "A card reader, crushed",
+  "translation": "A card reader, crushed",
+  "context": "ID: t_l_corp_card_reader_broken\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_broken\n",
+  "stage": 1
+ },
+ {
   "key": "f8908273f8c010378d8616e4d7fae65b",
   "original": "A credit bill of 100 000, usual currency in City. You can trade it at some merchants for goods.",
   "translation": "一张 100 000 的信用钞票，这是都市的通用货币。您可以用它在一些商人那里换取商品。",
-  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
+  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
   "stage": 1
  },
  {
@@ -1753,6 +1802,13 @@
   "stage": 1
  },
  {
+  "key": "d7f86b72eb3f912d47a218cb26340d42",
+  "original": "HE level access card. Single use",
+  "translation": "HE level access card. Single use",
+  "context": "ID: lc_he\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_he\n",
+  "stage": 1
+ },
+ {
   "key": "d59347cf63a12bf7c581bae77387363b",
   "original": "Hack",
   "translation": "一刀两断",
@@ -1924,6 +1980,12 @@
   "key": "94a47ad7d7ca194541f08aaec3a28211",
   "original": "Hello, my name is %s",
   "translation": "你好，我的名字是 %s",
+  "stage": 1
+ },
+ {
+  "key": "9a0d4405eb4ba0612f3d8e5c28d78273",
+  "original": "Hello, my name is %s. I'm here to do some work.",
+  "translation": "Hello, my name is %s. I'm here to do some work.",
   "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
   "stage": 1
  },
@@ -1949,10 +2011,17 @@
   "stage": 1
  },
  {
+  "key": "92c407cc6964eed8ce44d9e6fd9413c4",
+  "original": "Hey! Do you want to buy something?",
+  "translation": "Hey! Do you want to buy something?",
+  "context": "ID: TALK_ZWEI_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_FOOD\n",
+  "stage": 1
+ },
+ {
   "key": "5f29964d9318daef5e31b133fe8b822b",
   "original": "Hey. What can I do for you?",
   "translation": "嘿，我能为你做什么？",
-  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
+  "context": "ID: TALK_REC_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_REC_ZW\n",
   "stage": 1
  },
  {
@@ -2085,7 +2154,7 @@
   "key": "e560e82db6f3a47838af88d8b13a9a9d",
   "original": "I'm fixer of Zwei association",
   "translation": "I'm fixer of Zwei association",
-  "context": "ID: NC_ZW_FIXER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER\n",
+  "context": "ID: NC_ZW_FIXER_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER_FOOD\n",
   "stage": 1
  },
  {
@@ -2274,7 +2343,7 @@
   "key": "d6b60701f7a0b9cae6fb5c210c2b344c",
   "original": "Just come to say hello, thanks *Leave*",
   "translation": "只是来打个招呼，谢谢 *离开*",
-  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
+  "context": "ID: TALK_REC_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_REC_ZW\n",
   "stage": 1
  },
  {
@@ -2399,7 +2468,7 @@
   "key": "f1d992e2db6c9f96c7bb4c426cd0f319",
   "original": "L corp documents",
   "translation": "L公司文件",
-  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
+  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
   "stage": 1
  },
  {
@@ -2646,6 +2715,27 @@
   "stage": 1
  },
  {
+  "key": "ee7d05a0b67b280f3b1f58d0d92b6300",
+  "original": "Lob Corp card: <color_blue>TETH</color>",
+  "translation": "Lob Corp card: <color_blue>TETH</color>",
+  "context": "ID: lc_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "280e3e02f9bb88161e589546622eef77",
+  "original": "Lob Corp card: <color_green>ZAYIN</color>",
+  "translation": "Lob Corp card: <color_green>ZAYIN</color>",
+  "context": "ID: lc_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_zayin\n",
+  "stage": 1
+ },
+ {
+  "key": "a6a1943a12537d1a9ca2feca40063afb",
+  "original": "Lob Corp card: <color_yellow>HE</color>",
+  "translation": "Lob Corp card: <color_yellow>HE</color>",
+  "context": "ID: lc_he\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_he\n",
+  "stage": 1
+ },
+ {
   "key": "82a63bf6c238d49fd7edff1060b2e1cb",
   "original": "Lobotomy Corporation",
   "translation": "脑叶公司",
@@ -2818,6 +2908,13 @@
   "original": "No, why do you think I need help? [right eye twitches]",
   "translation": "不，你为什么认为我需要帮助？[右眼抽搐]",
   "context": "ID: TALK_LIM_RC1\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_LIM_RC1\n",
+  "stage": 1
+ },
+ {
+  "key": "276edfb3977f9233e583713587726016",
+  "original": "Nope.",
+  "translation": "Nope.",
+  "context": "ID: TALK_ZWEI_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_FOOD\n",
   "stage": 1
  },
  {
@@ -3153,7 +3250,7 @@
   "key": "0d2b65c10cfe460021d652e2aac2f9ae",
   "original": "Several secret documents containing all kinds of information, graphs, and charts, kept together in a manila folder. You dont know why but you cannot percieve information drawn here, everything so blury and boring.",
   "translation": "几份包含各种信息、图表的秘密文件被放在一个牛皮纸文件夹里。不知道为什么，你无法感知这里所绘制的信息，一切都显得那么模糊和乏味。",
-  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
+  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
   "stage": 1
  },
  {
@@ -3443,6 +3540,13 @@
   "stage": 1
  },
  {
+  "key": "d155e84bcdc5684742d069dc96567a88",
+  "original": "TETH level access card. Single use",
+  "translation": "TETH level access card. Single use",
+  "context": "ID: lc_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_teth\n",
+  "stage": 1
+ },
+ {
   "key": "278c491bdd8a53618c149c4ac790da34",
   "original": "Template",
   "translation": "Template",
@@ -3705,6 +3809,12 @@
   "key": "fccca8a46a6b129a5bee8097651f09f7",
   "original": "This is the main office of the Zwei Association! We are fixers who are engaged in escorting and protecting their clients. But still, although this is a priority task, it is not our only function and we are capable of more!",
   "translation": "这里是 Zwei 协会的总办事处！我们是从事护送和保护客户的收尾人。不过，虽然这是我们的首要任务，但这并不是我们的唯一职能，我们还能做更多！",
+  "stage": 1
+ },
+ {
+  "key": "989f38f7345fa77ac0040506d1e6548e",
+  "original": "This is the main office of the Zwei Association, section 6! We are fixers who are engaged in escorting and protecting their clients. But still, although this is a priority task, it is not our only function and we are capable of more!",
+  "translation": "This is the main office of the Zwei Association, section 6! We are fixers who are engaged in escorting and protecting their clients. But still, although this is a priority task, it is not our only function and we are capable of more!",
   "context": "ID: TALK_ZW_HELP\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP\n",
   "stage": 1
  },
@@ -4017,6 +4127,13 @@
   "stage": 1
  },
  {
+  "key": "1c7c2af81c2b2f52aa6b4192fa0d258f",
+  "original": "What's your busines?",
+  "translation": "What's your busines?",
+  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
+  "stage": 1
+ },
+ {
   "key": "a65761051781e8237d20f93c7f07c15f",
   "original": "What've ye scolted, then, o'the clunker?",
   "translation": "那么，你们找到了什么？",
@@ -4034,7 +4151,6 @@
   "key": "84bcbdf3258bd4e5c77a46352cb62a6c",
   "original": "Whats your busines?",
   "translation": "你是做什么的？",
-  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
   "stage": 1
  },
  {
@@ -4145,6 +4261,13 @@
   "original": "Yang",
   "translation": "阳",
   "context": "ID: yang_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→yang_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "0a28479627906cd0e5838f5c1480ddf7",
+  "original": "Yeah, let me see.",
+  "translation": "Yeah, let me see.",
+  "context": "ID: TALK_ZWEI_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_FOOD\n",
   "stage": 1
  },
  {
@@ -4666,6 +4789,13 @@
   "stage": 1
  },
  {
+  "key": "79b3690b6c5689505073e32a24265a48",
+  "original": "ZAYIN level access card. Single use",
+  "translation": "ZAYIN level access card. Single use",
+  "context": "ID: lc_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_zayin\n",
+  "stage": 1
+ },
+ {
   "key": "17d4d4fb5dffdcb48236d9f9bfdd24f1",
   "original": "Zonya",
   "translation": "佐尼娅",
@@ -4676,7 +4806,7 @@
   "key": "6139e7d0f6163e23d264b39ee0351416",
   "original": "Zwei",
   "translation": "Zwei",
-  "context": "ID: NC_ZW_FIXER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER\n",
+  "context": "ID: NC_ZW_FIXER_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER_FOOD\n",
   "stage": 3
  },
  {
@@ -4985,6 +5115,13 @@
   "original": "bouncer of Rusted Chains",
   "translation": "锈链保镖",
   "context": "ID: rc_npc_bouncer\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→rc_npc_bouncer\n",
+  "stage": 1
+ },
+ {
+  "key": "acd2619983790f1f7163ae7c2efb2297",
+  "original": "broken card reader terminal",
+  "translation": "broken card reader terminal",
+  "context": "ID: t_l_corp_card_reader_broken\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_broken\n",
   "stage": 1
  },
  {
