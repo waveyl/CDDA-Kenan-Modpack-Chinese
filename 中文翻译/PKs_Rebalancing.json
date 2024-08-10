@@ -16,7 +16,7 @@
   {
     "key": "5209eb1b45be54107e43f3faa15c11d1",
     "original": "\"'UZI' WHAT HAPPENS WHEN YOU MESS WITH ME?!!  HEHHeeehehHEE!\"",
-    "translation": "“乌兹，你惹我怎么办？！”？！！嘿嘿！”",
+    "translation": "\"‘乌兹（UZI）’，当你惹上我时会发生什么？！！嘿嘿嘿哈哈哈！\" ",
     "stage": 1,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/speech/speech_fsmg.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→speech→mon_furvivor_smg→4\n"
   },
@@ -30,7 +30,7 @@
   {
     "key": "01b608bc63f4e7a0f8902b0e47e448cd",
     "original": "\"A sickening slap on the ground!\"",
-    "translation": "“一记恶心的耳光！”",
+    "translation": "“一声令人作呕的落地声！”",
     "stage": 1,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/speech/speech_zombie_crawler_pk.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→speech→mon_zombie_crawler_pk→2\n"
   },
@@ -13730,7 +13730,7 @@
     "key": "c6fb9ba05054ba162dec27875bf7f74c",
     "original": "skunk",
     "translation": "臭鼬",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: mon_skunk\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_skunk\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_skunk"
   },
   {
@@ -15564,13 +15564,6 @@
     "stage": 5
   },
   {
-    "key": "b822e1b90e6be6a00d7c6d314f79457c",
-    "original": "\"USE US.\"",
-    "translation": "“使用美国。”",
-    "stage": 0,
-    "context": "ID: soulcube_charging\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→soulcube_charging\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=soulcube_charging"
-  },
-  {
     "key": "2f43b42fd833d1e77420a8dae7419000",
     "original": "...",
     "translation": "…",
@@ -15648,53 +15641,11 @@
     "context": "ID: l-stick\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→l-stick\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=l-stick"
   },
   {
-    "key": "25a1f13d68adceb6511bc9a41b97b030",
-    "original": "The boil dances around you!",
-    "translation": "水煮在你周围跳舞！",
-    "stage": 0,
-    "context": "ID: bot_fungal_boil\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_fungal_boil\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_fungal_boil"
-  },
-  {
-    "key": "bb0aa1743741bb14d326c3ed447aa347",
-    "original": "The boil inside matures!",
-    "translation": "里面的水煮成熟了！",
-    "stage": 0,
-    "context": "ID: bot_fungal_boil_egg\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_fungal_boil_egg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_fungal_boil_egg"
-  },
-  {
-    "key": "7b3e765e26e90af0d6e41d5b7d7708d7",
-    "original": "The boil takes to the air and begins to grow exponentially.",
-    "translation": "沸腾扩散到空气中，并开始呈指数增长。",
-    "stage": 0,
-    "context": "ID: bot_fungal_boil\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_fungal_boil\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_fungal_boil"
-  },
-  {
     "key": "113fb9f3d838667ae6be0062d856a780",
     "original": "The candle winks out.",
     "translation": "蜡烛闪烁着熄灭了。",
     "stage": 5,
     "context": "ID: candle_smoke_lit\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→candle_smoke_lit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=candle_smoke_lit"
-  },
-  {
-    "key": "72732f86c0866a6b4ca9260aae6825a8",
-    "original": "The exoskeleton silently powers down.",
-    "translation": "外骨骼无声地断电。",
-    "stage": 0,
-    "context": "ID: megaarmor_torso_3_act\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→megaarmor_torso_3_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=megaarmor_torso_3_act"
-  },
-  {
-    "key": "719872152032c9ae623982c7a59d1ceb",
-    "original": "The firebomb hack flies from your hand and surveys the area!",
-    "translation": "燃烧弹从你的手中飞出，并调查该地区！",
-    "stage": 0,
-    "context": "ID: bot_manhack_fire\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_manhack_fire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_manhack_fire"
-  },
-  {
-    "key": "497d90302fc0d1d71dc7a9cc826e3004",
-    "original": "The glow transfers over to you, healing your wounds!",
-    "translation": "光芒传递给你，治愈你的伤口！",
-    "stage": 0,
-    "context": "ID: broken_soulcube\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→broken_soulcube\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_soulcube"
   },
   {
     "key": "13b955789e2383a93e552be2ba54abde",
@@ -15716,20 +15667,6 @@
     "translation": "动力外骨骼缺乏能源启动",
     "stage": 1,
     "context": "ID: megaarmor_torso_3\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→megaarmor_torso_3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=megaarmor_torso_3"
-  },
-  {
-    "key": "a80773887d1cead2fb968986e406e180",
-    "original": "The rat look hostile!",
-    "translation": "老鼠看起来很不友好！",
-    "stage": 0,
-    "context": "ID: bot_rat\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_rat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_rat"
-  },
-  {
-    "key": "7fb21623c326ce4d7c9e5b12d1750cb0",
-    "original": "The rat looks up expectently!",
-    "translation": "老鼠期待地抬起头来！",
-    "stage": 0,
-    "context": "ID: bot_rat\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_rat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_rat"
   },
   {
     "key": "8f41bd2e3e2f76574d0a64fecfd3146e",
@@ -15760,13 +15697,6 @@
     "context": "ID: swat_shield\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→ARMOR→swat_shield\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=swat_shield"
   },
   {
-    "key": "67368291a5d58f2720ae638bac62138c",
-    "original": "This machine is empty!  Deconstruct it and make a new one.",
-    "translation": "这台机器是空的！解构一下，重新做一个。",
-    "stage": 0,
-    "context": "ID: smoke_machine\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→smoke_machine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=smoke_machine"
-  },
-  {
     "key": "8e61d99ca246955cc31b67a365b2a216",
     "original": "Turn off",
     "translation": "关闭",
@@ -15795,81 +15725,11 @@
     "context": "ID: fertilizer_chelated\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→COMESTIBLE→fertilizer_chelated\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=fertilizer_chelated"
   },
   {
-    "key": "607b1f44a50538182b3119aecc5d44ff",
-    "original": "You insert the needle into your vein and your blood boils!",
-    "translation": "你把针扎进静脉，你的血就会沸腾！",
-    "stage": 0,
-    "context": "ID: berserker_drug\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→berserker_drug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=berserker_drug"
-  },
-  {
-    "key": "d085eb7ce37bcacd61cfec0f230af47c",
-    "original": "You light the homemade molotov.",
-    "translation": "你点燃自制燃烧弹。",
-    "stage": 0,
-    "context": "ID: molotov_micro\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→molotov_micro\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=molotov_micro"
-  },
-  {
-    "key": "ae924a0a97396638f2acab33606df67b",
-    "original": "You light the smoking candle.",
-    "translation": "你点燃了冒烟的蜡烛。",
-    "stage": 0,
-    "context": "ID: candle_smoke\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→candle_smoke\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=candle_smoke"
-  },
-  {
-    "key": "20ad39bdf173eb44ee06443c0d0f558c",
-    "original": "You mis-program the firebomb hack; take cover!",
-    "translation": "你误编了火弹黑客程序；躲起来！",
-    "stage": 0,
-    "context": "ID: bot_manhack_fire\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_manhack_fire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_manhack_fire"
-  },
-  {
-    "key": "275d5bc554800148bb781ed81db086cd",
-    "original": "You mis-program the missile; it's hostile!",
-    "translation": "你把导弹编程错了；充满敌意。",
-    "stage": 0,
-    "context": "ID: bot_manhack_missile\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_manhack_missile\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_manhack_missile"
-  },
-  {
     "key": "3d4358d8d9fbeafb64f0d1479fa89e81",
     "original": "You open the jar, exposing it to the atmosphere.",
     "translation": "你打开了罐子，内容物暴露在空气中。",
     "stage": 5,
     "context": "ID: jar_spider_steak_pickled\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/drop.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GENERIC→jar_spider_steak_pickled\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jar_spider_steak_pickled"
-  },
-  {
-    "key": "8efa2cade8dbbcdd047dd4fedd43de11",
-    "original": "You prep the smoke machine for use.  It is still off.",
-    "translation": "你准备好烟雾机。还是关着。",
-    "stage": 0,
-    "context": "ID: smoke_machine_unpreped\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→smoke_machine_unpreped\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=smoke_machine_unpreped"
-  },
-  {
-    "key": "1c7ef1f0559ec19c474a92662c5ec1a2",
-    "original": "You take a moment to adjust the strings of your arm-pouch.",
-    "translation": "你花一点时间来调整你的手臂袋的绳子。",
-    "stage": 0,
-    "context": "ID: sac_purse_arm\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→sac_purse_arm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sac_purse_arm"
-  },
-  {
-    "key": "28b39bd01cc82055e944bed03b7eeb9e",
-    "original": "You take a moment to adjust the strings of your leg-pouch.",
-    "translation": "你花一点时间来调整你的腿袋。",
-    "stage": 0,
-    "context": "ID: sac_purse_leg\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→sac_purse_leg\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sac_purse_leg"
-  },
-  {
-    "key": "08d970ecd42c7749cd845edec0c703ee",
-    "original": "You take a moment to adjust the strings of your pouch.",
-    "translation": "你花点时间调整一下你的眼袋。",
-    "stage": 0,
-    "context": "ID: sac_purse\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→sac_purse\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sac_purse"
-  },
-  {
-    "key": "6135591be359b8cbdbb9be2a4681f392",
-    "original": "You take a moment to reset the strings of your pouch.",
-    "translation": "你花一点时间重新设置你的袋子。",
-    "stage": 0,
-    "context": "ID: sac_purse_ankle\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL_ARMOR→sac_purse_ankle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=sac_purse_ankle"
   },
   {
     "key": "83435cbb63d2c84980ab015d2d1782bc",
@@ -15886,46 +15746,11 @@
     "context": "ID: gummy_vitamins\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→COMESTIBLE→gummy_vitamins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gummy_vitamins"
   },
   {
-    "key": "d8d455619901733b1e45f4025f5ae214",
-    "original": "You turn the fog machine on.",
-    "translation": "你打开雾机。",
-    "stage": 0,
-    "context": "ID: smoke_machine\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→smoke_machine\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=smoke_machine"
-  },
-  {
-    "key": "2e7478ac518bb8a03cd834f6785fa38a",
-    "original": "You turn the smoke machine off.",
-    "translation": "你把烟雾机关掉。",
-    "stage": 0,
-    "context": "ID: smoke_machine_act\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/tool.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→smoke_machine_act\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=smoke_machine_act"
-  },
-  {
-    "key": "5191db90b461ef905d290c57f15cf9c7",
-    "original": ".410 flechette",
-    "translation": "410弗莱切特",
-    "stage": 0,
-    "context": "ID: shot_410_flechette\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_flechette\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_flechette"
-  },
-  {
     "key": "d4cd30daa96eb2b3cbfbf5303f589e0d",
     "original": ".410 flechette, reloaded",
     "translation": ".410 镖形霰弹（复装）",
     "stage": 1,
     "context": "ID: shot_410_flechette_reloaded\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_flechette_reloaded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_flechette_reloaded"
-  },
-  {
-    "key": "f33c85288ce6e428fbb940babca9415b",
-    "original": ".410 incendiary",
-    "translation": ".410燃烧弹",
-    "stage": 0,
-    "context": "ID: shot_410_inc\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_inc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_inc"
-  },
-  {
-    "key": "642c83ad61e89bbb74b7b07dd7be59de",
-    "original": ".410 incendiary, reloaded",
-    "translation": ".410燃烧弹，重新装弹",
-    "stage": 0,
-    "context": "ID: shot_410_inc_reloaded\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_inc_reloaded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_inc_reloaded"
   },
   {
     "key": "08cd9ee3628ede8703d8924aaecdd909",
@@ -15940,55 +15765,6 @@
     "translation": ".410 独头弹（复装）",
     "stage": 3,
     "context": "ID: shot_410_slug_reloaded\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_slug_reloaded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_slug_reloaded"
-  },
-  {
-    "key": "3471f84ed8b2eab73b31a3d1ab0b859f",
-    "original": "A hand-reloaded small-bore shotgun shell with a reserve of explosive incendiary that violently ingnites upon impact.",
-    "translation": "一种手动重新装填的小口径猎枪炮弹，带有爆炸性燃烧物，在撞击时会猛烈燃烧。",
-    "stage": 0,
-    "context": "ID: shot_410_inc_reloaded\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_inc_reloaded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_inc_reloaded"
-  },
-  {
-    "key": "84cc1479084e894a528ea0a538324109",
-    "original": "A hand-reloaded small-bore shotgun shell with exactly 4 pointed slugs and copious amounts of explosive powder.",
-    "translation": "一种手动装填的小口径霰弹枪弹壳，有4个尖头弹和大量炸药。",
-    "stage": 0,
-    "context": "ID: shot_410_flechette_reloaded\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_flechette_reloaded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_flechette_reloaded"
-  },
-  {
-    "key": "9cb957a0fb798575a825cddf4e89bd06",
-    "original": "A hand-reloaded solid-shot small-bore shotgun shell designed to punch through armor.",
-    "translation": "一种手装固体子弹的小口径霰弹枪壳，设计用于穿透装甲。",
-    "stage": 0,
-    "context": "ID: shot_410_slug_reloaded\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_slug_reloaded\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_slug_reloaded"
-  },
-  {
-    "key": "dcdca393f98a566c3cacf13d0c45b22d",
-    "original": "A revolver chambered to fire the small-bore .410 shotgun shells.  Marketed as a robust home-defense weapon, the 5410 Frontier is large enough to make reloading a snap with practice and accepts most third-party modifications to make the user feel as secure as possible.",
-    "translation": "一把左轮手枪，用来射击小口径。410发霰弹枪。作为一个强大的家庭防御武器，5410前线市场足够大，使重新加载与实践快照，并接受大多数第三方修改，使用户感到尽可能安全。",
-    "stage": 0,
-    "context": "ID: 410_revolver\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→GUN→410_revolver\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=410_revolver"
-  },
-  {
-    "key": "894eea97d49ee87586f88c89a70aa352",
-    "original": "A small-bore shotgun shell with a reserve of explosive incendiary that violently ingnites upon impact.",
-    "translation": "弹壳一种小口径的猎枪炮弹，有爆炸性燃烧物储备，在撞击时猛烈燃烧。",
-    "stage": 0,
-    "context": "ID: shot_410_inc\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_inc\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_inc"
-  },
-  {
-    "key": "2499a936b8db4d4883f288aa48742760",
-    "original": "A small-bore shotgun shell with exactly 4 pointed slugs and copious amounts of explosive powder.",
-    "translation": "一种小口径的霰弹枪，正好有4个尖弹头和大量的炸药。",
-    "stage": 0,
-    "context": "ID: shot_410_flechette\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_flechette\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_flechette"
-  },
-  {
-    "key": "934e04ef3699434dec1ecbbe3700b3bb",
-    "original": "A solid-shot small-bore shotgun shell designed to punch through armor.",
-    "translation": "一种设计用来穿透装甲的实心小口径猎枪炮弹。",
-    "stage": 0,
-    "context": "ID: shot_410_slug\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→AMMO→shot_410_slug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=shot_410_slug"
   },
   {
     "key": "fe4926457b407ec68914792d599257c0",
@@ -16266,7 +16042,7 @@
   {
     "key": "398646c758fb7505e388ebdddb77e2e9",
     "original": "Staying away from those rotting zombies seems like a prudent action . . .",
-    "translation": "远离那些腐烂的僵尸似乎是一种谨慎的行为。",
+    "translation": "远离那些腐烂的丧尸似乎是一种谨慎的行为。",
     "stage": 1,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/pk_health_messages.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→snippet→[3]\n"
   },

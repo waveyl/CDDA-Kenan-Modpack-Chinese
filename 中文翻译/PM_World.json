@@ -261,15 +261,29 @@
  {
   "key": "e7cf8e5c0c040c7670617ca53793e2ba",
   "original": "%s exhale ecstatic",
-  "translation": "%s exhale ecstatic",
+  "translation": "%s   欣喜若狂地呼气",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "a8a169a059d3b5fd5f6f1a074febb4e9",
   "original": "%s raise his fist with bloody grin.",
   "translation": "%s 举起拳头，露出嗜血的笑容。",
   "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "094e0fee36739a24ee714f669f4520be",
+  "original": "'TETH' card reader terminal",
+  "translation": "'TETH' card reader terminal",
+  "context": "ID: t_l_corp_card_reader_he\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_he\n",
+  "stage": 1
+ },
+ {
+  "key": "3d5640989073a903139920ed3e620da3",
+  "original": "'ZAYIN' card reader terminal",
+  "translation": "'ZAYIN' card reader terminal",
+  "context": "ID: t_l_corp_card_reader_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_zayin\n",
   "stage": 1
  },
  {
@@ -284,6 +298,13 @@
   "original": "*Turn around and leave*",
   "translation": "*转身离开*",
   "context": "ID: QUEST_LIM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→QUEST_LIM\n",
+  "stage": 1
+ },
+ {
+  "key": "847e3f10afa25714403f2bc2c815f126",
+  "original": "*doing something",
+  "translation": "*doing something",
+  "context": "ID: TALK_BLANK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_BLANK\n",
   "stage": 1
  },
  {
@@ -318,14 +339,14 @@
   "key": "2f43b42fd833d1e77420a8dae7419000",
   "original": "...",
   "translation": "…",
-  "context": "ID: ACCEPT_QUEST_LIM_DAUGHTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→ACCEPT_QUEST_LIM_DAUGHTER\n",
+  "context": "ID: TALK_BLANK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_BLANK\n",
   "stage": 3
  },
  {
   "key": "36cc3bbab7def5f958b9ad827822813d",
   "original": "100 000 Ahn",
   "translation": "100 000 Ahn",
-  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
+  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
   "stage": 1
  },
  {
@@ -422,21 +443,21 @@
  {
   "key": "f4a1395de4c15fde96755d190df3a216",
   "original": "<color_white>Ahh... </color>",
-  "translation": "<color_white>Ahh... </color>",
+  "translation": "<color_white>啊...... </color>",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
   "stage": 1
  },
  {
   "key": "c885a9964c4c97640e657ab1548a9a0f",
   "original": "<color_yellow>Ahh...</color>",
-  "translation": "<color_yellow>Ahh...</color>",
+  "translation": "<color_yellow>啊……</color>",
   "context": "ID: good_rest\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→good_rest\n",
   "stage": 1
  },
  {
   "key": "ad7fae6aff4473f4115e469468bfe0c0",
   "original": "<color_yellow>Alleyway Watchdog2!</color>",
-  "translation": "<color_yellow>Alleyway Watchdog2!</color>",
+  "translation": "<color_yellow> 后巷看门犬2！</color>",
   "context": "ID: mon_watchdog_second_phase\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog_second_phase\n",
   "stage": 1
  },
@@ -506,9 +527,9 @@
  {
   "key": "594dc912b31b37902dd27d8b45f24ef0",
   "original": "<npcname> punch %s sitting a top of him",
-  "translation": "<npcname> punch %s sitting a top of him",
+  "translation": "<npcname>次重击，%s次坐在他顶上。",
   "context": "ID: rc_finish\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_finish\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "5847e22abf28148b5219d72cde3a9fe7",
@@ -548,7 +569,7 @@
  {
   "key": "fe1512e7b5253056164c07c72fdd3218",
   "original": "<npcname>s deflect %s attack and strike back.",
-  "translation": "<npcname>s deflect %s attack and strike back.",
+  "translation": "<npcname> 抵挡了%s的攻击并反击。",
   "context": "ID: guardian\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→guardian\n",
   "stage": 1
  },
@@ -605,7 +626,6 @@
   "key": "35a6f379333219415f75f37042757ea3",
   "original": "A black incredibly heavy two-handed sword. The handle of which is 60 centimeters thick by 1 centimeter, has a mutually sharp blade with a length of 2 meters, a width of 25 centimeters, and a thickness of 1 centimeter. There are spots of burnt blood of the wearer on the blade of the sword",
   "translation": "一把沉重无比的黑色双手剑。剑柄长 60 厘米，宽 1 厘米，剑刃锋利无比，长 2 米，宽 25 厘米，厚 1 厘米。剑刃上有佩戴者烧焦的血迹。",
-  "context": "ID: sl_2sword\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→sl_2sword\n",
   "stage": 1
  },
  {
@@ -616,10 +636,38 @@
   "stage": 1
  },
  {
+  "key": "9861b2c3d7b01f93590682744b7604a4",
+  "original": "A card reader with the blue inscription 'HE' on it, whatever that means. Requires a special card",
+  "translation": "A card reader with the blue inscription 'HE' on it, whatever that means. Requires a special card",
+  "context": "ID: t_l_corp_card_reader_he\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_he\n",
+  "stage": 1
+ },
+ {
+  "key": "8552a9ba585895bdb3d72362d9e01fa7",
+  "original": "A card reader with the blue inscription 'TETH' on it, whatever that means. Requires a special card",
+  "translation": "A card reader with the blue inscription 'TETH' on it, whatever that means. Requires a special card",
+  "context": "ID: t_l_corp_card_reader_teth\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "91a6aa03d4159a1f2e07e85fafd04284",
+  "original": "A card reader with the green inscription 'ZAIN' on it, whatever that means. Requires a special card",
+  "translation": "A card reader with the green inscription 'ZAIN' on it, whatever that means. Requires a special card",
+  "context": "ID: t_l_corp_card_reader_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_zayin\n",
+  "stage": 1
+ },
+ {
+  "key": "44b94dd954260ef3f81339c759b03ce9",
+  "original": "A card reader, crushed",
+  "translation": "A card reader, crushed",
+  "context": "ID: t_l_corp_card_reader_broken\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_broken\n",
+  "stage": 1
+ },
+ {
   "key": "f8908273f8c010378d8616e4d7fae65b",
   "original": "A credit bill of 100 000, usual currency in City. You can trade it at some merchants for goods.",
-  "translation": "一张 100 000 的信用钞票，这是城市的通用货币。您可以用它在一些商人那里换取商品。",
-  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
+  "translation": "一张 100 000 的信用钞票，这是都市的通用货币。您可以用它在一些商人那里换取商品。",
+  "context": "ID: pm_money\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_money\n",
   "stage": 1
  },
  {
@@ -718,6 +766,41 @@
   "original": "A pair of thick brown trouses.",
   "translation": "一条厚厚的棕色长裤。",
   "context": "ID: pm_trouses_brown\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_trouses_brown\n",
+  "stage": 1
+ },
+ {
+  "key": "c09fd1be784a396c5076478216785b7a",
+  "original": "A patch of unusualy stout leather. It feels different from all leather that you have touched.",
+  "translation": "A patch of unusualy stout leather. It feels different from all leather that you have touched.",
+  "context": "ID: pm_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_leather_item\n",
+  "stage": 1
+ },
+ {
+  "key": "07cef56d30c26d45a81187a4f391e39a",
+  "original": "A patch of unusualy stout leather. It feels warm, but the heat seems to come not from the leather but from your fingers.",
+  "translation": "A patch of unusualy stout leather. It feels warm, but the heat seems to come not from the leather but from your fingers.",
+  "context": "ID: stigma_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_leather_item\n",
+  "stage": 1
+ },
+ {
+  "key": "2d5d03d71130d842aa0dd4fbe7cb1d05",
+  "original": "A piece of cotton. It perfectly protects against heat.",
+  "translation": "A piece of cotton. It perfectly protects against heat.",
+  "context": "ID: stigma_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "d61ee49e458a8fa5989ce773da2d75f1",
+  "original": "A piece of cotton. It seems denser than ordinary cotton.",
+  "translation": "A piece of cotton. It seems denser than ordinary cotton.",
+  "context": "ID: pm_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "0996efcf75decca60ab367a429961255",
+  "original": "A plate of black ballistic polymer material. It is used in military equipment, among other things, you have not heard anything specifically about this material.",
+  "translation": "A plate of black ballistic polymer material. It is used in military equipment, among other things, you have not heard anything specifically about this material.",
+  "context": "ID: b_polymer_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_polymer_item\n",
   "stage": 1
  },
  {
@@ -835,9 +918,9 @@
  {
   "key": "ada023bd4365033abdc4d2f8a7c72f03",
   "original": "AOE electro cute <3",
-  "translation": "AOE electro cute <3",
+  "translation": "范围电击爱心<3",
   "context": "ID: lighting_surge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→lighting_surge\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "68cf4b09e833e3671ff1569ad61f4255",
@@ -962,6 +1045,12 @@
   "key": "f1da40e2e3b9825eece22024fdeb9ad2",
   "original": "Balistic polymer",
   "translation": "均衡型聚合材料",
+  "stage": 1
+ },
+ {
+  "key": "6d23a2a61de1736ea7b42251db261283",
+  "original": "Ballistic polymer",
+  "translation": "Ballistic polymer",
   "context": "ID: b_polymer\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→b_polymer\n",
   "stage": 1
  },
@@ -989,7 +1078,7 @@
  {
   "key": "c6184d6a7373a5aca0aacb6cb376c54d",
   "original": "Basicaly, fixers are hired mercenaries. They perform various tasks, but which ones it is depends on the main direction of the office or association.Someone specializes in investigations, someone in contract killings, someone in defense - for example, we. The fixers themselves also have \"grades\", the closer to 1 the stronger the fixer, and the strongest of them are assigned \"colors\". Color fixers are the strongest of all, I've heard that there are such, but I've never seen one.",
-  "translation": "基本上，收尾人是受雇的雇佣兵。他们执行各种任务，但具体是哪些任务取决于事务所或协会的主要方向。有人专门从事调查，有人专门从事合同杀人，有人专门从事辩护--例如，我们。收尾人本身也有 \"等级\"，越接近 1 的收尾人越强，最强的收尾人被赋予 \"色彩\"。色彩级收尾人是收尾人中最强的，我听说过这种，但我没看见过。",
+  "translation": "基本上，收尾人是受雇的雇佣兵。他们执行各种任务，但具体是哪些任务取决于事务所或协会的主要方向。有人专门从事调查，有人专门从事合同杀人，有人专门从事护卫--例如，我们。收尾人本身也有 \"等级\"，越接近 1 的收尾人越强，最强的收尾人被赋予 \"色彩\"。色彩级收尾人是收尾人中最强的，我听说过这种，但我没看见过。",
   "context": "ID: TALK_ZW_HELP_FIXER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP_FIXER\n",
   "stage": 1
  },
@@ -1018,7 +1107,13 @@
   "key": "5649ea4a4b09fb1ebc7a737dd2e17805",
   "original": "Black katana",
   "translation": "黑色武士刀",
-  "context": "ID: kr_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_katana\n",
+  "stage": 1
+ },
+ {
+  "key": "195e3360eee24492a77b21a72a2172a8",
+  "original": "Black metal, warm to the touch, when it refracts the light, a faint glint of orange incandescent metal is visible under the surface layer.",
+  "translation": "Black metal, warm to the touch, when it refracts the light, a faint glint of orange incandescent metal is visible under the surface layer.",
+  "context": "ID: stigma_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_steel_item\n",
   "stage": 1
  },
  {
@@ -1052,23 +1147,23 @@
  {
   "key": "a7a5575c5f269b5da048aef6ff22684f",
   "original": "Blue Charge?",
-  "translation": "Blue Charge?",
+  "translation": "蓝色充能?",
   "context": "ID: spell_blue_charge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→spell_blue_charge\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "7ce3b7ebfce006fdf4b18bd58fba8e09",
   "original": "Blue bolt",
-  "translation": "Blue bolt",
+  "translation": "蓝色闪电",
   "context": "ID: spell_dog_lighting_blue\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→spell_dog_lighting_blue\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "e57c68dc3e0cba5fb811098f11bac6b0",
   "original": "Blue charge",
-  "translation": "Blue charge",
+  "translation": "蓝色充能",
   "context": "ID: blue_frenzy\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→blue_frenzy\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "d34cd6feaa2bbe8d65afb51bff39b814",
@@ -1087,9 +1182,9 @@
  {
   "key": "255e7f9e68bd6e2caf512fef83a5a537",
   "original": "Blue lighting from dog for you <3",
-  "translation": "Blue lighting from dog for you <3",
+  "translation": "爱犬为你带来蓝色闪电❤️",
   "context": "ID: spell_dog_lighting_blue\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→spell_dog_lighting_blue\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "0f891fef261105dc27c92212c926e15c",
@@ -1197,6 +1292,13 @@
   "stage": 1
  },
  {
+  "key": "715102f7c5e27c5e4a213cc505bd2161",
+  "original": "Clerk",
+  "translation": "Clerk",
+  "context": "ID: NC_LC_CLERK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_CLERK\n",
+  "stage": 1
+ },
+ {
   "key": "e0ad02f058e4abbe39ef404f3020ba39",
   "original": "Cloud Cutter",
   "translation": "裁云断雾",
@@ -1207,7 +1309,6 @@
   "key": "9f2c93b51e0c344902d048907602d982",
   "original": "Cloud katana",
   "translation": "云纹武士刀",
-  "context": "ID: kr_cloud_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_cloud_katana\n",
   "stage": 1
  },
  {
@@ -1229,6 +1330,20 @@
   "original": "Cotton",
   "translation": "棉",
   "context": "ID: pm_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_cotton\n",
+  "stage": 1
+ },
+ {
+  "key": "a3fff9288f98fdd86527e039e60ed5ad",
+  "original": "Created in very special conditions. Incredibly light and ressistant.",
+  "translation": "Created in very special conditions. Incredibly light and ressistant.",
+  "context": "ID: l_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "f4c4fd3591d308f8eb15b922c3b36362",
+  "original": "Created in very special conditions. Incredibly light, so much so that if you put this piece on your hand you almost don't feel its weight.",
+  "translation": "Created in very special conditions. Incredibly light, so much so that if you put this piece on your hand you almost don't feel its weight.",
+  "context": "ID: l_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_steel_item\n",
   "stage": 1
  },
  {
@@ -1283,9 +1398,9 @@
  {
   "key": "1f67e5387bfad32c64c43918df28ab92",
   "original": "Dog agro",
-  "translation": "Dog agro",
+  "translation": "狗敌对",
   "context": "ID: dog_fight_start\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→dog_fight_start\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "a9391a319d438a87be0420275dfe239c",
@@ -1339,9 +1454,9 @@
  {
   "key": "27c2d670f4a3848ed77542a74e2be681",
   "original": "Excesive force",
-  "translation": "Excesive force",
+  "translation": "过度使用武力",
   "context": "ID: ex_force\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→ex_force\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "8f44785c8c19412c5b6611db30984514",
@@ -1360,23 +1475,23 @@
  {
   "key": "fed82f5617cfb81934b73c7ba57b2b6b",
   "original": "Explosion for mon_fire_sphere_1 ",
-  "translation": "Explosion for mon_fire_sphere_1 ",
+  "translation": "爆炸特效 mon_fire_sphere_1",
   "context": "ID: death_fire_sphere_1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_fire_sphere_1\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "9436d4141f949bac847c1b8c4bf27bad",
   "original": "Explosion for mon_fire_sphere_2 ",
-  "translation": "Explosion for mon_fire_sphere_2 ",
+  "translation": "爆炸特效 mon_fire_sphere_2",
   "context": "ID: death_fire_sphere_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_fire_sphere_2\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "106e9a4eaf769033b936f1b32e97c69f",
   "original": "Explosion for mon_scatter_v1 ",
-  "translation": "Explosion for mon_scatter_v1 ",
+  "translation": "爆炸效果（mon_scatter_v1）",
   "context": "ID: death_scatter_v1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_scatter_v1\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "a54eecd5041d37f5c8443e0ee91e241a",
@@ -1549,44 +1664,44 @@
  {
   "key": "68fdcb6881b7fcd47ab395a4c980e980",
   "original": "Fire sphere (first phase)",
-  "translation": "Fire sphere (first phase)",
+  "translation": "火球术（一阶）",
   "context": "ID: fire_sphere_spell_1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_spell_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5dabdd6bfe9fecb7a09448e37559630b",
   "original": "Fire sphere (first phase) (Spell-to-EOC)",
-  "translation": "Fire sphere (first phase) (Spell-to-EOC)",
+  "translation": "火球术（第一阶段）（咒语至能量爆炸中心）",
   "context": "ID: fire_sphere_1_explosion_spell\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_1_explosion_spell\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "aab06e21c7c80ca2e0ce039b4e4b1b17",
   "original": "Fire sphere (first phase) (explosion)",
-  "translation": "Fire sphere (first phase) (explosion)",
+  "translation": "火球术（一阶）（爆炸）",
   "context": "ID: death_fire_sphere_1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_fire_sphere_1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "69141d10c9a2a0344c58e57d264f2647",
   "original": "Fire sphere (second phase)",
-  "translation": "Fire sphere (second phase)",
+  "translation": "火球术（二阶）",
   "context": "ID: fire_sphere_spell_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_spell_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cf3c6b74f505571d795565f9cb88a416",
   "original": "Fire sphere (second phase) (Spell-to-EOC)",
-  "translation": "Fire sphere (second phase) (Spell-to-EOC)",
+  "translation": "火球术（第二阶段）（法术至能量爆炸转换）",
   "context": "ID: fire_sphere_2_explosion_spell\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_2_explosion_spell\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "02b6c5735074692e39371048c68885b3",
   "original": "Fire sphere (second phase) (explosion)",
-  "translation": "Fire sphere (second phase) (explosion)",
+  "translation": "火焰球（二阶）（爆炸）",
   "context": "ID: death_fire_sphere_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_fire_sphere_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d2fcad52d7e8bf6a87f87b6327c0107e",
@@ -1614,6 +1729,13 @@
   "original": "Franchesko",
   "translation": "弗朗切斯科",
   "context": "ID: lc_cook_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_cook_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "23801d36e6b83441fc9639a72deef175",
+  "original": "From whichever side you look at this ingot, the outlines of clouds are visible on it.",
+  "translation": "From whichever side you look at this ingot, the outlines of clouds are visible on it.",
+  "context": "ID: c_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→c_steel_item\n",
   "stage": 1
  },
  {
@@ -1677,6 +1799,13 @@
   "original": "HE EGO suitcases",
   "translation": "HE EGO手提箱",
   "context": "ID: ego_he\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_he\n",
+  "stage": 1
+ },
+ {
+  "key": "d7f86b72eb3f912d47a218cb26340d42",
+  "original": "HE level access card. Single use",
+  "translation": "HE level access card. Single use",
+  "context": "ID: lc_he\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_he\n",
   "stage": 1
  },
  {
@@ -1815,9 +1944,9 @@
  {
   "key": "f4a6ceffc0054a855f31f42083328df9",
   "original": "Heart",
-  "translation": "Heart",
+  "translation": "心脏",
   "context": "ID: zwei_doc_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zwei_doc_npc\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "fc27b2fde4234f4ebd7220b8e0eb20b9",
@@ -1851,6 +1980,12 @@
   "key": "94a47ad7d7ca194541f08aaec3a28211",
   "original": "Hello, my name is %s",
   "translation": "你好，我的名字是 %s",
+  "stage": 1
+ },
+ {
+  "key": "9a0d4405eb4ba0612f3d8e5c28d78273",
+  "original": "Hello, my name is %s. I'm here to do some work.",
+  "translation": "Hello, my name is %s. I'm here to do some work.",
   "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
   "stage": 1
  },
@@ -1876,10 +2011,17 @@
   "stage": 1
  },
  {
+  "key": "92c407cc6964eed8ce44d9e6fd9413c4",
+  "original": "Hey! Do you want to buy something?",
+  "translation": "Hey! Do you want to buy something?",
+  "context": "ID: TALK_ZWEI_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_FOOD\n",
+  "stage": 1
+ },
+ {
   "key": "5f29964d9318daef5e31b133fe8b822b",
   "original": "Hey. What can I do for you?",
   "translation": "嘿，我能为你做什么？",
-  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
+  "context": "ID: TALK_REC_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_REC_ZW\n",
   "stage": 1
  },
  {
@@ -1892,7 +2034,7 @@
  {
   "key": "58ea7f2f99af8dbe3ee450bb9b894133",
   "original": "Hm.  The escoltin' our way be less.  This'n'll yark at the Scythy mayhaps.",
-  "translation": "Hm.  The escoltin' our way be less.  This'n'll yark at the Scythy mayhaps.",
+  "translation": "嗯，往我们这边跑的人比较少 ，也许这家伙会去找Scythy。",
   "context": "ID: TEST_FIND_LC2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirChores/ZweiMission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mission_definition→TEST_FIND_LC2\n",
   "stage": 1
  },
@@ -1927,9 +2069,9 @@
  {
   "key": "d5a57b930420572cfe7e657114b5cb76",
   "original": "Howl",
-  "translation": "Howl",
+  "translation": "咆哮",
   "context": "ID: spell_howl\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→spell_howl\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "58784aa7dea68b10b59a3c6ef8fb03a7",
@@ -2009,10 +2151,52 @@
   "stage": 1
  },
  {
+  "key": "e560e82db6f3a47838af88d8b13a9a9d",
+  "original": "I'm fixer of Zwei association",
+  "translation": "I'm fixer of Zwei association",
+  "context": "ID: NC_ZW_FIXER_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER_FOOD\n",
+  "stage": 1
+ },
+ {
   "key": "7e9d252bd014ef8cfb4acacd05c03edf",
   "original": "I'm just an observer, and I feel like guilt is eating me up from inside",
   "translation": "我只是一个旁观者，我感觉内疚从内心深处吞噬着我",
   "context": "ID: skin_down3\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_down3\n",
+  "stage": 1
+ },
+ {
+  "key": "87fa17178d6250805148d359b366ed8d",
+  "original": "I'm leader of Kurokumo clan",
+  "translation": "I'm leader of Kurokumo clan",
+  "context": "ID: NC_KR_SAYO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR_SAYO\n",
+  "stage": 1
+ },
+ {
+  "key": "31dbf243add9d8f940dc032617e762ab",
+  "original": "I'm leader of Rusted Chains Syndicate",
+  "translation": "I'm leader of Rusted Chains Syndicate",
+  "context": "ID: NC_RC_JIKAN\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_RC_JIKAN\n",
+  "stage": 1
+ },
+ {
+  "key": "921d3260574b1553d39b425d78ff6ead",
+  "original": "I'm leader of this section of Zwei association",
+  "translation": "I'm leader of this section of Zwei association",
+  "context": "ID: NC_ZW_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_WALTER\n",
+  "stage": 1
+ },
+ {
+  "key": "beedfbeb8a97c5293dad88363d92fe2a",
+  "original": "I'm member of Kurokumo clan",
+  "translation": "I'm member of Kurokumo clan",
+  "context": "ID: NC_KR\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR\n",
+  "stage": 1
+ },
+ {
+  "key": "b6764061420ba0e94af97e672782a2d9",
+  "original": "I'm member of Rusted Chains Syndicate",
+  "translation": "I'm member of Rusted Chains Syndicate",
+  "context": "ID: NC_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_RC\n",
   "stage": 1
  },
  {
@@ -2032,9 +2216,9 @@
  {
   "key": "a3ce482d2182bfcce045be53316c1f7d",
   "original": "Imbues the target with blue energy.",
-  "translation": "Imbues the target with blue energy.",
+  "translation": "使目标沐浴在蓝色能量之中。",
   "context": "ID: spell_blue_charge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→spell_blue_charge\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "065ed2cd28b5c7bd5c754494518bd7ae",
@@ -2055,6 +2239,13 @@
   "original": "In trouble seeking mode \n\nBlock -20. +1 dodge attempt. -20 block. +60% of agillity to dodge",
   "translation": "寻求麻烦模式 \n\nBlock -20. +1 闪避次数. -20 格挡. +60% of 敏捷 to 闪避",
   "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
+  "stage": 1
+ },
+ {
+  "key": "b1d435e48184ca20f6a07636956e1249",
+  "original": "Incredibly beautiful and expensive black silk.",
+  "translation": "Incredibly beautiful and expensive black silk.",
+  "context": "ID: b_silk_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_silk_item\n",
   "stage": 1
  },
  {
@@ -2109,15 +2300,22 @@
  {
   "key": "d746ef426409bd08b2bc7a49903abae7",
   "original": "Isao",
-  "translation": "Isao",
+  "translation": "ISAO",
   "context": "ID: isao_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→isao_npc\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "15d4ef7084103b7ef628282cfca162d8",
   "original": "It was a long time ago. The Lim family was attacked by people. Lim's wife was killed and his daughter was taken away. Lim was weak and could not protect them. Lim ran away like a rat, but he is still looking for his daughter. Now Lim is strong, but he can’t find it. Because Lim is sad and hard",
   "translation": "那是很久以前的事了。Lim家遭到了人们的袭击。Lim的妻子被杀，女儿被带走。Lim很弱小，无法保护她们。Lim像老鼠一样逃走了，但他仍在寻找女儿。现在，Lim很强壮，但他找不到了。因为林既悲伤又过的很艰难。",
   "context": "ID: HISTORY_CONTINUE_LIM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→HISTORY_CONTINUE_LIM\n",
+  "stage": 1
+ },
+ {
+  "key": "bca87f32849fd3094de957bb4578dea3",
+  "original": "It's heavy enough. You have not seen such metal before.",
+  "translation": "It's heavy enough. You have not seen such metal before.",
+  "context": "ID: b_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_steel_item\n",
   "stage": 1
  },
  {
@@ -2145,7 +2343,7 @@
   "key": "d6b60701f7a0b9cae6fb5c210c2b344c",
   "original": "Just come to say hello, thanks *Leave*",
   "translation": "只是来打个招呼，谢谢 *离开*",
-  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
+  "context": "ID: TALK_REC_ZW\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_REC_ZW\n",
   "stage": 1
  },
  {
@@ -2158,9 +2356,8 @@
  {
   "key": "386c7c6eb318861bada1e2dadd35ff4b",
   "original": "Karpid",
-  "translation": "Karpid",
-  "context": "ID: sl_2sword\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→sl_2sword\n",
-  "stage": 1
+  "translation": "卡皮德",
+  "stage": 0
  },
  {
   "key": "9b9b953b9ed379137f40cef280098549",
@@ -2200,9 +2397,9 @@
  {
   "key": "358e65ee845c325bf8d6d52566df9115",
   "original": "Kokuundo",
-  "translation": "Kokuundo",
+  "translation": "古流道",
   "context": "ID: kurokumo_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→kurokumo_martial\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d9fe5a0693d03deeeedb961c4f0ce0b3",
@@ -2215,8 +2412,15 @@
   "key": "7ab832e8553616af737d663b6ab63a91",
   "original": "Kurokumo",
   "translation": "黑云会",
-  "context": "ID: kurokumo\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Faqtions/TheyAreBigTheyAreSmall.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→faction→kurokumo\n",
+  "context": "ID: NC_KR\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_KR\n",
   "stage": 1
+ },
+ {
+  "key": "05875659c40097d3aee04b19c0608e96",
+  "original": "Kurokumo clan",
+  "translation": "黑云族",
+  "context": "ID: kurokumo\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/Faqtions/TheyAreBigTheyAreSmall.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→faction→kurokumo\n",
+  "stage": 0
  },
  {
   "key": "5e96436ff010cc050690792695734bbc",
@@ -2264,7 +2468,7 @@
   "key": "f1d992e2db6c9f96c7bb4c426cd0f319",
   "original": "L corp documents",
   "translation": "L公司文件",
-  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
+  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
   "stage": 1
  },
  {
@@ -2313,14 +2517,19 @@
   "key": "e0a68de13e95cf0dc49e8ecbac2a9a6d",
   "original": "Lab security baton",
   "translation": "实验室镇暴棍",
-  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
   "stage": 1
  },
  {
   "key": "42a24c6ccd26f7a95ff2a547e5e500df",
   "original": "Lab security batons",
   "translation": "实验室镇暴棍",
-  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
+  "stage": 1
+ },
+ {
+  "key": "7aa9057679c3f548a3c2f62730b76a7e",
+  "original": "Laboratory steel",
+  "translation": "Laboratory steel",
+  "context": "ID: l_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_steel_item\n",
   "stage": 1
  },
  {
@@ -2328,6 +2537,13 @@
   "original": "Law and Order",
   "translation": "治安维和",
   "context": "ID: law\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→law\n",
+  "stage": 1
+ },
+ {
+  "key": "d53f663bf12cca7becb8d04c06c75313",
+  "original": "Lc guard",
+  "translation": "Lc guard",
+  "context": "ID: NC_LC_GUARD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_GUARD\n",
   "stage": 1
  },
  {
@@ -2361,23 +2577,23 @@
  {
   "key": "d714371e6529a3ac893f7f29e42395fb",
   "original": "Lethitia \"Pie\"",
-  "translation": "Lethitia \"Pie\"",
+  "translation": "蕾蒂西娅 \"派\"",
   "context": "ID: zwei_office3_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→zwei_office3_npc\n",
   "stage": 1
  },
  {
   "key": "c925584deb896ce6d1b135d1240f415b",
   "original": "Light Heal",
-  "translation": "Light Heal",
+  "translation": "轻度治愈",
   "context": "ID: light_heal\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→light_heal\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "85ca9bfd5db67aff72e684ac391e49ec",
   "original": "Light Heal Gulae",
-  "translation": "Light Heal Gulae",
+  "translation": "轻疗术 古拉伊",
   "context": "ID: light_heal_pc\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→light_heal_pc\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "1477790b809d57fb00451acb72ba59fc",
@@ -2396,16 +2612,16 @@
  {
   "key": "b932b113bd174100dc096ef0d1bb87d8",
   "original": "Light attack for mon_prophet_2 , deals between p_light_attack and ( p_light_attack * 2 ) special dmg ",
-  "translation": "Light attack for mon_prophet_2 , deals between p_light_attack and ( p_light_attack * 2 ) special dmg ",
+  "translation": "对mon_prophet_2的轻攻击，造成p_light_attack至(p_light_attack * 2)的特殊伤害",
   "context": "ID: p_2_light_attack\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_2_light_attack\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "3b55bca58ce8764a412b14339a23d1f2",
   "original": "Light attack that uses effect as main damage",
-  "translation": "Light attack that uses effect as main damage",
+  "translation": "轻型攻击，主要依赖效果造成伤害",
   "context": "ID: p_light_attack\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_light_attack\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "d8b5e36a6252f5df12b6e82be1126821",
@@ -2417,23 +2633,23 @@
  {
   "key": "ebe58afea6e32f3d910a6bf24798d123",
   "original": "Light rest",
-  "translation": "Light rest",
+  "translation": "轻度休息",
   "context": "ID: light_rest\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→light_rest\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "00126a0563f64090036b28d93a44e288",
   "original": "Light rest, for test purposes and bypass eoc-rest",
-  "translation": "Light rest, for test purposes and bypass eoc-rest",
+  "translation": "轻微休息，用于测试目的及规避EOC休息限制",
   "context": "ID: light_rest\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→light_rest\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "cf3015b4cd81d7a5a23336beb07c6e83",
   "original": "Lighting surge",
-  "translation": "Lighting surge",
+  "translation": "闪电涌动",
   "context": "ID: lighting_surge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→lighting_surge\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "a37c96733f707ae62b455e399fd4df10",
@@ -2445,9 +2661,9 @@
  {
   "key": "68271b6cd891bca98ba06b3898ef8798",
   "original": "Lim",
-  "translation": "Lim",
+  "translation": "林",
   "context": "ID: rc_lim\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→rc_lim\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "560aa0a72f940fafd736607bbd03adf0",
@@ -2496,6 +2712,27 @@
   "original": "Lit Candle",
   "translation": "点燃的蜡烛",
   "context": "ID: mon_candle_lit\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/profa.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_candle_lit\n",
+  "stage": 1
+ },
+ {
+  "key": "ee7d05a0b67b280f3b1f58d0d92b6300",
+  "original": "Lob Corp card: <color_blue>TETH</color>",
+  "translation": "Lob Corp card: <color_blue>TETH</color>",
+  "context": "ID: lc_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "280e3e02f9bb88161e589546622eef77",
+  "original": "Lob Corp card: <color_green>ZAYIN</color>",
+  "translation": "Lob Corp card: <color_green>ZAYIN</color>",
+  "context": "ID: lc_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_zayin\n",
+  "stage": 1
+ },
+ {
+  "key": "a6a1943a12537d1a9ca2feca40063afb",
+  "original": "Lob Corp card: <color_yellow>HE</color>",
+  "translation": "Lob Corp card: <color_yellow>HE</color>",
+  "context": "ID: lc_he\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_he\n",
   "stage": 1
  },
  {
@@ -2606,9 +2843,9 @@
  {
   "key": "73f1f1333e5ef89be01c27b1c49638d3",
   "original": "Minor rest, for test purposes and bypass eoc-rest",
-  "translation": "Minor rest, for test purposes and bypass eoc-rest",
+  "translation": "轻微休息，用于测试目的，以及规避EOC-休息限制",
   "context": "ID: minor_rest\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→minor_rest\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "b360036d10555ad6f2099d089ecf0bd8",
@@ -2648,9 +2885,9 @@
  {
   "key": "dddf764b364bdb70b522cbbdbd58798e",
   "original": "Nice try",
-  "translation": "Nice try",
+  "translation": "干得不错",
   "context": "ID: chains_martial\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/ArtsofbigM.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→martial_art→chains_martial\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "168fed2211143790acedc205f1c8d577",
@@ -2671,6 +2908,13 @@
   "original": "No, why do you think I need help? [right eye twitches]",
   "translation": "不，你为什么认为我需要帮助？[右眼抽搐]",
   "context": "ID: TALK_LIM_RC1\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_LIM_RC1\n",
+  "stage": 1
+ },
+ {
+  "key": "276edfb3977f9233e583713587726016",
+  "original": "Nope.",
+  "translation": "Nope.",
+  "context": "ID: TALK_ZWEI_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_FOOD\n",
   "stage": 1
  },
  {
@@ -2695,6 +2939,13 @@
   "stage": 1
  },
  {
+  "key": "22567aba8d64ab99fe9115b6f7cb9c48",
+  "original": "Oh...",
+  "translation": "Oh...",
+  "context": "ID: NC_BONGBONG\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_BONGBONG\n",
+  "stage": 1
+ },
+ {
   "key": "a06f68a3673e9ac3d146a554af60deb7",
   "original": "Okay, I'm leaving",
   "translation": "好吧，我走了。",
@@ -2711,9 +2962,9 @@
  {
   "key": "f1cac8c5d11a39545d4da5d72702697e",
   "original": "Omori",
-  "translation": "Omori",
+  "translation": "森里",
   "context": "ID: kr_cook_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→kr_cook_npc\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "b5cdc8f2caef4b867c8c06f35a1f981f",
@@ -2725,9 +2976,9 @@
  {
   "key": "7c352770000381c628ed651c8bfbc24b",
   "original": "PM test clothes",
-  "translation": "PM test clothes",
+  "translation": "总理测试服",
   "context": "ID: pm_test_clothes\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_test_clothes\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "050aea5c37a165e2908ac8a775d7cd41",
@@ -2821,6 +3072,13 @@
   "stage": 1
  },
  {
+  "key": "7c1020e17b85ea8a655b3759900537e3",
+  "original": "Pretty generic. But it seems more dense.",
+  "translation": "Pretty generic. But it seems more dense.",
+  "context": "ID: pm_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_steel_item\n",
+  "stage": 1
+ },
+ {
   "key": "c22548c49214c718b440a6ea0fc333c0",
   "original": "Project Moon World",
   "translation": "月计世界",
@@ -2837,23 +3095,23 @@
  {
   "key": "3c6f6e27c4651dcf44f3980c536af157",
   "original": "Prophet death",
-  "translation": "Prophet death",
+  "translation": "先知之死",
   "context": "ID: death_prophet\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_prophet\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "6a7f18d48c806e59b1c40975ef15b85a",
   "original": "Prophet light attack",
-  "translation": "Prophet light attack",
+  "translation": "先知轻击",
   "context": "ID: p_light_attack\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_light_attack\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "5e6ffa64d52377e31c602f1f976ec046",
   "original": "Prophet light attack (second phase)",
-  "translation": "Prophet light attack (second phase)",
+  "translation": "先知轻攻击（第二阶段）",
   "context": "ID: p_2_light_attack\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_2_light_attack\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "69eba5b09a99268df4e9515d91ed3058",
@@ -2949,77 +3207,84 @@
  {
   "key": "d3b4385f0a799f4d1b54bfa9820f750e",
   "original": "Scatter death (explosion)",
-  "translation": "Scatter death (explosion)",
+  "translation": "散播死亡（爆炸）",
   "context": "ID: death_scatter_v1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_scatter_v1\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "ee55d29a0aad00d467e9cb1aeb78acb1",
   "original": "Scatter spell (v1, summons monster)",
-  "translation": "Scatter spell (v1, summons monster)",
+  "translation": "散播法术（v1，召唤怪物）",
   "context": "ID: p_2_scatter_spell_v1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_2_scatter_spell_v1\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "1c2d5682783656b6e6dfce319864f274",
   "original": "Scatter spell, version 1. This summons monsters that explode",
-  "translation": "Scatter spell, version 1. This summons monsters that explode",
+  "translation": "散播法术，第一版。此法术召唤出会爆炸的怪物。",
   "context": "ID: p_2_scatter_spell_v1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_2_scatter_spell_v1\n",
+  "stage": 0
+ },
+ {
+  "key": "9a15881cc8ac684ff7f623f121f12773",
+  "original": "Scientist",
+  "translation": "Scientist",
+  "context": "ID: NC_LC_SCIENTIST\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_SCIENTIST\n",
   "stage": 1
  },
  {
   "key": "de1efe4a77cd578d50228df98b08d355",
   "original": "Self Harm",
-  "translation": "Self Harm",
+  "translation": "自我伤害",
   "context": "ID: self_harm_light_hands\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→self_harm_light_hands\n",
   "stage": 1
  },
  {
   "key": "a78093b9fe32456a8ac945a99f37bfe0",
   "original": "Seven association estoc",
-  "translation": "Seven association estoc",
+  "translation": "Seven协会穿甲剑",
   "context": "ID: mc_estoc\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→mc_estoc\n",
   "stage": 1
  },
  {
   "key": "0d2b65c10cfe460021d652e2aac2f9ae",
   "original": "Several secret documents containing all kinds of information, graphs, and charts, kept together in a manila folder. You dont know why but you cannot percieve information drawn here, everything so blury and boring.",
-  "translation": "Several secret documents containing all kinds of information, graphs, and charts, kept together in a manila folder. You dont know why but you cannot percieve information drawn here, everything so blury and boring.",
-  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
+  "translation": "几份包含各种信息、图表的秘密文件被放在一个牛皮纸文件夹里。不知道为什么，你无法感知这里所绘制的信息，一切都显得那么模糊和乏味。",
+  "context": "ID: lc_documents\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_documents\n",
   "stage": 1
  },
  {
   "key": "22f6720633cdfa6a6abf24e28c4fa951",
   "original": "Skin Book",
-  "translation": "Skin Book",
+  "translation": "人皮书",
   "context": "ID: skin_book\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→skin_book\n",
   "stage": 1
  },
  {
   "key": "1becbd8c2cdcf6d52d27af5b76d61be6",
   "original": "Skin book eff",
-  "translation": "Skin book eff",
+  "translation": "皮肤之书效果",
   "context": "ID: p_marked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→p_marked\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "2f63e74e2609f8b300d776a35aac43a2",
   "original": "Skin prophet heat",
-  "translation": "Skin prophet heat",
+  "translation": "人皮预言家的热力",
   "context": "ID: prophet_heat\n位于 /Kenan-Structured-Modpack/PM_World/damage_types.json\n类型为 damage_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→damage_type→prophet_heat\n",
   "stage": 1
  },
  {
   "key": "086f308d5cf995a43157431ff211ccb0",
   "original": "Sky clearing cut",
-  "translation": "Sky clearing cut",
+  "translation": "斩破长空",
   "context": "ID: kr_sky\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→kr_sky\n",
   "stage": 1
  },
  {
   "key": "bd84ecf566af636a509803260fb265a3",
   "original": "Small, white-feathered bird with small wings and a red mark on its chest.",
-  "translation": "Small, white-feathered bird with small wings and a red mark on its chest.",
+  "translation": "白色羽毛的小鸟，翅膀短小，胸前有一块红色标记。",
   "context": "ID: mon_birb\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/How.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_birb\n",
   "stage": 1
  },
@@ -3033,14 +3298,14 @@
  {
   "key": "39cb713407129ef3019d64fbb6641724",
   "original": "So... Can I hire one of Zwei?",
-  "translation": "So... Can I hire one of Zwei?",
+  "translation": "那么... 我能雇佣一个Zwei成员吗？",
   "context": "ID: TALK_ZW_HELP_FIXER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP_FIXER\n",
   "stage": 1
  },
  {
   "key": "67a92da1d15b6de702d8a155cc9d656c",
   "original": "So... thats true",
-  "translation": "So... thats true",
+  "translation": "所以……那是真的",
   "context": "ID: skin_book_eoc\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/what eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_on_condition→skin_book_eoc\n",
   "stage": 1
  },
@@ -3054,35 +3319,34 @@
  {
   "key": "46629b474d62df46ea485d1337da7891",
   "original": "Solomon steel",
-  "translation": "Solomon steel",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "translation": "所罗门钢",
   "stage": 1
  },
  {
   "key": "c0deacb20bb99e05f2a58a1766f4fb7c",
   "original": "Something is watching you",
-  "translation": "Something is watching you",
+  "translation": "有东西在注视着你",
   "context": "ID: marked\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Los efectos de diferentes.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→marked\n",
   "stage": 1
  },
  {
   "key": "560fa8e91832f8ecac6ff8db8e3fcef3",
   "original": "Something something. unimanagble",
-  "translation": "Something something. unimanagble",
+  "translation": "一些事情，难以控制。",
   "context": "ID: mon_test_pm\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/HumansOrAlmostHumans.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_test_pm\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "be1b9519c781506bc6fc087adcb4563a",
   "original": "Sorry, I don't want to do this",
-  "translation": "Sorry, I don't want to do this",
+  "translation": "抱歉，我不愿意做这个",
   "context": "ID: DETAILS_QUEST_LIM\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Lim.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→DETAILS_QUEST_LIM\n",
   "stage": 1
  },
  {
   "key": "45afc6c6ff8fcde1015903cf9c8292f0",
   "original": "Sounds interesting. I'm taking this on",
-  "translation": "Sounds interesting. I'm taking this on",
+  "translation": "听起来很有趣。我接下这个任务了",
   "context": "ID: MISSION_DETAILS_DUGLAS_RC\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Rusted Chains/Duglas.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→MISSION_DETAILS_DUGLAS_RC\n",
   "stage": 1
  },
@@ -3096,35 +3360,35 @@
  {
   "key": "0f065f8ff2c3bdc695cdabc75122cdd9",
   "original": "Speak.",
-  "translation": "Speak.",
+  "translation": "请说。",
   "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
   "stage": 1
  },
  {
   "key": "e62b95633c5968e1cee47514c6c3d7a2",
   "original": "Speeds up allied mutants in a radius.",
-  "translation": "Speeds up allied mutants in a radius.",
+  "translation": "加速范围内友方突变体。",
   "context": "ID: blue_frenzy\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→blue_frenzy\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "21212573ae0915cd7c701d41c6de671d",
   "original": "Spell intermediate that runs the EOC",
-  "translation": "Spell intermediate that runs the EOC",
+  "translation": "中级法术，运行于EOC之中",
   "context": "ID: fire_sphere_2_explosion_spell\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_2_explosion_spell\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "2e61ec6fdb14b3dea34d13dedee58072",
   "original": "Sphenocorona Death?",
-  "translation": "Sphenocorona Death?",
+  "translation": "死亡菱冠病毒？",
   "context": "ID: death_yrax_sphenocorona2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/SomethingLikeThis.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→death_yrax_sphenocorona2\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "40716d2c5063a642823cb3e9007f1388",
   "original": "Standoff",
-  "translation": "Standoff",
+  "translation": "针锋相对",
   "context": "ID: standoff\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→standoff\n",
   "stage": 1
  },
@@ -3138,128 +3402,177 @@
  {
   "key": "b707667098263ab9d55a170a8eed19b1",
   "original": "Steel hug",
-  "translation": "Steel hug",
+  "translation": "钢铁拥抱",
   "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
+  "stage": 1
+ },
+ {
+  "key": "4c015328f2d00bbf5e46892b9caf2749",
+  "original": "Stigma Workshop cotton",
+  "translation": "Stigma Workshop cotton",
+  "context": "ID: stigma_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_cotton_item\n",
+  "stage": 1
+ },
+ {
+  "key": "ea8c6b2e31d96c989dc1f3c8fe7105d5",
+  "original": "Stigma Workshop leather",
+  "translation": "Stigma Workshop leather",
+  "context": "ID: stigma_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_leather\n",
+  "stage": 1
+ },
+ {
+  "key": "91ac1a49f0c63b4b7e75c970b1f4596f",
+  "original": "Stigma Workshop leather patch",
+  "translation": "Stigma Workshop leather patch",
+  "context": "ID: stigma_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_leather_item\n",
+  "stage": 1
+ },
+ {
+  "key": "fa66a7c182b5197d1e18384297793ee2",
+  "original": "Stigma Workshop steel ingot",
+  "translation": "Stigma Workshop steel ingot",
+  "context": "ID: stigma_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→stigma_steel_item\n",
   "stage": 1
  },
  {
   "key": "87b96d2fd8bb78e9f0efe5ae3124c1d7",
   "original": "Strange sctructure",
-  "translation": "Strange sctructure",
+  "translation": "奇异结构",
   "context": "ID: lab_ab_surface_roof\n位于 /Kenan-Structured-Modpack/PM_World/Maps/Overmap_terrain.json\n类型为 overmap_terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→overmap_terrain→lab_ab_surface_roof\n",
   "stage": 1
  },
  {
   "key": "bb58c1d02a550d939b062f870bb78a05",
   "original": "Stun 1 turns",
-  "translation": "Stun 1 turns",
+  "translation": "击晕1回合",
   "context": "ID: rc_wrap\n位于 /Kenan-Structured-Modpack/PM_World/Arts of martial fighting in melee range using weapons and sometimes bare hands/Another one/And another one/BattleTech.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→technique→rc_wrap\n",
+  "stage": 1
+ },
+ {
+  "key": "60555b6d07d1cdd76090bc4b55d60934",
+  "original": "Sturdy cotton",
+  "translation": "Sturdy cotton",
+  "context": "ID: pm_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_cotton_item\n",
   "stage": 1
  },
  {
   "key": "aec79c92994105f1d0c6534f571b4b43",
   "original": "Stylish eyepatch. And, somehow, it almost doesn't interfere with vision!",
-  "translation": "Stylish eyepatch. And, somehow, it almost doesn't interfere with vision!",
+  "translation": "时尚的眼罩。而且，它几乎不会影响视线！",
   "context": "ID: kr_eyepatch\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_eyepatch\n",
   "stage": 1
  },
  {
   "key": "7544bc1555f7ef0f67f646cc3f9e971c",
   "original": "Suitcase for transporting EGO.",
-  "translation": "Suitcase for transporting EGO.",
+  "translation": "手提箱，用于携带EGO装置。",
   "context": "ID: ego_waw\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_waw\n",
   "stage": 1
  },
  {
   "key": "81d980d9b8e3873149f3910102957d53",
   "original": "Suitcase for transporting EGO. Goddamn, how do you get this?",
-  "translation": "Suitcase for transporting EGO. Goddamn, how do you get this?",
+  "translation": "用于运输EGO的手提箱。见鬼，你怎么弄到这玩意的？",
   "context": "ID: ego_aleph\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_aleph\n",
   "stage": 1
  },
  {
   "key": "b129053e235e4a591487ce385e354e81",
   "original": "Suitcase for transporting EGO. That one without marking",
-  "translation": "Suitcase for transporting EGO. That one without marking",
+  "translation": "用于运输EGO的手提箱。那个没有标记",
   "context": "ID: ego_case\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_case\n",
   "stage": 1
  },
  {
   "key": "7909785487acf74ac14405d1e7d138a2",
   "original": "Suitcase for transporting EGO. That one without marking. You even not sure if this realy an EGO",
-  "translation": "Suitcase for transporting EGO. That one without marking. You even not sure if this realy an EGO",
+  "translation": "用于运输EGO的手提箱。那个上面没有标记。你甚至不确定这是否真的是EGO。",
   "context": "ID: ego_blank\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_blank\n",
   "stage": 1
  },
  {
   "key": "cf3cc5d383d74ea6628a533dcbace9e5",
   "original": "Summon calmed Punishing Bird",
-  "translation": "Summon calmed Punishing Bird",
+  "translation": "召唤平静的惩戒鸟",
   "context": "ID: punished\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→punished\n",
   "stage": 1
  },
  {
   "key": "344b9be96f2bc52e244974f7e5e9df4a",
   "original": "Summon enraged Punishing Bird",
-  "translation": "Summon enraged Punishing Bird",
+  "translation": "召唤愤怒的惩戒之鸟",
   "context": "ID: enrage\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→enrage\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "33477c388e8b1feccf25c69af0bf0bc9",
   "original": "Summons a Fire sphere (phase 1) around the player",
-  "translation": "Summons a Fire sphere (phase 1) around the player",
+  "translation": "在玩家周围召唤一个火焰球（第一阶段）",
   "context": "ID: fire_sphere_spell_1\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_spell_1\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "c4029a17fc7f7c76cabdca454c55d597",
   "original": "Summons a Fire sphere (phase 2) around the player",
-  "translation": "Summons a Fire sphere (phase 2) around the player",
+  "translation": "在玩家周围召唤一个火焰球（第二阶段）",
   "context": "ID: fire_sphere_spell_2\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/BookThatDontBelongToYou/Owner/Spez de Profeta.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→fire_sphere_spell_2\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "2753d8cc773ac05b154716b3687d544a",
   "original": "TEST PM",
-  "translation": "TEST PM",
+  "translation": "测试私人信息",
   "context": "ID: mon_test_pm\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/HumansOrAlmostHumans.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_test_pm\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "135270f095eb26685250967e98f532b5",
   "original": "TETH EGO suitcase",
-  "translation": "TETH EGO suitcase",
+  "translation": "TETH EGO 手提箱",
   "context": "ID: ego_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_teth\n",
   "stage": 1
  },
  {
   "key": "af9c156f9c9b4b4f410336d9ab33385d",
   "original": "TETH EGO suitcases",
-  "translation": "TETH EGO suitcases",
+  "translation": "TETH EGO 手提箱",
   "context": "ID: ego_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→ego_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "d155e84bcdc5684742d069dc96567a88",
+  "original": "TETH level access card. Single use",
+  "translation": "TETH level access card. Single use",
+  "context": "ID: lc_teth\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_teth\n",
+  "stage": 1
+ },
+ {
+  "key": "278c491bdd8a53618c149c4ac790da34",
+  "original": "Template",
+  "translation": "Template",
+  "context": "ID: NC_AKIHIRO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_AKIHIRO\n",
   "stage": 1
  },
  {
   "key": "1116814755ec7e77eaa692262f749cec",
   "original": "Terry",
-  "translation": "Terry",
+  "translation": "特里",
   "context": "ID: lc_doc_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→lc_doc_npc\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "8ffe54a507824e59f7911bf08f91ea68",
   "original": "Test hair",
-  "translation": "Test hair",
+  "translation": "测试发型",
   "context": "ID: test_hair\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→test_hair\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "fa675c299889582172b517d6c455c4b5",
   "original": "Test hair for checking new hair type",
-  "translation": "Test hair for checking new hair type",
+  "translation": "检测头发以确定新发质类型",
   "context": "ID: test_hair\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Appearance.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→test_hair\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "341e2905d8979351e23a5ca917acfc88",
@@ -3362,8 +3675,8 @@
  {
   "key": "ca24803938fb2b0cef94dff11c23e193",
   "original": "The Alleyway Watchdog empovers!",
-  "translation": "The Alleyway Watchdog empovers！",
-  "context": "ID: mon_watchdog_second_phase\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog_second_phase\n",
+  "translation": "后巷看门犬突袭了！",
+  "context": "ID: mon_watchdog\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog\n",
   "stage": 1
  },
  {
@@ -3411,7 +3724,7 @@
  {
   "key": "ba78d381ee21cae2d689a236f07f1781",
   "original": "The howl stuns you!",
-  "translation": "The howl stuns you！",
+  "translation": "嚎叫声让你头晕目眩！",
   "context": "ID: mon_watchdog_second_phase\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog_second_phase\n",
   "stage": 1
  },
@@ -3496,6 +3809,12 @@
   "key": "fccca8a46a6b129a5bee8097651f09f7",
   "original": "This is the main office of the Zwei Association! We are fixers who are engaged in escorting and protecting their clients. But still, although this is a priority task, it is not our only function and we are capable of more!",
   "translation": "这里是 Zwei 协会的总办事处！我们是从事护送和保护客户的收尾人。不过，虽然这是我们的首要任务，但这并不是我们的唯一职能，我们还能做更多！",
+  "stage": 1
+ },
+ {
+  "key": "989f38f7345fa77ac0040506d1e6548e",
+  "original": "This is the main office of the Zwei Association, section 6! We are fixers who are engaged in escorting and protecting their clients. But still, although this is a priority task, it is not our only function and we are capable of more!",
+  "translation": "This is the main office of the Zwei Association, section 6! We are fixers who are engaged in escorting and protecting their clients. But still, although this is a priority task, it is not our only function and we are capable of more!",
   "context": "ID: TALK_ZW_HELP\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP\n",
   "stage": 1
  },
@@ -3663,7 +3982,7 @@
  {
   "key": "93344e336a81df4613d7b95b9cb481fe",
   "original": "Unleashes a powerful howl that stuns enemies and summons a telepole.",
-  "translation": "Unleashes a powerful howl that stuns enemies and summons a telepole.",
+  "translation": "发出一声强大的咆哮，使敌人昏迷，并召唤出一根电线杆。",
   "context": "ID: spell_howl\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/Spez of doggopole.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→spell_howl\n",
   "stage": 1
  },
@@ -3808,6 +4127,13 @@
   "stage": 1
  },
  {
+  "key": "1c7c2af81c2b2f52aa6b4192fa0d258f",
+  "original": "What's your busines?",
+  "translation": "What's your busines?",
+  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
+  "stage": 1
+ },
+ {
   "key": "a65761051781e8237d20f93c7f07c15f",
   "original": "What've ye scolted, then, o'the clunker?",
   "translation": "那么，你们找到了什么？",
@@ -3825,7 +4151,6 @@
   "key": "84bcbdf3258bd4e5c77a46352cb62a6c",
   "original": "Whats your busines?",
   "translation": "你是做什么的？",
-  "context": "ID: TALK_WALTER\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Walter.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_WALTER\n",
   "stage": 1
  },
  {
@@ -3847,6 +4172,13 @@
   "original": "Who is \"fixer's\"?",
   "translation": "\"收尾人\"是谁？",
   "context": "ID: TALK_ZW_HELP2\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZW_HELP2\n",
+  "stage": 1
+ },
+ {
+  "key": "24c345b30d3dfb29c3d6bbbcc21e467d",
+  "original": "Who is that?",
+  "translation": "Who is that？",
+  "context": "ID: NC_WHITE\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_WHITE\n",
   "stage": 1
  },
  {
@@ -3902,21 +4234,19 @@
   "key": "1bfd202098c06ac4e162de56bce6d3c1",
   "original": "Workshop cotton",
   "translation": "工坊棉",
-  "context": "ID: stigma_cotton\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_cotton\n",
   "stage": 1
  },
  {
   "key": "8bc7e65b54f9512e2de7f1999d13e0f7",
   "original": "Workshop leather",
   "translation": "工坊皮革",
-  "context": "ID: stigma_leather\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_leather\n",
   "stage": 1
  },
  {
   "key": "55defbae6e9667254fa7a43c072abb7e",
   "original": "Workshop steel",
   "translation": "工坊钢材",
-  "context": "ID: dw_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→dw_steel\n",
+  "context": "ID: stigma_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→stigma_steel\n",
   "stage": 1
  },
  {
@@ -3931,6 +4261,13 @@
   "original": "Yang",
   "translation": "阳",
   "context": "ID: yang_npc\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→yang_npc\n",
+  "stage": 1
+ },
+ {
+  "key": "0a28479627906cd0e5838f5c1480ddf7",
+  "original": "Yeah, let me see.",
+  "translation": "Yeah, let me see.",
+  "context": "ID: TALK_ZWEI_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/TheirVoices/Zwei/Heyri.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→talk_topic→TALK_ZWEI_FOOD\n",
   "stage": 1
  },
  {
@@ -3971,7 +4308,7 @@
  {
   "key": "e0359ebd6077112a4c128e946434437e",
   "original": "You ded",
-  "translation": "You ded",
+  "translation": "你阵亡了。",
   "context": "ID: execution\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/Birdo/Effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→execution\n",
   "stage": 1
  },
@@ -4006,7 +4343,7 @@
  {
   "key": "96402878164e2081dde91d384a1f16b6",
   "original": "You feel energized by some unknown force.",
-  "translation": "You feel energized by some unknown force.",
+  "translation": "你感觉自己被某种未知的力量激发了活力。",
   "context": "ID: blue_charge\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How eocs.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→effect_type→blue_charge\n",
   "stage": 1
  },
@@ -4452,6 +4789,13 @@
   "stage": 1
  },
  {
+  "key": "79b3690b6c5689505073e32a24265a48",
+  "original": "ZAYIN level access card. Single use",
+  "translation": "ZAYIN level access card. Single use",
+  "context": "ID: lc_zayin\n位于 /Kenan-Structured-Modpack/PM_World/Items/Currency and cards.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lc_zayin\n",
+  "stage": 1
+ },
+ {
   "key": "17d4d4fb5dffdcb48236d9f9bfdd24f1",
   "original": "Zonya",
   "translation": "佐尼娅",
@@ -4462,7 +4806,7 @@
   "key": "6139e7d0f6163e23d264b39ee0351416",
   "original": "Zwei",
   "translation": "Zwei",
-  "context": "ID: MARTIAL_ZWEI\n位于 /Kenan-Structured-Modpack/PM_World/BodyAlterations/Mutation.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→mutation→MARTIAL_ZWEI\n",
+  "context": "ID: NC_ZW_FIXER_FOOD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ZW_FIXER_FOOD\n",
   "stage": 3
  },
  {
@@ -4641,6 +4985,13 @@
   "stage": 1
  },
  {
+  "key": "1224e6d9db98000a49872849d0cedf6e",
+  "original": "ballistic polymer",
+  "translation": "ballistic polymer",
+  "context": "ID: b_polymer_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_polymer_item\n",
+  "stage": 1
+ },
+ {
   "key": "29494ec27c694b5488025530079c536c",
   "original": "bartender of Rusted Chains",
   "translation": "锈链调酒师",
@@ -4669,10 +5020,24 @@
   "stage": 1
  },
  {
+  "key": "ec4ad52b53eb39ba494ed156c844b086",
+  "original": "black katana",
+  "translation": "黑色武士刀",
+  "context": "ID: kr_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_katana\n",
+  "stage": 0
+ },
+ {
   "key": "1377517dcf6d88f0851473956c26fd24",
   "original": "black necktie",
   "translation": "黑色领带",
   "context": "ID: pm_tie_necktie\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→pm_tie_necktie\n",
+  "stage": 1
+ },
+ {
+  "key": "44ed9b1fb7b20af0aad60d49010e4ef7",
+  "original": "black silk",
+  "translation": "black silk",
+  "context": "ID: b_silk_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_silk_item\n",
   "stage": 1
  },
  {
@@ -4694,6 +5059,13 @@
   "original": "black silk yukata",
   "translation": "黑色丝绸浴衣",
   "context": "ID: kr_yukata\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→kr_yukata\n",
+  "stage": 1
+ },
+ {
+  "key": "8f5a3e5f0e654ab5d1356e48647b3ab0",
+  "original": "black steel ingot",
+  "translation": "black steel ingot",
+  "context": "ID: b_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→b_steel_item\n",
   "stage": 1
  },
  {
@@ -4743,6 +5115,13 @@
   "original": "bouncer of Rusted Chains",
   "translation": "锈链保镖",
   "context": "ID: rc_npc_bouncer\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/Huhans.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc→rc_npc_bouncer\n",
+  "stage": 1
+ },
+ {
+  "key": "acd2619983790f1f7163ae7c2efb2297",
+  "original": "broken card reader terminal",
+  "translation": "broken card reader terminal",
+  "context": "ID: t_l_corp_card_reader_broken\n位于 /Kenan-Structured-Modpack/PM_World/Maps/ItsMe_Terrario!.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→terrain→t_l_corp_card_reader_broken\n",
   "stage": 1
  },
  {
@@ -4809,6 +5188,27 @@
   "stage": 1
  },
  {
+  "key": "302c77895c1c45e8730eba12c3f0c63a",
+  "original": "clerk of Lobotomy Corporation",
+  "translation": "clerk of Lobotomy Corporation",
+  "context": "ID: NC_LC_CLERK\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_CLERK\n",
+  "stage": 1
+ },
+ {
+  "key": "e23734af2ae583cbec34c85ea4c6eb07",
+  "original": "cloud katana",
+  "translation": "云太刀",
+  "context": "ID: kr_cloud_katana\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→TOOL→kr_cloud_katana\n",
+  "stage": 0
+ },
+ {
+  "key": "d9ad0a2f8b966ef1b84f3163f0e0d113",
+  "original": "cloud steel ingot",
+  "translation": "cloud steel ingot",
+  "context": "ID: c_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→c_steel_item\n",
+  "stage": 1
+ },
+ {
   "key": "e3e90fd6d2a7c4661a1a3acf2f60bc6d",
   "original": "cook",
   "translation": "厨师",
@@ -4853,9 +5253,9 @@
  {
   "key": "e3c5c87c54be9f0bdcabc7f6aa7d37ed",
   "original": "cuirass test PM",
-  "translation": "cuirass test PM",
+  "translation": "胸甲测试PM",
   "context": "ID: cuirass_lightplate_test\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→cuirass_lightplate_test\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "c7e55d7c6f0c872c6357b7360b88a5a6",
@@ -4882,7 +5282,7 @@
   "key": "d1018c81e900c4b65f7611c4ae73fb88",
   "original": "dented",
   "translation": "凹损",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
@@ -4984,6 +5384,13 @@
   "stage": 1
  },
  {
+  "key": "13282428afee2f85029d1178a3613c5d",
+  "original": "guard of Lc",
+  "translation": "guard of Lc",
+  "context": "ID: NC_LC_GUARD\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_GUARD\n",
+  "stage": 1
+ },
+ {
   "key": "05c5da8d2d61917b089c290309bfd452",
   "original": "hand chain",
   "translation": "手链",
@@ -5047,6 +5454,27 @@
   "stage": 1
  },
  {
+  "key": "28394e6d6f96af38e4df1840ddcf90ba",
+  "original": "lab security baton",
+  "translation": "实验室安保棍",
+  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
+  "stage": 0
+ },
+ {
+  "key": "1f91238b3e2d5218c803644f3c9bbe35",
+  "original": "lab security batons",
+  "translation": "实验室安保棍",
+  "context": "ID: lab_bat\n位于 /Kenan-Structured-Modpack/PM_World/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→lab_bat\n",
+  "stage": 0
+ },
+ {
+  "key": "1575ea59e5872f816414e0e288e36ace",
+  "original": "laboratory cotton",
+  "translation": "laboratory cotton",
+  "context": "ID: l_cotton_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→l_cotton_item\n",
+  "stage": 1
+ },
+ {
   "key": "21420ac9735d087ddc788a20e1f84a42",
   "original": "laboratory throwing knife",
   "translation": "实验室用投刀",
@@ -5082,6 +5510,13 @@
   "stage": 1
  },
  {
+  "key": "f6092a754595ba3041932e376e4f9dec",
+  "original": "leader of clerk department",
+  "translation": "leader of clerk department",
+  "context": "ID: NC_LC_ZONYA\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_ZONYA\n",
+  "stage": 1
+ },
+ {
   "key": "3330e1fc71f803896760594e55aaab47",
   "original": "leader of clerk dept",
   "translation": "文职部门负责人",
@@ -5096,6 +5531,20 @@
   "stage": 1
  },
  {
+  "key": "dd48ee1ccef62ff55d40ac150e5549dd",
+  "original": "leader of science department",
+  "translation": "leader of science department",
+  "context": "ID: NC_AKIHIRO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_AKIHIRO\n",
+  "stage": 1
+ },
+ {
+  "key": "2981924f97ce1b1a8304f3403d4dcd7e",
+  "original": "leader of security department",
+  "translation": "leader of security department",
+  "context": "ID: NC_ISAO\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_ISAO\n",
+  "stage": 1
+ },
+ {
   "key": "1d0258c2440a8d19e716292b231e3190",
   "original": "manager",
   "translation": "经理",
@@ -5106,7 +5555,7 @@
   "key": "5bbf2d6725b29ad8ddb7c3ab47c50930",
   "original": "marked",
   "translation": "划伤",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
@@ -5126,9 +5575,9 @@
  {
   "key": "458eb5b538ad051d67afb8b3062e8262",
   "original": "minor rest",
-  "translation": "minor rest",
+  "translation": "短暂休息",
   "context": "ID: minor_rest\n位于 /Kenan-Structured-Modpack/PM_World/Spez.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPELL→minor_rest\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "6ebc2868e5d0d98a3cd35ad03739fdd8",
@@ -5250,17 +5699,24 @@
   "stage": 1
  },
  {
+  "key": "b0ae8a0b5d3185705d49e216a5e652ba",
+  "original": "scientist of Lobotomy Corporation",
+  "translation": "scientist of Lobotomy Corporation",
+  "context": "ID: NC_LC_SCIENTIST\n位于 /Kenan-Structured-Modpack/PM_World/Npc/SomewhatNormal/ClassesOfHuhans.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→npc_class→NC_LC_SCIENTIST\n",
+  "stage": 1
+ },
+ {
   "key": "e5036d30fcedf7998f08abbb599229e2",
   "original": "scratched",
   "translation": "刮花",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
   "key": "965ca662c7141613e1b845c526baa86c",
   "original": "shattered",
   "translation": "破碎",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 3
  },
  {
@@ -5288,7 +5744,7 @@
   "key": "3f70089fd34f35b851b9a913bd28c546",
   "original": "smashed",
   "translation": "砸扁",
-  "context": "ID: s_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→s_steel\n",
+  "context": "ID: pm_steel\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→material→pm_steel\n",
   "stage": 1
  },
  {
@@ -5306,10 +5762,30 @@
   "stage": 1
  },
  {
+  "key": "9f93ca562a7564acdb7bd16d85f83d8f",
+  "original": "sturdy leather",
+  "translation": "sturdy leather",
+  "context": "ID: pm_leather_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_leather_item\n",
+  "stage": 1
+ },
+ {
   "key": "1312eac2f26039257073ac9c9874964a",
   "original": "sturdy shoulder pad",
   "translation": "坚固的肩垫",
+  "stage": 1
+ },
+ {
+  "key": "29ce476f19a4b23356c3f6550e76ae06",
+  "original": "sturdy shoulder pads",
+  "translation": "结实的肩垫",
   "context": "ID: zw_spads\n位于 /Kenan-Structured-Modpack/PM_World/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→ARMOR→zw_spads\n",
+  "stage": 0
+ },
+ {
+  "key": "2ececfb9ddee5d0d6a2803dd23642ec0",
+  "original": "sturdy steel ingot",
+  "translation": "sturdy steel ingot",
+  "context": "ID: pm_steel_item\n位于 /Kenan-Structured-Modpack/PM_World/Items/Materials/Materials/Materials.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→GENERIC→pm_steel_item\n",
   "stage": 1
  },
  {
@@ -5399,9 +5875,9 @@
  {
   "key": "f04d74b2f4cfd26b8685e3e02b73f6f2",
   "original": "uh oh",
-  "translation": "uh oh",
+  "translation": "哎呀",
   "context": "ID: PM_TEST\n位于 /Kenan-Structured-Modpack/PM_World/ScaryMonstersAndNiceSprites/TotalySpecies.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→SPECIES→PM_TEST\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "fb578f1ba72e6b2504b30512facecf0d",
@@ -5420,7 +5896,7 @@
  {
   "key": "497efb529c816475317945228ac60916",
   "original": "wshBBBBZZZ!!!",
-  "translation": "wshBBBBZZZ！！！",
+  "translation": "wshBBBBZZZ!!!",
   "context": "ID: mon_watchdog_second_phase\n位于 /Kenan-Structured-Modpack/PM_World/AnomalousThings/DoggyFiles/How Dog Barking.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PM_World→MONSTER→mon_watchdog_second_phase\n",
   "stage": 1
  },

@@ -16,7 +16,8 @@
     "material": "mushroom",
     "volume": "250 ml",
     "flags": [ "EATEN_HOT", "EDIBLE_FROZEN", "NUTRIENT_OVERRIDE" ],
-    "fun": -1
+    "fun": -1,
+    "vitamins": [ [ "vitC", 4 ], [ "iron", 7 ] ]
   },
   {
     "type": "COMESTIBLE",
@@ -91,7 +92,7 @@
   {
     "type": "COMESTIBLE",
     "id": "caveyot_bush_quarry_cooked",
-    "name": { "str": "handful of roasted hardened bramble nuts", "str_pl": "handfuls of roasted hardened bramble nuts" },
+    "name": { "str_sp": "roasted bramble nuts" },
     "looks_like": "hickory_nut_roasted",
     "weight": "120 g",
     "color": "brown",
@@ -99,12 +100,13 @@
     "comestible_type": "FOOD",
     "symbol": "%",
     "quench": -4,
-    "calories": 200,
+    "calories": 400,
     "description": "A handful of pods stripped from a strange branch, roasted in their shells due to how rock-hard they were.  Doing so softened and split open the shells, leaving nuts that seem to have been fried in the pod's own oil.",
     "price": "150 cent",
     "material": [ "mushroom", "nut" ],
     "volume": "125 ml",
     "flags": [ "EATEN_HOT", "EDIBLE_FROZEN", "NUTRIENT_OVERRIDE" ],
-    "fun": 2
+    "fun": 2,
+    "vitamins": [ [ "calcium", 2 ], [ "iron", 4 ] ]
   }
 ]

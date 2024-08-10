@@ -255,6 +255,27 @@
   "stage": 5
  },
  {
+  "key": "42a1697132230c2a2a9394fe37c473d6",
+  "original": "*glob glob*",
+  "translation": "*glob glob*",
+  "context": "ID: NC_SECRO_FLESH\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_FLESH\n",
+  "stage": 1
+ },
+ {
+  "key": "2be9d9ac90d0e1a84f8d20b7f5c6f69d",
+  "original": "*glob glob* but small",
+  "translation": "*glob glob* but small",
+  "context": "ID: NC_SECRO_FLESH_START\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_FLESH_START\n",
+  "stage": 1
+ },
+ {
+  "key": "5ad02d0da5057ba615b6ae321decbf87",
+  "original": "*glob glob* but weaker",
+  "translation": "*glob glob* but weaker",
+  "context": "ID: NC_SECRO_FLESH_SPAWN\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_FLESH_SPAWN\n",
+  "stage": 1
+ },
+ {
   "key": "41ae076e3280d3070c02f3e135f6235c",
   "original": "*is awaiting your orders.",
   "translation": "*正在等你的命令。",
@@ -591,7 +612,7 @@
   "key": "2f43b42fd833d1e77420a8dae7419000",
   "original": "...",
   "translation": "...",
-  "context": "ID: MISSION_SECRO_GUARD_HELP_SHAPESHIFTER\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mission_definition→MISSION_SECRO_GUARD_HELP_SHAPESHIFTER\n",
+  "context": "ID: TALK_SECRO_SCIENTIST_secronom_what_cityzeds_how\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/Dialogues/secro_scientist.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→talk_topic→TALK_SECRO_SCIENTIST_secronom_what_cityzeds_how\n",
   "stage": 5
  },
  {
@@ -1504,9 +1525,9 @@
  {
   "key": "fd45dc2cc33ac7b1e751767946ff0675",
   "original": "A complex battle suit brought to existence using the latest technological advancements. Secronom exoskeleton type \"Vessel (Gunner)\" is an offbranch mutation of a standard vessel, having lesser flesh membranes and webbings in exchange for greater perception. Its body orientation is built to handle several projectile-shooting armaments and to quickly form a gunner creation. Thus, it is ideal for long- to mid-ranged combats. Like all other flesh vessels, it requires the wearer to feed it with flesh.\n\nSecronom exoskeleton type \"Vessel (Gunner)\" provides:\n<color_white>Perception: <color_light_green>+4</color>\nMetabolism: <color_light_green>-5%</color></color>",
-  "translation": "A complex battle suit brought to existence using the latest technological advancements. Secronom exoskeleton type \"Vessel (Gunner)\" is an offbranch mutation of a standard vessel, having lesser flesh membranes and webbings in exchange for greater perception. Its body orientation is built to handle several projectile-shooting armaments and to quickly form a gunner creation. Thus, it is ideal for long- to mid-ranged combats. Like all other flesh vessels, it requires the wearer to feed it with flesh.\n\nSecronom exoskeleton type \"Vessel (Gunner)\" provides:\n<color_white>Perception: <color_light_green>+4</color>\nMetabolism: <color_light_green>-5%</color></color>",
+  "translation": "采用最新科技打造的复杂战斗服。Secronom外骨骼型号“载具（炮手）”是标准载具的一个分支变异体，以较少的肉体膜和网状结构为代价，换取了更强的感知能力。其躯体结构设计用于操作多种射击武器，并能迅速形成炮手形态，因此非常适合中远距离作战。与所有肉体载具一样，它需要穿戴者供给肉体以维持功能。\n\n\nSecronom外骨骼型号“载具（炮手）”提供以下加成：\n\n<color_white> 感知力：+4 <color_light_green>\n</color> 新陈代谢：-5% <color_light_green>\n</color>",
   "context": "ID: secro_power_armor_flesh_range\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh_range\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "893e84df5cb5c79cabc8165d126982c2",
@@ -1764,9 +1785,9 @@
  {
   "key": "2116bf0cdef7d64d84d4f16fdc2111a1",
   "original": "A human who fell and succumbed to the flesh vessel exoskeleton - an experimental battle suit developed by the Secronom Project - and by the looks of it, the body has been recently devoured.  Strands of flesh writhe incessantly around it.",
-  "translation": "A human who fell and succumbed to the flesh vessel exoskeleton - an experimental battle suit developed by the Secronom Project - and by the looks of it, the body has been recently devoured.  Strands of flesh writhe incessantly around it.",
+  "translation": "一名人类倒下并被“肉身容器外骨骼”——由Secronom计划研发的实验性战斗服——所吞噬，从外观来看，这具躯体最近才遭到了啃噬。肉质的触须在其周身不断地扭动着。",
   "context": "ID: mon_szombie_vessel_inactive\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/Crimson Horrors/Flesh_experimental.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→MONSTER→mon_szombie_vessel_inactive\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "31745afa803e1f923b5dc84d08c4c123",
@@ -1985,14 +2006,14 @@
  {
   "key": "3131b25325267e806adde21e10a2ed3a",
   "original": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.",
-  "translation": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.",
+  "translation": "一套动力盔甲模块，可在眼部安装多种先进瞄准系统。模块植入类型“光学”极大提高了感知能力。使用内置不间断电源（UPS）。",
   "context": "ID: secro_power_armor_module_optics\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_optics\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "9f90fd32b828437c8811c2eb65169ac2",
   "original": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.\n\nModule implant type \"Optics\" provides:\n<color_white>Perception: <color_light_green>+6</color>\nSight range: <color_light_green>+4</color></color>",
-  "translation": "A set of power armor modules that installs various advanced targeting systems to the eyes. Module implant type \"Optics\" significantly increases perception. Uses a built-in UPS.\n\nModule implant type \"Optics\" provides:\n<color_white>Perception: <color_light_green>+6</color>\nSight range: <color_light_green>+4</color></color>",
+  "translation": "一套动力装甲模块，可在眼部安装多种先进瞄准系统。模块植入型号“光学”极大增强了感知能力。使用内置的UPS电源。\n\n模块植入型号“光学”的提供如下加成：\n<color_white>感知：<color_light_green>+6</color>\n视野范围：<color_light_green>+4</color></color>",
   "context": "ID: secro_power_armor_module_optics_act\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armor_modules.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_module_optics_act\n",
   "stage": 1
  },
@@ -2415,8 +2436,8 @@
  {
   "key": "9c51ffa4b720b1833acc5d4b8fc63aaa",
   "original": "An innate knowledge gained by those who harness the power of a bio-organic exoskeleton. Although not as complex as others, it greatly increases overall proficiency over bio-organic weapons.",
-  "translation": "利用生物有机外骨骼的力量获得的先天知识。虽然不像其他武器那样复杂，但它大大提高了生物有机武器的整体熟练程度。",
-  "stage": 5
+  "translation": "那些掌握生物有机外骨骼力量的人所获得的先天知识。尽管不如其他知识体系复杂，但它极大地提高了对生物有机武器的整体熟练度。",
+  "stage": 3
  },
  {
   "key": "3aaa633fb5bc6cbf0ebcc81a5194869b",
@@ -2503,23 +2524,23 @@
  {
   "key": "99660b09c5718a25a2959d0106f2c243",
   "original": "Armament - Biters",
-  "translation": "Armament - Biters",
+  "translation": "武器 - 咬噬者",
   "context": "ID: mon_szombie_vessel_biters\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_biters\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "950e21bb48a117a01be955edc7edf68e",
   "original": "Armament - Blades",
-  "translation": "Armament - Blades",
+  "translation": "武器 - 刀剑类",
   "context": "ID: mon_szombie_vessel_blades\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_blades\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "cc6f127861af766ff94897e69ebb7e67",
   "original": "Armament - Tentacles",
-  "translation": "Armament - Tentacles",
+  "translation": "武器 - 触须",
   "context": "ID: mon_szombie_vessel_tents\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_tents\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "19de8d93b47d818b7f2055c16b8099b8",
@@ -2594,21 +2615,21 @@
  {
   "key": "e32699cc44bc1643187d7632c6a9fd0f",
   "original": "Augmenting Distribution",
-  "translation": "Augmenting Distribution",
+  "translation": "强化分配",
   "context": "ID: secro_style_biomorph\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→martial_art→secro_style_biomorph\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "73983c5876b88c73913d1e3416ec3e33",
   "original": "BIO-ORGANIC WEAPONS",
-  "translation": "BIO-ORGANIC WEAPONS",
+  "translation": "生物有机武器",
   "context": "ID: SECRO_BOW\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_categories.json\n类型为 weapon_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→weapon_category→SECRO_BOW\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "e954c6a51909bcc1b424144d2a35a912",
   "original": "BONE BLADE ARMAMENT",
-  "translation": "BONE BLADE ARMAMENT",
+  "translation": "骨刃武装",
   "context": "ID: SECRO_BOW_MELEE_BB\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_categories.json\n类型为 weapon_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→weapon_category→SECRO_BOW_MELEE_BB\n",
   "stage": 1
  },
@@ -3400,7 +3421,7 @@
  {
   "key": "81ae94c2bf84eb18320a9f248f10080a",
   "original": "FLESHPOUND ARMAMENT",
-  "translation": "FLESHPOUND ARMAMENT",
+  "translation": "血肉武装",
   "context": "ID: SECRO_BOW_MELEE_FP\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_categories.json\n类型为 weapon_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→weapon_category→SECRO_BOW_MELEE_FP\n",
   "stage": 1
  },
@@ -3849,6 +3870,13 @@
   "stage": 5
  },
  {
+  "key": "f004a208c05acd52e58c86d7e4afc65c",
+  "original": "I wear the disgusting vessel this mfs were making.",
+  "translation": "I wear the disgusting vessel this mfs were making.",
+  "context": "ID: NC_SECRO_FLESHVESSEL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_FLESHVESSEL\n",
+  "stage": 1
+ },
+ {
   "key": "058f3a2480cd2508b358caa2e0e2a99e",
   "original": "I will guide you back to the core.",
   "translation": "我会引导你回到核心。",
@@ -3930,6 +3958,13 @@
   "stage": 5
  },
  {
+  "key": "765e3da0a1b507b502f0f3045648bca8",
+  "original": "I'm one of the mfs who made secronom and shit.",
+  "translation": "I'm one of the mfs who made secronom and shit.",
+  "context": "ID: NC_SECRO_SCIENTIST\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_npc_classes_facs.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→npc_class→NC_SECRO_SCIENTIST\n",
+  "stage": 1
+ },
+ {
   "key": "4260c0f398ec3e05ea289534a02cb8a2",
   "original": "I'm ready for the job.",
   "translation": "我已经准备好了。",
@@ -4008,9 +4043,9 @@
  {
   "key": "367439e5e3d48c20321813ab8b507d76",
   "original": "Internal storage for articifial flesh.",
-  "translation": "Internal storage for articifial flesh.",
+  "translation": "内部储存人造肉体。",
   "context": "ID: internal_secro_fv_core\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_bionics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→internal_secro_fv_core\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "2fbf8d67fb493f001f4b6ce46c1d1b40",
@@ -4084,7 +4119,7 @@
  {
   "key": "65b66a7159f5de1ec46a2fd8a1d70e81",
   "original": "JAWED BITERS ARMAMENT",
-  "translation": "JAWED BITERS ARMAMENT",
+  "translation": "颚咬者武装",
   "context": "ID: SECRO_BOW_MELEE_JB\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_categories.json\n类型为 weapon_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→weapon_category→SECRO_BOW_MELEE_JB\n",
   "stage": 1
  },
@@ -4668,16 +4703,16 @@
  {
   "key": "f29513d53b579f3a0cd4c64c7f016ab2",
   "original": "Practice advanced handling of melee armaments against an armored training dummy.  You will need to make repairs to the dummy while you train.",
-  "translation": "Practice advanced handling of melee armaments against an armored training dummy.  You will need to make repairs to the dummy while you train.",
+  "translation": "在装甲训练假人上实践高级近战武器操作。训练期间，你将需要对假人进行维修。",
   "context": "ID: secro_prac_bioweapon_int\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_recipe_practice.json\n类型为 practice\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→practice→secro_prac_bioweapon_int\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "788753d915802e66fc397be5e84a7e27",
   "original": "Practice close quarter combat against an imaginary opponent using any kind of melee armament.",
-  "translation": "Practice close quarter combat against an imaginary opponent using any kind of melee armament.",
+  "translation": "使用任意近战武器对着假想敌进行贴身战斗练习。",
   "context": "ID: secro_prac_bioweapon_beg\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_recipe_practice.json\n类型为 practice\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→practice→secro_prac_bioweapon_beg\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "8b1093ccfc6c94314aef56f4cb40a6ef",
@@ -5175,16 +5210,16 @@
  {
   "key": "c426d5ec83551a9b65758720b784e555",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster augments their arms into arm biters.'",
-  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster augments their arms into arm biters.'",
+  "translation": "由怪物施放的法术。若你正看到这个，那么请阅读以下内容代替：\n '施法者将其手臂增强为臂咬器。'",
   "context": "ID: mon_szombie_vessel_biters\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_biters\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "8baa573485e03d7d117aadd4d12193f1",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster augments their arms into sharp, bone blades.'",
-  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster augments their arms into sharp, bone blades.'",
+  "translation": "怪物施放的法术。若你正看见这个，那么请阅读以下内容代替：\n '施法者将其手臂增强为锋利的骨刃。'",
   "context": "ID: mon_szombie_vessel_blades\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_blades\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "23bd998711eb083054ba8d701a27b3f2",
@@ -5210,9 +5245,9 @@
  {
   "key": "d1aab58388382209841a934dc68bc405",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster's body sprouts several strong and slender tentacles.'",
-  "translation": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'Caster's body sprouts several strong and slender tentacles.'",
+  "translation": "由怪物施放的法术。若你正看到这个，那么请阅读以下内容代替：\n '施法者的身体上长出了几根强壮而细长的触须。'",
   "context": "ID: mon_szombie_vessel_tents\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_tents\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "de288175c1dcfafdb793bb5d031da4a4",
@@ -5320,16 +5355,16 @@
  {
   "key": "32a91c5bea8a66f9e4231ddad518290b",
   "original": "Spell casted by an item. If you're seeing this, then read this one instead:\n'Caster's spitter armament performs crimson shower at the target - dealing acid damage and spreading blood acid fields.'",
-  "translation": "Spell casted by an item. If you're seeing this, then read this one instead:\n'Caster's spitter armament performs crimson shower at the target - dealing acid damage and spreading blood acid fields.'",
+  "translation": "由物品施放的法术。若您正阅读此内容，请改阅以下信息：\n '施法者之唾沫武装对目标施以赤红淋浴——造成酸性伤害并散布血酸领域。'",
   "context": "ID: mon_szombie_vessel_spitter_cs\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_spitter_cs\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "7e398d38491fe35822b4e406a3035528",
   "original": "Spell casted by an item. If you're seeing this, then read this one instead:\n'Caster's spitter armament spits acid at the target.'",
-  "translation": "Spell casted by an item. If you're seeing this, then read this one instead:\n'Caster's spitter armament spits acid at the target.'",
+  "translation": "由物品施放的法术。若您正观看此信息，请改读以下内容：\n '施法者之唾液武装向目标喷射酸液。'",
   "context": "ID: mon_szombie_vessel_spitter\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_spitter\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "6a5abc0691128ce1141447c0a0526838",
@@ -5680,7 +5715,7 @@
  {
   "key": "db0459f835746b2635c42b14c343d01e",
   "original": "TWISTED VEIN ARMAMENT",
-  "translation": "TWISTED VEIN ARMAMENT",
+  "translation": "扭曲脉管武装",
   "context": "ID: SECRO_BOW_MELEE_TV\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_categories.json\n类型为 weapon_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→weapon_category→SECRO_BOW_MELEE_TV\n",
   "stage": 1
  },
@@ -5806,9 +5841,9 @@
  {
   "key": "f4ea10e168f7f0d7303041143c12f6e8",
   "original": "The bio-organic exoskeleton isn't responding to you!",
-  "translation": "The bio-organic exoskeleton isn't responding to you!",
+  "translation": "生物有机外骨骼没有对你作出响应！",
   "context": "ID: secro_power_armor_flesh_resist\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_type→secro_power_armor_flesh_resist\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "34e36b8510ea141327a228c65920a1ff",
@@ -5855,23 +5890,23 @@
  {
   "key": "b66bd3c38f894531e9184122a523a45c",
   "original": "The flesh vessel absorbed the flesh core.",
-  "translation": "The flesh vessel absorbed the flesh core.",
+  "translation": "肉体容器吸收了肉质核心。",
   "context": "ID: eoc_secro_pafv_grow3\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_grow3\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "19ae8759ea33238b38c304221094c68a",
   "original": "The flesh vessel has increased in mass.",
-  "translation": "The flesh vessel has increased in mass.",
+  "translation": "肉体容器的质量增大了。",
   "context": "ID: eoc_secro_pafv_grow3\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_grow3\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "2144ee1a4fc5dbd551f9174d69e332f0",
   "original": "The flesh vessel starts burning your calories!",
-  "translation": "The flesh vessel starts burning your calories!",
+  "translation": "肉体之躯开始急剧消耗你的热量！",
   "context": "ID: secro_power_armor_feed_metabolic_act_cost\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_type→secro_power_armor_feed_metabolic_act_cost\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "f8fd43746e0f2ccfce99b7ec8f52633a",
@@ -5890,9 +5925,9 @@
  {
   "key": "aca94259156846dc26cc31d612adf5a2",
   "original": "The sight of <npcname> locks onto its target...",
-  "translation": "The sight of <npcname> locks onto its target...",
+  "translation": "<npcname>号视线锁定目标...",
   "context": "ID: mon_szombie_vessel_target\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Monsters/-Essentials/secro_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→SPELL→mon_szombie_vessel_target\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "3d814108d61ec9968b046b10c500d3cc",
@@ -5911,9 +5946,9 @@
  {
   "key": "b06d6e2dc7d6e912035dd4b455fc46d9",
   "original": "The vessel consumes your flesh.",
-  "translation": "The vessel consumes your flesh.",
+  "translation": "这器皿吞噬着你的血肉。",
   "context": "ID: eoc_secro_pafv_fleshconsumption\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_fleshconsumption\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "15e895cf7891f8aa22035fc2bb1ed683",
@@ -6221,9 +6256,9 @@
  {
   "key": "955b626377fc081f54325078855473ea",
   "original": "Vessel Resistance",
-  "translation": "Vessel Resistance",
+  "translation": "船舶阻力",
   "context": "ID: secro_power_armor_flesh_resist\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_type→secro_power_armor_flesh_resist\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "f3cefe4de7e06144319478efbb2ad8a4",
@@ -6639,9 +6674,9 @@
  {
   "key": "4f52d0fe98d8ae752c4b21a8945e19ff",
   "original": "You channel your suit to enhance your armament. Disables suit's defensive capabilities as a cost.\n\nLasts for 10 turns",
-  "translation": "You channel your suit to enhance your armament. Disables suit's defensive capabilities as a cost.\n\nLasts for 10 turns",
+  "translation": "你引导着装具的能量以增强你的武器装备，但这将以牺牲装具的防御功能为代价。此效果持续10个回合。\n\n\n\n",
   "context": "ID: secro_style_biomorph\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_ma_tec.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→martial_art→secro_style_biomorph\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "7f87173d4bb92c2834196ef4b3c9ce49",
@@ -6653,23 +6688,23 @@
  {
   "key": "d91d2080d26c66f2f5b29e31be2d1673",
   "original": "You don't have enough energy to fire your bone lancer armament.",
-  "translation": "You don't have enough energy to fire your bone lancer armament.",
+  "translation": "你的能量不足以发射骨矛武器。",
   "context": "ID: eoc_secro_pafv_morphed_gun_bonelance_shoot_check\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_morphed_gun_bonelance_shoot_check\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "44cc83a20f35f6f5e801b8c1111b1f77",
   "original": "You don't have enough flesh to fire your spitter armament.",
-  "translation": "You don't have enough flesh to fire your spitter armament.",
+  "translation": "你的肉体不足以驱动你的唾液射击武器。",
   "context": "ID: eoc_secro_pafv_morphed_gun_spit_check\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_morphed_gun_spit_check\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "785de932df083396da5811596ced202d",
   "original": "You don't have enough flesh to load your bone lancer armament.",
-  "translation": "You don't have enough flesh to load your bone lancer armament.",
+  "translation": "你的肉体不足以装备骨矛武器。",
   "context": "ID: eoc_secro_pafv_morphed_gun_bonelance_shot_check\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_morphed_gun_bonelance_shot_check\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "82783301d103bfa98079620ec45c862c",
@@ -6702,9 +6737,16 @@
  {
   "key": "d6114804585c8248763c040083f82ba6",
   "original": "You feel the flesh core beat.",
-  "translation": "You feel the flesh core beat.",
+  "translation": "你感受到肉核在跳动。",
   "context": "ID: eoc_secro_pafv_core\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_core\n",
-  "stage": 1
+  "stage": 0
+ },
+ {
+  "key": "ba6cfe5b58d66db63250042b558cdc4d",
+  "original": "You formed an artificial flesh hivemind...",
+  "translation": "你构建了一个人造肉身蜂巢思维...",
+  "context": "ID: secro_power_armor_flesh_infect\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/Armors/secro_power_armors.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→TOOL_ARMOR→secro_power_armor_flesh_infect\n",
+  "stage": 0
  },
  {
   "key": "4dd29fb6f3a0f5e45b235f49212b4715",
@@ -6995,9 +7037,9 @@
  {
   "key": "b78eada6ec16354bbd453fc65e879d7a",
   "original": "Your armament is already preparing its shot.",
-  "translation": "Your armament is already preparing its shot.",
+  "translation": "你的武器已经在准备射击。",
   "context": "ID: eoc_secro_pafv_morphed_gun_bonelance_shot_check\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_morphed_gun_bonelance_shot_check\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "71ba6a820acc156fea6ae6d5989b6bfe",
@@ -7009,9 +7051,9 @@
  {
   "key": "4f138eaead8fdab92904fcb7e2c7d680",
   "original": "Your bio-organic exoskeleton needs a constant supply of artificial flesh in your inventory to remain functional.\n\nTo complete this mission, obtain a <color_light_green>blob glob</color>.",
-  "translation": "Your bio-organic exoskeleton needs a constant supply of artificial flesh in your inventory to remain functional.\n\nTo complete this mission, obtain a <color_light_green>blob glob</color>.",
+  "translation": "你的生物有机外骨骼需要在背包中持续供应人造肉体以维持功能。\n\n为了完成这项任务，获取一份<color_light_green>变形怪糊</color> 。",
   "context": "ID: MISSION_SECRO_FV_TUTORIAL\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/NPCs/secro_missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→mission_definition→MISSION_SECRO_FV_TUTORIAL\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a5f365e2bbef10427520a649b1a52ab5",
@@ -7036,9 +7078,9 @@
  {
   "key": "961ea9072c70dbc0205f8cccad47f9e2",
   "original": "Your body has succumbed to the flesh.",
-  "translation": "Your body has succumbed to the flesh.",
+  "translation": "你的身体已经屈服于腐肉之中。",
   "context": "ID: eoc_secro_pafv_fleshconsumption_death\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_eoc.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_fleshconsumption_death\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "e6046efac227ddbf14dbe5b7ef985774",
@@ -7092,9 +7134,9 @@
  {
   "key": "528255b5b5fc1d66721f6814e46b33aa",
   "original": "Your bone lancer armament is ready to fire.",
-  "translation": "Your bone lancer armament is ready to fire.",
+  "translation": "你的骨矛武装已准备好发射。",
   "context": "ID: eoc_secro_pafv_morphed_gun_bonelance_shot_check\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_magic.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_on_condition→eoc_secro_pafv_morphed_gun_bonelance_shot_check\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "1e44b5026ee0e2c11c7011f72d96bcf7",
@@ -7173,9 +7215,9 @@
  {
   "key": "9225ba13283272029295084a0b9d1ffd",
   "original": "Your internal flesh weavers are repairing sustained damage!",
-  "translation": "Your internal flesh weavers are repairing sustained damage!",
+  "translation": "你的体内织肉者正在修复持续受到的损伤！",
   "context": "ID: secro_power_armor_fleshmend_ing\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_type→secro_power_armor_fleshmend_ing\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "cc8d6d2f08dafa6d4b8ac2627cc84367",
@@ -7187,9 +7229,9 @@
  {
   "key": "a163bac0a74d0899b6c45d7a59a1110f",
   "original": "Your movement is hampered!",
-  "translation": "Your movement is hampered!",
+  "translation": "你的行动受阻了！",
   "context": "ID: secro_power_armor_feed_metabolic_act_cost\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Items/-Essentials/secro_item_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→effect_type→secro_power_armor_feed_metabolic_act_cost\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "a341c7e43b3414edba37d276ccb6ae9d",
@@ -10906,16 +10948,16 @@
  {
   "key": "2a91ed4e60c9956b04136a56c008277f",
   "original": "bio-organic weapons (beginner)",
-  "translation": "bio-organic weapons (beginner)",
+  "translation": "生物有机武器（入门）",
   "context": "ID: secro_prac_bioweapon_beg\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_recipe_practice.json\n类型为 practice\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→practice→secro_prac_bioweapon_beg\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4555119c935fa50d01900bfe4f697ecc",
   "original": "bio-organic weapons (intermediate)",
-  "translation": "bio-organic weapons (intermediate)",
+  "translation": "生物有机武器（中级）",
   "context": "ID: secro_prac_bioweapon_int\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_recipe_practice.json\n类型为 practice\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→practice→secro_prac_bioweapon_int\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eb80fe9a3d267ed8000200f60150dee9",
@@ -11120,9 +11162,9 @@
  {
   "key": "a53c347fe591bd0f4e173bb792f45ca1",
   "original": "flesh core",
-  "translation": "flesh core",
+  "translation": "肉质核心",
   "context": "ID: internal_secro_fv_core\n位于 /Kenan-Structured-Modpack/secronom_lore_expansion/Modification Files/Others/secro_bionics.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom_lore_expansion→GENERIC→internal_secro_fv_core\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "fcdac0630f19d5dcdf9f78b2db198e85",

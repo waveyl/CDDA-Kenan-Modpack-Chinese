@@ -3,14 +3,15 @@
     "id": "BL9_tendril_sword",
     "looks_like": "machete",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-tendril sword" },
     "description": "A handy sword made out of remains of BL9 tendril's blades",
-    "weight": "1490 g",
+    "weight": "1500 g",
     "volume": "1115 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 22 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -31,13 +32,15 @@
     "id": "BL9_tonfa",
     "looks_like": "tonfa",
     "type": "TOOL",
+    "weapon_category": [ "BATONS" ],
+    "category": "weapons",
     "name": { "str": "BL9 tonfa" },
-    "description": "A handy tonfa made out of remains of BL9 incredible high quality of which puzzles ones who know nothing about origin of BL9 which is not only a material used for weapons",
+    "description": "A handy tonfa made out of remains of BL9, incredible high quality of which puzzles ones who know nothing about origin of BL9 which is not only a material used for weapons",
     "weight": "942 g",
     "volume": "635 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 28 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -49,6 +52,7 @@
     "id": "BL9_worm_whip",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9-worm whip" },
     "description": "A whip made out of a BL9 worm-like parasite that is capable of stretching and swinging itself",
@@ -56,8 +60,8 @@
     "volume": "635 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 19, "cut": 11 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 21, "cut": 11 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -68,6 +72,7 @@
     "id": "BL9_claws_melee",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9-infused claws" },
     "description": "Sturdy razor-sharp claws made out of remains of the Blind Clawer's claws infused with BL9",
@@ -75,18 +80,19 @@
     "volume": "400 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 32 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_repto_glaive",
     "looks_like": "glaive",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 Repto glaive" },
     "description": "A very strong and a durable glaive made out of remains of Repto's claws",
@@ -94,18 +100,19 @@
     "volume": "1475 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 7, "cut": 28 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_feint", "tec_medievalpole_highround" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_spiky_sword",
     "looks_like": "jian",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-spike sword" },
     "description": "A very sharp sword with multiple protrusions on it made out of BL9 spike samples",
@@ -113,7 +120,7 @@
     "volume": "1975 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 31 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -134,6 +141,7 @@
     "id": "BL9_tail_whip",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 tail whip" },
     "description": "A razor sharp, very well cutting whip made out of BL9 Assassin's tail samples",
@@ -141,8 +149,8 @@
     "volume": "465 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 14, "cut": 26 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 15, "cut": 26 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -153,6 +161,7 @@
     "id": "BL9_tentacle_axe",
     "looks_like": "battleaxe",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_AXES" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle axe" },
     "description": "A huge axe that somehow this strange tentacle sample manages to take the form of, forming both the long handle and a huge blade",
@@ -160,7 +169,7 @@
     "volume": "2440 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 8, "cut": 37 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -174,12 +183,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_stun_quarterstaff",
     "looks_like": "i_staff",
     "type": "GUN",
+    "weapon_category": [ "QUARTERSTAVES" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun quarterstaff" },
@@ -189,7 +199,16 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NEVER_JAMS", "POLEARM", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [
+      "DURABLE_MELEE",
+      "NONCONDUCTIVE",
+      "NEVER_JAMS",
+      "POLEARM",
+      "NON_FOULING",
+      "NEEDS_NO_LUBE",
+      "WATERPROOF_GUN",
+      "ALWAYS_TWOHAND"
+    ],
     "techniques": [
       "WBLOCK_2",
       "RAPID",
@@ -204,7 +223,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 51 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -218,6 +237,7 @@
     "id": "BL9_stun_blade",
     "looks_like": "jian",
     "type": "GUN",
+    "weapon_category": [ "LONG_SWORDS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun blade" },
@@ -241,8 +261,8 @@
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
-    "melee_damage": { "bash": 9, "cut": 41 },
-    "to_hit": 1,
+    "melee_damage": { "bash": 10, "cut": 41 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -256,6 +276,7 @@
     "id": "BL9_stun_halberd",
     "looks_like": "halberd",
     "type": "GUN",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun halberd" },
@@ -273,14 +294,15 @@
       "NEVER_JAMS",
       "NON_FOULING",
       "NEEDS_NO_LUBE",
-      "WATERPROOF_GUN"
+      "WATERPROOF_GUN",
+      "ALWAYS_TWOHAND"
     ],
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_feint", "tec_medievalpole_highround" ],
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
-    "melee_damage": { "bash": 4, "cut": 46 },
-    "to_hit": 1,
+    "melee_damage": { "bash": 5, "cut": 46 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -294,6 +316,7 @@
     "id": "BL9_stun_hammer",
     "looks_like": "hammer_sledge",
     "type": "GUN",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun hammer" },
@@ -303,7 +326,7 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
       "SWEEP",
@@ -316,8 +339,8 @@
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
-    "melee_damage": { "bash": 46, "cut": 4 },
-    "to_hit": 1,
+    "melee_damage": { "bash": 46, "cut": 5 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -331,6 +354,7 @@
     "id": "BL9_stun_whip",
     "looks_like": "bullwhip_razor",
     "type": "GUN",
+    "weapon_category": [ "FLAILS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun whip" },
@@ -354,8 +378,8 @@
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
-    "melee_damage": { "bash": 12, "cut": 38 },
-    "to_hit": 1,
+    "melee_damage": { "bash": 14, "cut": 37 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -369,6 +393,7 @@
     "id": "BL9_stun_claws",
     "looks_like": "bio_claws_weapon",
     "type": "GUN",
+    "weapon_category": [ "CLAWS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun claws" },
@@ -378,13 +403,13 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
-    "melee_damage": { "bash": 1, "cut": 49 },
-    "to_hit": 1,
+    "melee_damage": { "bash": 3, "cut": 48 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -398,6 +423,7 @@
     "id": "BL9_laser_blade",
     "looks_like": "jian",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser blade" },
     "description": "A highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -405,7 +431,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
     "relic_data": {
       "passive_effects": [
@@ -441,6 +467,7 @@
     "id": "BL9_laser_halberd",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser halberd" },
     "description": "A highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -448,7 +475,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
     "relic_data": {
       "passive_effects": [
@@ -469,12 +496,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_feint", "tec_medievalpole_highround" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_laser_hammer",
     "looks_like": "hammer_sledge",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser hammer" },
     "description": "A highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -482,7 +510,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -511,12 +539,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_laser_whip",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser whip" },
     "description": "A highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -524,7 +553,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
     "relic_data": {
       "passive_effects": [
@@ -551,6 +580,7 @@
     "id": "BL9_laser_claws",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser claws" },
     "description": "Highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -558,7 +588,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
     "relic_data": {
       "passive_effects": [
@@ -579,12 +609,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_blade",
     "looks_like": "jian",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma blade" },
     "description": "A highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -592,7 +623,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
     "relic_data": {
       "passive_effects": [
@@ -628,6 +659,7 @@
     "id": "BL9_plasma_halberd",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma halberd" },
     "description": "A highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -635,7 +667,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
     "relic_data": {
       "passive_effects": [
@@ -656,12 +688,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_feint", "tec_medievalpole_highround" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_hammer",
     "looks_like": "hammer_sledge",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma hammer" },
     "description": "A highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -669,7 +702,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -698,12 +731,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_whip",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma whip" },
     "description": "A highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -711,7 +745,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
     "relic_data": {
       "passive_effects": [
@@ -738,6 +772,7 @@
     "id": "BL9_plasma_claws",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma claws" },
     "description": "Highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -745,7 +780,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
     "relic_data": {
       "passive_effects": [
@@ -766,12 +801,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_blade",
     "looks_like": "jian",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric blade" },
     "description": "A highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -779,7 +815,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
     "relic_data": {
       "passive_effects": [
@@ -815,6 +851,7 @@
     "id": "BL9_electric_halberd",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric halberd" },
     "description": "A highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -822,7 +859,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
     "relic_data": {
       "passive_effects": [
@@ -843,12 +880,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_feint", "tec_medievalpole_highround" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_hammer",
     "looks_like": "hammer_sledge",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric hammer" },
     "description": "A highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -856,7 +894,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -885,12 +923,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_whip",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric whip" },
     "description": "A highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -898,7 +937,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
     "relic_data": {
       "passive_effects": [
@@ -925,6 +964,7 @@
     "id": "BL9_electric_claws",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric claws" },
     "description": "Highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -932,7 +972,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
     "relic_data": {
       "passive_effects": [
@@ -953,12 +993,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_blade",
     "looks_like": "jian",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid blade" },
     "description": "A highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -966,7 +1007,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
     "relic_data": {
       "passive_effects": [
@@ -1002,6 +1043,7 @@
     "id": "BL9_acid_halberd",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid halberd" },
     "description": "A highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -1009,7 +1051,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
     "relic_data": {
       "passive_effects": [
@@ -1030,12 +1072,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_feint", "tec_medievalpole_highround" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_hammer",
     "looks_like": "hammer_sledge",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid hammer" },
     "description": "A highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -1043,7 +1086,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -1072,12 +1115,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_whip",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid whip" },
     "description": "A highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -1085,7 +1129,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
     "relic_data": {
       "passive_effects": [
@@ -1112,6 +1156,7 @@
     "id": "BL9_acid_claws",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid claws" },
     "description": "Highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -1119,7 +1164,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
     "relic_data": {
       "passive_effects": [
@@ -1140,12 +1185,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_bladed_tentacle_claws",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 bladed tentacle claws" },
     "description": "A pair of bladed claws which are used to deal significant amount of damage by applying very little force to the tentacles attached to them",
@@ -1153,18 +1199,19 @@
     "volume": "715 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 1, "cut": 48 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 3, "cut": 48 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_spiked_worm_polearm",
     "looks_like": "glaive",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9-worm spiked polearm" },
     "description": "A polearm made of BL9 taking the form of a worm-like parasite with multiple protrusions all over it that is able to stretch and swing itself",
@@ -1172,18 +1219,19 @@
     "volume": "1780 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 14, "cut": 37 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 16, "cut": 37 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_brawl_feint_melee", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_tentacle_spike_flail",
     "looks_like": "2h_flail_steel",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle spiked flail" },
     "description": "A flail with a tentacle as it's chain end of which is a spiky ball made of some strange and very hard tissue",
@@ -1191,7 +1239,7 @@
     "volume": "1645 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 30, "cut": 24 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -1203,6 +1251,7 @@
     "id": "BL9_repto_evo_glaive",
     "looks_like": "naginata",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 evolved Repto glaive" },
     "description": "An even more intimidating and vicious looking, incredibly strong glaive made out of evolved Repto's claws",
@@ -1210,18 +1259,19 @@
     "volume": "1700 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 3, "cut": 54 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_pincer_sword",
     "looks_like": "zweihander",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-pincer sword" },
     "description": "A giant sleek looking sword made out of remains of BL9-infused Chimera's pincers",
@@ -1229,7 +1279,7 @@
     "volume": "2900 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 5, "cut": 57 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -1245,12 +1295,13 @@
       "tec_swordsmanship_lethal",
       "tec_swordsmanship_feint"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_claws_evo",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 evolved claws" },
     "description": "Modified, hardened and strengthened BL9-infused claws that have a greatly increased size, has a much more intimidating look and an absurdingly bizarre resemblance to Eastern fans",
@@ -1258,18 +1309,19 @@
     "volume": "790 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 65 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_spiked_sledgehammer",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 spiked sledgehammer" },
     "description": "A giant sledgehammer with multiple spiky protrusions made from a leg of a horribly mutated carapaceon BL9-infused creature",
@@ -1277,7 +1329,7 @@
     "volume": "3500 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 57, "cut": 14 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -1291,12 +1343,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_stun_quarterstaff_mk2",
     "looks_like": "i_staff",
     "type": "GUN",
+    "weapon_category": [ "QUARTERSTAVES" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun quarterstaff MK ii" },
@@ -1306,7 +1359,16 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NEVER_JAMS", "POLEARM", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [
+      "DURABLE_MELEE",
+      "NONCONDUCTIVE",
+      "NEVER_JAMS",
+      "POLEARM",
+      "NON_FOULING",
+      "NEEDS_NO_LUBE",
+      "WATERPROOF_GUN",
+      "ALWAYS_TWOHAND"
+    ],
     "techniques": [
       "WBLOCK_2",
       "SWEEP",
@@ -1321,7 +1383,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 75 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -1335,6 +1397,7 @@
     "id": "BL9_stun_blade_mk2",
     "looks_like": "katana",
     "type": "GUN",
+    "weapon_category": [ "LONG_SWORDS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun blade MK ii" },
@@ -1360,7 +1423,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 12, "cut": 61 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -1374,6 +1437,7 @@
     "id": "BL9_stun_halberd_mk2",
     "looks_like": "halberd",
     "type": "GUN",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun halberd MK ii" },
@@ -1391,14 +1455,15 @@
       "NEVER_JAMS",
       "NON_FOULING",
       "NEEDS_NO_LUBE",
-      "WATERPROOF_GUN"
+      "WATERPROOF_GUN",
+      "ALWAYS_TWOHAND"
     ],
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 6, "cut": 67 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -1412,6 +1477,7 @@
     "id": "BL9_stun_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
     "type": "GUN",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun hammer MK ii" },
@@ -1421,7 +1487,7 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
       "SWEEP",
@@ -1435,7 +1501,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 67, "cut": 6 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -1449,6 +1515,7 @@
     "id": "BL9_stun_whip_mk2",
     "looks_like": "bullwhip_razor",
     "type": "GUN",
+    "weapon_category": [ "FLAILS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun whip MK ii" },
@@ -1472,8 +1539,8 @@
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
-    "melee_damage": { "bash": 17, "cut": 56 },
-    "to_hit": 1,
+    "melee_damage": { "bash": 19, "cut": 54 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -1487,6 +1554,7 @@
     "id": "BL9_stun_claws_mk2",
     "looks_like": "bio_claws_weapon",
     "type": "GUN",
+    "weapon_category": [ "CLAWS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun claws MK ii" },
@@ -1496,13 +1564,13 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 1, "cut": 72 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -1516,6 +1584,7 @@
     "id": "BL9_laser_blade_mk2",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser blade MK ii" },
     "description": "A refined and upgraded highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -1523,7 +1592,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
     "relic_data": {
       "passive_effects": [
@@ -1560,6 +1629,7 @@
     "id": "BL9_laser_halberd_mk2",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser halberd MK ii" },
     "description": "A refined and upgraded highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -1567,7 +1637,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
     "relic_data": {
       "passive_effects": [
@@ -1588,12 +1658,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_laser_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser hammer MK ii" },
     "description": "A refined and upgraded highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -1601,7 +1672,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -1630,12 +1701,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_laser_whip_mk2",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser whip MK ii" },
     "description": "A refined and upgraded highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -1643,7 +1715,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
     "relic_data": {
       "passive_effects": [
@@ -1670,6 +1742,7 @@
     "id": "BL9_laser_claws_mk2",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser claws MK ii" },
     "description": "Refined and upgraded highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -1677,7 +1750,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
     "relic_data": {
       "passive_effects": [
@@ -1698,12 +1771,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_blade_mk2",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma blade MK ii" },
     "description": "A refined and upgraded highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -1711,7 +1785,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
     "relic_data": {
       "passive_effects": [
@@ -1748,6 +1822,7 @@
     "id": "BL9_plasma_halberd_mk2",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma halberd MK ii" },
     "description": "A refined and upgraded highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -1755,7 +1830,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
     "relic_data": {
       "passive_effects": [
@@ -1776,12 +1851,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma hammer MK ii" },
     "description": "A refined and upgraded highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -1789,7 +1865,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -1818,12 +1894,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_whip_mk2",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma whip MK ii" },
     "description": "A refined and upgraded highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -1831,7 +1908,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
     "relic_data": {
       "passive_effects": [
@@ -1858,6 +1935,7 @@
     "id": "BL9_plasma_claws_mk2",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma claws MK ii" },
     "description": "Refined and upgraded highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -1865,7 +1943,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
     "relic_data": {
       "passive_effects": [
@@ -1886,12 +1964,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_blade_mk2",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric blade MK ii" },
     "description": "A refined and upgraded highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -1899,7 +1978,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
     "relic_data": {
       "passive_effects": [
@@ -1936,6 +2015,7 @@
     "id": "BL9_electric_halberd_mk2",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric halberd MK ii" },
     "description": "A refined and upgraded highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -1943,7 +2023,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
     "relic_data": {
       "passive_effects": [
@@ -1964,12 +2044,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric hammer MK ii" },
     "description": "A refined and upgraded highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -1977,7 +2058,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -2006,12 +2087,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_whip_mk2",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric whip MK ii" },
     "description": "A refined and upgraded highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -2019,7 +2101,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
     "relic_data": {
       "passive_effects": [
@@ -2046,6 +2128,7 @@
     "id": "BL9_electric_claws_mk2",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric claws" },
     "description": "Refined and upgraded highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -2053,7 +2136,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
     "relic_data": {
       "passive_effects": [
@@ -2074,12 +2157,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_blade_mk2",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid blade MK ii" },
     "description": "A refined and upgraded highly experimental futuristic blade with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -2087,7 +2171,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
     "relic_data": {
       "passive_effects": [
@@ -2124,6 +2208,7 @@
     "id": "BL9_acid_halberd_mk2",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid halberd MK ii" },
     "description": "A refined and upgraded highly experimental futuristic halberd with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -2131,7 +2216,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
     "relic_data": {
       "passive_effects": [
@@ -2152,12 +2237,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid hammer MK ii" },
     "description": "A refined and upgraded highly experimental futuristic hammer with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -2165,7 +2251,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -2194,12 +2280,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_whip_mk2",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid whip MK ii" },
     "description": "A refined and upgraded highly experimental futuristic whip with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -2207,7 +2294,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
     "relic_data": {
       "passive_effects": [
@@ -2234,6 +2321,7 @@
     "id": "BL9_acid_claws_mk2",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid claws MK ii" },
     "description": "Refined and upgraded highly experimental futuristic claws with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -2241,7 +2329,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
     "relic_data": {
       "passive_effects": [
@@ -2262,12 +2350,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_tail_whip_enhanced",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 enhanced tail whip" },
     "description": "Greatly enhanced, even more vicious looking and more fear instilling razor sharp, very well cutting whip made out of BL9 Assassin's tail samples",
@@ -2275,7 +2364,7 @@
     "volume": "465 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 20, "cut": 70 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -2287,6 +2376,7 @@
     "id": "BL9_tentacle_axe_enhanced",
     "looks_like": "battleaxe",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_AXES" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle enhanced axe" },
     "description": "A greatly enhanced, even more vicious looking and more fear instilling huge axe that somehow this strange tentacle sample manages to take the form of, forming both the long handle and a huge blade",
@@ -2294,8 +2384,8 @@
     "volume": "2440 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 11, "cut": 79 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 10, "cut": 80 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2308,12 +2398,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_tentacle_spike_flail_enhanced",
     "looks_like": "2h_flail_steel",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle enhanced spiked flail" },
     "description": "A greatly enhanced, even more vicious looking and more fear instilling flail with a tentacle as it's chain end of which is a spiky ball made of some strange and very hard tissue",
@@ -2321,7 +2412,7 @@
     "volume": "1645 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 60, "cut": 30 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -2333,6 +2424,7 @@
     "id": "BL9_repto_evo_glaive_enhanced",
     "looks_like": "naginata",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 evolved Repto enhanced glaive" },
     "description": "A greatly enhanced, even more vicious looking, more intimidating and more fear instilling greatly cutting glaive made out of evolved Repto's claws",
@@ -2340,18 +2432,19 @@
     "volume": "1700 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 89 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_pincer_sword_enhanced",
     "looks_like": "zweihander",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-pincer enhanced sword" },
     "description": "A greatly enhanced, even more vicious looking and more fear instilling giant sleek looking sword made out of remains of BL9-infused Chimera's pincers",
@@ -2359,7 +2452,7 @@
     "volume": "2900 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 8, "cut": 82 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
@@ -2375,12 +2468,13 @@
       "tec_swordsmanship_lethal",
       "tec_swordsmanship_feint"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_claws_evo_enhanced",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 enhanced evolved claws" },
     "description": "Greatly enhanced, even more vicious looking and more fear instilling modified, hardened and strengthened BL9-infused claws that have a greatly increased size, has a much more intimidating look and an absurdingly bizarre resemblance to Eastern fans",
@@ -2388,18 +2482,19 @@
     "volume": "790 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 89 },
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_stun_quarterstaff_mk3",
     "looks_like": "i_staff",
     "type": "GUN",
+    "weapon_category": [ "QUARTERSTAVES" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 stun quarterstaff MK iii" },
@@ -2409,7 +2504,7 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
       "SWEEP",
@@ -2424,7 +2519,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 90 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -2438,6 +2533,7 @@
     "id": "BL9_stun_blade_mk3",
     "looks_like": "katana",
     "type": "GUN",
+    "weapon_category": [ "LONG_SWORDS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun blade MK iii" },
@@ -2463,7 +2559,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 15, "cut": 75 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -2477,6 +2573,7 @@
     "id": "BL9_stun_halberd_mk3",
     "looks_like": "halberd",
     "type": "GUN",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun halberd MK iii" },
@@ -2494,14 +2591,15 @@
       "NEVER_JAMS",
       "NON_FOULING",
       "NEEDS_NO_LUBE",
-      "WATERPROOF_GUN"
+      "WATERPROOF_GUN",
+      "ALWAYS_TWOHAND"
     ],
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 9, "cut": 81 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -2515,6 +2613,7 @@
     "id": "BL9_stun_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
     "type": "GUN",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun hammer MK iii" },
@@ -2524,7 +2623,7 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
       "SWEEP",
@@ -2538,7 +2637,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 81, "cut": 9 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -2552,6 +2651,7 @@
     "id": "BL9_stun_whip_mk3",
     "looks_like": "bullwhip_razor",
     "type": "GUN",
+    "weapon_category": [ "FLAILS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun whip MK iii" },
@@ -2576,7 +2676,7 @@
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 20, "cut": 70 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -2590,6 +2690,7 @@
     "id": "BL9_stun_claws_mk3",
     "looks_like": "bio_claws_weapon",
     "type": "GUN",
+    "weapon_category": [ "CLAWS" ],
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "BL9 experimental stun claws MK iii" },
@@ -2599,13 +2700,13 @@
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
     "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "skill": "rifle",
     "weight": "1875 g",
     "volume": "1485 ml",
     "melee_damage": { "bash": 1, "cut": 89 },
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "ranged_damage": { "damage_type": "stab", "amount": 1, "armor_penetration": 1 },
     "range": 69,
     "dispersion": 45,
@@ -2619,6 +2720,7 @@
     "id": "BL9_laser_blade_mk3",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser blade MK iii" },
     "description": "A refined and upgraded highly experimental futuristic blade enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -2626,8 +2728,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 8, "cut": 40 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 10, "cut": 38 },
     "relic_data": {
       "passive_effects": [
         {
@@ -2663,6 +2765,7 @@
     "id": "BL9_laser_halberd_mk3",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser halberd MK iii" },
     "description": "A refined and upgraded highly experimental futuristic halberd enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -2670,7 +2773,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
     "relic_data": {
       "passive_effects": [
@@ -2691,12 +2794,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_laser_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser hammer MK iii" },
     "description": "A refined and upgraded highly experimental futuristic hammer enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -2704,7 +2808,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -2733,12 +2837,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_laser_whip_mk3",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser whip MK iii" },
     "description": "A refined and upgraded highly experimental futuristic whip enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -2746,7 +2851,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
     "relic_data": {
       "passive_effects": [
@@ -2773,6 +2878,7 @@
     "id": "BL9_laser_claws_mk3",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser claws MK iii" },
     "description": "Refined and upgraded highly experimental futuristic claws enhanced with the technology beyond human possibilities with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, concentrated rays of vaporized BL9",
@@ -2780,8 +2886,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 1, "cut": 48 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 3, "cut": 48 },
     "relic_data": {
       "passive_effects": [
         {
@@ -2801,12 +2907,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_blade_mk3",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma blade MK iii" },
     "description": "A refined and upgraded highly experimental futuristic blade enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -2814,8 +2921,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 12, "cut": 36 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 10, "cut": 38 },
     "relic_data": {
       "passive_effects": [
         {
@@ -2851,6 +2958,7 @@
     "id": "BL9_plasma_halberd_mk3",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma halberd MK iii" },
     "description": "A refined and upgraded highly experimental futuristic halberd enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -2858,7 +2966,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
     "relic_data": {
       "passive_effects": [
@@ -2879,12 +2987,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma hammer MK iii" },
     "description": "A refined and upgraded highly experimental futuristic hammer enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -2892,7 +3001,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -2921,12 +3030,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_plasma_whip_mk3",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma whip MK iii" },
     "description": "A refined and upgraded highly experimental futuristic whip enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -2934,7 +3044,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
     "relic_data": {
       "passive_effects": [
@@ -2961,6 +3071,7 @@
     "id": "BL9_plasma_claws_mk3",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma claws MK iii" },
     "description": "Refined and upgraded highly experimental futuristic claws enhanced with the technology beyond human possibilities with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely heated ionized gasified BL9",
@@ -2968,8 +3079,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 1, "cut": 48 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 3, "cut": 48 },
     "relic_data": {
       "passive_effects": [
         {
@@ -2989,12 +3100,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_blade_mk3",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric blade MK iii" },
     "description": "A refined and upgraded highly experimental futuristic blade enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -3002,8 +3114,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 8, "cut": 40 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 10, "cut": 38 },
     "relic_data": {
       "passive_effects": [
         {
@@ -3039,6 +3151,7 @@
     "id": "BL9_electric_halberd_mk3",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric halberd MK iii" },
     "description": "A refined and upgraded highly experimental futuristic halberd enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -3046,7 +3159,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
     "relic_data": {
       "passive_effects": [
@@ -3067,12 +3180,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric hammer MK iii" },
     "description": "A refined and upgraded highly experimental futuristic hammer enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -3080,7 +3194,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -3109,12 +3223,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_electric_whip_mk3",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric whip MK iii" },
     "description": "A refined and upgraded highly experimental futuristic whip enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -3122,7 +3237,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
     "relic_data": {
       "passive_effects": [
@@ -3149,6 +3264,7 @@
     "id": "BL9_electric_claws_mk3",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric claws MK iii" },
     "description": "Refined and upgraded highly experimental futuristic claws enhanced with the technology beyond human possibilities with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, electrified arcs of BL9",
@@ -3156,8 +3272,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 1, "cut": 48 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 3, "cut": 48 },
     "relic_data": {
       "passive_effects": [
         {
@@ -3177,12 +3293,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_blade_mk3",
     "looks_like": "katana",
     "type": "TOOL",
+    "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid blade MK iii" },
     "description": "A refined and upgraded highly experimental futuristic blade enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -3190,8 +3307,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 8, "cut": 40 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 10, "cut": 38 },
     "relic_data": {
       "passive_effects": [
         {
@@ -3227,6 +3344,7 @@
     "id": "BL9_acid_halberd_mk3",
     "looks_like": "halberd",
     "type": "TOOL",
+    "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid halberd MK iii" },
     "description": "A refined and upgraded highly experimental futuristic halberd enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -3234,7 +3352,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
     "relic_data": {
       "passive_effects": [
@@ -3255,12 +3373,13 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "WIDE", "SWEEP", "tec_brawl_trip", "tec_medievalpole_highround", "tec_medievalpole_execute" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "POLEARM", "REACH_ATTACK", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
     "type": "TOOL",
+    "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid hammer MK iii" },
     "description": "A refined and upgraded highly experimental futuristic hammer enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -3268,7 +3387,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
     "relic_data": {
       "passive_effects": [
@@ -3297,12 +3416,13 @@
       "tec_krav_maga_crit",
       "tec_krav_maga_disarm"
     ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "BL9_acid_whip_mk3",
     "looks_like": "bullwhip_razor",
     "type": "TOOL",
+    "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid whip MK iii" },
     "description": "A refined and upgraded highly experimental futuristic whip enhanced with the technology beyond human possibilities with a unique design that uses BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -3310,7 +3430,7 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
     "relic_data": {
       "passive_effects": [
@@ -3337,6 +3457,7 @@
     "id": "BL9_acid_claws_mk3",
     "looks_like": "bio_claws_weapon",
     "type": "TOOL",
+    "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid claws MK iii" },
     "description": "Refined and upgraded highly experimental futuristic claws enhanced with the technology beyond human possibilities with a unique design that use BL9 capable of changing it's physical and chemical structure to cause various offensive effects, in this case, extremely corrosive stream of BL9",
@@ -3344,8 +3465,8 @@
     "volume": "1485 ml",
     "price": "400 USD",
     "price_postapoc": "60 USD",
-    "to_hit": 1,
-    "melee_damage": { "bash": 1, "cut": 48 },
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
+    "melee_damage": { "bash": 3, "cut": 48 },
     "relic_data": {
       "passive_effects": [
         {
@@ -3365,7 +3486,7 @@
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ]
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
   {
     "id": "buildinggoesboomhahafunny",
@@ -3375,7 +3496,6 @@
     "volume": "0 L",
     "weight": "0 kg",
     "price": "0 cent",
-    "to_hit": -2,
     "melee_damage": { "bash": 1 },
     "material": [ "veggy" ],
     "symbol": "0",
@@ -3391,7 +3511,6 @@
     "volume": "0 L",
     "weight": "0 kg",
     "price": "0 cent",
-    "to_hit": -2,
     "melee_damage": { "bash": 1 },
     "material": [ "veggy" ],
     "symbol": "0",
@@ -3401,6 +3520,220 @@
     "turns_per_charge": 1,
     "use_action": { "type": "cast_spell", "spell_id": "buildinggoesboomhahafunny_boom", "no_fail": true, "level": 0 },
     "flags": [ "ZERO_WEIGHT" ]
+  },
+  {
+    "id": "BL9_trader_transmitter",
+    "type": "TOOL",
+    "name": { "str": "Strange Trader Transmitter" },
+    "description": "Transmitter left by an unknown person, a merchant of some kind, you can see what's written on it 'Got a selection of GOOD things on sale, stranger! If you are looking to trade, have questions, don't hesitate to send a signal, I will come to trade with you, to answer your questions. I accept gold along with platinum coins combinations as currency, I also ask for scrap metal for some of sophisticated things. Now, answers to questions along with directions are free, of course'",
+    "weight": "85 g",
+    "volume": "15 ml",
+    "price": "500 USD",
+    "price_postapoc": "5 USD",
+    "material": [ "plastic", "steel" ],
+    "looks_like": "camera",
+    "symbol": "[",
+    "use_action": {
+      "type": "place_npc",
+      "npc_class_id": "BL9_trader",
+      "summon_msg": "Strange Trader approaches you, saying 'What are you buying? What do you wanna ask?'",
+      "place_randomly": false,
+      "moves": 2100
+    },
+    "color": "blue",
+    "flags": [ "SINGLE_USE", "NO_SALVAGE", "NPC_SAFE", "INEDIBLE" ]
+  },
+  {
+    "id": "bot_manhack_BL9_mk1",
+    "looks_like": "bot_manhack",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 Manhack MK i" },
+    "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 manhacks becomes stronger, greater at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
+    "weight": "1500 g",
+    "volume": "750 ml",
+    "price": "600 USD",
+    "price_postapoc": "5 USD",
+    "material": [ "aluminum", "plastic" ],
+    "symbol": ",",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_manhack_mk1",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE", "ROBOFAC_ROBOT_SMALL" ],
+    "melee_damage": { "bash": 6, "cut": 6 }
+  },
+  {
+    "id": "bot_manhack_BL9_mk2",
+    "looks_like": "bot_manhack",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 Manhack MK ii" },
+    "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 manhacks becomes stronger, greater at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
+    "weight": "1500 g",
+    "volume": "750 ml",
+    "price": "600 USD",
+    "price_postapoc": "5 USD",
+    "material": [ "aluminum", "plastic" ],
+    "symbol": ",",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_manhack_mk2",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE", "ROBOFAC_ROBOT_SMALL" ],
+    "melee_damage": { "bash": 6, "cut": 6 }
+  },
+  {
+    "id": "bot_manhack_BL9_mk3",
+    "looks_like": "bot_manhack",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 Manhack MK iii" },
+    "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 manhacks becomes stronger, greater at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
+    "weight": "1500 g",
+    "volume": "750 ml",
+    "price": "600 USD",
+    "price_postapoc": "5 USD",
+    "material": [ "aluminum", "plastic" ],
+    "symbol": ",",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_manhack_mk3",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE", "ROBOFAC_ROBOT_SMALL" ],
+    "melee_damage": { "bash": 6, "cut": 6 }
+  },
+  {
+    "id": "bot_manhack_BL9_mk4",
+    "looks_like": "bot_manhack",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 Manhack MK iv" },
+    "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. This is the highest mark of BL9 manhacks, it's the strongest, greatest of them all at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
+    "weight": "1500 g",
+    "volume": "750 ml",
+    "price": "600 USD",
+    "price_postapoc": "5 USD",
+    "material": [ "aluminum", "plastic" ],
+    "symbol": ",",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_manhack_mk4",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE", "ROBOFAC_ROBOT_SMALL" ],
+    "melee_damage": { "bash": 6, "cut": 6 }
+  },
+  {
+    "id": "bot_ugv_BL9_mk1",
+    "looks_like": "bot_talon_m202a1",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 UGV MK i" },
+    "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 UGVs becomes stronger, greater at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
+    "weight": "40750 g",
+    "volume": "30 L",
+    "price": "7500 USD",
+    "price_postapoc": "30 USD",
+    "material": [ "steel" ],
+    "symbol": ";",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_ugv_mk1",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE" ],
+    "melee_damage": { "bash": 8 }
+  },
+  {
+    "id": "bot_ugv_BL9_mk2",
+    "looks_like": "bot_talon_m202a1",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 UGV MK ii" },
+    "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 UGVs becomes stronger, greater at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
+    "weight": "40750 g",
+    "volume": "30 L",
+    "price": "7500 USD",
+    "price_postapoc": "30 USD",
+    "material": [ "steel" ],
+    "symbol": ";",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_ugv_mk2",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE" ],
+    "melee_damage": { "bash": 8 }
+  },
+  {
+    "id": "bot_ugv_BL9_mk3",
+    "looks_like": "bot_talon_m202a1",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 UGV MK iii" },
+    "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 UGVs becomes stronger, greater at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
+    "weight": "40750 g",
+    "volume": "30 L",
+    "price": "7500 USD",
+    "price_postapoc": "30 USD",
+    "material": [ "steel" ],
+    "symbol": ";",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_ugv_mk3",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE" ],
+    "melee_damage": { "bash": 8 }
+  },
+  {
+    "id": "bot_ugv_BL9_mk4",
+    "looks_like": "bot_talon_m202a1",
+    "type": "TOOL",
+    "name": { "str": "inactive BL9 UGV MK iv" },
+    "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. This is the highest mark of BL9 UGVs, which is the strongest, greatest of them all at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
+    "weight": "40750 g",
+    "volume": "30 L",
+    "price": "7500 USD",
+    "price_postapoc": "30 USD",
+    "material": [ "steel" ],
+    "symbol": ";",
+    "color": "light_green",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_BL9_ugv_mk4",
+      "difficulty": 1,
+      "moves": 196,
+      "place_randomly": false,
+      "skills": [ "electronics", "computer" ]
+    },
+    "flags": [ "SINGLE_USE", "NO_SALVAGE" ],
+    "melee_damage": { "bash": 8 }
   },
   {
     "id": "BL9_repair_soldering",
@@ -3422,13 +3755,29 @@
       {
         "type": "repair_item",
         "item_action_type": "repair_metal",
-        "materials": [ "BL9", "BL9_mk2", "BL9_mk2_mid1", "BL9_mk2_mid2", "BL9_mid1", "BL9_mid2", "steel", "plastic" ],
+        "materials": [
+          "BL9",
+          "BL9_mid1",
+          "BL9_mid2",
+          "BL9_hitech",
+          "BL9_hitech_mid1",
+          "BL9_hitech_mid2",
+          "BL9_mk2",
+          "BL9_mk2_mid1",
+          "BL9_mk2_mid2",
+          "BL9_hitech_mk2",
+          "BL9_hitech_mk2_mid1",
+          "BL9_hitech_mk2_mid2",
+          "plastic",
+          "superalloy",
+          "steel"
+        ],
         "skill": "fabrication",
         "cost_scaling": 0.15,
         "move_cost": 845
       }
     ],
-    "flags": [ "SPEAR", "BELT_CLIP", "ALLOWS_REMOTE_USE" ],
+    "flags": [ "BELT_CLIP", "ALLOWS_REMOTE_USE" ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",

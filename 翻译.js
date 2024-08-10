@@ -88,8 +88,8 @@ async function qwenTextGenerate(promptValue) {
           "content": `你是一名专业翻译员，擅长使用AI工具翻译我输入的内容。
           目标语言：中文
           优化要点：语法纠正、符合正常中文表达、适应中国文化
-          要求：尽量使用我上传的文件中专业术语的表达，但在意思严重冲突下不需要符合文件中的翻译
-          特别注意：保持原意，优化语言流畅性和准确性，这是CDDA大灾变中的游戏内容，确保它符合一个丧尸病毒爆发后的世界，直接输出内容，不用跟我解释为什么要那样翻译，除了有非常特殊的情况，比如运用了俚语或者典故之类的`
+          要求：尽量使用我上传的文件中专业术语的表达，但在意思严重冲突下不需要符合文件中的翻译；形如'<color>'的尖括号包裹的内容保持原样不要改变
+          特别注意：保持原意，优化语言流畅性和准确性，这是CDDA大灾变中的游戏内容，确保它符合一个丧尸病毒爆发后的世界，只输出翻译后的内容，不要作任何解释`
         },
         {
           "role": "user",
@@ -117,7 +117,7 @@ async function qwenTextGenerate(promptValue) {
 
     if (!response.ok) {
       const errorData = await response.json();
-      throw new Error(`API请求失败，状态码：${response.status}，错误代码：${errorData.code}，错误信息：${errorData.message}, key: ${apiKey}`);
+      throw new Error(`API请求失败，状态码：${response.status}，错误代码：${errorData.code}，错误信息：${errorData.message}`);
     }
 
     // 解析响应数据
@@ -253,15 +253,16 @@ function tryTranslation(value) {
           }
           lastResult = result;
           retryCount = number;
-          retry();
+          return retry(new Error('Translation failed'));
         })
         .catch((error) => {
           logger.error('Translate failed', error.message, `stringToTranslate:\n${stringToTranslate}`);
           retryCount = number;
-          retry();
+          return new Promise((resolve) => setTimeout(resolve, 2000))
+            .then(retry);
         });
     },
-    { retries: 1, maxTimeout: 10000, randomize: true }
+    { retries: 10, maxTimeout: 10000, randomize: true }
   ).catch((error) => {
     const errorMessage = `${TRANSLATION_ERROR}1: ${error?.message} ${error?.stack}\nresult:\n${lastResult}\nFrom:\n${value}\nstringToTranslate:\n${stringToTranslate}\nRetryCount: ${retryCount}\nRetry Again\n--\n\n `;
     logger.error(errorMessage);
@@ -294,7 +295,7 @@ function kvToParatranz(kvTranslationsCache, stages, contexts) {
         original,
         translation,
         context: contexts[original],
-        stage: stages[original],
+        stage: stages[original] ?? 0,
       };
     }),
     'original'
@@ -417,6 +418,7 @@ class ModCache {
       this.stages[value] = 1;
     } else {
       sharedTranslationCache[key] = `${sharedTranslationCache[key]}\n\n${value}`;
+      this.stages[value] = 0;
     }
     this.debouncedWriteTranslationCache();
   }
@@ -509,7 +511,7 @@ async function translateWithCache(value, modTranslationCache, context) {
   } else {
     // 没有缓存，就更新缓存
     logger.log(`No Cached Translation for ${value}\n`);
-    translatedValue = await tryTranslation(value);
+    translatedValue = value;
     logger.log(`New Translation ${value}\n -> ${translatedValue}\n`);
     modTranslationCache.insertToCache(value, translatedValue);
   }
@@ -706,6 +708,9 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     if (useAction.activation_message) {
       useAction.activation_message = await translateFunction(useAction.activation_message);
     }
+    if(useAction.summon_msg){
+      useAction.summon_msg = await translateFunction(useAction.summon_msg);
+    }
     await messageOrMessages(useAction);
     if (useAction.msg) {
       useAction.msg = await translateFunction(useAction.msg);
@@ -727,6 +732,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     }
     if (useAction.menu_text) {
       useAction.menu_text = await translateFunction(useAction.menu_text);
+    }
+    if(Array.isArray(useAction?.player_descriptions)){
+      useAction.player_descriptions = await Promise.all(useAction.player_descriptions.map((player_descriptions) => translateFunction(player_descriptions)));
+    }
+    if(typeof useAction?.player_descriptions === 'string'){
+      useAction.player_descriptions = await translateFunction(useAction.player_descriptions)
+    }
+    if(Array.isArray(useAction?.npc_descriptions)){
+      useAction.npc_descriptions = await Promise.all(useAction.npc_descriptions.map((npc_descriptions) => translateFunction(npc_descriptions)));
+    }
+    if(typeof useAction?.npc_descriptions === 'string'){
+      useAction.npc_descriptions = await translateFunction(useAction.npc_descriptions)
     }
   };
   const attacks = async (item) => {
@@ -863,6 +880,79 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   };
 
   const dynamicLine = async (line) => {
+    if (line?.concatenate) {
+      // let now = line.concatenate;
+      // if (typeof now === 'object'){
+      //   while(now?.no && typeof now.no !== 'string'){
+      //     now.yes = await translateFunction(now.yes);
+      //     now = now.no;
+      //   }
+      //   if(now?.yes){
+      //     now.yes = await translateFunction(now.yes);
+      //   }
+      //   if(now?.no){
+      //     now.no = await translateFunction(now.no);
+      //   }
+      // }
+      if (Array.isArray(line?.concatenate)){
+        await Promise.all(line.concatenate.map(async (item) => {
+          if (typeof item?.yes === 'string') {
+            item.yes = await translateFunction(item.yes);
+          }
+          if(Array.isArray(item?.yes)){
+            item.yes = await Promise.all(item.yes.map((yes) => translateFunction(yes)));
+          }
+          if (typeof item?.no === 'string') {
+            item.no = await translateFunction(item.no);
+          }
+          if(Array.isArray(item?.no)){
+            item.no = await Promise.all(item.no.map((no) => translateFunction(no)));
+          }
+          let now;
+          // typeof无法区分不是array的object
+          if((item?.yes && Object.getPrototypeOf(item?.yes) === Object.prototype) || (item?.no && Object.getPrototypeOf(item?.no) === Object.prototype)){
+            if(item?.yes && Object.getPrototypeOf(item?.yes) === Object.prototype){
+              now = item.yes
+            }
+            if(item?.no && Object.getPrototypeOf(item?.no) === Object.prototype){
+              now = item.no
+            }
+            while ((now?.yes && Object.getPrototypeOf(now?.yes) === Object.prototype) || (now?.no && Object.getPrototypeOf(now?.no) === Object.prototype)){
+              if(now?.yes && Object.getPrototypeOf(now?.yes) === Object.prototype){
+                if(typeof now?.no === 'string') {
+                  now.no = await translateFunction(now.no);
+                }
+                if(Array.isArray(now?.no)){
+                  now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
+                }
+                now = now.yes
+              }
+              if(now?.no && Object.getPrototypeOf(now?.no) === Object.prototype){
+                if(typeof now?.yes === 'string') {
+                  now.yes = await translateFunction(now.yes);
+                }
+                if(Array.isArray(now?.yes)){
+                  now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
+                }
+                now = now.no
+              }
+            }
+            if (typeof now?.yes === 'string') {
+              now.yes = await translateFunction(now.yes);
+            }
+            if(Array.isArray(now?.yes)){
+              now.yes = await Promise.all(now.yes.map((yes) => translateFunction(yes)));
+            }
+            if (typeof now?.no === 'string') {
+              now.no = await translateFunction(now.no);
+            }
+            if(Array.isArray(now?.no)){
+              now.no = await Promise.all(now.no.map((no) => translateFunction(no)));
+            }
+          }
+        }))
+      }
+    }
     if (typeof line.yes === 'string') {
       line.yes = await translateFunction(line.yes);
     } else if (typeof line.yes === 'object') {
@@ -891,6 +981,8 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
             if (res_effect.u_message) res_effect.u_message = await translateFunction(res_effect.u_message);
           }
         }
+        if (response?.effect && Object.getPrototypeOf(response?.effect) === Object.prototype)
+          response.effect.u_message = await translateFunction(response.effect.u_message)
       }
     }
     if (item.dynamic_line) {
@@ -1063,7 +1155,14 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
       item.dialogue.failure = await translateFunction(item.dialogue.failure);
     }
   };
-  translators.npc_class = noop;
+  translators.npc_class = async (item) => {
+    if(item?.name){
+      item.name = await translateFunction(item.name);
+    }
+    if(item?.job_description){
+      item.job_description = await translateFunction(item.job_description)
+    }
+  }
   translators.npc = npc;
   translators.trait_group = noop;
   translators.mapgen = noop;
@@ -1209,8 +1308,12 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
   translators.skill = namePlDesc;
   translators.snippet = async (item) => {
     if (Array.isArray(item.text)) {
-      for (const text of item.text) {
-        text.text = await translateFunction(text.text);
+      for (let text of item.text){
+        if (typeof text === 'string'){
+          text = await translateFunction(text)
+        } else if (typeof text === 'object'){
+          text.text = await translateFunction(text.text)
+        }
       }
     } else if (typeof item.text === 'string') {
       item.text = await translateFunction(item.text);
@@ -1277,6 +1380,18 @@ ${wikiSiteBase}${getContext(sourceModName, fullItem, index).replace('%', '%25')}
     item.verb = await translateFunction(item.verb);
   };
   translators.weakpoint_set = weakpoint_set;
+  translators.body_part = async (item) => {
+    item.name = await translateFunction(item.name);
+    item.name_multiple = await translateFunction(item.name_multiple);
+    item.accusative.str = await translateFunction(item.accusative.str);
+    item.heading = await translateFunction(item.heading);
+    item.heading_multiple = await translateFunction(item.heading_multiple);
+    item.encumbrance_text = await translateFunction(item.encumbrance_text);
+    item.smash_message = await translateFunction(item.smash_message);
+    if(item?.hp_bar_ui_text){
+      item.hp_bar_ui_text = await translateFunction(item.hp_bar_ui_text);
+    }
+  }
   
 
   return translators;

@@ -1215,9 +1215,9 @@
  {
   "key": "80edf809eebd5cd06f4ad216427d453b",
   "original": "An etherean silhouette emerges out of thin air, immediately attacking the foe that deals <color_light_gray>pure damage</color> and <color_yellow>grasps</color> at them.\n\nThis is a <color_light_gray>tier 2</color> spell.",
-  "translation": "一个以太轮廓从稀薄的空气中浮现，立即攻击敌人，造成<color_light_gray>点纯伤害</color>，<color_yellow>抓住</color>。\n\n这是一个<color_light_gray>的第2层</color>法术。",
+  "translation": "一个以太爪影从稀薄的空气中浮现出来，立即攻击敌人造成<color_light_gray>真实伤害</color>并且<color_yellow>抓住</color> 敌人。\n\n这是一个<color_light_gray>二阶</color>法术。",
   "context": "ID: t2_mana_etherealstrike\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T2.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t2_mana_etherealstrike\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "9aa9ba8be5477a0d24c15032a2b7f840",
@@ -2527,9 +2527,9 @@
  {
   "key": "d69017000f2c4d2dc07092a5af15bbbe",
   "original": "Exerxium",
-  "translation": "练习",
+  "translation": "咒炎",
   "context": "ID: t1_elem_exerxium\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_exerxium\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a1a698ed9bd0897ab0578ac2114397ff",
@@ -2695,7 +2695,7 @@
   "original": "Frost",
   "translation": "霜冻",
   "context": "ID: t1_elem_frost\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_frost\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "68abcc3d0869f8a52c2b286b3c511dd3",
@@ -2913,6 +2913,13 @@
   "translation": "枪店店主",
   "context": "ID: VAMP_GUNSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc.json\n类型为 npc\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc→VAMP_GUNSHOP\n",
   "stage": 3
+ },
+ {
+  "key": "d1208f9ac821415caaff410e9bfcf1b7",
+  "original": "Gunshop owner.",
+  "translation": "Gunshop owner.",
+  "context": "ID: V_GUNSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_GUNSHOP\n",
+  "stage": 1
  },
  {
   "key": "22d76f5243e5177700cbb348ea09e231",
@@ -3346,6 +3353,13 @@
   "stage": 3
  },
  {
+  "key": "984977f270e7c88cc6980b97133a4044",
+  "original": "I hide at wastelands.",
+  "translation": "I hide at wastelands.",
+  "context": "ID: H_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_WASTELAND\n",
+  "stage": 1
+ },
+ {
   "key": "c8598cf25134ba802ed89394b623e811",
   "original": "I just want you as an odd friend... I'm sorry.",
   "translation": "我只想把你当作一个朋友...抱歉。",
@@ -3483,6 +3497,13 @@
   "original": "I thank you for this rune.\n*Shatters it by hand*\n",
   "translation": "谢谢你给我这个符文。\n*手工粉碎*",
   "context": "ID: VAMP_LONELY_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest3\n",
+  "stage": 1
+ },
+ {
+  "key": "651c507aec60e0bf062bc0d443d4849c",
+  "original": "I trade at wastelands.",
+  "translation": "I trade at wastelands.",
+  "context": "ID: H_JUNKSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_JUNKSHOP\n",
   "stage": 1
  },
  {
@@ -3833,6 +3854,13 @@
   "translation": "有这样的地方吗？",
   "context": "ID: TALK_VAMP_LONELY_here\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Isolated/v_lo_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_LONELY_here\n",
   "stage": 3
+ },
+ {
+  "key": "d943ccf521afd89ca3b36cdb8ee5bbc6",
+  "original": "Isolated vampires.",
+  "translation": "Isolated vampires.",
+  "context": "ID: V_LONELY\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_LONELY\n",
+  "stage": 1
  },
  {
   "key": "8a95ad3ccb5f91f3870e63da1e38e077",
@@ -4602,9 +4630,9 @@
  {
   "key": "566c5c14a0b291ba4813a4d1662d29fd",
   "original": "Obliterates all foes with a devastating wave of profane magic, dealing immensive <color_light_gray>pure damage</color> within a wide cone.\n* 25% chance of <color_yellow>exhaustion</color>, depleting your stamina and weakens yourself for a short period of time.\n\nThis is a <color_red>tier 5</color> spell.",
-  "translation": "用毁灭性的亵渎魔法消灭所有敌人，在一个大圆锥体内造成巨大的<color_light_gray>点纯伤害</color>点。\n*25%的几率<color_yellow>精疲力竭</color>，耗尽你的耐力并在短时间内削弱自己。\n\n这是一个<color_red>第5层</color>法术。",
+  "translation": "以一道毁灭性的亵渎魔法波清除所有敌人，在锥形大范围内造成巨大的<color_light_gray>真实伤害</color>。\n有25%的几率导致<color_yellow>力竭</color>，耗尽你的耐力并使你虚弱一小段时间。\n\n这是一个<color_red>五阶</color>法术。",
   "context": "ID: t5_mana_megamagic\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_megamagic\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7e4d12635d939f4f846541ef5730e4db",
@@ -5098,7 +5126,7 @@
  {
   "key": "00c45436cf78e45189a9fc29bba56ab7",
   "original": "Robust leather binding over beautifully illuminated pages, this work of Profane Conjuration speaks to experts of its art.",
-  "translation": "这件亵渎神灵的作品以坚固的皮革装帧在美丽的发光页面上，向艺术专家讲述了它的艺术。",
+  "translation": "坚固的皮质装订搭配着精美装饰的页面，这部《亵渎咒法》之作向其艺术领域的行家发出了召唤。",
   "context": "ID: v_elem_T6_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_elem_T6_tome\n",
   "stage": 0
  },
@@ -5130,7 +5158,7 @@
  {
   "key": "01b09ed421a470de04c635640dd58c01",
   "original": "Sacrifices a massive amount of life force to summon a <color_brown>lingering aura</color> that <color_yellow>saps life</color> from all surrounding creatures, dealing constant <color_green>biological damage</color>.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "Sacrifices a massive amount of life force to summon a <color_brown>lingering aura</color> that <color_yellow>saps life</color> from all surrounding creatures, dealing constant <color_green>biological damage</color>.\n\nThis is a <color_magenta>tier 6</color> spell.",
+  "translation": "牺牲大量生命召唤一个<color_brown>持续的光环</color>，从周围所有生物处<color_yellow>吸取生命</color>，造成持续的<color_green>生化伤害</color>。\n\n这是一个<color_magenta>六阶</color>法术。",
   "context": "ID: t6_blood_desolation\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_desolation\n",
   "stage": 1
  },
@@ -5514,7 +5542,7 @@
   "original": "Stun",
   "translation": "心乱身术",
   "context": "ID: v_warlock_stun\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_warlock_stun\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6f32e5737d1b91d93df7470bda67f32e",
@@ -5561,9 +5589,9 @@
  {
   "key": "5ca5b93595160b6ce829eb9e139f0851",
   "original": "Summons the <color_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "Summons the <color_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell.",
+  "translation": "召唤出生物近战武器“<color_brown> 蛭之鞭 </color>”，持有此武器时若法术激活，会为使用者提供固定的属性加成（力量 +1，速度 +5），并将最大生命值提高10点。这是一道六级的“<color_magenta>”阶法术。",
   "context": "ID: t6_blood_leechswhip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_leechswhip\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "7bd1a7715a2314cf99a5f15e6cd8dae8",
@@ -5574,7 +5602,7 @@
  {
   "key": "a668ea62c92d16e5f780816069c1fa53",
   "original": "Summons the <color_light_blue>etherean silhouette</color>(s), striding through the world swiftly and are invulnerable to physical hazards.\n* These minions do not harm with brute strength, but casts a basic warlock spell at foe weights from <color_light_gray>tier 1</color> to <color_white>tier 3</color>. After the duration or casting any spell, they vanish.",
-  "translation": "召唤<color_light_blue>以太轮廓</color>（s），快速跨越世界，不受身体伤害。\n*这些仆从不会以蛮力伤害敌人，但会在<color_light_gray>第1层</color>到<color_white>第3层</color>之间对敌人施放一个基本的术士法术。持续时间或施法后，它们消失。",
+  "translation": "召唤出<color_light_blue>个以太幽影</color>，它们迅速穿越世界，对物理伤害免疫。这些仆从不以蛮力伤人，而是对敌人施放基础巫术咒语，咒语等级从<color_light_gray>级1阶</color>到<color_white>级3阶</color>不等。施法完毕或持续时间结束后，它们便会消失无踪。",
   "context": "ID: t5_mana_danceofthesilhouettes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_danceofthesilhouettes\n",
   "stage": 0
  },
@@ -6829,6 +6857,27 @@
   "stage": 1
  },
  {
+  "key": "a9c93d91da96c242fb448569dbeb0109",
+  "original": "Underground vampire commando.",
+  "translation": "Underground vampire commando.",
+  "context": "ID: V_UNDERCOMMANDO\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERCOMMANDO\n",
+  "stage": 1
+ },
+ {
+  "key": "772a8b6fdfd7be428e38aa916651c6fd",
+  "original": "Underground vampire refugees.",
+  "translation": "Underground vampire refugees.",
+  "context": "ID: V_UNDERREFUGEE\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERREFUGEE\n",
+  "stage": 1
+ },
+ {
+  "key": "ceea06d96039298b55478b9f6a466947",
+  "original": "Underground vampire traders.",
+  "translation": "Underground vampire traders.",
+  "context": "ID: V_UNDERTRADER\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERTRADER\n",
+  "stage": 1
+ },
+ {
   "key": "470eaa3865bff3cfbd3210809e046428",
   "original": "Underguard",
   "translation": "地下探索者",
@@ -7093,6 +7142,20 @@
   "translation": "荒地居民",
   "context": "ID: wastelander\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_faction.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→faction→wastelander\n",
   "stage": 3
+ },
+ {
+  "key": "ab3ff68df6a52e0b385bd737de341a41",
+  "original": "Wasteland refugee guard.",
+  "translation": "Wasteland refugee guard.",
+  "context": "ID: V_WASTEGUARD2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTEGUARD2\n",
+  "stage": 1
+ },
+ {
+  "key": "a836bcb7bd3a71388a644e95b374b224",
+  "original": "Wasteland refugees.",
+  "translation": "Wasteland refugees.",
+  "context": "ID: V_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTELAND\n",
+  "stage": 1
  },
  {
   "key": "f8f9004d247a9b9b1c7b6459c31b7170",
@@ -7705,9 +7768,9 @@
  {
   "key": "710032237ec02fba368633215aa0be26",
   "original": "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
-  "translation": "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
+  "translation": "你获得了<color_brown>点虚幻附魔</color>，使你的攻击感觉更为轻盈，却能更深入地打击对手的内在。\n*如果装备着，你的攻击将获得<color_light_yellow>点无视20点护甲的能力</color>，并且其消耗减少15。\n\n这是一道<color_magenta>六阶</color>法术。",
   "context": "ID: t6_mana_etherealenchantment\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_etherealenchantment\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "5d0e0b4f2c79110a53558e485e505568",
@@ -7872,9 +7935,9 @@
  {
   "key": "be39acc1125aea742e6473da2597d980",
   "original": "You withdraw for a very short moment, covering your whole body with <color_brown>thick blood layer</color> that nullifies most physical damage. This thick layer does not burden you in any way.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "You withdraw for a very short moment, covering your whole body with <color_brown>thick blood layer</color> that nullifies most physical damage. This thick layer does not burden you in any way.\n\nThis is a <color_magenta>tier 6</color> spell.",
+  "translation": "你瞬间退避，全身覆盖上<color_brown>浓稠血层</color>，浓稠血层能有效抵御大部分物理伤害，且对你行动毫无阻碍。\n\n这是一个<color_magenta>六阶</color>法术。",
   "context": "ID: t6_blood_crimsoncoat\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_crimsoncoat\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b27d711e36e6023fd6200c54e8bf6b11",
@@ -8943,15 +9006,15 @@
  {
   "key": "893c217e78e84abe7074167f145056d0",
   "original": "你将教堂的地址添加到地图中。",
-  "translation": "你将教堂的地址添加到地图中。",
+  "translation": "你把教堂的位置标注在了地图上。",
   "context": "ID: crypt_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→crypt_map\n",
-  "stage": 1
+  "stage": 0
  },
  {
   "key": "f3d56ae1946b4bf1b509ebf31c06fa0f",
   "original": "你把吸血鬼湾的地址添加到地图中。",
-  "translation": "你把吸血鬼湾的地址添加到地图中。",
+  "translation": "你已将吸血鬼湾的位置标注在了地图上。",
   "context": "ID: vampcave_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→vampcave_map\n",
-  "stage": 1
+  "stage": 0
  }
 ]
