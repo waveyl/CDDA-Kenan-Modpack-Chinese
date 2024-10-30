@@ -1323,7 +1323,7 @@
   "original": "A nearby vengeful spirit takes control!",
   "translation": "附近的怨灵掌握了控制权！",
   "context": "ID: kaenbyou_vspossess_kill_monster_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_vspossess_kill_monster_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2e32a8cb700058569ea1f366ed09e20a",
@@ -1855,7 +1855,7 @@
   "original": "A white button-up shirt with short, puffy sleeves.  There's black laces at the sleeves and another crossing it in the middle.",
   "translation": "一件白色短袖衬衫，袖子蓬松。袖口有黑色花边装饰，中间还有一条黑色十字花边点缀。",
   "context": "ID: tengu_shirt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_tengu_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→tengu_shirt\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "76fbbf07ed67f4846f7542b825a02ba1",
@@ -1968,7 +1968,7 @@
  {
   "key": "d6e90a8c94ad2f2ba695ccd9c29c8bfe",
   "original": "Adds Touhou Project characters as professions.  Coregame balance not guaranteed.",
-  "translation": "增加东方Project中的人物作为职业。不保证平衡性。\n需要在“场景”里选择东方职业\n建议使用 Chibi_Ultica 或 MSXotto+ 贴图包以显示头发（当前仅支持秦心、妹红、咲夜、铃仙和妖梦）",
+  "translation": "增加东方Project中的人物作为职业。不保证平衡性。\n需要在“场景”里选择东方职业\n建议使用Undead_People、Chibi_Ultica 或 MSXotto+ 贴图包以显示头发（当前仅支持秦心、妹红、咲夜、铃仙和妖梦）",
   "context": "ID: Touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/modinfo.json\n类型为 MOD_INFO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MOD_INFO→Touhou\n",
   "stage": 3
  },
@@ -2046,21 +2046,18 @@
   "key": "8db5fe0c7f35c1d4075483ea3d8f1f13",
   "original": "Allows you to fly over ledges.",
   "translation": "允许你飞跃露台。",
-  "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
   "stage": 3
  },
  {
   "key": "0455c9700ee97b36230a570481ea653b",
   "original": "Allows you to fly over ledges.  Also increases your movement speed when not running.",
   "translation": "允许你飞跃露台。并且增加你非奔跑时的移动速度。",
-  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
   "stage": 3
  },
  {
   "key": "eb98380ec5229f32fd8fe16aaba5a1f5",
   "original": "Allows you to fly over ledges.  Also increases your movement speed.",
   "translation": "允许你飞跃露台。并且增加你的移动速度。",
-  "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n",
   "stage": 3
  },
  {
@@ -2149,9 +2146,9 @@
  {
   "key": "a7dc76ae5c94ac9a5b8d478dd9ef2ebf",
   "original": "An open gap in space.",
-  "translation": "太空中的一道隙间。",
+  "translation": "空间中的一道隙间。",
   "context": "ID: t_wall_hole\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/terrain_furniture/touhou_magic_terrain.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→terrain→t_wall_hole\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d0923a724450bfc2b0363ac8998ad0a4",
@@ -2427,6 +2424,13 @@
   "translation": "引导动物的能力",
   "context": "ID: kasen_charm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_charm\n",
   "stage": 3
+ },
+ {
+  "key": "125f17dd72368fb91688463af0c02a6d",
+  "original": "Bigu (accelerated)",
+  "translation": "Bigu (accelerated)",
+  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_calorieburn\n",
+  "stage": 1
  },
  {
   "key": "9c822df42513413c5ab9b10961403a84",
@@ -2757,9 +2761,9 @@
  {
   "key": "2ed910c4ca84e9c5392b991681844df4",
   "original": "CHAINED",
-  "translation": "束缚",
+  "translation": "CHAINED",
   "context": "ID: kaenbyou_corpseexplosion_chain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kaenbyou_corpseexplosion_chain\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c666d22228915f0663b2331570b922e4",
@@ -2792,9 +2796,9 @@
  {
   "key": "18d3ffdd79d690b9eb2ac868d21274c3",
   "original": "Call forth any of your pets at the location, but for a moment.  They're so eager to help you, they intersect each other through the portal, so they show up at random.",
-  "translation": "暂时在当前位置召唤出你四只动物朋友中的其一。 They're so eager to help you, they intersect each other through the portal, so they show up at random.",
+  "translation": "暂时在当前位置召唤出你四只动物朋友中的其一。 它们非常渴望帮助你，甚至于争着通过传送术式——这使得他们会随机出现。",
   "context": "ID: kasen_summon_pet\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_summon_pet\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "058904c401a0bc1caa3268725c507738",
@@ -2845,7 +2849,6 @@
   "key": "1b53181a9ad156c22b2d1d310329c09b",
   "original": "Calories to mana",
   "translation": "卡路里转为魔力",
-  "context": "ID: kasen_calorieburn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_calorieburn\n",
   "stage": 3
  },
  {
@@ -3048,9 +3051,9 @@
  {
   "key": "af0f4110783626e592a7cefe2f2a99f6",
   "original": "Channel for a short time, blasting the target location with a circle of <color_red>h</color><color_magenta>ell</color><color_red>fire</color>, instantly dealing damage and heavily burning them over time.",
-  "translation": "Channel for a short time, blasting the target location with a circle of <color_red>h</color><color_magenta>ell</color><color_red>fire</color>, instantly dealing damage and heavily burning them over time.",
+  "translation": "引导一小段时间，在目标位置爆发出一轮<color_red>地</color><color_magenta>狱</color><color_red>炎</color>，立即造成伤害并随着时间的推移造成严重烧伤。",
   "context": "ID: kaenbyou_blazingwheel2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kaenbyou.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kaenbyou_blazingwheel2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "754cc6c4d6efb019c45143d33e918a6e",
@@ -3285,9 +3288,9 @@
  {
   "key": "030d7526c4b7407d7cc3023ed1a1e37f",
   "original": "Convert scrap and chunks of human metal into kappascrap.",
-  "translation": "Convert scrap and chunks of human metal into kappascrap.",
+  "translation": "将人类的金属废料或块转化为河童废料。",
   "context": "ID: nitori_transformate_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5ff3fc54fa816721462564e0829187ac",
@@ -4751,10 +4754,16 @@
   "stage": 3
  },
  {
+  "key": "1ae1e488ab83d9aad7fd0cbea791b429",
+  "original": "Earthquake signs (bash)",
+  "translation": "Earthquake signs (bash)",
+  "context": "ID: tenko_earthquake2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_earthquake2\n",
+  "stage": 1
+ },
+ {
   "key": "d88acc759074bf88116b4916510e024e",
   "original": "Earthquake signs (terrain bash)",
   "translation": "Earthquake signs (terrain bash)",
-  "context": "ID: tenko_earthquake2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_earthquake2\n",
   "stage": 3
  },
  {
@@ -4810,7 +4819,7 @@
   "key": "b1f8bea0dcbb2faa867af15d3b44e7cf",
   "original": "Emotionless and expressive Menreiki",
   "translation": "能面且感情丰富的面灵气",
-  "context": "ID: PROF_KOKORO_morale\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KOKORO_morale\n",
+  "context": "ID: PROF_KOKORO\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_KOKORO\n",
   "stage": 3
  },
  {
@@ -5486,9 +5495,9 @@
  {
   "key": "065ce595a7e8f3d4fcf7a7ca94d86560",
   "original": "Forcefully take away the life essence of the target.  If the target is a human or close enough, it also <color_light_green>heals</color> and <color_light_red>feeds</color> you as if you drank their blood.",
-  "translation": "Forcefully take away the life essence of the target.  If the target is a human or close enough, it also <color_light_green>heals</color> and <color_light_red>feeds</color> you as if you drank their blood.",
+  "translation": "强制带走目标的生命精华。如果目标是人类或足够靠近，还会因为吸收了血液而获得<color_light_green></color>治疗并<color_light_red>饱腹</color>。",
   "context": "ID: remilia_darkdrain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→remilia_darkdrain\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7a15e6fe9074dd2ad4105ad4b6a8e29e",
@@ -7107,6 +7116,13 @@
   "stage": 3
  },
  {
+  "key": "101b16a364f71f784bcc3ce47a7c5053",
+  "original": "Keystone crash (bash)",
+  "translation": "Keystone crash (bash)",
+  "context": "ID: tenko_keystonecrash4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash4\n",
+  "stage": 1
+ },
+ {
   "key": "fec41f19d47ccbcb62f9283dab16b38c",
   "original": "Keystone crash (bonus dmg)",
   "translation": "要石冲撞（附加伤害）",
@@ -7136,7 +7152,6 @@
   "key": "06d6d9cfb49f457a0f27f7d6f6742f80",
   "original": "Keystone crash (terrain bash)",
   "translation": "Keystone crash (terrain bash)",
-  "context": "ID: tenko_keystonecrash4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_keystonecrash4\n",
   "stage": 3
  },
  {
@@ -7296,6 +7311,13 @@
   "translation": "Knockin component of dash_meiling . This is casted so the target moves to the tile next to Meiling",
   "context": "ID: dash_meiling7\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_meiling7\n",
   "stage": 3
+ },
+ {
+  "key": "2a943231ba13dc4719749d9e2173a8ba",
+  "original": "Kokoro mood",
+  "translation": "Kokoro mood",
+  "context": "ID: KOKORO_MORALE_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KOKORO_MORALE_1\n",
+  "stage": 1
  },
  {
   "key": "0559cb1b0c3ad7b904e7536b0135331a",
@@ -8285,6 +8307,13 @@
   "stage": 3
  },
  {
+  "key": "a42bfef310ff38b56307d61c6c9afef0",
+  "original": "Nuclear explosion (fission) (bash)",
+  "translation": "Nuclear explosion (fission) (bash)",
+  "context": "ID: utsuho_nuke5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke5\n",
+  "stage": 1
+ },
+ {
   "key": "674850c4bbc2b1578f3c69852d1a3057",
   "original": "Nuclear explosion (fission) (glassing)",
   "translation": "Nuclear explosion (fission) (glassing)",
@@ -8295,7 +8324,6 @@
   "key": "983aa96f4cab438f7a95eef8e1134b6d",
   "original": "Nuclear explosion (fission) (terrain bash)",
   "translation": "核能爆发",
-  "context": "ID: utsuho_nuke5\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke5\n",
   "stage": 3
  },
  {
@@ -8403,23 +8431,23 @@
  {
   "key": "230f849a278209537c87d94b5e630d5e",
   "original": "Open and traverse through exit point 1.",
-  "translation": "Open and traverse through exit point 1.",
+  "translation": "开启并穿过“出”点壹。",
   "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6bc5b727ace884fdbb10420741be1c47",
   "original": "Open and traverse through exit point 2.",
-  "translation": "Open and traverse through exit point 2.",
+  "translation": "开启并穿过“出”点贰。",
   "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f2ffd11dcddfdeebfc4460b62cc62ca5",
   "original": "Open and traverse through exit point 3.",
-  "translation": "Open and traverse through exit point 3.",
+  "translation": "开启并穿过“出”点叁。",
   "context": "ID: kasen_fangshu_move_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_move_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0fa87118e51038622869076b4e9924eb",
@@ -9224,10 +9252,16 @@
   "stage": 3
  },
  {
+  "key": "f61b53fd700148c7904a0de9b9ddf232",
+  "original": "Red energy release (bash)",
+  "translation": "Red energy release (bash)",
+  "context": "ID: meiling_redrelease2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_redrelease2\n",
+  "stage": 1
+ },
+ {
   "key": "983acd8de075d34df25eeba6807b456f",
   "original": "Red energy release (terrain bash)",
   "translation": "红寸劲（地形猛击）",
-  "context": "ID: meiling_redrelease2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_redrelease2\n",
   "stage": 3
  },
  {
@@ -9332,7 +9366,7 @@
   "original": "Release spheres of chaotic bioelectricity that track your enemies, sacrificing themselves in the process of defending you.",
   "translation": "释放追踪敌人的混乱生物电球，他们会在守护你的过程中自我牺牲。",
   "context": "ID: seiga_foetusmovement\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_foetusmovement\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a6f443d7827cc40921650ccab05f1676",
@@ -10032,9 +10066,9 @@
  {
   "key": "6c909144584d23220d069e3d68dccd30",
   "original": "Set one of three exit points to traverse through.  Costs 133 mana.",
-  "translation": "Set one of three exit points to traverse through.  Costs 133 mana.",
+  "translation": "设置可供穿越的三“出”点中的其一。消耗 133 魔力。",
   "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bbf4d3a7f56345eec13abfd183e9a539",
@@ -10360,9 +10394,9 @@
  {
   "key": "fc86444d54fae41899d83684f8e47d16",
   "original": "Slash repeatedly and very quickly in front of you.  \nRequires a sword.",
-  "translation": "Slash repeatedly and very quickly in front of you.  \nRequires a sword.",
+  "translation": "对前方进行高速的连续斩击。\n需要一把剑。（霓虹特有的刀剑不分）",
   "context": "ID: youmu_slasheternal\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slasheternal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ca3b0ab68ef3d96b455d4acee0b93f46",
@@ -11305,8 +11339,8 @@
  {
   "key": "033bd94b1168d7e4f0d644c3c95e35bf",
   "original": "TEST",
-  "translation": "测试",
-  "stage": 1
+  "translation": "TEST",
+  "stage": 3
  },
  {
   "key": "f9bd9df6a94886b0b1cfc159f3e0cd66",
@@ -12064,6 +12098,13 @@
   "stage": 3
  },
  {
+  "key": "269b654d4efb202b88c406a441d87974",
+  "original": "This is Kokoro's default mood, which is hidden.  If she gets upset enough, it transforms into below, used to activate its EOC",
+  "translation": "This is Kokoro's default mood, which is hidden.  If she gets upset enough, it transforms into below, used to activate its EOC",
+  "context": "ID: KOKORO_MORALE_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→KOKORO_MORALE_1\n",
+  "stage": 1
+ },
+ {
   "key": "a2de15ea39254bde6dad10dd86101d54",
   "original": "This is a hidden spell that runs from nitori_melee_attack_eoc when Nitori attacks a turret. It <color_light_green>heals</color> the turret in function of her weapon dmg at the moment",
   "translation": "This is a hidden spell that runs from nitori_melee_attack_eoc when Nitori attacks a turret. It <color_light_green>heals</color> the turret in function of her weapon dmg at the moment",
@@ -12533,9 +12574,9 @@
  {
   "key": "5f2b29b3f8903498ffffb6cd16bb35f2",
   "original": "Transformate.  Current kappascrap amount: <u_val:var_kappascrap>.",
-  "translation": "Transformate.  Current kappascrap amount： <u_val：var_kappascrap>。",
+  "translation": "转化器。目前的河童废料数：<u_val:var_kappascrap>",
   "context": "ID: nitori_transformate_build_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs_nitori.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_transformate_build_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3891fb4d34888c4d2ec0b7de88b25aad",
@@ -12546,9 +12587,9 @@
  {
   "key": "6243900821eab78ae85b7091d0d14277",
   "original": "Traverse through any previously placed exit points.",
-  "translation": "Traverse through any previously placed exit points.",
+  "translation": "使用先前创建的“出”点进行移动。",
   "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "644edc8fadfbd5aee5b6caf0449013e6",
@@ -12811,6 +12852,13 @@
   "stage": 3
  },
  {
+  "key": "9aeb42c732a437c84b0f58012febb4d4",
+  "original": "Unletting soil (bash)",
+  "translation": "Unletting soil (bash)",
+  "context": "ID: tenko_unletting_soil4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil4\n",
+  "stage": 1
+ },
+ {
   "key": "9407e7ead51a584aea3110742fbf43d0",
   "original": "Unletting soil (cc)",
   "translation": "Unletting soil (cc)",
@@ -12834,7 +12882,6 @@
   "key": "d4b08834ed9aa1c7894579b02df81acb",
   "original": "Unletting soil (terrain bash)",
   "translation": "Unletting soil (terrain bash)",
-  "context": "ID: tenko_unletting_soil4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_tenko.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→tenko_unletting_soil4\n",
   "stage": 3
  },
  {
@@ -13172,14 +13219,14 @@
   "original": "WIP.  This could be a good opportunity to see firsthand what Outside world humans are capable of.",
   "translation": "制作中。这或许是一个亲眼见识外界人类能力的好机会。",
   "context": "ID: nitori_kawashiro\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→profession→nitori_kawashiro\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a3e4e86c73070b07a32ce7eadd5565b8",
   "original": "WIP. You're a kappa, somewhat shy around humans, but you don't really mind them very much.",
   "translation": "制作中。你是一只河童，对人类有些害羞，但其实并不太介意他们。",
   "context": "ID: PROF_NITORI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_NITORI\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c777455ed532c8fc1145efeda08457b5",
@@ -14192,9 +14239,9 @@
  {
   "key": "f4b469cc56aaadfc7985ab90380e8ca9",
   "original": "You have medium-length, blue hair, twintails style.",
-  "translation": "你有一头蓝色的中长头发，扎了一对双马尾。",
+  "translation": "你有一头蓝色的中长发，扎了一对双马尾。",
   "context": "ID: hair_nitori\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_nitori\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2a06892b6bdb9c0836fa218b1f21bb65",
@@ -14241,9 +14288,9 @@
  {
   "key": "6394cc933b4c0161cd9e55e05a4b3a46",
   "original": "You have short, light-blue hair, with two tufts you keep shaped like a pretzel.",
-  "translation": "你有着一头短而淡蓝色的头发，其中两簇被你刻意修剪成了螺旋型。",
+  "translation": "你有着一头淡蓝色的短发，其中有两簇被你刻意修剪成了螺旋型。",
   "context": "ID: hair_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_seiga\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8822ad001232ec64db273e624c78f9ff",
@@ -14306,7 +14353,7 @@
   "original": "You have very long, straight jacaranda hair.",
   "translation": "你有一头长长的、笔直的蓝花楹色头发。",
   "context": "ID: hair_udongein\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_udongein\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4f63f10feb2923a31e2f968c08298330",
@@ -15127,16 +15174,16 @@
  {
   "key": "3e5fbe65040e09d6b7ddfc64b1ec2a45",
   "original": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training and discipline enabled you to trascend the mortal realm, with the small side effect of being seen as an enemy, or better put, an exotic snack by supernatural creatures.",
-  "translation": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training and discipline enabled you to trascend the mortal realm, with the small side effect of being seen as an enemy, or better put, an exotic snack by supernatural creatures.",
+  "translation": "你是道教的实践者，以永生为追求（以及其他目标……）。无数年的修炼和研习使你能够超越凡人，但有一个小小的副作用，那就是被超自然生物视为敌人，或者，更确切地说，视为富有异国情调的小吃。",
   "context": "ID: HERMIT_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HERMIT_SPECIES\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "32859a5e3d26887e103693e8ff9224f5",
   "original": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training enabled you to trascend the mortal realm… although Heaven hath rejected you due your egotistical and uncaring nature.  Supernatural creatures see you as an enemy, or better put, an exotic snack.",
-  "translation": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training enabled you to trascend the mortal realm… although Heaven hath rejected you due your egotistical and uncaring nature.  Supernatural creatures see you as an enemy, or better put, an exotic snack.",
+  "translation": "你是道教的实践者，以永生为追求（以及其他目标……）。无数年的修炼使你能够超越凡人……尽管因为你那随性而又无道德感的天性使得你未进入天界。超自然生物视你为敌人，或者，更确切地说，富有异国情调的小吃。",
   "context": "ID: WICKED_HERMIT\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WICKED_HERMIT\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ff7922fa6e8d3e414a5aa2f4588c0477",
@@ -15245,6 +15292,27 @@
   "translation": "你所遭受的诅咒比永眠还要可怖。",
   "context": "ID: seiga_corpsecurse_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_corpsecurse_effect\n",
   "stage": 3
+ },
+ {
+  "key": "bde189759e5b5823e44f959349e7c462",
+  "original": "You're flying.",
+  "translation": "You're flying.",
+  "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
+  "stage": 1
+ },
+ {
+  "key": "9362379400ac63bace5cf120d5c879c8",
+  "original": "You're flying.  Also increases your movement speed when not running.",
+  "translation": "You're flying.  Also increases your movement speed when not running.",
+  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
+  "stage": 1
+ },
+ {
+  "key": "af89d1d4e40220ed179f879aea041d05",
+  "original": "You're flying.  Also increases your movement speed.",
+  "translation": "You're flying.  Also increases your movement speed.",
+  "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n",
+  "stage": 1
  },
  {
   "key": "bcac36feab292ae06162b98fea35bc9c",
@@ -16285,7 +16353,6 @@
   "key": "e89196f1cb52069efe1f4bf0942bcb7f",
   "original": "corpse",
   "translation": "尸体",
-  "context": "ID: corpse_generic_girl\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/corpses/corpses.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→corpse_generic_girl\n",
   "stage": 3
  },
  {
