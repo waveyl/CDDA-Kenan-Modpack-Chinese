@@ -30,9 +30,9 @@
  {
   "key": "4fb0cd8b13279e79cf464b950e0901e4",
   "original": "A guardian protects an artifact. Its on you if you're up for the loot.",
-  "translation": "一个守卫正在保护着神器。如果要去抢，那就靠你了。",
+  "translation": "一个守卫正在保护着神器。如果要去抢，那就只能靠你了。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8ca1f7dadc8bbfdf361b284ce934d738",
@@ -317,9 +317,9 @@
  {
   "key": "3d0fc76fc9c8ecde7d49f44659b9d026",
   "original": "I have one hammer of the hunter!",
-  "translation": "我有一把猎人的锤子！",
+  "translation": "我有一把猎手战锤！",
   "context": "ID: VAMP_ASEEKER_questinquire_ihave\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_processitems.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_ihave\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8e22a11cf1d8568107050bd1a88ea760",
@@ -471,14 +471,14 @@
  {
   "key": "db9d972d5d99c61848d4645ac3666d57",
   "original": "I will give you 110$ and 22 tokens for each hammer of the hunter you bring to me.",
-  "translation": "你每带给我一把猎人的锤子我就给你110美元和22个代币。",
+  "translation": "你每带给我一把猎手战锤，我就给你110美元和22个代币。",
   "context": "ID: VAMP_ASEEKER_item_hexenhammer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_hexenhammer\n",
   "stage": 3
  },
  {
   "key": "3007118500b8764caf58dc4d803ef31d",
   "original": "I will give you 110$ for each crystallized tear you bring to me.",
-  "translation": "你每带给我一个蓝色晶泪我就会给你110美元。",
+  "translation": "你每带给我一个蓝色晶泪，我就会给你110美元。",
   "context": "ID: VAMP_ASEEKER_item_monstertear\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_monstertear\n",
   "stage": 3
  },
@@ -492,7 +492,7 @@
  {
   "key": "93a15b9f6d58e688014d9056cc8e0ce3",
   "original": "I will give you 110$ for each wind fragment you bring to me.",
-  "translation": "你每给我一块风之碎片，我就给你110美元。",
+  "translation": "你每给我一块风碎，我就给你110美元。",
   "context": "ID: VAMP_ASEEKER_item_windfrag\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_windfrag\n",
   "stage": 3
  },
@@ -590,9 +590,9 @@
  {
   "key": "6d01e2ef2b234043dcbeba5387cc3ebd",
   "original": "I will give you 195$ for each hammer of the hunter you bring to me.",
-  "translation": "你给我带来的猎人的每把锤子我给你195美元。",
+  "translation": "你每带给我一把猎手战锤，我就给你195美元。",
   "context": "ID: VAMP_ASEEKER_item_hexenhammer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_hexenhammer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0e5c14a918cb9648a7daa36c5c646549",
@@ -618,72 +618,72 @@
  {
   "key": "f9befd78dae869c0c92faf030f9b5a16",
   "original": "I will give you 20 tokens for each petrified heart you bring to me.",
-  "translation": "你带给我的每一颗石化的心，我都会给你20个代币。",
+  "translation": "你每带给我一颗石化之心，我就付给你20个代币。",
   "context": "ID: VAMP_ASEEKER_item_draconicheart\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_draconicheart\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fcba090d4db3555fb12b2b246bc8474f",
   "original": "I will give you 20$ and 3 tokens for each cracked knucklebone you bring to me.",
-  "translation": "我会给你20美元和3个代币，你给我的每一个关节骨折。",
+  "translation": "你每带1根断裂的指骨给我，我就会付你20美元和3代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_grackenknuckles\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_grackenknuckles\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "65a85fe310becb015cf5482e6b5b06c0",
   "original": "I will give you 20$ and 3 tokens for each wyrmskin fragment you bring to me.",
-  "translation": "我会给你20美元和3个代币，每wyrmskin碎片你带来给我。",
+  "translation": "你每带给我一块龙皮碎片，我就付给你20美元和3个代币。",
   "context": "ID: VAMP_ASEEKER_item_wyrmskinpiece\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_wyrmskinpiece\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aa2eabce840950625b2dbc19195db867",
   "original": "I will give you 205$ for every 15 essences you bring to me.",
-  "translation": "你每给我带来15种香精，我就给你205美元。",
+  "translation": "你每给我带来15个源质，我就给你205美刀。",
   "context": "ID: VAMP_ASEEKER_item_essence\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_essence\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "99d2a572dc346ad95d6ac43d06ea6d9c",
   "original": "I will give you 22 tokens for each hammer of the hunter you bring to me.",
-  "translation": "你带给我的猎人的每把锤子我都会给你22个代币。",
+  "translation": "你每带给我一把猎人的锤子，我就给你22个代币。",
   "context": "ID: VAMP_ASEEKER_item_hexenhammer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_hexenhammer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fff77729e4b6c12677de0de183b49c91",
   "original": "I will give you 220$ for each incorruptible sword you bring to me.",
-  "translation": "你给我带来的每把不朽之剑，我要给你220元。",
+  "translation": "你每带给我一把不朽之剑，我就付你220美元。",
   "context": "ID: VAMP_ASEEKER_item_sun_sword\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_sun_sword\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1239b43ddc384d794a358ecf006b657a",
   "original": "I will give you 245$ for each amorphous amber you bring to me.",
-  "translation": "我会给你245美元买一个你带给我的无定形琥珀。",
+  "translation": "你每带1个无定形琥珀给我，我会付你245美元作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_blobgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_blobgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4f0b4c5b46939c63091e12c63ce19f6a",
   "original": "I will give you 25 tokens for each incorruptible sword you bring to me.",
-  "translation": "你给我带来的每把不朽剑，我都要给你25个记号。",
+  "translation": "你每带给我一把不朽之剑，我就付你25代币。",
   "context": "ID: VAMP_ASEEKER_item_sun_sword\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_sun_sword\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5f81b58c69b29e9e1db15e16dda45cba",
   "original": "I will give you 25$ and 2 tokens for each monstrous fang you bring to me.",
-  "translation": "我会给你25美元和2个代币为你带来的每一个可怕的牙给我。",
+  "translation": "你每给我一根巨兽尖牙，我就给你25美元和2个代币。",
   "context": "ID: VAMP_ASEEKER_item_monsterfang\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_monsterfang\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fd77e805bccdeb56e10d0454b4879214",
   "original": "I will give you 25$ and 3 tokens for each twisted bone you bring to me.",
-  "translation": "我会给你25美元和3个代币，你给我的每一个扭曲的骨头。",
+  "translation": "你每带1根扭曲之骨给我，我就会付你25美元和3个代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_bonetwisted\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_bonetwisted\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "de101eee8ca550c8a5a0a88b7924d555",
@@ -695,16 +695,16 @@
  {
   "key": "ec811f2c46a9a0f5c836aa61fe3a93f4",
   "original": "I will give you 3 tokens for each amorphous amber you bring to me.",
-  "translation": "你给我带来的每一个无定形琥珀，我就给你3个代币。",
+  "translation": "你每带1个无定形琥珀给我，我会付你3代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_blobgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_blobgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c17dafe773b2c275040227271436c9d6",
   "original": "I will give you 3 tokens for each cracked knucklebone you bring to me.",
-  "translation": "你带给我的每根指节骨裂开，我就给你3个代币。",
+  "translation": "你每带1根断裂的指骨给我，我就会付你3代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_grackenknuckles\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_grackenknuckles\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce7e6297ad9694aa68287f40d76f903b",
@@ -716,93 +716,93 @@
  {
   "key": "ec486567e08ec0adc5d5a9355d21ecff",
   "original": "I will give you 3 tokens for each wyrmskin fragment you bring to me.",
-  "translation": "你给我带来的每一块wyrmskin碎片我会给你3个代币。",
+  "translation": "你每带给我一块龙皮碎片，我就付给你3个代币。",
   "context": "ID: VAMP_ASEEKER_item_wyrmskinpiece\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_wyrmskinpiece\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "928015290ae16fe3890bb57853fa7891",
   "original": "I will give you 30$ and 1 token for every 15 essences you bring to me.",
-  "translation": "你每给我带来15种香精，我就给你30美元和1个代币。",
+  "translation": "你每给我带来15个源质，我就给你30美元。",
   "context": "ID: VAMP_ASEEKER_item_essence\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_essence\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "060c272fcd120baef93b2209828c5623",
   "original": "I will give you 30$ for each monstrous fang you bring to me.",
-  "translation": "你给我带来的每一个大毒牙我就给你30美元。",
+  "translation": "你每给我一根巨兽尖牙，我就给你30美元。",
   "context": "ID: VAMP_ASEEKER_item_monsterfang\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_monsterfang\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0da0274a03d19f01076f088f4cdddf0a",
   "original": "I will give you 305$ for every 22 dull essences you bring to me.",
-  "translation": "你每给我带22种无趣的香精，我就给你305美元。",
+  "translation": "你每给我带22个阴黯源质，我就给你305美元。",
   "context": "ID: VAMP_ASEEKER_item_dullessence\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_dullessence\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "216163e745ef01ee915640f856663429",
   "original": "I will give you 315$ for each wind fragment you bring to me.",
-  "translation": "你带给我的每一块风碎片我都会给你315美元。",
+  "translation": "你每给我一块风碎，我就给你315美元。",
   "context": "ID: VAMP_ASEEKER_item_windfrag\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_windfrag\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6e5bc6bf72f634fd5e409c37168524de",
   "original": "I will give you 35$ and 4 tokens for each iridescent plate you bring to me.",
-  "translation": "我会给你35美元和4个代币为您带来的每一个彩虹板给我。",
+  "translation": "你每给我一块五彩斑斓的组织，我就给你35美元和4个代币。",
   "context": "ID: VAMP_ASEEKER_item_iridescentplate\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_iridescentplate\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5e69f9ac68b92961e07d19d44fb996b7",
   "original": "I will give you 35$ and 4 tokens for each wind fragment you bring to me.",
-  "translation": "我会给你35美元和4个代币为你带来的每一个风碎片给我。",
+  "translation": "你每给我一块风碎，我就给你35美元和4个代币。",
   "context": "ID: VAMP_ASEEKER_item_windfrag\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_windfrag\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ec8e54ae8de9b0bf805c2925ca1d696c",
   "original": "I will give you 365$ for each iridescent plate you bring to me.",
-  "translation": "你带给我的每一个彩虹色的盘子我给你365美元。",
+  "translation": "你每给我一块五彩斑斓的组织，我就给你365美元。",
   "context": "ID: VAMP_ASEEKER_item_iridescentplate\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_iridescentplate\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d521a4700316966f1fb0fd96f8e3e571",
   "original": "I will give you 4 tokens for each iridescent plate you bring to me.",
-  "translation": "你带给我的每一个彩虹色的盘子，我会给你4个代币。",
+  "translation": "你每给我一块五彩斑斓的组织，我就给你4个代币。",
   "context": "ID: VAMP_ASEEKER_item_iridescentplate\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_iridescentplate\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3c508c53b6b85813c9eb341ff014556e",
   "original": "I will give you 4 tokens for each wind fragment you bring to me.",
-  "translation": "你带给我的每一块风碎片我都会给你4个代币。",
+  "translation": "你每带给我一块风碎，我就付给你4个代币。",
   "context": "ID: VAMP_ASEEKER_item_windfrag\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_windfrag\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f3ba0e038047e98a6c4949f5cdb6bac8",
   "original": "I will give you 400$ for each crystallized tear you bring to me.",
-  "translation": "你带给我的每一滴蓝色晶泪，我就给你400美元。",
+  "translation": "你每带给我一个蓝色晶泪，我就会给你400美元。",
   "context": "ID: VAMP_ASEEKER_item_monstertear\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_monstertear\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "848f116b2c1cd657b3dda56c4e2fb099",
   "original": "I will give you 45$ and 3 tokens for each amorphous amber you bring to me.",
-  "translation": "我会给你45美元和3个代币为您带来的每一个无定形琥珀给我。",
+  "translation": "你每带1个无定形琥珀给我，我会付你45美元和3代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_blobgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_blobgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dc6262a9e786acad62adfc48e689324a",
   "original": "I will give you 455$ for each shadow gem you bring to me.",
-  "translation": "你给我带来的每一块暗影宝石我就给你455美元。",
+  "translation": "你每带1个暗影宝石给我，我会付你455美元作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_shadowgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_shadowgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "56f93a8b0a4c973308fe968bfb927be6",
@@ -814,23 +814,23 @@
  {
   "key": "2760f5c5dcc19df6cefdcb55c8803179",
   "original": "I will give you 5 tokens for each crystallized tear you bring to me.",
-  "translation": "你带给我的每一滴蓝色晶泪，我都会给你5个代币。",
+  "translation": "你每带给我一个蓝色晶泪，我就会给你5个代币。",
   "context": "ID: VAMP_ASEEKER_item_monstertear\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_monstertear\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "84373c586e5b54d57319dbe9a24f2426",
   "original": "I will give you 50$ and 5 tokens for each crystallized tear you bring to me.",
-  "translation": "我会给你50美元和5个代币为你带来的每一个蓝色晶泪给我。",
+  "translation": "你每带给我一个蓝色晶泪，我就会给你50美元和5个代币。",
   "context": "ID: VAMP_ASEEKER_item_monstertear\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_monstertear\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2a6e1e156d872d75aa50ed88d7450ea5",
   "original": "I will give you 50$ for each iridescent plate you bring to me.",
-  "translation": "你带给我的每一个彩虹色的盘子我给你50美元。",
+  "translation": "你每给我一块五彩斑斓的组织，我就给你50美元。",
   "context": "ID: VAMP_ASEEKER_item_iridescentplate\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_iridescentplate\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d90fa5611155a194fe9b03ae82dd54a4",
@@ -849,51 +849,51 @@
  {
   "key": "ab3a7a8f8ec5bfc25b8d42a229a577b5",
   "original": "I will give you 6 tokens for each shadow gem you bring to me.",
-  "translation": "你带给我的每颗暗影宝石，我都会给你6个代币。",
+  "translation": "你每带1个暗影宝石给我，我会付你6个代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_shadowgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_shadowgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9269d48047d96d964718f94d25972993",
   "original": "I will give you 675$ for each spear of pestilence you bring to me.",
-  "translation": "你给我带来的每一支瘟疫矛，我就给你675美元。",
+  "translation": "你每带给我一支瘟疫之矛，我就付你675美元。",
   "context": "ID: VAMP_ASEEKER_item_spear_pestilence\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_spear_pestilence\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0395f749afe538b572a88929930dd237",
   "original": "I will give you 70$ and 10 tokens for each spear of pestilence you bring to me.",
-  "translation": "你每给我带来一支瘟疫矛，我就给你70块钱和10个代币。",
+  "translation": "你每带给我一支瘟疫之矛，我就支付给你70美刀和10个代币。",
   "context": "ID: VAMP_ASEEKER_item_spear_pestilence\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_spear_pestilence\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0281587ddabfaf27e9ebf99123909542",
   "original": "I will give you 70$ and 6 tokens for each shadow gem you bring to me.",
-  "translation": "我会给你70美元和6个代币为你带来的每一个影子宝石给我。",
+  "translation": "你每带1个暗影宝石给我，我会付你70美元和6个代币作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_shadowgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_shadowgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3213a603f8e6053b5ff794b5a3c2bed5",
   "original": "I will give you 70$ for each cracked knucklebone you bring to me.",
-  "translation": "我给你70美元买你带给我的每一根断裂的指节骨。",
+  "translation": "你每带一根断裂的指骨给我，我就会付你70美元作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_grackenknuckles\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_grackenknuckles\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a886a2b85d5be8b8c27fc1501add0e73",
   "original": "I will give you 70$ for each wyrmskin fragment you bring to me.",
-  "translation": "你带给我的每一块wyrmskin碎片我给你70美元。",
+  "translation": "你每带给我一块龙皮碎片，我就付给你70美元。",
   "context": "ID: VAMP_ASEEKER_item_wyrmskinpiece\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_wyrmskinpiece\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d119eaac0de35755cdecb5d4b934b99f",
   "original": "I will give you 720$ for each druidic staff you bring to me.",
-  "translation": "我会给你720美元每德鲁伊工作人员你带来给我。",
+  "translation": "你每带给我一根德鲁伊法杖，我就支付给你720美元。",
   "context": "ID: VAMP_ASEEKER_item_staff_druidic\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_staff_druidic\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b3b459926fb4471608bbbb6d03ca0598",
@@ -905,58 +905,58 @@
  {
   "key": "349b2281b5fef3bb112af2d75d035f4c",
   "original": "I will give you 75$ and 20 tokens for each cursed blade you bring to me.",
-  "translation": "你带给我的每一把诅咒之刃，我都会给你75美元和20个代币。",
+  "translation": "你每带给我一把诅咒之刃，我就付你75美元和20个代币。",
   "context": "ID: VAMP_ASEEKER_item_stormbringer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_stormbringer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5cc2b39db67c0ff37f254a8ac6eebe7a",
   "original": "I will give you 785$ for each engraved stone you bring to me.",
-  "translation": "你带给我的每一块雕刻的石头我给你785美元。",
+  "translation": "你每给我一块雕文石块，我就给你785美元。",
   "context": "ID: VAMP_ASEEKER_item_engravedstone\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_engravedstone\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4715b3d9873bc4cc2ffeebb578a98e5e",
   "original": "I will give you 80$ and 15 tokens for each druidic staff you bring to me.",
-  "translation": "我会给你80美元和15代币，每德鲁伊工作人员你带来给我。",
+  "translation": "你每带给我一根德鲁伊法杖，我就支付给你80美元和15个代币。",
   "context": "ID: VAMP_ASEEKER_item_staff_druidic\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_staff_druidic\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2eb26fec64cfc9a6b10b18edd95f711c",
   "original": "I will give you 815$ for each cursed blade you bring to me.",
-  "translation": "你带给我的每一把诅咒之刃，我都会给你815美元。",
+  "translation": "你每带给我一把诅咒之刃，我都会给你815美元。",
   "context": "ID: VAMP_ASEEKER_item_stormbringer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_stormbringer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "403bef1aaa0c61beec490010cf165518",
   "original": "I will give you 85$ for each twisted bone you bring to me.",
-  "translation": "你带给我的每一根扭曲的骨头我给你85美元。",
+  "translation": "你每带1根扭曲之骨给我，我就会付你85美元作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_bonetwisted\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_bonetwisted\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1f6499915ba9beab32a6dddc1129f148",
   "original": "I will give you 885$ for each petrified heart you bring to me.",
-  "translation": "你带给我的每一颗石化的心，我都会给你885美元。",
+  "translation": "你每带给我一颗石化之心，我就付给你885美元。",
   "context": "ID: VAMP_ASEEKER_item_draconicheart\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_draconicheart\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1217ef4eade247068f0bde041edfb5e7",
   "original": "I will give you 90$ and 15 tokens for each engraved stone you bring to me.",
-  "translation": "我会给你90美元和15代币，每刻石头你带来给我。",
+  "translation": "你每给我一块雕文石块，我就付你90美元和15代币。",
   "context": "ID: VAMP_ASEEKER_item_engravedstone\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_engravedstone\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "60f04d1594c4e6df1c73042d1ac5f664",
   "original": "I will give you 90$ for every 15 essences you bring to me.",
-  "translation": "你每给我带来15种香精，我就给你90美元。",
+  "translation": "你每给我带来15个源质，我就给你90美刀。",
   "context": "ID: VAMP_ASEEKER_item_essence\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_essence\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "30a31dd6ab6d5a3d2df8139bd717d621",
@@ -968,86 +968,86 @@
  {
   "key": "e34ae62940f0e14ef187f9e29252499d",
   "original": "I will give you 905$ for each hammer of the hunter you bring to me.",
-  "translation": "你带给我的猎人的每把锤子我给你905美元。",
+  "translation": "你每带给我一把猎手战锤，我就给你22个代币。",
   "context": "ID: VAMP_ASEEKER_item_hexenhammer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_hexenhammer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "260c5a59fddd20d810c668737b93a0bd",
   "original": "I will give you 95$ for each amorphous amber you bring to me.",
-  "translation": "你带给我的每一个无定形的琥珀我给你95美元。",
+  "translation": "你每带一个无定形琥珀给我，我会付你95美元作为报酬。",
   "context": "ID: VAMP_ASEEKER_item_blobgem\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_blobgem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8b5c06c1d92abf48e171985664f98b7e",
   "original": "I will give you 960$ for each incorruptible sword you bring to me.",
-  "translation": "你给我带来的每把不朽之剑，我就给你960块钱。",
+  "translation": "你每带给我一把不朽之剑，我就付你960美元。",
   "context": "ID: VAMP_ASEEKER_item_sun_sword\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemvalidation.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_item_sun_sword\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d20e09c1ff2039977d9e9f2f0f71c2cf",
   "original": "I'll exchange 10 tokens for \"Red Velvets - The Dark Fashion\"",
-  "translation": "我要用10个代币换“红色天鹅绒-黑暗时尚”",
+  "translation": "我要用10个代币换“红色丝绒-黑暗时尚”",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "02cbec6d67d72dd29ad2437438358c72",
   "original": "I'll exchange 12 tokens for \"Glorious Gunnery\"",
-  "translation": "我要把12个代币换成“光荣的射击”",
+  "translation": "我要用12个代币换“壮丽的枪术”",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fdafae57434cb554605da915308afa91",
   "original": "I'll exchange 15 tokens for \"The Vampiric Infusion\"",
-  "translation": "我要用15个代币换“吸血鬼输液”",
+  "translation": "我要用15个代币换“吸血鬼的输注”",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c34f4b9e5fa19e23b09c499343c7e6c0",
   "original": "I'll exchange 15 tokens for the knuckle biters",
-  "translation": "我要用15个代币换那些咬指节的人",
+  "translation": "我要用15个代币换指节撕咬者",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct3VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct3VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a7362fb91d6a59e066fbd58a3497fd76",
   "original": "I'll exchange 2 tokens for a blood compact sheet",
-  "translation": "我要用两个代币换一张血样",
+  "translation": "我要用2个代币换一个血块片",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct1VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct1VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d72716925e8e5a5f5c79118a3eb3dca5",
   "original": "I'll exchange 20 tokens for blood extractor",
   "translation": "我要用20个代币换采血器",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8a6af24eca012dee77d524cd05659948",
   "original": "I'll exchange 20 tokens for the blood diver",
-  "translation": "我要换20个代币给潜水员",
+  "translation": "我要用20个代币换魔匕-血潜",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct3VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct3VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "62bdb3369ee1df52fc663cbc17a227a8",
   "original": "I'll exchange 20 tokens for the blood sipper",
-  "translation": "我要用20个代币换吸血鬼",
+  "translation": "我要用20个代币换汲血者",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct3VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct3VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1aa4ba551755a484d7f9c8a5db823380",
   "original": "I'll exchange 25 tokens for the blood chemistry",
-  "translation": "我用25个代币换血液化学",
+  "translation": "我要用25个代币换血液化合器",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1b9c5ad3c43cd5b58756b01661351c72",
@@ -1061,14 +1061,14 @@
   "original": "I'll exchange 30 tokens for blood compressor",
   "translation": "我要用30个代币换血液压缩机",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d3ee2058e5f1bd2677db7f2fb768a3c3",
   "original": "I'll exchange 30 tokens for the blood infusing forge",
-  "translation": "我要用30个代币换输血炉",
+  "translation": "我要用30个代币血液灌注锻造台",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e27daaa2c21a22584f9aef91ab6af174",
@@ -1241,9 +1241,9 @@
  {
   "key": "4d809e0c905244b724211c175203d30e",
   "original": "I've got hammer of the hunter here...",
-  "translation": "我这里有猎人的锤子…",
+  "translation": "我这里有猎手战锤……",
   "context": "ID: VAMP_ASEEKER_questinquire\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_validateitems.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7838fcb07b93d6feb94ecba0c2cee31b",
@@ -1278,7 +1278,7 @@
   "original": "It fits in my collection. Want to sell these to me?",
   "translation": "它适合我的收藏。想把这些卖给我吗？",
   "context": "ID: VAMP_ASEEKER_questinquire_ihave_stormbringer\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_itemprocess.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_ihave_stormbringer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7e9f832e676e6eae47ecdcdac5dcdbd9",
@@ -1383,7 +1383,7 @@
   "original": "NPCs will check your progress with this trait.",
   "translation": "NPC会用这个特质来检查你的进度。",
   "context": "ID: vaseekeriveilbladeval\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/Mutations/mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→mutation→vaseekeriveilbladeval\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2d24052d0c4fc51072539f20dc79ca35",
@@ -1437,23 +1437,23 @@
  {
   "key": "a8dc4c6e08b6612ee8b0148dd23450e7",
   "original": "Raiding a peculiar structure might be a suicidal idea if you don't prepare for it.",
-  "translation": "如果你海没做好准备就突袭一个异常的建筑，那差不多是在自杀。",
+  "translation": "如果你还没做好准备就突袭一个异常的建筑，那差不多就是在自杀。",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "061ba8832f72081745499370c96ec324",
   "original": "Rare monsters drop rare items. If you see one of them, slay immediately!",
-  "translation": "稀有怪物会掉落稀有物品。如果你看到其中一个，就立马动手干掉它！",
+  "translation": "稀有怪物会掉落稀有物品。如果你看到一只，就立马动手干掉它吧！",
   "context": "ID: VAMP_ASEEKER_main_tipsforu\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_tipsforu\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "76605fc39ba693371f711066e0c11281",
   "original": "Seeker of the arcane.",
-  "translation": "Seeker of the arcane.",
+  "translation": "奥术探秘者。",
   "context": "ID: V_SEEKER\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→npc_class→V_SEEKER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8b00bc6ef0b16aca1d60cf9caaac8e64",
@@ -1563,16 +1563,16 @@
  {
   "key": "0a693c0a64304b82090a0042b2ef0d0a",
   "original": "What can I trade with these tokens?",
-  "translation": "我可以用这些代币做什么交易？",
+  "translation": "我可以用这些代币交易些什么？",
   "context": "ID: VAMP_ASEEKER_main\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "27b37e1da805906d17f5e1c246e427cd",
   "original": "What kind of arcane items and artifacts do you accept?",
-  "translation": "你接受什么样的神秘物品和神器？",
+  "translation": "你接受什么样的奥术物品和神器？",
   "context": "ID: VAMP_ASEEKER_main\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "63ac24034aff67fa9151bd04324a9787",
