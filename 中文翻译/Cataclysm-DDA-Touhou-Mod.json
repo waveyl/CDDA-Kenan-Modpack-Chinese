@@ -16,7 +16,7 @@
  {
   "key": "23a7754ceaf1b9c5dc28257980522294",
   "original": "\"aAaaaa…\"",
-  "translation": "\"aAaaaa…\"",
+  "translation": "\"啊啊……\"",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→speech→mon_vengeful_spirit→1\n",
   "stage": 3
  },
@@ -700,7 +700,7 @@
  {
   "key": "eab95f8ae157dbba193e2ee1bc9dd9ed",
   "original": "<npcname> rises their weapon and then forcefully hits %s",
-  "translation": "<npcname> 高举武器，然后猛地劈向 %s",
+  "translation": "<npcname> 高举武器，然后猛地劈向 %s！",
   "context": "ID: tec_youmu_downward_slash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_youmu_downward_slash\n",
   "stage": 3
  },
@@ -747,13 +747,13 @@
  {
   "key": "cab9649764009f534bf8b8afa1066673",
   "original": "<npcname> stabs %s",
-  "translation": "<npcname> 向 %s突刺",
-  "stage": 3
+  "translation": "<npcname>挥刃刺向 %s！",
+  "stage": 5
  },
  {
   "key": "c1cc7e39b485a6f3552f97ed46a1ecec",
   "original": "<npcname> stomps the ground, knocking nearby enemies!",
-  "translation": "<npcname> 猛跺地面，震击附近的敌人！",
+  "translation": "<npcname> 猛跺地面，将附近的敌人震退！",
   "context": "ID: tec_meiling_stomp\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_stomp\n",
   "stage": 3
  },
@@ -794,7 +794,7 @@
  {
   "key": "267c0be88f2f967984f7e594d8a5f7a4",
   "original": "<npcname> swings a low wide arc at %s, knocking them back!",
-  "translation": "<npcname> 朝着%s低扫，将其击退！",
+  "translation": "<npcname> 长鞭成弧横扫%s，将其击退！",
   "context": "ID: tec_iku_earthen_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_earthen_crescent\n",
   "stage": 3
  },
@@ -822,7 +822,7 @@
  {
   "key": "dcb4ef8477beb4b934b98f2e7c249184",
   "original": "<npcname> swings their weapon down at %s",
-  "translation": "<npcname> 向%s挥下武器",
+  "translation": "<npcname> 挥剑下劈%s！",
   "context": "ID: tec_tenko_heaven_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_tenko_heaven_crescent\n",
   "stage": 3
  },
@@ -850,7 +850,7 @@
  {
   "key": "69520e84fd73c456f0b849ac3850848b",
   "original": "<npcname> thrusts their hands forward, and release qi through %s!",
-  "translation": "<npcname> 向前伸出双手，释放气贯穿了%s！",
+  "translation": "<npcname> 手掌向前猛推，释放气贯穿了%s！",
   "stage": 3
  },
  {
@@ -875,7 +875,7 @@
  {
   "key": "8179c134215129e87d70fa49509e6a29",
   "original": "<npcname> whips upwards at %s, knocking them back!",
-  "translation": "<npcname> 向%s挥出一记上扫，将其击退！",
+  "translation": "<npcname> 挥鞭向上抽击 %s，将其击退！",
   "context": "ID: tec_iku_rising2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_rising2\n",
   "stage": 3
  },
@@ -894,9 +894,9 @@
  {
   "key": "eaff2dd955de2a0ef5156564cc550e67",
   "original": "A barrier created by cutting air.  It looks refracted, very cool.",
-  "translation": "一道通过切割空气形成的屏障。它看起来在折射光线，非常酷。",
+  "translation": "一道通过切割空气形成的屏障。它看起来在折射光线，酷毙了。",
   "context": "ID: aura_reflectionslash\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects_aura.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aura_reflectionslash\n",
-  "stage": 5
+  "stage": 3
  },
  {
   "key": "e6c8de6f667948addfc1e28f81afcd19",
@@ -908,7 +908,7 @@
  {
   "key": "658e337e215735e3409017d13d579616",
   "original": "A big maple leaf attached to a wooden handle.  It can be used to cool yourself down, or to send strong gales towards your enemies.",
-  "translation": "一片枫叶附着在木柄上。它可以用来给自己降温，或向你的敌人扇出强风。",
+  "translation": "一片附着在木柄上的枫叶。它可以用来给自己降温，或向你的敌人扇出强风。",
   "context": "ID: tengu_fan\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_melee.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→TOOL→tengu_fan\n",
   "stage": 3
  },
@@ -1113,7 +1113,7 @@
  {
   "key": "3bcd94a56b61b266b1b88d4cb014f0de",
   "original": "A gift from your Mistress.  How could you refuse?",
-  "translation": "你那女主人的礼物。你怎么能拒绝呢?",
+  "translation": "你那大小姐的礼物。你怎么能拒绝呢?",
   "context": "ID: sakuya_pads\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→sakuya_pads\n",
   "stage": 3
  },
@@ -1169,7 +1169,7 @@
  {
   "key": "008588c156fff841566f002c98fa8a54",
   "original": "A heavy, conic-shaped floating granite rock, wrapped with a hemp rope.",
-  "translation": "一块沉重的圆锥形漂浮着的花岗岩，上面绑着注连绳。(注连绳，一种用稻草织成的绳子，为神道信仰中用于洁净的咒具。)",
+  "translation": "一块沉重的、圆锥形的漂浮花岗岩，上面绑着注连绳。(注连绳，一种用稻草织成的绳子，为神道信仰中用于洁净的咒具。)",
   "context": "ID: frame_keystone\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/vehicleparts/touhou_frames.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→vehicle_part→frame_keystone\n",
   "stage": 3
  },
@@ -2398,10 +2398,24 @@
   "stage": 3
  },
  {
+  "key": "01ce2e662b080f7511e491cd726305b1",
+  "original": "Bat form",
+  "translation": "Bat form",
+  "context": "ID: WINGS_TOUHOU_VAMPIRE_bat_mode\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_VAMPIRE_bat_mode\n",
+  "stage": 1
+ },
+ {
+  "key": "d80ce864a0e31d561387c4f928743bf1",
+  "original": "Bat form (flight)",
+  "translation": "Bat form (flight)",
+  "context": "ID: flight_vampire_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→flight_vampire_effect\n",
+  "stage": 1
+ },
+ {
   "key": "28fc02329933090781fc24f1f5457dbc",
   "original": "Bat wings (flight) (effect)",
   "translation": "蝠翼（飞翔）",
-  "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n",
+  "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/obsoletion_and_migration_0.I/touhou_obsolete.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n",
   "stage": 3
  },
  {
@@ -3497,21 +3511,20 @@
   "key": "c14543d6fe0d22851bfa97a628d53290",
   "original": "Crow wings",
   "translation": "鸦翼",
-  "context": "ID: WINGS_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW\n",
+  "context": "ID: WINGS_TOUHOU_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_TENGUCROW\n",
   "stage": 3
  },
  {
   "key": "026a7eda4e6d7b16bc210c46c4fe6418",
   "original": "Crow wings (flight)",
   "translation": "鸦翼（飞翔）",
-  "context": "ID: WINGS_TENGUCROW_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW_spread\n",
+  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/obsoletion_and_migration_0.I/touhou_obsolete.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
   "stage": 3
  },
  {
   "key": "acb90f2fabd1766b6dbf9985cb8464a6",
   "original": "Crow wings (flight) (effect)",
   "translation": "鸦翼（飞翔）",
-  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
   "stage": 3
  },
  {
@@ -5070,6 +5083,13 @@
   "stage": 3
  },
  {
+  "key": "66a5d82711dd86a316558000d20bcd1b",
+  "original": "FALSE_TIMER_2",
+  "translation": "FALSE_TIMER_2",
+  "context": "ID: yamame_disease_timer_1_2_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→yamame_disease_timer_1_2_OLD\n",
+  "stage": 1
+ },
+ {
   "key": "2804890a4b43e24d922447ddaaad3b2a",
   "original": "FFF",
   "translation": "FFF",
@@ -6308,21 +6328,21 @@
   "key": "ed20dcfcee0c7153ec58768e978261a6",
   "original": "Hell raven wings",
   "translation": "地狱鸦翼",
-  "context": "ID: WINGS_HELLRAVEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN\n",
+  "context": "ID: WINGS_TOUHOU_HELLRAVEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_HELLRAVEN\n",
   "stage": 3
  },
  {
   "key": "5d20e9aa64781b2c038110cd8470bc5c",
   "original": "Hell raven wings (flight)",
   "translation": "地狱鸦翼（飞翔）",
-  "context": "ID: WINGS_HELLRAVEN_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN_spread\n",
+  "context": "ID: flight_hellraven_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→flight_hellraven_effect\n",
   "stage": 3
  },
  {
   "key": "04798632d44c040eca38ef652e8adb71",
   "original": "Hell raven wings (flight) (effect)",
   "translation": "地狱鸦翼（飞翔）",
-  "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
+  "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/obsoletion_and_migration_0.I/touhou_obsolete.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
   "stage": 3
  },
  {
@@ -6611,6 +6631,13 @@
   "stage": 3
  },
  {
+  "key": "4919320f25520f626296c91c1eeeb69f",
+  "original": "If nothing else revealed you're a vampire, this will surely do.  You're currently in bat form.",
+  "translation": "If nothing else revealed you're a vampire, this will surely do.  You're currently in bat form.",
+  "context": "ID: WINGS_TOUHOU_VAMPIRE_bat_mode\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_VAMPIRE_bat_mode\n",
+  "stage": 1
+ },
+ {
   "key": "1d0a34a40f94c8eebd91664a4232e906",
   "original": "If nothing else revealed you're a vampire, this will surely do.  You're currently transformed into bat form.  Activate the mutation to switch forms.",
   "translation": "没有什么事情能比这个姿态更能证明你是一个吸血鬼。你目前处于蝙蝠形态。激活变异以切换形态。",
@@ -6620,7 +6647,6 @@
   "key": "5361ffb156319d9f343c103941e99c52",
   "original": "If nothing else revealed you're a vampire, this will surely do.  You're currently transformed into bat form.  Activate the mutation to switch to human form.",
   "translation": "如果先前你的吸血鬼身份尚未暴露，那此刻必将真相大白。你当前正处于蝙蝠形态。激活此变异以转变为人形。",
-  "context": "ID: VAMPIRE_BAT_REMI_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI_active\n",
   "stage": 3
  },
  {
@@ -8515,7 +8541,7 @@
  {
   "key": "277092f02507df6061f71da4c3710384",
   "original": "Overcharge your weapon with expanding wavelengths, causing a short-range blast.  Point-blank targets receive additional damage and are knocked back.  \nRequires pistols to cast.",
-  "translation": "用增长的波长对武器进行超负荷充能，造成短程爆发。近距离的目标受到额外伤害并被击退。\n需要手枪进行施放。",
+  "translation": "用增长的波长对武器进行超负荷充能，造成短程爆发。对近距离目标造成额外伤害并击退。\n需要手枪进行施放。",
   "context": "ID: udonge_gunwaveBLAST\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST\n",
   "stage": 1
  },
@@ -9484,7 +9510,7 @@
  {
   "key": "2d24618c4fb5a80bb651f2419f7ee8d7",
   "original": "Remove all diseases from the target.  \nHas reduced effectiviness for your <color_green>diseases</color>.",
-  "translation": "Remove all diseases from the target.  \nHas reduced effectiviness for your <color_green>diseases</color>.",
+  "translation": "移除目标的所有疾病。  \n移除自身的<color_green>疾病</color>时效果降低。",
   "context": "ID: yamame_curedisease\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_curedisease\n",
   "stage": 1
  },
@@ -11349,6 +11375,27 @@
   "stage": 3
  },
  {
+  "key": "9d5144cae1cfe3da9261574421f5c3ac",
+  "original": "TIMER_0",
+  "translation": "TIMER_0",
+  "context": "ID: yamame_disease_icypyrexia_eoc_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→yamame_disease_icypyrexia_eoc_OLD\n",
+  "stage": 1
+ },
+ {
+  "key": "c12b957569ddd93ebfec541044610b89",
+  "original": "TIMER_1",
+  "translation": "TIMER_1",
+  "context": "ID: yamame_disease_timer_1_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→yamame_disease_timer_1_OLD\n",
+  "stage": 1
+ },
+ {
+  "key": "8d808ba14e14f4902e361bc331cf6377",
+  "original": "TIMER_2",
+  "translation": "TIMER_2",
+  "context": "ID: yamame_disease_timer_1_2_OLD\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→yamame_disease_timer_1_2_OLD\n",
+  "stage": 1
+ },
+ {
   "key": "1ecdea8963d6a6b0124f76b060c544cf",
   "original": "TIMESTOP_SUCCESSFUL",
   "translation": "TIMESTOP_SUCCESSFUL",
@@ -13014,17 +13061,22 @@
   "stage": 5
  },
  {
+  "key": "fbbca8ce955a51424ad28703658c5c37",
+  "original": "Vampire shapeshifting",
+  "translation": "Vampire shapeshifting",
+  "context": "ID: WINGS_TOUHOU_VAMPIRE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_VAMPIRE\n",
+  "stage": 1
+ },
+ {
   "key": "ef1b35931754d67f3caf07806844567d",
   "original": "Vampire shapeshifting (bat)",
   "translation": "吸血鬼变形（蝙蝠）",
-  "context": "ID: VAMPIRE_BAT_REMI_active\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI_active\n",
   "stage": 3
  },
  {
   "key": "97b9b78aeedc58f74d2081e103da2f94",
   "original": "Vampire shapeshifting (human)",
   "translation": "吸血鬼变形（人类）",
-  "context": "ID: VAMPIRE_BAT_REMI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI\n",
   "stage": 3
  },
  {
@@ -13554,7 +13606,7 @@
  {
   "key": "4ebd98f7f52ae82f942697e1064c18bc",
   "original": "Yoshika's nail slash attack, casted after Seiga casts any spell",
-  "translation": "宫古芳香的利爪斩击，在青娥释放任意技能后随之释放",
+  "translation": "宫古芳香的爪斩，在青娥释放任意技能后随之释放",
   "context": "ID: yoshika_nails2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_seiga_yoshika.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yoshika_nails2\n",
   "stage": 3
  },
@@ -13652,7 +13704,7 @@
   "key": "22869071b67d077667adc5e6275f81c5",
   "original": "You are too tired to fly!",
   "translation": "你太累了，无法飞行！",
-  "context": "ID: WINGS_TENGUCROW_stop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→WINGS_TENGUCROW_stop\n",
+  "context": "ID: wings_oom_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→wings_oom_eoc\n",
   "stage": 3
  },
  {
@@ -13665,7 +13717,7 @@
  {
   "key": "d6ead90d2b935012472af8684d93dcd0",
   "original": "You become perceptible again.",
-  "translation": "你的身形再次显现出来.",
+  "translation": "你的身形再次显现。",
   "context": "ID: udonge_stealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth\n",
   "stage": 3
  },
@@ -13781,8 +13833,8 @@
  {
   "key": "85f60600a68fa5a97fd4fa733fbbfed5",
   "original": "You could fight for days without end…",
-  "translation": "你能不停歇的连续战斗数日…",
-  "stage": 3
+  "translation": "你能打上好几天……",
+  "stage": 5
  },
  {
   "key": "916b6e03cac77dd35db2e1fd584eeb36",
@@ -14055,7 +14107,7 @@
  {
   "key": "8210bf5c194be27119f27333cc4f83b9",
   "original": "You front kick %s, stunning them!",
-  "translation": "你一记前踢踢中 %s，敌人被击晕！",
+  "translation": "你一记前踢踢中 %s，将其击晕！",
   "stage": 3
  },
  {
@@ -14113,7 +14165,7 @@
  {
   "key": "306a0bd2f30404d0fd652c4cd9b16c76",
   "original": "You have a fluffy little rabbit tail.",
-  "translation": "你有毛茸茸的兔子短尾巴。",
+  "translation": "你有毛茸茸的短兔尾。",
   "context": "ID: GYOKUTO_TAIL\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→GYOKUTO_TAIL\n",
   "stage": 3
  },
@@ -14135,15 +14187,27 @@
   "key": "bba70f3ca7a94060f69d31e5834cdbb3",
   "original": "You have a pair of large raven wings.  Activate the mutation to spread your wings, enabling you to fly.",
   "translation": "你长着一对巨大的乌鸦翅膀。激活此变异，从而展开你的翅膀，以激活飞行功能。",
-  "context": "ID: WINGS_HELLRAVEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN\n",
   "stage": 3
+ },
+ {
+  "key": "86bbf7bbf089d2808c2baf09abc06c73",
+  "original": "You have a pair of large raven wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+  "translation": "You have a pair of large raven wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+  "context": "ID: WINGS_TOUHOU_HELLRAVEN\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_HELLRAVEN\n",
+  "stage": 1
  },
  {
   "key": "b6d87c8fb9070ba69e0097a9813cc68b",
   "original": "You have a pair of relatively small crow wings.  Activate the mutation to enable flight.",
   "translation": "你长出了一对相对较小的乌鸦翅膀。激活变异以开启飞行功能。",
-  "context": "ID: WINGS_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW\n",
   "stage": 3
+ },
+ {
+  "key": "316f21bbda240e7a9c8da0cd5b845662",
+  "original": "You have a pair of relatively small crow wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+  "translation": "You have a pair of relatively small crow wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+  "context": "ID: WINGS_TOUHOU_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_TENGUCROW\n",
+  "stage": 1
  },
  {
   "key": "924cda22674b1f1aab18136e7bf4f0b2",
@@ -14288,7 +14352,7 @@
  {
   "key": "6394cc933b4c0161cd9e55e05a4b3a46",
   "original": "You have short, light-blue hair, with two tufts you keep shaped like a pretzel.",
-  "translation": "你有着一头淡蓝色的短发，其中有两簇被你刻意修剪成了螺旋型。",
+  "translation": "你有着一头淡蓝色的齐肩短发，在脑后扎成双环。",
   "context": "ID: hair_seiga\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_appearance_hair_styles.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→hair_seiga\n",
   "stage": 3
  },
@@ -14365,7 +14429,7 @@
  {
   "key": "600800926f9a2dd7dc39c8c7ec3fb90e",
   "original": "You hit %s with your qi-reinforced elbow!",
-  "translation": "你一记带有气劲的肘击击中了 %s!",
+  "translation": "你以一记带有气劲的肘击击中了 %s!",
   "context": "ID: tec_meiling_elbow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_elbow\n",
   "stage": 3
  },
@@ -14379,14 +14443,14 @@
  {
   "key": "f8d461bcd6faf20a603cfa7e5208e32a",
   "original": "You inhale a lungful of thick smoke.",
-  "translation": "你吸入了大量浓烟。",
+  "translation": "你呛入了一大口浓烟。",
   "context": "ID: smoke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke\n",
   "stage": 3
  },
  {
   "key": "b1408c1ba522fd9982015a561f540873",
   "original": "You jump and kick %s",
-  "translation": "你纵身一跳，一记飞踢踢中 %s。",
+  "translation": "你纵身一跃，一记飞踢踢中 %s。",
   "context": "ID: tec_mokou_sommersault_kick\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_sommersault_kick\n",
   "stage": 3
  },
@@ -14420,7 +14484,7 @@
  {
   "key": "ea2cf08f110743d454f9dbd8af6bbfbc",
   "original": "You lose your concentration.",
-  "translation": "你无法集中专注.",
+  "translation": "你无法集中专注。",
   "context": "ID: sakuya_maidsecret_cycle2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_maidsecret_cycle2\n",
   "stage": 3
  },
@@ -14455,7 +14519,7 @@
  {
   "key": "eb20f6abf74de177d887001c90ca90b4",
   "original": "You move as usual again.",
-  "translation": "你的速度恢复如常.",
+  "translation": "你的速度恢复如常。",
   "context": "ID: aya_mspeed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_mspeed\n",
   "stage": 3
  },
@@ -14577,14 +14641,14 @@
  {
   "key": "41c819afe5671c28b0bc97c10609c3db",
   "original": "You powerfully stab %s",
-  "translation": "你猛刺%s",
+  "translation": "你猛刺%s！",
   "stage": 3
  },
  {
   "key": "9238652a4dd982cea676a815d7028639",
   "original": "You prepare your wings to fly.",
   "translation": "你展翅欲飞。",
-  "context": "ID: WINGS_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW\n",
+  "context": "ID: wings_start_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→wings_start_eoc\n",
   "stage": 3
  },
  {
@@ -14644,14 +14708,14 @@
  {
   "key": "91c2ed74a698f6dc1016acaf09cee9eb",
   "original": "You punch %s's liver!",
-  "translation": "你一拳直击 % 的肝脏!",
+  "translation": "你一拳直击 %s 的肝脏！",
   "context": "ID: tec_mokou_liver_punch\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_liver_punch\n",
   "stage": 3
  },
  {
   "key": "4170a2a59f85250c161d51a99e156132",
   "original": "You punch downwards at %s",
-  "translation": "你向下猛击，造成了%s点伤害。",
+  "translation": "你挥拳重砸%s！",
   "context": "ID: tec_mokou_punch_down\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_punch_down\n",
   "stage": 3
  },
@@ -14672,7 +14736,7 @@
  {
   "key": "3e8259f15387e7bec1ee5b7849bde1a1",
   "original": "You quickly knee and then immediately kick %s back",
-  "translation": "你迅猛膝击并紧接一记踢击把 %s 给踢开.",
+  "translation": "你抬膝迅击%s，并紧接一记测踹将其踢开。",
   "context": "ID: tec_mokou_kick2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_kick2\n",
   "stage": 3
  },
@@ -14728,7 +14792,7 @@
  {
   "key": "c3b19ee94ff95b3dc160f9f4dbdbc492",
   "original": "You relax your thoughts.",
-  "translation": "你沉静心绪.",
+  "translation": "你沉静心绪。",
   "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n",
   "stage": 3
  },
@@ -14736,7 +14800,7 @@
   "key": "b3db38c4cf965c488b5010427d941bc5",
   "original": "You relax your wings.",
   "translation": "你放松自己的翅膀。",
-  "context": "ID: WINGS_TENGUCROW_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW_spread\n",
+  "context": "ID: wings_toggle_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→wings_toggle_eoc\n",
   "stage": 3
  },
  {
@@ -14828,6 +14892,13 @@
   "original": "You shape your bandages as a drill and kick at %s with it!",
   "translation": "你将绷带变化为为钻头的形状，并用它朝%s猛烈攻去！",
   "stage": 3
+ },
+ {
+  "key": "18f46385a69826c7adcba196ba01346a",
+  "original": "You shapeshift into a bat.",
+  "translation": "You shapeshift into a bat.",
+  "context": "ID: flight_vampire_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→flight_vampire_effect\n",
+  "stage": 1
  },
  {
   "key": "e079c018077a2fa0c76edd340d3511b3",
@@ -14962,7 +15033,7 @@
  {
   "key": "1ade6e41065fd7430ec2972393ba0681",
   "original": "You swing a low wide arc at %s, knocking them back!",
-  "translation": "你朝着%s低扫，将他们击退！",
+  "translation": "你长鞭成弧横扫%s，将其击退！",
   "context": "ID: tec_iku_earthen_crescent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_earthen_crescent\n",
   "stage": 3
  },
@@ -15119,7 +15190,7 @@
  {
   "key": "fe7f6038f3e43c4cbcd3a7a79e80b476",
   "original": "You whip your weapon upwards at %s, knocking them back!",
-  "translation": "你挥鞭向上击中 %s，将其击退！",
+  "translation": "你挥鞭向上抽击 %s，将其击退！",
   "context": "ID: tec_iku_rising2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_iku_rising2\n",
   "stage": 3
  },
@@ -15297,21 +15368,21 @@
   "key": "bde189759e5b5823e44f959349e7c462",
   "original": "You're flying.",
   "translation": "You're flying.",
-  "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
+  "context": "ID: utsuho_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/obsoletion_and_migration_0.I/touhou_obsolete.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→utsuho_levitation\n",
   "stage": 1
  },
  {
   "key": "9362379400ac63bace5cf120d5c879c8",
   "original": "You're flying.  Also increases your movement speed when not running.",
   "translation": "You're flying.  Also increases your movement speed when not running.",
-  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
+  "context": "ID: aya_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/obsoletion_and_migration_0.I/touhou_obsolete.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→aya_levitation\n",
   "stage": 1
  },
  {
   "key": "af89d1d4e40220ed179f879aea041d05",
   "original": "You're flying.  Also increases your movement speed.",
   "translation": "You're flying.  Also increases your movement speed.",
-  "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n",
+  "context": "ID: remi_levitation\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/obsoletion_and_migration_0.I/touhou_obsolete.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→remi_levitation\n",
   "stage": 1
  },
  {
@@ -15387,7 +15458,7 @@
  {
   "key": "ba5015145f6620a4262c45bb33d35111",
   "original": "You're the Mistress of the Scarlet Devil Mansion.",
-  "translation": "你是红魔馆的女主人.",
+  "translation": "你是红魔馆的大小姐。",
   "context": "ID: PROF_REMI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→PROF_REMI\n",
   "stage": 3
  },
@@ -15485,7 +15556,7 @@
  {
   "key": "d9fb36024e3ea0b860ed078a98101e6c",
   "original": "You've inhaled a lungful of thick smoke.",
-  "translation": "你吸进入了大量浓烟。",
+  "translation": "你呛入了一大口浓烟。",
   "context": "ID: smoke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke\n",
   "stage": 3
  },
@@ -15621,10 +15692,16 @@
   "stage": 3
  },
  {
+  "key": "69b526b25922ed88eb30f7dfc20147bf",
+  "original": "Your nature allows you to shapeshift between humanoid and bat forms.  Activating this trait allows you to switch back and forth, enabling flight.  \nSwitch cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+  "translation": "Your nature allows you to shapeshift between humanoid and bat forms.  Activating this trait allows you to switch back and forth, enabling flight.  \nSwitch cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+  "context": "ID: WINGS_TOUHOU_VAMPIRE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_VAMPIRE\n",
+  "stage": 1
+ },
+ {
   "key": "61d62952f90e9ec207047ebef4a7e55e",
   "original": "Your nature allows you to shapeshift, although almost completely as your bat wings are still visible.  Currently, you're posing as a human.  Activate the mutation to switch to youkai form.",
   "translation": "你有着变身的能力。你现在正在伪装成人类的外表，尽管你的蝙蝠翅膀仍然可见。激活变异以转换妖怪形态。",
-  "context": "ID: VAMPIRE_BAT_REMI\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→VAMPIRE_BAT_REMI\n",
   "stage": 3
  },
  {
@@ -15777,14 +15854,12 @@
   "key": "553e76df51cb1cf59c9d04c697ba5263",
   "original": "Your wings are now prepared for flying.  Activate the mutation to fold your wings, disabling flight.",
   "translation": "你的翅膀现已准备好飞翔。激活变异以收拢翅膀，从而关闭飞行功能。",
-  "context": "ID: WINGS_HELLRAVEN_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_HELLRAVEN_spread\n",
   "stage": 3
  },
  {
   "key": "a53d70e081a7c53e3dfcab863f1a8b4f",
   "original": "Your wings are now prepared for flying.  Activate to disable flight.",
   "translation": "你的翅膀现已准备好飞翔。激活以关闭飞行功能。",
-  "context": "ID: WINGS_TENGUCROW_spread\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TENGUCROW_spread\n",
   "stage": 3
  },
  {
@@ -16219,7 +16294,7 @@
  {
   "key": "d7be82d303178b1356ab9edb59ae264c",
   "original": "chasm gun",
-  "translation": "chasm gun",
+  "translation": "歧灵枪",
   "context": "ID: chasm_gun\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GUN→chasm_gun\n",
   "stage": 3
  },
@@ -16240,7 +16315,7 @@
  {
   "key": "9191fb15cb9d6803c2df5df192c8e4a8",
   "original": "cheongsam (medium)",
-  "translation": "旗袍 （中等长）",
+  "translation": "旗袍 （中长）",
   "context": "ID: cheongsam_medium\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_generic_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→cheongsam_medium\n",
   "stage": 3
  },
@@ -17901,14 +17976,14 @@
  {
   "key": "b22bf7963d707b5a4f3fcdc7281045f5",
   "original": "silver knife",
-  "translation": "银色匕首",
+  "translation": "银匕首",
   "context": "ID: silver_knife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_throwing.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→silver_knife\n",
   "stage": 3
  },
  {
   "key": "d635d8540ce4f8155cb27cb4e747120d",
   "original": "silver knives",
-  "translation": "银色匕首",
+  "translation": "银匕首",
   "context": "ID: silver_knife\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/touhou_throwing.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→GENERIC→silver_knife\n",
   "stage": 3
  },

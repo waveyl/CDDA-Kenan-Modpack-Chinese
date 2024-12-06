@@ -723,9 +723,9 @@
  {
   "key": "4c32d1d0788ef33b687310152f2569fc",
   "original": "A man-sized, monoeye leech with a bubbling blood residue under its mouth and a saggy skin lies under it. If left unnoticed, it can shoot with pressurize power!",
-  "translation": "一种人大小的单眼水蛭，嘴下有起泡的血迹，下面有下垂的皮肤。如果不被注意，它可以用加压的力量射击！",
+  "translation": "一种体型如人般大小的独眼水蛭，它的嘴下有着冒泡的血迹残留，松弛的皮肤覆盖其上。如果不被察觉，它能够以高压力量喷射攻击！",
   "context": "ID: mon_insect_bloodsurgeleech\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Insects/+Leech.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_insect_bloodsurgeleech\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c3c58a6c2f5d16295fa0e8a0227ed85e",
@@ -744,14 +744,14 @@
  {
   "key": "c197c6ce529ba6fb1ceb998f081889f2",
   "original": "A pair of knuckles designed to imitate a jaw with heavily arranged metal teeth, textured in red hue. Every successful impacts will cause it to bite quickly to its prey.",
-  "translation": "一对设计用来模仿下巴的指关节，有排列得很重的金属牙，有红色的纹理。每一次成功的撞击都会使它迅速地咬住猎物。",
+  "translation": "一对模仿下颚设计的指关节，装有密集排列的金属齿，表面带有红色纹理。每次成功击中目标时，它都会快速地咬向猎物",
   "context": "ID: punchie_bitieplus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitieplus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "db2d598448ba49ea767f0f85394d3e62",
   "original": "A pair of knuckles designed to imitate a jaw with heavily arranged metal teeth. Every successful impacts will cause it to bite quickly to its prey.",
-  "translation": "设计用来模仿有重排列的金属牙的下颚的一对指关节。每一次成功的撞击都会使它迅速地咬住猎物。",
+  "translation": "一对模拟下颚设计的指关节，装有紧密排列的金属齿。每次成功命中后，它会迅速咬住猎物",
   "context": "ID: punchie_bitie\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Items/Weapons/melee_weapon.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→ARMOR→punchie_bitie\n",
   "stage": 3
  },
@@ -869,9 +869,9 @@
  {
   "key": "b6185433e80c1557b34e8a2228b2da31",
   "original": "A shallow blood residue. It's light, crimson hue denotes intense desaturation from aging.",
-  "translation": "浅浅的血迹。它的光，深红色调表示从老化强烈去饱和。",
+  "translation": "一层浅淡的血迹残留于此。淡淡的猩红色彰显出随着岁月流逝而产生的强烈褪色效果。",
   "context": "ID: t_blood_sh\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_ter_furn.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→terrain→t_blood_sh\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "83a0fa9333dddab7fb94f2ada397d315",
@@ -1037,16 +1037,16 @@
  {
   "key": "69145f826d70b01e89d05198cf856e50",
   "original": "A vampire's death is a big success to those elderly jerks. Well, it is their belief that can't be bothered in any way.",
-  "translation": "吸血鬼之死对那些上了年纪的混蛋来说是个巨大的成功。好吧，这是他们的信仰，不能被任何方式打扰。",
+  "translation": "对那些年长的家伙而言，吸血鬼的死亡被视为一项重大的胜利。毕竟，这是他们坚定不移的信念，不容许有任何动摇。",
   "context": "ID: VAMP_LONELY_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "83ae5ab448e50198b3465f6ae05b9ecf",
   "original": "A wave of blood is drawn out from the caster, dealing bio damage to the main target and bash to the surrounding targets.",
-  "translation": "一股血波从施法者身上抽出，对主要目标造成生物伤害，并对周围目标造成重击。",
+  "translation": "施法者释放出一股血浪，对主要目标造成生物伤害，同时对周围的目标造成钝击伤害。",
   "context": "ID: v_hemo_surge\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_surge\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "10198f48522695320242e08e9f8b89e2",
@@ -1148,9 +1148,9 @@
  {
   "key": "b76d6c7d841a1da2aa65df1202b19323",
   "original": "Aims to make a crater under the target. If not, then don't.",
-  "translation": "目标是在目标下形成一个弹坑。如果没有，那就不要。",
+  "translation": "旨在于目标下方制造一个弹坑。如果无法实现，则不进行此操作",
   "context": "ID: t6_mana_darkpillar_bash\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_darkpillar_bash\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cfcff6417fbe0281d0f04853a1a3f128",
@@ -1245,14 +1245,14 @@
  {
   "key": "c9b41b518c65d7ffd189e0e252896992",
   "original": "An ourburst of thick tentacle slaps!",
-  "translation": "一阵粗粗的触手拍打！",
+  "translation": "一阵密集的触手猛烈拍打而来！",
   "context": "ID: t5_blood_outrage_bash\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_bash\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d7ee560d3dcd8badc417f4619f8fb9e2",
   "original": "And now that the seal is broken, we can go through it.",
-  "translation": "现在封印被打破了，我们可以穿过它。",
+  "translation": "现在封印已被打破，我们可以穿过去了。",
   "context": "ID: VAMP_UNDERSEEKER_quest_vampirus2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest_vampirus2\n",
   "stage": 1
  },
@@ -1385,16 +1385,16 @@
  {
   "key": "1713dd4b3e7cfa6b7ebca3eb9953feac",
   "original": "Be aware. If alone is dangerous, more so when they're dozen.",
-  "translation": "请注意。如果独自一人是危险的，当他们被打的时候更是如此。",
+  "translation": "务必小心。单独一个已经很危险，若它们成群出现，则更为致命。",
   "context": "ID: VAMP_WS2_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "27412a275ceea6950954e51352fa5307",
   "original": "Before we go, the trader asked me a request on this journey.",
-  "translation": "在我们走之前，交易者问了我一个关于这次旅行的请求。",
+  "translation": "在我们出发之前，商人提出了一个关于这次旅程的请求。",
   "context": "ID: VAMP_UNDERSEEKER_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9dd89e4d74b6d57bee9d382bd7628021",
@@ -5114,9 +5114,9 @@
  {
   "key": "00c45436cf78e45189a9fc29bba56ab7",
   "original": "Robust leather binding over beautifully illuminated pages, this work of Profane Conjuration speaks to experts of its art.",
-  "translation": "坚固的皮质装订搭配着精美装饰的页面，这部《亵渎咒法》之作向其艺术领域的行家发出了召唤。",
+  "translation": "坚固的皮革包裹着精美的发光页张，这部《亵渎咒法》专著是为该领域的专家们量身打造的。",
   "context": "ID: v_elem_T6_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_elem_T6_tome\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "fe92f0e834026a1c16e620212f2cc9a4",
@@ -5584,9 +5584,9 @@
  {
   "key": "5ca5b93595160b6ce829eb9e139f0851",
   "original": "Summons the <color_brown>leech's whip</color>, a biological melee weapon.\n* If wielded while active, provides positives flat bonuses to stats (STR +1, SPD +5) and increases your maximum health by 10.\n\nThis is a <color_magenta>tier 6</color> spell.",
-  "translation": "召唤出生物近战武器“<color_brown> 蛭之鞭 </color>”，持有此武器时若法术激活，会为使用者提供固定的属性加成（力量 +1，速度 +5），并将最大生命值提高10点。这是一道六级的“<color_magenta>”阶法术。",
+  "translation": "召唤出生物近战武器“<color_brown> 蛭之鞭 </color>”，激活状态下使用时，它会为使用者提供固定的属性加成（力量 +1，速度 +5），并将最大生命值提高10点。\n\n\n该法术属于<color_magenta>6级</color>。",
   "context": "ID: t6_blood_leechswhip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_leechswhip\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "7bd1a7715a2314cf99a5f15e6cd8dae8",

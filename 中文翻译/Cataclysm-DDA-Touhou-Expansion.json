@@ -7,6 +7,34 @@
   "stage": 3
  },
  {
+  "key": "23b58def11b45727d3351702515f86af",
+  "original": "  ",
+  "translation": "  ",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[5]\n",
+  "stage": 1
+ },
+ {
+  "key": "628631f07321b22d8c176c200c855e1b",
+  "original": "   ",
+  "translation": "   ",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[5]\n",
+  "stage": 1
+ },
+ {
+  "key": "0cf31b2c283ce3431794586df7b0996d",
+  "original": "    ",
+  "translation": "    ",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[5]\n",
+  "stage": 1
+ },
+ {
+  "key": "1545e945d5c3e7d9fa642d0a57fc8432",
+  "original": "     ",
+  "translation": "     ",
+  "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[5]\n",
+  "stage": 1
+ },
+ {
   "key": "6639dbaf049abea7e00a4e5d52ed2f37",
   "original": " Ǎ̸̩͆A̷̢̫͌A̶̛̩̔ͅA̷̟̕A̷͓͠A̴̻̒ ",
   "translation": " Ǎ̸̩͆A̷̢̫͌A̶̛̩̔ͅA̷̟̕A̷͓͠A̴̻̒ ",
@@ -153,14 +181,14 @@
  {
   "key": "a4526ba7367d4540a79588220d054e60",
   "original": "%1$s slams <npcname>, pushing them back!",
-  "translation": "%1$s 拍击<npcname>，造成了击退！",
+  "translation": "%1$s 拍击<npcname>，将其击退！",
   "context": "ID: smash_33\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→monster_attack→smash_33\n",
   "stage": 3
  },
  {
   "key": "5664b79232413cb0b9689d86e2e7c798",
   "original": "%1$s slams you in the %2$s, pushing you back!",
-  "translation": "%1$s 撞到了你的 %2$s，击退了你!",
+  "translation": "%1$s 撞到了你的 %2$s，将你击退！",
   "context": "ID: smash_33\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→monster_attack→smash_33\n",
   "stage": 3
  },
@@ -602,7 +630,7 @@
  {
   "key": "fc73313c1a370981d82b6112d04f7203",
   "original": ".22 LR barrel for the Thompson Contender",
-  "translation": ".22 LR Thompson Contender的枪管",
+  "translation": "汤普森“竞争者” 的.22LR口径枪管",
   "context": "ID: retool_thompson_contender_22\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_22\n",
   "stage": 3
  },
@@ -635,7 +663,7 @@
  {
   "key": "621c4fe8f3a25c5d047ea0dbbb134f4e",
   "original": ".30-06 Springfield conversion kit for the Thompson Contender",
-  "translation": "Thompson Contender的.30-06 春田弹转换套件",
+  "translation": "汤普森“竞争者”的.30-06 春田弹转换套件",
   "context": "ID: retool_thompson_contender_3006\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_3006\n",
   "stage": 3
  },
@@ -687,28 +715,28 @@
  {
   "key": "a482aaf34c6ce6771649f4b3d8a41742",
   "original": ".357 Magnum conversion kit for the Thompson Contender",
-  "translation": "Thompson Contender的.357马格南弹转换套件",
+  "translation": "汤普森“竞争者”手枪的.357马格南弹转换套件",
   "context": "ID: retool_thompson_contender_357\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_357\n",
   "stage": 3
  },
  {
   "key": "bc54f4fcebf9a1a3e04a1b4c74cb76e3",
   "original": ".44 Magnum conversion kit for the Thompson Contender",
-  "translation": "Thompson Contender的.44马格南弹转换套件",
+  "translation": "汤普森“竞争者”手枪的.44马格南弹转换套件",
   "context": "ID: retool_thompson_contender_44\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_44\n",
   "stage": 3
  },
  {
   "key": "6ef8f551df6cdb74e4d24ad0fac29719",
   "original": ".45 Colt conversion kit for the Thompson Contender",
-  "translation": "Thompson Contender的.45柯尔特弹转换套件",
+  "translation": "汤普森“竞争者”手枪的.45柯尔特弹转换套件",
   "context": "ID: retool_thompson_contender_45\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_45\n",
   "stage": 3
  },
  {
   "key": "3e2422b8dc5d1d7e555c1ffdbd49b2f4",
   "original": ".45-70 Government conversion kit for the Thompson Contender",
-  "translation": "Thompson Contender的.45-70联邦弹转换套件",
+  "translation": "汤普森“竞争者”手枪的.45-70联邦弹转换套件",
   "context": "ID: retool_thompson_contender_4570\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_4570\n",
   "stage": 3
  },
@@ -859,21 +887,21 @@
  {
   "key": "42f095ff41d01667138a7d131175ea90",
   "original": "7.65x53mm Arg.",
-  "translation": "7.65x53mm Arg弹.",
+  "translation": "7.65x53mm Arg.弹",
   "context": "ID: 765x53_arg\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/765x53.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→765x53_arg\n",
   "stage": 3
  },
  {
   "key": "e695ce16ff8d4fa83f8c6c90847ba024",
   "original": "7.65x53mm Arg. (reloaded)",
-  "translation": "7.65x53mm Arg弹. (复装)",
+  "translation": "7.65x53mm Arg.弹 (复装)",
   "context": "ID: reloaded_765x53_arg\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/765x53.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→reloaded_765x53_arg\n",
   "stage": 3
  },
  {
   "key": "9994c7cc85273c12944592f60630cea3",
   "original": "7.65x53mm Arg. ammunition with 154 gr iron (mild steel) core bullet.",
-  "translation": "7.65x53mm Arg. 是一种154克的铁（软钢）芯弹",
+  "translation": "7.65x53mm Arg. 弹是一种154克的铁（软钢）芯子弹。",
   "context": "ID: 765x53_arg\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/765x53.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→765x53_arg\n",
   "stage": 3
  },
@@ -1771,14 +1799,14 @@
  {
   "key": "40db76d756023f68e149d9f16fb055d6",
   "original": "A barrel for the Thompson Contender, designed for the .22 LR caliber.",
-  "translation": "一根为Thompson Contender设计的.22LR口径枪管",
+  "translation": "一根为汤普森“竞争者”手枪设计的.22LR口径枪管。",
   "context": "ID: retool_thompson_contender_22\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_22\n",
   "stage": 3
  },
  {
   "key": "5303c962592a9609c6c279159cc9bcce",
   "original": "A barrel for the Thompson Contender, designed for the .30-06 Springfield caliber.",
-  "translation": "一根为Thompson Contender设计的.30-06春田口径枪管",
+  "translation": "一根为汤普森“竞争者”手枪设计的.30-06春田口径枪管。",
   "context": "ID: retool_thompson_contender_3006\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_3006\n",
   "stage": 3
  },
@@ -1799,14 +1827,14 @@
  {
   "key": "7b6dcd10d082fe0d340db144a7842453",
   "original": "A barrel for the Thompson Contender, designed for the .45 Colt caliber.",
-  "translation": "一根为Thompson Contender设计的.45柯尔特口径枪管",
+  "translation": "一根为汤普森“竞争者”手枪设计的.45柯尔特口径枪管。",
   "context": "ID: retool_thompson_contender_45\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_45\n",
   "stage": 3
  },
  {
   "key": "11a2164f6a178706eeb5ed5ee4a2f040",
   "original": "A barrel for the Thompson Contender, designed for the .45-70 Government caliber.",
-  "translation": "一根为Thompson Contender设计的.45-70联邦口径枪管",
+  "translation": "一根为汤普森“竞争者”手枪设计的.45-70联邦口径枪管。",
   "context": "ID: retool_thompson_contender_4570\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_conversions.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→retool_thompson_contender_4570\n",
   "stage": 3
  },
@@ -2286,7 +2314,7 @@
  {
   "key": "f42dd0930f314d1956ad8b7689715c0f",
   "original": "A compact 30-round magazine for Spetsiálny-group weapons, made of polymer.",
-  "translation": "以聚合物制成的30发紧凑型弹匣供特别行动组使用",
+  "translation": "以聚合物制成的30发紧凑型弹匣，供特别行动组使用。",
   "context": "ID: 9x39mag30\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magazine/thex_magazine.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MAGAZINE→9x39mag30\n",
   "stage": 3
  },
@@ -2460,9 +2488,9 @@
  {
   "key": "f08c71ab663d936cf4b5641b99c7f78b",
   "original": "A dark sphere.  Looks fuzzy? with undefined boundaries.  You would say it's moving unusually fast, if you had a frame of reference for its movement speed.",
-  "translation": "一个黑暗球体。看起来模糊不清，没有清晰分明的边界。如果有参照物来比较的话，你会发现它移动得特别快。",
+  "translation": "一个暗黑球体。看起来模糊不清，没有明确的边界。如果有参照物的话，你会发现它动得飞快。",
   "context": "ID: mon_shadow_th_sphere\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_shadows.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_shadow_th_sphere\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2960ad50c7b544e0a223b3a3f60d354a",
@@ -2508,7 +2536,7 @@
  {
   "key": "d882eb081dd1c857fd414dc64d7ef13c",
   "original": "A dog-looking… beast, this animal looks like a mix between a big cat, a bear, a dinosaur and other animals you can't think at the moment.  The gait is simultaneously awkward yet agile.  The tail is thick and short, the limbs are robust, with the hind limbs shorter than the front limbs, each of them ends on paws with short claws, capable of rudimentary grappling.  The huge trapezoidal head displays saber-teeth like fangs.  Looking at it forces a primal bubble of fear from the depths of your mind come to the surface, ready to cavitate.",
-  "translation": "一只看起来像狗的……野兽。这只动物看上去像是一只猫、熊、恐龙和其他你一时半会儿想不起来的动物的融合体。它的步伐既笨拙又敏捷。其尾粗短，四肢强壮，后肢短于前肢，每只后肢末端都有利爪，能够进行基本的抓挠。巨大的梯形头部显示出剑齿般的尖牙。看着它，你内心深处就会浮现出最原始的恐惧，仿佛要变得空洞。",
+  "translation": "一只看起来像狗的……野兽。这只动物看上去像是一只猫、熊、恐龙和其他你一时半会儿想不起来的动物的融合体。它的步伐既笨拙又敏捷。其尾粗短，四肢强壮，后肢短于前肢，每只后肢末端都有利爪，能够进行基本的抓挠。巨大的梯形头部显示出剑齿般的尖牙。看着它，你内心深处就会浮现出最原始的恐惧，仿佛要堕入深渊。",
   "context": "ID: mon_inostrancevia\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_theriodontia.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_inostrancevia\n",
   "stage": 1
  },
@@ -2735,9 +2763,9 @@
  {
   "key": "5afe875cce05b693d4f3fa01e6fc02f3",
   "original": "A fume?  You're sure you notice it there before.",
-  "translation": "A fume?  You're sure you notice it there before.",
+  "translation": "一道烟？你敢肯定以前你就注意到它了。",
   "context": "ID: mon_shadow_th_fume_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_shadows.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_shadow_th_fume_2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ca71ae4e058b45a7e9aae41db6ce45dc",
@@ -2934,7 +2962,7 @@
  {
   "key": "4c626143254f75c965a50c7a8a32c416",
   "original": "A huge lobster-looking arachnid with two huge claws and a very menacing tail spike.  The head has the shape of a shovel's spade, with the compound eyes on top and a pair of big chelicera in front, the size and sharpness of butchering knives.  There are several pairs of legs, with the most striking being the first pair in front holding gigantic claws, and the last being flappy, meaty appendixes for locomotion at each side of the body.  At least the tail is just for showing.",
-  "translation": "一只巨大的、形似龙虾的蜘蛛，拥有两只巨型螯爪和一根极为唬人的尾刺。它的头部呈铲状，顶部有许多复眼，前方有一对大螯肢，尺寸和锋利度堪比屠刀。身体有多对腿，最显眼的是前面那对持有巨螯的第一对腿，以及作为辅助移动的肉质、扁平的最后一对腿，在躯体两侧拍动着。至少，它的尾巴仅是用以展示威慑之用。",
+  "translation": "一只巨大的、形似龙虾的蛛形纲动物，拥有两只巨型螯爪和一根极为唬人的尾刺。它的头部呈铲状，顶部有许多复眼，前方有一对大螯肢，尺寸和锋利度堪比屠刀。身体有多对腿，最显眼的是前面那对持有巨螯的第一对腿，以及作为辅助移动的肉质、扁平的最后一对腿，在躯体两侧拍动着。至少，它的尾巴仅是用以展示威慑之用。",
   "context": "ID: mon_jaekelopterus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_jaekelopterus\n",
   "stage": 1
  },
@@ -3004,7 +3032,7 @@
  {
   "key": "b344415df42bb6a510bcb52212457881",
   "original": "A large, insect-looking bug thing.  The multiple pairs? of legs, shifting in and out from each other, and even out of thin air and into nothing, have convinced you it's unrelated to anything from Earth.",
-  "translation": "一个巨大的、长得像昆虫的怪物。它长着很多条腿，这些腿不断地伸缩，甚至能凭空出现或消失，你觉得它肯定不是来自地球。",
+  "translation": "一只巨大的、长得像昆虫的怪物。它长着很多条腿，这些腿不断地伸缩，甚至能凭空出现或消失，你觉得它肯定不是来自地球。",
   "context": "ID: mon_xdimen_insect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_voidf.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_xdimen_insect\n",
   "stage": 1
  },
@@ -3018,7 +3046,7 @@
  {
   "key": "71ac523a8445b361089071f5d96ef162",
   "original": "A large, vaguely pig-like predator.  The snout is reminiscent of a hippo's, the large teeth are only seen after ritualistic yawns.  The elephantine skin covering the entire body is almost hairless.  Noticing the hooves at the end of its limbs makes you wonder what is this thing related to.",
-  "translation": "A large, vaguely pig-like predator.  The snout is reminiscent of a hippo's, the large teeth are only seen after ritualistic yawns.  The elephantine skin covering the entire body is almost hairless.  Noticing the hooves at the end of its limbs makes you wonder what is this thing related to.",
+  "translation": "一只体型庞大、外形隐约像猪的食肉动物。它的吻部让人联想到河马，大而尖锐的牙齿只有在仪式性的打哈欠时才会显露出来。覆盖全身的象皮般厚重皮肤几乎无毛。注意到它爪子末端的蹄子，你不禁好奇这生物到底与什么物种有关联。",
   "context": "ID: mon_andrewsarchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_andrewsarchus\n",
   "stage": 1
  },
@@ -3052,23 +3080,23 @@
  {
   "key": "0b2f22099dd76c3eaea360f97aeb3ce5",
   "original": "A legendary weapon.  Attributed to oni, it's reported it was used by strong soldiers to break the legs of enemy horses and perhaps to smash through armor too.  Similar to a bat mace, the \"head\" is covered by a hexagonal cap featuring metal studs, while the handle has a thick iron ring attached at the end.  Somewhat unwieldy due its size, you will need plenty of strength to use this.",
-  "translation": "一件传说中的武器。相传出自鬼怪之手，曾被强壮的士兵用来折断敌军马匹的腿骨，甚至能击破铠甲。这把武器形似蝙蝠狼牙棒，其“头部”覆盖有六边形的盖帽，上面钉有金属钉，而柄部则在末端附有一圈厚实的铁环。由于其体型庞大，使用时颇为笨重，需要极大的力量才能挥动自如。",
+  "translation": "一件传说中的武器。相传源自鬼族，有记载称强大战士曾用其折断敌军马匹腿骨，甚至能击破铠甲。这把武器形似狼牙棒，其棒头裹有六棱柱状铁面，嵌有铁钉，一端配以厚重铁环。鉴于其尺寸，使用者需有过人之力方可驾驭。",
   "context": "ID: kanabo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/thex_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GENERIC→kanabo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c0476244cba068484bf563ad937c3df6",
   "original": "A legendary weapon.  Attributed to oni, it's reported it was used by strong soldiers to break the legs of enemy horses and perhaps to smash through armor too.  This one is crude, fully metallic with metal spikes, with a thick iron ring at one end.  Extremely heavy, seems whoever uses this should have superhuman strength.",
   "translation": "一件传说中的武器。相传源自鬼族，有记载称强大战士曾用它来折断敌军马匹的腿骨，甚至能击碎铠甲。此锤粗犷，通体金属，钉有铁刺，一端配以厚重的铁环。其重量惊人，使用者似需拥有超凡之力。",
   "context": "ID: kanabo_oni_spiked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/thex_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GENERIC→kanabo_oni_spiked\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cac20a2a9216b2dbd4759f4d1858685e",
   "original": "A legendary weapon.  Attributed to oni, it's reported it was used by strong soldiers to break the legs of enemy horses and perhaps to smash through armor too.  This one is crude, fully metallic with metal studs, with a thick iron ring at one end.  Extremely heavy, seems whoever uses this should have superhuman strength.",
   "translation": "一件传说中的武器。相传源自鬼族，有记载称强大战士曾用其折断敌军马匹腿骨，甚至能击破铠甲。此锤粗犷，通体金属打造，嵌有铁钉，一端配以厚重铁环。其重量惊人，使用者似需超凡之力方可驾驭。",
   "context": "ID: kanabo_oni\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/thex_melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GENERIC→kanabo_oni\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b08368f5810856452e1a44ace68c92b1",
@@ -3129,7 +3157,7 @@
  {
   "key": "27d6dcb75404b26c40a5fd89b713a6ee",
   "original": "A lobster-looking thing, measuring approximately 1 m long, with two barbed mouth appendages in front of the head.  The head features two big composite eyes at the sides on top, as if they were antennas or button from some ancient console's controllers.  The animal has a fleshy \"skirt\" which undulates for allowing locomotion.  Perhaps the less revealing part is the tail, which is unquestionably that of a shrimp, telling the animal's taxonomy and culinary properties.  This would make an exotic pet, if it wasn't for its aquatic lifestyle, and that it went extinct 500 mya.",
-  "translation": "一只龙虾状生物，体长约一米，头部前方有两根带倒钩的口部附肢。头部两侧上方各有一对大型复眼，仿佛是古老游戏手柄上的天线或按钮。该动物拥有一圈肉质“裙边”，通过波动来实现移动。最不显眼的部位可能是尾巴，其无误地揭示了它属于虾类的分类学特征及烹饪属性。如果不是因为其水生生活方式以及早在5亿年前就已灭绝，这将是一个异国情调的宠物选择。",
+  "translation": "一只龙虾状生物，体长约一米，头部前方有两根带倒钩的口器。头部两侧上方各有一对大型复眼，仿佛是古老游戏手柄上的天线或按钮。该动物拥有一圈肉质“裙边”，通过其蠕动来进行游走。最不显眼的部位可能是尾巴，其无误地揭示了它属于虾类的分类学特征及烹饪属性。如果不是因为其水生生活方式以及早在5亿年前就已灭绝，这将是一个异国情调的宠物选择。",
   "context": "ID: mon_anomalocaris\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_anomalocaris\n",
   "stage": 1
  },
@@ -3204,9 +3232,9 @@
  {
   "key": "f1ee51b3c3e351762fad8c5bda93fea2",
   "original": "A normal computer, if it wasn't for the fact that's \"walking\" with help of wires and other unidentified pieces of hardware.",
-  "translation": "A normal computer, if it wasn't for the fact that's \"walking\" with help of wires and other unidentified pieces of hardware.",
+  "translation": "一台普通的电脑——如果它没有在电线及其他不明硬件的帮助下“行走”的话。",
   "context": "ID: mon_computer_possessed\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_tsukumogami.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_computer_possessed\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e5e6f7361b274e0c050b7bedea72fc78",
@@ -3281,9 +3309,9 @@
  {
   "key": "4fd2bf8315f2b9785d7f9c1a97b43158",
   "original": "A pot pie, filled with bird meat and vegetables.  Filling, nutricious and delicious.",
-  "translation": "一份禽肉蔬菜馅饼，内含禽肉与多种蔬菜。量大营养又美味。",
+  "translation": "一份禽肉蔬菜馅饼，内有禽肉与多种蔬菜。量大还管饱，营养又美味。",
   "context": "ID: bird_pie_pot\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_dishes.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_pie_pot\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "feb8c59ba081be04f4ff8f02181c63e9",
@@ -3302,7 +3330,7 @@
  {
   "key": "1414ec6ea5727a7897c514d11ff367d4",
   "original": "A prototype, gas-operated, assault rifle.  Bulky and brick-shaped, it was designed to be more accurate than any weapon in use, requiring a complete redesign from (almost) the ground up.  It features the bullpup design to reduce its overall size, a floating barrel, a rotary breech, and most importantly, the use of caseless ammo.  This combination enables high precision and reliability.  Despite the breakthrough, failure to improve over the accuracy requirement of the M16A2 standard, and issues inherent to the ammo prevented its final adoption.  One of the rarest weapons ever made.",
-  "translation": "一种气动突击步枪原型。它体积庞大，呈砖形，其设计比任何使用中的武器都更精确，需要（几乎）从头开始进行完全重新设计。它的特点是无壳设计，以减小其整体尺寸，浮动枪管，旋转后膛，最重要的是，使用无壳弹药。这种组合实现了高精度和可靠性。尽管取得了突破，但未能提高M16A2标准的精度要求，以及弹药固有的问题阻碍了它的最终采用。有史以来最稀有的武器之一。",
+  "translation": "一把原型气动式突击步枪。它体积庞大，呈砖形，其设计比任何使用中的武器都更精确，需要（几乎）从头开始进行完全重新设计。它的特点是无壳设计，以减小其整体尺寸，浮动枪管，旋转后膛，最重要的是，使用无壳弹药。这种组合实现了高精度和可靠性。尽管取得了突破，但未能提高M16A2标准的精度要求，以及弹药固有的问题阻碍了它的最终采用。有史以来最稀有的武器之一。",
   "context": "ID: hk_g11\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→hk_g11\n",
   "stage": 1
  },
@@ -3323,7 +3351,7 @@
  {
   "key": "d36b0de10c114631beb3b52bc091590a",
   "original": "A puppy Pampaphoneus.  Long dog-creature.",
-  "translation": "A puppy Pampaphoneus.  Long dog-creature.",
+  "translation": "一只潘帕斯猎兽幼犬。Long dog-creature.",
   "context": "ID: mon_pampaphoneus_pup\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_stem_mammal.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_pampaphoneus_pup\n",
   "stage": 1
  },
@@ -3371,14 +3399,14 @@
  {
   "key": "965a2e48db372386df10daf5c5f297fa",
   "original": "A retrofuturistic-looking, gas-operated, bullpup assault rifle, featuring a bakelite case.  Created in the early '60s and featuring a bakelite case, the weapon was intended to serve as a smaller, portable replacement to the AKM.  Some issues, like the shifted center of gravity, the bakelite's durability, and the radical appearance, were enough for its rejection.",
-  "translation": "一款复古未来风的气动操作、犊牛式突击步枪，采用酚醛树脂外壳。这款武器诞生于60年代初期，设计初衷是为了提供一种比AKM更小巧便携的替代品。然而，诸如重心偏移、酚醛树脂耐用性问题以及其激进的外观等缺陷，最终导致了它的淘汰。",
+  "translation": "一款复古未来风的气动型无托突击步枪，使用酚醛树脂外壳。这款武器诞生于60年代初期，其设计初衷是为了提供一种比AKM更小巧便携的替代品。然而，鉴于重心偏移、酚醛树脂的耐用性以及外观激进等众多缺陷，其已经足以被淘汰。",
   "context": "ID: tkb002_p\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→tkb002_p\n",
   "stage": 1
  },
  {
   "key": "9176de6e7059ba173f08700aec5aa816",
   "original": "A retrofuturistic-looking, gas-operated, bullpup assault rifle.  Created in the early '60s and featuring a bakelite case, the weapon was intended to serve as a smaller, portable replacement to the AKM.  Some issues, like the center of gravity (shifted by the extreme magazine position), the bakelite's durability, and the radical appearance, were enough for its rejection",
-  "translation": "一把复古未来主义风格、气动型的无托突击步枪。这把武器诞生于20世纪60年代初，以酚醛树脂外壳为特征，旨在作为更小巧、更便携的替代品取代AKM突击步枪。然而，一些问题，如重心（因弹匣的极端位置而改变）、酚醛树脂的耐用性和激进的外观，都足以让它被拒绝。",
+  "translation": "一把复古未来主义风的气动型无托突击步枪。这把武器诞生于20世纪60年代初，以酚醛树脂外壳为特征，旨在作为更小巧、更便携的替代品取代AKM突击步枪。然而，一些问题，如重心（因弹匣的极端位置而改变）、酚醛树脂的耐用性和激进的外观，都足以让它被拒绝。",
   "context": "ID: tkb002_pm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→tkb002_pm\n",
   "stage": 1
  },
@@ -3420,7 +3448,7 @@
  {
   "key": "075f32a31be2f2fc9220b0a0674834d5",
   "original": "A semi-automatic .30-06 battle rifle, developed to compete after the M1 Garand entered production.  While it presented some advantages over its competitor, such as increased ammo capacity and the use of recoil to cycle, it's several minor disadvantages were enough to make the switch.",
-  "translation": "这是一款半自动的.30-06战斗步枪，为在M1加兰德步枪投产后参与竞争而研发。相比其竞争对手，它具有诸如增大弹匣容量和利用后坐力完成上膛等优势，但几项较小的缺陷也足以阻碍其进行换弹。",
+  "translation": "一把.30-06口径半自动战斗步枪，为在M1加兰德步枪投产后参与竞争而研发。相比其竞争对手，它具有诸如增大弹匣容量和利用后坐力完成上膛等优势，但几项较小的缺陷也足以阻碍其进行换弹。",
   "context": "ID: johnson_m1941\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→johnson_m1941\n",
   "stage": 1
  },
@@ -3532,9 +3560,9 @@
  {
   "key": "b55dd85ee5bb96a60c843c366baf9487",
   "original": "A small Chasmataspis, reminiscent of a shrimp, if shrimps were flat and not curved.",
-  "translation": "A small Chasmataspis, reminiscent of a shrimp, if shrimps were flat and not curved.",
+  "translation": "一只小肢口鲎，长的像虾——如果虾是扁平而非弯曲的的话。 ",
   "context": "ID: mon_chasmataspis_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_chasmataspis_baby\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e68d39d43a81c9d8582c56746a45f831",
@@ -3565,9 +3593,9 @@
  {
   "key": "eaeb7791671c2b1de82a3da626f77514",
   "original": "A small Endoceras.  Pranks fish by poking them in their eyes.",
-  "translation": "一只小内角石。 Pranks fish by poking them in their eyes.",
+  "translation": "一只小内角石。它会戳鱼的眼睛来恶作剧。",
   "context": "ID: mon_endoceras_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_mollusk.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_endoceras_baby\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a499846070c683ee35e4a72c086a2ba1",
@@ -3595,7 +3623,7 @@
   "original": "A small Jaekelopterus with two big claws and a very menacing tail spike.  It almost looks cute.  You wonder if keeping one as a pet in your front yard would keep those pesky undead children from disturbing your lawn.",
   "translation": "一只小羽翅鲎，拥有两只大螯和一根极具威胁的尾刺。它看起来好像有点可爱。你琢磨着如果在前院养一只这样的动物，是否能阻止那些烦人的儿童丧尸捣乱你的草坪。",
   "context": "ID: mon_jaekelopterus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_arthropod.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_jaekelopterus_baby\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f2df9b906262cc288db1357f1e04469a",
@@ -3754,7 +3782,7 @@
  {
   "key": "ced2bd04d99a62cfcce78c292c98d283",
   "original": "A small creature, having the appearance and gait of a gangly, hairless cat or dog.  The head is big relative to the rest of the body, with big black, almond shaped eyes.  The limbs end up at long fingers and toes, each having an equally long, sharp claw.  Perhaps the most noticeable part of the animal are however, the \"quills\" running down from the top of the head its lower back.",
-  "translation": "一种小型生物，外形和步态类似瘦长、无毛的猫或狗。头部相对身体其他部分较大，拥有一双大而黑、杏仁状的眼睛。四肢末端为细长的手指和脚趾，每个都配备了一枚同样修长锋利的爪子。然而，该动物最引人注目的特征莫过于从头顶一直延伸至背部下方的“棘刺”。",
+  "translation": "一种小型生物，外形和步态类似瘦长、无毛的猫或狗。头部相对身体其他部分较大，拥有一双大而黑的杏仁状眼睛。四肢末端为修长的足趾，每根趾上都长着一片同样修长的利爪。然而，其身上最引人注目的特征还是那从头顶一直延伸至背部下方的“棘刺”。",
   "context": "ID: mon_chupacabra_small\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_chupacabra_small\n",
   "stage": 1
  },
@@ -3899,9 +3927,9 @@
  {
   "key": "f9e4cadbabfac2d41dad23c6301ad694",
   "original": "A small, mishappen humanoid, covered by some sort of organic or plastic shell that's slowly falling off as it moves.  The head is big and has a pair of two very big eyes, a small mouth, with the nose being difficult to differentiate, if it is even there.  The skin is translucent, you can see something beneath it.  The limbs are thin and look frail, the torso has surgery scars and weird prosthethics.  The more you look at it, the more it seem to warp, towards the un-earthly side.",
-  "translation": "一个身形矮小、畸形的人形生物，身体覆盖着某种正在缓慢脱落的有机或塑料外壳。头部硕大，长着一双异常巨大的眼睛，嘴巴很小，鼻子几乎难以辨认，甚至可能不存在。皮肤呈半透明状，可以隐约看到皮下的物体。四肢细弱，看起来十分脆弱，躯干上布满了手术疤痕和奇异的义体。你越仔细观察，越觉得它的形态在扭曲，向着非地球生物的奇异方向变化。",
+  "translation": "一个身形矮小、畸形的人形生物，身体覆盖着某种正在缓慢脱落的有机或塑料外壳。头部硕大，长着一双异常巨大的眼睛，嘴巴很小，鼻子几乎难以辨认，甚至可能不存在。皮肤呈半透明状，可以隐约看到皮下的物体。四肢纤细，看起来十分脆弱，躯干上布满了手术疤痕和奇异的义体。你越仔细观察，越觉得它的形态在扭曲，向着非地球生物的奇异方向变化。",
   "context": "ID: mon_mib_alien\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_alien\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1bbb517bca6585c7f843c084d7b049ab",
@@ -3954,9 +3982,9 @@
  {
   "key": "ffad8d712cf477de177c117ed38c0cff",
   "original": "A smaller Ichthyosaurus.  This would be a curious animal to keep in a big fish tank in the hall, if you were the plotting villain of a movie.",
-  "translation": "A smaller Ichthyosaurus.  This would be a curious animal to keep in a big fish tank in the hall, if you were the plotting villain of a movie.",
+  "translation": "一只小鱼龙。如果你是电影中的反派配角，把这样一头奇异的动物养在大厅的大鱼缸里肯定会引人注目。",
   "context": "ID: mon_ichthyosaurus_baby\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_ichthyosaurus_baby\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b51d106af6319f471fc15d3cd8e640c3",
@@ -3989,14 +4017,14 @@
  {
   "key": "842c8ea3a9de5f5d536e7da2b5094e3e",
   "original": "A somewhat short, bush-like tree.  The trunk supports a canopy of very dense, strip-shaped leaves with perpendicular needles growing up from them.",
-  "translation": "一棵略微矮小，形似灌木的树。树干撑着由密密麻麻的条状叶子组成的树冠，叶片上垂直长着针状小刺",
+  "translation": "一棵略微矮小，形似灌木的树。树干撑着由密密麻麻的条状叶子组成的树冠，叶片上垂直长着针状小刺。",
   "context": "ID: t_tree_sanfordiacaulis\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/terrain_furniture/thex_terrain_flora.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→terrain→t_tree_sanfordiacaulis\n",
   "stage": 1
  },
  {
   "key": "34514280cb6f619654f50da0978e0cf1",
   "original": "A special module for certain LDC weapons.  It's a small, curved, soft-looking piece of a metallic material which is warm to the touch.  Seems that mere contact in specific sites of the weapon will dock it.  This module changes the property of the ammo to work on a similar way like pellets, at the cost of slightly reducing the damage done.",
-  "translation": "适用于特定LDC武器的特殊模块。它是一小块弯曲的、看似柔软的金属材料，触感温暖。似乎只需在武器的特定部位接触即可安装。此模块改变弹药属性，使其作用方式类似于散弹，但会略微降低造成的伤害。",
+  "translation": "适用于特定LDC武器的特殊模组。它是一小块弯曲的、看似柔软的金属材料，触感温暖。似乎只需在武器的特定部位接触即可安装。此模组会改变弹药的属性，使其作用方式类似于散弹，但会略微降低伤害。",
   "context": "ID: lunar_module_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_lunar_gunmods.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→lunar_module_1\n",
   "stage": 1
  },
@@ -4075,7 +4103,7 @@
   "original": "A strong gust shoots forward!",
   "translation": "一阵强风袭来！",
   "context": "ID: lavender_grimoire_cast_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magic/thex_magic_item_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→lavender_grimoire_cast_eoc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cec0b2fd0c8c0dc775770b71f7fa2a07",
@@ -4108,16 +4136,16 @@
  {
   "key": "10645c61ba1ea021029689df0ee93e40",
   "original": "A tasty collection of wild herbs including violet, sassafras, mint, clover, purslane, and fireweed.",
-  "translation": "A tasty collection of wild herbs including violet, sassafras, mint, clover, purslane, and fireweed.",
+  "translation": "一小堆可口的野生草药，包含紫罗兰，黄蟑，薄荷，苜蓿，马齿苋，柳兰草等。",
   "context": "ID: silphium\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_crops.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→silphium\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "24553513c2dbaf1df56e8dc7c1788f8a",
   "original": "A thick, heavy book.  Its contents consist of history.  Specifically, if you can say so, world, local, pre-history, ancient, modern, events from the last few years.  It also contains biographies, autobiographies, essays about known and not-so historical figures.  It even contains the history of subjects such as math, the history of science, art history, philosophical subjects from a historical perspective and the history of philosophy, including a wide selection of lesser subjects that go from chronicles of gardening, to big moments in fishing, without missing the records of weather recording.  A further division is historiography itself, good practices for historians and for understanding history as a non-historical practicioner.  It even has several sections of pseudo-history, propaganda, analysis on biases, historical communication, how to identify bad history.  The appendix features related sections, such as the study of human societies, the study of progress of societies, how to tell if we live in a society, and how different societies handle their own history and the history of other societies.  The cover is blank, lacking a title.",
   "translation": "这是一本厚重的书，内容涉及历史，包括了世界史、地方史、史前史、古代史、现代史以及近几年的历史事件。书中还包含人物传记、自传、关于知名和非知名历史人物的随笔。甚至还涵盖了数学史、科学史、艺术史、哲学史以及众多其他历史主题，从园艺编年史到钓鱼的重大时刻，再到天气记录，内容无所不包。此外，书中还探讨了史学本身，包括史学家的良好惯例以及非历史专业人士如何理解历史。甚至还有一些伪史、宣传、偏见分析、历史传播、如何识别不良历史等章节。附录中还包括相关主题，如人类社会学研究、社会的发展历程、如何定义社会以及不同社会对待自身历史和他人历史的方式。这本书的封面是空白的，没有任何标题。",
   "context": "ID: history_book\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magic/history_book.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→TOOL→history_book\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7efcaaf02764e4bebc728e3cc5c5292f",
@@ -4171,7 +4199,7 @@
  {
   "key": "dba73b9b8d8685bf5bfc3d51a743fdb9",
   "original": "A towering, smooth rock.",
-  "translation": "A towering, smooth rock.",
+  "translation": "一堆高立的平滑岩石。",
   "context": "ID: f_earthbarrier\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/terrain_furniture/thex_magic_furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→furniture→f_earthbarrier\n",
   "stage": 1
  },
@@ -4185,20 +4213,20 @@
  {
   "key": "e5d257d62cf3a64865e9ca8839bc29a6",
   "original": "A transformed skinwalker, taking the shape of a bear.  With a mix of both human and ursine anatomy, it is somewhat lean, walking upright leaving the muscular arms free.  The face displays a carnivorous smile, with weirdly human eyes.  It still carries around the tribal accesories it had while on human form.",
-  "translation": "一只转变了形态的皮行者，现在化身为熊的样子。它兼具人类和熊类的生理结构，体形略显瘦削，能直立行走，强健的双臂悬垂自由。咧着大嘴，有着奇异的人类眼神。它仍保留着人类形态时所佩戴的饰品。",
+  "translation": "一只转变了形态的皮行者，化身为熊的样子。它兼具人类和熊类的生理结构，只是体形略显瘦削，正悬垂强健的双臂直立行走着。它咧着大嘴，有着奇异的、人类般的眼神。它仍保留着人类形态时所佩戴的饰品。",
   "context": "ID: mon_skinwalker_witch_bear\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_witch_bear\n",
   "stage": 1
  },
  {
   "key": "686ecf0bfe5caf654bd0b1ebadcc4fb1",
   "original": "A transformed skinwalker, taking the shape of a cow.  With a mix of both human and bovine anatomy, it looks emaciated, the hooved legs support the body while the mishappen hands are free.  Canine teeth show past the lips, large and vaguely humanoid eyes positioned frontwards like the large, sharp horns.  It still carries around the tribal accesories it had while on human form.",
-  "translation": "一只转变形态的皮行者，化身为牛的样子。它兼具人与牛的解剖特征，显得瘦骨嶙峋，蹄状的腿支撑着身体，而畸形的手则悬空自由。犬齿从唇边露出，大而略具人形的眼睛像尖锐的犄角一样朝前分布。它仍携带着作为人类时佩戴的饰品。",
+  "translation": "一只转变形态的皮行者，化身为牛的样子。它兼具人与牛的生理特征，只是显得瘦骨嶙峋。蹄足支撑着身体，而畸形的手则悬垂着。其犬齿从唇边露出，大而略具人形的眼睛像尖锐的犄角一样朝前分布。它仍携带着人类形态时佩戴的饰品。",
   "stage": 1
  },
  {
   "key": "cd71eacad8b5f72df83d00099a95162c",
   "original": "A transformed skinwalker, taking the shape of a cow.  With a mix of both human and bovine anatomy, it looks emaciated, the hooved legs support the body while the mishappen hands are free.  Canine teeth show past the lips, large and vaguely humanoid eyes positioned frontwards, as the large, sharp horns.  It still carries around the tribal accesories it had while on human form.",
-  "translation": "A transformed skinwalker, taking the shape of a cow.  With a mix of both human and bovine anatomy, it looks emaciated, the hooved legs support the body while the mishappen hands are free.  Canine teeth show past the lips, large and vaguely humanoid eyes positioned frontwards, as the large, sharp horns.  It still carries around the tribal accesories it had while on human form.",
+  "translation": "一只转变形态的皮行者，化身为牛的样子。它兼具人与牛的解剖特征，显得瘦骨嶙峋，蹄状的腿支撑着身体，而畸形的手则悬垂着。其犬齿从唇边露出，大而略具人形的眼睛像尖锐的犄角一样朝前分布。它仍携带着作为人类时佩戴的饰品。",
   "context": "ID: mon_skinwalker_witch_cow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_witch_cow\n",
   "stage": 1
  },
@@ -4226,7 +4254,7 @@
  {
   "key": "9e60ffc17063b94353cf5e2d9b254242",
   "original": "A uncannily looking entity.  At first glance it kind of looks like a primate: bipedal posture, prensile hands at the end of very long arms, binocular vision.  Yet you realize it's not covered by hair but something… else you can't tell.  The large eyes seem to glow in the dark; you can?  hear it talk, yet you see no mouth.",
-  "translation": "一只令人不安的生物。乍看之下，它有点像灵长类动物：双足直立，极长的手臂末端有抓握能力，双眼并用。但你意识到覆盖着它的并不是毛发，而是一种……你难以名状的物质。那双大眼睛在黑暗中似乎发出幽光；你仿佛能听到它说话，却看不见它的嘴。",
+  "translation": "一只令人不安的生物。乍看之下，它有点像灵长类动物：双足直立，极长的手臂末端有抓握能力，双眼视物。但你意识到覆盖着它的并不是毛发，而是一种……你难以名状的物质。那双大眼睛在黑暗中似乎发着盈盈幽光；你仿佛能听到它说话，却看不见它的嘴。",
   "context": "ID: mon_sewer_ape\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_sewer_ape\n",
   "stage": 1
  },
@@ -4323,9 +4351,9 @@
  {
   "key": "61667b441c6afe957f2c0dbe9f7375c1",
   "original": "A very large, vaguely looking humanoid-beast entity.  By the body alone you can't tell if it's a primate, a bear-thing, or a mix between both.  Due that, the \"face\" is very, very uncanny looking.",
-  "translation": "一个身形巨大、轮廓模糊的人形兽实体。仅凭身体，你无法分辨它是灵长类动物、熊类生物，还是二者的混合体。因此，它的“面部”看起来异常怪异。",
+  "translation": "一个身形巨大、形态难辨的人形巨兽。仅凭身形，你无法确定它是灵长类动物、熊类生物、抑或是二者的混合体：它的“脸部”看起来真是非常、非常的怪异。",
   "context": "ID: mon_mapinguari\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mapinguari\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "20ee99ba20d7edf4acba2623446c9aa4",
@@ -4352,7 +4380,7 @@
   "key": "3e444629d5dc9007958015a8e74b6f44",
   "original": "A wheat-free bird cheeseburger with more vegetables and condiments.  A beef-free alternative for a great meal.",
   "translation": "这个无麸质禽肉奶酪汉堡里又塞进了美味的蔬菜和调料。一顿美味大餐的非牛肉替代品。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "07474d08716e156f5a1defdc811ed99a",
@@ -4529,7 +4557,7 @@
   "original": "Adds effect used as condition to print the message",
   "translation": "Adds effect used as condition to print the message",
   "context": "ID: skinwalker_transform_dummy\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_transform_dummy\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5117d43a01d250a8df1db3cf57d8f11e",
@@ -5015,21 +5043,21 @@
  {
   "key": "8146f9b77def5cbeea6e85fd80a7c390",
   "original": "An unnatural abomination.  A very large, clawed rabbit, it's angry.  <color_red>Very</color> angry.",
-  "translation": "An unnatural abomination.  A very large, clawed rabbit, it's angry.  <color_red>Very</color> angry.",
+  "translation": "一头反常的畸形怪物。一只体型巨大、长着利爪的兔子，它正愤怒着，<color_red>非常</color>愤怒。",
   "context": "ID: mon_skinwalker_rabbit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_rabbit\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "66a8235ef06f6847091bd61b51a2082b",
   "original": "An unnatural beast.  Vaguely shaped like a human walking on all fours, the face is covered, no, fused to an animal's skull, with twig-like black horns growing from the back, and locked on a semi-closed position.  The bizarrely long, thin limbs end with large, equally thin clawed extremities.  The arched back forces the head downwards, and is covered by what look like black twigs.",
-  "translation": "一只非自然的怪兽。外形隐约像一个人类四肢着地行走，面部被覆盖，不，是与动物头骨融合在一起，后背生长出细枝般的黑色角，固定在半闭合的状态。其异常修长而纤细的四肢末端是硕大而同样纤薄的爪状肢体。拱起的背部迫使头部向下低垂，全身覆盖着看似黑色细枝的物体。",
+  "translation": "一只非自然的怪兽。外形约似以四足行走的人类，面部覆盖着……不，与动物头骨融为了一体，后背生长出细枝般的黑色尖角，固定在半闭合的状态。其异常修长而纤细的四肢末端，是硕大而同样纤薄的爪状肢体。拱起的背部迫使头部向下低垂，全身覆盖着看似黑色细枝的物体。",
   "context": "ID: mon_skinwalker_twig\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_youkai_skinwalker.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_skinwalker_twig\n",
   "stage": 1
  },
  {
   "key": "5f2ce8f34b316c3fff5cd68ad1b8b79a",
   "original": "An very large, crocodile-looking beast.  With the frame of an oversized gator, except for the long legs that support its body well above the ground, it wanders around with a primal hunger for smaller, slower creatures.",
-  "translation": "An very large, crocodile-looking beast.  With the frame of an oversized gator, except for the long legs that support its body well above the ground, it wanders around with a primal hunger for smaller, slower creatures.",
+  "translation": "一只巨大的，似鳄鱼般的生物。  With the frame of an oversized gator, except for the long legs that support its body well above the ground, it wanders around with a primal hunger for smaller, slower creatures.",
   "context": "ID: mon_barinasuchus\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_reptile.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_barinasuchus\n",
   "stage": 1
  },
@@ -5124,7 +5152,7 @@
   "original": "Applies a dot that deals 2 dmg over 7 - 15 s",
   "translation": "Applies a dot that deals 2 dmg over 7 - 15 s",
   "context": "ID: skinwalker_curse_15\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_curse_15\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0290ab21a19154e53c219ba978ab8bf6",
@@ -5253,9 +5281,9 @@
  {
   "key": "7e30a16d3dce9bb4ce8caad712b849eb",
   "original": "Basic familiarity with shadows and related entities… bodies?",
-  "translation": "Basic familiarity with shadows and related entities… bodies?",
+  "translation": "对暗影及其相关实体……尸体的基本了解？",
   "context": "ID: prof_wp_shadow\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/proficiencies/thex_weakpoints.json\n类型为 proficiency\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→proficiency→prof_wp_shadow\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b4e02f503f904766aa9bc98f16dbd4ff",
@@ -5520,6 +5548,13 @@
   "stage": 3
  },
  {
+  "key": "e507ef0dfff5644ea7fef44f52d8ad48",
+  "original": "Carnian drizzle",
+  "translation": "Carnian drizzle",
+  "context": "ID: drizzle_carnian_1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→drizzle_carnian_1\n",
+  "stage": 1
+ },
+ {
   "key": "3f27a4a17a1a08cb1f73ec14c586e55b",
   "original": "Carnian lightning storm",
   "translation": "卡尼期之闪电风暴",
@@ -5606,7 +5641,7 @@
   "original": "Chance to transform or vanish",
   "translation": "Chance to transform or vanish",
   "context": "ID: white_lady_transform\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→white_lady_transform\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "74c17808b012430cb3cc3a14cca60945",
@@ -5694,7 +5729,6 @@
   "key": "e3a1a93fc29abede6c0f3ceade99fdc0",
   "original": "Cloudy",
   "translation": "多云",
-  "context": "ID: cloudy\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→cloudy\n",
   "stage": 3
  },
  {
@@ -5774,14 +5808,14 @@
  {
   "key": "5ed38a340e54a7c0a5514578fc45771f",
   "original": "Darkness become thicker before your very eyes, as you realize there's something off this night.",
-  "translation": "Darkness become thicker before your very eyes，as you realize there's something off this night.",
+  "translation": "双目似翳，晦暗渐生。恰如汝知，诡奇将至。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[4]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c5fb566b2b2691da34c0ff9ded24fdb9",
   "original": "Darkness become thicker before your very eyes, as you realize this night…",
-  "translation": "Darkness become thicker before your very eyes, as you realize this night…",
+  "translation": "黑暗渐渐浓郁，于你的双目前弥散，正如你此夜所意识到的那样……",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[2]\n",
   "stage": 1
  },
@@ -5929,7 +5963,7 @@
   "original": "Demoralizes around the skinwalker",
   "translation": "Demoralizes around the 皮行者",
   "context": "ID: skinwalker_demoralize\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_demoralize\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1d6fa81f56b3aaceecfd43ba3eba76b7",
@@ -6021,7 +6055,7 @@
   "original": "Does nothing. The effect is required to remove the one that allows printing the message, due issues with the spell cooldown",
   "translation": "Does nothing. The effect is required to remove the one that allows printing the message, due issues with the spell cooldown",
   "context": "ID: skinwalker_transform_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→skinwalker_transform_none\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "70255d86fcd16bcd8af1fd46cc085276",
@@ -6158,7 +6192,7 @@
   "original": "Eurypterid poison selector",
   "translation": "Eurypterid poison selector",
   "context": "ID: eurypterid_poison\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→eurypterid_poison\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "50a72448d9889a251b6263b2cf912d83",
@@ -6287,7 +6321,6 @@
   "key": "cd56a9c68c3b6503ccfb283c81775b07",
   "original": "Fog",
   "translation": "浓雾",
-  "context": "ID: fog\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→fog\n",
   "stage": 3
  },
  {
@@ -6417,7 +6450,7 @@
   "original": "Gevaudal regen",
   "translation": "Gevaudal regen",
   "context": "ID: gevaudan_heal\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→gevaudan_heal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f87b9fe9275739abb56f0589ad838eb9",
@@ -7234,7 +7267,7 @@
   "original": "Just as the sun goes down, you notice something is… wrong.",
   "translation": "夕阳西下，你察觉到……有些异常。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[3]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a35d46c1a10eee809c441f65f1db6682",
@@ -7310,7 +7343,6 @@
   "key": "954b994d8ba7c63cdd2e6199cfbcb49d",
   "original": "Lightning Storm",
   "translation": "闪电风暴",
-  "context": "ID: lightning\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→lightning\n",
   "stage": 3
  },
  {
@@ -7359,14 +7391,14 @@
   "original": "M1908 Mondragones",
   "translation": "蒙德拉贡 M1908 半自动步枪",
   "context": "ID: mondragon_m1908\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→mondragon_m1908\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f3b18f19f6f31cace45e0914fb69e891",
   "original": "M1908 Mondragón",
   "translation": "蒙德拉贡 M1908 半自动步枪",
   "context": "ID: mondragon_m1908\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gun/thex_generic_gun.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUN→mondragon_m1908\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f6726e4fe4816a86b771d743b66bb6f5",
@@ -7626,7 +7658,6 @@
   "key": "e971cc67769e706cfb8f7fafbeaaaa0f",
   "original": "Mist",
   "translation": "薄雾",
-  "context": "ID: mist\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→mist\n",
   "stage": 3
  },
  {
@@ -7647,7 +7678,7 @@
   "original": "Mondragón M1908 10-round magazine",
   "translation": "蒙德拉贡 M1908 10发弹匣",
   "context": "ID: mondragon_m1908_mag\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magazine/thex_magazine.json\n类型为 MAGAZINE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MAGAZINE→mondragon_m1908_mag\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce64d75a1ebbe76c78f025db6a149a69",
@@ -8233,14 +8264,12 @@
   "key": "de4eda51f409f7799a728d8725b340cd",
   "original": "Rain",
   "translation": "雨",
-  "context": "ID: rain\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→rain\n",
   "stage": 3
  },
  {
   "key": "c3955003fc56c065991d1a2c54a26a81",
   "original": "Rain Storm",
   "translation": "暴风雨",
-  "context": "ID: rainstorm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→rainstorm\n",
   "stage": 3
  },
  {
@@ -8446,7 +8475,7 @@
   "original": "Repeater so the buff stacks thrice at once",
   "translation": "Repeater so the buff stacks thrice at once",
   "context": "ID: ambush_speed_spell\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→ambush_speed_spell\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7279cc98c051a773d4e19c07b730475b",
@@ -8460,7 +8489,7 @@
   "original": "Reposition the monster some distance away",
   "translation": "Reposition the monster some distance away",
   "context": "ID: reposition_24\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→SPELL→reposition_24\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ae72095c5469a51bb7241df5f8978ce8",
@@ -9274,16 +9303,16 @@
  {
   "key": "bbe3fa301a2cef1441a1d50ad9d4e54b",
   "original": "Strange looking 4-dimensional ammo.  The metallic projectile features notches all over its surface, which upon closer inspection appear to be an unreadable script.  It feels bigger than it looks to the touch, as if it had some sort of invisible shell around it.  There's no problem whatsoever fitting these into their respective magazines, though.",
-  "translation": "奇特的四维弹药。这种金属弹丸表面布满了凹槽，仔细观察，你会发现那是一种无法辨识的符文。触摸时感觉比看上去更大，仿佛周围包裹着某种无形的壳层。然而，将它们装入对应的弹匣却毫无障碍。",
+  "translation": "奇特的四维弹药。这种金属子弹表面布满了凹槽，仔细观察，你会发现那是一种无法辨识的符文。其触摸时感觉比看上去更大，仿佛周围包裹着某种无形的壳层。然而，将它们装入对应的弹匣却毫无障碍。",
   "context": "ID: ammo_lunar_4d_rhyzome\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/lunar_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→ammo_lunar_4d_rhyzome\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cb2ab9bdc9b5250af8da73627861cd6a",
   "original": "Strange looking 5-dimensional ammo.  It looks like ofuda displaying an unreadable script, which apparently serves as instructions for the weapon to \"read\" and materialize the actual proyectile elements to shoot.  After reading, the contents are consumed, leaving the ofuda blank.",
-  "translation": "奇特的五维弹药。它看起来像是一张符纸，上面展示着无法辨认的符文，显然是作为武器“读取”并实体化射出的弹体的指令。一旦被读取后，其内容物会被消耗，留下空白的符纸。",
+  "translation": "奇特的五维弹药。它看起来像是一张符纸，上面展示着无法辨认的符文，显然是作为武器“读取”并实体化射出的子弹的指令。一旦被读取后，其内容物会被消耗，留下空白的符纸。",
   "context": "ID: ammo_lunar_5d_ofuda\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/ammo/lunar_ammo.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→AMMO→ammo_lunar_5d_ofuda\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9b4607a83d7dff12b81e69d17791cd77",
@@ -9394,7 +9423,7 @@
  {
   "key": "f2c441e340c26e0e3129aa63441f5187",
   "original": "Suddenly, you notice a faint rythm, coming from outside.  Somehow, the shadows seem alive, and taunting you.",
-  "translation": "突然间，你听到外面传来一阵微弱的节奏。不知怎么的，影子似乎活了过来，在嘲弄着你。",
+  "translation": "突然间，你听到外面传来一阵微弱的旋律。不知怎么的，影子似乎活了过来，正嘲弄着你。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[4]\n",
   "stage": 1
  },
@@ -9976,7 +10005,7 @@
  {
   "key": "acff2b35d956329a5afd20383fb7fd5c",
   "original": "The %1$s slashes at your %2$s, but glances off your armor!",
-  "translation": "%1$s猛地斩击你的%2$s，但只是掠过了护甲！",
+  "translation": "%1$s猛斩你的%2$s，但只是掠过了护甲！",
   "context": "ID: slash_15\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→monster_attack→slash_15\n",
   "stage": 3
  },
@@ -10064,14 +10093,14 @@
  {
   "key": "92c51a34d5a9fb8f37d050c652cd3820",
   "original": "The %s attempts to charge at you!  But it misses!",
-  "translation": "%s号尝试向你冲撞！但没能击中！",
+  "translation": "%s试图向你冲撞！但没能击中！",
   "context": "ID: charge_29\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→monster_attack→charge_29\n",
   "stage": 3
  },
  {
   "key": "b074b54c2bf60e697455e1f9a2fe1e5c",
   "original": "The %s attempts to chomp your %2$s!  You dodge!",
-  "translation": "%s尝试咬住你的%2$s！你躲开了！",
+  "translation": "%s试图咬住你的%2$s！你躲开了！",
   "stage": 3
  },
  {
@@ -10123,7 +10152,7 @@
  {
   "key": "e7eed3b751b4d82b06a6be24a27b51e6",
   "original": "The %s focuses a strike at your torso!  You dodge!",
-  "translation": "%s号集中力量向你的躯干发起猛攻！你躲开了！",
+  "translation": "%s集中力量，向你的躯干发起猛攻！你躲开了！",
   "context": "ID: heart_strike\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_special_attacks/thex_monster_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→monster_attack→heart_strike\n",
   "stage": 3
  },
@@ -10131,7 +10160,7 @@
   "key": "7244d18a8e7cc1cb76fd429ed38f0d6a",
   "original": "The %s is blinded!",
   "translation": "%s 瞎了！",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
@@ -10145,14 +10174,14 @@
   "key": "8aee748307160e1b3eb080bb532f0f64",
   "original": "The %s is knocked off-balance!",
   "translation": "%s 失去平衡了！",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
   "key": "986a382375ef31117b87c8572d59570e",
   "original": "The %s is stunned!",
   "translation": "%s 被击晕了！",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
@@ -10165,7 +10194,7 @@
   "key": "ee4aef1082ffc0c10ba9eb165060b75c",
   "original": "The %s shoots!",
   "translation": "%s射击！",
-  "context": "ID: mon_mib_agent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_agent\n",
+  "context": "ID: mon_fairy_urban1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_fairy.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_fairy_urban1\n",
   "stage": 3
  },
  {
@@ -10279,7 +10308,7 @@
  {
   "key": "908e8ff4919ee7d02016c65ed00315cd",
   "original": "The %s's frame is compromised!",
-  "translation": "%s的车架受损严重！",
+  "translation": "%s的骨架受损严重！",
   "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n",
   "stage": 3
  },
@@ -10294,14 +10323,14 @@
   "key": "6db7e94cb48f046bf66b528e83bacb76",
   "original": "The %s's leg goes limp!",
   "translation": "%s 的腿跛了！",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_youkai_doglike_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_youkai_doglike_body\n",
   "stage": 3
  },
  {
   "key": "f39bcf9a3c5a60e28e62167d989d75c4",
   "original": "The %s's leg is disabled!",
   "translation": "%s 的腿断了！",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_posessed_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_tsukumogami_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_posessed_body\n",
   "stage": 3
  },
  {
@@ -10315,7 +10344,7 @@
   "key": "c65a0cf0c7e812ef6b3bcbe6d95aa2eb",
   "original": "The %s's mandibles are crippled!",
   "translation": "%s的下颚残废了!",
-  "context": "ID: wps_gorgonopsid_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_theriodontia_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_gorgonopsid_body\n",
+  "context": "ID: wps_terrorpig_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_mammal_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terrorpig_body\n",
   "stage": 3
  },
  {
@@ -10605,7 +10634,7 @@
  {
   "key": "e8916f5c6170dcd301596085c60e1deb",
   "original": "The gap generator does nothing.",
-  "translation": "The gap generator does nothing.",
+  "translation": "隙间生成器 does nothing.",
   "context": "ID: gap_generator_place_8_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/magic/gap_generator_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→gap_generator_place_8_eoc\n",
   "stage": 1
  },
@@ -11173,7 +11202,6 @@
   "key": "82b81eb4bff10dcbbbeb0b7fb137cbdc",
   "original": "Thunder Storm",
   "translation": "雷暴",
-  "context": "ID: thunder\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_type.json\n类型为 weather_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weather_type→thunder\n",
   "stage": 3
  },
  {
@@ -11315,14 +11343,14 @@
  {
   "key": "43312d1f6cdb1f279157f45949764c3a",
   "original": "VSS Vintorez suppressor",
-  "translation": "VSS Vintorez 狙击步枪 消音器",
+  "translation": "VSS “绞丝机” 狙击步枪 消音器",
   "context": "ID: suppressor_vss\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/gunmod/thex_muzzle.json\n类型为 GUNMOD\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→GUNMOD→suppressor_vss\n",
   "stage": 3
  },
  {
   "key": "86ba2fe5c05c13b000fcfd40b9472d3f",
   "original": "VSS Vintorez suppressor (fixed)",
-  "translation": "VSS Vintorez 狙击步枪 消音器（固定式）",
+  "translation": "VSS “绞丝机” 狙击步枪 消音器（固定式）",
   "stage": 3
  },
  {
@@ -11673,7 +11701,7 @@
  {
   "key": "9727bdadddeeccd70b0a7bf47db18076",
   "original": "You feel strange… suddenly craving meat and hating anyone too close around you.",
-  "translation": "你感到很奇怪...突然间对肉食充满渴望，且无法忍受任何人靠得太近。",
+  "translation": "你感到很奇怪……突然间对肉食充满渴望，且无法忍受任何人靠得太近。",
   "context": "ID: ench_skinwalker_pelt\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_enchantments.json\n类型为 enchantment\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→enchantment→ench_skinwalker_pelt\n",
   "stage": 3
  },
@@ -11749,7 +11777,7 @@
  {
   "key": "589a9b9f42f79512fa97246c8af0f52a",
   "original": "You have dark purple eyes.",
-  "translation": "你有一双深紫色的眼睛",
+  "translation": "你有一双深紫色的眼睛。",
   "context": "ID: eye_dark_purple_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/mutations/thex_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→mutation→eye_dark_purple_touhou\n",
   "stage": 3
  },
@@ -11777,7 +11805,7 @@
  {
   "key": "808a529b6377314e71baf212d239f896",
   "original": "You have magenta eyes.",
-  "translation": "你有一双品红色的眼睛",
+  "translation": "你有一双品红色的眼睛。",
   "context": "ID: eye_magenta_touhou\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/mutations/thex_appearance_eyes.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→mutation→eye_magenta_touhou\n",
   "stage": 3
  },
@@ -11859,9 +11887,9 @@
  {
   "key": "84ae857983b3d9214675854a2be8a43f",
   "original": "You hear faint, otherworldly music, coming from not so far away, slowly getting closer as it increases in volume.",
-  "translation": "You hear faint，otherworldly music，coming from not so far away，slowly getting closer as it increases in volume.",
+  "translation": "你听到不远处传来微弱的音乐声，犹如天籁。随着音量的增大，它似乎在慢慢靠近。",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/snippets/touhou_weather.json\n类型为 snippet\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→snippet→[4]\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "184cdfbe21d9aad774f581ab59923d59",
@@ -12533,9 +12561,9 @@
  {
   "key": "1ab35de31f1dab64669ccb52f6b6c1ad",
   "original": "a damaged section of the frame",
-  "translation": "框架的一个损坏部分",
+  "translation": "骨架的损坏部件",
   "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1c73feaef3774b3851aa60bb814a5894",
@@ -12589,7 +12617,7 @@
  {
   "key": "0cbb38d35be421fc2f7bbc5a73187e02",
   "original": "a small gap in the frame",
-  "translation": "框架中的一个小型隙间",
+  "translation": "骨架上的小缺口",
   "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n",
   "stage": 3
  },
@@ -15256,35 +15284,35 @@
   "key": "2d47cbe7c7fea226750b9785bc929cb4",
   "original": "night_parade_default_snippet",
   "translation": "night_parade_default_snippet",
-  "context": "ID: night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→night_parade_start_message_eoc\n",
+  "context": "ID: thex_event_night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→thex_event_night_parade_start_message_eoc\n",
   "stage": 3
  },
  {
   "key": "feb57221f7dc5e15bace86cc5c7fbc6b",
   "original": "night_parade_gyokuto_snippet",
   "translation": "night_parade_gyokuto_snippet",
-  "context": "ID: night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→night_parade_start_message_eoc\n",
+  "context": "ID: thex_event_night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→thex_event_night_parade_start_message_eoc\n",
   "stage": 3
  },
  {
   "key": "880150a73117f9e10d0538ddd6dae198",
   "original": "night_parade_heaven_snippet",
   "translation": "night_parade_heaven_snippet",
-  "context": "ID: night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→night_parade_start_message_eoc\n",
+  "context": "ID: thex_event_night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→thex_event_night_parade_start_message_eoc\n",
   "stage": 3
  },
  {
   "key": "644de1a863783e1bc5654e169e22eb3c",
   "original": "night_parade_human_snippet",
   "translation": "night_parade_human_snippet",
-  "context": "ID: night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→night_parade_start_message_eoc\n",
+  "context": "ID: thex_event_night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→thex_event_night_parade_start_message_eoc\n",
   "stage": 3
  },
  {
   "key": "652610e6e1cd80f72c823fee8e91d122",
   "original": "night_parade_youkai_snippet",
   "translation": "night_parade_youkai_snippet",
-  "context": "ID: night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→night_parade_start_message_eoc\n",
+  "context": "ID: thex_event_night_parade_start_message_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→thex_event_night_parade_start_message_eoc\n",
   "stage": 3
  },
  {
@@ -15949,9 +15977,9 @@
  {
   "key": "26d60df2340f3c839872d54141c24373",
   "original": "sanfordiacaulis",
-  "translation": "sanfordiacaulis",
+  "translation": "桑福迪亚茎",
   "context": "ID: t_tree_sanfordiacaulis\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/terrain_furniture/thex_terrain_flora.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→terrain→t_tree_sanfordiacaulis\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab840fb31bba9aa78612a7f21fbb9885",
@@ -16108,11 +16136,18 @@
   "stage": 3
  },
  {
+  "key": "aa8e889880dcb6ecb5e404ea243b475e",
+  "original": "silence_hour_snippet",
+  "translation": "silence_hour_snippet",
+  "context": "ID: thex_event_silence_hour_check_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/thex_weather_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→effect_on_condition→thex_event_silence_hour_check_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "b0b819433643f0f9b1db7096cb040794",
   "original": "silphium",
-  "translation": "silphium",
+  "translation": "串叶松香草",
   "context": "ID: f_silphium\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/terrain_furniture/thex_furniture_flora.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→furniture→f_silphium\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8993f2ba04964fa3ed360544624f899b",
@@ -16475,7 +16510,7 @@
   "key": "9f916846106573927076780afbce5b74",
   "original": "the eye",
   "translation": "眼睛",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
@@ -16496,13 +16531,13 @@
   "key": "81c3398920b9e91f4ea06e8bcef54c8d",
   "original": "the fore leg",
   "translation": "前腿",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_youkai_doglike_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_youkai_doglike_body\n",
   "stage": 3
  },
  {
   "key": "95a45a14412ea205ab0ee8a15c5faa09",
   "original": "the frame",
-  "translation": "框架",
+  "translation": "骨架",
   "context": "ID: wps_terminator_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_MIB_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_terminator_body\n",
   "stage": 3
  },
@@ -16510,7 +16545,7 @@
   "key": "b69c6584fa06daec24ab5acd198fb384",
   "original": "the head",
   "translation": "头部",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
@@ -16531,7 +16566,7 @@
   "key": "fee5e2eb26f3bf779d7df49d87dd752d",
   "original": "the hind leg",
   "translation": "后腿",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
@@ -16552,7 +16587,7 @@
   "key": "780078d1690642efc96706db2dbe4459",
   "original": "the mouth",
   "translation": "嘴部",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
@@ -16587,14 +16622,14 @@
   "key": "c421908efc73a80111e39d8f88ba7185",
   "original": "the snout",
   "translation": "长鼻",
-  "context": "ID: wps_plesiosaurus_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_plesiosaurus_body\n",
+  "context": "ID: wps_skinwalker_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_skinwalker_body\n",
   "stage": 3
  },
  {
   "key": "89afc5b231eb3bf386ffafd9ca840e73",
   "original": "the tail",
   "translation": "尾巴",
-  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
+  "context": "ID: wps_youkai_doglike_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_youkai_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_youkai_doglike_body\n",
   "stage": 3
  },
  {

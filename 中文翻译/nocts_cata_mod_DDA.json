@@ -1943,13 +1943,21 @@
   "key": "c76460fb077a1ff7547fe3a418bd5380",
   "original": "ACS-74 stealth cloak",
   "translation": "ACS-74 隐形斗篷",
-  "context": "ID: acs_74_stealth_cloak_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak_on\n",
+  "context": "ID: acs_74_stealth_cloak\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak\n",
   "stage": 3
+ },
+ {
+  "key": "adb88aa08d4166c02fb7018a702ca737",
+  "original": "ACS-74 stealth cloak (on)",
+  "translation": "ACS-74 stealth cloak (on)",
+  "context": "ID: acs_74_stealth_cloak_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak_on\n",
+  "stage": 1
  },
  {
   "key": "f40edeebdb4fa7402b9226e3dd73675a",
   "original": "ACS-74 stealth cloaks (on)",
   "translation": "ACS-74 隐形斗篷（开）",
+  "context": "ID: acs_74_stealth_cloak_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak_on\n",
   "stage": 3
  },
  {
@@ -2362,8 +2370,21 @@
   "key": "50bb515d1686ffa6b0408675455b689c",
   "original": "An experimental cloak that uses a highly sophisticated network of cameras and LEDs to render the user fully invisible.  It is powered by built-in torsion ratchets.  Due to particularities of its construction, it is very difficult to move in, hampering wearer's strength, dexterity and movement speed.",
   "translation": "一个实验性的斗篷，其使用了高度复杂的摄像头和LED网络，让使用者完全隐形。 它由其内置的扭力棘轮提供动力。 由于其特殊的结构，让它非常难以穿上，同时也阻碍了佩戴者的力量、敏捷和移动速度。",
-  "context": "ID: acs_74_stealth_cloak_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak_on\n",
   "stage": 3
+ },
+ {
+  "key": "8331969f547552852315a0b8efcb7058",
+  "original": "An experimental cloak with a destructive interference system that will create pitch-black darkness around you when powered and worn.  Creatures that can see in the dark will still spot you, but it will fool most things.  A network of miniature alphavolatics make it self-charging but only able to sustain short bursts of use.  Activate to turn it on.",
+  "translation": "An experimental cloak with a destructive interference system that will create pitch-black darkness around you when powered and worn.  Creatures that can see in the dark will still spot you, but it will fool most things.  A network of miniature alphavolatics make it self-charging but only able to sustain short bursts of use.  Activate to turn it on.",
+  "context": "ID: acs_74_stealth_cloak\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak\n",
+  "stage": 1
+ },
+ {
+  "key": "cc39c2c06403eee842d81bf241b7c53a",
+  "original": "An experimental cloak with a destructive interference system, creating pitch-black darkness around you.  Creatures that can see in the dark will still spot you, but it will fool most things.  A network of miniature alphavolatics make it self-charging but only able to sustain short bursts of use.  It's currently on, activate to turn it back off.",
+  "translation": "An experimental cloak with a destructive interference system, creating pitch-black darkness around you.  Creatures that can see in the dark will still spot you, but it will fool most things.  A network of miniature alphavolatics make it self-charging but only able to sustain short bursts of use.  It's currently on, activate to turn it back off.",
+  "context": "ID: acs_74_stealth_cloak_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak_on\n",
+  "stage": 1
  },
  {
   "key": "eaec8322ab024fd865a27ef68cf3c253",
@@ -7005,6 +7026,27 @@
   "translation": "甲壳装甲没有反应，显然是因为能量不足。",
   "context": "ID: c_mi_go_carapace_salvaged\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→c_mi_go_carapace_salvaged\n",
   "stage": 3
+ },
+ {
+  "key": "de2192189bf1a33c27f687ac8602017a",
+  "original": "The cloak flickers and powers down.",
+  "translation": "The cloak flickers and powers down.",
+  "context": "ID: acs_74_stealth_cloak_on\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak_on\n",
+  "stage": 1
+ },
+ {
+  "key": "dabd0958349d1867b993b87cca25781f",
+  "original": "The cloak is out of power.",
+  "translation": "The cloak is out of power.",
+  "context": "ID: acs_74_stealth_cloak\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak\n",
+  "stage": 1
+ },
+ {
+  "key": "23b6300fe49d3f33e6a31d07acd3340a",
+  "original": "The cloak shimmers and emits an intense light-disrupting field.",
+  "translation": "The cloak shimmers and emits an intense light-disrupting field.",
+  "context": "ID: acs_74_stealth_cloak\n位于 /Kenan-Structured-Modpack/nocts_cata_mod_DDA/Surv_help/c_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#nocts_cata_mod_DDA→TOOL_ARMOR→acs_74_stealth_cloak\n",
+  "stage": 1
  },
  {
   "key": "f2317254319af5b2b10a1716c99a780c",
