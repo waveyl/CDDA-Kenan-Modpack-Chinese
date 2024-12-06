@@ -400,7 +400,7 @@
     },
     "effect": [ 
       { "math": [ "var_mokoudeath", "-=", "1" ] },
-      { "queue_eocs": [ "mokou_resurrect_counter_eoc" ], "time_in_future": "1 h" }
+      { "run_eocs": [ "mokou_resurrect_counter_eoc" ], "time_in_future": "1 h" }
     ],
     "//": "Reduces var_mokoudeath over time"
   },
@@ -584,7 +584,7 @@
       { "math": [ "u_val('stamina')", "=", "8500" ] },
       { "math": [ "u_pain()", "=", "0" ] },
       {
-        "queue_eocs": [
+        "run_eocs": [
           {
             "id": "seiga_revive_eoc",
             "effect": [
@@ -822,6 +822,52 @@
     "//": "This checks how much dmg has Remi done, sets the var_HEAL to 66% of that and casts the healing spell",
     "//note": "Optimally, this would heal proportionally to the dmg done, but there's no way to track that without a custom dmg type",
     "//note2": "And to track it by custom dmg an ITEM_DAMAGE_X enchant is required"
+  },
+  {
+    "id": "flight_gain_effect_eoc",
+    "type": "effect_on_condition",
+    "eoc_type": "EVENT",
+    "required_event": "character_gains_effect",
+    "condition": {
+      "or": [
+        { "compare_string": [ "flight_hellraven_effect", { "context_val": "effect" } ] },
+        { "compare_string": [ "flight_tengucrow_effect", { "context_val": "effect" } ] },
+        { "compare_string": [ "flight_vampire_effect", { "context_val": "effect" } ] }
+      ]
+    },
+    "effect": [
+      { "math": [ "u_spell_level('fly_upwards')", "=", "1" ] },
+      { "math": [ "u_spell_level('fly_downwards')", "=", "1" ] },
+      { 
+        "run_eocs": [ 
+          {
+            "id": "flight_gain_vampire_effect_eoc",
+            "condition": { "u_has_effect": "flight_vampire_effect" },
+            "effect": [ { "u_add_trait": "WINGS_TOUHOU_VAMPIRE_bat_mode" } ]
+          }
+        ]
+      }
+    ],
+    "//": "This adds the flight up + down spells if the character gets the flight effect, and adds the 'bat mode' trait if the character got the vampire flying effect"
+  },
+  {
+    "id": "flight_lose_effect_eoc",
+    "type": "effect_on_condition",
+    "eoc_type": "EVENT",
+    "required_event": "character_loses_effect",
+    "condition": {
+      "or": [
+        { "compare_string": [ "flight_hellraven_effect", { "context_val": "effect" } ] },
+        { "compare_string": [ "flight_tengucrow_effect", { "context_val": "effect" } ] },
+        { "compare_string": [ "flight_vampire_effect", { "context_val": "effect" } ] }
+      ]
+    },
+    "effect": [
+      { "math": [ "u_spell_level('fly_upwards')", "=", "-1" ] },
+      { "math": [ "u_spell_level('fly_downwards')", "=", "-1" ] },
+      { "u_lose_trait": "WINGS_TOUHOU_VAMPIRE_bat_mode" }
+    ],
+    "//": "This removes the flight up + down spells and any flight-related traits if the character loses the flight effect"
   },
   {
     "id": "youmu_insightfulsword_hit_eoc",
