@@ -35,23 +35,23 @@
  {
   "key": "2d4a4de9ae30400214334355932ef9f4",
   "original": "A hooved grazing mammal with a mane of hair, this particular breed has been bred for a good mix of strength and speed, and trained to better tolerate the stress of combat.",
-  "translation": "一种长有蹄子的食草哺乳动物，拥有鬃毛般的毛发。这一特定品种经过培育，兼具力量与速度，并接受了训练以更好地承受战斗压力。",
+  "translation": "一种有蹄的食草哺乳动物，拥有鬃毛般的毛发。这一特定品种经过培育后，兼具力量与速度，并接受了训练以更好地承受战斗压力。",
   "context": "ID: mon_horse_courser\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/monsters.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→MONSTER→mon_horse_courser\n",
   "stage": 1
  },
  {
   "key": "505442e19961238b6e2be7f396614d63",
   "original": "A large shield made of wood with leather reinforcement.  Sturdier and stronger than a basic wooden shield, and less encumbering than a metal one.",
-  "translation": "用皮革加固的木制大盾牌。 它比基本的木盾更坚固结实，也没有金属盾那么笨重。",
+  "translation": "用皮革加固过的木制大盾。 它比普通的木盾更坚固和结实，也没有金属盾那么笨重。",
   "context": "ID: shield_leather_large\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_leather_large\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "57a163df9ad0c13d501087b98bddbd21",
   "original": "A large shield made of wood with steel bands reinforcing it.  Stronger than a simple wooden shield, but also more encumbering.",
-  "translation": "用钢带加固的木质大盾。 比简单的木盾更坚固，但也更笨重。",
+  "translation": "用钢带加固过的木质大盾。 比简单的木盾更坚固，但也更笨重。",
   "context": "ID: shield_banded_large\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_banded_large\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1d51f9030ca2007cb465c6bc3fc028e2",
@@ -103,16 +103,16 @@
  {
   "key": "828d151e469112f39a403efbf657a937",
   "original": "A simple round shield made of wood with bands of steel reinforcing it.  Stronger than a simple wooden shield, but also more encumbering.",
-  "translation": "一种用木头制成的简单的圆形盾牌，用钢带加固。比简单的木质盾牌更坚固，但也更笨重。",
+  "translation": "用钢带加固过的简易木制圆盾。比简单的木盾更坚固，但也更笨重。",
   "context": "ID: shield_banded\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_banded\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "86c310cd1787e0cefad23d84e5e87650",
   "original": "A simple round shield made of wood with leather reinforcement.  Sturdier and stronger than a simple wooden shield, and less encumbering than a metal one.",
-  "translation": "木质加固的简易圆盾。 比简单的木盾更坚固，比金属盾更轻便。",
+  "translation": "用皮革加固过的简易木制圆盾。 比简单的木盾更坚固，比金属盾更轻便。",
   "context": "ID: shield_leather\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_leather\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8ea8df73f0eb13de1a08396516b195f4",
@@ -129,9 +129,9 @@
  {
   "key": "9492efc33c8e32d8a4dea7cd9dd24b5e",
   "original": "A small metal shield historically used for dueling rather than protection from arrows.  It's small and light enough to not hinder the use of your hands.",
-  "translation": "一种小型金属盾牌，历史上曾用于决斗而非防箭。 它小巧轻便，不会妨碍双手的使用。",
+  "translation": "一面小型金属圆盾，历史上曾用于决斗而非防箭。 它小巧轻便，不会妨碍你使用双手。",
   "context": "ID: shield_buckler\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→ARMOR→shield_buckler\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "557672f4628f53943e1e769fd190f7c5",
@@ -236,7 +236,7 @@
  {
   "key": "d6f6bbad77ae5435ccaa021184bb1f52",
   "original": "Early medieval heavy cavalry of various countries in Europe, whether noble-born or of common blood.  While knights traditionally were men-at-arms, not every man-at-arms was a knight.",
-  "translation": "欧洲各国早期中世纪的重骑兵，无论出身贵族还是平民。虽然骑士传统上是武装战士，但并非每位武装战士都是骑士。",
+  "translation": "欧洲各国早期中世纪的重骑兵，无论出身贵贱。虽然骑士传统上是重骑兵，但并非每位重骑兵都是骑士。",
   "context": "ID: man_at_arms\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→profession→man_at_arms\n",
   "stage": 1
  },
@@ -426,7 +426,7 @@
   "original": "Samurai",
   "translation": "女武士",
   "context": "ID: samurai\n位于 /Kenan-Structured-Modpack/Medieval_Mod_Reborn/chargen/professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Medieval_Mod_Reborn→profession→samurai\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "334192a2eac7e49a2ce7053742858b71",
