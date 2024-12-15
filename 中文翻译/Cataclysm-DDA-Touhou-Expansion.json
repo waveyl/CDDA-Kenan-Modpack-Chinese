@@ -4961,7 +4961,6 @@
   "key": "9d6214a5bde07a5cff2ead1859900165",
   "original": "An irradiated satsumaimo will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
   "translation": "经过辐照消毒的萨摩芋。已经没有放射性了，所以它可以几乎永远保存下去。同时也很安全卫生。",
-  "context": "ID: irradiated_satsumaimo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_irradiated.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→irradiated_satsumaimo\n",
   "stage": 3
  },
  {
@@ -5323,7 +5322,6 @@
   "key": "02e9bc65b21ed146d507c4e23952b44d",
   "original": "Bird meat that has been heavily smoked for long term preservation.  It could be further smoked to dehydrate it completely.",
   "translation": "经过长时间重度熏制以长期保存的禽肉。可进一步熏干以完全脱水。",
-  "context": "ID: bird_smoked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_smoked\n",
   "stage": 3
  },
  {
@@ -5920,7 +5918,6 @@
   "key": "ed74398260c7584b9cfc7104e5b35ff4",
   "original": "Dehydrated bird meat strips.  With proper storage, this dried food will remain edible for an incredibly long time.",
   "translation": "脱水鸟肉干。若储存得当，这种脱水食物有着极长的保质期。",
-  "context": "ID: bird_dry\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_dry\n",
   "stage": 3
  },
  {
@@ -6395,7 +6392,6 @@
   "key": "5e1694649a423e25686d3d1d58c4ec5c",
   "original": "Freshly cooked bird meat.  It tastes like chicken.",
   "translation": "一份刚煮好的鸟肉。尝起来像鸡肉。",
-  "context": "ID: bird_cooked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_cooked\n",
   "stage": 3
  },
  {
@@ -8120,7 +8116,6 @@
   "key": "39766e1cdea9fa5f23832a48687f54b7",
   "original": "Pieces of bird meat.  Unsafe to eat raw.",
   "translation": "鸟肉碎片，建议做熟后食用。",
-  "context": "ID: bird_meat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_meat\n",
   "stage": 3
  },
  {
@@ -8295,7 +8290,6 @@
   "key": "bd8d790d3d3638443c416c51f2248337",
   "original": "Reconstituted chunks, flakes, filets of bird meat.  Safe to eat, due previous processing.",
   "translation": "一些脱水后再水发的鸟肉块、碎肉、肉排。经先前处理，可以安全食用。",
-  "context": "ID: bird_rehydrated\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_rehydrated\n",
   "stage": 3
  },
  {
@@ -10194,7 +10188,7 @@
   "key": "ee4aef1082ffc0c10ba9eb165060b75c",
   "original": "The %s shoots!",
   "translation": "%s射击！",
-  "context": "ID: mon_fairy_urban1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_fairy.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_fairy_urban1\n",
+  "context": "ID: mon_mib_agent\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monsters/thex_MIB.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→MONSTER→mon_mib_agent\n",
   "stage": 3
  },
  {
@@ -10330,7 +10324,7 @@
   "key": "f39bcf9a3c5a60e28e62167d989d75c4",
   "original": "The %s's leg is disabled!",
   "translation": "%s 的腿断了！",
-  "context": "ID: wps_posessed_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_tsukumogami_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_posessed_body\n",
+  "context": "ID: wps_suchia_body\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/monster_weakpoints/thex_reptile_weakpoints.json\n类型为 weakpoint_set\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→weakpoint_set→wps_suchia_body\n",
   "stage": 3
  },
  {
@@ -13491,7 +13485,6 @@
   "key": "6c81a2de07980dc7843f59a50250adeb",
   "original": "bird meat",
   "translation": "禽肉",
-  "context": "ID: bird_meat\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_meat\n",
   "stage": 5
  },
  {
@@ -13728,7 +13721,6 @@
   "key": "22ddc0b9837306c151559355408334fb",
   "original": "cooked bird meat",
   "translation": "熟鸟肉",
-  "context": "ID: bird_cooked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_cooked\n",
   "stage": 3
  },
  {
@@ -13882,7 +13874,6 @@
   "key": "71b585f3e0703c481343849f13d9fc23",
   "original": "dehydrated bird meat",
   "translation": "脱水鸟肉",
-  "context": "ID: bird_dry\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_dry\n",
   "stage": 3
  },
  {
@@ -14672,7 +14663,6 @@
   "key": "08957132b457d2b35e40bf539007c00d",
   "original": "irradiated satsumaimo",
   "translation": "辐照萨摩芋",
-  "context": "ID: irradiated_satsumaimo\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_irradiated.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→irradiated_satsumaimo\n",
   "stage": 3
  },
  {
@@ -15894,7 +15884,6 @@
   "key": "2ae7b7bb0408ce61450a9d20f9e390d0",
   "original": "rehydrated bird meat",
   "translation": "水发鸟肉",
-  "context": "ID: bird_rehydrated\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_rehydrated\n",
   "stage": 3
  },
  {
@@ -16244,7 +16233,6 @@
   "key": "f3122207b877498754ebefdfcd15daee",
   "original": "smoked bird meat",
   "translation": "熏鸟肉",
-  "context": "ID: bird_smoked\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Expansion/items/comestibles/thex_carnivore.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Expansion→COMESTIBLE→bird_smoked\n",
   "stage": 3
  },
  {

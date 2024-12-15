@@ -481,14 +481,12 @@
   "key": "d4f0ef947c2e4d1144fd9b50bb8f49a5",
   "original": "<global_val:var_detectrad_furn_TEST_1> AAA",
   "translation": "<global_val:var_detectrad_furn_TEST_1> AAA",
-  "context": "ID: utsuho_detectrad_furn_eoc_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_detectrad_furn_eoc_WIP\n",
   "stage": 3
  },
  {
   "key": "1c30ef33dfcd866de678f5c926fa7d52",
   "original": "<global_val:var_detectrad_furn_TEST_2> BBB",
   "translation": "<global_val:var_detectrad_furn_TEST_2> BBB",
-  "context": "ID: utsuho_detectrad_furn_eoc_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_detectrad_furn_eoc_WIP\n",
   "stage": 3
  },
  {
@@ -4241,7 +4239,7 @@
   "key": "30f07ba01415355119dc03793f149eed",
   "original": "Detect radiation",
   "translation": "检测辐射",
-  "context": "ID: utsuho_detectrad_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad_WIP\n",
+  "context": "ID: utsuho_detectrad\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad\n",
   "stage": 3
  },
  {
@@ -4850,10 +4848,16 @@
   "stage": 3
  },
  {
+  "key": "b5ad561cc873fa01f9b1595e68008890",
+  "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  \nActivation cost: <color_light_blue>50</color> mana.  Cast again to toggle.",
+  "translation": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  \nActivation cost: <color_light_blue>50</color> mana.  Cast again to toggle.",
+  "context": "ID: sakuya_maidsecret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret\n",
+  "stage": 1
+ },
+ {
   "key": "eb227c3ba96e41948e86eb173c0e8663",
   "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  Cast again to toggle OFF.",
   "translation": "使用你让红魔馆始终保持干净的秘技，提高你的动力和恢复速度。如果你感到疲劳、敌人靠近或是受到伤害，你的专注就会被打破。再次施放以关闭。",
-  "context": "ID: sakuya_maidsecret\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_maidsecret\n",
   "stage": 3
  },
  {
@@ -5543,8 +5547,14 @@
   "key": "54226e0877d365ad47c74d68cf4cbf72",
   "original": "Forces the EOC upon the target, which check which species it is and sets var_remidrain accordingly",
   "translation": "Forces the EOC upon the target, which check which species it is and sets var_remidrain accordingly",
-  "context": "ID: remilia_darkdrain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→remilia_darkdrain2\n",
   "stage": 3
+ },
+ {
+  "key": "a20396e972bdbe72f22168c0b4de2ef0",
+  "original": "Forces the EOC upon the target, which checks the species and continues the spell effects",
+  "translation": "Forces the EOC upon the target, which checks the species and continues the spell effects",
+  "context": "ID: remilia_darkdrain2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_remi.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→remilia_darkdrain2\n",
+  "stage": 1
  },
  {
   "key": "74436b6210398aadf73f3e2c1b057ffc",
@@ -6897,6 +6907,13 @@
   "stage": 3
  },
  {
+  "key": "d360fcc341f203bd1c508b230f35dc54",
+  "original": "It is already full charge.  You can't overcharge it.",
+  "translation": "It is already full charge.  You can't overcharge it.",
+  "context": "ID: iku_batteryrestore_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→iku_batteryrestore_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "a4e8245d5c2971093d94bd1189624465",
   "original": "It is as if your hitbox was phased.",
   "translation": "你的碰撞箱仿佛是相位的一样。",
@@ -7314,7 +7331,7 @@
   "key": "bba5ff3ab5e2e39d6d41ea986fcd0a7d",
   "original": "Knockback component of nitori_toolswing_eoc2 ",
   "translation": "Knockback component of nitori_toolswing_eoc2 ",
-  "context": "ID: nitori_toolswing_eoc2_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing_eoc2_3\n",
+  "context": "ID: nitori_toolswing2_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing2_3\n",
   "stage": 3
  },
  {
@@ -8316,15 +8333,27 @@
   "key": "e1a273a60a374a7298ea6da7c93fbb33",
   "original": "Nuclear explosion (fission) (1st dmg instance)",
   "translation": "Nuclear explosion (fission) (1st dmg instance)",
-  "context": "ID: utsuho_nuke3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke3\n",
   "stage": 3
+ },
+ {
+  "key": "134fd67f3b2b5a5d44b8b26c7c3288b3",
+  "original": "Nuclear explosion (fission) (2nd dmg instance)",
+  "translation": "Nuclear explosion (fission) (2nd dmg instance)",
+  "context": "ID: utsuho_nuke3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke3\n",
+  "stage": 1
  },
  {
   "key": "39e847aade3dead5d034b5b9f9e0c0f6",
   "original": "Nuclear explosion (fission) (2nd instance)",
   "translation": "Nuclear explosion (fission) (2nd instance)",
-  "context": "ID: utsuho_nuke4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke4\n",
   "stage": 3
+ },
+ {
+  "key": "87498887a218006a478cf6e22ba0a924",
+  "original": "Nuclear explosion (fission) (3rd instance)",
+  "translation": "Nuclear explosion (fission) (3rd instance)",
+  "context": "ID: utsuho_nuke4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_utsuho.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_nuke4\n",
+  "stage": 1
  },
  {
   "key": "1c27cac750c3147c521255f3459ddd3e",
@@ -9116,7 +9145,7 @@
   "key": "720fc5b65b37696d3efa6a68965bf3cb",
   "original": "Quickly swing your tool at an enemy.  Has a chance to knock it back.",
   "translation": "Quickly swing your tool at an enemy.  Has a chance to knock it back.",
-  "context": "ID: nitori_toolswing_eoc3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing_eoc3\n",
+  "context": "ID: nitori_toolswing3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing3\n",
   "stage": 3
  },
  {
@@ -10915,7 +10944,7 @@
   "key": "ed5708194c8ee2c83794b7434d9d7344",
   "original": "Stun component for nitori_toolswing_eoc2 . This is a qol buff so the targets don't immediately move again after the knockback",
   "translation": "Stun component for nitori_toolswing_eoc2 . This is a qol buff so the targets don't immediately move again after the knockback",
-  "context": "ID: nitori_toolswing_eoc2_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing_eoc2_2\n",
+  "context": "ID: nitori_toolswing2_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing2_2\n",
   "stage": 3
  },
  {
@@ -12031,14 +12060,20 @@
   "key": "baf471289a0a2e7f5a99a6d602bceaa4",
   "original": "There is no bed nearby to perform the ritual.",
   "translation": "附近没有床可供进行术式。",
-  "context": "ID: seiga_shikaisenritual_bed_none\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_bed_none\n",
+  "context": "ID: seiga_shikaisenritual_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_eoc\n",
   "stage": 3
+ },
+ {
+  "key": "e86bece1ff60a0866bd954800465c12f",
+  "original": "There is no proper cover for your replacement at the proper location.",
+  "translation": "There is no proper cover for your replacement at the proper location.",
+  "context": "ID: seiga_shikaisenritual_corpse_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_corpse_found\n",
+  "stage": 1
  },
  {
   "key": "5d7e26b61c79696cce2e79d9258009d6",
   "original": "There is no proper covering for your replacement at the proper location to perform the ritual.",
   "translation": "地点正确，没有合适的遮蔽物来进行替换术式。",
-  "context": "ID: seiga_shikaisenritual_corpse_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_corpse_found\n",
   "stage": 3
  },
  {
@@ -12174,7 +12209,6 @@
   "key": "2c71ed68acda3c87f042bbb31d610e4c",
   "original": "This is casted via eocs. It places the field by a spell instead of using u_set_field . There's virtually no difference",
   "translation": "This is casted via eocs. It places the field by a spell instead of using u_set_field . There's virtually no difference",
-  "context": "ID: utsuho_detectrad_WIP\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→utsuho_detectrad_WIP\n",
   "stage": 3
  },
  {
@@ -12543,7 +12577,7 @@
   "key": "84aba12afaf5ede3a4b657251761c615",
   "original": "Tool swing",
   "translation": "工具挥击",
-  "context": "ID: nitori_toolswing_eoc3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing_eoc3\n",
+  "context": "ID: nitori_toolswing3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing3\n",
   "stage": 3
  },
  {
@@ -12556,14 +12590,14 @@
   "key": "ff421cfef45e225e1e47665352630739",
   "original": "Tool swing (knockback)",
   "translation": "Tool swing (knockback)",
-  "context": "ID: nitori_toolswing_eoc2_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing_eoc2_3\n",
+  "context": "ID: nitori_toolswing2_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing2_3\n",
   "stage": 3
  },
  {
   "key": "405051de0033a41c505ef2ea44ebecc4",
   "original": "Tool swing (stun)",
   "translation": "Tool swing (stun)",
-  "context": "ID: nitori_toolswing_eoc2_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing_eoc2_2\n",
+  "context": "ID: nitori_toolswing2_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_toolswing2_2\n",
   "stage": 3
  },
  {
@@ -13915,7 +13949,6 @@
   "key": "a5d79af8993d64a02f4ace9e1b50820c",
   "original": "You don't have enough energy.",
   "translation": "你没有足够的能量。",
-  "context": "ID: iku_batteryrestore_check\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→iku_batteryrestore_check\n",
   "stage": 3
  },
  {
@@ -14478,14 +14511,13 @@
   "key": "6dae86bf169d564667455674baa84a47",
   "original": "You lose your concentration!",
   "translation": "你无法集中专注！",
-  "context": "ID: sakuya_maidsecret_hit\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_maidsecret_hit\n",
+  "context": "ID: sakuya_maidsecret_end_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_maidsecret_end_eoc\n",
   "stage": 3
  },
  {
   "key": "ea2cf08f110743d454f9dbd8af6bbfbc",
   "original": "You lose your concentration.",
   "translation": "你无法集中专注。",
-  "context": "ID: sakuya_maidsecret_cycle2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_maidsecret_cycle2\n",
   "stage": 3
  },
  {
@@ -14786,7 +14818,7 @@
   "key": "a4509de008b19022063a309d51549571",
   "original": "You recharge the battery.",
   "translation": "你给电池进行充能。",
-  "context": "ID: iku_batteryrestore_check\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→iku_batteryrestore_check\n",
+  "context": "ID: iku_batteryrestore_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→iku_batteryrestore_eoc\n",
   "stage": 3
  },
  {
@@ -15102,7 +15134,7 @@
   "key": "faa86b4a16b7f8656873c93d94f96b3b",
   "original": "You turn the optical camouflage OFF.",
   "translation": "你关闭了光学迷彩。",
-  "context": "ID: nitori_opticalcamouflage_fail_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_opticalcamouflage_fail_2\n",
+  "context": "ID: nitori_opticalcamouflage_toggle_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_opticalcamouflage_toggle_eoc\n",
   "stage": 3
  },
  {
@@ -15529,7 +15561,7 @@
   "key": "49242aea4ded9595772f5743d9111950",
   "original": "You're too exhausted and the optical camouflage deactivates!",
   "translation": "You're too exhausted and the optical camouflage deactivates！",
-  "context": "ID: nitori_opticalcamouflage_fail_3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_opticalcamouflage_fail_3\n",
+  "context": "ID: nitori_opticalcamouflage_oom_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→nitori_opticalcamouflage_oom_eoc\n",
   "stage": 3
  },
  {
