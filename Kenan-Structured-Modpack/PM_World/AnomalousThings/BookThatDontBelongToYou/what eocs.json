@@ -2,7 +2,7 @@
   {
     "type": "effect_on_condition",
     "id": "skin_book_eoc",
-    "condition": { "not": { "u_has_var": "prophecy", "type": "temp_var", "context": "skin_book_readed", "value": "yes" } },
+    "condition": { "not": { "compare_string": [ "yes", { "u_val": "prophecy_temp_var_skin_book_readed" } ] } },
     "effect": [
       {
         "u_add_morale": "morale_prophecy",
@@ -13,7 +13,7 @@
         "capped": true
       },
       { "u_message": "\"I have seen the truth...\"", "type": "bad" },
-      { "u_add_var": "prophecy", "type": "temp_var", "context": "skin_book_readed", "value": "yes" },
+      { "u_add_var": "temp_var_skin_book_readed_prophecy", "value": "yes" },
       { "queue_eocs": "skin_up1", "time_in_future": "3 hours" }
     ],
     "false_effect": [
@@ -160,14 +160,14 @@
       { "u_add_effect": "blind", "duration": "9 s" },
       { "u_add_effect": "deaf", "duration": "9 s", "intensity": 3 },
       { "u_add_effect": "marked", "duration": "20 h", "intensity": 1 },
-      { "u_lose_var": "prophecy", "type": "temp_var", "context": "skin_book_readed" }
+      { "u_lose_var": "prophecy_temp_var_skin_book_readed" }
     ],
     "false_effect": [
       {
         "u_message": "You managed to calm down and push the Truth out of your mind. The presence has lost its sight on you. You should be more careful of what your read...",
         "popup": true
       },
-      { "u_lose_var": "prophecy", "type": "temp_var", "context": "skin_book_readed" }
+      { "u_lose_var": "prophecy_temp_var_skin_book_readed" }
     ]
   },
   {
@@ -490,7 +490,7 @@
   {
     "type": "effect_on_condition",
     "id": "prophecy_clear",
-    "effect": [ { "u_lose_var": "prophecy", "type": "temp_var", "context": "skin_book_readed" } ]
+    "effect": [ { "u_lose_var": "prophecy_temp_var_skin_book_readed" } ]
   },
   {
     "type": "effect_on_condition",

@@ -22,7 +22,7 @@
     "required_event": "character_dies",
     "condition": {
       "and": [
-        { "u_has_var": "lovers", "type": "flag", "context": "guts", "value": "yes" },
+        { "compare_string": [ "yes", { "u_val": "lovers_flag_guts" } ] },
         { "math": [ "u_counter_var_love_points_love_point", ">=", "30" ] }
       ]
     },
@@ -71,7 +71,7 @@
     "id": "EOC_event_eat_items_love",
     "eoc_type": "EVENT",
     "required_event": "character_eats_item",
-    "condition": { "and": [ { "u_has_var": "friends", "type": "flag", "context": "band_flag", "value": "yes" }, "u_is_npc" ] },
+    "condition": { "and": [ { "compare_string": [ "yes", { "u_val": "friends_flag_band_flag" } ] }, "u_is_npc" ] },
     "effect": [ { "math": [ "u_counter_var_love_points_love_point", "+=", "rand(4) + 1" ] } ]
   },
   {
@@ -81,7 +81,7 @@
     "required_event": "character_finished_activity",
     "condition": {
       "and": [
-        { "u_has_var": "friends", "type": "flag", "context": "band_flag", "value": "yes" },
+        { "compare_string": [ "yes", { "u_val": "friends_flag_band_flag" } ] },
         "u_is_npc",
         {
           "or": [

@@ -41,7 +41,7 @@
     "id": "scenario_love_is_over",
     "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
-      { "u_add_var": "love_is_over", "type": "flag", "context": "love_is_over", "value": "yes" }
+      { "u_add_var": "flag_love_is_over_love_is_over", "value": "yes" }
     ]
   },
   {
@@ -49,12 +49,12 @@
     "id": "EOC_scenario_love_is_over",
     "eoc_type": "EVENT",
     "required_event": "game_begin",
-    "condition": { "u_has_var": "love_is_over", "type": "flag", "context": "love_is_over", "value": "yes" },
-    "deactivate_condition": { "not": { "u_has_var": "love_is_over", "type": "flag", "context": "love_is_over", "value": "yes" } },
+    "condition": { "compare_string": [ "yes", { "u_val": "love_is_over_flag_love_is_over" } ] },
+    "deactivate_condition": { "not": { "compare_string": [ "yes", { "u_val": "love_is_over_flag_love_is_over" } ] } },
     "effect": [
       { "open_dialogue": { "topic": "TALK_CHOICE_NPC_1" } },
       { "queue_eocs": "EOC_love_is_over_infected", "time_in_future": "1 seconds" },
-      { "u_lose_var": "love_is_over", "type": "flag", "context": "love_is_over" }
+      { "u_lose_var": "love_is_over_flag_love_is_over" }
     ]
   },
   {
