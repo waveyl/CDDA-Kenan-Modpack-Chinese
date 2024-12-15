@@ -53,7 +53,7 @@
     "deactivate_condition": { "not": { "compare_string": [ "yes", { "u_val": "love_is_over_flag_love_is_over" } ] } },
     "effect": [
       { "open_dialogue": { "topic": "TALK_CHOICE_NPC_1" } },
-      { "queue_eocs": "EOC_love_is_over_infected", "time_in_future": "1 seconds" },
+      { "run_eocs": "EOC_love_is_over_infected", "time_in_future": "1 seconds" },
       { "u_lose_var": "love_is_over_flag_love_is_over" }
     ]
   },

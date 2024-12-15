@@ -225,7 +225,7 @@
         "decay_start": "8 minutes"
       },
       {
-        "queue_eocs": "clear_spell_92",
+        "run_eocs": "clear_spell_92",
         "time_in_future": { "math": [ "60 + (12 * u_spell_level('EGO_92_stage_2'))" ] }
       }
     ],
@@ -495,7 +495,7 @@
         "decay_start": "15 minutes"
       },
       {
-        "queue_eocs": "clear_spell_92",
+        "run_eocs": "clear_spell_92",
         "time_in_future": { "math": [ "18 + (58.2 * u_spell_level('EGO_92_stage_3'))" ] }
       }
     ],
@@ -924,7 +924,7 @@
         "then": { "u_add_var": "living_flame_on", "value": "yes" }
       },
       {
-        "queue_eocs": "clear_spell_92",
+        "run_eocs": "clear_spell_92",
         "time_in_future": { "math": [ "1200 + (240 * u_spell_level('EGO_92_stage_4'))" ] }
       }
     ],
