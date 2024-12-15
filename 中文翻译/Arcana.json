@@ -5022,9 +5022,9 @@
  {
   "key": "4805856b66dff15874a4e3ca9e11f238",
   "original": "A wooden staff topped with a golden cage, enveloping a mass of petrified flesh from which sharp horns have grown.  The counter-argument to the Dragonblood Sacrament.  It draws energy from whatever you strike with it, fueling a protective effect that synergizes with the rituals of the silver athame.  Activating it channels a powerful life-draining beam of energy that blights the land around you.",
-  "translation": "一根木制的法杖，顶部是一个镀金的笼子，里面包裹着一块硬化的血肉，上面长有锋利的角。这是龙血圣礼的反驳者。它会从你击中的目标中吸取能量，形成一种保护效果，与仪式刀相辅相成。激活它会释放出一道强大的生命汲取光束，使周围的土地变得荒凉。",
+  "translation": "一根木制的法杖，顶部是一个镀金的笼子，里面包裹着一块硬化的血肉，上面长有锋利的角。它的效果与龙血圣礼相对，会从你击中的目标中吸取能量，形成一种保护效果，与银质仪式刀相辅相成。激活它会释放出一道强大的生命汲取光束，使周围的土地变得荒凉。",
   "context": "ID: sanguine_staff_lifesbane\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→sanguine_staff_lifesbane\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "df6cc82bd85addaaa95f9b91c859dc38",
@@ -6055,9 +6055,9 @@
  {
   "key": "a0af526efc36f6368e156e7b831dd314",
   "original": "An offering of wealth is not enough to placate a servant of Ubb.  The creature turns hostile!",
-  "translation": "献上的财富不足以安抚Ubb的仆人。这个生物变得充满敌意！",
+  "translation": "献上的财富的祭品不足以安抚Ubb的仆人。这个生物变得充满敌意！",
   "context": "ID: summon_yugg_on\n位于 /Kenan-Structured-Modpack/Arcana/obsolete.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→summon_yugg_on\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "ce7e0d206ecde73f017a8c82f176d49b",
@@ -11057,9 +11057,9 @@
  {
   "key": "cbd7fa483847e266d618e35a5fe57a23",
   "original": "Great.  Occult stuff and vigilantism.  If you know that much about them, and still think they'll get along with the Old Guard, then I'll trust your judgment.  Just say the word, and I'll do what I can to smooth things over.",
-  "translation": "很好。神秘主义和治安维持。如果你对他们了解这么多，还认为他们能和旧日守护者相处融洽，那我就相信你的判断。你只管说句话，我会尽力去缓和关系。",
+  "translation": "行吧，密教的那一套和警戒主义的行为方式。如果你对他们了解这么多，还认为他们能和旧日守护者相处融洽，那我就相信你的判断。你只管说句话，我会尽力去缓和关系。",
   "context": "ID: TALK_OLD_GUARD_REP_CF_MISSION_4_ARCANIST\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_OLD_GUARD_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_OLD_GUARD_REP_CF_MISSION_4_ARCANIST\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "e13859ba6ff179ec2348210bbff2ce2a",
@@ -11810,9 +11810,9 @@
  {
   "key": "d0f04ef9f6028809a2800e47273c1544",
   "original": "How about 15 scales?",
-  "translation": "15磅怎么样？",
+  "translation": "那15片金鳞怎么样？",
   "context": "ID: TALK_FREE_MERCHANTS_MERCHANT_Talk_CF_MISSION\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_FREE_MERCHANTS_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_FREE_MERCHANTS_MERCHANT_Talk_CF_MISSION\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "1c2c52fc07d814e90183a5251f721c70",
@@ -12641,7 +12641,7 @@
   "original": "I have a better idea, troublemaker.  Your scaly hide might make a passable pair of boots.",
   "translation": "我有个更好的主意，捣蛋鬼。你那鳞片覆盖的皮或许能凑成一双像样的靴子。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_FAILURE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_FAILURE\n",
-  "stage": 2
+  "stage": 3
  },
  {
   "key": "8d05ced350bb04382ac10ae02e0d0fb4",
@@ -12952,9 +12952,9 @@
  {
   "key": "931e2502a1ee74f5ae71938a0724adb1",
   "original": "I know not how you became like this, but as our tenets teach, \"Hold no malice against one corrupted by the Beyond, for the consequences are their own punishment.\"  You are welcome here as long as you do not prove our lenience misguided.",
-  "translation": "我不知道你是如何变成这样的，但正如我们的信条所教导的那样，“不要对那些被彼端腐化的人怀有恶意，因为后果是他们自己的惩罚。” 只要你不证明我们的宽容是错误的，你在这里是受欢迎的。",
+  "translation": "我不知道你是如何变成这样的，但正如我们的信条所教导的那样，“不要对那些被彼端腐化的人怀有恶意，因为后果是他们自己所受的惩罚。” 只要你没有证明我们的宽容是错误的，你就在这里受大家的欢迎。",
   "context": "ID: TALK_MAGE_HUNTER_OTHERWORLDLY_DRAGONBLOOD\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MAGE_HUNTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MAGE_HUNTER_OTHERWORLDLY_DRAGONBLOOD\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "830324d8429460913e57c9059760da38",
@@ -13437,9 +13437,9 @@
  {
   "key": "97feb47e1174098518eeda3a4db18aaa",
   "original": "I think I see the problem.  Let me guess, quit the Order, found religion, and now the Keepers' little friend is pulling your strings?  \"No god, no demon, no spirit can be trusted with power over you.\"  You've compromised your principles, friend.",
-  "translation": "我想我看出问题所在了。让我猜猜，你退出了教会，找到了新的信仰，现在守誓者的那个小东西在操控你？“不论是神、恶魔还是精灵，都不应被赋予控制你的权力。”你违背了自己的原则，朋友。",
+  "translation": "我想我看出问题所在了。让我猜猜，你退出了教会，找到了新的信仰，现在守誓者的那个小东西在操控你？“不论是神、恶魔还是精魄，都不应被赋予控制你的权力。”你违背了自己的原则，朋友。",
   "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_MISGUIDED\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_MISGUIDED\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "8a46ecce0216bca4ecde04ecd010076a",
@@ -13491,9 +13491,9 @@
  {
   "key": "46fd00e7080cdeab9951e2825670f28d",
   "original": "I understand, though I hope you have not come to favor the relic's current state for its use as a weapon.  Seek me out if you deem yourself ready.",
-  "translation": "我明白，尽管我希望你并非出于将其作为武器使用的考虑而偏好其当前状态。当你认为自己准备好了，来找我吧。",
+  "translation": "我明白，尽管我希望你不会觉得这柄圣物以现在这个状态能当成趁手的武器使用。当你认为自己准备好了，来找我吧。",
   "context": "ID: MISSION_HERMIT_RESTORE_SWORD\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_HERMIT_RESTORE_SWORD\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "d1784ce87e9b7822298ac6545e35762d",
@@ -15023,9 +15023,9 @@
  {
   "key": "90875dacc421f374c4eab3ad6c6792ed",
   "original": "If you're gonna be fighting monsters, either gear up for any threat that might be out there, or stay light.  If it slows you down it needs to be worth it.",
-  "translation": "如果你要和怪物战斗，要么为可能出现的任何威胁做好准备，要么保持轻装上路。如果它让你动作迟缓，那就必须有所值。",
+  "translation": "如果你要和怪物战斗，要么为可能出现的任何威胁做好准备，要么保持轻装上路。如果它让你动作迟缓，那它就必须值得你背负这份重量。",
   "context": "ID: TALK_CF_AUX_MERC_TIPS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_AUX_MERC.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_AUX_MERC_TIPS\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "8c3d5f3abc45c21d22967642438a5223",
@@ -15962,8 +15962,8 @@
  {
   "key": "8c31a376de9829161e2d8799e7feda26",
   "original": "It's a very rare assembly of rare components, and it's been heavily used.  It's marked, in a sense, by its repeated use in breaching the Veil.  Together with the research obtained for Sofia, we can put it to good use.",
-  "translation": "这是一个由稀有部件组成的非常罕见的组合,而且它已经被大量使用过了。从某种意义上说,它因多次突破帷幕而被打上了烙印。结合为索菲亚获得的研究成果,我们可以很好地利用它。",
-  "stage": 2
+  "translation": "这是一个由稀有部件组成的非常罕见的装配件,而且已经久经使用。从某种意义上说,它因多次突破帷幕而被打上了烙印。结合从索菲亚处获得的研究成果,我们可以很好地利用它。",
+  "stage": 1
  },
  {
   "key": "e7364c9ce4dba7dcf02f6360194fd87b",
@@ -24692,7 +24692,7 @@
   "original": "Strikes anything in a line with a life-draining blast.",
   "translation": "用生命吸取冲击波攻击在一条直线上的所有东西。",
   "context": "ID: arcana_item_sanguine_staff_beam\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_sanguine_staff_beam\n",
-  "stage": 2
+  "stage": 3
  },
  {
   "key": "ab016c770adc0504ca392a077b9c9263",
@@ -27052,9 +27052,9 @@
  {
   "key": "f32fd2391c305760ecc51ed7cc9ce833",
   "original": "The notes concern an attempt to track down something called Project Kairos.  Some sort of portal research that persisted a bit longer after things boiled over, when most of the other labs had already fallen apart.  That data contained information on the last couple supply movements during and after Zero Day, science facilities suspected to be connected to this project, other clues here and there.  But we haven't pinpointed the location.",
-  "translation": "这些笔记是关于试图追踪一个叫做Kairos计划的东西。一些门户网站的研究在事情平息后持续了一段时间，当时大多数其他实验室已经分崩离析。这些数据包含了零日期间和零日之后最后几个供应运动的信息、疑似与该项目有关的科学设施以及其他线索。但是我们还没有确定地点。",
+  "translation": "这些笔记是关于试图追踪一个叫做Kairos计划的东西。一些关于传送门的研究在最初的混乱过后仍持续了一段时间，同时期的大多数其他实验室已经分崩离析。这些数据包含了最初之日期间以及之后，最后几次补给动向的信息、疑似与该项目有关的科学设施以及其他线索。但是我们还没有确定地点。",
   "context": "ID: TALK_CF_PURIFIER_MISSION_END_1_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_PURIFIER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_PURIFIER_MISSION_END_1_1\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "38813a6fe662846e96e7fc42ef930dd2",
@@ -27680,9 +27680,9 @@
  {
   "key": "7546a234febbe283a23c70bbbb082457",
   "original": "There are many monsters whose bones, ivory, and such carry the mark of the otherworldly upon them.  The impish creatures known as \"krecks\" among survivors would be easy prey, and so-called \"grackens\" should be an even safer hunt.  Or you could seek out beasts such as flying polyps or hunting horrors.",
-  "translation": "许多怪物的骨骼、象牙等身上都带有异界印记。幸存者们口中的“krecks”这种小恶魔生物是易于捕获的目标，而所谓的“格拉肯”更是安全的狩猎对象。你也可以寻找诸如盲目者或恐怖猎手这样的猛兽。",
+  "translation": "许多怪物的骨骼、象牙等身上都带有异界印记。幸存者们口中的“克拉克”这种小恶魔生物是易于捕获的目标，而所谓的“格拉肯”更是安全的狩猎对象。你也可以寻找诸如盲目者或恐怖猎手这样的猛兽。",
   "context": "ID: MISSION_CF_REP_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_REP_1\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "bc305771065d9da8dfc52d5efa948789",
@@ -27881,7 +27881,7 @@
  {
   "key": "4615b5dc4948cee69c6aeebbbb94af53",
   "original": "There were a few, yeah.  The higher-rank blood mages, basically.  This was before the one at the hideout split off from the others, and led us into trying to scrounge up some old research.  Things were tense back then, but at least I felt like I could trust those higher up in rank to reward fair study…",
-  "translation": "确实有几个，基本上都是高级血魔法师。那是在藏身处的那个家伙和其他人分开之前，带领我们去搜寻一些旧的研究资料的时候。那时气氛很紧张，但至少我觉得可以信任那些等级较高的人，他们会公正地奖励研究……",
+  "translation": "确实有几个，基本上都是高级血魔法师。那是在藏身处的那个家伙和其他人分开之前，带领我们去搜寻一些旧的研究资料的时候。那时气氛很紧张，但至少我觉得可以信任那些等级较高的人，这样我就能好好研究一下和他们一起成功搜索到的资料……",
   "context": "ID: BGSS_BLOOD_MAGE_1_STORY2\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_APPRENTICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→BGSS_BLOOD_MAGE_1_STORY2\n",
   "stage": 2
  },
@@ -30550,9 +30550,9 @@
  {
   "key": "0700561b2f235099e8c7bcb5c5c7040c",
   "original": "Veiled King, grant us insight.  Grant us your blessing, guard and guide us.  These wayward souls, and your wayward gift to us, let these be in service to you once more.  \"No matter the cost, no matter what we must do, for the strength and safety of this world.  And in turn, of worlds beyond.\"  It is finished.",
-  "translation": "帷幕之王，赐予我们洞察力。赐予我们您的祝福，守护并引导我们。这些迷途的灵魂，以及您赐予我们的迷途恩赐，愿它们再次为您效力。“无论付出多大代价，无论我们必须做什么，为了这个世界的力量与安全，进而为了其他世界。”已完成。",
+  "translation": "帷幕之王，赐予我们洞察力。赐予我们您的祝福，守护并引导我们。这些迷途的灵魂，以及您赐予我们的迷途恩赐，愿它们再次为您效力。“无论付出多大代价，无论我们必须做什么，为了这个世界的力量与安全，进而为了其他世界。”……仪式结束了。",
   "context": "ID: TALK_HERMIT_QUEST_HELP_1_RITUAL_4\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_QUEST_HELP_1_RITUAL_4\n",
-  "stage": 2
+  "stage": 1
  },
  {
   "key": "d454d5fb3917dd10c53cf287e1fec245",
@@ -30992,7 +30992,7 @@
   "original": "We are not here as hunters, but to make amends and secure knowledge.",
   "translation": "我们此行并非作为猎人，而是为了寻求和解并确保知识的安全。",
   "context": "ID: TALK_HERMIT_CF_REP_MISSION\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_CF_REP_MISSION\n",
-  "stage": 2
+  "stage": 3
  },
  {
   "key": "04fd53e98511dc91b57b6e63ae63e0e2",
@@ -31689,8 +31689,8 @@
  {
   "key": "ad5d82c4b485dec15224647dee6f6fcb",
   "original": "Well they've done a much better job monitoring this sort of thing than I'd expect.  I sure hope you know what you're doing Marshal, working with these people.  I'll get you that information, but I'm going to have to ask you to give me these intel documents in exchange.  We need to make sure no other organizations might have gotten their hands on similar information.",
-  "translation": "他们在监控这类事情上做得比我想象的要好得多。我真希望你知道你在做什么，元帅，和这些人一起工作。我会给你那些信息，但我得请你把这些情报文件给我作为交换。我们需要确保没有其他组织得到类似的信息。",
-  "stage": 2
+  "translation": "他们在监控这类事情上做得比我想象的要好得多。和这些人一起工作时候，我希望你知道你在做什么，元帅。我会给你那些信息，但我得请你把这些情报文件给我作为交换。我们需要确保没有其他组织得到类似的信息。",
+  "stage": 1
  },
  {
   "key": "e42895da260692c1c69033b4bd798033",
@@ -38042,7 +38042,7 @@
  {
   "key": "1a7e6ad94e9c87a2795e886e390186e0",
   "original": "horned staff of life's bane",
-  "translation": "生命之祸大棒",
+  "translation": "祸命角杖",
   "context": "ID: sanguine_staff_lifesbane\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→sanguine_staff_lifesbane\n",
   "stage": 3
  },
