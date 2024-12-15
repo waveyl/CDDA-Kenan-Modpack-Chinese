@@ -1094,9 +1094,9 @@
  {
   "key": "11540c5803f52f8b182d0e7c0877461e",
   "original": "I'll exchange a token for blood draw kit with blood",
-  "translation": "我要用一个代币换一个带血的抽血箱",
+  "translation": "我要用一个代币换一个有采血管的抽血套件",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct1VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct1VS\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e25065dc0f45279035f7a96c802b97b0",
@@ -1248,7 +1248,7 @@
  {
   "key": "7838fcb07b93d6feb94ecba0c2cee31b",
   "original": "I've got some supplies for your stock...",
-  "translation": "我有一些你的存货…",
+  "translation": "我有一些你的存货……",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n",
   "stage": 1
  },
@@ -1297,7 +1297,7 @@
  {
   "key": "89160c8a2d7a4f9937516b87b95bc09b",
   "original": "Just look at this list:\n\"Red Velvets - The Dark Fashion\" for 10 tokens\n\"Glorious Gunnery\" for 12 tokens\n\"The Vampiric Infusion\" for 15 tokens\nblood infusing forge for 30 tokens\nblood extractor for 20 tokens\nblood compressor for 30 tokens\nblood chemistry for 25 tokens.",
-  "translation": "看看这个清单：\n“红色天鹅绒-黑暗时尚”的10个代币",
+  "translation": "看看这份清单：\n“红色丝绒-黑暗时尚” 换10个代币\n“” 换12个代币\n“” 换15个代币\n换30个代币\n换20个代币\n换30个代币\n换25个代币",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexct2VS\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexct2VS\n",
   "stage": 1
  },
@@ -1346,9 +1346,9 @@
  {
   "key": "ba9e5b57f3c8d86c8d5ffff650f9aa39",
   "original": "Lets see what could we exchange for your tokens...",
-  "translation": "让我们看看能用什么交换你的代币…",
+  "translation": "让我们看看你的代币能换些什么……",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "633d228d8fd54407c74a49cc520e60a2",
@@ -1367,9 +1367,9 @@
  {
   "key": "76ec0bb6f19c010f9fb066d0356d5e4c",
   "original": "Money as payment from your life-risking quests.",
-  "translation": "金钱作为你冒着生命危险的任务的报酬。",
+  "translation": "金钱便是你那玩命活计的报酬。",
   "context": "ID: VAMP_ASEEKER_main_collaborate\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_collaborate\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "47a0205bcdb9645c8dd8219c7a2b411d",
@@ -1458,7 +1458,7 @@
  {
   "key": "8b00bc6ef0b16aca1d60cf9caaac8e64",
   "original": "So, What do you think... are you 'in' for this quest? I do not assure your life in this journey you're about to come up just to collect rare stuff for me.",
-  "translation": "那么，你觉得…你要参加这个任务吗？我不能保证你的生命在这旅程中你会上来只是为了收集稀有的东西给我。",
+  "translation": "那么，你想想吧……要“接受”这个任务吗？你要进行的旅程只是为了收集稀有的东西给我，但我可不能保证你的安全。",
   "context": "ID: VAMP_ASEEKER_main_intro\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_intro\n",
   "stage": 1
  },
@@ -1500,7 +1500,7 @@
  {
   "key": "e04c977c307987b54c841716ad4df799",
   "original": "Vampire Arcane Seeker",
-  "translation": "Vampire Arcane Seeker",
+  "translation": "Vampire 奥术探寻者",
   "context": "ID: V_SEEKER\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→npc_class→V_SEEKER\n",
   "stage": 1
  },
@@ -1535,7 +1535,7 @@
  {
   "key": "ff8727528701326e6894dd28808b39f2",
   "original": "Well, my ware is too small. Maybe you could be needing something at these stuff.",
-  "translation": "嗯，我的餐具太小了。也许你需要一些东西。",
+  "translation": "嗯，我的这儿的玩意太小了。也许你需要这些东西。",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n",
   "stage": 1
  },
@@ -1549,7 +1549,7 @@
  {
   "key": "c4d5a23232b55e6cc20a4cec48a6fb83",
   "original": "Well... The gunshop is offering you with limited guns in exchange of tokens.",
-  "translation": "好…枪械店为你提供有限的枪支来交换代币。",
+  "translation": "好……枪械店为你提供有限的枪支来交换代币。",
   "context": "ID: VAMP_ASEEKER_questinquire_tokenexc\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/NPC_TALK_tokenexchange.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_questinquire_tokenexc\n",
   "stage": 1
  },
@@ -1591,7 +1591,7 @@
  {
   "key": "7b711225a7487cb4ab8781b1e3d5ee8e",
   "original": "Who am I you asked?\nI am the seeker of arcane mysteries and anomalies in this damned world as well as collecting artifacts, utilizing their power for a greater use.",
-  "translation": "你问我是谁？\n我是这个该死的世界中神秘事物和异常现象的探索者，同时也在收集神器，利用它们的力量得到更大的利用。",
+  "translation": "你问我是谁？\n我是这个该死的世界中神秘事物和异常现象的探索者，同时也在收集神器，使它们的力量发挥更大的功效。",
   "context": "ID: VAMP_ASEEKER_main_intro\n位于 /Kenan-Structured-Modpack/vamp_stuff_arcana/NPCs/npc.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff_arcana→talk_topic→VAMP_ASEEKER_main_intro\n",
   "stage": 1
  },

@@ -5597,9 +5597,9 @@
  {
   "key": "a668ea62c92d16e5f780816069c1fa53",
   "original": "Summons the <color_light_blue>etherean silhouette</color>(s), striding through the world swiftly and are invulnerable to physical hazards.\n* These minions do not harm with brute strength, but casts a basic warlock spell at foe weights from <color_light_gray>tier 1</color> to <color_white>tier 3</color>. After the duration or casting any spell, they vanish.",
-  "translation": "召唤出<color_light_blue>个以太幽影</color>，它们迅速穿越世界，对物理伤害免疫。这些仆从不以蛮力伤人，而是对敌人施放基础巫术咒语，咒语等级从<color_light_gray>级1阶</color>到<color_white>级3阶</color>不等。施法完毕或持续时间结束后，它们便会消失无踪。",
+  "translation": "召唤出<color_light_blue>以太幽影</color>，它们迅速穿越世界，对物理伤害免疫。\n*这些仆从不以蛮力伤人，而是对敌人施放基础巫术咒语，咒语等级从<color_light_gray>1阶</color>到<color_white>3阶</color>不等。施法完毕或持续时间结束后，它们便会消失无踪。",
   "context": "ID: t5_mana_danceofthesilhouettes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_danceofthesilhouettes\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "853fbbeb76e35bea97202cc179baa627",
@@ -7798,9 +7798,9 @@
  {
   "key": "710032237ec02fba368633215aa0be26",
   "original": "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
-  "translation": "你获得了<color_brown>点虚幻附魔</color>，使你的攻击感觉更为轻盈，却能更深入地打击对手的内在。\n*如果装备着，你的攻击将获得<color_light_yellow>点无视20点护甲的能力</color>，并且其消耗减少15。\n\n这是一道<color_magenta>六阶</color>法术。",
+  "translation": "你获得了<color_brown>轻灵之附</color>，使你攻击时更感轻盈，却能更深入地打击对手的内在。\n*如果装备着，你的攻击将获得<color_light_yellow>20刺击穿甲</color>，并且其耗时减少15。\n\n这是一个<color_magenta>六阶</color>法术。",
   "context": "ID: t6_mana_etherealenchantment\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_etherealenchantment\n",
-  "stage": 0
+  "stage": 1
  },
  {
   "key": "5d0e0b4f2c79110a53558e485e505568",
@@ -9038,13 +9038,13 @@
   "original": "你将教堂的地址添加到地图中。",
   "translation": "你把教堂的位置标注在了地图上。",
   "context": "ID: crypt_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→crypt_map\n",
-  "stage": 0
+  "stage": 3
  },
  {
   "key": "f3d56ae1946b4bf1b509ebf31c06fa0f",
   "original": "你把吸血鬼湾的地址添加到地图中。",
-  "translation": "你已将吸血鬼湾的位置标注在了地图上。",
+  "translation": "你将吸血鬼湾的位置标注在了地图上。",
   "context": "ID: vampcave_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→vampcave_map\n",
-  "stage": 0
+  "stage": 3
  }
 ]
