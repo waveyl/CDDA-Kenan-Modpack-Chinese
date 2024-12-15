@@ -13,7 +13,7 @@
         "capped": true
       },
       { "u_message": "\"I have seen the truth...\"", "type": "bad" },
-      { "u_add_var": "temp_var_skin_book_readed_prophecy", "value": "yes" },
+      { "u_add_var": "prophecy_temp_var_skin_book_readed", "value": "yes" },
       { "run_eocs": "skin_up1", "time_in_future": "3 hours" }
     ],
     "false_effect": [

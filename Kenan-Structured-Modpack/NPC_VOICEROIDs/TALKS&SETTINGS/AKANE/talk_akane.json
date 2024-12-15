@@ -10,7 +10,7 @@
         "effect": [
           "follow",
           { "math": [ "n_counter_var_love_points_love_point", "+=", "3" ] },
-          { "u_add_var": "flag_akane_is_friend_know_akane", "value": "yes" },
+          { "u_add_var": "know_akane_flag_akane_is_friend", "value": "yes" },
           { "math": [ "n_calories()", "=", "60000" ] },
           { "npc_add_var": "uniqe_friend_flag_voiro_flag", "value": "yes" }
         ],
