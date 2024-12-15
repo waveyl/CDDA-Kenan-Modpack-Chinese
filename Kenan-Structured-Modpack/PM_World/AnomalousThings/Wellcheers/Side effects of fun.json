@@ -24,9 +24,9 @@
     "id": "soda_suit_2",
     "has": "WORN",
     "condition": { "compare_string": [ "true", { "u_val": "soda_ego_a_2_unlocked" } ] },
-    "values": [
-      { "value": "electric", "add": { "math": [ "0 - u_vitamin('cheers') / 25 " ] } },
-      { "value": "acid", "add": { "math": [ "0 + u_vitamin('cheers') / 25 " ] } }
+    "incoming_damage_mod": [
+      { "type": "electric", "add": { "math": [ "0 - u_vitamin('cheers') / 25 " ] } },
+      { "type": "acid", "add": { "math": [ "0 + u_vitamin('cheers') / 25 " ] } }
     ]
   },
   {

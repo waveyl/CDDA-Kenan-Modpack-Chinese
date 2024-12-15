@@ -169,7 +169,7 @@
       {
         "condition": "ALWAYS",
         "values": [
-          { "type": "ARMOR_ALL", "add": -1 }
+          { "value": "ARMOR_ALL", "add": -1 }
         ],
         "//": "ARMOR_X add -n ADDS armor for n value"
       }
@@ -190,7 +190,7 @@
       {
         "condition": "ALWAYS",
         "values": [
-          { "type": "ARMOR_ALL", "add": -1 }
+          { "value": "ARMOR_ALL", "add": -1 }
         ],
         "//": "ARMOR_X add -n ADDS armor for n value"
       }
