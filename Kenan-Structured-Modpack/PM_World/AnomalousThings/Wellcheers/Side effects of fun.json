@@ -25,8 +25,8 @@
     "has": "WORN",
     "condition": { "compare_string": [ "true", { "u_val": "soda_ego_a_2_unlocked" } ] },
     "values": [
-      { "value": "ARMOR_ELEC", "add": { "math": [ "0 - u_vitamin('cheers') / 25 " ] } },
-      { "value": "ARMOR_ACID", "add": { "math": [ "0 + u_vitamin('cheers') / 25 " ] } }
+      { "value": "electric", "add": { "math": [ "0 - u_vitamin('cheers') / 25 " ] } },
+      { "value": "acid", "add": { "math": [ "0 + u_vitamin('cheers') / 25 " ] } }
     ]
   },
   {

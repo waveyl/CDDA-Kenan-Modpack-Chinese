@@ -43,7 +43,7 @@
           "has": "WORN",
           "condition": "ALWAYS",
           "hit_me_effect": [ { "id": "v_hemo_crimsoncoat_coat_pr_maybe" } ],
-          "values": [ { "value": "ARMOR_BASH", "add": -70 }, { "value": "ARMOR_CUT", "add": -70 }, { "value": "ARMOR_STAB", "add": -70 } ]
+          "incoming_damage_mod": [ { "type": "bash", "add": -70 }, { "type": "cut", "add": -70 }, { "type": "stab", "add": -70 } ]
         }
       ]
     },
