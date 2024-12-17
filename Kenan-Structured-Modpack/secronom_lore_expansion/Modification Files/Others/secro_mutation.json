@@ -291,9 +291,11 @@
     "armor": [ { "parts": "arm_l", "bash": 6, "cut": 6, "stab": 6 } ],
     "enchantments": [
       {
+        "melee_damage_bonus": [
+          { "type": "cut", "add": 8 }
+        ],
         "values": [
-          { "value": "ATTACK_SPEED", "multiply": 0.1 },
-          { "value": "ITEM_DAMAGE_CUT", "add": 8 }
+          { "value": "ATTACK_SPEED", "multiply": 0.1 }
         ]
       }
     ],
@@ -317,10 +319,12 @@
     "armor": [ { "parts": "arm_l", "bash": 14, "cut": 14, "stab": 14 } ],
     "enchantments": [
       {
+        "melee_damage_bonus": [
+          { "type": "cut", "add": 5.5 },
+          { "type": "bash", "add": 5.5 }
+        ],
         "values": [
-          { "value": "ATTACK_SPEED", "multiply": -0.05 },
-          { "value": "ITEM_DAMAGE_BASH", "add": 5.5 },
-          { "value": "ITEM_DAMAGE_CUT", "add": 5.5 }
+          { "value": "ATTACK_SPEED", "multiply": -0.05 }
         ]
       }
     ],
