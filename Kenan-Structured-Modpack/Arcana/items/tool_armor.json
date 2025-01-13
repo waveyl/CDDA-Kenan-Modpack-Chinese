@@ -546,10 +546,7 @@
             { "type": "cold", "multiply": -0.5 },
             { "type": "acid", "multiply": -0.5 }
           ],
-          "values": [
-            { "value": "CLIMATE_CONTROL_HEAT", "add": 50 },
-            { "value": "CLIMATE_CONTROL_CHILL", "add": 50 }
-          ]
+          "values": [ { "value": "CLIMATE_CONTROL_HEAT", "add": 50 }, { "value": "CLIMATE_CONTROL_CHILL", "add": 50 } ]
         }
       ]
     },
@@ -617,15 +614,8 @@
         {
           "has": "WORN",
           "condition": "ACTIVE",
-          "incoming_damage_mod": [
-            { "type": "heat", "multiply": -1.0 },
-            { "type": "stab", "multiply": -1.0 },
-            { "type": "bullet", "multiply": -0.9 }
-          ],
-          "values": [
-            { "value": "CLIMATE_CONTROL_HEAT", "add": 50 },
-            { "value": "CLIMATE_CONTROL_CHILL", "add": 50 }
-          ]
+          "incoming_damage_mod": [ { "type": "heat", "multiply": -1.0 }, { "type": "stab", "multiply": -1.0 }, { "type": "bullet", "multiply": -0.9 } ],
+          "values": [ { "value": "CLIMATE_CONTROL_HEAT", "add": 50 }, { "value": "CLIMATE_CONTROL_CHILL", "add": 50 } ]
         }
       ]
     },
@@ -864,13 +854,8 @@
         {
           "has": "WORN",
           "condition": "ACTIVE",
-          "incoming_damage_mod": [
-            { "type": "heat", "multiply": -0.5 }
-          ],
-          "values": [
-            { "value": "CLIMATE_CONTROL_HEAT", "add": 50 },
-            { "value": "CLIMATE_CONTROL_CHILL", "add": 50 }
-          ],
+          "incoming_damage_mod": [ { "type": "heat", "multiply": -0.5 } ],
+          "values": [ { "value": "CLIMATE_CONTROL_HEAT", "add": 50 }, { "value": "CLIMATE_CONTROL_CHILL", "add": 50 } ],
           "ench_effects": [ { "effect": "heat_ward", "intensity": 1 } ]
         }
       ]

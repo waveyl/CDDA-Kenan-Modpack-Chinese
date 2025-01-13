@@ -17,9 +17,7 @@
             { "type": "stab", "add": -15 },
             { "type": "bullet", "add": -15 }
           ],
-          "values": [
-            { "value": "STRENGTH", "add": 5 }
-          ]
+          "values": [ { "value": "STRENGTH", "add": 5 } ]
         }
       ]
     },
@@ -160,7 +158,7 @@
           "incoming_damage_mod": [
             { "type": "acid", "multiply": -0.5 },
             { "type": "bash", "multiply": -0.5 },
-            { "type": "bio", "multiply": -0.5 },
+            { "type": "biological", "multiply": -0.5 },
             { "type": "cold", "multiply": -0.5 },
             { "type": "cut", "multiply": -0.5 },
             { "type": "electric", "multiply": -0.5 },
