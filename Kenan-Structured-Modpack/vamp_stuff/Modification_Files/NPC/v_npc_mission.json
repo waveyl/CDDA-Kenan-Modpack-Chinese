@@ -55,7 +55,7 @@
     "difficulty": 10,
     "value": 300000,
     "start": {
-      "assign_mission_target": { "om_terrain": "bloodhole", "om_special": "bhole", "reveal_radius": 1, "search_range": 50, "z": 0 },
+      "assign_mission_target": { "om_terrain": "bloodhole", "om_special": "bhole", "reveal_radius": 1, "z": 0 },
       "update_mapgen": {
         "place_item": [ { "item": "bigbloodrune", "x": 13, "y": 13 } ],
         "place_monster": [ { "monster": "mon_insect_devourerleech", "x": 13, "y": 13, "target": true } ]
@@ -166,7 +166,6 @@
         "om_terrain": "bloodrune_pedestal",
         "om_special": "Pedestal - Bloodrune",
         "reveal_radius": 1,
-        "search_range": 180,
         "z": 0
       }
     },
@@ -192,7 +191,7 @@
     "value": 500000,
     "destination": "vampcave_corridor1",
     "start": {
-      "assign_mission_target": { "om_terrain": "vampcave_entrance", "om_special": "Vampire Cove", "reveal_radius": 3, "search_range": 180, "z": 0 },
+      "assign_mission_target": { "om_terrain": "vampcave_entrance", "om_special": "Vampire Cove", "reveal_radius": 3, "z": 0 },
       "effect": [ "follow_only" ]
     },
     "end": { "effect": [ "stop_following", { "npc_add_trait": "isolatedtestsdone" } ] },
@@ -220,7 +219,7 @@
     "item": "corruptbloodrune",
     "count": 2,
     "start": {
-      "assign_mission_target": { "om_terrain": "vampcave_corridor2", "om_special": "Vampire Cove", "reveal_radius": 1, "search_range": 180, "z": -1 }
+      "assign_mission_target": { "om_terrain": "vampcave_corridor2", "om_special": "Vampire Cove", "reveal_radius": 1, "z": -1 }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
     "has_generic_rewards": false,
@@ -278,7 +277,6 @@
         "om_terrain": "gravesite1",
         "om_special": "Gravesite - Wild",
         "reveal_radius": 1,
-        "search_range": 90,
         "min_distance": 10,
         "must_see": false,
         "z": 0
@@ -309,7 +307,7 @@
     "destination": "wo5",
     "start": {
       "effect": [ "follow" ],
-      "assign_mission_target": { "om_terrain": "wo5", "om_special": "Wasteland Outskirts", "reveal_radius": 5, "search_range": 180, "z": 0 }
+      "assign_mission_target": { "om_terrain": "wo5", "om_special": "Wasteland Outskirts", "reveal_radius": 5, "z": 0 }
     },
     "end": { "effect": [ "leave", { "u_add_trait": "underseekerdone" } ] },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -335,7 +333,7 @@
     "difficulty": 2,
     "value": 100000,
     "start": {
-      "assign_mission_target": { "om_terrain": "radio_tower", "om_special": "Radio Tower", "reveal_radius": 2, "search_range": 90, "z": 0 },
+      "assign_mission_target": { "om_terrain": "radio_tower", "om_special": "Radio Tower", "reveal_radius": 2, "z": 0 },
       "update_mapgen": { "place_npcs": [ { "class": "HUMAN_RADIOSPEC", "x": 10, "y": 10, "target": true } ] }
     },
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -366,7 +364,6 @@
         "om_terrain": "cabin",
         "om_special": "Cabin",
         "reveal_radius": 3,
-        "search_range": 90,
         "min_distance": 30,
         "must_see": false,
         "z": 0
@@ -427,7 +424,6 @@
         "om_terrain": "vampirus",
         "om_special": "Vampirus",
         "reveal_radius": 3,
-        "search_range": 180,
         "min_distance": 30,
         "must_see": false,
         "z": 0
@@ -503,7 +499,7 @@
     "value": 10000,
     "destination": "wo5",
     "start": {
-      "assign_mission_target": { "om_terrain": "wo5", "om_special": "Wasteland Outskirts", "reveal_radius": 2, "search_range": 80 },
+      "assign_mission_target": { "om_terrain": "wo5", "om_special": "Wasteland Outskirts", "reveal_radius": 2 },
       "effect": [ "follow_only", { "u_add_trait": "wrsgoing" } ],
       "update_mapgen": { "om_terrain": "wo5", "place_nested": [ { "chunks": [ "wasteland_radio_tower" ], "x": 0, "y": 0 } ] }
     },
@@ -531,7 +527,7 @@
     "difficulty": 3,
     "value": 30000,
     "destination": "wo3",
-    "start": { "assign_mission_target": { "om_terrain": "wo3", "om_special":"Wasteland Outskirts", "reveal_radius": 2, "search_range": 80 }, "effect": [ "follow" ] },
+    "start": { "assign_mission_target": { "om_terrain": "wo3", "om_special":"Wasteland Outskirts", "reveal_radius": 2 }, "effect": [ "follow" ] },
     "end": { "effect": [ "leave", { "npc_change_faction": "wastelander" } ] },
     "origins": [ "ORIGIN_SECONDARY" ],
     "has_generic_rewards": false,
@@ -559,7 +555,7 @@
     "value": 0,
     "origins": [ "ORIGIN_GAME_START" ],
     "start": {
-      "assign_mission_target": { "om_terrain": "crypt1", "om_special": "Memorial Crypt", "reveal_radius": 2, "search_range": 90, "z": 0 }
+      "assign_mission_target": { "om_terrain": "crypt1", "om_special": "Memorial Crypt", "reveal_radius": 2, "z": 0 }
     }
   },
   {
