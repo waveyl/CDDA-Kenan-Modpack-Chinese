@@ -1403,7 +1403,7 @@
     "key": "9faa6142d81beb12f2183d7acdbe2d00",
     "original": "A box full of gears and cogs, meant to be used with a crank action mechanism or similar clockwork weapon.",
     "translation": "一个装有传动装置和齿轮的盒子，用于曲柄机构或类似的发条武器。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: homemade_gearbox\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→homemade_gearbox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=homemade_gearbox"
   },
   {
@@ -1829,14 +1829,14 @@
   {
     "key": "b9cd0c982838a705e6251750bcbf4053",
     "original": "A handmade .223 rifle that utilizes a bolt-action mechanism.",
-    "translation": "一种手工制造的.223步枪，使用一个霰弹作用机构。",
+    "translation": "手工制造的.223步枪，使用栓动机构。",
     "stage": 3,
     "context": "ID: rifle_bolt_223\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_223"
   },
   {
     "key": "6f663d57fb7b65ffb5757178f01d9f9f",
     "original": "A handmade .223 rifle that utilizes a lever-action mechanism.",
-    "translation": "一种手工制造的.223步枪，使用杠杆作用机构。",
+    "translation": "一种手工制造的.223步枪，使用杠杆机构。",
     "stage": 3,
     "context": "ID: rifle_lever_223\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_lever_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_lever_223"
   },
@@ -1920,7 +1920,7 @@
   {
     "key": "cabbbad444e30b79537b4c44b421f47f",
     "original": "A handmade 7.62 rifle that utilizes a bolt-action mechanism.",
-    "translation": "一种手工制作的7.62步枪，采用霰弹作用机制。",
+    "translation": "一种手工制作的7.62步枪，采用栓动构件。",
     "stage": 3,
     "context": "ID: rifle_bolt_762\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_762\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_762"
   },
@@ -1997,7 +1997,7 @@
   {
     "key": "8f04bde3eda8a42896e7b670fa644c1b",
     "original": "A homemade bolt-action mechanism, used in sniper rifles.",
-    "translation": "一种自制的霰弹作用机构，用于狙击步枪。",
+    "translation": "一种自制的栓动枪机，用于狙击步枪。",
     "stage": 3,
     "context": "ID: mechanism_homemade_bolt\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_bolt"
   },
@@ -7170,8 +7170,8 @@
   {
     "key": "f9084082585e204cf21bd473ee089eb3",
     "original": "bolt action mechanism",
-    "translation": "霰弹作用机构",
-    "stage": 1,
+    "translation": "栓动机构",
+    "stage": 3,
     "context": "ID: mechanism_homemade_bolt\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_bolt"
   },
   {
@@ -7450,8 +7450,8 @@
   {
     "key": "407067db5437be16340a4aea6f2c4fea",
     "original": "crank action mechanism",
-    "translation": "曲柄机构",
-    "stage": 1,
+    "translation": "曲柄构件",
+    "stage": 3,
     "context": "ID: mechanism_homemade_crank\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_crank\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_crank"
   },
   {
@@ -8269,7 +8269,7 @@
   {
     "key": "02a902fe74bb92a9d31b91b6c9443bbc",
     "original": "lever action mechanism",
-    "translation": "杠杆机构",
+    "translation": "杠杆构件",
     "stage": 3,
     "context": "ID: mechanism_homemade_lever\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_lever\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_lever"
   },
@@ -8850,7 +8850,7 @@
   {
     "key": "4c10ccbc5c7149640656d921dbe3d38c",
     "original": "pump action mechanism",
-    "translation": "泵动机构",
+    "translation": "泵动构件",
     "stage": 3,
     "context": "ID: mechanism_homemade_pump\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_pump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_pump"
   },

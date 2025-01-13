@@ -284,9 +284,9 @@
  {
   "key": "be6795eb3c9d86d0992600cfeedb4987",
   "original": "1/10 chance to stop and die from barraging beams.",
-  "translation": "1/10的机会停止和死亡的障碍梁。",
+  "translation": "有1/10的概率因猛烈的光束攻击而停止并死亡。",
   "context": "ID: mon_idol_vex_etherhar_scatterbeam\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_scatterbeam\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b81362d93284c27363b7b06ec13a6299",
@@ -356,7 +356,7 @@
   "original": "<color_red>Orus</color>",
   "translation": "<color_red>奥卢斯</color>",
   "context": "ID: v_hemo_form_orus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_item.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→v_hemo_form_orus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a6d2a765384c5b331dba4c65e8f4a49c",
@@ -535,9 +535,9 @@
  {
   "key": "7160e5d19f4ce785ca38feb5a80fd3b6",
   "original": "A deep blood residue. It's light, crimson hue denotes intense desaturation from aging.",
-  "translation": "血迹很深。它的光，深红色调表示从老化强烈去饱和。",
+  "translation": "一层浓重的血迹残留于此。淡淡的猩红色彰显出随着岁月流逝而产生的强烈褪色效果。。",
   "context": "ID: t_blood_dp\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_ter_furn.json\n类型为 terrain\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→terrain→t_blood_dp\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "148fb0869e2cc34f1827007cf7351231",
@@ -1164,7 +1164,7 @@
   "original": "Along with the seeker, travel to the <color_light_blue>wasteland outskirts</color>. Talk to them again after reaching the destination.",
   "translation": "与探索者一起，前往<color_light_blue>荒地郊外</color>。到达目的地后再与他们交谈。",
   "context": "ID: VAMP_UNDERSEEKER_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "55be211803286c63a4e5968dc42149a7",
@@ -1185,7 +1185,7 @@
   "original": "An etherean deity, concealed beneath an impenetrable barrier. Within a clear vision, a vaguely humanoid figure floats freely mid-air.",
   "translation": "一个以太神，隐藏在一个无法穿透的屏障之下。在清晰的视野中，一个模模糊糊的人形身影在空中自由漂浮。",
   "context": "ID: mon_idol_vex\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_mon.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_idol_vex\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "37f0eec6ab322716f5c25aebec6d2577",
@@ -1217,9 +1217,9 @@
  {
   "key": "6ca4e92b5fbda56788900b84964f3e7b",
   "original": "An innate flash flood of blood bursts out from you, dealing <color_magenta>bashing damage</color> to the surrounding targets.\n\nThis is a <color_light_red>tier 4</color> spell.",
-  "translation": "一股天生的鲜血从你身上迸发而出，对周围目标造成<color_magenta>点猛击伤害</color>点。\n\n这是一个<color_light_red>第4层的咒语。",
+  "translation": "一股天生的鲜血从你身上迸发而出，对周围目标造成<color_magenta>钝击伤害</color>。\n\n这是<color_light_red>四阶</color>法术。",
   "context": "ID: t4_blood_bloodwave\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T4.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t4_blood_bloodwave\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d8df03069325c52235344804d8abf1b2",
@@ -1252,9 +1252,9 @@
  {
   "key": "d7ee560d3dcd8badc417f4619f8fb9e2",
   "original": "And now that the seal is broken, we can go through it.",
-  "translation": "现在封印已被打破，我们可以穿过去了。",
+  "translation": "现在封印已被打破，我们可以过去了。",
   "context": "ID: VAMP_UNDERSEEKER_quest_vampirus2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest_vampirus2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8641530d0c049b191130e2371e1bba44",
@@ -1357,9 +1357,9 @@
  {
   "key": "eb61e6a4f13202d43f95d228da8464ae",
   "original": "Attempts to instantly kill the target by draining every ounce of their life force, dealing immensive <color_green>biological damage</color>.\n\nThis is a <color_red>tier 5</color> spell.",
-  "translation": "试图通过耗尽目标的每一盎司生命力来立即杀死目标，造成巨大的<color_green>生物伤害</color>。\n\n这是一个<color_red>第5层的咒语。",
+  "translation": "试图通过耗尽目标的每一丝生命力来立即杀死目标，造成巨大的<color_green>生物伤害</color>。\n\n这是一个<color_red>5阶</color>法术。",
   "context": "ID: t5_blood_essencepull\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_essencepull\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "125a99e3257092dca48f0ccb98947ee9",
@@ -1373,14 +1373,14 @@
   "original": "Bats are nocturnal, and tends to live in dark places like caves.",
   "translation": "蝙蝠是夜间活动的，往往生活在洞穴等黑暗的地方。",
   "context": "ID: VAMP_UNDERTRADER_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "638dbaad8ea28de566cd061c5372cbbc",
   "original": "Battered Binder",
   "translation": "破烂的活页夹",
   "context": "ID: v_mana_T2_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_mana_T2_tome\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1713dd4b3e7cfa6b7ebca3eb9953feac",
@@ -1426,23 +1426,23 @@
  {
   "key": "39f7482ebfe66b2a61504f31a14f3700",
   "original": "Blind foes within a 4 tile radius.",
-  "translation": "视而不见的敌人在4瓦片半径内。",
+  "translation": "使4格内的敌人失明。",
   "context": "ID: t3_blood_crimsonhaze_blind\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t3_blood_crimsonhaze_blind\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cd867a198f59ae86bc02240dfc7d7092",
   "original": "Blizzaga",
   "translation": "暴雪",
   "context": "ID: t3_elem_blizzaga\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T3.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t3_elem_blizzaga\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "44accdad0f0f4a645c547e9dd4b89a5e",
   "original": "Bloated lump of blood, forming into something... frightening.",
-  "translation": "肿胀的血块，形成某种东西…可怕的。",
+  "translation": "肿胀的血块，形成某种……可怕的东西。",
   "context": "ID: mon_orus_bloodling\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_mon.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_orus_bloodling\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a3378d142e4ff62f6b6adefb6d4a4dce",
@@ -1470,14 +1470,14 @@
   "original": "Blood Puddle",
   "translation": "血泊",
   "context": "ID: t2_blood_bloodpuddle\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T2.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t2_blood_bloodpuddle\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "14e64d341c3ef1a386f8bf824d9db85c",
   "original": "Blood Ripple",
   "translation": "血脉",
   "context": "ID: v_hemo_bloodrip\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_bloodrip\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "09d107427d0ceb251cb8c3a144a121c7",
@@ -1505,7 +1505,7 @@
   "original": "Blood clots are actively seeking for bleeding body parts to repair.",
   "translation": "血凝块正在积极寻找出血的身体部位进行修复。",
   "context": "ID: v_spell_clot\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_clot\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e5dfd3733a9315e5b16527f7a3b3e4ba",
@@ -1691,23 +1691,23 @@
  {
   "key": "179ac77d2ae4bcf0958522a98cc28626",
   "original": "Can't move at all!",
-  "translation": "一点也不能动！",
+  "translation": "寸步难行！",
   "context": "ID: v_spell_elem_freeze\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_elem_freeze\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "13e517d40c37b1497e1ff0b3ec21a6a1",
   "original": "Cast-and-Run",
-  "translation": "铸造和运行",
+  "translation": "丢完就跑",
   "context": "ID: mon_idol_vex_spell_car\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_spell_car\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "faf64481662931bc7e818f65b9f10a75",
   "original": "Casted upon monster's LOS and within the predefined range. ALSO WHEN IT IS NOT ON COOLDOWN.",
   "translation": "在怪物的视距和预定范围内施法。当它没有冷却的时候。",
   "context": "ID: mon_idol_vex_etherhar_spell_target\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_spell_target\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "10d92cf1d23055e02632898bb1df9a42",
@@ -1719,16 +1719,16 @@
  {
   "key": "520d3e3f565d2c53059329fa44f50dd5",
   "original": "Caster channels the underworld for a very long time to desecrate the targets with pillars of hellish flames.",
-  "translation": "施法者引导冥界很长时间，用地狱般的火焰柱亵渎目标。",
+  "translation": "施法者花很长一段时间从冥界引导出地狱般的火焰柱亵渎目标。",
   "context": "ID: v_profane_hellfire\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_profane_hellfire\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "48ad9853ebd32eed8e98fd5d4bf04bbc",
   "original": "Caster sends out blood tentacles that attaches to nearby allies, regaining large portion of health while damaging the caster.",
   "translation": "施法者放出附在附近盟友身上的血触手，在伤害施法者的同时恢复大部分生命值。",
   "context": "ID: v_hemo_share\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_share\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "815ece556a5816bd1930ae1d2533edba",
@@ -1789,7 +1789,7 @@
  {
   "key": "0f5904fed2ff998eb39afa34d1df3022",
   "original": "Collect 15 small leech teeth",
-  "translation": "收集15颗小水蛭的牙齿",
+  "translation": "收集15颗小水蛭牙",
   "context": "ID: VAMP_UNDERCOMMANDO_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest2\n",
   "stage": 3
  },
@@ -1805,7 +1805,7 @@
   "original": "Collect <color_light_red>30 human blood</color> then bring it to the commando.",
   "translation": "采集<color_light_red>30人的血液</color>然后带到突击队。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2b3327ac93f4d3c721f25b653b6f9849",
@@ -1893,16 +1893,16 @@
  {
   "key": "713d769775b243448fc973b95209ee43",
   "original": "Conjures a large amount of blood to strike the targets inside a wide cone, dealing <color_magenta>bashing damage</color>.\n\nThis is a <color_light_red>tier 4</color> spell.",
-  "translation": "召唤大量鲜血打击一个大圆锥体内的目标，造成<color_magenta>点打击伤害</color>点。\n\n这是一个<color_light_red>第4层的咒语。",
+  "translation": "召唤大量鲜血打击一个大圆锥体内的目标，造成<color_magenta>钝击伤害</color>。\n\n这是<color_light_red>四阶</color>法术。",
   "context": "ID: t4_blood_riptide\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T4.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t4_blood_riptide\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e8401051dd6fa47b1263b6090ac3d34b",
   "original": "Conjures a profane ball of fiery ice to strike the foe. Upon impact, it shatters, dealing <color_white>cold damage</color> and spreads frostburn on that area.\n\nThis is a <color_red>tier 5</color> spell.",
-  "translation": "召唤一个神圣的火冰球打击敌人。撞击后，它粉碎，造成<color_white>点冷伤害</color>点并在该区域传播冻伤。\n\n这是一个<color_red>第5层的咒语。",
+  "translation": "召唤一个神圣的火冰球打击敌人。撞击后，它粉碎，造成<color_white>点冷伤害</color>点并在该区域传播冻伤。\n\n这是<color_red>五阶</color>法术。",
   "context": "ID: t5_elem_icebane\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_elem_icebane\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25cb630ccd5abe3fcea2ce8093fbd7c0",
@@ -1914,13 +1914,13 @@
  {
   "key": "1a4a06d51a058c21d4b29fe97436770e",
   "original": "Conjures a volatile profane magic to the targeted area then explodes, dealing <color_gray>pure damage</color> to the surrounding foes.\n\nThis is a <color_white>tier 3</color> spell.",
-  "translation": "对目标区域释放一个不稳定的亵渎魔法，然后爆炸，对周围的敌人造成 造成<color_white>真实伤害</color>\n\n这是一个<color_white>三阶</color>法术。",
+  "translation": "对目标区域释放一个不稳定的亵渎魔法，然后爆炸，对周围的敌人造成<color_gray>真实伤害</color>\n\n这是一个<color_white>三阶</color>法术。",
   "stage": 3
  },
  {
   "key": "e1eb9f2aa061cd913a4852b4aa4bd5f9",
   "original": "Conjures a volatile profane magic to the targeted area then explodes, dealing <color_light_gray>pure damage</color> to the surrounding foes.\n\nThis is a <color_white>tier 3</color> spell.",
-  "translation": "对目标区域施展一种易变的世俗魔法，然后爆炸，对周围的敌人造成<color_light_gray>点纯伤害</color>点。\n\n这是<color_white>三阶</color>法术。",
+  "translation": "对目标区域释放一个不稳定的亵渎魔法，然后爆炸，对周围的敌人造成<color_light_gray>真实伤害</color>。\n\n这是<color_white>三阶</color>法术。",
   "context": "ID: mon_ether_shadow_spell_blast\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_ether_shadow_spell_blast\n",
   "stage": 3
  },
@@ -1976,9 +1976,9 @@
  {
   "key": "daff845e1845213804e30f8d9029471f",
   "original": "Crimson Hazed",
-  "translation": "深红朦胧",
+  "translation": "猩红雾霾",
   "context": "ID: v_spell_crimsonhaze\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_crimsonhaze\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "05e7b12fc60e971e8747213c6a3c0c14",
@@ -2111,7 +2111,7 @@
   "original": "Dark Descendant",
   "translation": "黑暗后裔",
   "context": "ID: SCEN_RECRUIT_VAMP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→SCEN_RECRUIT_VAMP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c03a3a6d272ef3fc4b0736b1593c360d",
@@ -2125,14 +2125,14 @@
   "original": "Dark Pillar",
   "translation": "暗柱",
   "context": "ID: t6_mana_darkpillar\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_darkpillar\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5fc37eb9feddf9c56a7533a26deda20a",
   "original": "Dark Pillar Bash",
   "translation": "暗柱猛击",
   "context": "ID: t6_mana_darkpillar_bash\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_darkpillar_bash\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "81ffe3c45ffcfe4028dae4fef4bf2c13",
@@ -2144,30 +2144,30 @@
  {
   "key": "5657ca1d4f2e654e1aeab481e48f9cc9",
   "original": "Deals 2 hp.",
-  "translation": "交易2马力。",
+  "translation": "交易2 HP。",
   "context": "ID: v_hemo_whip_spell_d_dmg\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_d_dmg\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4be1e53848933b4f09ba1004bfa8bc99",
   "original": "Deals 25 bash damage.",
-  "translation": "造成25点重击伤害。",
+  "translation": "造成 25点钝击伤害。",
   "context": "ID: t5_blood_outrage_bash\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_bash\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1977f6d1e638e0bfca991f3163fbe015",
   "original": "Deals 25 cut damage.",
-  "translation": "造成25点伤害。",
+  "translation": "造成 25点斩击伤害。",
   "context": "ID: t5_blood_outrage_cut\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_cut\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "65f2b51a33722b732a42c861457f92e0",
   "original": "Deals 25 stab damage.",
-  "translation": "造成25点刺伤伤害。",
+  "translation": "造成 25点刺击伤害。",
   "context": "ID: t5_blood_outrage_stab\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_stab\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8888001732c68b20d74ce5fa3dc78fcf",
@@ -2188,14 +2188,14 @@
   "original": "Desecrate",
   "translation": "亵渎",
   "context": "ID: t7_elem_desecrate\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_elem_desecrate\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2a27428ecedca797c55501d29060c9c2",
   "original": "Desolation",
   "translation": "荒凉",
   "context": "ID: t6_blood_desolation\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_blood_desolation\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "afafbfc32e14a2a2c8ec19c7382b6dd4",
@@ -2207,23 +2207,23 @@
  {
   "key": "2530de4434a0b7f4d6078e67f56ada5d",
   "original": "Deus Exerxium",
-  "translation": "行使权",
+  "translation": "神之执行",
   "context": "ID: t6_elem_exerxium\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_elem_exerxium\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ebf87795b3361af563926881e9eefd76",
   "original": "Did you get my drinks?",
-  "translation": "你给我拿饮料了吗？",
+  "translation": "你给我带饮料了吗？",
   "context": "ID: VAMP_LONELY_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7d6604214702a760d51318531ca81009",
   "original": "Did you know we have been using blood substitutes for decades? Well, that's a good thing for us. Now, I want you to collect a few human blood, either yours or not... 15, I suppose that will satisfy my pleasure for that taste once again.",
-  "translation": "你知道我们用血液替代品已经有几十年了吗？嗯，这对我们来说是件好事。现在，我要你收集一些人类的血液，不管是不是你的…我想这会再次满足我的口味。",
+  "translation": "你知道我们用血液替代品已经有几十年了吗？嗯，这对我们来说是件好事。现在，我要你收集一些人类的血液，不管是不是你的……我想这会再次满足我的口味。",
   "context": "ID: VAMP_LONELY_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cc8efe68e7b7e56173e92db94515077a",
@@ -2270,30 +2270,30 @@
  {
   "key": "35c936dcc13127b9380543f340598e19",
   "original": "Does the Megamagic Exhaust.",
-  "translation": "超级魔术会耗尽能量吗。",
+  "translation": "超级魔术会导致魔力枯竭吗",
   "context": "ID: t5_mana_megamagic_exhaust_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_megamagic_exhaust_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "83d25fa8607de88ba449808a6daa4839",
   "original": "Does the Piercing Retaliation.",
-  "translation": "做刺耳的报复。",
+  "translation": "是否发动穿刺反击",
   "context": "ID: v_hemo_crimsoncoat_coat_pr_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_crimsoncoat_coat_pr_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f7833b3eb361818c8f252d7325e4b4a2",
   "original": "Does the Summon Silhouette.",
-  "translation": "召唤的轮廓。",
+  "translation": "是否召唤虚影",
   "context": "ID: v_war_etherealenchant_ss_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_war_etherealenchant_ss_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "56a0fdf8886e923ce12debab72784665",
   "original": "Does the Sweeping Strike.",
-  "translation": "扫荡罢工。",
+  "translation": "进行横扫攻击。",
   "context": "ID: v_hemo_whip_spell_ss_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_ss_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c1327116138b02382fa26024fa674a01",
@@ -2328,7 +2328,7 @@
   "original": "Doomed",
   "translation": "注定的",
   "context": "ID: v_monspell_doom\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_monspell_doom\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8cae731f39ed76e0eb6763c010c8737e",
@@ -2361,44 +2361,44 @@
  {
   "key": "2b6d381fa15937a53ae51f0d5cb579dd",
   "original": "Drain!",
-  "translation": "排水管！",
+  "translation": "排空！",
   "context": "ID: v_hemo_whip_spell_d_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_d_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9c42c9502c852c683ed7481f8fe99a77",
   "original": "Drain?",
-  "translation": "排水管？",
+  "translation": "排空？",
   "context": "ID: v_hemo_whip_spell_d_maybe\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_d_maybe\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6887df984ee52ff515d6129025920dea",
   "original": "Drains life force from the target, may be it an ally or a foe.",
   "translation": "消耗目标的生命力，可能是盟友或敌人。",
   "context": "ID: v_hemo_transfusion\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_transfusion\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab1cfc4a1025f1a5b67796c9153c9c00",
   "original": "Drinks? You have the drinks ready?",
   "translation": "喝点什么？饮料准备好了吗？",
   "context": "ID: VAMP_UNDERCOMMANDO_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "eb2dc9307acef75771de03b447ee0600",
   "original": "Elemental Dissipation",
   "translation": "元素耗散",
   "context": "ID: t1_elem_elemdis\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T1.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_elem_elemdis\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f28b1e4043aa2e63d19e830d1d0e9224",
   "original": "Elemental Ward",
   "translation": "元素防护",
   "context": "ID: t6_elem_elemward\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_elem_elemward\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c7a8c255683fc26ce9ea68a01e48f925",
@@ -2419,28 +2419,28 @@
   "original": "Escort the specialist to the <color_light_blue>wasteland outskirts</color>.",
   "translation": "护送专家到<color_light_blue>荒地郊外</color>。",
   "context": "ID: HUMAN_RADIOSPEC_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→HUMAN_RADIOSPEC_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "972bf41325737963c959dee0932813a9",
   "original": "Escort the vampire to the <color_light_blue>vampire cove</color>.",
   "translation": "护送吸血鬼到<color_light_blue>吸血鬼湾</color>。",
   "context": "ID: VAMP_LONELY_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8319f6380e15c897c9c9c8de04532a2e",
   "original": "Essence Pull",
-  "translation": "源质牵引",
+  "translation": "精华牵引",
   "context": "ID: t5_blood_essencepull\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_essencepull\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b64fb60051068558a1bae0548f9dc988",
   "original": "Eternal Frost",
   "translation": "永恒之霜",
   "context": "ID: t7_elem_eternalfrost\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_elem_eternalfrost\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b76023f563d8cbd946cebe305c36d12b",
@@ -2454,7 +2454,7 @@
   "original": "Ethereal Enchantment",
   "translation": "空灵附魔",
   "context": "ID: t6_mana_etherealenchantment\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_etherealenchantment\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "62942c14bd6251d6f073ef952866ad6a",
@@ -2468,42 +2468,42 @@
   "original": "Ethereal Harbinger",
   "translation": "空灵的预兆",
   "context": "ID: mon_idol_vex_etherealharbringer\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealharbringer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "05c74c354690a28d9eeaca2879b59206",
   "original": "Ethereal Harbringer Combo",
-  "translation": "空灵使者组合",
+  "translation": "空灵预兆连击",
   "context": "ID: mon_idol_vex_etherealharbringer_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealharbringer_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "86822e38202c205020e6d98c7c33478c",
   "original": "Ethereal Shock",
   "translation": "空灵休克",
   "context": "ID: v_spell_darkpillar\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_darkpillar\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "974a1931e05ed988f5561344415c963c",
   "original": "Ethereal Shockwave",
   "translation": "空灵冲击波",
   "context": "ID: mon_idol_vex_etherealshockwave\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealshockwave\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cbfbbbf297f345f11d761b9c0abdddeb",
   "original": "Ethereal Shockwave Combo",
-  "translation": "空灵冲击波组合",
+  "translation": "空灵冲击波连击",
   "context": "ID: mon_idol_vex_etherealshockwave_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealshockwave_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "49dc55c6175c1eb71c78eb472d3ba467",
   "original": "Ethereal Shockwave Wave",
   "translation": "空灵冲击波",
   "context": "ID: mon_idol_vex_etherealshockwave_wave\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealshockwave_wave\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "caf4c0cee11e02f28ae78c4387a9b265",
@@ -2531,14 +2531,14 @@
   "original": "Exhaustion",
   "translation": "疲惫",
   "context": "ID: t5_mana_megamagic_exhaust_stam\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_megamagic_exhaust_stam\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e33b265de07fd8d09b453fa36d9f2bcf",
   "original": "Explosions",
   "translation": "爆炸",
   "context": "ID: mon_idol_vex_calamity_exp\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_calamity_exp\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5f45b90c4b9645ee0b4f65827850e88b",
@@ -2571,7 +2571,7 @@
   "original": "Fascinating job mortal! With its death, others will be safe... A bit.",
   "translation": "迷人的工作凡人！随着它的死亡，其他人将会安全...有点。",
   "context": "ID: VAMP_WS2_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d31da33b6f27fb7f10766d3fa417e3e0",
@@ -2604,9 +2604,9 @@
  {
   "key": "3f1313c3c857572077419c6682077c9e",
   "original": "Firebane",
-  "translation": "火炭",
+  "translation": "火之克星",
   "context": "ID: t5_elem_firebane\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_elem_firebane\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "60b8cfa0b3204d51446e5626fd82b6d3",
@@ -2641,7 +2641,7 @@
   "original": "Form: <color_red>Orus</color>",
   "translation": "形式：<color_red>Orus</color>",
   "context": "ID: t7_blood_form_orus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_blood_form_orus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "76bfb814d71b508664572e1eddcdb3ca",
@@ -2655,7 +2655,7 @@
   "original": "Freezed",
   "translation": "冻结",
   "context": "ID: v_spell_elem_freeze\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_elem_freeze\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "63c10a171537cfddc281807245d8d525",
@@ -2674,9 +2674,9 @@
  {
   "key": "45f41b300f18513e5bf66f3a54190d8f",
   "original": "From what direction did you came from? I suppose that's the right way.",
-  "translation": "你是从哪个方向来的？我想这是正确的方法。",
+  "translation": "你是从哪个方向来的？我想是这条。",
   "context": "ID: HUMAN_RADIOSPEC_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→HUMAN_RADIOSPEC_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a699a3ea1fce47dd9988f5702a287609",
@@ -2690,28 +2690,28 @@
   "original": "Frozen",
   "translation": "冻结",
   "context": "ID: v_spell_elem_flashfreeze\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_elem_flashfreeze\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7af58875dc14a8575ce1eb2dbbac4407",
   "original": "Gather <color_light_red>15 human blood</color> then bring it to the vampire.",
   "translation": "采集<color_light_red>15人的血液</color>然后把它带给吸血鬼。",
   "context": "ID: VAMP_LONELY_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d71a2b66becfde31ae22fa7a470f4b06",
   "original": "Gather <color_light_red>15 small leech teeth</color> and give them to the commando. They are rarely dropped by <color_magenta>leeches</color> that lives in the <color_light_blue>swamp</color>.",
-  "translation": "收集<color_light_red>15颗小水蛭的牙齿</color>，交给突击队。它们很少被生活在<color_light_blue>沼泽的<color_magenta>只水蛭丢弃。",
+  "translation": "收集<color_light_red>15颗小水蛭牙</color>，交给突击队。它们有时候会从生活在<color_light_blue>沼泽</color>的<color_magenta>水蛭</color>身上掉落。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "74d760e3f36f71dc51ee16d23d5444ef",
   "original": "Gather your courage first.",
-  "translation": "先鼓起勇气。",
+  "translation": "先鼓起勇气吧。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ca5f8fc5f45742bf0e00f70b5e082e52",
@@ -2725,21 +2725,21 @@
   "original": "Get 2 Corrupt Bloodrune Stone",
   "translation": "获得2块腐败的血符石",
   "context": "ID: VAMP_UNDERTRADER_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "91139727a1a0b92cee2d2e95155237e2",
   "original": "Get a <color_light_red>bloodrune</color> then deliver it to the vampire.",
   "translation": "得到一个<color_light_red>血符文</color>然后把它交给吸血鬼。",
   "context": "ID: VAMP_LONELY_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "201716101401d7132baa4b0a971ca6f1",
   "original": "Get the <color_light_red>2 corrupted bloodrune stones</color> that are dropped by killing the <color_magenta>infected vampires</color> then deliver them to the trader.",
-  "translation": "获得通过杀死<color_magenta>个被感染的吸血鬼而掉落的<color_light_red>2块被腐蚀的血符石</color>，然后把它们交给交易者。",
+  "translation": "获得通过杀死<color_magenta>被感染的吸血鬼</color>而掉落的<color_light_red>2块被腐蚀的血符石</color>，然后把它们交给交易者。",
   "context": "ID: VAMP_UNDERTRADER_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ccaa86bc3c0939c281b5419817799480",
@@ -2779,9 +2779,9 @@
  {
   "key": "024832f4d1fd8ad54ac4be404ab693ad",
   "original": "Good, those tests proved yourself a good descendant. As a reward, I'll protect you along the way.",
-  "translation": "很好，那些测试证明你是个好后代。作为回报，我会一路保护你。",
+  "translation": "很好，那些测试证明你是个好后裔。作为回报，我会一路保护你。",
   "context": "ID: VAMP_LONELY_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "324b00e392ecba80c9770c0d9a8ac9dd",
@@ -2795,7 +2795,7 @@
   "original": "Good. Come back anytime you want.",
   "translation": "很好。你想什么时候回来都行。",
   "context": "ID: VAMP_UNDERTRADER_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "333ed51f3ffb1a4e218425e8655c55e6",
@@ -2809,21 +2809,21 @@
   "original": "Good. Just remind her about it and she'll provide the essential information.",
   "translation": "很好。只要提醒她这件事，她就会提供必要的信息。",
   "context": "ID: VAMP_WS2_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "31e3f48264c59d8e12711adadb6d59ab",
   "original": "Good. Now go outside and look for them.",
-  "translation": "很好。现在出去找他们。",
+  "translation": "很好。现在出去找他们吧。",
   "context": "ID: VAMP_LONELY_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f9aa5935085bf38cc45608619ba0c7c1",
   "original": "Good. Now off we go, mortal.",
-  "translation": "很好。我们走吧，凡人。",
+  "translation": "很好。我们走吧，人类。",
   "context": "ID: VAMP_UNDERSEEKER_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2b6b7a1d6c93a6991763a931b5bd20d8",
@@ -2863,23 +2863,23 @@
  {
   "key": "a4e2871620e5f14bcd08ef1bd9fa2c80",
   "original": "Great! Let this survivors die out of nowhere then...",
-  "translation": "太棒了！让这些幸存者凭空死去吧...",
+  "translation": "太棒了！让这些幸存者凭空死去吧..……",
   "context": "ID: VAMP_WS2_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e4a95bcfebaae2c740e2bd8332f2a865",
   "original": "Great, mortal. This oozing bloodrune will now meet its place... Or not at all.",
   "translation": "太好了，凡人。这个渗出鲜血的符文现在将会找到它的位置...或者根本没有。",
   "context": "ID: VAMP_UNDERTRADER_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "48e5c97cddd95aab9a2c85e61fc7f867",
   "original": "Great. Now move, mortal.",
-  "translation": "太好了。走开，凡人。",
+  "translation": "太好了。现在走开，凡人。",
   "context": "ID: VAMP_WS2_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1dfe6270ff9548a48acd0994c7e51e4a",
@@ -2905,9 +2905,9 @@
  {
   "key": "d1208f9ac821415caaff410e9bfcf1b7",
   "original": "Gunshop owner.",
-  "translation": "Gunshop owner.",
+  "translation": "枪店店主",
   "context": "ID: V_GUNSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_GUNSHOP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "22d76f5243e5177700cbb348ea09e231",
@@ -2982,21 +2982,21 @@
   "original": "Heals the caster with 1 hp.",
   "translation": "治疗施法者1点生命。",
   "context": "ID: t1_blood_transfusion_spell_heal\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_transfusion_spell_heal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f7314ac29e4e03a8679f92a1c7a7aad7",
   "original": "Heals the caster with 5 hp.",
-  "translation": "治疗施法者5点生命。",
+  "translation": "治疗施法者5点HP。",
   "context": "ID: t5_blood_outrage_drain_heal\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_drain_heal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c9c4361a461d53e7f4dc5d417258a77f",
   "original": "Heavily binds the target, dealing <color_green>biological damage</color> and renders them <color_yellow>unconscious</color>.\n\nThis is a <color_white>Tier 3</color> spell.",
-  "translation": "严重束缚目标，造成<color_green>点生物伤害</color>并使其失去意识<color_yellow></color>。\n\n这是一个<color_white>第3层的咒语。",
+  "translation": "严重束缚目标，造成<color_green>点生物伤害</color>并使其失去意识<color_yellow></color>。\n\n这是一个<color_white>3阶</color>的法术。",
   "context": "ID: t3_blood_suppress\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T3.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t3_blood_suppress\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "93690d25b555f63432e2e1892671aa48",
@@ -3071,7 +3071,7 @@
  {
   "key": "eb49fc239f8d3f040fb30fc59e5c03ec",
   "original": "Here's your small leech teeth.",
-  "translation": "这是你要的小吸血牙",
+  "translation": "这是你要的小水蛭牙",
   "context": "ID: TALK_MISSION_INQUIRE\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Underrefugee/v_uc_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_MISSION_INQUIRE\n",
   "stage": 3
  },
@@ -3217,9 +3217,9 @@
  {
   "key": "be164f67b895c02d92e3d4ebb4367987",
   "original": "I do not guarantee our safety from breaking the seal, so you'll need to guard me as I break it.",
-  "translation": "我不能保证我们打破封印的安全，所以当我打破封印的时候你需要保护我。",
+  "translation": "我不能保证打破封印后我们的安全，所以当我打破封印的时候你需要保护我。",
   "context": "ID: VAMP_UNDERSEEKER_quest_vampirus2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest_vampirus2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9b20651b09bce6224d158e11024ba1ff",
@@ -3308,9 +3308,9 @@
  {
   "key": "f1d41a77ba5797e7a9cd0d79bcfb572f",
   "original": "I guess you're afraid of bats...",
-  "translation": "我猜你害怕蝙蝠...",
+  "translation": "我猜你很害怕蝙蝠..……",
   "context": "ID: VAMP_UNDERTRADER_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fa3e215d2c23febb29ebf8d1bb1db372",
@@ -3357,16 +3357,16 @@
  {
   "key": "e3279876a2c408c5fc8c6b8eba2f8b94",
   "original": "I knew you can bring one. Now let this nerd go to work!",
-  "translation": "我知道你可以带一个。现在让这个书呆子去上班！",
+  "translation": "我知道你可以带一个。现在让这个书呆子去工作！",
   "context": "ID: VAMP_WS2_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7197f4c80c50ad300492476fc594b6e6",
   "original": "I know you can do it...",
-  "translation": "我知道你能做到…",
+  "translation": "我就知道你能行……",
   "context": "ID: VAMP_LONELY_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3aa41fc0d9ce739aa12d1c6e62a3c1e0",
@@ -3441,9 +3441,9 @@
  {
   "key": "172af38b03a0cc377b230c538e17dd19",
   "original": "I see my kindred seems alright. Well, it does matter to me, and you've been the key to this. Thank you, descendant.",
-  "translation": "我看我的亲戚似乎没事。嗯，这对我来说很重要，而你是这件事的关键。谢谢你，后人。",
+  "translation": "看来血族似乎没事。嗯，这对我来说很重要，而你是这件事的关键。谢谢你，后裔。",
   "context": "ID: VAMP_LONELY_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4c3d5ec055c50b40209da218360b2ff9",
@@ -3490,9 +3490,9 @@
  {
   "key": "651c507aec60e0bf062bc0d443d4849c",
   "original": "I trade at wastelands.",
-  "translation": "I trade at wastelands.",
+  "translation": "我在荒地做买卖。",
   "context": "ID: H_JUNKSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_JUNKSHOP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cd610b4e09e9f1603a2a2a8a8954bb64",
@@ -3532,9 +3532,9 @@
  {
   "key": "89d323a47fc141ca3d2a97fae76eb1dc",
   "original": "I want you for this errand.",
-  "translation": "我要你帮我办这件事。",
+  "translation": "我想让你帮我办件事。",
   "context": "ID: VAMP_LONELY_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0937824604a4eabb37da415321db1d29",
@@ -3546,9 +3546,9 @@
  {
   "key": "e3498da98d0de4bf0af9f71cad209d8e",
   "original": "I want you to slay something...",
-  "translation": "我要你杀些东西…",
+  "translation": "我要你杀些东西……",
   "context": "ID: VAMP_UNDERCOMMANDO_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b1a19a9f04749c162bda3c1fd3c98cdf",
@@ -3658,23 +3658,23 @@
  {
   "key": "416f33595da31a14d321fab6d5e0a1c5",
   "original": "Icebane",
-  "translation": "冰山",
+  "translation": "冰之克星",
   "context": "ID: t5_elem_icebane\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_elem_icebane\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f88b2da9131d139e994a472030101682",
   "original": "Idol: <color_blue>Vex</color>",
-  "translation": "偶像：<color_blue>Vex</color>",
+  "translation": "神像：<color_blue>烦恼</color>",
   "context": "ID: t7_mana_idol_vex\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_mana_idol_vex\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5367c57592c7ec84ee7ee63e0762d451",
   "original": "If only you let me shoot your chest, this will be done easily.",
   "translation": "只要你让我射你的胸膛，这件事就容易做了。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "761a0d07a61ae5e078ca7026d87dc2ba",
@@ -3702,7 +3702,7 @@
   "original": "Ignite",
   "translation": "点燃",
   "context": "ID: t2_elem_ignite\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T2.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t2_elem_ignite\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a1ba998cf6960a62a76b669224f9960f",
@@ -3720,37 +3720,37 @@
  {
   "key": "35a28047e0e69c76535beef84f3d5469",
   "original": "Imitates hit-and-run. Lasts for until their spell ceases from cooling down.",
-  "translation": "模仿肇事逃逸。持续到他们的法术停止冷却。",
+  "translation": "模仿尝试逃跑。持续到他们的法术停止冷却。",
   "context": "ID: mon_idol_vex_spell_car\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_spell_car\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e1971a8b885be66d8598a41fd96a674f",
   "original": "Impending Doom",
   "translation": "末日",
   "context": "ID: mon_idol_vex_impendingdoom\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_impendingdoom\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3de34b7b9dcb23348f618123ccc97500",
   "original": "Impending Doom Combo",
   "translation": "即将到来的厄运连击",
   "context": "ID: mon_idol_vex_impendingdoom_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_impendingdoom_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b513b555f1492b1b37fe584dd9062403",
   "original": "Impersonates one of ancient hemomancers - Orus, the zealous manipulator - who possesses the ability to rise the impure beings from the blood of their victim.\n* While actively 'having' this form, gains a negative flat bonus to stat (SPD -15), but increases your maximum health by 50.\n\nThis is a <color_pink>tier 7</color> spell.",
-  "translation": "扮演一个古老的血液净化者——热情的操纵者——他拥有从受害者的血液中提取不纯生物的能力。\n *在积极“拥有”此形态的同时，获得一个负面的单位加值，但增加你的最大生命值50。\n\n这是一个<color_pink>层7的</color>法术。",
+  "translation": "扮演一个古老的血液净化者——热情的操纵者——他拥有从受害者的血液中提取不纯生物的能力。\n *在积极“拥有”此形态的同时，获得一个负面的单位加值，但增加你的最大生命值50。\n\n这是<color_pink>七阶</color>法术。",
   "context": "ID: t7_blood_form_orus\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_blood_form_orus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e0c15dd961bc4ab2f419870c86fe0d13",
   "original": "Implosion",
   "translation": "内爆",
   "context": "ID: mon_idol_vex_etherhar_implosion\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_implosion\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8853e2fdeb6a4776d79bd8e9f82ab862",
@@ -3846,9 +3846,9 @@
  {
   "key": "d943ccf521afd89ca3b36cdb8ee5bbc6",
   "original": "Isolated vampires.",
-  "translation": "Isolated vampires.",
+  "translation": "独居的吸血鬼。",
   "context": "ID: V_LONELY\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_LONELY\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8a95ad3ccb5f91f3870e63da1e38e077",
@@ -3909,16 +3909,16 @@
  {
   "key": "1267e8c43034baa54e0235badfea0c97",
   "original": "It's easy, I think...",
-  "translation": "我认为这很容易...",
+  "translation": "这很容易吧，我觉得……",
   "context": "ID: VAMP_WS2_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2359e413da547f007f34b7e90902043a",
   "original": "It's just okay.",
   "translation": "没事的。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a92af6a9f099d08935d1efe934bcab4a",
@@ -4063,9 +4063,9 @@
  {
   "key": "0996775eab34585b2f8c6f1e8fe2bbe8",
   "original": "Just thanks...",
-  "translation": "谢谢你…",
+  "translation": "谢谢你……",
   "context": "ID: VAMP_LONELY_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dc33895cc222500b126487f802602a1d",
@@ -4079,7 +4079,7 @@
   "original": "Keep an eye out for possible threats along the way.",
   "translation": "留意沿途可能的威胁。",
   "context": "ID: VAMP_UNDERSEEKER_quest_vampirus1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest_vampirus1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "57a8939ef94b7d934a3a68fbf90bc38f",
@@ -4100,7 +4100,7 @@
   "original": "Kill <color_light_red>200 zombies</color> then talk to the commando after completion.",
   "translation": "杀死<color_light_red>200只丧尸</color>，完成后与突击队交谈。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "38c838b2c0b96d256c6885b1aff0c94a",
@@ -4112,9 +4112,9 @@
  {
   "key": "e123e0267c19ac2a879f70f4786e3cc0",
   "original": "Kill the <color_magenta>succumbed vampire</color> then talk to the guard.\n<color_red>Going unprepared is a death trap!</color>",
-  "translation": "杀死<color_magenta>吸血鬼</color>然后和守卫谈谈。\n<color_red>毫无准备是一个死亡陷阱！</color>",
+  "translation": "杀死<color_magenta>吸血鬼</color>后和守卫谈谈。\n<color_red>毫无准备是一个死亡陷阱！</color>",
   "context": "ID: VAMP_WS2_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fdf60829d029bd046a1ee6387b262699",
@@ -4153,9 +4153,9 @@
  {
   "key": "9a18c61d8ead95b6e6d3bd2a052df824",
   "original": "Lead the trail, I'm right behind if you require my assistance.",
-  "translation": "带路，如果你需要我的帮助，我就在后面。",
+  "translation": "带路，如果你需要帮助的话，我就在后面。",
   "context": "ID: VAMP_UNDERSEEKER_quest_vampirus1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest_vampirus1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4d5bf043fd0a4a8af79087ec6a4dddc1",
@@ -4278,7 +4278,7 @@
  {
   "key": "83537481ec67d9dec530abe873b11618",
   "original": "Mark of the Vampire",
-  "translation": "吸血鬼标记",
+  "translation": "吸血鬼印记",
   "context": "ID: wsg2vampirusdone\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Mutation/v_dialogue_traits.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mutation→wsg2vampirusdone\n",
   "stage": 3
  },
@@ -4390,9 +4390,9 @@
  {
   "key": "c3abccf37a938f0733d75e5617d9c871",
   "original": "NPC with this trait tells their unique story.",
-  "translation": "具有这种特质的NPC讲述了他们独特的故事。",
+  "translation": "具有这种特质的NPC会讲述他们独特的故事。",
   "context": "ID: lonevamp_s1_what\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Mutation/v_dialogue_traits.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mutation→lonevamp_s1_what\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "597e1cc280314abaadfa7370efb799a7",
@@ -4765,9 +4765,9 @@
  {
   "key": "678b4e0744c84fd1b133a20b4a1aef25",
   "original": "Okay, descendant. This won't be hard and take your time.",
-  "translation": "好的，后代。这不难，慢慢来。",
+  "translation": "好的，后裔。这不难，慢慢来。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "97d6dc67493b3f45e724df93a21839bf",
@@ -4849,9 +4849,9 @@
  {
   "key": "8952b934a266ec19291ff54a3c2c9508",
   "original": "Orus: Rise! Bloodling!",
-  "translation": "奥鲁斯：起来！流血！",
+  "translation": "奥卢斯：崛起吧！血裔！",
   "context": "ID: v_hemo_orusform_bloodling\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_orusform_bloodling\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9656df40ae4c6f37cd6c3e0713095063",
@@ -5173,9 +5173,9 @@
  {
   "key": "a32de1408056194f70dabee39a4d8181",
   "original": "Scatterbeam Combo",
-  "translation": "散射光束组合",
+  "translation": "散射光束连击",
   "context": "ID: mon_idol_vex_etherhar_scatterbeam_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_scatterbeam_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aedbf6490ed5eb7e3a357c55dd89cb62",
@@ -5231,7 +5231,7 @@
   "original": "Serious pain you'll get from breaking into their cage.",
   "translation": "闯入他们的笼子会让你很痛苦。",
   "context": "ID: VAMP_UNDERTRADER_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e0e88b1ce1b7ffa6402631202c753335",
@@ -5249,23 +5249,23 @@
  {
   "key": "20b5d700192f1fb15203af2f87903962",
   "original": "Sets you in catastrophic madness, consuming own's life force in exchange of barraging random attacks.\n* For every damage, you randomly attack foes with 25 (<color_magenta>bash</color>, cut or <color_light_red>stab</color>) damage within a 12 tile radius. There's a 1/10 chance to suck the target's life force, dealing up to <color_green>10 biological damage</color> and heals you by <color_green>5</color>.\n\nThis is a <color_red>tier 5</color> spell.",
-  "translation": "让你陷入灾难性的疯狂，消耗自己的生命力量来交换弹幕式的随机攻击。\n*每造成一点伤害，你在12个方圆内随机攻击敌人25点伤害（<color_magenta>击</color>，砍或<color_light_red>刺）。有1/10的几率吸取目标的生命力，造成最多<color_green>10点生物伤害，并通过<color_green>5治疗你。\n\n这是一个<color_red>第5层的咒语。",
+  "translation": "让你陷入灾难性的疯狂，消耗自己的生命力量来交换弹幕式的随机攻击。\n*每造成一点伤害，你在12个方圆内随机攻击敌人25点伤害（<color_magenta>钝击</color>斩击或<color_light_red>刺击</color>）。有1/10的几率吸取目标的生命力，造成最多<color_green>10点生物伤害</color>，并恢复<color_green>5点HP</color>。\n\n这是<color_red>五阶</color>法术。",
   "context": "ID: t5_blood_vampiricoutrage\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_vampiricoutrage\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5a95a425f74314a96f13a2f136992178",
   "original": "Share",
   "translation": "分享",
   "context": "ID: v_hemo_share\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_share\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4e9cb1f5474ac16fc9c175ceca62dd45",
   "original": "Share Blood",
   "translation": "分享鲜血",
   "context": "ID: v_hemo_shareblood\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/monster_magic.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_shareblood\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "36d8a6f4c5e1e15934f03c3b9a63dc3f",
@@ -5291,9 +5291,9 @@
  {
   "key": "76e51aeca67ad0949e3f150f7840f1c9",
   "original": "Shopkeep",
-  "translation": "Shopkeep",
+  "translation": "店主",
   "context": "ID: H_JUNKSHOP\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_JUNKSHOP\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "52867c2c1210451155b77f42a25c6733",
@@ -5369,7 +5369,7 @@
   "original": "Slay them in any way you want.",
   "translation": "你想怎么杀就怎么杀。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "21158645a27c87dcb9af06d8241d106d",
@@ -5381,9 +5381,9 @@
  {
   "key": "6fef6bb935535917975be0e6dce777e4",
   "original": "So descendant... What should we talk about?",
-  "translation": "所以后代…我们应该谈什么？",
+  "translation": "所以后裔……我们该谈些什么？",
   "context": "ID: TALK_VAMP_UNDERCOMMANDO_maintalk\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Underrefugee/v_uc_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_UNDERCOMMANDO_maintalk\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3aeacac34a73c7534964c5abec5b4a23",
@@ -5521,9 +5521,9 @@
  {
   "key": "97ef93f7f2c6f70bcceec645ac20f060",
   "original": "Sticky vapors of blood takes a firm hold of your body!",
-  "translation": "粘稠的血液蒸气紧紧地抓住你的身体！",
+  "translation": "粘稠的血雾牢牢地附着在你的身体上！",
   "context": "ID: v_spell_crimsonhaze\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_crimsonhaze\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6cbae6b124d655e1eb86b5876585d5f4",
@@ -5542,44 +5542,44 @@
  {
   "key": "6f32e5737d1b91d93df7470bda67f32e",
   "original": "Summon Silhouette",
-  "translation": "召唤轮廓",
+  "translation": "召唤虚影",
   "context": "ID: v_war_etherealenchant_ss\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_war_etherealenchant_ss\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "415340569a683157cb4206b07d929d62",
   "original": "Summon Silhouette!",
-  "translation": "召唤剪影！",
+  "translation": "召唤虚影！",
   "context": "ID: v_war_etherealenchant_ss_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_war_etherealenchant_ss_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "10a91a7886992b520108de224156d63b",
   "original": "Summon Silhouette?",
-  "translation": "召唤剪影？",
+  "translation": "召唤虚影？",
   "context": "ID: v_war_etherealenchant_ss_maybe\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_war_etherealenchant_ss_maybe\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7b7ad1ed9d9a90e02c8cdd8901c5365e",
   "original": "Summons 2-5 ethereal harbringers.",
   "translation": "召唤2-5个空灵使者。",
   "context": "ID: mon_idol_vex_etherealharbringer\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealharbringer\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9bc026430b941e61c9a7553bc3d2bcf8",
   "original": "Summons a bloodling at a random field in range.",
   "translation": "在范围内的任意区域召唤一个血族。",
   "context": "ID: v_hemo_orusform_bloodling\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_orusform_bloodling\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7c1b18856251509600d948a3c4a5a1ae",
   "original": "Summons an etherean silhouette.",
-  "translation": "召唤一个以太的轮廓。",
+  "translation": "召唤一个以太虚影。",
   "context": "ID: v_war_etherealenchant_ss\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_war_etherealenchant_ss\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5ca5b93595160b6ce829eb9e139f0851",
@@ -5599,28 +5599,28 @@
   "original": "Summons the <color_light_blue>etherean silhouette</color>(s), striding through the world swiftly and are invulnerable to physical hazards.\n* These minions do not harm with brute strength, but casts a basic warlock spell at foe weights from <color_light_gray>tier 1</color> to <color_white>tier 3</color>. After the duration or casting any spell, they vanish.",
   "translation": "召唤出<color_light_blue>以太幽影</color>，它们迅速穿越世界，对物理伤害免疫。\n*这些仆从不以蛮力伤人，而是对敌人施放基础巫术咒语，咒语等级从<color_light_gray>1阶</color>到<color_white>3阶</color>不等。施法完毕或持续时间结束后，它们便会消失无踪。",
   "context": "ID: t5_mana_danceofthesilhouettes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T5.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_mana_danceofthesilhouettes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "853fbbeb76e35bea97202cc179baa627",
   "original": "Suppress",
   "translation": "抑制",
   "context": "ID: t3_blood_suppress\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Hemomancer/v_blood_T3.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t3_blood_suppress\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "70bc58027e11dddd4af24730461acf1f",
   "original": "Surge of blood flows through your vessel!",
   "translation": "血液涌动流过你的血管！",
   "context": "ID: v_spell_bloodsurge\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_bloodsurge\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8d39e3cfc275e93f416ced548b139975",
   "original": "Surrounds the foe inside a blazing wall of flames.\n* Creates fire fields outside the aoe range.\n\nThis is a <color_light_red>tier 4</color> spell.",
-  "translation": "围绕在燃烧的火焰墙内的敌人。\n *在aoe范围外制造火场。\n\n这是一个<color_light_red>四级</color>法术。",
+  "translation": "围绕在燃烧的火焰墙内的敌人。\n *在范围外创造一个火场。\n\n这是一个<color_light_red>四级</color>法术。",
   "context": "ID: t4_elem_firewall\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Profane_Conjurer/v_elem_T4.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t4_elem_firewall\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "06f709a359e4f08a099cdbc6424d918c",
@@ -5639,16 +5639,16 @@
  {
   "key": "82882dec0b3c9fab539b61521b4323e3",
   "original": "Sweeping Strike!",
-  "translation": "大罢工！",
+  "translation": "横扫攻击！",
   "context": "ID: v_hemo_whip_spell_ss_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_ss_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "94f19d7972c57d4ad2812f47c7052113",
   "original": "Sweeping Strike?",
-  "translation": "大罢工？",
+  "translation": "横扫攻击？",
   "context": "ID: v_hemo_whip_spell_ss_maybe\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_ss_maybe\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dac9180b96fc9847b43914d9d63ced7e",
@@ -5660,9 +5660,9 @@
  {
   "key": "55df02645d35822a385039bf83eedab3",
   "original": "Swipes through an arc, dealing 16 cutting damage.",
-  "translation": "划过弧线，造成16点切割伤害。",
+  "translation": "弧形挥击，造成16点切割伤害。",
   "context": "ID: v_hemo_whip_spell_ss\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_ss\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5ed7f1b1089cec542ab721fcae5dd5d2",
@@ -5695,21 +5695,21 @@
   "original": "Take down 10 elder zombies",
   "translation": "干掉10个老丧尸",
   "context": "ID: VAMP_LONELY_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6796e60fd849cadd9eb97759b25ae1b0",
   "original": "Take the blood sac from the giant \"Thing\"",
   "translation": "从巨大的“东西”上取血囊",
   "context": "ID: VAMP_UNDERCOMMANDO_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e303383d15860fcf213dade6304a0afa",
   "original": "Take the prisoner to the <color_light_blue>wasteland outskirts</color>.",
   "translation": "把犯人带到<color_light_blue>荒地的郊外</color>。",
   "context": "ID: HUMAN_VAΜPRISON_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→HUMAN_VAΜPRISON_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1b80d410f247fb43ee1e29bec8bf450c",
@@ -5721,16 +5721,16 @@
  {
   "key": "22cab480cf7e43be32bf11b1abf39dd8",
   "original": "Talk to me again later if you want to help me.",
-  "translation": "如果你想帮我的话，以后再跟我说。",
+  "translation": "如果你想帮我的话，可以再来找我。",
   "context": "ID: VAMP_LONELY_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2e516b8492ca997d9077e6cda2fdcbfd",
   "original": "Tattered Pamphlet",
   "translation": "破烂的小册子",
   "context": "ID: v_mana_T4_tome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/spellbooks.json\n类型为 BOOK\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→BOOK→v_mana_T4_tome\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "054fc7866c93a2496fd9048c493e6aed",
@@ -5793,7 +5793,7 @@
   "original": "Thank you for your help in eradicating some bloodsuckers.",
   "translation": "谢谢你帮忙铲除了一些吸血鬼。",
   "context": "ID: VAMP_UNDERTRADER_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "69759f222d7b137a93531a9684a6028d",
@@ -5814,7 +5814,7 @@
   "original": "Thank you, now go.",
   "translation": "谢谢，现在走吧。",
   "context": "ID: VAMP_UNDERTRADER_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "22f4e07089216bc20fc3c92ac6787320",
@@ -5826,16 +5826,16 @@
  {
   "key": "81119804ec6344fb4c8927bcfc90986f",
   "original": "Thanks, I guess...",
-  "translation": "谢谢，我想…",
+  "translation": "谢谢，我想……",
   "context": "ID: TALK_VAMP_LONELY_farthere\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Isolated/v_lo_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_LONELY_farthere\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "db1f47818535425cc8061061d8b511de",
   "original": "That blast really packs a punch!",
-  "translation": "那次爆炸真是一记重拳！",
+  "translation": "那一击真的非常有力！",
   "context": "ID: v_spell_megamagic_exhaust\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_megamagic_exhaust\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5cb0c4ae429116d69890611e782e3378",
@@ -6162,37 +6162,37 @@
  {
   "key": "33820587183da682df73d3a4b3030094",
   "original": "The Vex casts Calamity!\nExplosions of profane magic errupts from beneath the earth!",
-  "translation": "烦恼带来灾难！\n世俗魔法的爆炸从地下爆发！",
+  "translation": "烦恼释放了灾难！\n世俗魔法的爆炸从地下爆发！",
   "context": "ID: mon_idol_vex_calamity_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_calamity_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "72a7435587bfa499f4f81298d63fbee2",
   "original": "The Vex casts Ethereal Harbringer!",
-  "translation": "烦恼铸成了空灵的使者！",
+  "translation": "烦恼释放了空灵的使者！",
   "context": "ID: mon_idol_vex_etherealharbringer_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealharbringer_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8efc6ec345714ba36c92542b2745bc20",
   "original": "The Vex casts Ethereal Shockwave!",
-  "translation": "烦恼投射出空灵的冲击波！",
+  "translation": "烦恼释放了空灵的冲击波！",
   "context": "ID: mon_idol_vex_etherealshockwave_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealshockwave_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7ebf1ec3b755f206e679761a909545df",
   "original": "The Vex casts Impending Doom!",
-  "translation": "烦恼带来了即将到来的厄运！",
+  "translation": "烦恼释放了即将到来的厄运！",
   "context": "ID: mon_idol_vex_impendingdoom_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_impendingdoom_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "02c87cc3a02e39eaa100a9a9c39921a9",
   "original": "The baneful flames melt you internally! OMFG!",
-  "translation": "邪恶的火焰将你内在融化！天哪！",
+  "translation": "邪恶的火焰将你从内部融化了！天哪！",
   "context": "ID: v_spell_elem_flame_curse\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_elem_flame_curse\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d81fd4bb7751596615e056ad939f8ef6",
@@ -6212,7 +6212,7 @@
   "original": "The blood surge leech showers its blood!",
   "translation": "血脉汹涌的水蛭在喷血！",
   "context": "ID: mon_insect_bloodsurgeleech\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Insects/+Leech.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_insect_bloodsurgeleech\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "46b065b8ead7bf45fba2b07d43826a84",
@@ -6231,9 +6231,9 @@
  {
   "key": "7dae6bdec8067e19f283562a4e9cc417",
   "original": "The crimson coat retaliates to the attack!",
-  "translation": "那件深红色的外套是对攻击的报复！",
+  "translation": "那件猩红外套猛地反击了这次攻击！",
   "context": "ID: v_hemo_crimsoncoat_coat_pr_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_crimsoncoat_coat_pr_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2f609f3606728593fbe5c306fd93a232",
@@ -6245,37 +6245,37 @@
  {
   "key": "3f509ea8137b75d20473a1a780c54501",
   "original": "The ethereal harbringer bursts out ethereal beams!",
-  "translation": "空灵的使者爆发出空灵的光芒！",
+  "translation": "空灵预兆爆发出空灵的光芒！",
   "context": "ID: mon_idol_vex_etherhar_scatterbeam_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_scatterbeam_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e5b9167e21846627f71f84b152bd6827",
   "original": "The ethereal harbringer implodes!",
-  "translation": "空灵的使者内爆了！",
+  "translation": "空灵预兆内爆了！",
   "context": "ID: mon_idol_vex_etherhar_implosion_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_implosion_combo\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6e432b8ffa78947b76489381c3828bf8",
   "original": "The etherean silhouette casts Dark Beam!",
-  "translation": "以太的轮廓投射出黑暗的光芒！",
+  "translation": "以太虚影投射出黑暗的光芒！",
   "context": "ID: mon_ether_shadow_spell_beam\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_ether_shadow_spell_beam\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "21ea4327d08901a9f70e0f74aceab3f7",
   "original": "The etherean silhouette casts Dark Blast!",
-  "translation": "以太的轮廓投射出黑暗的爆炸！",
+  "translation": "以太虚影投射出黑暗的爆炸！",
   "context": "ID: mon_ether_shadow_spell_blast\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_ether_shadow_spell_blast\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9e1cebbd2dcd9152c3312a6535b9b9b3",
   "original": "The etherean silhouette casts Dark Bolt!",
-  "translation": "以太的轮廓投射出黑暗的闪电！",
+  "translation": "以太虚影投射出黑暗的闪电！",
   "context": "ID: mon_ether_shadow_spell_bolt\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_ether_shadow_spell_bolt\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3352fcd1539ed6792d566bb74eaf08d7",
@@ -6289,7 +6289,7 @@
   "original": "The glowing marks around your body doesn't seem to be friendly...",
   "translation": "你身体周围的发光痕迹似乎不友好…",
   "context": "ID: v_monspell_doom\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_monspell_doom\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2190ab07331a3e4f0c55812c32350441",
@@ -6324,35 +6324,35 @@
   "original": "The leech's whip absorbs the life force from a nearby creature!",
   "translation": "水蛭的鞭子吸收附近生物的生命力！",
   "context": "ID: v_hemo_whip_spell_d_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_d_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2e8fe6f271ce2a68d06cbced8af984b7",
   "original": "The leech's whip strikes a wide arc!",
-  "translation": "水蛭的鞭子打了一个大弧线！",
+  "translation": "水蛭的鞭子发动了一次大弧形攻击！",
   "context": "ID: v_hemo_whip_spell_ss_yes\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_hit_time.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→v_hemo_whip_spell_ss_yes\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2b7364f37008520d578f6f30b5c2fe86",
   "original": "The magic took over the buried corpses? That's unfortunate and the trader would be disappointed about this...",
-  "translation": "魔法接管了掩埋的尸体？这很不幸，交易者会对此感到失望...",
+  "translation": "魔法接管了掩埋的尸体？这很不幸，交易者会对此感到失望..……",
   "context": "ID: VAMP_UNDERSEEKER_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "aedac93d038d937cb82c7dbd356becbd",
   "original": "The monster does not rest after a kill...",
-  "translation": "怪物杀人后不会休息...",
+  "translation": "怪物杀人后可不会休息..……",
   "context": "ID: VAMP_WS2_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "040463f3e5b114d06e9dcb8b34a46160",
   "original": "The sharpshooter leech spew it tooth!",
-  "translation": "神枪手水蛭把它吐出来了！",
+  "translation": "神枪水蛭吐出了它的尖牙！",
   "context": "ID: mon_insect_sharpshooterleech\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Insects/+Leech.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_insect_sharpshooterleech\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c79ff68b8c740877731d75ed5f36d380",
@@ -6366,7 +6366,7 @@
   "original": "The trader told me to observe the old graveyards we knew from the past. So before we go to the outskirts, we'll get pass through it first.",
   "translation": "商人让我观察我们过去知道的旧墓地。所以在我们去郊区之前，我们会先通过它。",
   "context": "ID: VAMP_UNDERSEEKER_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b82d4f8215f8679dd6b8e7517ba3dcb6",
@@ -6394,7 +6394,7 @@
   "original": "Their blood has calcified into a shell, and it is distinctive to their appearance.",
   "translation": "它们的血液已经钙化成一个贝壳，这与它们的外表不同。",
   "context": "ID: VAMP_LONELY_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "40ab1d132a0635f60373caea1a53ebf0",
@@ -6413,9 +6413,9 @@
  {
   "key": "eb1e4a3db36be1c5c589b7c6e69a9ca5",
   "original": "These blood certainly are useful. Thanks for this treats, descendant.",
-  "translation": "这些血当然有用。谢谢你的款待，后代。",
+  "translation": "这些血还真是有用。谢谢你的款待，后裔。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f92fec6fc1ae07e36add6dcd92d1ed98",
@@ -6429,7 +6429,7 @@
   "original": "They are blind, and depends on what they hear or smell.",
   "translation": "他们是瞎子，取决于他们听到什么或闻到什么。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2610433c0b6c52af51d4b31c189f208e",
@@ -6567,51 +6567,51 @@
  {
   "key": "8bd5da183ba64b3366ec8132d4f36516",
   "original": "This is pretty much risky to you... Going to do it?",
-  "translation": "这对你来说风险很大…你打算怎么做？",
+  "translation": "这对你来说风险可不小……打算怎么做？",
   "context": "ID: VAMP_UNDERCOMMANDO_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b910304dd3c6d71439f77b12a99547bb",
   "original": "This is the final test I can give you... Still want to try?",
-  "translation": "这是我能给你的最后一个测试…还想试试吗？",
+  "translation": "这是我能给你的最后一道测试……还想试试吗？",
   "context": "ID: VAMP_UNDERCOMMANDO_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fd48d7ee8d242518f296fbf5945c550e",
   "original": "This is the last job, you want to do it?",
-  "translation": "这是最后一份工作，你想做吗？",
+  "translation": "这是最后一份工作了，你想做吗？",
   "context": "ID: VAMP_LONELY_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "adbf2726d64cb75194a7bf3e61fafbb0",
   "original": "This large leech somehow gained a power from a vampire blood, and caused it to mutate a longer teeth lining. The sucking power that it does will drain you in a pinch.",
   "translation": "这只大水蛭不知何故从吸血鬼的血液中获得了一种力量，并使它变异出了一种更长的牙膜。在必要时，它的吸吮力可以直接把你吸干。",
   "context": "ID: mon_insect_vampireleech\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Insects/+Leech.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_insect_vampireleech\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f9f04db26f9a0eb3bff2e485ae127c5b",
   "original": "This may be a long journey. You know I'm a night creature, so you'll have to take care of me in daytime.",
   "translation": "这可能是一个漫长的旅程。你知道我是个夜猫子，所以白天你得照顾我。",
   "context": "ID: VAMP_LONELY_quest4\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest4\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "701de073cd70491ebf946ecaee3eba13",
   "original": "This odd, hand drawn map only points the vampire cove. There's no actual road going there, but it's an enough information for you.",
   "translation": "这张奇怪的手绘地图只指向吸血鬼湾。那里没有真正的道路，但这对你来说已经足够了。",
   "context": "ID: vampcave_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→vampcave_map\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bb5bba10c5d44c38886bf775db4d5361",
   "original": "This odd, hand drawn map points the crypts in its range. There's no actual road going there, but it's an enough information for you.",
-  "translation": "这张奇怪的手绘地图指出了其范围内的地穴。那里没有真正的道路，但这对你来说已经足够了。",
+  "translation": "这张奇怪的手绘地图指出了其范围内的地穴。那里没有真正称得上道路的路，但这对你来说已经足够了。",
   "context": "ID: crypt_map\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Locations/-Essentials/v_locationmap.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→crypt_map\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "44af38120fe515006038d7dc2deb3d4a",
@@ -6625,14 +6625,14 @@
   "original": "This overgrown leech possesses tremendous amount of short bone spikes overlapping around its flabby skin. Much slower, tougher and deadlier than before.",
   "translation": "这种杂草丛生的水蛭在松弛的皮肤周围有大量的短刺。比以前慢得多，更硬，更致命。",
   "context": "ID: mon_insect_spikyleech\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Monsters/Insects/+Leech.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_insect_spikyleech\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b1e24b48aa59ad25261299de57e13002",
   "original": "This place looks neat! Now that I'm here, I'll do my job as you have said earlier.",
   "translation": "这个地方看起来很整洁！既然我来了，我就按照你刚才说的做好我的工作。",
   "context": "ID: HUMAN_RADIOSPEC_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→HUMAN_RADIOSPEC_quest\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1bdb975c6b4123fa7900dc37d080a3b7",
@@ -6702,7 +6702,7 @@
   "original": "Topic?",
   "translation": "话题？",
   "context": "ID: TALK_VAMP_UNDERCOMMANDO_maintalk\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Underrefugee/v_uc_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_UNDERCOMMANDO_maintalk\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1771895abd68a02faf9440de2c009077",
@@ -6716,21 +6716,21 @@
   "original": "Tranfusion Damage",
   "translation": "传递损伤",
   "context": "ID: t1_blood_transfusion_spell_dmg\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_transfusion_spell_dmg\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9d2db31ac4c84fd1b34a557a9023bfd7",
   "original": "Tranfusion Heal",
   "translation": "转移治疗",
   "context": "ID: t1_blood_transfusion_spell_heal\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_transfusion_spell_heal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d380104d30f3c5658489512b2e9a7c4d",
   "original": "Tranfusion Spell",
-  "translation": "转换咒语",
+  "translation": "转换法术",
   "context": "ID: t1_blood_transfusion_spell\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t1_blood_transfusion_spell\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1740a856a8d768d7906dfd28a3ec420f",
@@ -6812,9 +6812,9 @@
  {
   "key": "01a3c5311e19f9c58ff3bbb7b47f9144",
   "original": "Ummm... I want to shoot you.",
-  "translation": "嗯…我想杀了你。",
+  "translation": "嗯…我真想崩了你。",
   "context": "ID: VAMP_UNDERCOMMANDO_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERCOMMANDO_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fa78b4b8b39dcf05260b925487687789",
@@ -6840,44 +6840,44 @@
  {
   "key": "0bc97f6ed17cb3f16b146e93bffc1fd3",
   "original": "Unbelievable! You did it, mortal! Our master would be grateful of your doings!",
-  "translation": "难以置信！你做到了，凡人！我们的主人会感激你的所作所为的！",
+  "translation": "难以置信！你做到了，人类！我们的主人会感激你的所作所为的！",
   "context": "ID: VAMP_WS2_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c86fc76b9c340829641c175ae3d357b2",
   "original": "Underground Vampires",
-  "translation": "Underground Vampires",
+  "translation": "地下吸血鬼",
   "context": "ID: V_UNDERCOMMANDO\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERCOMMANDO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0cf9a4b75f4cfa4abed4d5d068fdb6eb",
   "original": "Underground bombardments of pure damage.",
   "translation": "纯粹破坏的地下轰炸。",
   "context": "ID: mon_idol_vex_calamity_exp\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_calamity_exp\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a9c93d91da96c242fb448569dbeb0109",
   "original": "Underground vampire commando.",
-  "translation": "Underground vampire commando.",
+  "translation": "地下吸血鬼突击队。",
   "context": "ID: V_UNDERCOMMANDO\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERCOMMANDO\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "772a8b6fdfd7be428e38aa916651c6fd",
   "original": "Underground vampire refugees.",
-  "translation": "Underground vampire refugees.",
+  "translation": "地下吸血鬼难民。",
   "context": "ID: V_UNDERREFUGEE\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERREFUGEE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ceea06d96039298b55478b9f6a466947",
   "original": "Underground vampire traders.",
-  "translation": "Underground vampire traders.",
+  "translation": "地下吸血鬼商人。",
   "context": "ID: V_UNDERTRADER\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_UNDERTRADER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "470eaa3865bff3cfbd3210809e046428",
@@ -6889,16 +6889,16 @@
  {
   "key": "a1a79c24e63c2fc50d97c6ae9f486e60",
   "original": "Unfortunately, that vampire is not alone.\n\nI have recently received a radio message that reveals the pinpoint location of the gathering place owned by those infected vampires. Your task is to find a way to stop and annihilate the entire army of them. I told the seeker about it and she'll help you infiltrate your objective.",
-  "translation": "不幸的是，那个吸血鬼并不孤单。\n\n我最近收到一条无线电信息，显示了被感染的吸血鬼聚集的精确位置。你的任务是找到一种方法来阻止和消灭他们的整个军队。我告诉探索者了，她会帮你潜入你的目标。",
+  "translation": "不幸的是，那个吸血鬼并非孤身一人。\n\n我最近收到一条无线电信息，显示了被感染的吸血鬼聚集的精确位置。你的任务是找到一种方法来阻止和消灭他们的整个军队。我告诉探索者了，她会帮你潜入你的目标。",
   "context": "ID: VAMP_WS2_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_WS2_quest3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a2e40cde0b2cda7c09b096b7293a9980",
   "original": "Unholy surge of mana flows through you!",
-  "translation": "邪恶的法力涌动流过你！",
+  "translation": "邪恶的魔力涌动过你！",
   "context": "ID: v_spell_manasurge\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_manasurge\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fdb559c9bfcc96565eb82f797405f242",
@@ -7043,9 +7043,9 @@
  {
   "key": "8508330d8a8e3f93197c7eb9696f192a",
   "original": "Vex",
-  "translation": "威克斯",
+  "translation": "烦恼",
   "context": "ID: mon_idol_vex\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_mon.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_idol_vex\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "da168508ae439edcda23d28b835a39e9",
@@ -7162,16 +7162,16 @@
  {
   "key": "d90536ed75adebf43c120309e9719eca",
   "original": "Wasteland Refugee",
-  "translation": "Wasteland Refugee",
+  "translation": "荒地难民",
   "context": "ID: H_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→H_WASTELAND\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "96f7b7d4b7373a82f59183af57cbfd48",
   "original": "Wasteland Vampires",
-  "translation": "Wasteland Vampires",
+  "translation": "荒地吸血鬼",
   "context": "ID: V_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTELAND\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab3ff68df6a52e0b385bd737de341a41",
@@ -7183,16 +7183,16 @@
  {
   "key": "a836bcb7bd3a71388a644e95b374b224",
   "original": "Wasteland refugees.",
-  "translation": "Wasteland refugees.",
+  "translation": "荒地难民。",
   "context": "ID: V_WASTELAND\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_classes.json\n类型为 npc_class\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→npc_class→V_WASTELAND\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f8f9004d247a9b9b1c7b6459c31b7170",
   "original": "We are now going to the outskirts, and I know the commando told you about this place.",
   "translation": "我们现在要去郊外，我知道突击队跟你说过这个地方。",
   "context": "ID: VAMP_UNDERSEEKER_quest_vampirus1\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERSEEKER_quest_vampirus1\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0c10fa8d1854eb69fccef85498628d2a",
@@ -7297,7 +7297,7 @@
   "original": "Well hi there? Its been a while since I see a living human walking in this damned world!",
   "translation": "嗨，你好吗？我好久没看见一个活人在这个该死的世界上行走了！",
   "context": "ID: TALK_HUMAN_RS_talk\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Wastelands_Outskirts/h_wrs_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_HUMAN_RS_talk\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8885e469268c60bd52ecef739f5b8745",
@@ -7800,7 +7800,7 @@
   "original": "You gain an <color_brown>ethereal enchantment</color>, causing your attacks to feel lighter, yet strikes deeper into the inner self of your foe.\n* If worn, your attacks gain <color_light_yellow>20 armor pierce</color> and its cost is reduced by 15.\n\nThis is a <color_magenta>Tier 6</color> spell.",
   "translation": "你获得了<color_brown>轻灵之附</color>，使你攻击时更感轻盈，却能更深入地打击对手的内在。\n*如果装备着，你的攻击将获得<color_light_yellow>20刺击穿甲</color>，并且其耗时减少15。\n\n这是一个<color_magenta>六阶</color>法术。",
   "context": "ID: t6_mana_etherealenchantment\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T6.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t6_mana_etherealenchantment\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5d0e0b4f2c79110a53558e485e505568",
@@ -8938,7 +8938,7 @@
  {
   "key": "ddf496c703c2c8dedadfbe286489c05d",
   "original": "small leech teeth",
-  "translation": "小吸血牙",
+  "translation": "小水蛭牙",
   "context": "ID: smallleechteeth\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission_items.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→GENERIC→smallleechteeth\n",
   "stage": 3
  },

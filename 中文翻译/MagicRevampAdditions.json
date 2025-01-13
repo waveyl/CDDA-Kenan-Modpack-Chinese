@@ -845,9 +845,9 @@
  {
   "key": "a05688fa844a031d7e4484d339a8e50d",
   "original": "Create arcs of devastating electric charge in an area around you, roasting everything within.",
-  "translation": "在你周围的区域产生毁灭性电荷的弧线，烘烤里面的一切。",
+  "translation": "在你周围的区域放射毁灭性的电弧，烤焦其中的一切。",
   "context": "ID: storm_superconductor\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_superconductor\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4165fe3e17a2cb0571b1d2ad30b3d337",
@@ -868,7 +868,7 @@
   "original": "Creates a crackling magical warhammer full of lightning to smite your foes with, and of course, smash things to bits!  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "一个充满闪电的魔幻战锤，用闪电击打你的敌人。当然，也可以把东西砸成碎片！现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: storm_hammer_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_hammer_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d3ab7384670d7fee9fcb82b65e1636b6",
@@ -903,7 +903,7 @@
   "original": "Creates a magical shield of ice on your arm, you can defend yourself with it in melee combat and use it to bash.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "在你的手臂上制造一个魔法冰盾，你可以用它在近战中保护自己，并使用它来攻击。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: ice_shield_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→ice_shield_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce0bafbefa9762d60a30743614d4724f",
@@ -985,7 +985,7 @@
   "original": "Deeply attuned to the spiritual fabric that shapes and nurtures the natural world, shamans call upon the primeval spirits of nature for aid and advice.  Be careful however, for ancient spirits are fickle and unknowable things.",
   "translation": "体内魔法深深地调谐适应了塑造和培育了这个自然世界的精神体系。萨满巫师向大自然的原始精魂寻求帮助和建议。不过要小心，因为古灵是变幻莫测难以预测的生物。",
   "context": "ID: SHAMAN\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→SHAMAN\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d016533c8efb92e4097c3460dd59b576",
@@ -1012,7 +1012,7 @@
   "original": "Directed magical energy that slowly heals your body from wounds.",
   "translation": "被引导的魔法能量，可以慢慢治愈你的身体创伤。",
   "context": "ID: druid_healing\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_healing\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "313cb60b3ae1c377d24f5a656fc85005",
@@ -1033,7 +1033,7 @@
   "original": "Disruption Bolt",
   "translation": "干扰波束",
   "context": "ID: disruption_bolt\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→disruption_bolt\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ce24791747b382272e9a647c57589a33",
@@ -1068,7 +1068,7 @@
   "original": "Draw on the eternal endurance of the stones, slowing your metabolism and staving off hunger and thirst.  However, while the enchantment is in effect, you will not heal.",
   "translation": "利用磐石永恒的耐力，减缓新陈代谢，缓解饥饿和干渴。 不过，当魔法生效时，你将无法痊愈。",
   "context": "ID: earthshaper_fortitude_of_stone\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→earthshaper_fortitude_of_stone\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "335ae5d9ddd411ff984515418902419e",
@@ -1145,28 +1145,28 @@
   "original": "Electric Arts",
   "translation": "电荷艺术",
   "context": "ID: electric_arts\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→electric_arts\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "85763aecdcbe17704a941f7fcfbd7899",
   "original": "Electric Eye",
   "translation": "电磁视觉",
   "context": "ID: electric_eye\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→electric_eye\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b6a1744645ef5b0925791b03b0f79487",
   "original": "Electric Waves",
   "translation": "电波",
   "context": "ID: electric_waves\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→electric_waves\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b624071e31286ff4c7f85bc3f839b340",
   "original": "Electric Waves Damage",
   "translation": "电波伤害",
   "context": "ID: electric_waves_damage\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→electric_waves_damage\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4ba75a74bac048307951298b1cd212ee",
@@ -1185,16 +1185,16 @@
  {
   "key": "def8656a79eaffa486540265891622a5",
   "original": "Encases your arm and hand in a sheath of crackling magical lightning, you can punch and defend yourself with it in melee combat.",
-  "translation": "召唤闪电包裹手臂和拳头，使你可以在近身战斗中用它来击打敌人和保护自己。",
+  "translation": "召唤闪电缠绕手臂和拳头，使你可以在近身战斗中用它来击打敌人和保护自己。",
   "context": "ID: stormfist\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stormfist\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d0e80d364beab7957266bca285b5bfa5",
   "original": "Encases your arm and hand in a sheath of crackling magical lightning, you can punch and defend yourself with it in melee combat.  Now you know this spell like the back of your hand, and start to design your own version.",
-  "translation": "召唤闪电包裹手臂和拳头，使你可以在近战战斗中用它来击打敌人和保护自己。现在你对这个法术了如指掌，并设计出了你自己的版本。",
+  "translation": "召唤闪电缠绕手臂和拳头，使你可以在近战战斗中用它来击打敌人和保护自己。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: stormfist_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stormfist_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "89dcf4986e5910f97eea0ec3af5d1ccf",
@@ -1208,7 +1208,7 @@
   "original": "Encases your arms and hands in a sheath of magical stone, you can punch and defend yourself with it in melee combat.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "召唤岩石包裹手臂和拳头，使你可以在近战战斗中用它来击打敌人和保护自己。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: stonefist_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stonefist_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f31e89f9a214d31175d16f57b7e76650",
@@ -1229,7 +1229,7 @@
   "original": "Encases your whole body in a magical aura that protects you from the environment.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "把你的整个身体包裹在一个神奇的光环里，保护你免受环境伤害。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: protection_aura_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→protection_aura_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "04ad97f8b635d1b4ee548d22b7690ac3",
@@ -1250,7 +1250,7 @@
   "original": "Enhanced Feral Form",
   "translation": "高级狂野形态",
   "context": "ID: druid_feralform_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_feralform_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "78a562a20297890d76ad9c9532d3b525",
@@ -1264,14 +1264,14 @@
   "original": "Enhanced Frost Armor",
   "translation": "强化霜甲",
   "context": "ID: frost_armor_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→frost_armor_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0c24ae1eabe425401d9b178f6866ef25",
   "original": "Enhanced Glide on Ice",
   "translation": "强化冰上滑行<br>",
   "context": "ID: glide_ice_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→glide_ice_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "05857870ea076f6a24a8f6f1ba914b6d",
@@ -1306,14 +1306,14 @@
   "original": "Enhanced Repelling Arc",
   "translation": "强化电弧光环",
   "context": "ID: stormshaper_repelling_arc_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stormshaper_repelling_arc_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d38d94d69212dad52237d05885bee0eb",
   "original": "Enhanced Spear of Brambles",
   "translation": "强化荆棘之矛",
   "context": "ID: druid_bramble_spear_enhanced\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_bramble_spear_enhanced\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b11baf6b8aa1beeaa81f148e46859803",
@@ -1535,9 +1535,9 @@
  {
   "key": "c26639e442570612e0a3868f55b05b06",
   "original": "For the technomancer with no enhancements, this spell summons a power supply composed of pure mana that can be used to charge any compatible device.  It will continually recharge until the duration expires.",
-  "translation": "对于没有强化功能的技术巫师来说，这个法术可以召唤一个由纯法力组成的电源，用来给任何兼容设备充电。 它将持续充电，直到持续时间结束。",
+  "translation": "对于没有强化功能的科技法师来说，这个法术可以召唤一个由纯法力组成的电源，用来给任何兼容设备充电。 它将持续充电，直到持续时间结束。",
   "context": "ID: technomancer_conjure_ups\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_conjure_ups\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d2e46c9409595aff56cecd15e99fabf9",
@@ -1719,7 +1719,7 @@
   "original": "Grants the effect for a dragon to use deep breath.",
   "translation": "赋予龙使用深呼吸的效果。",
   "context": "ID: dragon_deep_breath_self\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/dragonbreath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_deep_breath_self\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c5aced9db49c68d55da4cb9f7ab3bae3",
@@ -1782,7 +1782,7 @@
   "original": "Grow webbing on your hands and feet, making quick swimming a breeze.",
   "translation": "手脚上长出蹼，让快速游泳变得轻而易举。",
   "context": "ID: biomancer_swim_frog\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biomancer_swim_frog\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6ea2a7f5f77b675d943be3e2d4118a21",
@@ -1817,7 +1817,7 @@
   "original": "Heat the nearby air, keeping you warm and providing some protection against ice and cold.",
   "translation": "加热附近的空气，为您保暖，并提供一些防寒保暖措施。",
   "context": "ID: kelvinist_anti_cold\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→kelvinist_anti_cold\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b9a252325363ba549cb22283cf5f7e82",
@@ -1950,21 +1950,21 @@
   "original": "Impalement",
   "translation": "穿刺",
   "context": "ID: eshaper_impalement\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→eshaper_impalement\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "14f2094738eacb1def378ff18585e517",
   "original": "Improved Aura of Protection",
   "translation": "强化保护光环",
   "context": "ID: protection_aura_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→protection_aura_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "5cd298fd5c74059a050523f114e09cd6",
   "original": "Improved Caustic Aura",
   "translation": "强化腐蚀光环",
   "context": "ID: biomancer_caustic_aura_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biomancer_caustic_aura_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3254da68824244f7b31fdc5f77a7be87",
@@ -1985,7 +1985,7 @@
   "original": "Improved Obfuscated Body",
   "translation": "高级朦胧术",
   "context": "ID: obfuscated_body_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→obfuscated_body_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6452ffc28fb76a2c1abcb881f868b013",
@@ -2020,7 +2020,7 @@
   "original": "Inject a corrosive electric energy into targets within the affected area, weakening them and dealing huge damage over time.",
   "translation": "向受影响区域内的目标注入腐蚀性电能，削弱它们，并随着时间的推移造成巨大伤害。",
   "context": "ID: toxtricity\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→toxtricity\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "70840564ed92bb0f351968dd5d47b5bb",
@@ -2202,7 +2202,7 @@
   "original": "Limbs of the Frog",
   "translation": "蛙肢",
   "context": "ID: biomancer_swim_frog\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biomancer_swim_frog\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d7f642adf094f8b954b954f9c474dd00",
@@ -2341,7 +2341,7 @@
   "original": "Manifests an aura of crackling electricity around you to strike attackers with baleful lightning.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "你在你周围召唤出一道噼啪作响的电弧光环，能放出可怕的闪电电击近战攻击你的敌人。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: stormshaper_repelling_arc_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→stormshaper_repelling_arc_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "b722ca472eb81deee2acd1bdaadf83f5",
@@ -2452,7 +2452,7 @@
   "original": "One of the most widely-known pre-modern technomantic spells, this allows technomancers to communicate at a distance.  Its use declined rapidly after Guglielmo Marconi invented the radio and suddenly everyone could listen in to their conversations.",
   "translation": "这是最广为人知的前现代技术咒语之一，可以让技术人员进行远距离通信。 在古列尔莫-马可尼发明了收音机之后，它的使用迅速减少，因为突然之间，每个人都可以监听他们的谈话。",
   "context": "ID: technomancer_conjure_radio\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_conjure_radio\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9d89890905a561e1312a30c201e7b86d",
@@ -2578,14 +2578,14 @@
   "original": "Power Supply",
   "translation": "电力供应",
   "context": "ID: technomancer_conjure_ups\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_conjure_ups\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "36c295e0b00c5c3387a4c766f309d39a",
   "original": "Preps for using dragon breath.",
   "translation": "准备使用龙息。",
   "context": "ID: dragon_deep_breath\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/dragonbreath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_deep_breath\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "88cf58bc99f0e5c650bb51caf9a0b389",
@@ -2606,7 +2606,7 @@
   "original": "Pull the smooth rock underground, using your forces of earth shaping.  You can use it as a table, or as a primitive anvil.",
   "translation": "用你塑造大地的力量，拉出地下的光滑岩石。 你可以把它当作桌子，或者当作原始的铁砧。",
   "context": "ID: earthshaper_boulder\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→earthshaper_boulder\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0cfa4455f4cc6041e017d489fce97065",
@@ -2669,7 +2669,7 @@
   "original": "Reactive Armour",
   "translation": "反应装甲",
   "context": "ID: reactive_armor\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→reactive_armor\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9a1d138060579cb63ff547693039e076",
@@ -2683,7 +2683,7 @@
   "original": "Reduce the velocity of your falls by a great amount, or to zero if at high mastery.",
   "translation": "大幅降低坠落速度，如果掌握得很好，则可降至零。",
   "context": "ID: magus_slowfall\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_slowfall\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "91205c61234149571161ffc01d129319",
@@ -2697,7 +2697,7 @@
   "original": "Release a resonant bolt of spiritual energy at a nearby target.  It will disrupt the natural link between matter and animus, causing heavy but never lethal damage.",
   "translation": "向附近的目标释放一道共振的精神能量波束。它会破坏物质和灵魂之间的自然联系，造成严重但绝不会致命的伤害。",
   "context": "ID: disruption_bolt\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→disruption_bolt\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8dc253f9cb55e8d907ab0590856231ce",
@@ -2829,7 +2829,7 @@
   "original": "Shape a strong golem out of stone.  It may help for a while, but you haven't enough energy to support it forever.",
   "translation": "塑造一个强大的石制傀儡。能帮上你很多，但你没有足够的能量永远维持它。",
   "context": "ID: summon_eshaper_golem\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_eshaper_golem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ec786af560b47dc5bb54c93df6ec5317",
@@ -2857,14 +2857,14 @@
   "original": "Shipwrecker",
   "translation": "碎舰风暴",
   "context": "ID: storm_shipwrecker\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→storm_shipwrecker\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ab241c2be89b16b9986107f986f5908d",
   "original": "Shocking Dash",
   "translation": "雷霆冲刺",
   "context": "ID: shocking_dash\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_dash\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "92bef7676d1bd904b6c5ebd5e8233dc1",
@@ -2892,7 +2892,7 @@
   "original": "Shocking Teleport",
   "translation": "闪电传送",
   "context": "ID: shocking_teleport\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→shocking_teleport\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "47d450ece07ed877dd4a14169e30096f",
@@ -2927,7 +2927,7 @@
   "original": "Slowfall",
   "translation": "羽落术",
   "context": "ID: magus_slowfall\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_slowfall\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1197acb57391ef6134be8514f44885e6",
@@ -3039,21 +3039,21 @@
   "original": "Sound Bomb",
   "translation": "声波炸弹",
   "context": "ID: sound_bomb\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→sound_bomb\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ad80fa2991429bb17e904eef881ed8c3",
   "original": "Speak through the Aether",
   "translation": "以太交流",
   "context": "ID: technomancer_conjure_radio\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_conjure_radio\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "29ce5c68fbf8c7246372f7dc19b61801",
   "original": "Spear of Brambles",
   "translation": "荆棘之矛",
   "context": "ID: druid_bramble_spear\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_bramble_spear\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8c7de053b830b9e59a9b22e0974f17de",
@@ -3221,7 +3221,7 @@
   "original": "Summon Boulder",
   "translation": "召唤巨石",
   "context": "ID: earthshaper_boulder\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→earthshaper_boulder\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6b86f90a243f245e4f2aa79e64cb758d",
@@ -3241,7 +3241,7 @@
   "original": "Summon Earthshaper's Golem",
   "translation": "召唤塑地者傀儡",
   "context": "ID: summon_eshaper_golem\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_eshaper_golem\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0b85fde20929dbe7b4c75a39904fdffe",
@@ -3261,21 +3261,21 @@
   "original": "Summon Tanglevine",
   "translation": "召唤藤蔓",
   "context": "ID: druid_summon_tanglevine\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_summon_tanglevine\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d5d4178f57cb6d5f8bf6d782de8a88b1",
   "original": "Summon Teravolt",
   "translation": "召唤太拉伏特",
   "context": "ID: summon_teravolt\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→summon_teravolt\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "774b811b91d101185e459baa0eba53be",
   "original": "Summon Watcher Spirit",
   "translation": "召唤守望者之魂",
   "context": "ID: animist_summon_watcher\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→animist_summon_watcher\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "14aabd299e169122e1e3c19d0fa3f298",
@@ -3309,14 +3309,14 @@
   "original": "Summon a stone spikes underground, that penetrate your enemies, and nail them for a while.",
   "translation": "从地下召唤出岩石尖刺，刺穿你的敌人，并使其暂时无法动弹。",
   "context": "ID: eshaper_impalement\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→eshaper_impalement\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a056b3d2081a9ea78c83467d85493762",
   "original": "Summon a watcher spirit, whose senses overlap with your own and through whose eyes you can see.  Although they are spirits, they are fragile and dissipate easily in the face of any assault.",
   "translation": "召唤一个守望者之魂，它的感官与你的重叠，你可以通过它的眼睛看到你。 虽然它们是灵魂，但它们很脆弱，面对任何攻击都很容易消散。",
   "context": "ID: animist_summon_watcher\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/animist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→animist_summon_watcher\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8cccd66106ebf0778001ed880b80a5ff",
@@ -3344,7 +3344,7 @@
   "original": "Summons a small electric spark, that doesn't harm anything.  You can use it to ignite something flammable.",
   "translation": "召唤一道小电火花，什么都伤不到。你可以用它点燃什么易燃物。",
   "context": "ID: create_electric_lighter\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→create_electric_lighter\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fdc81d684d939af32431dddfb1985db4",
@@ -3498,7 +3498,7 @@
   "original": "The Radiation mage was discovered as an attunement in the 20th century, closely guarded as a military secret in close relation to the Manhattan Project.  It was declassified in 1989 as a part of the attunement awareness movement, but it is still poorly understood even by the very few researchers that wrote books on attunements.",
   "translation": "辐射法师在 20 世纪作为一种魔法调谐被发现，由于其发现过程与曼哈顿计划密切相关，因此一直被作为军事机密严密保管。但在 1989 年，它作为魔法调谐全民科普运动的一部分而被解密，但是至今仍未有研究者彻底理解其原理，即使对于极少数写过魔法调谐专著的研究者也是如此。",
   "context": "ID: RADIATION_MAGE\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→RADIATION_MAGE\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "648242696737e9244fe91d9bbbaa7d8e",
@@ -3525,7 +3525,7 @@
   "original": "The Technomancer specializes in augmenting humans without actually modifying them; and the Overclocker takes the heat aptitude of a Kelvinist and puts that to work.  You are able to think significantly faster, and are able to align your ley lines for spellcasting faster as a result.",
   "translation": "科技法师擅长于在不完全抛弃肉体的情况下增强自身；而超频法师利用了炽霜法师对高热的适应，并将其付诸实践。这让你能够更快地思考，并且能够更迅速地调节你的灵脉提升施法速度。",
   "context": "ID: OVERCLOCKER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→OVERCLOCKER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "cbca4d7f15d7bd182038bb4c5f42c64a",
@@ -3678,7 +3678,7 @@
   "original": "This blade of light will cut through any evil it makes contact with!  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这把光明之刃将斩断它所接触到的任何邪恶！现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: holy_blade_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→holy_blade_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f42ab242e878e102e9ff460d3f60ec13",
@@ -3831,7 +3831,7 @@
   "original": "This spell causes an animated vine to burst from the ground and attempt to seize a nearby target and hold it fast.",
   "translation": "该法术会使一根有生命的藤蔓从地面破土而出，试图抓住附近的目标并将其牢牢固定。",
   "context": "ID: druid_summon_tanglevine\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_summon_tanglevine\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0cdb9a927a98f0e860fb18b0e1f3c187",
@@ -3859,7 +3859,7 @@
   "original": "This spell conjures a magical wooden recurve bow, as well as a quiver and a set of arrows to go with it.  Now you know this spell like the back of your hand, and have started to design your own version.",
   "translation": "这个咒语可以变出一把神奇的木质反曲弓，以及与之相配的箭筒和箭簇。 现在你已经对这个咒语了如指掌，并开始设计自己的版本。",
   "context": "ID: druid_naturebow1_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_naturebow1_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2c2a11d0f10ba9b01dec0b2b712b1482",
@@ -3880,7 +3880,7 @@
   "original": "This spell creates a long shaft of bone with a wicked point and blades along its length.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这个法术可以召唤出一只邪恶的骨矛，拥有长长的手柄及尖锐的刀刃。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: bio_bonespear_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→bio_bonespear_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "761a8faa09ad0b1c35281f08f514d5d8",
@@ -3908,7 +3908,7 @@
   "original": "This spell extrudes a long nasty whiplike tentacle of sharp bones and oozing acid from your body, it has a long reach attack and vicious damage.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这个法术会从你的身体中伸出一个由锋利的骨头和渗出酸液组成的长而凶猛的鞭状触须，它有很长的攻击距离和很高的伤害。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: vicious_tentacle_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→vicious_tentacle_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "9e533b5db2292b01bbe31becfa442dbc",
@@ -3950,7 +3950,7 @@
   "original": "This spell ignites a wooden sword, creating a flaming blade able to burn, bruise, and chop.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这个法术点燃一柄木剑，将其变成一把燃烧的剑。可以对敌人造成烧伤，瘀伤和砍伤。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: kelvinist_summon_flamesword_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/kelvinist.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→kelvinist_summon_flamesword_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "407825d5605dd9122db9154072969079",
@@ -3964,7 +3964,7 @@
   "original": "This spell infuses a sling with tremendous force, delivering devastating pebble shots until the energy tears it apart.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这个法术将巨大的力量注入投石索，在能量撕碎自己之前，投掷出威力巨大的石子。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: magus_summon_impact_sling_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→magus_summon_impact_sling_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ff1f3fe6968bcd53d4dc890a40c3887a",
@@ -4040,14 +4040,14 @@
   "original": "This spell suspends acid in a layer around you, corroding melee attackers when struck and enhancing your melee damage.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这个法术在你身体周围召唤出一个酸液光环，腐蚀攻击你的敌人，并增加你的近战伤害。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: biomancer_caustic_aura_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/biomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→biomancer_caustic_aura_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "43c46fa7792816214607a617cd5e8a0d",
   "original": "This spell transforms the druid's skin into a bark-like material covered in large thorns.  It provides excellent protection but slightly slows you and makes you vulnerable to fire.",
   "translation": "这个咒语将德鲁伊的皮肤变成一种树皮状的物质，上面覆盖着巨大的刺。它提供了极好的保护，但会稍微减慢你的速度，使你容易受到火灾的伤害。",
   "context": "ID: druid_thorn_skin\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_thorn_skin\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "868377a9d17303c571f01e482e94ed6d",
@@ -4061,28 +4061,28 @@
   "original": "This spell turns a bit of bark or a twig into a vicious spear that drips with sticky sap.  You now know this spell like the back of your hand, and no longer need such massive spell components as you did previously.",
   "translation": "这个法术能将树皮或树枝变成一根滴着粘稠汁液的凶恶长矛。 您现在对这个咒语了如指掌，再也不需要像以前那样需要大量的法术组件了。",
   "context": "ID: druid_bramble_spear_enhanced\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_bramble_spear_enhanced\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f35390efc14ba6f9efa9ae7e83287681",
   "original": "This spell turns a mixture of bark and leaves into a powerful salve capable of stopping even grievous wounds from bleeding.",
   "translation": "这个法术将树皮和树叶的混合物变成一种强大的药膏，即使是严重的伤口也能止血。",
   "context": "ID: druid_bandage_heal\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_bandage_heal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ec17bcf3226ed63a70c3a812eb834918",
   "original": "This spell turns a stick into a vicious spear that drips with sticky sap.",
   "translation": "这个法术会把一根棍子变成一把会滴下粘性汁液的凶猛的矛状物。",
   "context": "ID: druid_bramble_spear\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_bramble_spear\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "4d6c874fae581c1762d05ade9f12a744",
   "original": "This spell unleashes your inner beast, growing claws & fangs to rend your foes limb from limb.  Now you know this spell like the back of your hand, and start to design your own version.",
   "translation": "这个法术释放出你内心暗藏的兽性，让你长出尖牙利爪，将你的敌人撕成碎片。现在你对这个法术了如指掌，并设计出了你自己的版本。",
   "context": "ID: druid_feralform_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_feralform_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c9077fde37387edfd4df6b522399d604",
@@ -4124,7 +4124,7 @@
   "original": "Thought Suit",
   "translation": "心灵套装",
   "context": "ID: thought_shield_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→thought_shield_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7c14742ad9b9dff44ae9ce8ad7930a45",
@@ -4159,7 +4159,7 @@
   "original": "Took a Deep Breath",
   "translation": "深吸一口气",
   "context": "ID: dragon_deep_breath_self\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/dragonbreath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→dragon_deep_breath_self\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "286dea7435ec3ff031dc9959ab56bde8",
@@ -4222,7 +4222,7 @@
   "original": "Two small shimmering spots appear on your temples, protecting your mind from outside influences.",
   "translation": "你的太阳穴上会出现两个闪闪发光的小点，保护你的心灵不受外界影响。",
   "context": "ID: thought_shield\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→thought_shield\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "25fb90802dc84dc0e8765e053bb9f759",
@@ -4236,7 +4236,7 @@
   "original": "Use some magic herbs to heal yourself.",
   "translation": "使用一些魔法草药来治疗自己。",
   "context": "ID: druid_healing_herb\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_healing_herb\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e0ae900e5b525fe8176ad81a6342d9ab",
@@ -4250,21 +4250,21 @@
   "original": "Using the principles of what were once called \"voltaic arcs\", you can electrically heat metal hot enough to weld it together.",
   "translation": "利用曾经被称为“伏特电弧”的原理，你可以将金属电热到足以将其焊接在一起。",
   "context": "ID: technomancer_welder\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/technomancer.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→technomancer_welder\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bcdf67d4b26e5edd2da16a7678f7a7c1",
   "original": "Using your connection to nature, you can sway an animal to your service.  This spell even works on mutated animals.",
   "translation": "利用你与大自然的联系，你可以支配一只动物为你服务。这个法术甚至对变异的动物有效。",
   "context": "ID: druid_beguile_savage_beast\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_beguile_savage_beast\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bdd3cd43d7ce040fc3251d9619f11bb5",
   "original": "Vacuum Decompression",
   "translation": "真空减压",
   "context": "ID: vacuum_decompression\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/stormshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→vacuum_decompression\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "ceec25e7e99de59d662e493a5ec5299b",
@@ -4278,7 +4278,7 @@
   "original": "Vegetative Poultice",
   "translation": "植物药膏",
   "context": "ID: druid_bandage_heal\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/druid.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→druid_bandage_heal\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e8f72fb1a2ba62c1d8350f6dc183a5d3",
@@ -4376,7 +4376,7 @@
   "original": "Why protect just your mind from outside influences?  More shields all over your body should also prevent you from being teleported forcefully",
   "translation": "为什么只保护你的心智不受外界影响？在身体各处设置更多防护也能防止被强行传送。",
   "context": "ID: thought_shield_plus\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/classless.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→thought_shield_plus\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c3881379feb3ec543e2f3fec1b930186",
@@ -4432,7 +4432,7 @@
   "original": "With the mechanically-minded Technomancer and the sheer power of lightning from a Stormshaper, the Artificer has a unique confluence of skills and spells to be perfect for invention.  While modern inventions and machines have won out in a modern society, after a Cataclysm one has a chance to go back to roots of things.  To make weird gadgets that are just as likely to explode as explode the thing you're pointing at.",
   "translation": "作为同时拥有了机械思维的科技法师和拥有闪电力量的风暴塑造者，机关术师所掌握的技艺和法术在发明方面完美而独特的汇合在一起。虽然现代发明和机器已经在现代社会中取得了胜利，但在经历了一场大灾变之后，人们终于能有机会回归事物的本源。你制造出的各类奇怪小玩意自身就和被你所瞄准的东西一样容易爆炸。",
   "context": "ID: ARTIFICER\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/traits/attunements.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→mutation→ARTIFICER\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "2450cd2424e74cc408ba04e69df9c6e3",
@@ -4641,7 +4641,7 @@
   "original": "You cover your body with a layer of small, razor-sharp crystals.  It makes monsters that attack you take some damage in return, and gives you some additional cut damage in melee.",
   "translation": "你用一层小而锋利的晶体覆盖住身体。它使攻击你的怪物受到一些伤害，并在近战中造成一些额外的切割伤害。",
   "context": "ID: eshaper_crystal_wrap\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→eshaper_crystal_wrap\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "086d082cabecd19fe004c0a97eb5684f",
@@ -4676,7 +4676,7 @@
   "original": "You focus your mana into a microscopically thin pulsed beam of pure energy, capable of extreme range and precision; as well as unparalleled penetration, provided proper skill.  Once the invention of a notorious assassin, this spell has slain many a king and noble.  Passed on only through direct descendants over the ages, though occasionally shared by them to others.",
   "translation": "你将你的魔力聚集到一束极薄的纯能量脉冲光束中，具有极高的射程和精度；以及无与伦比的穿透力，只要技能等级足够。这个法术曾经是一名臭名昭著的刺客的发明，曾经杀死了无数国王和贵族。它只通过世代相传的直系后裔传承，虽然偶尔也会被他们分享给其他人。",
   "context": "ID: focused_bolt\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/magus.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→focused_bolt\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "e8c42d061661f974471fb7bae672f01d",
@@ -4913,7 +4913,7 @@
   "original": "Your hands tries to transform the body of your enemy into a pure stone.  The effect is temporary, but it can deal significant damage.",
   "translation": "你的双手会试图将敌人的身体变成一块纯粹的石头。效果是暂时的，但可以造成巨大伤害。",
   "context": "ID: pertifying_touch\n位于 /Kenan-Structured-Modpack/MagicRevampAdditions/Spells_Override/earthshaper.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#MagicRevampAdditions→SPELL→pertifying_touch\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0dddb63f3d829c24b71dc05d588d44b4",

@@ -1095,6 +1095,13 @@
   "stage": 3
  },
  {
+  "key": "1eddbd7181796cccd229e1c3bb2f0413",
+  "original": "A dense cloud of smoke enters your lungs.",
+  "translation": "A dense cloud of smoke enters your lungs.",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
+ },
+ {
   "key": "3a759e9df08996f417a66ebb5f01665a",
   "original": "A fedora decorated with a red bow and two long ribbons extending out.",
   "translation": "一顶装饰有红色蝴蝶结和两个长丝带的软呢帽。",
@@ -1335,6 +1342,13 @@
   "translation": "胡萝卜形状的领带夹。",
   "context": "ID: udonge_clip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/armor/touhou_clothing.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→ARMOR→udonge_clip\n",
   "stage": 5
+ },
+ {
+  "key": "111be1f92479835cc7766a9c6009c696",
+  "original": "A noticeable volume of smoke fills your lungs.",
+  "translation": "A noticeable volume of smoke fills your lungs.",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
  },
  {
   "key": "8ac3dd7ee5005f0a1cd1194a1eec2f10",
@@ -2118,7 +2132,7 @@
   "original": "An amalgamation of two vengeful spirits into a single body.  Quite clumsy, it stutters after every action, as if both selves are not in complete agreement.",
   "translation": "两只怨灵合二为一后的融合体。颇为笨拙，每次行动后都会踉跄，仿佛两个自我尚未完全达成一致。",
   "context": "ID: mon_vengeful_chasm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monsters/touhou_summoned.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→MONSTER→mon_vengeful_chasm\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "446c06952189f4d6150e2e60a5c8a4b6",
@@ -2268,7 +2282,7 @@
   "key": "ecfb15efd612aa2c1b5639c2ed7dc93f",
   "original": "Awareness is greatly increased.",
   "translation": "感知大大提高。",
-  "context": "ID: udonge_perception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception\n",
+  "context": "ID: udonge_perception_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception_effect\n",
   "stage": 3
  },
  {
@@ -2287,7 +2301,6 @@
   "key": "2bb225f0ba9a58930757a868ed57d9a3",
   "original": "BBB",
   "translation": "BBB",
-  "context": "ID: sakuya_timestop_cycle1\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_cycle1\n",
   "stage": 3
  },
  {
@@ -2333,6 +2346,20 @@
   "stage": 3
  },
  {
+  "key": "c1a3e8419f89e81ecf88943f03a3eefd",
+  "original": "Bad Eye Irritation",
+  "translation": "Bad Eye Irritation",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
+ },
+ {
+  "key": "1682bdf58df0b00aeb117222787dcdda",
+  "original": "Bad Smoke Inhalation",
+  "translation": "Bad Smoke Inhalation",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
+ },
+ {
   "key": "faf9ba70da1de28d26f37a25cd0ff18a",
   "original": "Balance component of kokoro_unleash_emotion3 . This reduces the dmg of the dot for 20 s, so it does 40 - 100 total dmg, instead of 60 - 120",
   "translation": "Balance component of kokoro_unleash_emotion3 . This reduces the dmg of the dot for 20 s, so it does 40 - 100 total dmg, instead of 60 - 120",
@@ -2350,7 +2377,7 @@
   "key": "764c93df5c39f339d8b5c50a16a9a9ef",
   "original": "Barrier wave (effect)",
   "translation": "障壁波动",
-  "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave\n",
+  "context": "ID: udonge_barrierwave_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave_effect\n",
   "stage": 5
  },
  {
@@ -2427,7 +2454,7 @@
   "key": "fccd6bc91061da88162fc773763dbc7d",
   "original": "Become imperceptible to those around you.",
   "translation": "让周围的人察觉不到你。",
-  "context": "ID: udonge_stealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth\n",
+  "context": "ID: udonge_stealth_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth_effect\n",
   "stage": 3
  },
  {
@@ -2767,7 +2794,6 @@
   "key": "defb99e69a9f1f6e06f15006b1f166ae",
   "original": "CCC",
   "translation": "CCC",
-  "context": "ID: sakuya_timestop_cycle2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_cycle2\n",
   "stage": 3
  },
  {
@@ -3105,6 +3131,13 @@
   "translation": "人类的卵细胞团块，尽管相当令人毛骨悚然，但可以用来替代某些黑暗道术。",
   "context": "ID: human_egg\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/items/resources/touhou_spell.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→AMMO→human_egg\n",
   "stage": 3
+ },
+ {
+  "key": "cd7542dbb699fb8183f5e8a9cbaebefd",
+  "original": "Combat stance",
+  "translation": "Combat stance",
+  "context": "ID: MOKOU_STANCE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→MOKOU_STANCE\n",
+  "stage": 1
  },
  {
   "key": "bea126713c3160b0e53fc4831738a237",
@@ -3550,22 +3583,27 @@
   "key": "66f5c57658ee48813c229c319da892b9",
   "original": "Curse of corpses (EOC) (2)",
   "translation": "Curse of corpses (EOC) (2)",
-  "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n",
   "stage": 3
  },
  {
   "key": "d794294e530d55fa93725742e7dc4656",
   "original": "Curse of corpses (curse)",
   "translation": "尸咒",
-  "context": "ID: seiga_corpsecurse_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_corpsecurse_effect\n",
+  "context": "ID: seiga_corpsecurse_dot_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→seiga_corpsecurse_dot_effect\n",
   "stage": 3
  },
  {
   "key": "5bb70ef82c04c1db5a1a8d28140df9ba",
   "original": "Curse of corpses (dmg)",
   "translation": "Curse of corpses (dmg)",
-  "context": "ID: seiga_corpsecurse4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse4\n",
   "stage": 3
+ },
+ {
+  "key": "f822e92aa72b1ed3ea7eccd2677fac68",
+  "original": "Curse of corpses (dot)",
+  "translation": "Curse of corpses (dot)",
+  "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n",
+  "stage": 1
  },
  {
   "key": "d0e0b39f2a0d2599813d2a36383887b0",
@@ -3613,7 +3651,6 @@
   "key": "45054f47ac3305a2a33e9bcceadff712",
   "original": "DDD",
   "translation": "DDD",
-  "context": "ID: sakuya_timestop_end\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_end\n",
   "stage": 3
  },
  {
@@ -3959,8 +3996,14 @@
   "key": "f4a454547a642a2a3f3205bf5d95c26d",
   "original": "Damage for the rezz curse of seiga_corpsecurse ",
   "translation": "Damage for the rezz curse of seiga_corpsecurse ",
-  "context": "ID: seiga_corpsecurse4\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse4\n",
   "stage": 3
+ },
+ {
+  "key": "7be9f857bdb75ceca5a1f63bdd4f2131",
+  "original": "Damage over time for seiga_corpsecurse3 ",
+  "translation": "Damage over time for seiga_corpsecurse3 ",
+  "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n",
+  "stage": 1
  },
  {
   "key": "4e1a7c5a6b5ffb2df94f69d86a15bc37",
@@ -4117,7 +4160,7 @@
   "key": "9d83ac0a403f1b2cf3d40ddf2607d695",
   "original": "Dash to a position with great force.  You can dash <color_light_blue>through targets</color>, slashing them in the process.",
   "translation": "奋力冲向一个位置。你可以<color_light_blue>贯穿目标</color>进行冲刺，并在过程中对其进行斩击。",
-  "context": "ID: dash_youmu2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_youmu2\n",
+  "context": "ID: dash_youmu2_2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_dashes.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→dash_youmu2_2\n",
   "stage": 3
  },
  {
@@ -5232,8 +5275,14 @@
   "key": "bfc1d227261c6406d06de4de0f0bf375",
   "original": "Fire a bunch of aerial torpedoes over the targeted area.  The arc is high, so they land after some delay.  \nCosts 100 mana.",
   "translation": "发射一束空中鱼雷覆盖目标区域。弧度很高，因此着陆有一些延迟。\n消耗100灵力。",
-  "context": "ID: nitori_aerialtorpedoes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_aerialtorpedoes\n",
   "stage": 3
+ },
+ {
+  "key": "bef8061700747df90f7f08efa5638acb",
+  "original": "Fire a bunch of aerial torpedoes over the targeted area.  The arc is high, so they land after some delay.  \nCosts <color_light_blue>100</color> mana.",
+  "translation": "Fire a bunch of aerial torpedoes over the targeted area.  The arc is high, so they land after some delay.  \nCosts <color_light_blue>100</color> mana.",
+  "context": "ID: nitori_aerialtorpedoes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_aerialtorpedoes\n",
+  "stage": 1
  },
  {
   "key": "7114c8c0791fcac69544773bc3987013",
@@ -5660,7 +5709,7 @@
   "key": "0e5a94a1af50681a9cd534c87e713916",
   "original": "Freeze component of sakuya_timestop ",
   "translation": "Freeze component of sakuya_timestop ",
-  "context": "ID: sakuya_timestop2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop2\n",
+  "context": "ID: sakuya_timestop2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop2\n",
   "stage": 3
  },
  {
@@ -5756,6 +5805,34 @@
   "original": "Fusion blades (aura)",
   "translation": "聚变光刃 (光环)",
   "stage": 3
+ },
+ {
+  "key": "2bceff43c87d10459e7566a63efa1af4",
+  "original": "GAINS_AAA",
+  "translation": "GAINS_AAA",
+  "context": "ID: mokou_stance_gains_mutation_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_gains_mutation_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "2c2a78d0967cb8a2d119411df41de258",
+  "original": "GAINS_AAA_FALSE",
+  "translation": "GAINS_AAA_FALSE",
+  "context": "ID: mokou_stance_gains_mutation_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_gains_mutation_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "a099da3e08a93d7cfda6f66ebb248411",
+  "original": "GAINS_BBB",
+  "translation": "GAINS_BBB",
+  "context": "ID: mokou_stance_gains_mutation_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_gains_mutation_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "8047d0bb83c612b7ba8f83fb67295982",
+  "original": "GAINS_BBB_FALSE",
+  "translation": "GAINS_BBB_FALSE",
+  "context": "ID: mokou_stance_gains_mutation_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_gains_mutation_eoc\n",
+  "stage": 1
  },
  {
   "key": "9af3a2bdc0c8780394fe540db548e97d",
@@ -6547,6 +6624,13 @@
   "stage": 3
  },
  {
+  "key": "067050e9191ce48eab8f162451a7a679",
+  "original": "Huge Eye Irritation",
+  "translation": "Huge Eye Irritation",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
+ },
+ {
   "key": "c1bb19b27818343c1926119b958741b5",
   "original": "Human",
   "translation": "人类",
@@ -6663,7 +6747,7 @@
   "key": "fda60a87edf11ab8c9a29b2a4f4e8e86",
   "original": "Ignoring incoming attacks.",
   "translation": "忽略即将到来的攻击。",
-  "context": "ID: udonge_barrierwave\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave\n",
+  "context": "ID: udonge_barrierwave_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_barrierwave_effect\n",
   "stage": 3
  },
  {
@@ -6842,6 +6926,20 @@
   "original": "Infuse your weapon with spiritual energy and sweep in front of you, dealing damage and pulling enemies towards your position.  Requires a 2h weapon.",
   "translation": "向你的武器注入灵力并横扫前方，造成伤害并将敌人推开。需要双手武器。",
   "stage": 3
+ },
+ {
+  "key": "c018cb3c1b3850a052121a0580f76a44",
+  "original": "Inhaled Plenty of Smoke",
+  "translation": "Inhaled Plenty of Smoke",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
+ },
+ {
+  "key": "c1bc902b7d5bb7dd593e942fd8496d28",
+  "original": "Inhaled Some Smoke",
+  "translation": "Inhaled Some Smoke",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
  },
  {
   "key": "8b5aff245f5bca10e8f22bbac66d851b",
@@ -7563,6 +7661,13 @@
   "stage": 3
  },
  {
+  "key": "2d68e98debebc922510e74211c99fc13",
+  "original": "Little Eye Irritation",
+  "translation": "Little Eye Irritation",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
+ },
+ {
   "key": "a8f9ad5083344d992bf7b0132952879e",
   "original": "Liver punch",
   "translation": "爆肝拳",
@@ -7743,17 +7848,29 @@
   "stage": 3
  },
  {
+  "key": "9eb8b0a5466ef13a20556a33ddfb085e",
+  "original": "Manipulate incoming electromagnetic waves to increase your perception for a short time.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "Manipulate incoming electromagnetic waves to increase your perception for a short time.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "context": "ID: udonge_waveperception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveperception\n",
+  "stage": 1
+ },
+ {
   "key": "bf290dbe6e11cccb3a9e3044a6f52eac",
   "original": "Manipulate incoming electromagnetic waves to increase your perception for a short time.  Drains mental energy while active.  Cast again to toggle OFF.",
   "translation": "操纵接收的电磁波，在短时间内提高感知。激活时消耗精神能量。再次施放以关闭。",
-  "context": "ID: udonge_waveperception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveperception\n",
   "stage": 3
+ },
+ {
+  "key": "0c7aaf6d8a1f5d8da6ac65ab9c82b7f1",
+  "original": "Manipulate outgoing electromagnetic waves to turn yourself invisible for a short time.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "Manipulate outgoing electromagnetic waves to turn yourself invisible for a short time.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "context": "ID: udonge_wavestealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavestealth\n",
+  "stage": 1
  },
  {
   "key": "b1709d9f527124f20757cc855b35254a",
   "original": "Manipulate outgoing electromagnetic waves to turn yourself invisible for a short time.  Drains mental energy while active.  Cast again to toggle OFF.",
   "translation": "操纵发出的电磁波，在短时间内隐形。激活时消耗精神能量。再次施放以关闭。",
-  "context": "ID: udonge_wavestealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavestealth\n",
   "stage": 3
  },
  {
@@ -7831,8 +7948,14 @@
   "key": "0fcdefb52d98094b7ce4ad4bc94ef995",
   "original": "Materialize your <color_light_gray>half-phantom</color> self, who aids you by attacking nearby enemies for a short time.  \nCosts 100 mana.  Cast again at no cost to move your other half to your location.",
   "translation": "实体化你的<color_light_gray>半灵</color>部分，它会在短时间内帮助你攻击附近的敌人。\n消耗100点魔力。再次施放此技能可无需消耗魔力将你的另一半移动到你的位置。",
-  "context": "ID: youmu_doublewheel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_doublewheel\n",
   "stage": 3
+ },
+ {
+  "key": "d55c2e55a3bc9a2207e07edfe2a45741",
+  "original": "Materialize your <color_light_gray>half-phantom</color> self, who aids you by attacking nearby enemies for a short time.  \nCosts <color_light_blue>100</color> mana.  Cast again at no cost to move your other half to your location.",
+  "translation": "Materialize your <color_light_gray>half-phantom</color> self, who aids you by attacking nearby enemies for a short time.  \nCosts <color_light_blue>100</color> mana.  Cast again at no cost to move your other half to your location.",
+  "context": "ID: youmu_doublewheel\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_doublewheel\n",
+  "stage": 1
  },
  {
   "key": "995783906af05089cddb3733ecca1a10",
@@ -7927,7 +8050,7 @@
   "key": "11d69bb8d9f39d936f74da00f7bc16a0",
   "original": "Mental processes become focused.",
   "translation": "思维过程变得集中。",
-  "context": "ID: udonge_insight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_insight\n",
+  "context": "ID: udonge_insight_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_insight_effect\n",
   "stage": 3
  },
  {
@@ -7982,6 +8105,13 @@
   "original": "Miasma: Epidemic",
   "translation": "瘴气：蔓延",
   "stage": 3
+ },
+ {
+  "key": "676d402f28328b651c6bf500191adc97",
+  "original": "Minor Eye Irritation",
+  "translation": "Minor Eye Irritation",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
  },
  {
   "key": "96f55fbc466b01aa7cff235a9a469034",
@@ -8281,17 +8411,29 @@
   "stage": 3
  },
  {
+  "key": "fdba21554afbc139c4d7b00d1904e002",
+  "original": "Normalize your mind waves to clear existing mental impurities and resist them.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "Normalize your mind waves to clear existing mental impurities and resist them.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "context": "ID: udonge_wavemfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavemfortitude\n",
+  "stage": 1
+ },
+ {
   "key": "be72feeff1a7a248d4fa3e25e421bd0c",
   "original": "Normalize your mind waves to clear existing mental impurities and resist them.  Drains mental energy while active.  Cast again to toggle OFF.",
   "translation": "规范你的脑波以清理存在的精神污秽并形成抵抗力。激活时消耗精神能量。再次施放以关闭。",
-  "context": "ID: udonge_wavemfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_wavemfortitude\n",
   "stage": 3
+ },
+ {
+  "key": "dfe7cbac77d752cb55d9bc92b0c942a8",
+  "original": "Normalize your mind waves to increase your brainpower.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "translation": "Normalize your mind waves to increase your brainpower.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mental energy while active.  Cast again to toggle OFF.",
+  "context": "ID: udonge_waveinsight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveinsight\n",
+  "stage": 1
  },
  {
   "key": "671729ea18354e1c123c3e2ebcb785ab",
   "original": "Normalize your mind waves to increase your brainpower.  Drains mental energy while active.  Cast again to toggle OFF.",
   "translation": "规范你的脑波以提升脑力。激活时消耗精神能量。再次施放以关闭。",
-  "context": "ID: udonge_waveinsight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_waveinsight\n",
   "stage": 3
  },
  {
@@ -8313,7 +8455,7 @@
   "original": "Note",
   "translation": "音符",
   "context": "ID: aa_notewip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_wip.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→aa_notewip\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "73feaacd6d1ac9886ca40649e6d97fe8",
@@ -8572,7 +8714,7 @@
   "original": "Overcharge your weapon with expanding wavelengths, causing a short-range blast.  Point-blank targets receive additional damage and are knocked back.  \nRequires pistols to cast.",
   "translation": "用增长的波长对武器进行超负荷充能，造成短程爆发。对近距离目标造成额外伤害并击退。\n需要手枪进行施放。",
   "context": "ID: udonge_gunwaveBLAST\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_gunwaveBLAST\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "673079c14776674e1437f30693e3cc1d",
@@ -9440,7 +9582,7 @@
   "key": "3cf8b7c554bb622f39417f94a7bbab54",
   "original": "Release the damage accumulated by your diseases on the target.  Deals damage upfront, but consumes the stored damage in the process.  \nAffected by the damage over time of Icy pyrexia, Scarlet plague and Volatile rot.  The stored damage is slowly reduced over time.",
   "translation": "将你累积的疾病伤害释放到目标上。立即造成伤害，但会消耗已储存的伤害值。\n该技能受到冰烧、猩红疫和爆发性腐坏这三种持续伤害影响。储存的伤害值会随时间逐渐减少。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "255f311e1431644b6fe4344f6924cff0",
@@ -9541,7 +9683,7 @@
   "original": "Remove all diseases from the target.  \nHas reduced effectiviness for your <color_green>diseases</color>.",
   "translation": "移除目标的所有疾病。  \n移除自身的<color_green>疾病</color>时效果降低。",
   "context": "ID: yamame_curedisease\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_curedisease\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "53a489cdf4bddbec18e61f9d21f1602e",
@@ -10096,8 +10238,14 @@
   "key": "53b9cfe5551ca9fb4018e536fa013895",
   "original": "Send your <color_light_gray>half-phantom</color> self, who aids you by shooting nearby enemies for a short time.  \nCosts 100 mana.  Cast again at no cost to move your other half to your location.",
   "translation": "派遣你的<color_light_gray>半灵</color>部分，它会在短时间内帮助射击你附近的敌人。\n消耗100点魔力。再次施放此技能可无需消耗将半灵移至你的所在地。",
-  "context": "ID: youmu_halfbody\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_halfbody\n",
   "stage": 3
+ },
+ {
+  "key": "6fec9a73c029a238d05972444e0e6eb5",
+  "original": "Send your <color_light_gray>half-phantom</color> self, who aids you by shooting nearby enemies for a short time.  \nCosts <color_light_blue>100</color> mana.  Cast again at no cost to move your other half to your location.",
+  "translation": "Send your <color_light_gray>half-phantom</color> self, who aids you by shooting nearby enemies for a short time.  \nCosts <color_light_blue>100</color> mana.  Cast again at no cost to move your other half to your location.",
+  "context": "ID: youmu_halfbody\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_halfbody\n",
+  "stage": 1
  },
  {
   "key": "dd117089d8ada30bb70665c8a20241f9",
@@ -10122,8 +10270,14 @@
   "key": "6c909144584d23220d069e3d68dccd30",
   "original": "Set one of three exit points to traverse through.  Costs 133 mana.",
   "translation": "设置可供穿越的三“出”点中的其一。消耗 133 魔力。",
-  "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
   "stage": 3
+ },
+ {
+  "key": "5b21c958c657da9487b82e51c08da8e2",
+  "original": "Set one of three exit points to traverse through.  Costs <color_light_blue>133</color> mana.",
+  "translation": "Set one of three exit points to traverse through.  Costs <color_light_blue>133</color> mana.",
+  "context": "ID: kasen_fangshu_selector_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→kasen_fangshu_selector_eoc\n",
+  "stage": 1
  },
  {
   "key": "bbf4d3a7f56345eec13abfd183e9a539",
@@ -10142,7 +10296,7 @@
   "key": "45647ed9bc50b00ae43b0c3917a5a037",
   "original": "Set up an exit point between the cracks in space time.  Placing another point replaces any previous ones.",
   "translation": "在时空裂缝之间建立一个出口点。放置新的点将替换之前的任何点。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fe609480c774b94c5785f51b6a51533f",
@@ -10259,8 +10413,14 @@
   "key": "073a548322caa5ed398409f81915aea9",
   "original": "Shoot a rainbow orb of energy towards the target.  It increases in size after some time, dealing a second instance of damage.  \nCosts 100 mana.",
   "translation": "向目标发射一枚虹光弹，它会在一段时间后膨胀，并造成第二次伤害。\n消耗100点魔力。",
-  "context": "ID: kasen_rainboworb\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb\n",
   "stage": 3
+ },
+ {
+  "key": "aa08c91664981b28166a15963a79edc6",
+  "original": "Shoot a rainbow orb of energy towards the target.  It increases in size after some time, dealing a second instance of damage.  \nCosts <color_light_blue>100</color> mana.",
+  "translation": "Shoot a rainbow orb of energy towards the target.  It increases in size after some time, dealing a second instance of damage.  \nCosts <color_light_blue>100</color> mana.",
+  "context": "ID: kasen_rainboworb\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_kasen.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→kasen_rainboworb\n",
+  "stage": 1
  },
  {
   "key": "af213b362d96e524210bc24f7d54f58b",
@@ -10500,6 +10660,13 @@
   "translation": "Smoke Death (kappa turret) (sparks)",
   "context": "ID: death_smoke2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/monster_special_attacks/touhou_monster_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→death_smoke2\n",
   "stage": 3
+ },
+ {
+  "key": "261616190f5d26253610949e838daca2",
+  "original": "Smoke Inhalation",
+  "translation": "Smoke Inhalation",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
  },
  {
   "key": "994899e6e7c78aeafd96bf2134a0a757",
@@ -10832,14 +10999,19 @@
   "key": "d6b1f9b41c490fd3b8b21258edc0328d",
   "original": "Stop time around yourself.",
   "translation": "暂停你周围空间的时间。",
-  "context": "ID: sakuya_timestop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop\n",
   "stage": 3
+ },
+ {
+  "key": "efca88c10ef9ae2a71ccb7f21f92a35a",
+  "original": "Stop time around yourself.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mana after the <color_light_blue>third second</color>.  Cast again to toggle OFF.",
+  "translation": "Stop time around yourself.  \nCosts <color_light_blue>33</color> mana to activate.  Drains mana after the <color_light_blue>third second</color>.  Cast again to toggle OFF.",
+  "context": "ID: sakuya_timestop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop\n",
+  "stage": 1
  },
  {
   "key": "460fb1c1449ce9d9437fea2298ffda3f",
   "original": "Stop time around yourself.  Costs 33 mana to activate, and drains 166 mana while active, over the duration.  Cast again to toggle OFF.  \nMaximum duration is increased with higher skill levels.",
   "translation": "停止你周围的时间。激活时消耗33灵力，并在持续过程中消耗166灵力。再次施放以关闭。\n最大持续时间随技能等级增长。",
-  "context": "ID: sakuya_timestop_wip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_wip\n",
   "stage": 3
  },
  {
@@ -10955,6 +11127,13 @@
   "stage": 3
  },
  {
+  "key": "c5bf18b7450416ff892f5aef0caada83",
+  "original": "Stun component for sakuya_timestop . This is a qol buff so the targets don't immediately move again after the time stop",
+  "translation": "Stun component for sakuya_timestop . This is a qol buff so the targets don't immediately move again after the time stop",
+  "context": "ID: sakuya_timestop3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop3\n",
+  "stage": 1
+ },
+ {
   "key": "93521967f8285ed6d3311ecdf2d6a34b",
   "original": "Stun component for tec_kasen_palmfly . This is a qol buff so the targets don't immediately move again after the knockback",
   "translation": "Stun component for tec_kasen_palmfly . This is a qol buff so the targets don't immediately move again after the knockback",
@@ -11013,7 +11192,6 @@
   "key": "73d385784ee14f43081714f7fd4b441c",
   "original": "Subpsell that adds a random dot effect on the rezzed target",
   "translation": "Subpsell that adds a random dot effect on the rezzed target",
-  "context": "ID: seiga_corpsecurse3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_corpsecurse3\n",
   "stage": 3
  },
  {
@@ -11190,8 +11368,14 @@
   "key": "7e314fec2f3748325fa728d6c7a396e7",
   "original": "Summon your trusty Yoshika back from your Senkai.  Her talisman protects her, returning her in case she receives lethal (?) damage.  \nCosts 200 mana.  Cast again at no cost to move her to your location.",
   "translation": "从你的仙境中召唤出你忠实的宫古芳香。她头上的符咒守护着她，使她在遭受致命（？）伤害时能够返回。\n消耗为200魔力。再次施法可不消耗魔力将她移动到你的位置。",
-  "context": "ID: seiga_yoshika_summon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon\n",
   "stage": 3
+ },
+ {
+  "key": "50cf0003a9c3319c791e607d41379772",
+  "original": "Summon your trusty Yoshika back from your Senkai.  Her talisman protects her, returning her in case she receives lethal (?) damage.  \nCosts <color_light_blue>200</color> mana.  Cast again at no cost to move her to your location.",
+  "translation": "Summon your trusty Yoshika back from your Senkai.  Her talisman protects her, returning her in case she receives lethal (?) damage.  \nCosts <color_light_blue>200</color> mana.  Cast again at no cost to move her to your location.",
+  "context": "ID: seiga_yoshika_summon\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_seiga.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→seiga_yoshika_summon\n",
+  "stage": 1
  },
  {
   "key": "ef27381011bb63478580f43b9b35b867",
@@ -11428,7 +11612,6 @@
   "key": "1ecdea8963d6a6b0124f76b060c544cf",
   "original": "TIMESTOP_SUCCESSFUL",
   "translation": "TIMESTOP_SUCCESSFUL",
-  "context": "ID: sakuya_timestop_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_eoc\n",
   "stage": 3
  },
  {
@@ -11673,7 +11856,6 @@
   "key": "4f55da31d5908b508be085131b13568f",
   "original": "Test effect for sakuya_timestop ",
   "translation": "Test effect for sakuya_timestop ",
-  "context": "ID: sakuya_timestop_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_timestop_effect\n",
   "stage": 3
  },
  {
@@ -12441,7 +12623,7 @@
   "key": "ea192c8ed5b56ea3f10ea42f758bf0ac",
   "original": "Thus, time is flowing again.",
   "translation": "因此，时间再次流动。",
-  "context": "ID: sakuya_timestop_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_timestop_effect\n",
+  "context": "ID: sakuya_timestop_toggle_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_toggle_eoc\n",
   "stage": 3
  },
  {
@@ -12490,10 +12672,17 @@
   "stage": 3
  },
  {
+  "key": "5a75ae4b028bafd5ab3d78a65877bf9e",
+  "original": "Time is frozen.",
+  "translation": "Time is frozen.",
+  "context": "ID: sakuya_timestop_self_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_timestop_self_effect\n",
+  "stage": 1
+ },
+ {
   "key": "65b766a4a235991776de28ed5298ab23",
   "original": "Time is frozen.  Is it as if the entire world has stopped.",
   "translation": "时间冻结了。仿佛整个世界都停止了。",
-  "context": "ID: sakuya_timestop_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_timestop_effect\n",
+  "context": "ID: sakuya_timestop_start_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_start_eoc\n",
   "stage": 3
  },
  {
@@ -12521,14 +12710,14 @@
   "key": "7a22fed6a6467ce1f9b13e5aa8b3ed4b",
   "original": "Time manipulation (Time stop)",
   "translation": "时间操纵（停止）",
-  "context": "ID: sakuya_timestop_wip\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_wip\n",
+  "context": "ID: sakuya_timestop\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop\n",
   "stage": 3
  },
  {
   "key": "854a610ee672a44e4bb53d9e95334dfd",
   "original": "Time manipulation (Time stop) (freeze component)",
   "translation": "Time manipulation (Time stop) (freeze component)",
-  "context": "ID: sakuya_timestop2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_wip_spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop2\n",
+  "context": "ID: sakuya_timestop2\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop2\n",
   "stage": 3
  },
  {
@@ -12537,6 +12726,13 @@
   "translation": "Time manipulation (Time stop) (vfx)",
   "context": "ID: sakuya_timestop_vfx\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop_vfx\n",
   "stage": 3
+ },
+ {
+  "key": "153861d58fe4d99442ba863c859c0d61",
+  "original": "Time manipulation (stun)",
+  "translation": "Time manipulation (stun)",
+  "context": "ID: sakuya_timestop3\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_sakuya.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→sakuya_timestop3\n",
+  "stage": 1
  },
  {
   "key": "f7612ed779e8db4fedcfcdc9008913cc",
@@ -12549,7 +12745,7 @@
   "key": "a6020cdb3c06cd9f787d918181437486",
   "original": "Time stop (effect)",
   "translation": "时间停止",
-  "context": "ID: sakuya_timestop_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_timestop_effect\n",
+  "context": "ID: sakuya_timestop_self_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_timestop_self_effect\n",
   "stage": 3
  },
  {
@@ -13337,28 +13533,28 @@
   "key": "7f50b9ebf8aea80991340a9388cddc6b",
   "original": "Wavelength manipulation (Insight)",
   "translation": "波长操纵（洞察）",
-  "context": "ID: udonge_insight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_insight\n",
+  "context": "ID: udonge_insight_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_insight_effect\n",
   "stage": 3
  },
  {
   "key": "a9c30b424489a501b538cd2658ced2c7",
   "original": "Wavelength manipulation (Mental fortitude)",
   "translation": "波长操纵（坚定）",
-  "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n",
+  "context": "ID: udonge_mfortitude_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude_effect\n",
   "stage": 3
  },
  {
   "key": "a183074bebd95743a7d6a79704ff13c5",
   "original": "Wavelength manipulation (Perception)",
   "translation": "波长操纵（感知）",
-  "context": "ID: udonge_perception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception\n",
+  "context": "ID: udonge_perception_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception_effect\n",
   "stage": 3
  },
  {
   "key": "07bc6e4cbf262e86df63545349dda454",
   "original": "Wavelength manipulation (Stealth)",
   "translation": "波长操纵（隐形）",
-  "context": "ID: udonge_stealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth\n",
+  "context": "ID: udonge_stealth_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth_effect\n",
   "stage": 3
  },
  {
@@ -13728,10 +13924,17 @@
   "stage": 3
  },
  {
+  "key": "a1d78246b3f79d6403ef41edd334f239",
+  "original": "You are too mentally exhausted!  You cannot focus the wavelengths.",
+  "translation": "You are too mentally exhausted！  You cannot focus the wavelengths.",
+  "context": "ID: udonge_wavestealth_start_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→udonge_wavestealth_start_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "3566860700b6b56651e36e60917742a2",
   "original": "You are too mentally exhausted!  You lose focus of the wavelengths.",
   "translation": "你的精神过于疲惫！你失去了对于波长的专注。",
-  "context": "ID: udonge_wave_oom\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→udonge_wave_oom\n",
+  "context": "ID: udonge_wave_oom_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→udonge_wave_oom_eoc\n",
   "stage": 3
  },
  {
@@ -13752,7 +13955,7 @@
   "key": "d6ead90d2b935012472af8684d93dcd0",
   "original": "You become perceptible again.",
   "translation": "你的身形再次显现。",
-  "context": "ID: udonge_stealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth\n",
+  "context": "ID: udonge_stealth_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth_effect\n",
   "stage": 3
  },
  {
@@ -13761,6 +13964,13 @@
   "translation": "你开始举行仪式...",
   "context": "ID: seiga_shikaisenritual_sheet_found\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→seiga_shikaisenritual_sheet_found\n",
   "stage": 3
+ },
+ {
+  "key": "2bf603d9bebbe30ad36e3ba621d88109",
+  "original": "You can barely see anything due to your massive eye irritation and the flood of tears streaming from them.",
+  "translation": "You can barely see anything due to your massive eye irritation and the flood of tears streaming from them.",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
  },
  {
   "key": "099e4b3f2ed12b78427281ca6510d126",
@@ -13847,7 +14057,7 @@
   "key": "171fbd9804ac53146297664e31efb81f",
   "original": "You clear your mind from external interferences, returning your brain waves to a basal state.",
   "translation": "你清除了大脑的外部干扰，使你的脑波回到基本状态。",
-  "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n",
+  "context": "ID: udonge_mfortitude_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude_effect\n",
   "stage": 3
  },
  {
@@ -13980,6 +14190,13 @@
   "stage": 3
  },
  {
+  "key": "eb6b687893324a6dc2366d7b561f2391",
+  "original": "You don't have enough mana!",
+  "translation": "You don't have enough mana!",
+  "context": "ID: sakuya_timestop_start_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_start_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "28601dbfd046d5a07d7582b0609090c9",
   "original": "You don't have enough mana.",
   "translation": "你没有足够的灵力。",
@@ -14000,6 +14217,13 @@
   "stage": 3
  },
  {
+  "key": "ae97cac74b53b91d2752b1f70bd3a160",
+  "original": "You draw in a faint whiff of smoke.",
+  "translation": "You draw in a faint whiff of smoke.",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
+ },
+ {
   "key": "1747bb082e3b75d7a3fff205b0954574",
   "original": "You elbow-smash the %s.",
   "translation": "你用一记强力的肘击猛击了 %s",
@@ -14014,6 +14238,20 @@
   "stage": 3
  },
  {
+  "key": "0cb2441f34ea2c76777b595d7b8510e8",
+  "original": "You enter Belay stance.",
+  "translation": "You enter Belay stance.",
+  "context": "ID: mokou_stance_start_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_start_eoc\n",
+  "stage": 1
+ },
+ {
+  "key": "82fbc9320eafc5451d5613bf4c685e56",
+  "original": "You enter Release stance.",
+  "translation": "You enter Release stance.",
+  "context": "ID: mokou_stance_start_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_start_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "56cd4239e522d123cd4ddb4ff8d0700f",
   "original": "You enter a combat stance and hope for an interesting fight.",
   "translation": "你进入了战斗的姿态，期望这是一场有趣的战斗。",
@@ -14024,7 +14262,7 @@
   "key": "511d999a08019df1713b3299ebcafbd3",
   "original": "You enter a mindfulness-like state.",
   "translation": "你进入一种类似正念的状态。",
-  "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n",
+  "context": "ID: udonge_mfortitude_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude_effect\n",
   "stage": 3
  },
  {
@@ -14192,7 +14430,7 @@
   "key": "46c49f7b0f33976f5545f49731b0769d",
   "original": "You harness the shadows that stride between the worlds.",
   "translation": "你驾驭了穿梭于世界之间的阴影。",
-  "context": "ID: udonge_perception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception\n",
+  "context": "ID: udonge_perception_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception_effect\n",
   "stage": 3
  },
  {
@@ -14240,6 +14478,13 @@
   "original": "You have a pair of relatively small crow wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
   "translation": "You have a pair of relatively small crow wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
   "context": "ID: WINGS_TOUHOU_TENGUCROW\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→WINGS_TOUHOU_TENGUCROW\n",
+  "stage": 1
+ },
+ {
+  "key": "237b78a64cf8eba497cdbab6f941649c",
+  "original": "You have a very high pain tolerance… until you reach your limit.  You can switch between two stances: Belay and Release.  \n<color_light_red>Belay</color> stance has greatly increased pain resistances, and a minor pain-scaling bonus modifier to all damaging abilities.  \n<color_light_red>Release</color> stance has minor pain resistances, a large pain-scaling bonus modifier to all damaging abilities, and drains pain after every attack.  \nReaching your <color_red>pain limit</color> disables stance passives until you fully recover.  \nActivate to toggle between stances.",
+  "translation": "You have a very high pain tolerance… until you reach your limit.  You can switch between two stances: Belay and Release.  \n<color_light_red>Belay</color> stance has greatly increased pain resistances, and a minor pain-scaling bonus modifier to all damaging abilities.  \n<color_light_red>Release</color> stance has minor pain resistances, a large pain-scaling bonus modifier to all damaging abilities, and drains pain after every attack.  \nReaching your <color_red>pain limit</color> disables stance passives until you fully recover.  \nActivate to toggle between stances.",
+  "context": "ID: MOKOU_STANCE\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→MOKOU_STANCE\n",
   "stage": 1
  },
  {
@@ -14376,6 +14621,13 @@
   "stage": 3
  },
  {
+  "key": "6aaab032ef80657b4368a5ac0fe91c8f",
+  "original": "You have recovered from pain.  You can switch stances again.",
+  "translation": "You have recovered from pain.  You can switch stances again.",
+  "context": "ID: mokou_stance_gains_mutation_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_gains_mutation_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "0b80096041e95d207d9d22932d7aa204",
   "original": "You have red eyes.",
   "translation": "你拥有赤红色的双瞳。",
@@ -14477,8 +14729,14 @@
   "key": "f8d461bcd6faf20a603cfa7e5208e32a",
   "original": "You inhale a lungful of thick smoke.",
   "translation": "你呛入了一大口浓烟。",
-  "context": "ID: smoke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke\n",
   "stage": 3
+ },
+ {
+  "key": "7545231dd85f03854100a50e2a181ac8",
+  "original": "You inhale an overwhelming volume of smoke.",
+  "translation": "You inhale an overwhelming volume of smoke.",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
+  "stage": 1
  },
  {
   "key": "b1408c1ba522fd9982015a561f540873",
@@ -14603,6 +14861,13 @@
   "translation": "你需要装备你的第三足将其施放。",
   "context": "ID: utsuho_groundmelt_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_groundmelt_eoc\n",
   "stage": 3
+ },
+ {
+  "key": "db0164d18a8a8ec409754d812fefdda8",
+  "original": "You need to recover first.",
+  "translation": "You need to recover first.",
+  "context": "ID: mokou_stance_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutation_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→mokou_stance_eoc\n",
+  "stage": 1
  },
  {
   "key": "4016aa86beaf2ad5c5753941eb167552",
@@ -14801,6 +15066,13 @@
   "stage": 3
  },
  {
+  "key": "75be6f7fb8860e9b0a50222db59635e8",
+  "original": "You ran out of mana!  Time is flowing again.",
+  "translation": "You ran out of mana!  Time is flowing again.",
+  "context": "ID: sakuya_timestop_oom_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→sakuya_timestop_oom_eoc\n",
+  "stage": 1
+ },
+ {
   "key": "f6aa9cc38f1d34bd37349d41310cde56",
   "original": "You rapidly attack %s!",
   "translation": "你迅速地向%s发起了攻击！",
@@ -14825,7 +15097,7 @@
   "key": "c3b19ee94ff95b3dc160f9f4dbdbc492",
   "original": "You relax your thoughts.",
   "translation": "你沉静心绪。",
-  "context": "ID: udonge_mfortitude\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude\n",
+  "context": "ID: udonge_mfortitude_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_mfortitude_effect\n",
   "stage": 3
  },
  {
@@ -15379,7 +15651,7 @@
   "key": "d97aaeda3ddd7b72ee3bc4dcd9816fe2",
   "original": "You're concentrated…",
   "translation": "你聚精会神...",
-  "context": "ID: udonge_insight\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_insight\n",
+  "context": "ID: udonge_insight_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_insight_effect\n",
   "stage": 3
  },
  {
@@ -15589,7 +15861,6 @@
   "key": "d9fb36024e3ea0b860ed078a98101e6c",
   "original": "You've inhaled a lungful of thick smoke.",
   "translation": "你呛入了一大口浓烟。",
-  "context": "ID: smoke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke\n",
   "stage": 3
  },
  {
@@ -15640,6 +15911,34 @@
   "translation": "你很久以前曾喝过那受诅咒的蓬莱之药。自那以后，你的容颜不会衰老，也不会生病，永远不会死去。至少在大灾变爆发前是这样的。",
   "context": "ID: HOURAI_SPECIES\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/mutations/touhou_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→mutation→HOURAI_SPECIES\n",
   "stage": 3
+ },
+ {
+  "key": "f394932f0ce343ade24be4aa6c89e69c",
+  "original": "Your eyes are mildly irritated.",
+  "translation": "Your eyes are mildly irritated.",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
+ },
+ {
+  "key": "7f954e887334c58f54a59564ac1f8459",
+  "original": "Your eyes are watering.",
+  "translation": "Your eyes are watering.",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
+ },
+ {
+  "key": "fd5ec26d87e85f2697c0be56e1dbcdfe",
+  "original": "Your eyes sting and tear from the irritation.",
+  "translation": "Your eyes sting and tear from the irritation.",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
+ },
+ {
+  "key": "11f0d0363343ea3c49b07c94f95e8ce5",
+  "original": "Your eyes sting badly and tears stream from them continuously.",
+  "translation": "Your eyes sting badly and tears stream from them continuously.",
+  "context": "ID: smoke_eyes\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_eyes\n",
+  "stage": 1
  },
  {
   "key": "924760664ee9b25f87b0ee558289cf21",
@@ -15693,7 +15992,7 @@
   "key": "c7aa7c747d29849839c5ed7a2a2cb6d7",
   "original": "Your lungs burn from the smoke.",
   "translation": "你的肺被浓烟呛得很难受。",
-  "context": "ID: smoke\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke\n",
+  "context": "ID: smoke_lungs\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→smoke_lungs\n",
   "stage": 3
  },
  {
@@ -15872,14 +16171,14 @@
   "key": "0624adf870cabfc720ed6bb0c96d2032",
   "original": "Your vision becomes normal again.",
   "translation": "你的视野恢复正常了。",
-  "context": "ID: udonge_perception\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception\n",
+  "context": "ID: udonge_perception_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_perception_effect\n",
   "stage": 3
  },
  {
   "key": "7dc0936f7e3fbe968dc6c27b0f530d44",
   "original": "Your wavelength becomes minimal, turning you invisible.",
   "translation": "你的波长最小化，变为隐形状态。",
-  "context": "ID: udonge_stealth\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth\n",
+  "context": "ID: udonge_stealth_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→udonge_stealth_effect\n",
   "stage": 3
  },
  {
@@ -15966,7 +16265,7 @@
   "original": "a female apparition",
   "translation": "女幽灵",
   "context": "ID: YOUKAI_FEMALE_TOUHOU\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_species.json\n类型为 SPECIES\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPECIES→YOUKAI_FEMALE_TOUHOU\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "62f67ec79183896fd864ed2564228865",
@@ -16971,7 +17270,7 @@
   "original": "impacted",
   "translation": "受到影响的",
   "context": "ID: magic_fire\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_fire\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "613d5457d01d9b7bddab755f5ab98ff3",
@@ -17684,7 +17983,7 @@
   "original": "polluted",
   "translation": "被污染的",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "46822f0ee0d1890e56b70d46ea4cfcf3",
@@ -18209,9 +18508,9 @@
  {
   "key": "8cc15c2fca7d3a4c4edc8431ee117fc5",
   "original": "stained",
-  "translation": "染色的",
+  "translation": "有污渍的",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d21387badf25f4271c708f359c3fe680",
