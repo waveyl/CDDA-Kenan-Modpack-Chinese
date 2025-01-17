@@ -367,9 +367,9 @@
  {
   "key": "4057cf22c3faa17976309150487328b6",
   "original": "%1$s slams at <npcname>, but fails to penetrate their armor!",
-  "translation": "%1$s slams at <npcname>，but fails to penetrate their armor！",
+  "translation": "%1$s 猛击 <npcname>，但没有穿透他的护甲！",
   "context": "ID: sflesh_flesh_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→sflesh_flesh_slam\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7c843e83d517129f0c8d9c78f944b753",
@@ -397,7 +397,7 @@
   "original": "%1$s slams into your %2$s!",
   "translation": "%1$s猛地撞击了你的%2$s！",
   "context": "ID: secro_gorepit_tent_slam\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_attacks.json\n类型为 monster_attack\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→monster_attack→secro_gorepit_tent_slam\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a2578de8eece5d783476db974ace6d3f",
@@ -2190,13 +2190,13 @@
   "key": "230e7eec55bcb2a0e80c09e517864d6e",
   "original": "<color_yellow>%1$s's tentacles thrashes its surroundings!</color>",
   "translation": "<color_yellow>%1$s的触手在周围乱舞！</color>",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "6b9da1a5ac8d930457612764ce4b3afa",
   "original": "<color_yellow>%1$s's vines pulls %3$s in!</color>",
   "translation": "<color_yellow>%1$s的藤蔓把%3$s拉了进去！</color>",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "7baa0063cdb70fb9b31168d937f1298b",
@@ -2222,7 +2222,7 @@
   "original": "<color_yellow>A blood vessel were formed under %1$s's hands!</color>",
   "translation": "<color_yellow>在%1$s的手掌下形成了一条血管！</color>",
   "context": "ID: mon_zombie_unify\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Unifier.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_unify\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "be6a22c9e313c7745a8d43238fe98d97",
@@ -2243,7 +2243,7 @@
   "original": "<color_yellow>Blood vessels emerge from %1$s's core!</color>",
   "translation": "<color_yellow>血管从%1$s的核心部位冒出！</color>",
   "context": "ID: mon_zombie_unity\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/Zombies/Unifier.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→MONSTER→mon_zombie_unity\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "414d3831d8e000182ebe407460116e48",
@@ -7985,21 +7985,21 @@
   "original": "Spawn Parasytes",
   "translation": "生成寄生虫",
   "context": "ID: mon_sflesh_sack_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_sack_death\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "3581fde8ba4b67c5e593d3dbf8231631",
   "original": "Spawn Takens",
   "translation": "生成塔肯斯",
   "context": "ID: mon_sflesh_death\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_ondeath.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_sflesh_death\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "a50efb9122cc6cb7583070a3aa6c0e14",
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'1/2 chance for the caster to return to its normal stance.'",
   "translation": "由怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者有1/2的机会回到正常姿势。”",
   "context": "ID: mon_zombie_titan_charging_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_titan_charging_stop\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f839f7a510723b59c271290eb45a999a",
@@ -8020,7 +8020,7 @@
   "original": "Spell casted by a monster. If you're seeing this, then read this one instead:\n'1/3 chance for the caster to return to its normal stance.'",
   "translation": "由怪物施放的咒语。如果你看到了这个，那就读读这个:\n“施法者有1/3的机会回到正常姿势。”",
   "context": "ID: mon_zombie_blacktitan_charging_stop\n位于 /Kenan-Structured-Modpack/secronom/Modification_Files/Monsters/-Essentials/secro_magic_smol.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#secronom→SPELL→mon_zombie_blacktitan_charging_stop\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "be64f11edf4a5e4cde9c35953acb214d",
