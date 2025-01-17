@@ -1,13 +1,13 @@
 [
   {
     "type": "monstergroup",
-    "name": "GROUP_NULL",
+    "id": "GROUP_NULL",
     "monsters": [ { "monster": "mon_null" } ],
     "is_safe": true
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ANT_FIRE",
+    "id": "GROUP_ANT_FIRE",
     "is_animal": true,
     "monsters": [
       { "monster": "mon_ant_fire_larva", "weight": 35, "cost_multiplier": 0 },

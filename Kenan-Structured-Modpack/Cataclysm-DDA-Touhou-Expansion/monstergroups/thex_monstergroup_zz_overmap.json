@@ -1,47 +1,43 @@
 [
   {
-    "name": "GROUP_desolatebarn",
+    "id": "GROUP_desolatebarn",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_and_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
       { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_s_shoppingplaza_a",
+    "id": "GROUP_s_shoppingplaza_a",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_dirtroad_aban",
+    "id": "GROUP_dirtroad_aban",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_cabin_aban",
+    "id": "GROUP_cabin_aban",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_and_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
       { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_barn_aban",
+    "id": "GROUP_barn_aban",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_and_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
       { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_bar",
+    "id": "GROUP_bar",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_BAR", "pack_size": [ 0, 1 ], "weight": 100, "starts": "2 days" },
@@ -49,14 +45,12 @@
     ]
   },
   {
-    "name": "GROUP_bus_stat",
+    "id": "GROUP_bus_stat",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_MIB", "pack_size": [ 2, 3 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_MIB", "pack_size": [ 2, 3 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_WASP_FORAGER_and_YOUKAI_CITY_DUMPSTER",
+    "id": "GROUP_WASP_FORAGER_and_YOUKAI_CITY_DUMPSTER",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_WASP_FORAGER", "pack_size": [ 2, 6 ], "weight": 100 },
@@ -64,14 +58,12 @@
     ]
   },
   {
-    "name": "GROUP_cabin",
+    "id": "GROUP_cabin",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_FOREST_and_YOUKAI_FOREST",
+    "id": "GROUP_FOREST_and_YOUKAI_FOREST",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FOREST", "pack_size": [ 0, 1 ], "weight": 100 },
@@ -79,7 +71,7 @@
     ]
   },
   {
-    "name": "GROUP_FOREST_and_YOUKAI_OPENFIELD",
+    "id": "GROUP_FOREST_and_YOUKAI_OPENFIELD",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FOREST", "pack_size": [ 0, 1 ], "weight": 100 },
@@ -87,7 +79,7 @@
     ]
   },
   {
-    "name": "GROUP_FOREST_and_YOUKAI_SCARECROW",
+    "id": "GROUP_FOREST_and_YOUKAI_SCARECROW",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FOREST", "pack_size": [ 0, 2 ], "weight": 100 },
@@ -95,7 +87,7 @@
     ]
   },
   {
-    "name": "GROUP_cathedral",
+    "id": "GROUP_cathedral",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
@@ -104,21 +96,17 @@
     ]
   },
   {
-    "name": "GROUP_cemetery",
+    "id": "GROUP_cemetery",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_church",
+    "id": "GROUP_church",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_church_2",
+    "id": "GROUP_church_2",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
@@ -126,14 +114,12 @@
     ]
   },
   {
-    "name": "GROUP_construction",
+    "id": "GROUP_construction",
     "type": "monstergroup",
-    "monsters": [
-      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
   },
   {
-    "name": "GROUP_cs_public_space",
+    "id": "GROUP_cs_public_space",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
@@ -141,7 +127,7 @@
     ]
   },
   {
-    "name": "GROUP_derelict_property",
+    "id": "GROUP_derelict_property",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 0, 2 ], "weight": 100, "starts": "2 days" },
@@ -149,7 +135,7 @@
     ]
   },
   {
-    "name": "GROUP_farm",
+    "id": "GROUP_farm",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 0, 1 ], "weight": 100, "starts": "2 days" },
@@ -157,7 +143,7 @@
     ]
   },
   {
-    "name": "GROUP_farm_coop",
+    "id": "GROUP_farm_coop",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 0, 1 ], "weight": 100, "starts": "2 days" },
@@ -165,7 +151,7 @@
     ]
   },
   {
-    "name": "GROUP_baseballfield",
+    "id": "GROUP_baseballfield",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
@@ -174,161 +160,145 @@
     ]
   },
   {
-    "name": "GROUP_football_field",
+    "id": "GROUP_football_field",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_fort",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_garage",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_golfcourse",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_laundromat",
     "type": "monstergroup",
     "monsters": [
-      { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_CITY_DUMPSTER", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_fort",
+    "id": "GROUP_lumbermill",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_WASP_FORAGER_and_lumberyard",
     "type": "monstergroup",
     "monsters": [
-      { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_WASP_FORAGER", "pack_size": [ 1, 3 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_garage",
+    "id": "GROUP_megastore_parking",
     "type": "monstergroup",
     "monsters": [
-      { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 0, 1 ], "weight": 19, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 2 ], "weight": 1, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_golfcourse",
+    "id": "GROUP_VANILLA_and_megastore",
     "type": "monstergroup",
     "monsters": [
-      { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_VANILLA", "pack_size": [ 2, 6 ], "weight": 40 },
+      { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 0, 1 ], "weight": 20, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 0, 1 ], "weight": 20, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 0, 1 ], "weight": 20, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_laundromat",
+    "id": "GROUP_craftshop",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_YOUKAI_CITY_DUMPSTER", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_CITY_DUMPSTER", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_lumbermill",
+    "id": "GROUP_mortuary",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_motel",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_CITY_DUMPSTER", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_WASP_FORAGER_and_lumberyard",
+    "id": "GROUP_movietheather",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_WASP_FORAGER", "pack_size": [ 1, 3 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 0, 1 ], "weight": 33, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 67, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_megastore_parking",
+    "id": "GROUP_office",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 0, 1 ], "weight": 19, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_OPENFIELD", "pack_size": [ 1, 2 ], "weight": 1, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 1, 2 ], "weight": 67, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_VANILLA_and_megastore",
+    "id": "GROUP_restaurant",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_VANILLA", "pack_size": [ 2, 6 ], "weight": 40 },
-	  { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 0, 1 ], "weight": 20, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 0, 1 ], "weight": 20, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 0, 1 ], "weight": 20, "starts": "2 days" }
+      { "group": "GROUP_BAR", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_craftshop",
+    "id": "GROUP_restaurant_fast",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_CITY_DUMPSTER", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_BAR", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 1, 2 ], "weight": 100, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_mortuary",
+    "id": "GROUP_liquor",
+    "type": "monstergroup",
+    "monsters": [ { "group": "GROUP_BAR", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" } ]
+  },
+  {
+    "id": "GROUP_school",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 2, 3 ], "weight": 67, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 2 ], "weight": 33, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_motel",
+    "id": "GROUP_school",
     "type": "monstergroup",
     "monsters": [
-	  { "group": "GROUP_YOUKAI_CITY", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_CITY_DUMPSTER", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 2, 3 ], "weight": 67, "starts": "2 days" },
+      { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 2 ], "weight": 33, "starts": "2 days" }
     ]
   },
   {
-    "name": "GROUP_movietheather",
+    "id": "GROUP_hunter_shack",
     "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_GHOSTS_CITY", "pack_size": [ 0, 1 ], "weight": 33, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 67, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_office",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 1, 2 ], "weight": 67, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_restaurant",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_BAR", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_restaurant_fast",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_BAR", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 1, 2 ], "weight": 100, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_liquor",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_BAR", "pack_size": [ 1, 1 ], "weight": 100, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_school",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 2, 3 ], "weight": 67, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 2 ], "weight": 33, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_school",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS", "pack_size": [ 1, 1 ], "weight": 33, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "pack_size": [ 2, 3 ], "weight": 67, "starts": "2 days" },
-	  { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "pack_size": [ 1, 2 ], "weight": 33, "starts": "2 days" }
-    ]
-  },
-  {
-    "name": "GROUP_hunter_shack",
-    "type": "monstergroup",
-    "monsters": [
-	  { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 2 ], "weight": 100, "starts": "2 days" }
-    ]
+    "monsters": [ { "group": "GROUP_YOUKAI_FOREST", "pack_size": [ 1, 2 ], "weight": 100, "starts": "2 days" } ]
   }
 ]

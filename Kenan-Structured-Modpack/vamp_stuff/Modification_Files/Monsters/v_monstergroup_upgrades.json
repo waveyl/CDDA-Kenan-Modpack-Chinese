@@ -1,6 +1,6 @@
 [
   {
-    "name": "GROUP_VAMPBAT_UPGRADE",
+    "id": "GROUP_VAMPBAT_UPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_bigvampbat", "weight": 100, "cost_multiplier": 0 },
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "name": "GROUP_CRYPTIES_UPGRADE",
+    "id": "GROUP_CRYPTIES_UPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_zombie_bloodinfused", "weight": 100, "cost_multiplier": 0 },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name": "GROUP_CRYPTIES_DEFUSEDUPGRADE",
+    "id": "GROUP_CRYPTIES_DEFUSEDUPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_zombie_bonewraith", "weight": 100, "cost_multiplier": 0 },
@@ -26,12 +26,12 @@
     ]
   },
   {
-    "name": "GROUP_CRYPTIES_INFUSEDUPGRADE",
+    "id": "GROUP_CRYPTIES_INFUSEDUPGRADE",
     "type": "monstergroup",
     "monsters": [ { "monster": "mon_zombie_bonetitan", "weight": 100, "cost_multiplier": 0 }, { "monster": "mon_null", "weight": 900 } ]
   },
   {
-    "name": "GROUP_LEECH_UPGRADE",
+    "id": "GROUP_LEECH_UPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_insect_abominableleech", "weight": 100, "cost_multiplier": 0 },
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "name": "GROUP_LEECH_EYEDUPGRADE",
+    "id": "GROUP_LEECH_EYEDUPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_insect_bloodsurgeleech", "weight": 100, "cost_multiplier": 0 },
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "name": "GROUP_LEECH_ABOMIUPGRADE",
+    "id": "GROUP_LEECH_ABOMIUPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_insect_bloatedleech", "weight": 100, "cost_multiplier": 0 },
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "name": "GROUP_LEECH_HUGEUPGRADE",
+    "id": "GROUP_LEECH_HUGEUPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_insect_spikyleech", "weight": 100, "cost_multiplier": 0 },
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "name": "GROUP_LEECH_VAMPUPGRADE",
+    "id": "GROUP_LEECH_VAMPUPGRADE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_insect_dreadfulleech", "weight": 100, "cost_multiplier": 0 },

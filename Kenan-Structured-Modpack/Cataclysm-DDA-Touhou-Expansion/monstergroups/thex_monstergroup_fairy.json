@@ -1,6 +1,6 @@
 [
   {
-    "name": "GROUP_FAIRY",
+    "id": "GROUP_FAIRY",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_fairy1", "weight": 100, "starts": "2 days" },
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "name": "GROUP_FAIRY_BLOB",
+    "id": "GROUP_FAIRY_BLOB",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_fairy_blob1", "weight": 100, "starts": "2 days" },
@@ -21,15 +21,13 @@
     ]
   },
   {
-    "name": "GROUP_FAIRYBLOB_UPGRADE",
+    "id": "GROUP_FAIRYBLOB_UPGRADE",
     "type": "monstergroup",
-    "monsters": [
-      { "monster": "mon_scarecrow", "weight": 100, "starts": "2 days" }
-    ],
-	"//": "Blob fairies should upgrade into something different, a mix between 'the aspects of nature and the blob' "
+    "monsters": [ { "monster": "mon_scarecrow", "weight": 100, "starts": "2 days" } ],
+    "//": "Blob fairies should upgrade into something different, a mix between 'the aspects of nature and the blob' "
   },
   {
-    "name": "GROUP_FAIRY_FUNGUS",
+    "id": "GROUP_FAIRY_FUNGUS",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_fairy_fungus1", "weight": 100, "starts": "2 days" },
@@ -41,15 +39,13 @@
     ]
   },
   {
-    "name": "GROUP_FAIRYFUNGAL_UPGRADE",
+    "id": "GROUP_FAIRYFUNGAL_UPGRADE",
     "type": "monstergroup",
-    "monsters": [
-      { "monster": "mon_scarecrow", "weight": 100, "starts": "2 days" }
-    ],
-	"//": "Fungal fairies should upgrade into something different, a mix between 'the aspects of nature and the Mycus' "
+    "monsters": [ { "monster": "mon_scarecrow", "weight": 100, "starts": "2 days" } ],
+    "//": "Fungal fairies should upgrade into something different, a mix between 'the aspects of nature and the Mycus' "
   },
   {
-    "name": "GROUP_FAIRY_URBAN",
+    "id": "GROUP_FAIRY_URBAN",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_fairy_urban1", "weight": 20, "starts": "2 days" },

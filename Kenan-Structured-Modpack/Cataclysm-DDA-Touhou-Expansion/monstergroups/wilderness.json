@@ -1,25 +1,21 @@
 [
   {
-    "name": "GROUP_BIRDFEEDER",
-	"type": "monstergroup",
+    "id": "GROUP_BIRDFEEDER",
+    "type": "monstergroup",
     "is_animal": true,
-    "monsters": [
-      { "monster": "mon_ectopistes", "weight": 25, "starts": "2 days" }
-    ],
+    "monsters": [ { "monster": "mon_ectopistes", "weight": 25, "starts": "2 days" } ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_CAVE",
-	"type": "monstergroup",
+    "id": "GROUP_CAVE",
+    "type": "monstergroup",
     "is_animal": true,
-    "monsters": [
-      { "group": "GROUP_WILDLIFE_CAVE", "weight": 135, "cost_multiplier": 2, "starts": "2 days" }
-    ],
+    "monsters": [ { "group": "GROUP_WILDLIFE_CAVE", "weight": 135, "cost_multiplier": 2, "starts": "2 days" } ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_FOREST",
+    "id": "GROUP_FOREST",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
@@ -30,7 +26,7 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_PARK_ANIMAL",
+    "id": "GROUP_PARK_ANIMAL",
     "type": "monstergroup",
     "is_animal": true,
     "monsters": [
@@ -48,17 +44,15 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_POND_BIRD",
-	"type": "monstergroup",
+    "id": "GROUP_POND_BIRD",
+    "type": "monstergroup",
     "is_animal": true,
-    "monsters": [
-      { "monster": "mon_icadyptes", "weight": 65, "pack_size": [ 2, 3 ], "starts": "2 days" }
-    ],
+    "monsters": [ { "monster": "mon_icadyptes", "weight": 65, "pack_size": [ 2, 3 ], "starts": "2 days" } ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_POND_FISH",
-	"type": "monstergroup",
+    "id": "GROUP_POND_FISH",
+    "type": "monstergroup",
     "is_animal": true,
     "monsters": [
       { "monster": "mon_hurdia", "weight": 50, "pack_size": [ 1, 5 ], "starts": "2 days" },
@@ -69,8 +63,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_RIVER",
-	"type": "monstergroup",
+    "id": "GROUP_RIVER",
+    "type": "monstergroup",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
@@ -82,8 +76,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_ROOF_ANIMAL",
-	"type": "monstergroup",
+    "id": "GROUP_ROOF_ANIMAL",
+    "type": "monstergroup",
     "is_animal": true,
     "monsters": [
       { "monster": "mon_ectopistes", "weight": 65, "pack_size": [ 1, 9 ], "starts": "2 days" },
@@ -92,8 +86,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_SWAMP",
-	"type": "monstergroup",
+    "id": "GROUP_SWAMP",
+    "type": "monstergroup",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
@@ -103,8 +97,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_WILDERNESS_FOREST_BIRD",
-	"type": "monstergroup",
+    "id": "GROUP_WILDERNESS_FOREST_BIRD",
+    "type": "monstergroup",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
@@ -116,8 +110,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_WILDERNESS_FOREST_INSECT",
-	"type": "monstergroup",
+    "id": "GROUP_WILDERNESS_FOREST_INSECT",
+    "type": "monstergroup",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
@@ -127,8 +121,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_WILDERNESS_FOREST_INSECT_HARMLESS",
-	"type": "monstergroup",
+    "id": "GROUP_WILDERNESS_FOREST_INSECT_HARMLESS",
+    "type": "monstergroup",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [
@@ -138,8 +132,8 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "name": "GROUP_WILDERNESS_SWAMP_INSECT",
-	"type": "monstergroup",
+    "id": "GROUP_WILDERNESS_SWAMP_INSECT",
+    "type": "monstergroup",
     "default": "mon_null",
     "is_animal": true,
     "monsters": [

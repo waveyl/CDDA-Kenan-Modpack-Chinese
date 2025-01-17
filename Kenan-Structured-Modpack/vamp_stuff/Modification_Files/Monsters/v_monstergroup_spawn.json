@@ -1,6 +1,6 @@
 [
   {
-    "name": "GROUP_CRYPTIES",
+    "id": "GROUP_CRYPTIES",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_zombie_bloodcompact", "weight": 100, "cost_multiplier": 2, "pack_size": [ 1, 5 ] },
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "name": "GROUP_VAMPIRUS_LABY",
+    "id": "GROUP_VAMPIRUS_LABY",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_zombie_succumbvampire", "weight": 100, "cost_multiplier": 1, "pack_size": [ 1, 2 ] },
@@ -22,12 +22,12 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_CHURCH_ZOMBIE",
+    "id": "GROUP_CHURCH_ZOMBIE",
     "monsters": [ { "monster": "mon_zombie_bloodcompact", "weight": 50, "cost_multiplier": 5, "pack_size": [ 2, 5 ] } ]
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_CAVE",
+    "id": "GROUP_CAVE",
     "monsters": [
       { "monster": "mon_vampbat", "weight": 600, "cost_multiplier": 1, "pack_size": [ 6, 32 ] },
       { "monster": "mon_bigvampbat", "weight": 300, "cost_multiplier": 3, "pack_size": [ 3, 16 ] },
@@ -36,7 +36,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_SWAMP",
+    "id": "GROUP_SWAMP",
     "monsters": [
       { "monster": "mon_insect_leech", "weight": 10, "cost_multiplier": 0, "pack_size": [ 2, 4 ] },
       { "monster": "mon_insect_bigleech", "weight": 5, "cost_multiplier": 0, "pack_size": [ 1, 2 ] }
@@ -44,7 +44,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_FOREST",
+    "id": "GROUP_FOREST",
     "monsters": [
       {
         "monster": "mon_vampbat",

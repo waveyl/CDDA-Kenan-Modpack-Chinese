@@ -1,7 +1,7 @@
 [
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE",
+    "id": "GROUP_ZOMBIE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "name": "GROUP_ROOF_ZOMBIE",
+    "id": "GROUP_ROOF_ZOMBIE",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -173,7 +173,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_DINOSAUR_ZOMBIE",
+    "id": "GROUP_DINOSAUR_ZOMBIE",
     "monsters": [
       { "monster": "mon_zilophosaurus", "weight": 7, "cost_multiplier": 6, "pack_size": [ 1, 2 ] },
       { "monster": "mon_zeratosaurus", "weight": 5, "cost_multiplier": 13 },
@@ -216,7 +216,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_CENTRAL_LAB",
+    "id": "GROUP_CENTRAL_LAB",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -265,7 +265,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_LAB",
+    "id": "GROUP_LAB",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -328,7 +328,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_LAB_CYBORG",
+    "id": "GROUP_LAB_CYBORG",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -377,7 +377,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_FISH",
+    "id": "GROUP_FISH",
     "override": false,
     "auto_total": true,
     "is_animal": true,
@@ -389,14 +389,14 @@
     ]
   },
   {
-    "name": "GROUP_RESORT_DANCERS",
+    "id": "GROUP_RESORT_DANCERS",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
     "monsters": [ { "monster": "mon_zallimimus", "weight": 60, "cost_multiplier": 7, "pack_size": [ 4, 6 ] } ]
   },
   {
-    "name": "GROUP_RESORT_MIXED",
+    "id": "GROUP_RESORT_MIXED",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -441,7 +441,7 @@
     ]
   },
   {
-    "name": "GROUP_RESORT_MIXED_STAFF",
+    "id": "GROUP_RESORT_MIXED_STAFF",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -452,14 +452,14 @@
     ]
   },
   {
-    "name": "GROUP_RESORT_STAFF",
+    "id": "GROUP_RESORT_STAFF",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
     "monsters": [ { "monster": "mon_zutahraptor", "weight": 50, "cost_multiplier": 6, "pack_size": [ 2, 4 ] } ]
   },
   {
-    "name": "GROUP_RESORT_BOUNCER",
+    "id": "GROUP_RESORT_BOUNCER",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -470,7 +470,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE_PRISON",
+    "id": "GROUP_ZOMBIE_PRISON",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -485,7 +485,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE_COP",
+    "id": "GROUP_ZOMBIE_COP",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -524,7 +524,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_SMALL_STATION",
+    "id": "GROUP_SMALL_STATION",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -535,7 +535,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_LARGE_STATION",
+    "id": "GROUP_LARGE_STATION",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -546,7 +546,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_CHURCH_ZOMBIE",
+    "id": "GROUP_CHURCH_ZOMBIE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -562,7 +562,7 @@
     ]
   },
   {
-    "name": "GROUP_FIRE",
+    "id": "GROUP_FIRE",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "name": "GROUP_MALL",
+    "id": "GROUP_MALL",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -662,7 +662,7 @@
     ]
   },
   {
-    "name": "GROUP_PARK_SCENIC",
+    "id": "GROUP_PARK_SCENIC",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -751,7 +751,7 @@
     ]
   },
   {
-    "name": "GROUP_PARK_PLAYGROUND",
+    "id": "GROUP_PARK_PLAYGROUND",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -763,7 +763,7 @@
     ]
   },
   {
-    "name": "GROUP_PARK_DOG",
+    "id": "GROUP_PARK_DOG",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -778,7 +778,7 @@
     ]
   },
   {
-    "name": "GROUP_ZOMBIE_SCORCHED",
+    "id": "GROUP_ZOMBIE_SCORCHED",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -822,7 +822,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_VANILLA",
+    "id": "GROUP_VANILLA",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -910,8 +910,8 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_POLICE",
-	"override": false,
+    "id": "GROUP_POLICE",
+    "override": false,
     "auto_total": true,
     "//": "+30% cops",
     "monsters": [
@@ -1030,7 +1030,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_HOUSE",
+    "id": "GROUP_HOUSE",
     "override": false,
     "auto_total": false,
     "//": "+15% child",
@@ -1119,7 +1119,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_PREPPER_HOUSE",
+    "id": "GROUP_PREPPER_HOUSE",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1209,7 +1209,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_PHARM",
+    "id": "GROUP_PHARM",
     "override": false,
     "auto_total": true,
     "//": "+13% fast",
@@ -1296,7 +1296,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ELECTRO",
+    "id": "GROUP_ELECTRO",
     "override": false,
     "auto_total": true,
     "//": "+15% electric",
@@ -1314,7 +1314,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_GROCERY",
+    "id": "GROUP_GROCERY",
     "override": false,
     "auto_total": true,
     "//": "+15% fat",
@@ -1400,7 +1400,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_PUBLICWORKERS",
+    "id": "GROUP_PUBLICWORKERS",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1415,7 +1415,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_MAYBE_ZOMBIE",
+    "id": "GROUP_MAYBE_ZOMBIE",
     "override": false,
     "auto_total": true,
     "//": "10% chance of a zombie",
@@ -1439,14 +1439,14 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE_FAT_BASE",
+    "id": "GROUP_ZOMBIE_FAT_BASE",
     "override": false,
     "auto_total": true,
     "monsters": [ { "monster": "mon_zachycephalosaurus", "weight": 20, "cost_multiplier": 2 } ]
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE_GRAB",
+    "id": "GROUP_ZOMBIE_GRAB",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1456,7 +1456,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_SCHOOL",
+    "id": "GROUP_SCHOOL",
     "override": false,
     "auto_total": true,
     "//": "School monster spawns.",
@@ -1474,7 +1474,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_HOSPITAL",
+    "id": "GROUP_HOSPITAL",
     "override": false,
     "auto_total": true,
     "//": "Hospital monster spawns. Same as GROUP_ZOMBIE, but without Z-dogs.",
@@ -1565,7 +1565,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_STEEL_MILL",
+    "id": "GROUP_STEEL_MILL",
     "override": false,
     "auto_total": true,
     "//": "Steel mill monster spawns.",
@@ -1620,7 +1620,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE_SEXSHOP_A",
+    "id": "GROUP_ZOMBIE_SEXSHOP_A",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1705,13 +1705,13 @@
   },
   {
     "type": "monstergroup",
-    "name": "GROUP_ZOMBIE_SEXSHOP_B",
+    "id": "GROUP_ZOMBIE_SEXSHOP_B",
     "override": false,
     "auto_total": true,
     "monsters": [ { "monster": "mon_zallimimus", "weight": 200, "cost_multiplier": 1 } ]
   },
   {
-    "name": "FERAL_HUMANS",
+    "id": "FERAL_HUMANS",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -1803,7 +1803,7 @@
   },
   {
     "type": "monstergroup",
-    "name": "DUMP_ZOMBIES",
+    "id": "DUMP_ZOMBIES",
     "override": false,
     "auto_total": true,
     "monsters": [
@@ -1887,8 +1887,8 @@
     ]
   },
   {
-    "name": "GROUP_PLAIN",
-	"override": false,
+    "id": "GROUP_PLAIN",
+    "override": false,
     "auto_total": true,
     "type": "monstergroup",
     "monsters": [
@@ -1972,7 +1972,7 @@
     ]
   },
   {
-    "name": "GROUP_HOTEL_POOL",
+    "id": "GROUP_HOTEL_POOL",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -1984,7 +1984,7 @@
     ]
   },
   {
-    "name": "GROUP_HOTEL_GYM",
+    "id": "GROUP_HOTEL_GYM",
     "override": false,
     "auto_total": false,
     "type": "monstergroup",
@@ -1995,7 +1995,7 @@
     ]
   },
   {
-    "name": "GROUP_POOL_NOKIDS",
+    "id": "GROUP_POOL_NOKIDS",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -2005,7 +2005,7 @@
     ]
   },
   {
-    "name": "GROUP_ZOMBIE_BOVINE",
+    "id": "GROUP_ZOMBIE_BOVINE",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -2015,8 +2015,8 @@
     ]
   },
   {
-    "name": "GROUP_HOSPITAL_INCUBATOR",
-	"override": false,
+    "id": "GROUP_HOSPITAL_INCUBATOR",
+    "override": false,
     "auto_total": true,
     "type": "monstergroup",
     "monsters": [
@@ -2025,7 +2025,7 @@
     ]
   },
   {
-    "name": "GROUP_FORT",
+    "id": "GROUP_FORT",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",
@@ -2114,7 +2114,7 @@
     ]
   },
   {
-    "name": "GROUP_FERROUS",
+    "id": "GROUP_FERROUS",
     "override": false,
     "auto_total": true,
     "type": "monstergroup",

@@ -1,6 +1,6 @@
 [
   {
-    "name": "GROUP_YOUKAI_ONI_NONHUMANOID",
+    "id": "GROUP_YOUKAI_ONI_NONHUMANOID",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_YOUKAI_ONI_LESSER", "weight": 300, "pack_size": [ 2, 5 ], "starts": "2 days" },
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "name": "GROUP_YOUKAI_TSUKUMOGAMI_COMMON",
+    "id": "GROUP_YOUKAI_TSUKUMOGAMI_COMMON",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_computer_possessed", "weight": 100, "starts": "2 days" },
@@ -18,12 +18,10 @@
       { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS", "weight": 100, "starts": "2 days" },
       { "group": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_STOOLS", "weight": 100, "starts": "2 days" },
       { "group": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES", "weight": 100, "starts": "2 days" }
-      
-      
     ]
   },
   {
-    "name": "GROUP_YOUKAI_DANGER",
+    "id": "GROUP_YOUKAI_DANGER",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_enfield_horror", "weight": 100, "starts": "2 days" },
