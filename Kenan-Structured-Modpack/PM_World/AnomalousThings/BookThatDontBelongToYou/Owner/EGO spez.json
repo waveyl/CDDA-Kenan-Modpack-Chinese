@@ -18,6 +18,7 @@
     "effect": "effect_on_condition",
     "effect_str": "92_stage_1_activation",
     "shape": "blast",
+    "magic_type": "EGO_Invocation",
     "min_aoe": 0,
     "max_aoe": 0,
     "min_duration": { "math": ["600 + (600 * (u_spell_level('EGO_92')^2))"] },
@@ -76,7 +77,7 @@
     "description": "Разжигает внутреннее пламя, на короткое время даруя силу и стойкость к огню.",
     "valid_targets": [ "self" ],
     "effect": "spawn_item",
-    "effect_str": "EGO_92_stage_1_aura",
+    "effect_str": "EGO_92_aura",
     "shape": "blast",
     "min_aoe": 0,
     "max_aoe": 0,
@@ -93,7 +94,7 @@
     "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_HANDS", "NO_LEGS" ]
   },
   {
-    "id": "EGO_92_stage_1_aura",
+    "id": "EGO_92_aura",
     "type": "ARMOR",
     "name": "[ט] EGO 9:2 Aura",
     "description": "A spiral of flame wreaths you, enhancing your capabilities beyond that of mortality. May your foes be burned as they strike at you, and warmth be your ally, not your foe.",
@@ -280,7 +281,7 @@
     "message": "*A clot of flame appears in your hand, forms a sword and solidifies into a solid form*",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS" ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_HANDS" ]
   },
   {
     "id": "92_sword_weak_item",
@@ -294,8 +295,8 @@
     "longest_side": "220 cm",
     "symbol": "/",
     "color": "light_gray",
-    "price": "0 cent",
-    "price_postapoc": "0 cent",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
     "material": [ { "type": "flesh", "portion": 1.1 }, { "type": "b_steel", "portion": 160 } ],
     "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "SHEATH_SWORD", "REACH_ATTACK" ],
     "techniques": [ "WBLOCK_1" ],
@@ -354,7 +355,7 @@
     "min_duration": { "math": [ "1000 + 2300 * u_spell_level('EGO_92_invoke')" ] },
     "max_duration": 24000,
     "message": "A clot of flame appears in your hand, forms a sword and solidifies into a solid form.",
-    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS" ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_HANDS" ]
   },
   {
     "id": "92_sword_item",
@@ -368,8 +369,8 @@
     "symbol": "/",
     "color": "light_gray",
     "looks_like": "ego_teth",
-    "price": "0 cent",
-    "price_postapoc": "0 cent",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
     "material": [ { "type": "prophet_flesh", "portion": 1.1 }, { "type": "b_steel", "portion": 160 } ],
     "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "SHEATH_SWORD", "REACH_ATTACK" ],
     "techniques": [ "WBLOCK_1", "BRUTAL" ],
@@ -443,7 +444,7 @@
     "difficulty": 0,
     "max_level": 1,
     "message": "The flame enveloped you, but it does not burn, after which the armor of the Prophet materialized on you.",
-    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_ARMS" ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_ARMS", "NO_HANDS" ]
   },
   {
     "id": "92_armor_normal_item",
@@ -461,7 +462,7 @@
     "warmth": 20,
     "material_thickness": 2.2,
     "environmental_protection": 15,
-    "flags": [ "AURA", "WATER_FRIENDLY", "PROPHET_RESIST" ],
+    "flags": [ "AURA", "WATER_FRIENDLY", "PROPHET_RESIST", "UNRESTRICTED" ],
     "armor": [
       {
         "coverage": 100,
@@ -913,7 +914,7 @@
     "difficulty": 0,
     "max_level": 1,
     "message": "A clot of flame appears in your hand, forms a sword and solidifies into a solid form.",
-    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_LEGS", "NO_FAIL" ]
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_LEGS", "NO_FAIL", "NO_HANDS" ]
   },
   {
     "id": "92_sword_item_empower",
@@ -927,8 +928,8 @@
     "symbol": "/",
     "color": "light_gray",
     "looks_like": "ego_teth",
-    "price": "0 cent",
-    "price_postapoc": "0 cent",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
     "material": [ { "type": "prophet_flesh", "portion": 1.1 }, { "type": "b_steel", "portion": 160 } ],
     "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "SHEATH_SWORD", "REACH_ATTACK" ],
     "techniques": [ "WBLOCK_1", "SEARING_STROKE", "LONGING", "92_KNOWLEDGE", "92_IMMOLATE" ],
@@ -1105,7 +1106,7 @@
     "looks_like": "ego_teth",
     "material_thickness": 4,
     "environmental_protection": 20,
-    "flags": [ "AURA", "WATER_FRIENDLY" ],
+    "flags": [ "AURA", "WATER_FRIENDLY", "UNRESTRICTED" ],
     "armor": [
       {
         "coverage": 100,
@@ -1731,5 +1732,79 @@
     "base_energy_cost": { "math": [ "20000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "energy_source": "STAMINA",
     "flags": [ "IGNITE_FLAMMABLE", "NO_FAIL", "SOMATIC", "RANDOM_AOE", "RANDOM_DAMAGE", "NO_HANDS" ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "92_chat",
+    "recurrence": [ "40 turns", "160 turns" ],
+    "condition": { "u_is_wearing": "EGO_92_aura" },
+    "deactivate_condition": { "not": { "u_is_wearing": "EGO_92_aura" } },
+    "effect": [ 
+      { 
+        "switch": { "math": [ "u_spell_level('EGO_92_invoke')" ] },
+        "cases": [
+          {
+            "case": 0,
+            "effect": [
+              {
+                "set_string_var": [
+                  "They do not see.",
+                  "The world is laid bare.",
+                  "They shall all be shown the light."
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          },
+          {
+            "case": 10,
+            "effect": [ 
+              {
+                "set_string_var": [
+                  "These people walk in the darkness.",
+                  "We will ignite a guiding light in these lost souls.",
+                  "We shall cleanse the world of the corrupted.",
+                  "A candle for every lost soul.",
+                  "We shall alight the fuel that ends this apocalypse."
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          },
+          {
+            "case": 20,
+            "effect": [ 
+              {
+                "set_string_var": [
+                  "The people walking in darkness have seen a great light.",
+                  "On those living in the land of deep darkness a light has dawned.",
+                  "We must not linger in the darkness.",
+                  "You are a worthy prophet to hold my power.",
+                  "Together we shall bring the light, the fire.",
+                  "Even in this dark age, the darkness receeds as humans grow few."
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          },
+          {
+            "case": 25,
+            "effect": [ 
+              {
+                "set_string_var": [
+                  "You are the true prophet, the one whom brings the light.",
+                  "Leave not a wretch without the gift of our flames!",
+                  "All shall be shown the way, through you.",
+                  "And so we shall bring a light to the darkest of days.",
+                  "And the world is left ablaze."
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          }
+        ]
+      },
+      { "message": "<color_light_red>\"<u_val:quote>\"</color>", "type": "mixed" } 
+    ]
   }
 ]

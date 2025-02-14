@@ -1,3 +1,5 @@
+Our Discord server: https://discord.gg/KXdVpKKdY9
+
 ### Greetings from the PM World mod team!
 
 This mod adds a variety of content from the Project Moon games, namely from games such as Lobotom Corporation, Library of Ruin and Limbus Company.

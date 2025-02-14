@@ -227,6 +227,7 @@
       "place_loot": [
         { "group": "gear_soldier_sidearm", "x": 23, "y": 4, "chance": 70, "repeat": 2 },
         { "group": "gear_soldier_sidearm", "x": 36, "y": 4, "chance": 70, "repeat": 2 },
+        { "group": "military", "x": [ 26, 33 ], "y": 4, "chance": 40, "repeat": 8 },
         { "group": "teleport", "x": 16, "y": [ 8, 9 ], "chance": 50, "repeat": 6 },
         { "group": "spiral", "x": 43, "y": [ 8, 9 ], "chance": 75, "repeat": 4 },
         { "group": "lab_dorm", "x": 23, "y": [ 0, 2 ], "chance": 50, "repeat": 6 },
