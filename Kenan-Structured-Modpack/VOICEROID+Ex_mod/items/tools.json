@@ -56,9 +56,8 @@
     "revert_to": "voiro_poipon8",
     "use_action": [
       "PORTABLE_GAME",
-      "EINKTABLETPC",
       "EBOOKSAVE",
-      "EBOOKREAD",
+      "E_FILE_DEVICE",
       {
         "type": "effect_on_conditions",
         "menu_text": "Dig into local files and logs",
@@ -221,9 +220,8 @@
     "revert_to": "voiro_atomic_poipon_u92",
     "use_action": [
       "PORTABLE_GAME",
-      "EINKTABLETPC",
       "EBOOKSAVE",
-      "EBOOKREAD",
+      "E_FILE_DEVICE",
       {
         "target": "voiro_atomic_poipon_u92",
         "msg": "You deactivate the flashlight app.",
