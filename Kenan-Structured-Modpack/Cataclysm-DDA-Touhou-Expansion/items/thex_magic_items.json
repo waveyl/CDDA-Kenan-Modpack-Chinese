@@ -83,7 +83,8 @@
     "looks_like": "cloak",
     "color": "black",
     "armor": [ { "covers": [ "torso" ], "specifically_covers": [ "torso_hanging_back" ], "coverage": 100, "encumbrance": [ 0, 4 ] } ],
-    "flags": [ "BELTED", "FANCY", "ONLY_ONE", "OUTER", "OVERSIZE", "UNBREAKABLE" ]
+    "flags": [ "BELTED", "FANCY", "OUTER", "OVERSIZE", "UNBREAKABLE" ],
+    "max_worn": 1
   },
   {
     "id": "art_lampad_torch",
@@ -323,6 +324,7 @@
     "looks_like": "mon_bullfrog_frog",
     "color": "green",
     "armor": [ { "covers": [ "head" ], "specifically_covers": [ "head_crown" ], "coverage": 0, "encumbrance": 0 } ],
-    "flags": [ "FANCY", "ONLY_ONE", "SEMITANGIBLE", "SKINTIGHT", "TRADER_AVOID", "UNBREAKABLE" ]
+    "flags": [ "FANCY", "SEMITANGIBLE", "SKINTIGHT", "TRADER_AVOID", "UNBREAKABLE" ],
+    "max_worn": 1
   }
 ]

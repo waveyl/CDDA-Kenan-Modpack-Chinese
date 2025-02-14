@@ -16,6 +16,7 @@
     "color": "green",
     "armor": [ { "covers": [ "head" ], "specifically_covers": [ "head_crown" ], "coverage": 0, "encumbrance": 0 } ],
     "relic_data": { "passive_effects": [ { "id": "ench_wind_priestess_charm" } ] },
-    "flags": [ "FANCY", "ONLY_ONE", "SEMITANGIBLE", "SKINTIGHT", "TRADER_AVOID", "UNBREAKABLE" ]
+    "flags": [ "FANCY", "SEMITANGIBLE", "SKINTIGHT", "TRADER_AVOID", "UNBREAKABLE" ],
+    "max_worn": 1
   }
 ]

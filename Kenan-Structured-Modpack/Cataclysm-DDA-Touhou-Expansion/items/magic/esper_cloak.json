@@ -15,6 +15,7 @@
     "color": "black",
     "armor": [ { "covers": [ "torso" ], "specifically_covers": [ "torso_hanging_back" ], "coverage": 100, "encumbrance": [ 0, 4 ] } ],
     "relic_data": { "passive_effects": [ { "id": "ench_esper_cloak" } ] },
-    "flags": [ "BELTED", "FANCY", "ONLY_ONE", "OUTER", "OVERSIZE", "UNBREAKABLE" ]
+    "flags": [ "BELTED", "FANCY", "OUTER", "OVERSIZE", "UNBREAKABLE" ],
+    "max_worn": 1
   }
 ]

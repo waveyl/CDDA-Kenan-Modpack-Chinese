@@ -275,7 +275,8 @@
     "armor": [
       { "covers": [ "arm_l" ], "specifically_covers": [ "arm_lower_l" ], "coverage": 35, "encumbrance": [ 0, 4 ] }
     ],
-    "flags": [ "ONLY_ONE", "PADDED", "RAINPROOF", "SKINTIGHT", "STURDY", "TRADER_AVOID", "UNBREAKABLE_MELEE", "WATERPROOF" ]
+    "flags": [ "PADDED", "RAINPROOF", "SKINTIGHT", "STURDY", "TRADER_AVOID", "UNBREAKABLE_MELEE", "WATERPROOF" ],
+    "max_worn": 1
   },
   {
     "id": "kasen_shirt",
@@ -468,7 +469,8 @@
     "armor": [
       { "encumbrance": [ 0, 20 ], "coverage": 100, "covers": [ "torso" ], "specifically_covers": [ "torso_hanging_back" ] }
     ],
-    "flags": [ "BELTED", "ONLY_ONE", "OVERSIZE", "TARDIS", "WATERPROOF" ],
+    "flags": [ "BELTED", "OVERSIZE", "TARDIS", "WATERPROOF" ],
+    "max_worn": 1,
     "//": "This is not kappa_backpack as eventually kappa are going to show up wearing those, and this one is a tool for Nitori spells and abilities"
   },
   {
@@ -1054,7 +1056,8 @@
     "color": "white",
     "warmth": 10,
     "armor": [ { "covers": [ "torso" ], "specifically_covers": [ "torso_hanging_back" ], "coverage": 100, "encumbrance": [ 0, 4 ] } ],
-    "flags": [ "BELTED", "ONLY_ONE", "OUTER", "OVERSIZE", "SLEEP_AID", "SUPER_FANCY" ]
+    "flags": [ "BELTED", "OUTER", "OVERSIZE", "SLEEP_AID", "SUPER_FANCY" ],
+    "max_worn": 1
   },
   {
     "id": "utsuho_ribbon",
@@ -1102,7 +1105,8 @@
       { "covers": [ "arm_r" ], "specifically_covers": [ "arm_elbow_l" ], "coverage": 20, "encumbrance": [ 0, 6 ] },
       { "covers": [ "hand_r" ], "coverage": 100, "encumbrance": [ 0, 6 ] }
     ],
-    "flags": [ "BLOCK_WHILE_WORN",  "ONLY_ONE", "OUTER", "PADDED", "RAINPROOF", "RESTRICT_HANDS", "STURDY", "TRADER_AVOID", "UNBREAKABLE_MELEE", "WATERPROOF", "UTSUHO_ROD_FLAG" ],
+    "flags": [ "BLOCK_WHILE_WORN", "OUTER", "PADDED", "RAINPROOF", "RESTRICT_HANDS", "STURDY", "TRADER_AVOID", "UNBREAKABLE_MELEE", "WATERPROOF", "UTSUHO_ROD_FLAG" ],
+    "max_worn": 1,
     "//note": "Should use slings so the player doesn't have to drop the rod every time Utsuho crafts something"
   },
   {

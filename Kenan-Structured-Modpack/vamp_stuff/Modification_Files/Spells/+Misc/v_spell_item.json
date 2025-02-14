@@ -103,7 +103,8 @@
         }
       ]
     },
-    "flags": [ "AURA", "ONLY_ONE", "SEMITANGIBLE", "NO_DROP" ],
+    "flags": [ "AURA", "SEMITANGIBLE", "NO_DROP" ],
+    "max_worn": 1,
     "armor": [ { "coverage": 0, "covers": [ "arm_r", "arm_l" ], "material": [ "ethereal" ] } ]
   }
 ]
