@@ -2275,7 +2275,7 @@
  {
   "key": "b4559c42151162b81414cc2fc8d66a21",
   "original": "Attune yourself with nature, slightly increased movement speed for a short time.",
-  "translation": "使你和天地自然协调合一，持续时间内小幅度增加移动速度。",
+  "translation": "使你和天地自然协调合一，短时间内小幅增加移动速度。",
   "stage": 3
  },
  {
@@ -2906,7 +2906,7 @@
  {
   "key": "ddf7bb888d72494b7d96a51ceec7dd1b",
   "original": "Canalize your spirit, empowering your weapon to deal heavy damage over a distance.  \nRequires a sword.",
-  "translation": "引导你的灵力，强化武器，在远处对敌人造成重创。\n需求：一把剑。",
+  "translation": "引导你的灵力，强化武器，远程重创你的敌人。\n需求：一把剑。",
   "context": "ID: youmu_slashnether\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_youmu.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→youmu_slashnether\n",
   "stage": 3
  },
@@ -4334,7 +4334,7 @@
  {
   "key": "12a3e874c9aa1dbe98c728d370664ec1",
   "original": "Direct your attacks towards maximizing the effectiveness of your attacks.  Muscle memory with swords that can cut anything reduces the efficacy of blunt and piercing damage.",
-  "translation": "将你的集中攻势在最大化攻击效果上。使用能斩断一切的剑所锻炼出的肌肉记忆，会降低钝击和刺击伤害的效果。",
+  "translation": "集中你的攻势，最大化攻击效果。使用能斩断一切的剑所锻炼出的肌肉记忆，会降低钝击和刺击伤害的效果。",
   "context": "ID: style_youmu\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_youmu\n",
   "stage": 3
  },
@@ -4355,7 +4355,7 @@
  {
   "key": "ab523d0aefd29fc530411e1849a68dd0",
   "original": "Disbelief aspect (summon)",
-  "translation": "Disbelief aspect (summon)",
+  "translation": "不信之象 (召唤)",
   "context": "ID: udonge_disbeliefaspect_spawn\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_udonge.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→udonge_disbeliefaspect_spawn\n",
   "stage": 3
  },
@@ -4627,7 +4627,7 @@
  {
   "key": "1b7789d1a93add45fbcd19991aa6e370",
   "original": "Downward punch",
-  "translation": "坠击拳",
+  "translation": "下砸拳",
   "context": "ID: tec_mokou_punch_down\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_mokou_punch_down\n",
   "stage": 3
  },
@@ -4900,7 +4900,7 @@
  {
   "key": "eb227c3ba96e41948e86eb173c0e8663",
   "original": "Employ your secret technique to keep the Mansion clean all the time, increasing your momentum and recovery rate.  Your concentration will be broken if you get tired, by enemies getting close, or if receiving damage.  Cast again to toggle OFF.",
-  "translation": "使用你让红魔馆始终保持干净的秘技，提高你的动力和恢复速度。如果你感到疲劳、敌人靠近或是受到伤害，你的专注就会被打破。再次施放以关闭。",
+  "translation": "使用你让红魔馆始终保持洁净的秘技，提高你的动力和恢复速度。如果你感到疲劳、敌人靠近或是受到伤害，你的专注就会被打破。再次施放以关闭。",
   "stage": 3
  },
  {
@@ -11637,7 +11637,7 @@
  {
   "key": "630241495ad75b92bed5a39bca748590",
   "original": "Tai Chi (Youkai)",
-  "translation": "太极（妖怪）",
+  "translation": "妖怪式太极",
   "context": "ID: style_meiling\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→martial_art→style_meiling\n",
   "stage": 3
  },
@@ -13433,7 +13433,7 @@
  {
   "key": "e865703b3d37b90e1298dfe5dd48a4e9",
   "original": "Visual effect for tec_meiling_stomp ",
-  "translation": "Visual effect for tec_meiling_stomp ",
+  "translation": "美铃黄震脚的视觉效果",
   "context": "ID: meiling_stomp_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_meiling.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→meiling_stomp_effect\n",
   "stage": 3
  },
@@ -13857,7 +13857,7 @@
  {
   "key": "04c13b71be5d1644081dcd4a1c657b72",
   "original": "You *definitely* need your rod to cast this.",
-  "translation": "*显然*你需要你的杆来施放。",
+  "translation": "*显然*你需要你的第三足来施放。",
   "context": "ID: utsuho_nuke_eoc\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_nuke_eoc\n",
   "stage": 3
  },
@@ -14336,7 +14336,7 @@
  {
   "key": "29f0bc8c2a572661fd57868af7c80c74",
   "original": "You feel unmotivated.",
-  "translation": "你缺乏兴趣。",
+  "translation": "你感觉兴致缺缺。",
   "context": "ID: kokoro_unleash_determination_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→kokoro_unleash_determination_effect\n",
   "stage": 3
  },
@@ -14364,7 +14364,7 @@
  {
   "key": "663de68379307f25a6ebb5e716f7addb",
   "original": "You forcefully push %s back",
-  "translation": "你强力推回 %s",
+  "translation": "你强而有力地挥出一掌，推回 %s",
   "context": "ID: tec_meiling_palm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_meiling_palm\n",
   "stage": 3
  },
@@ -15344,7 +15344,7 @@
  {
   "key": "273a41992d75e24a6266f6539d3af71c",
   "original": "You swing your weapon at %s!",
-  "translation": "你将舞刀斩向了%s！",
+  "translation": "你舞动武器斩向了%s！",
   "context": "ID: tec_kokoro_swing_2h\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→technique→tec_kokoro_swing_2h\n",
   "stage": 3
  },
@@ -15412,7 +15412,7 @@
  {
   "key": "04875cc6fb907653aa28b641f1c836a6",
   "original": "You unequip your rod, extinguishing the blade.",
-  "translation": "你卸下了你的杆，熄灭了光刃。",
+  "translation": "你卸下了你的第三足，熄灭了光刃。",
   "context": "ID: utsuho_fusionblade_unequipped\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spell_eocs.json\n类型为 effect_on_condition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_on_condition→utsuho_fusionblade_unequipped\n",
   "stage": 3
  },
@@ -16065,7 +16065,7 @@
  {
   "key": "64e33138d69eb0f14e7e1f1a18616a4b",
   "original": "Your personal bubble is being contracted.",
-  "translation": "你个人空间的时被压缩了。",
+  "translation": "你个人空间的时间被压缩了。",
   "context": "ID: sakuya_contraction_effect\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/effects/touhou_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→effect_type→sakuya_contraction_effect\n",
   "stage": 3
  },
@@ -17702,7 +17702,7 @@
  {
   "key": "2d528261177ca43fc9d6d90552485929",
   "original": "murky",
-  "translation": "浊暗的",
+  "translation": "浊暗",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
   "stage": 3
  },
@@ -17981,7 +17981,7 @@
  {
   "key": "811ae2552998ed6e829bef601bd32397",
   "original": "polluted",
-  "translation": "被污染的",
+  "translation": "污染",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
   "stage": 3
  },
@@ -18536,7 +18536,7 @@
  {
   "key": "973361de2fea6ad7413c2ec234855229",
   "original": "sullied",
-  "translation": "污秽的",
+  "translation": "污秽",
   "context": "ID: magic_wind\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/touhou_materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→material→magic_wind\n",
   "stage": 3
  },

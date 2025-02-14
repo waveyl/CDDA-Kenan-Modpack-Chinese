@@ -1670,7 +1670,7 @@
  {
   "key": "e828b630eb162585b34a66286e8fb13e",
   "original": "Calls forth the ancient idol: <color_light_blue>Vex</color>, the etherean calamity. A deity who fulfills your desire for annihilation with its etherean prowess.\n* Once it is successfully summoned, you are affected with <color_yellow>ancient dread</color>, an enormous penalty to intelligence and movement speed.\n* This minion does not harm with brute strength, but casts one from its numerous unique, crowd-control spells.\n\nThis is a <color_pink>tier 7</color> spell.",
-  "translation": "召唤古老的偶像:<color_light_blue>维克斯</color>，以太的灾难。一个以其以太般的力量满足你毁灭欲望的神。\n *一旦召唤成功，你将受到<color_yellow>远古恐惧的影响，这是对智力和移动速度的巨大惩罚。\n*这个仆从不会用蛮力伤害人，但会从众多独特的人群控制法术中施放一个。\n\n这是一个<color_pink>第7层法术。",
+  "translation": "召唤古老的偶像:<color_light_blue>威克斯</color>，以太的灾难。一个以其以太般的力量满足你毁灭欲望的神。\n *一旦召唤成功，你将受到<color_yellow>远古恐惧</color>的影响，这是对智力和移动速度的巨大惩罚。\n*这个仆从不会用蛮力伤害人，但会从众多独特的人群控制法术中施放一个。\n\n这是一个<color_pink>七阶</color>法术。",
   "context": "ID: t7_mana_idol_vex\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_mana_idol_vex\n",
   "stage": 1
  },
@@ -2039,16 +2039,16 @@
  {
   "key": "4b056cef91f70b6ed914b3238bd7f5b4",
   "original": "Damn! This place is like a fortress! But you should've warned me about the vampires living here... They freak me out everytime I see one...",
-  "translation": "可恶！这地方像个堡垒！但你应该警告我住在这里的吸血鬼...每次我看到它们，它们都会吓我一跳...",
+  "translation": "可恶！这地方像个堡垒！但你本应该警告我住在这里的吸血鬼的……每次我看到时，它们都会吓我一跳……",
   "context": "ID: HUMAN_VAΜPRISON_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→HUMAN_VAΜPRISON_quest\n",
   "stage": 1
  },
  {
   "key": "b8020eec840d038f7ea3a7db05cd8e1d",
   "original": "Damn, you managed to wear that.",
-  "translation": "该死，你居然穿上了。",
+  "translation": "该死，你居然把那玩意穿上了。",
   "context": "ID: TALK_VAMP_UNDERGUARD2\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Underrefugee/v_ug_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_UNDERGUARD2\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1271cde7ba83d8596b2bd573b6eea86b",
@@ -3665,7 +3665,7 @@
  {
   "key": "f88b2da9131d139e994a472030101682",
   "original": "Idol: <color_blue>Vex</color>",
-  "translation": "神像：<color_blue>烦恼</color>",
+  "translation": "神像：<color_blue>威克斯</color>",
   "context": "ID: t7_mana_idol_vex\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T7.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t7_mana_idol_vex\n",
   "stage": 3
  },
@@ -4264,7 +4264,7 @@
  {
   "key": "021be387182d451955ec8c720d889458",
   "original": "Mana Surge",
-  "translation": "法力激增",
+  "translation": "魔力涌动",
   "context": "ID: v_spell_manasurge\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→effect_type→v_spell_manasurge\n",
   "stage": 1
  },
@@ -4856,7 +4856,7 @@
  {
   "key": "9656df40ae4c6f37cd6c3e0713095063",
   "original": "Our kin isn't a target of diseases, but those 2 vampires at the back, they really look bad and start raging on its own, so we cage them at early state... Never knew the magic was that strong enough to kill EVEN us. I want you to end the sick vampires as your task and get their corrupted bloodrune. We know we can dispose them easily, but our beliefs prevent us from killing our own kind.",
-  "translation": "我们的亲属不是疾病的目标，但是后面的那两个吸血鬼，他们看起来真的很糟糕，开始自己肆虐，所以我们把他们关在早期状态...从来不知道魔法如此强大，甚至可以杀死我们。我要你结束那些生病的吸血鬼作为你的任务，得到他们腐败的血液。我们知道我们可以轻松处理它们，但我们的信仰阻止我们杀死自己的同类。",
+  "translation": "我们的亲属不是疾病的目标，但是后面的那两个吸血鬼，他们看起来真的很糟糕，开始自己肆虐，所以我们把他们关在早期状态……从来不知道魔法如此强大，甚至可以杀死我们。我要你以终结那些生病的吸血鬼作为你的任务，得到他们腐败的血液。我们知道我们可以轻松处理它们，但我们的信仰阻止我们杀死自己的同类。",
   "context": "ID: VAMP_UNDERTRADER_quest\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_UNDERTRADER_quest\n",
   "stage": 1
  },
@@ -6169,14 +6169,14 @@
  {
   "key": "72a7435587bfa499f4f81298d63fbee2",
   "original": "The Vex casts Ethereal Harbringer!",
-  "translation": "烦恼释放了空灵的使者！",
+  "translation": "威克斯释放了空灵的使者！",
   "context": "ID: mon_idol_vex_etherealharbringer_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealharbringer_combo\n",
   "stage": 3
  },
  {
   "key": "8efc6ec345714ba36c92542b2745bc20",
   "original": "The Vex casts Ethereal Shockwave!",
-  "translation": "烦恼释放了空灵的冲击波！",
+  "translation": "威克斯释放了空灵的冲击波！",
   "context": "ID: mon_idol_vex_etherealshockwave_combo\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherealshockwave_combo\n",
   "stage": 3
  },
@@ -6238,7 +6238,7 @@
  {
   "key": "2f609f3606728593fbe5c306fd93a232",
   "original": "The downward slash sent %s into the ground",
-  "translation": "下劈斩将%s打到地面",
+  "translation": "你一记下劈斩，将 %s斩至倒地",
   "context": "ID: DOWNWARD_SLASH\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Others/v_techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→technique→DOWNWARD_SLASH\n",
   "stage": 3
  },
@@ -7043,14 +7043,14 @@
  {
   "key": "8508330d8a8e3f93197c7eb9696f192a",
   "original": "Vex",
-  "translation": "烦恼",
+  "translation": "威克斯",
   "context": "ID: mon_idol_vex\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/+Misc/v_spell_mon.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→MONSTER→mon_idol_vex\n",
   "stage": 3
  },
  {
   "key": "da168508ae439edcda23d28b835a39e9",
   "original": "Vex Spell",
-  "translation": "烦恼咒语",
+  "translation": "威克斯咒语",
   "context": "ID: mon_idol_vex_etherhar_spell\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_spell\n",
   "stage": 1
  },
