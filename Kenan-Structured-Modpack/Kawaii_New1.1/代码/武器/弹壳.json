@@ -10,7 +10,6 @@
     "melee_damage": { "bash": 8 }, "to_hit": -3,
     "material": [ "steel", "plastic" ]
   },
-  //配方共存"id_suffix": "ammo",
   {
     "type": "recipe",
     "activity_level": "BRISK_EXERCISE",
@@ -46,7 +45,6 @@
     "tools": [ [ [ "swage", -1 ] ] ],
     "components": [ [[ "copper", 10 ]] ]
   },
-  //制造合集
   {
     "id": "弹壳",
     "type": "nested_category",
@@ -88,7 +86,6 @@
     ],
     "difficulty": 5
   },
-  //小口径弹壳
   {
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
@@ -306,7 +303,6 @@
     ],
     "components": [ [[ "copper", 1 ]] ]
   },
-  //中口径弹壳
   {
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
@@ -481,7 +477,6 @@
     ],
     "components": [ [[ "copper", 1 ]] ]
   },
-  //散弹弹壳
   {
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",

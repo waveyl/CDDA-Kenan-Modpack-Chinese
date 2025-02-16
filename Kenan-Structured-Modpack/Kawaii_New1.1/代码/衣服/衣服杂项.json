@@ -231,19 +231,6 @@
     "use_action": [],
     "description": "采用下一代技术的高科技耳机（装饰性）"
   },
-  
-  // {
-    // "id": "杂项",
-    // "type": "nested_category",
-    // "activity_level": "LIGHT_EXERCISE",
-    // "category": "CC_萌化", "subcategory": "CSC_萌化_衣服",
-    // "name": "杂项",
-    // "description": "杂项",
-    // "skill_used": "tailor",
-    // "nested_category_data": [ "armor_jxpx", "armor_wj", "qp_dd", "armor_ssblkfm", "armor_bsmm" ],
-    // "difficulty": 0
-  // },
-  
   {
     "result": "armor_jxpx",
     "activity_level": "LIGHT_EXERCISE",
@@ -319,19 +306,6 @@
     "copy-from": "qp_dd",
     "using": [["tailoring_wool_knitting",50]]
   },
-  // {
-    // "result": "qp_kajfbz1",
-    // "type": "recipe",
-    // "copy-from": "qp_dd",
-    // "using": [["tailoring_wool_knitting",50]]
-  // },
-  // {
-    // "result": "qp_kajfbz2",
-    // "type": "recipe",
-    // "copy-from": "qp_dd",
-    // "using": [["tailoring_wool_knitting",50]]
-  // },
-  
   {
     "result": "armor_bsmm",
     "activity_level": "LIGHT_EXERCISE",
