@@ -83,7 +83,7 @@
     "nested_category_data": [
       "30carbine_casing", "3006_casing", "4570_casing", "50_casing",
       "223_casing", "270win_casing", "300_casing", "300blk_casing", "308_casing", "545_casing",
-      "700nx_casing", "762_casing", "762_25_casing", "762_51_casing", "762R_casing"
+      "458wm", "762_casing", "762_25_casing", "762_51_casing", "762R_casing"
     ],
     "difficulty": 5
   },
@@ -425,11 +425,11 @@
   {
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
-    "result": "700nx_casing", "copy-from": "30carbine_casing", "charges": 1,
+    "result": "458wm", "copy-from": "30carbine_casing", "charges": 1,
     "qualities": [ { "id": "ANVIL", "level": 1 }, { "id": "HAMMER", "level": 2 } ],
     "time": "11 m",
     "tools": [
-      [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "tool_sdcdj", -1 ] ], [ [ "700nx_casing", -1 ] ],
+      [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ], [ [ "tool_sdcdj", -1 ] ], [ [ "458wm", -1 ] ],
       [ [ "forge", 10 ], [ "oxy_torch", 10 ] ]
     ],
     "components": [ [[ "copper", 2 ]] ]
