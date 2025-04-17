@@ -102,7 +102,7 @@
   "key": "f6bed0c42f84e6d7960acac570ac49a0",
   "original": "\"Anomalous activity confirmed.  Latest shipments coming in differ from normal deliveries, and security is being tightened.  Maintain discretion.\"",
   "translation": "“已确认异常活动，最近一批收到的货物与以往交付的有所不同，而且安全措施正在加强。保持谨慎。”",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "b173c1a5965ca16ceba37f4bb2dbacf3",
@@ -155,7 +155,7 @@
   "key": "e2cf43548929a0fb018c20e0ecc8bfe6",
   "original": "\"Blood, oath, and flame.  They will not see the truth until it is too late.\"",
   "translation": "“鲜血、誓言和圣火。当他们看到真相时，为时已晚。”",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "fd55fd857e47a038c0edf99013b124ca",
@@ -977,8 +977,8 @@
  {
   "key": "5245c588e3ff81f78e86fc69ad2008f4",
   "original": "\"Something happened down in Sector Three.  We had a power fluctuation, then something exploded and most systems lost power outright.  Lot of us are injured, some badly.  They're managing an evacuation of Sectors One and Two, but lockdown's tripped so we have no status on Sector Three.  We know the bioanomaly may have affected personnel here, so security is taking things very cautiously and trying to keep triaged casualties well-separated.\"",
-  "translation": "“第三区出事了。我们有一个电力波动，然后一些东西爆炸了，大多数系统彻底断电。我们很多人受伤了，有些伤得很重。他们正在疏散一区和二区，但是封锁解除了，所以我们在三区没有授权身份。我们知道生物正常性可能会影响这里的人员，因此安全部门非常谨慎地处理事情，并试图将分流的伤亡人员妥善隔离。”",
-  "stage": 1
+  "translation": "“第三区出事了。我们遇到了电力波动，随后发生了爆炸，大部分系统直接断电了。我们很多人受伤了，有些伤得很重。他们正在疏散一区和二区，但封锁已经启动，所以我们无法得知三区的状况。我们知道生物异常可能已经影响了这里的人员，所以安保人员非常谨慎，并试图将分流的伤亡人员妥善隔离。”",
+  "stage": 3
  },
  {
   "key": "9b824b81d60aec649705c2c40764df8f",
@@ -1431,7 +1431,7 @@
   "key": "17e0733b0b865d15d742fa7015bca7fb",
   "original": "\"We shall bring forth our master.  The old gods shall be swept away, as we cast aside the veil of reality…\"",
   "translation": "“我们将迎接吾主降临。古神将被涤荡无遗，正如我们揭开现实的面纱……”",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "9667403f657bd6256d3b38ec3e767f44",
@@ -2913,7 +2913,6 @@
   "key": "c6c4a79577a20f63f8d4f876bef5910c",
   "original": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 45 hours to charge.",
   "translation": "一枚手工制作的圆盘胸针，由一种奇怪的，异域材料制成，这种材料跟珍珠母十分类似，魔法元素被编织入其中，使其成为一件魔法物品。使用后能够增强对伤害的抵抗。每次激活后都需要很长时间来充能。最多可以存储5次。每次使用需要45小时来充能。",
-  "context": "ID: brooch_iridescent_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→brooch_iridescent_empowered\n",
   "stage": 3
  },
  {
@@ -2921,6 +2920,13 @@
   "original": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will enhance your resistance to damage.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses.",
   "translation": "一枚手工制作的圆盘胸针，由一种奇怪的，异域材料制成，这种材料跟珍珠母十分类似，魔法元素被编织入其中，使其成为一件魔法物品。使用后能够增强对伤害的抵抗。每次激活后都需要很长时间来充能。最多可以存储6次。",
   "stage": 3
+ },
+ {
+  "key": "dec47b80c02290a6f7da9a4914fe6ff7",
+  "original": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will reduce all incoming damage by 25%.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 45 hours to charge.",
+  "translation": "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will reduce all incoming damage by 25%.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 45 hours to charge.",
+  "context": "ID: brooch_iridescent_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→brooch_iridescent_empowered\n",
+  "stage": 1
  },
  {
   "key": "9d6c95b4a283797e9735bf254abfb9d2",
@@ -4229,7 +4235,6 @@
   "key": "57f890af3a9ac5fe6272861a3add4610",
   "original": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
   "translation": "一枚由某种异世界骨头或象牙制成的小护身符，雕刻着同样超自然的图像。元素魔法被编织到它的结构中，将其转化为一个原始的魔法物品。使用它会严重伤害和麻痹8个方格内的所有生物，包括盟友，如果你不小心的话。每次使用后需要很长时间才能重新充能，而且激活它也会使使用者疲劳。它可以容纳5次使用，每次使用需要20小时充电。",
-  "context": "ID: charm_bone_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→charm_bone_empowered\n",
   "stage": 3
  },
  {
@@ -4243,6 +4248,13 @@
   "original": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses.",
   "translation": "",
   "stage": -1
+ },
+ {
+  "key": "e4001725a9b3a0e61549b6a3c806e19f",
+  "original": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any hostiles within 4 tiles.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
+  "translation": "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any hostiles within 4 tiles.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge.",
+  "context": "ID: charm_bone_empowered\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→charm_bone_empowered\n",
+  "stage": 1
  },
  {
   "key": "a5ebe5c7cd0e1f6b14854fef9f468691",
@@ -4778,10 +4790,16 @@
   "stage": 3
  },
  {
+  "key": "44d66dab44d142f9f84be85f24d8cf66",
+  "original": "A talisman of 16-pointed silver, twisted to ensnare a sharply-pointed piece of crystallized essence.  Focusing its energy like a lens, using it will rip open a gap in the Veil itself, before stablizing it into a dimensional gateway.  Examining the gate will allow you to teleport to any other such gates you come across.",
+  "translation": "A talisman of 16-pointed silver, twisted to ensnare a sharply-pointed piece of crystallized essence.  Focusing its energy like a lens, using it will rip open a gap in the Veil itself, before stablizing it into a dimensional gateway.  Examining the gate will allow you to teleport to any other such gates you come across.",
+  "context": "ID: dimensional_warp_trap\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→dimensional_warp_trap\n",
+  "stage": 1
+ },
+ {
   "key": "f2b40b96096e92b9f136daee794d0a8b",
   "original": "A talisman of 16-pointed silver, twisted to ensnare a sharply-pointed piece of crystallized essence.  Focusing its energy like a lens, using it will rip open a gap in the Veil itself, creating a portal.  Designed for now-lost rituals, the resulting rift now serves only to let in things that do not belong in this world, for whatever mad purpose one can devise for such a function.",
   "translation": "一件16角银质护身符,被扭曲成可以困住璀璨源质的样子。它可以像透镜一样聚焦能量,使用它会撕开帷身,创造一个传送门。这件物品最初是为已经失传的仪式设计的,但现在产生的裂缝只会让一些不属于这个世界的东西进入,供人随意使用，不管你有什么疯狂的目的。",
-  "context": "ID: dimensional_warp_trap\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→dimensional_warp_trap\n",
   "stage": 3
  },
  {
@@ -9765,7 +9783,7 @@
   "original": "Elixir of Life",
   "translation": "生命灵药",
   "context": "ID: arcana_item_red_potion_healing\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_red_potion_healing\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "c01538e0a81111a174ec38e6f49faed6",
@@ -9814,7 +9832,7 @@
   "original": "Enervation",
   "translation": "虚弱",
   "context": "ID: tec_veil_chosen_enervation\n位于 /Kenan-Structured-Modpack/Arcana/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→technique→tec_veil_chosen_enervation\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "51cce6eb23f36b4fe5d1fb68ca3a9e51",
@@ -10166,7 +10184,7 @@
  {
   "key": "bdc7bb55d704b3e7177dfde638f9b54f",
   "original": "Faint wisps of mist fly from the talisman, to reinforce those who fight by your side.",
-  "translation": "微弱的雾气从符咒中飘出，为与你并肩作战的伙伴们注入力量。",
+  "translation": "微弱的雾气从护身符中飘出，为与你并肩作战的伙伴们注入力量。",
   "context": "ID: arcana_item_pet\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_pet\n",
   "stage": 1
  },
@@ -14109,7 +14127,7 @@
  {
   "key": "cad4977ac0ccb2121b6c619f78261a00",
   "original": "I'll need to obtain one.  Maybe later.",
-  "translation": "我需要先获得一个。也许以后再说。",
+  "translation": "我需要先获得一个。下次再说吧。",
   "context": "ID: TALK_HERMIT_SPELL_MENU_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SPELL_MENU_3\n",
   "stage": 1
  },
@@ -14233,6 +14251,13 @@
   "stage": 3
  },
  {
+  "key": "9d8514ee2b587fdebe6048edfd739776",
+  "original": "I'm afraid I don't have a copy of that book on hand.  I can offer you what advice I can in finding one though.  If you encounter any of their hideouts, whether hidden away in the city or far from civilization, be extremely cautious.  The text also sometimes has a habit of finding its way into the hands of wealthy collectors, and undead of unusual nature may hint at long-dead arcanists still cling to their tomes.",
+  "translation": "I'm afraid I don't have a copy of that book on hand.  I can offer you what advice I can in finding one though.  If you encounter any of their hideouts, whether hidden away in the city or far from civilization, be extremely cautious.  The text also sometimes has a habit of finding its way into the hands of wealthy collectors, and undead of unusual nature may hint at long-dead arcanists still cling to their tomes.",
+  "context": "ID: TALK_HERMIT_QUEST_HELP_1_SANGUINE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_QUEST_HELP_1_SANGUINE\n",
+  "stage": 1
+ },
+ {
   "key": "fcfb3adc70c43556912a388390aa7b6b",
   "original": "I'm afraid I don't have a copy of that book on hand.  I can offer you what advise I can in finding one though.  If you encounter any of their hideouts, whether hidden away in the city or far from civilization, be extremely cautious.  The text also sometimes has a habit of finding its way into the hands of wealthy collectors, and undead of unusual nature may hint at long-dead arcanist that may still cling to their tomes.",
   "translation": "",
@@ -14242,7 +14267,6 @@
   "key": "f12a4a9fb7506a1e895c48c6c390e7cf",
   "original": "I'm afraid I don't have a copy of that book on hand.  I can offer you what advise I can in finding one though.  If you encounter any of their hideouts, whether hidden away in the city or far from civilization, be extremely cautious.  The text also sometimes has a habit of finding its way into the hands of wealthy collectors, and undead of unusual nature may hint at long-dead arcanists still cling to their tomes.",
   "translation": "恐怕我手头没有这本书。 不过我可以为你提供一些建议，帮助你找到那本书。 如果你遇到他们的藏身之处，无论是藏在城市里还是远离文明的地方，都要格外小心。 这些书本有时也会落入富有的收藏家手中，而不寻常的亡灵可能暗示着死去已久的奥术师仍在留恋他们的典籍。",
-  "context": "ID: TALK_HERMIT_QUEST_HELP_1_SANGUINE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_QUEST_HELP_1_SANGUINE\n",
   "stage": 3
  },
  {
@@ -15599,7 +15623,7 @@
   "original": "Investigate Material Transport Site",
   "translation": "调查物资运输站",
   "context": "ID: MISSION_CF_PURIFIER_1_INTERLUDE_3\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_PURIFIER_1_INTERLUDE_3\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "0a420048b1da1ebde8942dae798b6f12",
@@ -17221,8 +17245,14 @@
   "key": "a1c483741af5c8e8524e2190bde980da",
   "original": "Magic Sign\nUsing this spell will alter terrain at a single targeted point, raising and lowering earthen barriers from any diggable terrain, or raising and lowering solid rock from natural stone.",
   "translation": "魔法符号\n施展此法术后，将能改变单一指定地点的地形。无论目标是可挖掘土壤还是天然岩石，均可升起或降下地形，或升起、降下坚固的岩石。",
-  "context": "ID: arcana_magic_earthweaving\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_earthweaving\n",
   "stage": 3
+ },
+ {
+  "key": "300265bf19d47ed0b8c1deed373473e2",
+  "original": "Magic Sign\nUsing this spell will alter terrain at a single targeted point, raising and lowering earthen barriers from any diggable terrain, or raising and lowering solid rock from other walls or floors.",
+  "translation": "Magic Sign\nUsing this spell will alter terrain at a single targeted point, raising and lowering earthen barriers from any diggable terrain, or raising and lowering solid rock from other walls or floors.",
+  "context": "ID: arcana_magic_earthweaving\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_earthweaving\n",
+  "stage": 1
  },
  {
   "key": "09c2463871634dd8a31ab9e47d6b8cc3",
@@ -20113,9 +20143,9 @@
  {
   "key": "828eddf3115874c5bb3e42df137b2064",
   "original": "Oh!  Sorry, didn't recognize you at fi- wait a minute…",
-  "translation": "哦！抱歉，我刚没认出你——等一下…",
+  "translation": "哦！抱歉，我刚刚没认出你——等一下……",
   "context": "ID: TALK_BLOOD_MAGE_APPRENTICE_PASSWORD\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_APPRENTICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_APPRENTICE_PASSWORD\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "dd30044df8fd01cb6acbe08b099d07eb",
@@ -21917,9 +21947,9 @@
  {
   "key": "e924a85ed652c31a25272aaebdf1cadd",
   "original": "Provide essence, and the fallen angel shall spread its wings.",
-  "translation": "献上源质，堕落的天使将展开翅膀。",
+  "translation": "奉上源质，堕落的天使将展开羽翼。",
   "context": "ID: cleric_ring\n位于 /Kenan-Structured-Modpack/Arcana/items/tool_armor.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL_ARMOR→cleric_ring\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d6acb82b85ef5e91d9f508e016b13218",
@@ -23152,7 +23182,7 @@
   "original": "Severe Otherworldly Offering",
   "translation": "伟大奉献",
   "context": "ID: chalice_offering_side_effects\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→chalice_offering_side_effects\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "fc09d82481b7d6a376f46992f19a6499",
@@ -29171,9 +29201,9 @@
  {
   "key": "40aea284788a04760bea498366d096ee",
   "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"This spell will grant temporary resistance to heat and smoke, but not direct contact with fire.\"",
-  "translation": "这是一幅画着华丽图案的卷轴，纸上用不自然的顺序描绘出奇怪的几何图案。激活它以探索其中的秘密。（记得绑定“施法”键！）\n“此咒语将对热量和烟雾产生暂时的抵抗力，但不能直接接触火”",
+  "translation": "这是一幅画着华丽图案的卷轴，纸上用不自然的顺序描绘出奇怪的几何图案。激活它以探索其中的秘密。（记得绑定“施法”键！）\n“这个法术将对热量和烟雾产生暂时的抗性，但不能直接与火接触”",
   "context": "ID: scroll_spell_flame_armor\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→scroll_spell_flame_armor\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "bef4b4d27c8754f46a6bc66353e9d058",
@@ -29211,6 +29241,13 @@
   "stage": 3
  },
  {
+  "key": "83f3124cdce50928a30547515928ee7c",
+  "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will alter terrain at a single targeted point, raising and lowering earthen barriers from any diggable terrain, or raising and lowering solid rock from other walls or floors.\"",
+  "translation": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will alter terrain at a single targeted point, raising and lowering earthen barriers from any diggable terrain, or raising and lowering solid rock from other walls or floors.\"",
+  "context": "ID: scroll_spell_earthweaving\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→scroll_spell_earthweaving\n",
+  "stage": 1
+ },
+ {
   "key": "c252991615a3fd15c32e354d7087ef91",
   "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will anoint you with a sunstone halo, granting a temporary defensive effect that will push any nearby attackers away from you in random directions, activating at random when you're struck.\"",
   "translation": "这是一幅画着华丽图案的卷轴，纸上用不自然的顺序描绘出奇怪的几何图案。激活它以探索其中的秘密。（ 记得绑定“施法”键！ ）\n“使用这个法术会将你笼罩在太阳石光环中，赋予你一种临时的防御效果，可以将任何靠近你的攻击者朝随机方向推开，在你被攻击时随机激活。”",
@@ -29221,6 +29258,12 @@
   "key": "cfa12a294abd1d8bb22e79c779783104",
   "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will loose a beam of otherworldly energy, blinding all in its path and inflicting double damage at close range.  Machines and some otherworldly creatures will be immune.\"",
   "translation": "这是一幅画着华丽图案的卷轴，纸上用不自然的顺序描绘出奇怪的几何图案。激活它以探索其中的秘密。（记得绑定“施法”键！）\n“使用此法术将释放一道来自异界的能量光束，使沿途所有生物致盲，并在近距内造成双倍伤害。机械体及某些异界生物对此免疫。”",
+  "stage": 1
+ },
+ {
+  "key": "141750d705c75fabf7e84cac3365d66e",
+  "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will loose a beam of otherworldly energy, blinding all in its path.  Machines and some otherworldly creatures will be immune, and its use will attract otherworldly attention.\"",
+  "translation": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will loose a beam of otherworldly energy, blinding all in its path.  Machines and some otherworldly creatures will be immune, and its use will attract otherworldly attention.\"",
   "context": "ID: scroll_spell_dark_lance\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→scroll_spell_dark_lance\n",
   "stage": 1
  },
@@ -29228,7 +29271,6 @@
   "key": "19c11cca4db6b1acc9360c9627ad4eec",
   "original": "This is a scroll with ornate patterns written on the paper, depicting strange geometric designs with an unnatural order to them.  Activate it to explore its secrets.  (( Remember to bind the \"spellcasting\" key! ))\n\"Using this spell will reshape the ground at a chosen location, raising or lowering walls in diggable terrain and solid stone.\"",
   "translation": "这是一幅画着华丽图案的卷轴，纸上用不自然的顺序描绘出奇怪的几何图案。激活它以探索其中的秘密。（记得绑定“施法”键！）\n“使用此法术将在选定地点重塑地表，在可挖掘地形和坚硬岩石中升起或降低地形。”",
-  "context": "ID: scroll_spell_earthweaving\n位于 /Kenan-Structured-Modpack/Arcana/items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→COMESTIBLE→scroll_spell_earthweaving\n",
   "stage": 1
  },
  {
@@ -29422,7 +29464,7 @@
  {
   "key": "f1cd63986ee53f95754fe666a5e91d36",
   "original": "This is a task that will be a long-term matter, I suspect.  You have demonstrated the potential the He From Beyond The Veil seeks.  I have told you the nature of our mission, our enduring oath.  And you have filled this feeble old heart with renewed hope.  Others may foster the survival of humanity, but what good will it do if the wounds in The Veil continue to bleed, and we are cast into the abyss?  That is our purpose, the one common ground we held with the Cleansing Flame.  But every rift sealed, every intrusion halted, pulls us away from the brink.  I ask you to continue along the path you have chosen.  Continue your work, and use your rewards with care and precision.  Will you accept this request?",
-  "translation": "我怀疑这是一项长期的任务。你展示了帷幕彼端的祂寻求的潜力。我已经告诉你们我们使命的性质，我们永恒的誓言。你让这颗苍老无力的心充满了新的希望。其他人可能会促进人类的生存，但是如果帷幕上的伤口继续流血，我们被扔进深渊，那又有什么好处呢？这就是我们的目的，是我们用净化之焰所坚持的一个共同点。但是，每一个裂痕被封闭，每一次入侵停止，都把我们从边缘拉了出来。我请你们继续沿着你们选择的道路前进。继续你的工作，小心而精确地使用你的奖励。你能接受这个要求吗？",
+  "translation": "在我看来，这应当是一项长期的任务。你展示了帷幕彼端的祂所寻求的潜力。我已经告诉你们我们使命的性质，我们永恒的誓言。你让这颗苍老无力的心充满了新的希望。其他人可能会促进人类的生存，但是如果帷幕裂隙血流不止，我们终将堕入深渊，那样的苟延残喘又会有什么好处呢？而这，就是我们的目的，是我们净化之焰所坚持的共愿。但是，每一个裂痕被封闭，每一次入侵停止，都把我们从边缘拉了出来。我恳请你，沿着你所选择的道路不断前进。继续你的工作，小心而精确地使用你的奖励。你能接受这个要求吗？",
   "context": "ID: MISSION_HERMIT_BECOME_PARAGON\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_HERMIT_BECOME_PARAGON\n",
   "stage": 1
  },
@@ -29464,9 +29506,9 @@
  {
   "key": "30118f1b37358059657f93a8bdbbe288",
   "original": "This is some manner of sword, decorated with a golden cross motif worked into the blade.  The blade is giving off an intense white light, and searing heat.",
-  "translation": "这是某种形式的剑，装饰有一个金色的十字架图案的刀片。刀片发出强烈的白光和灼热。",
+  "translation": "这是某种形式的剑，装饰有一个金色的十字架图案的刀片。刀片发出强烈的白色炽光。",
   "context": "ID: sun_sword_on\n位于 /Kenan-Structured-Modpack/Arcana/items/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→TOOL→sun_sword_on\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "640f0c939a9459cda1835e894bd503f1",
@@ -29939,7 +29981,7 @@
  {
   "key": "a128f8193b7a04ad084f828ddd373a0f",
   "original": "To mend the wounds in The Veil.  Well, to treat them at least, and ideally prevent them.  After all, as it is said, it is our duty not to revert what has been done, but to ensure we will endure.",
-  "translation": "修补帷幕上的伤口。好吧，至少要治疗，最好是预防。毕竟，正如人们所说的那样，我们的责任是不恢复已经做的事情，而是确保我们将坚持下去。",
+  "translation": "修补帷幕的裂缝。好吧，至少要治疗，最好是预防。毕竟，正如人们所说的那样，我们的责任是不恢复已经做的事情，而是确保我们将坚持下去。",
   "context": "ID: TALK_HERMIT_DISCUSS_2_PURPOSE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_DISCUSS_2_PURPOSE\n",
   "stage": 1
  },
@@ -31851,6 +31893,13 @@
   "stage": 5
  },
  {
+  "key": "a2657851e293567b55bfca0395fe73b7",
+  "original": "What appears to be a hole in reality has since settled into a more stable form, bound by faint glowing runes.  It should be safe to travel through, if you've encountered any other gateways.",
+  "translation": "What appears to be a hole in reality has since settled into a more stable form, bound by faint glowing runes.  It should be safe to travel through, if you've encountered any other gateways.",
+  "context": "ID: f_arcana_dimension_doorway\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→furniture→f_arcana_dimension_doorway\n",
+  "stage": 1
+ },
+ {
   "key": "ebbee711b6957f44e3b90fcedc107883",
   "original": "What appears to be a prototype model of Anomaly Recon Mech, moving with the same malevolent purpose as the many rogue machines left in the wake of the Cataclysm.  Autonomous and armed with an exotic laser weapon and other arcane tricks, this mechanical abomination has neither need nor want for a pilot.",
   "translation": "这似乎是一个异常侦察机械的原型，与大灾变后留下的许多失常的机器一样，怀着同样的恶意移动。这种机械怪物拥有自我意识，配备奇异的激光武器和其他基于奥术的部件，它应该既不需要也不想要驾驶员。",
@@ -33085,8 +33134,14 @@
   "key": "77fdb5945b1f210fd96616a733fd47cd",
   "original": "Wonderful.  I'll have things set up shortly, and the others have been working on securing the place further.  There is much to be done before we can ensure this place is safe.",
   "translation": "太好了。我很快就会准备好一切，其他人也一直在努力进一步确保这个地方的安全。在我们能确保这个地方安全之前，还有很多工作要做。",
-  "context": "ID: MISSION_CF_REP_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_REP_1\n",
   "stage": 3
+ },
+ {
+  "key": "173b553e4c61049692df66a5ce608168",
+  "original": "Wonderful.  I'll have things set up shortly, and the others have been working on securing the place further.  There is much to be done, but this allows us to prepare some other conveniences we've begun setting up outside.",
+  "translation": "Wonderful.  I'll have things set up shortly, and the others have been working on securing the place further.  There is much to be done, but this allows us to prepare some other conveniences we've begun setting up outside.",
+  "context": "ID: MISSION_CF_REP_1\n位于 /Kenan-Structured-Modpack/Arcana/npcs/missiondef.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mission_definition→MISSION_CF_REP_1\n",
+  "stage": 1
  },
  {
   "key": "ff1919410d439c81139bba6cc0158d21",
@@ -37253,6 +37308,13 @@
   "translation": "空间聚焦透镜",
   "context": "ID: dimensional_focus_lens\n位于 /Kenan-Structured-Modpack/Arcana/items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→GENERIC→dimensional_focus_lens\n",
   "stage": 3
+ },
+ {
+  "key": "6442e58403403890b33c5b71486148d7",
+  "original": "dimensional gateway",
+  "translation": "dimensional gateway",
+  "context": "ID: f_arcana_dimension_doorway\n位于 /Kenan-Structured-Modpack/Arcana/furniture_and_terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→furniture→f_arcana_dimension_doorway\n",
+  "stage": 1
  },
  {
   "key": "c7d9e85e05e00ee757cdf2491ea8ed8f",
