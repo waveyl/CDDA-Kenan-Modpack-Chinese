@@ -325,7 +325,7 @@
       ]
     },
     "use_action": [ { "type": "cast_spell", "spell_id": "arcana_item_pestilence", "no_fail": true, "need_wielding": true, "level": 0 } ],
-    "relative": { "weight": 540, "melee_damage": { "bash": 2 } },
+    "relative": { "weight": "540 g", "melee_damage": { "bash": 2 } },
     "extend": { "flags": [ "NO_SALVAGE", "MAGIC_FOCUS", "TRADER_KEEP_EQUIPPED" ] }
   },
   {
@@ -1065,7 +1065,7 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "essence_blood_type": 8 } } ],
     "charges_per_use": 2,
     "ammo": "essence_blood_type",
-    "relative": { "weight": 230 },
+    "relative": { "weight": "230 g" },
     "use_action": [ { "type": "cast_spell", "spell_id": "arcana_item_lichhook", "no_fail": true, "need_wielding": true, "level": 0 } ],
     "extend": { "flags": [ "NO_SALVAGE", "SHEATH_SWORD" ] }
   },
