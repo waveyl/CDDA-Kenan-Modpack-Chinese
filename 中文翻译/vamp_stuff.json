@@ -1545,7 +1545,7 @@
  {
   "key": "9547eccec9997144415b5b7ce6de81ab",
   "original": "Bloodrune... The vampire's eternal soul. Merely a fact that few of us night creatures turn into an object upon death, yet most resists to that point.\nIn the dark days, bloodrunes are set in a pedestal by elder civilizations, and said that their \"god\" will accept it as a praise, which is not true. Get this rune for me, to honor its soul in a way we normally do.",
-  "translation": "血符文…吸血鬼永恒的灵魂。这仅仅是一个事实，我们中很少有夜行生物会在死后变成一个物体，但大多数人都反对这一点。\n在黑暗的日子里，古老文明把血符文放在基座上，说他们的“上帝”会接受它作为赞美，这是不正确的。把这符文给我，用我们平常的方式来纪念它的灵魂。",
+  "translation": "血符文……吸血鬼永恒的灵魂。这仅仅是一个事实，我们中很少有夜行生物会在死后变成一个物体，但大多数人都反对这一点。\n在黑暗的日子里，古老文明把血符文放在基座上，说他们的“上帝”会接受它作为赞美，这是不正确的。把这符文给我，用我们平常的方式来纪念它的灵魂。",
   "context": "ID: VAMP_LONELY_quest3\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_mission.json\n类型为 mission_definition\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→mission_definition→VAMP_LONELY_quest3\n",
   "stage": 1
  },
@@ -2097,7 +2097,7 @@
   "original": "Dark Burst",
   "translation": "暗爆",
   "context": "ID: t4_mana_darkburst\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/Warlock/v_mana_T4.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t4_mana_darkburst\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "760256cfedb75a55321fcde5add50f7c",
@@ -4870,14 +4870,14 @@
  {
   "key": "72908d3dc0a66f5b08c000bde0c1182c",
   "original": "Outrage Bash",
-  "translation": "义愤填膺",
+  "translation": "愤怒重击",
   "context": "ID: t5_blood_outrage_bash\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_bash\n",
   "stage": 1
  },
  {
   "key": "d193c0417e26a7156e2804798c4a5866",
   "original": "Outrage Cut",
-  "translation": "愤怒的切割",
+  "translation": "愤怒斩击",
   "context": "ID: t5_blood_outrage_cut\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t5_blood_outrage_cut\n",
   "stage": 1
  },
@@ -4919,7 +4919,7 @@
  {
   "key": "6b891ea28212092966f09874002579a7",
   "original": "Picks a random spell. Everything got flat chances.",
-  "translation": "随机选择一个咒语。一切都没有机会。",
+  "translation": "随机选择一个法术施放。选择每个法术的机会均等。",
   "context": "ID: mon_idol_vex_etherhar_spell\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_monspell.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→mon_idol_vex_etherhar_spell\n",
   "stage": 1
  },
@@ -5031,9 +5031,9 @@
  {
   "key": "df2a8b71a1b12f9c7b0b2eb1237ae89f",
   "original": "Push monsters within a 4 tile radius.",
-  "translation": "在4瓦片半径内推怪物。",
+  "translation": "推开半径4格内的怪物。",
   "context": "ID: t4_mana_darkburst_push\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/Spells/v_spell_combo.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→SPELL→t4_mana_darkburst_push\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d0057bc33ade85a9a308f4afa0997452",
@@ -7400,9 +7400,9 @@
  {
   "key": "2e67c0a79d35c15af2436c8d80ca072d",
   "original": "What are you looking for?",
-  "translation": "您在找什么？",
+  "translation": "你在寻找些什么？",
   "context": "ID: TALK_VAMP_WASTEGUARD2_justcome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Wastelands_Outskirts/v_wg2_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_WASTEGUARD2_justcome\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "844426c65feefc86f3247031cf9ea33f",
@@ -7416,14 +7416,14 @@
   "original": "What do you seek?",
   "translation": "你在寻求什么？",
   "context": "ID: TALK_VAMP_WASTEGUARD2_justcome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Wastelands_Outskirts/v_wg2_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_WASTEGUARD2_justcome\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "d90f4605098a5011625c8c1744fff175",
   "original": "What do you want?",
   "translation": "你想要什么？",
   "context": "ID: TALK_VAMP_WASTEGUARD2_justcome\n位于 /Kenan-Structured-Modpack/vamp_stuff/Modification_Files/NPC/v_npc_responds/Wastelands_Outskirts/v_wg2_responses.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#vamp_stuff→talk_topic→TALK_VAMP_WASTEGUARD2_justcome\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "71fca948afe12e88fb69eaf73bb5db55",
