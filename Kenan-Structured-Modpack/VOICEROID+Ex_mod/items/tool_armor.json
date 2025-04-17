@@ -24,13 +24,24 @@
     "color": "pink",
     "armor": [
       {
-        "covers": [ "hand_l", "hand_r", "arm_l", "arm_r" ],
+        "covers": [
+          "hand_l",
+          "hand_r",
+          "arm_l",
+          "arm_r"
+        ],
         "coverage": 5,
         "encumbrance": 100
       }
     ],
     "material_thickness": 2,
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "FANCY", "SLEEP_AID" ],
+    "flags": [
+      "OVERSIZE",
+      "BELTED",
+      "RESTRICT_HANDS",
+      "FANCY",
+      "SLEEP_AID"
+    ],
     "max_charges": 1,
     "initial_charges": 1,
     "use_action": {
@@ -40,8 +51,14 @@
       "fun": -5,
       "fun_bonus": 1,
       "description_frequency": 20,
-      "player_descriptions": [ "あなたはうさちゃんと遊んでいます。", "おままごとは楽しいな♪" ],
-      "npc_descriptions": [ "%nはうさちゃんと遊んでいます。", "おままごとは楽しいな♪" ]
+      "player_descriptions": [
+        "あなたはうさちゃんと遊んでいます。",
+        "おままごとは楽しいな♪"
+      ],
+      "npc_descriptions": [
+        "%nはうさちゃんと遊んでいます。",
+        "おままごとは楽しいな♪"
+      ]
     }
   },
   {
@@ -57,7 +74,7 @@
   {
     "id": "voiro_yoshidasuit",
     "type": "TOOL_ARMOR",
-    "category" : "clothing",
+    "category": "clothing",
     "copy-from": "fursuit",
     "name": "着ぐるみ(吉田くん)[voiro]",
     "description": "YamahaInd社が開発した吉田くんの着ぐるみです。中身はハイテクに埋め尽くされており、重量はあるものの通常の着ぐるみに比べ収納スペースの確保、防水性能、温度調節機構等多岐による改良が施されています。",
@@ -65,15 +82,26 @@
     "volume": "25 L",
     "price": "300000 USD",
     "to_hit": -3,
-    "material": [ "ceramic", "kevlar", "cotton" ],
+    "material": [
+      "ceramic",
+      "kevlar",
+      "cotton"
+    ],
     "symbol": "[",
     "color": "red",
     "warmth": 50,
     "material_thickness": 4,
     "environmental_protection": 4,
-    "flags": [ "OVERSIZE", "OUTER", "STURDY", "WATERPROOF", "RAINPROOF", "WATCH", "ALARMCLOCK" ],
+    "flags": [
+      "OVERSIZE",
+      "OUTER",
+      "STURDY",
+      "WATERPROOF",
+      "RAINPROOF",
+      "WATCH",
+      "ALARMCLOCK"
+    ],
     "charges_per_use": 1,
-    "ammo": "battery",
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
@@ -89,18 +117,19 @@
       }
     ],
     "use_action": {
-        "type": "transform",
-        "msg": "強化外骨格『吉田ロイド』を起動しました。",
-        "target": "voiro_yoshidaroid",
-        "active": true
-    }
+      "type": "transform",
+      "msg": "強化外骨格『吉田ロイド』を起動しました。",
+      "target": "voiro_yoshidaroid",
+      "active": true
+    },
+    "tool_ammo": "battery"
   },
   {
     "//1": "重サバやRM13コンバットに比べ明らかに弱く感じるが、最大の強みは積層が「上着」である事。",
     "//2": "両足が被る為、RM13コンバットの上には着れないが被服率100%の上着は強い。",
     "id": "voiro_yoshidaroid",
     "type": "TOOL_ARMOR",
-    "category" : "armor",
+    "category": "armor",
     "copy-from": "voiro_yoshidasuit",
     "name": "着ぐるみ(吉田ロイド)[voiro]",
     "description": "YamahaInd社が開発した吉田くんの着ぐるみというフェイクをいれた強化外骨格です。",
@@ -109,16 +138,27 @@
     "price": "300000 USD",
     "material_thickness": 6,
     "environmental_protection": 10,
-    "flags": [ "OVERSIZE", "OUTER", "STURDY", "WATERPROOF", "RAINPROOF", "ELECTRIC_IMMUNE", "WATCH", "ALARMCLOCK", "SUN_GLASSES", "RAD_RESIST" ],
+    "flags": [
+      "OVERSIZE",
+      "OUTER",
+      "STURDY",
+      "WATERPROOF",
+      "RAINPROOF",
+      "ELECTRIC_IMMUNE",
+      "WATCH",
+      "ALARMCLOCK",
+      "SUN_GLASSES",
+      "RAD_RESIST"
+    ],
     "turns_per_charge": 3,
     "revert_to": "voiro_yoshidasuit",
     "use_action": {
-        "type": "transform",
-        "menu_text": "Turn off",
-        "msg": "強化外骨格『吉田ロイド』が機能を停止しました。",
-        "target": "voiro_yoshidasuit",
-        "need_charges": 1,
-        "need_charges_msg": "%sのバッテリーが不足している為、強化外骨格『吉田ロイド』が機能を停止しました。"
+      "type": "transform",
+      "menu_text": "Turn off",
+      "msg": "強化外骨格『吉田ロイド』が機能を停止しました。",
+      "target": "voiro_yoshidasuit",
+      "need_charges": 1,
+      "need_charges_msg": "%sのバッテリーが不足している為、強化外骨格『吉田ロイド』が機能を停止しました。"
     },
     "relic_data": {
       "passive_effects": [
@@ -126,9 +166,18 @@
           "has": "WORN",
           "condition": "ACTIVE",
           "values": [
-            { "value": "STRENGTH", "add": 10 },
-            { "value": "CLIMATE_CONTROL_HEAT", "add": 50 },
-            { "value": "CLIMATE_CONTROL_CHILL", "add": 50 }
+            {
+              "value": "STRENGTH",
+              "add": 10
+            },
+            {
+              "value": "CLIMATE_CONTROL_HEAT",
+              "add": 50
+            },
+            {
+              "value": "CLIMATE_CONTROL_CHILL",
+              "add": 50
+            }
           ]
         }
       ]
@@ -137,7 +186,7 @@
   {
     "id": "voiro_ornament_yukari",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "fc_hairpin",
     "name": "髪飾り(結月ゆかり)[voiro]",
     "description": "結月ゆかりの本体だとか、ビーム発射機構が搭載されているとか、まことしやかに噂されている謎のアクセサリーです。使用すると付ける位置を反転します。",
@@ -145,24 +194,24 @@
     "volume": "10 ml",
     "price": "79 USD",
     "color": "light_cyan",
-    "use_action" : {
-      "menu_text" : "付け替える",
-      "type" : "transform",
-      "target" : "voiro_ornament_yukari2",
-      "msg" : "髪飾りの位置を変えました。"
+    "use_action": {
+      "menu_text": "付け替える",
+      "type": "transform",
+      "target": "voiro_ornament_yukari2",
+      "msg": "髪飾りの位置を変えました。"
     }
   },
   {
     "id": "voiro_ornament_yukari2",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "voiro_ornament_yukari",
     "name": "髪飾り(結月ゆかり)[voiro]",
-    "use_action" : {
-      "menu_text" : "付け替える",
-      "type" : "transform",
-      "target" : "voiro_ornament_yukari",
-      "msg" : "髪飾りの位置を変えました。"
+    "use_action": {
+      "menu_text": "付け替える",
+      "type": "transform",
+      "target": "voiro_ornament_yukari",
+      "msg": "髪飾りの位置を変えました。"
     }
   },
   {
@@ -179,7 +228,7 @@
   {
     "id": "voiro_ornament_akari",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "fc_hairpin",
     "name": "髪飾り(紲星あかり)[voiro]",
     "description": "レンズの中で星マークが輝く謎のアクセサリーです。使用すると付ける位置を反転します。",
@@ -187,25 +236,25 @@
     "volume": "10 ml",
     "price": "83 USD",
     "color": "yellow",
-    "use_action" : {
-      "menu_text" : "付け替える",
-      "type" : "transform",
-      "target" : "voiro_ornament_akari2",
-      "msg" : "髪飾りの位置を変えました。"
+    "use_action": {
+      "menu_text": "付け替える",
+      "type": "transform",
+      "target": "voiro_ornament_akari2",
+      "msg": "髪飾りの位置を変えました。"
     }
   },
   {
     "id": "voiro_ornament_akari2",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "voiro_ornament_akari",
     "name": "髪飾り(紲星あかり)[voiro]",
     "description": "レンズの中で星マークが輝く謎のアクセサリーです。使用すると付ける位置を反転します。",
-    "use_action" : {
-      "menu_text" : "付け替える",
-      "type" : "transform",
-      "target" : "voiro_ornament_akari",
-      "msg" : "髪飾りの位置を変えました。"
+    "use_action": {
+      "menu_text": "付け替える",
+      "type": "transform",
+      "target": "voiro_ornament_akari",
+      "msg": "髪飾りの位置を変えました。"
     }
   },
   {
@@ -213,43 +262,51 @@
     "//2": "マンハックのように使える様にはしたいが未実装。",
     "id": "voiro_sorarobo",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "そらロボ[voiro]",
     "description": "普段は耳あてに擬態している謎の浮遊ロボ。使用する事で耳あてに変身します。",
     "weight": "400 g",
     "volume": "500 ml",
     "price": "0 cent",
-    "material" : [ "steel" ],
+    "material": [
+      "steel"
+    ],
     "symbol": "[",
     "color": "light_blue",
-    "use_action" : {
-      "menu_text" : "変身(耳あて)",
-      "type" : "transform",
-      "target" : "voiro_earmuffs_sora",
-      "msg" : "そらロボは耳あてへと姿を変えました。"
+    "use_action": {
+      "menu_text": "変身(耳あて)",
+      "type": "transform",
+      "target": "voiro_earmuffs_sora",
+      "msg": "そらロボは耳あてへと姿を変えました。"
     },
-    "flags": [ "BELTED" ]
+    "flags": [
+      "BELTED"
+    ]
   },
   {
     "//": "着用部位無し装備。そらロボに変身してもFANCYフラグが消えるだけでメリットがあるわけではない。",
     "id": "voiro_earmuffs_sora",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "耳あて(桜乃そら)[voiro]",
     "description": "耳あての形をしたメカニカルな謎のアクセサリーです。",
     "weight": "400 g",
     "volume": "500 ml",
     "price": "0 cent",
-    "material" : [ "steel" ],
+    "material": [
+      "steel"
+    ],
     "symbol": "[",
     "color": "light_blue",
-    "use_action" : {
-      "menu_text" : "変身(そらロボ)",
-      "type" : "transform",
-      "target" : "voiro_sorarobo",
-      "msg" : "耳あてはそらロボへと姿を変えました。"
+    "use_action": {
+      "menu_text": "変身(そらロボ)",
+      "type": "transform",
+      "target": "voiro_sorarobo",
+      "msg": "耳あてはそらロボへと姿を変えました。"
     },
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "//1": "ついなちゃんの設定によると、フ○ンネルのように小型恵方巻きを飛ばす機能があるらしい。",
@@ -262,21 +319,32 @@
     "weight": "5 kg",
     "volume": "10 L",
     "price": "0 cent",
-    "material": [ "paper" ],
+    "material": [
+      "paper"
+    ],
     "symbol": "?",
     "color": "dark_gray",
-    "skill": "dodge",
     "required_level": 2,
     "max_level": 7,
     "intelligence": 12,
     "time": "3 h",
-    "fun": -8,
     "armor_data": {
       "material_thickness": 1,
-      "armor": [ { "encumbrance": 20, "coverage": 5, "covers": [ "torso" ] } ]
+      "armor": [
+        {
+          "encumbrance": 20,
+          "coverage": 5,
+          "covers": [
+            "torso"
+          ]
+        }
+      ]
     },
-
-    "flags": [ "BELTED" ]
+    "flags": [
+      "BELTED"
+    ],
+    "read_skill": "dodge",
+    "read_fun": -8
   },
   {
     "id": "voiro_dickson",
@@ -287,26 +355,36 @@
     "weight": "1 kg",
     "volume": "1750 ml",
     "price": "0 cent",
-    "material": [ "wood" ],
+    "material": [
+      "wood"
+    ],
     "symbol": "[",
     "color": "brown",
     "armor": [
       {
-        "covers": [ "head" ],
+        "covers": [
+          "head"
+        ],
         "coverage": 25,
         "encumbrance": 10
       }
     ],
     "material_thickness": 3,
     "environmental_protection": 2,
-    "techniques": [ "WBLOCK_1" ],
-    "use_action" : {
-      "menu_text" : "顔に被る",
-      "type" : "transform",
-      "target" : "voiro_dickson_worn",
-      "msg" : "方相氏の面を顔に被りました。"
+    "techniques": [
+      "WBLOCK_1"
+    ],
+    "use_action": {
+      "menu_text": "顔に被る",
+      "type": "transform",
+      "target": "voiro_dickson_worn",
+      "msg": "方相氏の面を顔に被りました。"
     },
-    "flags": [ "OVERSIZE", "BELTED", "WATER_FRIENDLY" ]
+    "flags": [
+      "OVERSIZE",
+      "BELTED",
+      "WATER_FRIENDLY"
+    ]
   },
   {
     "id": "voiro_dickson_worn",
@@ -317,16 +395,19 @@
     "description": "方相氏が被る金色四つ目の面です。役追儺の面は「ディクソン」という渾名が付けられており、無口なナイスガイです。使用すると頭に上げます。",
     "armor": [
       {
-        "covers": [ "eyes", "mouth" ],
+        "covers": [
+          "eyes",
+          "mouth"
+        ],
         "coverage": 95,
         "encumbrance": 10
       }
     ],
-    "use_action" : {
-      "menu_text" : "頭に上げる",
-      "type" : "transform",
-      "target" : "voiro_dickson",
-      "msg" : "方相氏の面を頭に上げました。"
+    "use_action": {
+      "menu_text": "頭に上げる",
+      "type": "transform",
+      "target": "voiro_dickson",
+      "msg": "方相氏の面を頭に上げました。"
     }
   },
   {
@@ -350,7 +431,7 @@
   {
     "id": "voiro_ornament_yukari_evil",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "fc_hairpin",
     "name": "髪飾り(悪いゆかり)[voiro]",
     "description": "結月ゆかりの本体だとか、ビーム発射機構が搭載されているとか、まことしやかに噂されている謎のアクセサリーです。使用すると付ける位置を反転します。",
@@ -358,41 +439,44 @@
     "volume": "10 ml",
     "price": "79 USD",
     "color": "light_cyan",
-    "use_action" : {
-      "menu_text" : "付け替える",
-      "type" : "transform",
-      "target" : "voiro_ornament_yukari_evil2",
-      "msg" : "髪飾りの位置を変えました。"
+    "use_action": {
+      "menu_text": "付け替える",
+      "type": "transform",
+      "target": "voiro_ornament_yukari_evil2",
+      "msg": "髪飾りの位置を変えました。"
     }
   },
   {
     "id": "voiro_ornament_yukari_evil2",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "voiro_ornament_yukari_evil",
     "name": "髪飾り(悪いゆかり)[voiro]",
     "description": "結月ゆかりの本体だとか、ビーム発射機構が搭載されているとか、まことしやかに噂されている謎のアクセサリーです。使用すると付ける位置を反転します。",
-    "use_action" : {
-      "menu_text" : "付け替える",
-      "type" : "transform",
-      "target" : "voiro_ornament_yukari_evil",
-      "msg" : "髪飾りの位置を変えました。"
+    "use_action": {
+      "menu_text": "付け替える",
+      "type": "transform",
+      "target": "voiro_ornament_yukari_evil",
+      "msg": "髪飾りの位置を変えました。"
     }
   },
   {
     "id": "voiro_hat_una",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "hat_cotton",
     "name": "オタマン帽(音街ウナ)[voiro]",
     "description": "ウナギをかたどったオタマン帽という名前の帽子です。白い博士帽を被っています。使用する事でオタマン帽(音街ウナSugar)に変化します。",
     "weight": "1500 g",
     "volume": "18 L",
-    "price": "40 USD 50 cent",					"//": "現実で「音街ウナ Official Goods Shop」で扱っているオタマン帽の値段(日本円)。",
+    "price": "40 USD 50 cent",
+    "//": "現実で「音街ウナ Official Goods Shop」で扱っているオタマン帽の値段(日本円)。",
     "color": "blue",
     "armor": [
       {
-        "covers": [ "head" ],
+        "covers": [
+          "head"
+        ],
         "coverage": 90,
         "encumbrance": 12
       }
@@ -400,46 +484,53 @@
     "warmth": 20,
     "material_thickness": 8,
     "environmental_protection": 3,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_hat_una_sugar",
-      "msg" : "Sugar版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_hat_una_sugar",
+      "msg": "Sugar版に変化しました。"
     },
-    "flags": [ "OVERSIZE", "OUTER", "WATER_FRIENDLY", "FANCY", "RAINPROOF", "SLEEP_AID" ]
+    "flags": [
+      "OVERSIZE",
+      "OUTER",
+      "WATER_FRIENDLY",
+      "FANCY",
+      "RAINPROOF",
+      "SLEEP_AID"
+    ]
   },
   {
     "id": "voiro_hat_una_sugar",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "voiro_hat_una",
     "name": "オタマン帽(音街ウナSugar)[voiro]",
     "description": "ウナギをかたどったオタマン帽という名前の帽子です。使用する事でオタマン帽(音街ウナSpicy)に変化します。",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_hat_una_spicy",
-      "msg" : "Spicy版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_hat_una_spicy",
+      "msg": "Spicy版に変化しました。"
     }
   },
   {
     "id": "voiro_hat_una_spicy",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "copy-from": "voiro_hat_una",
     "name": "オタマン帽(音街ウナSpicy)[voiro]",
     "description": "ウナギをかたどったオタマン帽という名前の帽子です。黄色い角と雷模様が特徴です。使用する事でオタマン帽(音街ウナ)に変化します。",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_hat_una",
-      "msg" : "Talk_Ex版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_hat_una",
+      "msg": "Talk_Ex版に変化しました。"
     }
   },
   {
     "id": "voiro_dress_una",
     "type": "TOOL_ARMOR",
-    "category" : "armor",
+    "category": "armor",
     "copy-from": "sundress",
     "name": "ワンピース(音街ウナ[voiro]",
     "description": "ウナギのシンボルが入った刺繍と、ポケットの付いたピンクのワンピースです。使用する事でアイドル衣装(音街ウナSugar)に変化します。",
@@ -447,88 +538,146 @@
     "volume": "1500 ml",
     "price": "100 USD",
     "armor": [
-      { "coverage": 80, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 80,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r",
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_idol_costume_una_sugar",
-      "msg" : "Sugar版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_idol_costume_una_sugar",
+      "msg": "Sugar版に変化しました。"
     },
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "//": "ワンピースから性能が変わるが、都合上問題がありそうな値段、収納容量はそのままにする。",
     "id": "voiro_idol_costume_una_sugar",
     "type": "TOOL_ARMOR",
-    "category" : "armor",
+    "category": "armor",
     "name": "アイドル衣装(音街ウナSugar)[voiro]",
     "description": "マーチングバンドの指揮者をイメージする可愛らしい衣装です。使用する事でアイドル衣装(音街ウナSpicy)に変化します。",
     "weight": "312 g",
     "volume": "1500 ml",
     "price": "100 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "blue",
     "armor": [
-      { "coverage": 90, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_hip_l", "leg_hip_r" ],
+        "coverage": 90,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       },
       {
         "coverage": 100,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r"
+        ]
       }
     ],
     "warmth": 15,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_idol_costume_una_spicy",
-      "msg" : "Spicy版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_idol_costume_una_spicy",
+      "msg": "Spicy版に変化しました。"
     },
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "//": "ワンピース、アイドル衣装(sugar)から性能が変わるが、都合上問題がありそうな値段、収納容量はそのままにする。",
     "id": "voiro_idol_costume_una_spicy",
     "type": "TOOL_ARMOR",
-    "category" : "armor",
+    "category": "armor",
     "copy-from": "voiro_idol_costume_una_sugar",
     "name": "アイドル衣装(音街ウナSpicy)[voiro]",
     "description": "パンキッシュなアイドル衣装です。使用する事でワンピース(音街ウナ)に変化します。",
     "weight": "300 g",
     "color": "dark_gray",
     "armor": [
-      { "coverage": 80, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_hip_l", "leg_hip_r" ],
+        "coverage": 80,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       },
       {
         "encumbrance": 1,
         "coverage": 80,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_elbow_l", "arm_elbow_r", "arm_upper_l", "arm_upper_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_elbow_l",
+          "arm_elbow_r",
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
       }
     ],
     "warmth": 5,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_dress_una",
-      "msg" : "Talk_Ex版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_dress_una",
+      "msg": "Talk_Ex版に変化しました。"
     }
   },
   {
@@ -541,11 +690,11 @@
     "price": "20 USD",
     "warmth": 15,
     "material_thickness": 1,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_socks_una_sugar",
-      "msg" : "Sugar版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_socks_una_sugar",
+      "msg": "Sugar版に変化しました。"
     }
   },
   {
@@ -557,13 +706,16 @@
     "weight": "31 g",
     "volume": "250 ml",
     "price": "20 USD",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_socks_una_spicy",
-      "msg" : "Spicy版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_socks_una_spicy",
+      "msg": "Spicy版に変化しました。"
     },
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_socks_una_spicy",
@@ -574,23 +726,43 @@
     "weight": "45 g",
     "volume": "250 ml",
     "price": "20 USD",
-    "material": [ "cotton", "leather" ],
+    "material": [
+      "cotton",
+      "leather"
+    ],
     "armor": [
-      { "encumbrance": 5, "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r" ],
+        "encumbrance": 5,
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r",
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r"
+        ],
         "coverage": 40,
         "encumbrance": 4
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_tights_una",
-      "msg" : "Talk_EX版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_tights_una",
+      "msg": "Talk_EX版に変化しました。"
     }
   },
   {
@@ -602,14 +774,17 @@
     "weight": "800 g",
     "volume": "2000 ml",
     "price": "100 USD",
-    "material": [ "cotton", "leather" ],
+    "material": [
+      "cotton",
+      "leather"
+    ],
     "material_thickness": 2,
     "environmental_protection": 1,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_sneakers_una_sugar",
-      "msg" : "Sugar版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_sneakers_una_sugar",
+      "msg": "Sugar版に変化しました。"
     }
   },
   {
@@ -623,11 +798,11 @@
     "price": "100 USD",
     "material_thickness": 2,
     "environmental_protection": 1,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_boots_una_spicy",
-      "msg" : "Spicy版に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_boots_una_spicy",
+      "msg": "Spicy版に変化しました。"
     }
   },
   {
@@ -639,12 +814,14 @@
     "weight": "800 g",
     "volume": "2000 ml",
     "price": "100 USD",
-    "melee_damage": { "bash": 6 },
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_boots_una",
-      "msg" : "Talk_Ex版に変化しました。"
+    "melee_damage": {
+      "bash": 6
+    },
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_boots_una",
+      "msg": "Talk_Ex版に変化しました。"
     }
   },
   {
@@ -657,11 +834,11 @@
     "volume": "250 ml",
     "price": "39 USD 39 cent",
     "charges_per_use": 0,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_headset_haku",
-      "msg" : "ヘッドセット(弱音ハク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_headset_haku",
+      "msg": "ヘッドセット(弱音ハク)に変化しました。"
     }
   },
   {
@@ -672,11 +849,11 @@
     "description": "無線通信機能が組み込まれた弱音ハクのヘッドセットです。使用する事でヘッドセット(初音ミク)に変化します。",
     "weight": "186 g",
     "volume": "250 ml",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_headset_miku",
-      "msg" : "ヘッドセット(初音ミク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_headset_miku",
+      "msg": "ヘッドセット(初音ミク)に変化しました。"
     }
   },
   {
@@ -691,18 +868,22 @@
     "color": "green",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 80,
         "encumbrance": 0
       }
     ],
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_sleeveless_haku",
-      "msg" : "ノースリーブ(弱音ハク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_sleeveless_haku",
+      "msg": "ノースリーブ(弱音ハク)に変化しました。"
     },
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_sleeveless_haku",
@@ -715,16 +896,18 @@
     "color": "dark_gray",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 50,
         "encumbrance": 0
       }
     ],
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_sleeveless_miku",
-      "msg" : "ノースリーブ(初音ミク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_sleeveless_miku",
+      "msg": "ノースリーブ(初音ミク)に変化しました。"
     }
   },
   {
@@ -739,22 +922,42 @@
     "color": "green",
     "armor": [
       {
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_upper_l", "arm_upper_r" ],"coverage": 70, "encumbrance": 2 
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_upper_l",
+          "arm_upper_r"
+        ],
+        "coverage": 70,
+        "encumbrance": 2
       },
       {
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_elbow_l", "arm_elbow_r","arm_lower_l", "arm_lower_r" ],"coverage": 100, "encumbrance": 2
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_elbow_l",
+          "arm_elbow_r",
+          "arm_lower_l",
+          "arm_lower_r"
+        ],
+        "coverage": 100,
+        "encumbrance": 2
       }
     ],
     "warmth": 10,
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_arm_covers_haku",
-      "msg" : "アームカバー(弱音ハク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_arm_covers_haku",
+      "msg": "アームカバー(弱音ハク)に変化しました。"
     },
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_arm_covers_haku",
@@ -765,13 +968,15 @@
     "weight": "89 g",
     "volume": "500 ml",
     "color": "dark_gray",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_arm_covers_miku",
-      "msg" : "アームカバー(初音ミク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_arm_covers_miku",
+      "msg": "アームカバー(初音ミク)に変化しました。"
     },
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_skirt_miku",
@@ -783,13 +988,15 @@
     "volume": "250 ml",
     "price": "39 USD 39 cent",
     "color": "green",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_pants_haku",
-      "msg" : "ベルボトムパンツ(弱音ハク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_pants_haku",
+      "msg": "ベルボトムパンツ(弱音ハク)に変化しました。"
     },
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "//": "ベルト付いてるけど、transformしたら中身が消える(と思う)ので、ベルト機能は無し。",
@@ -802,13 +1009,16 @@
     "volume": "2 L",
     "price": "39 USD 39 cent",
     "color": "dark_gray",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_skirt_miku",
-      "msg" : "スカート(初音ミク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_skirt_miku",
+      "msg": "スカート(初音ミク)に変化しました。"
     },
-    "flags": [ "VARSIZE", "POCKETS" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS"
+    ]
   },
   {
     "id": "voiro_boots_miku",
@@ -819,15 +1029,18 @@
     "weight": "780 g",
     "volume": "3500 ml",
     "price": "39 USD 39 cent",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_boots_haku",
-      "msg" : "ブーツ(弱音ハク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_boots_haku",
+      "msg": "ブーツ(弱音ハク)に変化しました。"
     },
     "armor": [
       {
-        "covers": [ "foot_l", "foot_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
         "specifically_covers": [
           "foot_heel_r",
           "foot_heel_l",
@@ -838,33 +1051,71 @@
           "foot_ankle_r",
           "foot_ankle_l"
         ],
-        "material": [ { "type": "cotton", "covered_by_mat": 100, "thickness": 2 } ],
+        "material": [
+          {
+            "type": "cotton",
+            "covered_by_mat": 100,
+            "thickness": 2
+          }
+        ],
         "encumbrance": 20,
         "coverage": 100
       },
       {
-        "covers": [ "foot_l", "foot_r" ],
-        "specifically_covers": [ "foot_sole_r", "foot_sole_l" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "specifically_covers": [
+          "foot_sole_r",
+          "foot_sole_l"
+        ],
         "material": [
-          { "type": "leather", "covered_by_mat": 100, "thickness": 0.1 },
-          { "type": "rubber", "covered_by_mat": 100, "thickness": 4.0 }
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 0.1
+          },
+          {
+            "type": "rubber",
+            "covered_by_mat": 100,
+            "thickness": 4.0
+          }
         ],
         "coverage": 100
       },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r" ],
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r",
+          "leg_knee_l",
+          "leg_knee_r"
+        ],
         "coverage": 100,
         "encumbrance": 20
       },
       {
         "encumbrance": 0,
         "coverage": 65,
-        "covers": [ "leg_r", "leg_l" ],
-        "specifically_covers": [ "leg_upper_l", "leg_upper_r" ]
+        "covers": [
+          "leg_r",
+          "leg_l"
+        ],
+        "specifically_covers": [
+          "leg_upper_l",
+          "leg_upper_r"
+        ]
       }
     ],
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY"  ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_boots_haku",
@@ -875,13 +1126,17 @@
     "weight": "445 g",
     "volume": "2 L",
     "price": "39 USD 39 cent",
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_boots_miku",
-      "msg" : "ブーツ(初音ミク)に変化しました。"
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_boots_miku",
+      "msg": "ブーツ(初音ミク)に変化しました。"
     },
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY"  ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_hairpin_rikka",

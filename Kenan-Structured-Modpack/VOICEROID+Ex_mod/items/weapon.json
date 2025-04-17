@@ -7,18 +7,33 @@
     "copy-from": "recurbow",
     "symbol": "(",
     "color": "green",
-    "name" : "ずんだアロー[voiro]",
-    "description" : "ずんだ餅の精、ずんだもんが変身した姿。三陸海岸を歩いていたずん子が雷に打たれ、病院で目を覚ますとなぜか大事に抱えていました。使用する事でずんだもんに戻ります。",
+    "name": "ずんだアロー[voiro]",
+    "description": "ずんだ餅の精、ずんだもんが変身した姿。三陸海岸を歩いていたずん子が雷に打たれ、病院で目を覚ますとなぜか大事に抱えていました。使用する事でずんだもんに戻ります。",
     "price": "0 cent",
-    "material": [ "veggy" ],
-    "flags": [ "ZUNDA_ARROW", "FIRE_TWOHAND", "STR_DRAW", "RELOAD_AND_SHOOT", "PRIMITIVE_RANGED_WEAPON", "BELTED", "WATER_FRIENDLY", "DURABLE_MELEE"  ],
+    "material": [
+      "veggy"
+    ],
+    "flags": [
+      "ZUNDA_ARROW",
+      "FIRE_TWOHAND",
+      "STR_DRAW",
+      "RELOAD_AND_SHOOT",
+      "PRIMITIVE_RANGED_WEAPON",
+      "BELTED",
+      "WATER_FRIENDLY",
+      "DURABLE_MELEE"
+    ],
     "min_strength": 6,
-    "ammo": [ "arrow" ],
+    "ammo": [
+      "arrow"
+    ],
     "weight": "790 g",
     "volume": "4 L",
     "longest_side": "150 cm",
-    "melee_damage": { "bash": 12 },
-    "to_hit" : 1,
+    "melee_damage": {
+      "bash": 12
+    },
+    "to_hit": 1,
     "reload_noise_volume": 3,
     "loudness": 8,
     "range": 16,
@@ -26,41 +41,121 @@
     "durability": 6,
     "clip_size": 1,
     "reload": 50,
-    "ranged_damage": { "damage_type": "stab", "amount": 16 },
-    "valid_mod_locations": [ [ "underbarrel", 1 ], [ "sights", 1 ], [ "accessories", 2 ], [ "stabilizer", 1 ], [ "dampening", 1 ] ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "arrow": 1 } } ],
-    "use_action" : {
-      "menu_text" : "変身(ずんだもん)",
-      "type" : "transform",
-      "target" : "voiro_zundamon",
+    "ranged_damage": {
+      "damage_type": "stab",
+      "amount": 16
+    },
+    "valid_mod_locations": [
+      [
+        "underbarrel",
+        1
+      ],
+      [
+        "sights",
+        1
+      ],
+      [
+        "accessories",
+        2
+      ],
+      [
+        "stabilizer",
+        1
+      ],
+      [
+        "dampening",
+        1
+      ]
+    ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE",
+        "ammo_restriction": {
+          "arrow": 1
+        }
+      }
+    ],
+    "use_action": {
+      "menu_text": "変身(ずんだもん)",
+      "type": "transform",
+      "target": "voiro_zundamon",
       "ammo_scale": 0,
-      "msg" : "ずんだアローはずんだもんへと姿を変えた。"
+      "msg": "ずんだアローはずんだもんへと姿を変えた。"
     }
   },
   {
     "//": "着用部位無し装備。ずんだアローから体積がぐっと減ります。それだけ。",
     "id": "voiro_zundamon",
     "type": "TOOL_ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "ずんだもん[voiro]",
     "description": "ずんだアローに宿るずんだ餅の精。使用する事でずんだアローへ変身します。",
     "weight": "790 g",
     "volume": "1 L",
     "price": "0 cent",
-    "material" : [ "veggy" ],
-    "flags": [ "BELTED", "NO_TURRET", "AURA" ],
-    "ammo": [ "arrow" ],
-    "gun_data": { "modes": [ [ "DEFAULT", "disassembled", 0, [ "MELEE" ] ] ], "skill": "archery", "valid_mod_locations": [ [ "underbarrel", 1 ], [ "sights", 1 ], [ "accessories", 2 ], [ "stabilizer", 1 ], [ "dampening", 1 ] ] },
+    "material": [
+      "veggy"
+    ],
+    "flags": [
+      "BELTED",
+      "NO_TURRET",
+      "AURA"
+    ],
+    "gun_data": {
+      "modes": [
+        [
+          "DEFAULT",
+          "disassembled",
+          0,
+          [
+            "MELEE"
+          ]
+        ]
+      ],
+      "skill": "archery",
+      "valid_mod_locations": [
+        [
+          "underbarrel",
+          1
+        ],
+        [
+          "sights",
+          1
+        ],
+        [
+          "accessories",
+          2
+        ],
+        [
+          "stabilizer",
+          1
+        ],
+        [
+          "dampening",
+          1
+        ]
+      ]
+    },
     "symbol": "[",
     "color": "green",
-    "use_action" : {
-      "menu_text" : "変身(ずんだアロー)",
-      "type" : "transform",
-      "target" : "Voiro_zunda_arrow",
+    "use_action": {
+      "menu_text": "変身(ずんだアロー)",
+      "type": "transform",
+      "target": "Voiro_zunda_arrow",
       "ammo_scale": 0,
-      "msg" : "ずんだもんはずんだアローへと姿を変えた。"
+      "msg": "ずんだもんはずんだアローへと姿を変えた。"
     },
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "arrow": 1 } } ]
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE",
+        "ammo_restriction": {
+          "arrow": 1
+        }
+      }
+    ],
+    "tool_ammo": [
+      "arrow"
+    ]
   },
   {
     "//1": "棍棒の上位互換。クラフトまでの環境を整えるのを辛くした。",
@@ -75,14 +170,25 @@
     "volume": "1250 ml",
     "price": "140 USD",
     "to_hit": 2,
-    "melee_damage": { "bash": 12 },
-    "material": [ "wood", "aluminum" ],
+    "melee_damage": {
+      "bash": 12
+    },
+    "material": [
+      "wood",
+      "aluminum"
+    ],
     "symbol": "/",
     "color": "green",
-    "techniques": [ "WBLOCK_2", "PRECISE" ],
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "FANCY" ],
+    "techniques": [
+      "WBLOCK_2",
+      "PRECISE"
+    ],
+    "flags": [
+      "DURABLE_MELEE",
+      "NONCONDUCTIVE",
+      "FANCY"
+    ],
     "charges_per_use": 1,
-    "ammo": "battery",
     "use_action": {
       "type": "transform",
       "msg": "ステッキの電源を入れました。",
@@ -95,10 +201,14 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "rigid": true,
-        "flag_restriction": [ "BATTERY_LIGHT", "BATTERY_ULTRA_LIGHT" ],
+        "flag_restriction": [
+          "BATTERY_LIGHT",
+          "BATTERY_ULTRA_LIGHT"
+        ],
         "default_magazine": "light_battery_cell"
       }
-    ]
+    ],
+    "tool_ammo": "battery"
   },
   {
     "id": "voiro_stick_on_seika",
@@ -106,10 +216,22 @@
     "type": "TOOL",
     "name": "ステッキ(オン)(京町セイカ)[voiro]",
     "description": "重力シールド展開装置、強制時空転送装置等を備えた「ロッド」と呼ばれる未来の超兵器のレプリカです。形状的にはワンドやバトンと呼ぶのが正しいですが、現代では「バラの花ステッキ」と呼ばれています。電源が入っており、電池を消費しています。使用すると電源を切ります。",
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "FANCY", "LIGHT_300", "CHARGEDIM", "TRADER_AVOID" ],
+    "flags": [
+      "DURABLE_MELEE",
+      "NONCONDUCTIVE",
+      "FANCY",
+      "LIGHT_300",
+      "CHARGEDIM",
+      "TRADER_AVOID"
+    ],
     "power_draw": "1560 mW",
     "revert_to": "voiro_stick_seika",
-    "use_action": { "type": "transform", "menu_text": "Turn off", "msg": "The %s flicks off.", "target": "voiro_stick_seika" }
+    "use_action": {
+      "type": "transform",
+      "menu_text": "Turn off",
+      "msg": "The %s flicks off.",
+      "target": "voiro_stick_seika"
+    }
   },
   {
     "id": "voiro_shield_tuina",
@@ -120,21 +242,35 @@
     "weight": "3 kg",
     "volume": "4 L",
     "price": "80 USD",
-    "melee_damage": { "bash": 4 },
-    "material": [ "wood" ],
+    "melee_damage": {
+      "bash": 4
+    },
+    "material": [
+      "wood"
+    ],
     "symbol": "[",
     "color": "light_gray",
     "armor": [
       {
-        "covers": [ "arm_l", "hand_l" ],
+        "covers": [
+          "arm_l",
+          "hand_l"
+        ],
         "coverage": 40,
         "encumbrance": 12
       }
     ],
     "material_thickness": 3,
     "environmental_protection": 2,
-    "techniques": [ "WBLOCK_1" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "techniques": [
+      "WBLOCK_1"
+    ],
+    "flags": [
+      "OVERSIZE",
+      "BELTED",
+      "RESTRICT_HANDS",
+      "BLOCK_WHILE_WORN"
+    ]
   },
   {
     "//1": "薙刀+日本刀+野太刀+フォークスピアを足して割った性能。威力的にも性能違いの小型ハルバードといった感じ。",
@@ -148,29 +284,83 @@
     "volume": "3 L",
     "price": "800 USD",
     "to_hit": 2,
-    "melee_damage": { "bash": 8, "cut": 35 },
-    "material": [ "wood", "steel" ],
-    "techniques": [ "WBLOCK_1", "DEF_DISARM", "WIDE", "BRUTAL" ],
-    "flags": [ "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "DURABLE_MELEE" ],
-    "qualities": [ [ "COOK", 1 ], [ "CUT", 1 ], [ "BUTCHER", -24 ] ]
+    "melee_damage": {
+      "bash": 8,
+      "cut": 35
+    },
+    "material": [
+      "wood",
+      "steel"
+    ],
+    "techniques": [
+      "WBLOCK_1",
+      "DEF_DISARM",
+      "WIDE",
+      "BRUTAL"
+    ],
+    "flags": [
+      "REACH_ATTACK",
+      "NONCONDUCTIVE",
+      "SHEATH_SPEAR",
+      "DURABLE_MELEE"
+    ],
+    "qualities": [
+      [
+        "COOK",
+        1
+      ],
+      [
+        "CUT",
+        1
+      ],
+      [
+        "BUTCHER",
+        -24
+      ]
+    ]
   },
   {
     "id": "voiro_knife_kiritan",
     "type": "TOOL_ARMOR",
-    "category" : "weapons",
+    "category": "weapons",
     "name": "包丁(東北きりたん)[voiro]",
     "description": "秋田の「なまはげ」の角とナタを彷彿とさせるアクセサリーです。いずこより飛来し、たんぽを両断するときりたんの頭にセットされていました。",
     "weight": "550 g",
     "volume": "500 ml",
     "price": "200 USD",
     "to_hit": 1,
-    "melee_damage": { "bash": 2, "cut": 12 },
-    "material": [ "steel" ],
+    "melee_damage": {
+      "bash": 2,
+      "cut": 12
+    },
+    "material": [
+      "steel"
+    ],
     "symbol": "[",
     "color": "light_gray",
-    "techniques": [ "WBLOCK_1" ],
-    "flags": [ "BELTED", "FANCY", "WATER_FRIENDLY", "ALWAYS_TWOHAND" ],
-    "qualities": [ [ "CUT", 1 ], [ "CUT_FINE", 1 ], [ "BUTCHER", 15 ] ]
+    "techniques": [
+      "WBLOCK_1"
+    ],
+    "flags": [
+      "BELTED",
+      "FANCY",
+      "WATER_FRIENDLY",
+      "ALWAYS_TWOHAND"
+    ],
+    "qualities": [
+      [
+        "CUT",
+        1
+      ],
+      [
+        "CUT_FINE",
+        1
+      ],
+      [
+        "BUTCHER",
+        15
+      ]
+    ]
   },
   {
     "type": "uncraft",
@@ -178,8 +368,18 @@
     "activity_level": "LIGHT_EXERCISE",
     "time": "5 m",
     "components": [
-      [ [ "knife_vegetable_cleaver", 2 ] ],
-      [ [ "string_6", 2 ] ]
+      [
+        [
+          "knife_vegetable_cleaver",
+          2
+        ]
+      ],
+      [
+        [
+          "string_6",
+          2
+        ]
+      ]
     ]
   },
   {
@@ -189,10 +389,14 @@
     "description": "たんちゃんの半身にあたる巨大な二門のきりたんぽ。普段は味噌が詰まっている筈ですが、何故か今は40mmグレネード弾が詰まっています。",
     "weight": "4 kg",
     "volume": "5 L",
-    "melee_damage": { "bash": 8 },
+    "melee_damage": {
+      "bash": 8
+    },
     "to_hit": -3,
     "price": "0 cent",
-    "material": [ "veggy" ],
+    "material": [
+      "veggy"
+    ],
     "flags": [
       "RELOAD_ONE",
       "BELTED",
@@ -207,11 +411,21 @@
     "armor_data": {
       "armor": [
         {
-          "material": [ { "type": "veggy", "covered_by_mat": 100, "thickness": 6.0 } ],
-          "encumbrance":  10,
+          "material": [
+            {
+              "type": "veggy",
+              "covered_by_mat": 100,
+              "thickness": 6.0
+            }
+          ],
+          "encumbrance": 10,
           "coverage": 40,
-          "covers": [ "torso" ],
-          "specifically_covers": [ "torso_hanging_back" ]
+          "covers": [
+            "torso"
+          ],
+          "specifically_covers": [
+            "torso_hanging_back"
+          ]
         }
       ]
     },
@@ -222,10 +436,31 @@
     "durability": 10,
     "clip_size": 8,
     "reload": 300,
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "40x46mm": 8 } } ],
+    "pocket_data": [
+      {
+        "pocket_type": "MAGAZINE",
+        "rigid": true,
+        "ammo_restriction": {
+          "40x46mm": 8
+        }
+      }
+    ],
     "modes": [
-      [ "DEFAULT", "single", 1, "NPC_AVOID" ],
-      [ "MULTI", "multi", 2, [ "NPC_AVOID", "SIMULTANEOUS" ] ]
+      [
+        "DEFAULT",
+        "single",
+        1,
+        "NPC_AVOID"
+      ],
+      [
+        "MULTI",
+        "multi",
+        2,
+        [
+          "NPC_AVOID",
+          "SIMULTANEOUS"
+        ]
+      ]
     ]
   },
   {
@@ -239,19 +474,41 @@
     "volume": "2 L",
     "price": "390 USD",
     "to_hit": 1,
-    "melee_damage": { "bash": 18, "cut": 14 },
+    "melee_damage": {
+      "bash": 18,
+      "cut": 14
+    },
     "longest_side": "40 cm",
-    "material": [ "wood" ],
+    "material": [
+      "wood"
+    ],
     "symbol": "/",
     "color": "green",
-    "techniques": [ "RAPID", "WBLOCK_2", "BRUTAL" ],
-    "flags": [ "DURABLE_MELEE", "FANCY", "SHEATH_SWORD" ],
-    "qualities": [ [ "CUT", 1 ], [ "BUTCHER", -20 ] ],
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_bottle_sake",
-      "msg" : "一升瓶に変化しました。"
+    "techniques": [
+      "RAPID",
+      "WBLOCK_2",
+      "BRUTAL"
+    ],
+    "flags": [
+      "DURABLE_MELEE",
+      "FANCY",
+      "SHEATH_SWORD"
+    ],
+    "qualities": [
+      [
+        "CUT",
+        1
+      ],
+      [
+        "BUTCHER",
+        -20
+      ]
+    ],
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_bottle_sake",
+      "msg": "一升瓶に変化しました。"
     }
   },
   {
@@ -267,7 +524,9 @@
     "longest_side": "40 cm",
     "price": "1 USD",
     "to_hit": 1,
-    "melee_damage": { "bash": 20 },
+    "melee_damage": {
+      "bash": 20
+    },
     "material": "glass",
     "symbol": ")",
     "color": "brown",
@@ -278,16 +537,23 @@
         "rigid": true,
         "max_contains_volume": "1800 ml",
         "max_contains_weight": "4 kg",
-        "sealed_data": { "spoil_multiplier": 0.0 },
+        "sealed_data": {
+          "spoil_multiplier": 0.0
+        },
         "moves": 400
       }
     ],
-    "qualities": [ [ "BOIL", 1 ] ],
-    "use_action" : {
-      "menu_text" : "使用する",
-      "type" : "transform",
-      "target" : "voiro_negi",
-      "msg" : "長ネギに変化しました。"
+    "qualities": [
+      [
+        "BOIL",
+        1
+      ]
+    ],
+    "use_action": {
+      "menu_text": "使用する",
+      "type": "transform",
+      "target": "voiro_negi",
+      "msg": "長ネギに変化しました。"
     }
   },
   {
@@ -301,32 +567,83 @@
     "volume": "3250 ml",
     "price": "780 USD",
     "to_hit": 1,
-    "melee_damage": { "bash": 28, "cut": 24 },
-    "material": [ "wood" ],
+    "melee_damage": {
+      "bash": 28,
+      "cut": 24
+    },
+    "material": [
+      "wood"
+    ],
     "symbol": "/",
     "color": "green",
-    "techniques": [ "RAPID", "WBLOCK_3", "WIDE", "BRUTAL" ],
-    "flags": [ "DURABLE_MELEE", "FANCY", "SHEATH_SWORD", "ALWAYS_TWOHAND" ],
-    "qualities": [ [ "CUT", 1 ], [ "BUTCHER", -20 ] ]
+    "techniques": [
+      "RAPID",
+      "WBLOCK_3",
+      "WIDE",
+      "BRUTAL"
+    ],
+    "flags": [
+      "DURABLE_MELEE",
+      "FANCY",
+      "SHEATH_SWORD",
+      "ALWAYS_TWOHAND"
+    ],
+    "qualities": [
+      [
+        "CUT",
+        1
+      ],
+      [
+        "BUTCHER",
+        -20
+      ]
+    ]
   },
   {
     "type": "GENERIC",
     "id": "voiro_spear_pipe_metan",
-    "name": { "str": "『天恵』のハイド" },
+    "name": {
+      "str": "『天恵』のハイド"
+    },
     "description": "巨大ドリル付きの槍です。エネルギー不足で困っている人を探知できるとのことです。",
     "weight": "3890 g",
     "price_postapoc": "2 USD 50 cent",
     "color": "light_gray",
     "symbol": "/",
-    "material": [ "steel" ],
-    "techniques": [ "WBLOCK_1", "IMPALE" ],
+    "material": [
+      "steel"
+    ],
+    "techniques": [
+      "WBLOCK_1",
+      "IMPALE"
+    ],
     "volume": "1135 ml",
     "longest_side": "184 cm",
-    "melee_damage": { "bash": 6, "cut": 29 },
-    "to_hit": { "grip": "weapon", "length": "long", "surface": "point", "balance": "neutral" },
-    "flags": [ "SPEAR", "REACH_ATTACK", "SHEATH_SPEAR", "DURABLE_MELEE" ],
-    "weapon_category": [ "POLEARMS" ],
+    "melee_damage": {
+      "bash": 6,
+      "cut": 29
+    },
+    "to_hit": {
+      "grip": "weapon",
+      "length": "long",
+      "surface": "point",
+      "balance": "neutral"
+    },
+    "flags": [
+      "SPEAR",
+      "REACH_ATTACK",
+      "SHEATH_SPEAR",
+      "DURABLE_MELEE"
+    ],
+    "weapon_category": [
+      "POLEARMS"
+    ],
     "price": "80 USD",
-    "qualities": [ [ "COOK", 1 ] ]
+    "qualities": [
+      [
+        "COOK",
+        1
+      ]
+    ]
   }
 ]

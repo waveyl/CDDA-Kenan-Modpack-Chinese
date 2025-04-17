@@ -38,7 +38,7 @@
       ]
     ],
     "melee_damage": {
-    "bash": 22
+      "bash": 22
     },
     "weapon_category": [
       "MACES"
@@ -149,8 +149,19 @@
     "name": "Ignition",
     "weighting": 100,
     "description": "Ignite your enemy with a searing strike",
-    "messages": [ "You ignite the air around %s", "<npcname> ignites the air around %s" ],
-    "tech_effects": [ { "id": "onfire", "chance": 100, "duration": 100, "on_damage": true, "message": "%s is set on fire!" } ]
+    "messages": [
+      "You ignite the air around %s",
+      "<npcname> ignites the air around %s"
+    ],
+    "tech_effects": [
+      {
+        "id": "onfire",
+        "chance": 100,
+        "duration": 100,
+        "on_damage": true,
+        "message": "%s is set on fire!"
+      }
+    ]
   },
   {
     "type": "technique",
@@ -159,9 +170,16 @@
     "melee_allowed": true,
     "weighting": 100,
     "description": "A slower attack that emphasises a weapon's burning nature",
-    "messages": [ "You slam the burning edge into %s", "<npcname> slams the burning edge into %s" ],
+    "messages": [
+      "You slam the burning edge into %s",
+      "<npcname> slams the burning edge into %s"
+    ],
     "mult_bonuses": [
-      { "stat": "damage", "type": "heat", "scale": 1.3 }
+      {
+        "stat": "damage",
+        "type": "heat",
+        "scale": 1.3
+      }
     ]
   },
   {

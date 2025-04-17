@@ -11,16 +11,21 @@
     "volume": "1250 ml",
     "price": "500 USD",
     "price_postapoc": "18 USD",
-    "melee_damage": { "bash": 5 },
-    "material": [ "paper", "plastic" ],
+    "melee_damage": {
+      "bash": 5
+    },
+    "material": [
+      "paper",
+      "plastic"
+    ],
     "symbol": "?",
     "color": "light_red",
-    "skill": "chemistry",
     "required_level": 6,
     "max_level": 7,
     "intelligence": 13,
     "time": "25 m",
-    "fun": -1
+    "read_skill": "chemistry",
+    "read_fun": -1
   },
   {
     "id": "secro_recipe_flesh_field",
@@ -34,15 +39,20 @@
     "volume": "455 ml",
     "price": "5 USD",
     "price_postapoc": "1 USD",
-    "melee_damage": { "bash": 1 },
-    "material": [ "paper", "plastic" ],
+    "melee_damage": {
+      "bash": 1
+    },
+    "material": [
+      "paper",
+      "plastic"
+    ],
     "symbol": "?",
     "color": "light_red",
-    "skill": "chemistry",
     "required_level": 0,
     "max_level": 1,
     "intelligence": 10,
     "time": "10 m",
-    "fun": -1
+    "read_skill": "chemistry",
+    "read_fun": -1
   }
 ]

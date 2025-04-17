@@ -13,7 +13,9 @@
     "color": "yellow",
     "armor": [
       {
-        "covers": [ "head" ],
+        "covers": [
+          "head"
+        ],
         "coverage": 50,
         "encumbrance": 4
       }
@@ -21,7 +23,10 @@
     "warmth": 5,
     "material_thickness": 1,
     "environmental_protection": 2,
-    "flags": [ "VARSIZE", "SUN_GLASSES" ]
+    "flags": [
+      "VARSIZE",
+      "SUN_GLASSES"
+    ]
   },
   {
     "id": "voiro_smock_ai",
@@ -31,17 +36,41 @@
     "weight": "82 g",
     "volume": "250 ml",
     "price": "10 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "pink",
     "armor": [
-      { "coverage": 100, "covers": [ "torso", "arm_l", "arm_r" ] },
-      { "coverage": 15, "covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_hip_l", "leg_hip_r" ], "encumbrance": 5 }
+      {
+        "coverage": 100,
+        "covers": [
+          "torso",
+          "arm_l",
+          "arm_r"
+        ]
+      },
+      {
+        "coverage": 15,
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
+        "encumbrance": 5
+      }
     ],
     "warmth": 15,
     "material_thickness": 1,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "OUTER", "POCKETS" ]
+    "flags": [
+      "VARSIZE",
+      "OUTER",
+      "POCKETS"
+    ]
   },
   {
     "id": "voiro_pumpkinpants_ai",
@@ -52,10 +81,14 @@
     "weight": "460 g",
     "volume": "25 ml",
     "price": "12 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_socks_ai",
@@ -67,23 +100,45 @@
     "volume": "250 ml",
     "price": "8 USD",
     "armor": [
-      { "encumbrance": 5, "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
       {
-        "covers": [ "leg_l"],
-        "specifically_covers": [ "leg_lower_l", "leg_knee_l", "leg_upper_l" ],
+        "encumbrance": 5,
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_knee_l",
+          "leg_upper_l"
+        ],
         "coverage": 70,
         "encumbrance": 4
       },
       {
-        "covers": [ "leg_r" ],
-        "specifically_covers": [ "leg_lower_r","leg_knee_r", "leg_upper_r" ],
+        "covers": [
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_r",
+          "leg_knee_r",
+          "leg_upper_r"
+        ],
         "coverage": 30,
         "encumbrance": 4
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_shoes_ai",
@@ -95,7 +150,9 @@
     "volume": "1250 ml",
     "price": "60 USD",
     "environmental_protection": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_sailor_outfit_shota",
@@ -107,16 +164,29 @@
     "price": "42 USD",
     "color": "light_blue",
     "armor": [
-      { "coverage": 85, "covers": [ "torso" ] },
+      {
+        "coverage": 85,
+        "covers": [
+          "torso"
+        ]
+      },
       {
         "coverage": 100,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r"
+        ]
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_shorts_denim_shota",
@@ -129,7 +199,21 @@
     "price": "24 USD",
     "color": "light_blue",
     "armor": [
-      {"coverage": 100,"covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_hip_l", "leg_hip_r" ], "encumbrance": [ 1, 2 ] }
+      {
+        "coverage": 100,
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
+        "encumbrance": [
+          1,
+          2
+        ]
+      }
     ],
     "warmth": 5,
     "material_thickness": 3,
@@ -139,11 +223,15 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "90 cm",
         "moves": 50,
-        "flag_restriction": [ "BELT_CLIP" ],
+        "flag_restriction": [
+          "BELT_CLIP"
+        ],
         "holster": true
       }
     ],
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_arm_warmers_shota",
@@ -156,16 +244,30 @@
       {
         "encumbrance": 1,
         "coverage": 80,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_lower_l", "arm_lower_r", "arm_elbow_l", "arm_elbow_r"  ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r",
+          "arm_elbow_l",
+          "arm_elbow_r"
+        ]
       },
       {
-        "covers": [ "hand_l", "hand_r" ],
+        "covers": [
+          "hand_l",
+          "hand_r"
+        ],
         "coverage": 60
       }
     ],
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_sneakers_shota",
@@ -176,7 +278,12 @@
     "weight": "640 g",
     "volume": "1500 ml",
     "price": "120 USD",
-    "material": [ "neoprene", "leather", "cotton", "rubber" ]
+    "material": [
+      "neoprene",
+      "leather",
+      "cotton",
+      "rubber"
+    ]
   },
   {
     "id": "voiro_hoodie_yukari",
@@ -185,14 +292,40 @@
     "name": "パーカー(結月ゆかり)[voiro]",
     "description": "裏地にピンクをあしらった可愛らしいうさみみパーカーです。",
     "weight": "520 g",
-    "price": "180 USD",				"//": "現実でCOSPA,inc.さんで扱っている結月ゆかりパーカーの値段(日本円)。",
+    "price": "180 USD",
+    "//": "現実でCOSPA,inc.さんで扱っている結月ゆかりパーカーの値段(日本円)。",
     "color": "pink",
     "armor": [
-      { "covers": [ "torso" ], "coverage": 80, "encumbrance": [ 6, 12 ] },
-      { "covers": [ "arm_l", "arm_r" ], "coverage": 95, "encumbrance": [ 6, 6 ] }
+      {
+        "covers": [
+          "torso"
+        ],
+        "coverage": 80,
+        "encumbrance": [
+          6,
+          12
+        ]
+      },
+      {
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "coverage": 95,
+        "encumbrance": [
+          6,
+          6
+        ]
+      }
     ],
     "material_thickness": 3,
-    "flags": [ "VARSIZE", "OUTER", "POCKETS", "HOOD", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "OUTER",
+      "POCKETS",
+      "HOOD",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_yukari",
@@ -203,19 +336,35 @@
     "weight": "480 g",
     "volume": "1250 ml",
     "price": "80 USD",
-    "material": [ "cotton", "plastic" ],
+    "material": [
+      "cotton",
+      "plastic"
+    ],
     "color": "light_cyan",
     "armor": [
-      { "coverage": 65, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_hip_l", "leg_hip_r" ],
+        "coverage": 65,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_arm_covers_yukari",
@@ -231,13 +380,26 @@
       {
         "encumbrance": 1,
         "coverage": 80,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_lower_l", "arm_lower_r", "arm_elbow_l", "arm_elbow_r", "arm_upper_l","arm_upper_r"  ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r",
+          "arm_elbow_l",
+          "arm_elbow_r",
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_socks_yukari",
@@ -250,16 +412,36 @@
     "price": "10 USD",
     "color": "light_cyan",
     "armor": [
-      { "encumbrance": 5, "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r" ],
+        "encumbrance": 5,
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r",
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r"
+        ],
         "coverage": 70
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_shoes_yukari",
@@ -272,31 +454,44 @@
     "price": "98 USD",
     "color": "pink",
     "environmental_protection": 1,
-    "flags": [ "VARSIZE","FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_gobag_yukari",
     "type": "ARMOR",
     "name": "個人用ゴーバッグ(結月ゆかり)[voiro]",
     "description": "両脇にバックパックが付属した巨大なダッフルバッグです。ゆかりさんがゾンビ退治の為にまとめたもののようです。使用して中身を取り出し、活用しましょう。",
-    "use_action": { "type": "unpack", "group": "gobag_contents_yukari", "items_fit": true, "filthy_volume_threshold": "10 L" },
+    "use_action": {
+      "type": "unpack",
+      "group": "gobag_contents_yukari",
+      "items_fit": true,
+      "filthy_volume_threshold": "10 L"
+    },
     "copy-from": "gobag"
   },
   {
     "id": "voiro_aliceband_zunko",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "カチューシャ(東北ずん子)[voiro]",
     "description": "アリスバンドと呼ばれる頭部の装身具です。枝豆を模したずん子の物は枝豆カチューシャ、ずんだカチューシャと呼ばれています。",
     "weight": "26 g",
     "volume": "1 ml",
     "price": "42 USD",
-    "material": [ "plastic", "cotton" ],
+    "material": [
+      "plastic",
+      "cotton"
+    ],
     "symbol": "[",
     "color": "green",
     "armor": [
       {
-        "covers": [ "head" ],
+        "covers": [
+          "head"
+        ],
         "coverage": 10,
         "encumbrance": 2
       }
@@ -304,7 +499,10 @@
     "warmth": 5,
     "material_thickness": 1,
     "environmental_protection": 1,
-    "flags": [ "FANCY", "SKINTIGHT" ]
+    "flags": [
+      "FANCY",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_kimono_zunko",
@@ -317,23 +515,64 @@
     "price": "1600 USD",
     "color": "green",
     "armor": [
-      { "covers": [ "torso" ], "specifically_covers": [ "torso_lower" ], "coverage": 100, "encumbrance": [ 2, 5 ] },
-      { "covers": [ "torso" ], "specifically_covers": [ "torso_upper" ], "coverage": 95 },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_hip_l", "leg_hip_r" ],
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_lower"
+        ],
+        "coverage": 100,
+        "encumbrance": [
+          2,
+          5
+        ]
+      },
+      {
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_upper"
+        ],
+        "coverage": 95
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       },
       {
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r", "arm_upper_r", "arm_upper_l" ],
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r",
+          "arm_upper_r",
+          "arm_upper_l"
+        ],
         "coverage": 70,
-        "encumbrance": [ 2, 2 ]
+        "encumbrance": [
+          2,
+          2
+        ]
       }
     ],
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "POCKETS", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS",
+      "FANCY"
+    ]
   },
   {
     "//": "※和服mod、和装modより説明文を拝借しました。",
@@ -345,11 +584,16 @@
     "weight": "270 g",
     "volume": "750 ml",
     "price": "48 USD",
-    "material": [ "leather" ],
+    "material": [
+      "leather"
+    ],
     "color": "light_gray",
     "warmth": 5,
     "material_thickness": 2,
-    "flags": [ "VARSIZE", "BELTED" ]
+    "flags": [
+      "VARSIZE",
+      "BELTED"
+    ]
   },
   {
     "//": "東北三姉妹の履物は下駄の可能性もあるが形状的に草履っぽいので草履で統一する。",
@@ -361,27 +605,40 @@
     "weight": "280 g",
     "volume": "1 L",
     "price": "80 USD",
-    "melee_damage": { "bash": 2 },
-    "material": [ "leather", "cotton" ],
+    "melee_damage": {
+      "bash": 2
+    },
+    "material": [
+      "leather",
+      "cotton"
+    ],
     "color": "green",
     "warmth": 5,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_aliceband_tsuzumi",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "カチューシャ(すずきつづみ)[voiro]",
     "description": "アリスバンドと呼ばれる頭部の装身具です。",
     "weight": "20 g",
     "volume": "1 ml",
     "price": "8 USD",
-    "material": [ "plastic" ],
+    "material": [
+      "plastic"
+    ],
     "symbol": "[",
     "color": "blue",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_blouse_tsuzumi",
@@ -408,7 +665,9 @@
     "color": "white",
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_sandals_tsuzumi",
@@ -421,22 +680,31 @@
     "price": "80 USD",
     "color": "blue",
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "WATER_FRIENDLY", "ALLOWS_NATURAL_ATTACKS", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATER_FRIENDLY",
+      "ALLOWS_NATURAL_ATTACKS",
+      "FANCY"
+    ]
   },
   {
     "//": "スキンヘッドのキャラで装備しない限りは他のキャラで装備しても見た目の違和感は無いと思う。",
     "id": "voiro_ornament_akane",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "髪飾り(琴葉茜)[voiro]",
     "description": "紅い紐飾りと、矢絣という柄のリボンで作られた和風の髪飾りです。",
     "weight": "107 g",
     "volume": "1 ml",
     "price": "18 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "red",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_akane",
@@ -449,10 +717,23 @@
     "price": "60 USD",
     "color": "red",
     "armor": [
-      { "coverage": 90, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 90,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_upper_l",
+          "leg_upper_r",
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 80
       }
     ],
@@ -473,13 +754,25 @@
       {
         "encumbrance": 1,
         "coverage": 100,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_lower_l", "arm_lower_r", "arm_elbow_l", "arm_elbow_r", "arm_upper_l", "arm_upper_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r",
+          "arm_elbow_l",
+          "arm_elbow_r",
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_socks_akane",
@@ -492,17 +785,37 @@
     "price": "10 USD",
     "color": "light_blue",
     "armor": [
-      { "encumbrance": 5, "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r" ],
+        "encumbrance": 5,
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r",
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r"
+        ],
         "coverage": 30,
         "encumbrance": 4
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_boots_akane",
@@ -517,21 +830,28 @@
     "warmth": 15,
     "material_thickness": 2,
     "environmental_protection": 2,
-    "flags": [ "VARSIZE", "WATERPROOF" ]
-  }, 
-  { 
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF"
+    ]
+  },
+  {
     "id": "voiro_ornament_aoi",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "髪飾り(琴葉葵)[voiro]",
     "description": "蒼い紐飾りと、矢絣という柄のリボンで作られた和風の髪飾りです。",
     "weight": "107 g",
     "volume": "1 ml",
     "price": "18 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "light_blue",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_aoi",
@@ -579,11 +899,15 @@
       {
         "encumbrance": 10,
         "coverage": 15,
-        "covers": [ "head" ]
+        "covers": [
+          "head"
+        ]
       }
     ],
     "material_thickness": 2,
-    "flags": [ "SUPER_FANCY" ]
+    "flags": [
+      "SUPER_FANCY"
+    ]
   },
   {
     "//1": "羽衣部分は(プレイヤーが)着衣の並べ替えを頑張らなければいけなくなるのでオミットしました。",
@@ -597,18 +921,42 @@
     "price": "210 USD",
     "color": "pink",
     "armor": [
-      { "coverage": 65, "covers": [ "torso" ] },
-      { "coverage": 90, "covers": [ "arm_l", "arm_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 65,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "coverage": 90,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r",
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
     "warmth": 20,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_tights_galaco",
@@ -617,7 +965,10 @@
     "name": "タイツ(ギャラ子)[voiro]",
     "description": "脚と足にしっかりと密着する布製のタイツです。ストッキングの伝線のような斑点模様があるのがギャラ子仕様です。",
     "price": "25 USD",
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "//1": "ヒールを白く塗っている絵師さんはお一方しか確認出来なかったが、公式設定画の真横図だと白かった。",
@@ -630,20 +981,49 @@
     "price": "70 USD",
     "armor": [
       {
-        "covers": [ "foot_l", "foot_r" ],
-        "specifically_covers": [ "foot_heel_r", "foot_heel_l", "foot_toes_r", "foot_toes_l" ],
-        "material": [ { "type": "leather", "covered_by_mat": 100, "thickness": 1 } ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "specifically_covers": [
+          "foot_heel_r",
+          "foot_heel_l",
+          "foot_toes_r",
+          "foot_toes_l"
+        ],
+        "material": [
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 1
+          }
+        ],
         "encumbrance": 30,
         "coverage": 80
       },
       {
-        "covers": [ "foot_l", "foot_r" ],
-        "specifically_covers": [ "foot_sole_r", "foot_sole_l" ],
-        "material": [ { "type": "leather", "covered_by_mat": 100, "thickness": 2.0 } ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "specifically_covers": [
+          "foot_sole_r",
+          "foot_sole_l"
+        ],
+        "material": [
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 2.0
+          }
+        ],
         "coverage": 90
       }
     ],
-    "flags": [ "VARSIZE", "SUPER_FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "SUPER_FANCY"
+    ]
   },
   {
     "//1": "アイテムでは検索しやすいようにONE表記。",
@@ -656,19 +1036,36 @@
     "weight": "330 g",
     "volume": "1250 ml",
     "price": "140 USD",
-    "material": [ "cotton", "leather" ],
+    "material": [
+      "cotton",
+      "leather"
+    ],
     "color": "light_red",
     "armor": [
-      { "coverage": 65, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": ["leg_hip_l", "leg_hip_r" ],
+        "coverage": 65,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_arm_covers_one",
@@ -684,17 +1081,33 @@
       {
         "encumbrance": 1,
         "coverage": 100,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_lower_l", "arm_lower_r", "arm_elbow_l", "arm_elbow_r", "arm_upper_l", "arm_upper_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r",
+          "arm_elbow_l",
+          "arm_elbow_r",
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
       },
       {
-        "covers": [ "hand_l", "hand_r" ],
+        "covers": [
+          "hand_l",
+          "hand_r"
+        ],
         "coverage": 40
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "//": "白の三本ラインは表現出来なかったのでオミット。",
@@ -707,23 +1120,43 @@
     "volume": "250 ml",
     "price": "32 USD",
     "armor": [
-      { "covers": [ "foot_l", "foot_r" ] ,"coverage": 100 },
       {
-        "covers": [ "leg_r" ],
-        "specifically_covers": [ "leg_lower_r", "leg_knee_r", "leg_upper_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "coverage": 100
+      },
+      {
+        "covers": [
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_r",
+          "leg_knee_r",
+          "leg_upper_r"
+        ],
         "coverage": 70,
         "encumbrance": 4
       },
       {
-        "covers": [ "leg_l" ],
-        "specifically_covers": [ "leg_lower_l", "leg_knee_l" ],
+        "covers": [
+          "leg_l"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_knee_l"
+        ],
         "coverage": 90,
         "encumbrance": 4
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_boots_one",
@@ -735,19 +1168,36 @@
     "volume": "2500 ml",
     "price": "105 USD",
     "color": "light_red",
-   "armor": [
+    "armor": [
       {
-        "covers": [ "foot_l", "foot_r" ],
-        "specifically_covers": [ "foot_sole_r", "foot_sole_l" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "specifically_covers": [
+          "foot_sole_r",
+          "foot_sole_l"
+        ],
         "material": [
-          { "type": "leather", "covered_by_mat": 100, "thickness": 0.1 },
-          { "type": "rubber", "covered_by_mat": 100, "thickness": 4.0 }
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 0.1
+          },
+          {
+            "type": "rubber",
+            "covered_by_mat": 100,
+            "thickness": 4.0
+          }
         ],
         "coverage": 100,
         "encumbrance": 20
       },
       {
-        "covers": [ "foot_l", "foot_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
         "specifically_covers": [
           "foot_heel_r",
           "foot_heel_l",
@@ -758,12 +1208,24 @@
           "foot_ankle_l",
           "foot_ankle_r"
         ],
-        "material": [ { "type": "leather", "covered_by_mat": 100, "thickness": 2.0 } ],
+        "material": [
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 2.0
+          }
+        ],
         "coverage": 100
       },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r" ],
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r"
+        ],
         "coverage": 100,
         "encumbrance": 12
       }
@@ -778,24 +1240,33 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "70 cm",
         "moves": 3,
-        "flag_restriction": [ "SHEATH_KNIFE" ]
+        "flag_restriction": [
+          "SHEATH_KNIFE"
+        ]
       }
     ],
-    "flags": [ "VARSIZE", "WATERPROOF" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF"
+    ]
   },
   {
     "id": "voiro_choker",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "チョーカー(IA・ONE)[voiro]",
     "description": "Lをふたつ対極させた様なマークが付いたチョーカーです。",
     "weight": "20 g",
     "volume": "1 ml",
     "price": "38 USD",
-    "material": [ "leather" ],
+    "material": [
+      "leather"
+    ],
     "symbol": "[",
     "color": "dark_gray",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "//": "「Zoff社製～」同僚の氷山キヨテルの愛用眼鏡がZoff社製。なら水奈瀬コウの眼鏡もZoff社製だろうという創作です。",
@@ -810,12 +1281,25 @@
     "color": "red",
     "armor": [
       {
-        "covers": [ "eyes" ],
+        "covers": [
+          "eyes"
+        ],
         "coverage": 75
       }
     ],
-    "use_action": { "type": "firestarter", "moves": 1000, "moves_slow": 25000, "need_sunlight": true },
-    "flags": [ "WATER_FRIENDLY", "FANCY", "FIRESTARTER", "FIX_NEARSIGHT", "FIX_FARSIGHT" ]
+    "use_action": {
+      "type": "firestarter",
+      "moves": 1000,
+      "moves_slow": 25000,
+      "need_sunlight": true
+    },
+    "flags": [
+      "WATER_FRIENDLY",
+      "FANCY",
+      "FIRESTARTER",
+      "FIX_NEARSIGHT",
+      "FIX_FARSIGHT"
+    ]
   },
   {
     "id": "voiro_hoodie_kou",
@@ -829,7 +1313,12 @@
     "color": "green",
     "warmth": 30,
     "material_thickness": 3,
-    "flags": [ "VARSIZE", "OUTER", "POCKETS", "HOOD" ]
+    "flags": [
+      "VARSIZE",
+      "OUTER",
+      "POCKETS",
+      "HOOD"
+    ]
   },
   {
     "id": "voiro_jacket_kou",
@@ -841,11 +1330,46 @@
     "volume": "2 L",
     "price": "70 USD",
     "armor": [
-      { "covers": [ "torso" ], "specifically_covers": [ "torso_lower" ], "coverage": 100, "encumbrance": [ 0, 0 ] },
-      { "covers": [ "torso" ], "specifically_covers": [ "torso_upper" ], "coverage": 95 },
-      { "covers": [ "arm_l", "arm_r" ], "coverage": 100, "encumbrance": [5, 5 ] }
+      {
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_lower"
+        ],
+        "coverage": 100,
+        "encumbrance": [
+          0,
+          0
+        ]
+      },
+      {
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_upper"
+        ],
+        "coverage": 95
+      },
+      {
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "coverage": 100,
+        "encumbrance": [
+          5,
+          5
+        ]
+      }
     ],
-    "flags": [ "VARSIZE", "FANCY", "POCKETS", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY",
+      "POCKETS",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_jeans_kou",
@@ -857,7 +1381,10 @@
     "volume": "2250 ml",
     "price": "120 USD",
     "material_thickness": 3,
-    "flags": [ "VARSIZE", "POCKETS" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS"
+    ]
   },
   {
     "id": "voiro_sneakers_kou",
@@ -868,9 +1395,17 @@
     "weight": "800 g",
     "volume": "2 L",
     "price": "180 USD",
-    "material": [ "cotton", "leather","rubber" ],
+    "material": [
+      "cotton",
+      "leather",
+      "rubber"
+    ],
     "color": "white",
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_glasses_seika",
@@ -879,7 +1414,13 @@
     "name": "眼鏡(京町セイカ)[voiro]",
     "description": "時空監査院より時空監視員に支給される「対光学迷彩グラス」のレプリカです。使用すると太陽光を一点に集中させます。",
     "color": "red",
-    "flags": [ "WATER_FRIENDLY", "FANCY", "FIRESTARTER", "FIX_NEARSIGHT", "FIX_FARSIGHT" ]
+    "flags": [
+      "WATER_FRIENDLY",
+      "FANCY",
+      "FIRESTARTER",
+      "FIX_NEARSIGHT",
+      "FIX_FARSIGHT"
+    ]
   },
   {
     "id": "voiro_dress_shirt_seika",
@@ -893,14 +1434,19 @@
     "color": "white",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 80,
         "encumbrance": 5
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_vest_seika",
@@ -910,19 +1456,27 @@
     "weight": "242 g",
     "volume": "500 ml",
     "price": "40 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "green",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 80,
         "encumbrance": 6
       }
     ],
     "warmth": 15,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "POCKETS", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_arm_covers_seika",
@@ -938,13 +1492,26 @@
       {
         "encumbrance": 1,
         "coverage": 70,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_lower_l", "arm_lower_r", "arm_elbow_l", "arm_elbow_r", "arm_upper_l", "arm_upper_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r",
+          "arm_elbow_l",
+          "arm_elbow_r",
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
       }
     ],
     "warmth": 15,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_skirt_seika",
@@ -957,7 +1524,10 @@
     "price": "50 USD",
     "color": "green",
     "warmth": 10,
-    "flags": [ "VARSIZE", "POCKETS" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS"
+    ]
   },
   {
     "id": "voiro_socks_seika",
@@ -970,17 +1540,37 @@
     "price": "10 USD",
     "color": "green",
     "armor": [
-      { "encumbrance": 5, "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r" ],
+        "encumbrance": 5,
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r",
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r"
+        ],
         "coverage": 70,
         "encumbrance": 4
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "//": "ブーツだけどヒールが高いので、ハイヒール(ギャラ子)と同じ動作制限にした。",
@@ -1001,10 +1591,16 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "70 cm",
         "moves": 3,
-        "flag_restriction": [ "SHEATH_KNIFE" ]
+        "flag_restriction": [
+          "SHEATH_KNIFE"
+        ]
       }
     ],
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_akari",
@@ -1017,21 +1613,42 @@
     "price": "130 USD",
     "color": "dark_gray",
     "armor": [
-      { "coverage": 90, "covers": [ "torso" ] },
       {
-        "coverage": 100,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r" ]
+        "coverage": 90,
+        "covers": [
+          "torso"
+        ]
       },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_upper_l", "leg_upper_r", "leg_hip_l", "leg_hip_r" ],
+        "coverage": 100,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_upper_l",
+          "leg_upper_r",
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 70
       }
     ],
     "warmth": 15,
     "material_thickness": 2,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_jacket_akari",
@@ -1041,9 +1658,20 @@
     "description": "航空機パイロットが着用するフライトジャケットを模して作られた民生品です。防水加工と、中に綿が詰まっていて温かいです。",
     "weight": "600 g",
     "volume": "3 L",
-    "price": "198 USD",				"//": "現実でOctober Beastさんで扱っていた紲星あかりフライトジャケットの値段(日本円)。",
-    "material": [ "leather", "cotton" ],
-    "flags": [ "VARSIZE", "FANCY", "POCKETS", "OUTER", "WATERPROOF", "RAINPROOF" ]
+    "price": "198 USD",
+    "//": "現実でOctober Beastさんで扱っていた紲星あかりフライトジャケットの値段(日本円)。",
+    "material": [
+      "leather",
+      "cotton"
+    ],
+    "flags": [
+      "VARSIZE",
+      "FANCY",
+      "POCKETS",
+      "OUTER",
+      "WATERPROOF",
+      "RAINPROOF"
+    ]
   },
   {
     "id": "voiro_arm_warmers_akari",
@@ -1060,15 +1688,29 @@
       {
         "encumbrance": 1,
         "coverage": 80,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_lower_l", "arm_lower_r", "arm_elbow_l", "arm_elbow_r"  ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r",
+          "arm_elbow_l",
+          "arm_elbow_r"
+        ]
       },
       {
-        "covers": [ "hand_l", "hand_r" ],
+        "covers": [
+          "hand_l",
+          "hand_r"
+        ],
         "coverage": 60
       }
     ],
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_tights_akari",
@@ -1082,7 +1724,10 @@
     "color": "yellow",
     "warmth": 15,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_shoes_akari",
@@ -1097,7 +1742,9 @@
     "warmth": 10,
     "material_thickness": 2,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "//": "桜乃そらと音街ウナの眼鏡。水奈瀬コウの眼鏡と1ドット分高さが違う。",
@@ -1110,7 +1757,13 @@
     "volume": "250 ml",
     "price": "79 USD",
     "color": "red",
-    "flags": [ "WATER_FRIENDLY", "FANCY", "FIRESTARTER", "FIX_NEARSIGHT", "FIX_FARSIGHT" ]
+    "flags": [
+      "WATER_FRIENDLY",
+      "FANCY",
+      "FIRESTARTER",
+      "FIX_NEARSIGHT",
+      "FIX_FARSIGHT"
+    ]
   },
   {
     "id": "voiro_dress_sora",
@@ -1123,7 +1776,9 @@
     "price": "100 USD",
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "//": "ショールなのか肩掛けカーディガンなのか判断出来ないがショールとしていた動画があったのでショールにしておく。",
@@ -1134,19 +1789,26 @@
     "weight": "220 g",
     "volume": "1 L",
     "price": "60 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "blue",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 15,
         "encumbrance": 0
       }
     ],
     "warmth": 20,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_shoes_sora",
@@ -1159,21 +1821,27 @@
     "price": "85 USD",
     "color": "light_blue",
     "warmth": 10,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_ornament_tuina",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "髪飾り(役ついな)[voiro]",
     "description": "細かい紋様が入れられた梔子色(くちなしいろ)の髪留めです。",
     "weight": "10 g",
     "volume": "1 ml",
     "price": "1 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "light_red",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_costume_tuina",
@@ -1189,14 +1857,28 @@
     "material_thickness": 3,
     "environmental_protection": 1,
     "armor": [
-      { "coverage": 80, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": ["leg_hip_l", "leg_hip_r" ],
+        "coverage": 80,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_costume_sode_tuina",
@@ -1211,7 +1893,10 @@
     "warmth": 15,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "//": "海外の人か山登りが趣味の人にスパッツって言うと足回りのカバーの方を想像される思う。",
@@ -1234,7 +1919,11 @@
     "volume": "1250 ml",
     "price": "70 USD",
     "color": "white",
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "//": "着用部位無し装備。FANCYフラグも無し。機能は未実装。",
@@ -1243,14 +1932,19 @@
     "category": "other",
     "price": "2 USD",
     "price_postapoc": "0 cent",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "o",
     "name": "ぬいぐるみ(前鬼)[voiro]",
     "description": "役追儺が従える夫婦の鬼です。魂がぬいぐるみに宿っており、赤いボディと太い尻尾、額のF字マークが特徴です。枕の代わりになりそうです。",
     "weight": "600 g",
     "volume": "2500 ml",
     "color": "red",
-    "flags": [ "BELTED", "SLEEP_AID" ]
+    "flags": [
+      "BELTED",
+      "SLEEP_AID"
+    ]
   },
   {
     "//": "着用部位無し装備。FANCYフラグも無し。機能は未実装。",
@@ -1267,16 +1961,21 @@
   {
     "id": "voiro_ornament_bead",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "髪飾り(ビーズ)[voiro]",
     "description": "紐と木製ビーズで作られたシンプルな髪飾りです。身に着けてもいいでしょうが、何の効果ももたらしません。",
     "weight": "10 g",
     "volume": "1 ml",
     "price": "1 USD",
-    "material": [ "wood" ],
+    "material": [
+      "wood"
+    ],
     "symbol": "[",
     "color": "red",
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "//1": "スカートと繋がっているワンピースなのか、jamバンドのページを漁ったが判断付かず。",
@@ -1292,15 +1991,26 @@
     "color": "red",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 60,
         "encumbrance": 4
       }
     ],
     "material_thickness": 2,
     "environmental_protection": 1,
-    "use_action": { "type": "transform", "msg": "You loosen your %s.", "target": "voiro_corset_loose_maki", "menu_text": "Loosen" },
-    "flags": [ "VARSIZE", "SKINTIGHT", "FANCY" ]
+    "use_action": {
+      "type": "transform",
+      "msg": "You loosen your %s.",
+      "target": "voiro_corset_loose_maki",
+      "menu_text": "Loosen"
+    },
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_corset_loose_maki",
@@ -1308,7 +2018,12 @@
     "type": "ARMOR",
     "name": "レザーコルセット(緩)(弦巻マキ)[voiro]",
     "description": "赤いエナメル革製の肌に密着したコルセットです。これは衣装としての側面が強く、補正や補助目的のものではありません。使用するとベルトをしっかりと締め、肌に密着させて着用できるようになります。",
-    "use_action": { "type": "transform", "msg": "You wrap your corset tighter.", "target": "voiro_corset_maki", "menu_text": "Wrap tighter" }
+    "use_action": {
+      "type": "transform",
+      "msg": "You wrap your corset tighter.",
+      "target": "voiro_corset_maki",
+      "menu_text": "Wrap tighter"
+    }
   },
   {
     "id": "voiro_shirt_maki",
@@ -1318,16 +2033,37 @@
     "weight": "180 g",
     "volume": "500 ml",
     "price": "40 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "color": "white",
-    "armor": [ 
-      { "coverage": 50, "covers": [ "torso" ], "specifically_covers": [ "torso_upper" ] }, 
-      { "coverage": 60, "covers": [ "torso" ], "specifically_covers": [ "torso_lower" ] }
+    "armor": [
+      {
+        "coverage": 50,
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_upper"
+        ]
+      },
+      {
+        "coverage": 60,
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_lower"
+        ]
+      }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_arm_covers_maki",
@@ -1340,7 +2076,9 @@
     "price": "30 USD",
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_skirt_maki",
@@ -1352,7 +2090,9 @@
     "volume": "250 ml",
     "price": "70 USD",
     "warmth": 5,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_socks_maki",
@@ -1365,23 +2105,43 @@
     "price": "32 USD",
     "color": "red",
     "armor": [
-      { "covers": [ "foot_l", "foot_r" ] ,"coverage": 100 },
       {
-        "covers": [ "leg_r" ],
-        "specifically_covers": [ "leg_lower_r", "leg_knee_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "coverage": 100
+      },
+      {
+        "covers": [
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_r",
+          "leg_knee_r"
+        ],
         "coverage": 70,
         "encumbrance": 4
       },
       {
-        "covers": [ "leg_l" ],
-        "specifically_covers": [ "leg_lower_l", "leg_knee_l", "leg_upper_l" ],
+        "covers": [
+          "leg_l"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_knee_l",
+          "leg_upper_l"
+        ],
         "coverage": 80,
         "encumbrance": 4
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_sneakers_maki",
@@ -1392,7 +2152,11 @@
     "weight": "700 g",
     "volume": "2 L",
     "price": "100 USD",
-    "material": [ "cotton", "leather", "rubber" ],
+    "material": [
+      "cotton",
+      "leather",
+      "rubber"
+    ],
     "color": "red"
   },
   {
@@ -1406,22 +2170,49 @@
     "price": "60 USD",
     "color": "white",
     "armor": [
-      { "coverage": 90, "covers": [ "torso" ] },
+      {
+        "coverage": 90,
+        "covers": [
+          "torso"
+        ]
+      },
       {
         "coverage": 100,
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r" ]
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r"
+        ]
       },
-      { "coverage": 50, "covers": [ "arm_l", "arm_r" ], "specifically_covers": [ "arm_upper_l", "arm_upper_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
+        "coverage": 50,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
         "coverage": 70,
         "encumbrance": 15
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_shoes_sasara",
@@ -1435,7 +2226,10 @@
     "color": "pink",
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_shirt_takahashi",
@@ -1449,7 +2243,10 @@
     "color": "white",
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_jacket_takahashi",
@@ -1463,7 +2260,12 @@
     "color": "white",
     "warmth": 10,
     "material_thickness": 2,
-    "flags": [ "VARSIZE", "FANCY", "POCKETS", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY",
+      "POCKETS",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_pants_takahashi",
@@ -1481,11 +2283,16 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "90 cm",
         "moves": 50,
-        "flag_restriction": [ "BELT_CLIP" ],
+        "flag_restriction": [
+          "BELT_CLIP"
+        ],
         "holster": true
       }
     ],
-    "flags": [ "VARSIZE", "POCKETS" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS"
+    ]
   },
   {
     "id": "voiro_sneakers_takahashi",
@@ -1496,9 +2303,16 @@
     "weight": "840 g",
     "volume": "1500 ml",
     "price": "260 USD",
-    "material": [ "cotton", "leather", "rubber" ],
+    "material": [
+      "cotton",
+      "leather",
+      "rubber"
+    ],
     "color": "white",
-    "flags": [ "VARSIZE", "SUPER_FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "SUPER_FANCY"
+    ]
   },
   {
     "id": "voiro_wrist_takahashi",
@@ -1518,8 +2332,14 @@
     "weight": "200 g",
     "volume": "250 ml",
     "price": "0 cent",
-    "melee_damage": { "bash": 5 },
-    "material": [ "leather", "steel", "plastic" ],
+    "melee_damage": {
+      "bash": 5
+    },
+    "material": [
+      "leather",
+      "steel",
+      "plastic"
+    ],
     "symbol": "[",
     "color": "dark_gray",
     "pocket_data": [
@@ -1528,12 +2348,29 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "90 cm",
         "moves": 50,
-        "flag_restriction": [ "BELT_CLIP" ],
+        "flag_restriction": [
+          "BELT_CLIP"
+        ],
         "holster": true
       }
     ],
-    "armor": [ { "encumbrance": 1, "coverage": 40, "covers": [ "torso" ], "specifically_covers": [ "torso_waist" ] } ],
-    "flags": [ "BELTED", "WATER_FRIENDLY", "SUPER_FANCY" ]
+    "armor": [
+      {
+        "encumbrance": 1,
+        "coverage": 40,
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_waist"
+        ]
+      }
+    ],
+    "flags": [
+      "BELTED",
+      "WATER_FRIENDLY",
+      "SUPER_FANCY"
+    ]
   },
   {
     "id": "voiro_sarashi",
@@ -1545,11 +2382,16 @@
     "weight": "70 g",
     "volume": "250 ml",
     "price": "10 USD",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "color": "white",
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_kimono_kiritan",
@@ -1562,20 +2404,81 @@
     "price": "1400 USD",
     "color": "pink",
     "armor": [
-      { "covers": [ "torso" ], "specifically_covers": [ "torso_lower" ], "coverage": 100, "encumbrance": [ 2, 5 ] },
-      { "covers": [ "torso" ], "specifically_covers": [ "torso_upper" ], "coverage": 95 },
-      { "covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_hip_l", "leg_hip_r" ], "coverage": 100, "encumbrance": [ 2, 2 ] },
       {
-        "covers": [ "arm_l", "arm_r" ],
-        "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r", "arm_upper_r", "arm_upper_l", "arm_elbow_r", "arm_elbow_l" ],
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_lower"
+        ],
         "coverage": 100,
-        "encumbrance": [ 2, 2 ]
+        "encumbrance": [
+          2,
+          5
+        ]
       },
-      { "covers": [ "arm_l", "arm_r" ], "specifically_covers": [ "arm_lower_l", "arm_lower_r" ], "coverage": 95 }
+      {
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_upper"
+        ],
+        "coverage": 95
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
+        "coverage": 100,
+        "encumbrance": [
+          2,
+          2
+        ]
+      },
+      {
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r",
+          "arm_upper_r",
+          "arm_upper_l",
+          "arm_elbow_r",
+          "arm_elbow_l"
+        ],
+        "coverage": 100,
+        "encumbrance": [
+          2,
+          2
+        ]
+      },
+      {
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_lower_l",
+          "arm_lower_r"
+        ],
+        "coverage": 95
+      }
     ],
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "POCKETS", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_zouri_kiritan",
@@ -1586,12 +2489,19 @@
     "weight": "260 g",
     "volume": "1 L",
     "price": "70 USD",
-    "material": [ "leather", "cotton" ],
+    "material": [
+      "leather",
+      "cotton"
+    ],
     "color": "dark_gray",
     "warmth": 5,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "//": "収納容積は日本のメーカー3社の平均値をきりよくした値。きりたんmodの時より一回り能力を底上げした。",
@@ -1619,7 +2529,9 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "90 cm",
         "moves": 50,
-        "flag_restriction": [ "BELT_CLIP" ],
+        "flag_restriction": [
+          "BELT_CLIP"
+        ],
         "holster": true
       }
     ],
@@ -1628,11 +2540,20 @@
         "encumbrance": 4,
         "volume_encumber_modifier": 0.2,
         "coverage": 60,
-        "covers": [ "torso" ],
-        "specifically_covers": [ "torso_hanging_back" ]
+        "covers": [
+          "torso"
+        ],
+        "specifically_covers": [
+          "torso_hanging_back"
+        ]
       }
     ],
-    "flags": [ "BELTED", "STURDY", "WATER_FRIENDLY","TARDIS" ]
+    "flags": [
+      "BELTED",
+      "STURDY",
+      "WATER_FRIENDLY",
+      "TARDIS"
+    ]
   },
   {
     "id": "voiro_dress_ia",
@@ -1645,17 +2566,37 @@
     "price": "140 USD",
     "color": "dark_gray",
     "armor": [
-      { "coverage": 65, "covers": [ "torso" ] },
-      { "coverage": 90, "covers": [ "arm_l", "arm_r" ] }, 
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": ["leg_hip_l", "leg_hip_r" ],
+        "coverage": 65,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "coverage": 90,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "//": "白の三本ラインは表現出来なかったのでオミット。",
@@ -1668,23 +2609,44 @@
     "volume": "250 ml",
     "price": "37 USD",
     "armor": [
-      { "covers": [ "foot_l", "foot_r" ] ,"coverage": 100 },
       {
-        "covers": [ "leg_r" ],
-        "specifically_covers": [ "leg_lower_r", "leg_knee_r", "leg_upper_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "coverage": 100
+      },
+      {
+        "covers": [
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_r",
+          "leg_knee_r",
+          "leg_upper_r"
+        ],
         "coverage": 70,
         "encumbrance": 4
       },
       {
-        "covers": [ "leg_l" ],
-        "specifically_covers": [ "leg_lower_l", "leg_knee_l" ],
+        "covers": [
+          "leg_l"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_knee_l"
+        ],
         "coverage": 90,
         "encumbrance": 4
       }
     ],
     "warmth": 5,
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "SKINTIGHT", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_boots_ia",
@@ -1696,19 +2658,36 @@
     "volume": "2500 ml",
     "price": "120 USD",
     "color": "white",
-   "armor": [
+    "armor": [
       {
-        "covers": [ "foot_l", "foot_r" ],
-        "specifically_covers": [ "foot_sole_r", "foot_sole_l" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
+        "specifically_covers": [
+          "foot_sole_r",
+          "foot_sole_l"
+        ],
         "material": [
-          { "type": "leather", "covered_by_mat": 100, "thickness": 0.1 },
-          { "type": "rubber", "covered_by_mat": 100, "thickness": 4.0 }
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 0.1
+          },
+          {
+            "type": "rubber",
+            "covered_by_mat": 100,
+            "thickness": 4.0
+          }
         ],
         "coverage": 100,
         "encumbrance": 20
       },
       {
-        "covers": [ "foot_l", "foot_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
         "specifically_covers": [
           "foot_heel_r",
           "foot_heel_l",
@@ -1719,12 +2698,24 @@
           "foot_ankle_l",
           "foot_ankle_r"
         ],
-        "material": [ { "type": "leather", "covered_by_mat": 100, "thickness": 2.0 } ],
+        "material": [
+          {
+            "type": "leather",
+            "covered_by_mat": 100,
+            "thickness": 2.0
+          }
+        ],
         "coverage": 100
       },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r" ],
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r"
+        ],
         "coverage": 100,
         "encumbrance": 12
       }
@@ -1739,10 +2730,15 @@
         "max_contains_weight": "2 kg",
         "max_item_length": "70 cm",
         "moves": 3,
-        "flag_restriction": [ "SHEATH_KNIFE" ]
+        "flag_restriction": [
+          "SHEATH_KNIFE"
+        ]
       }
     ],
-    "flags": [ "VARSIZE", "WATERPROOF" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF"
+    ]
   },
   {
     "id": "voiro_kimono_itako",
@@ -1755,7 +2751,11 @@
     "price": "2000 USD",
     "material_thickness": 6,
     "environmental_protection": 2,
-    "flags": [ "VARSIZE", "POCKETS", "SUPER_FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "POCKETS",
+      "SUPER_FANCY"
+    ]
   },
   {
     "id": "voiro_zouri_itako",
@@ -1766,27 +2766,40 @@
     "weight": "280 g",
     "volume": "1 L",
     "price": "80 USD",
-    "material": [ "leather", "cotton","wood" ],
+    "material": [
+      "leather",
+      "cotton",
+      "wood"
+    ],
     "warmth": 5,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_aliceband_hime",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "カチューシャ(鳴花ヒメ)[voiro]",
     "description": "アリスバンドと呼ばれる頭部の装身具です。牛を模した角とリボンが付いています。",
     "weight": "80 g",
     "volume": "250 ml",
     "price": "12 USD",
-    "material": [ "plastic", "cotton" ],
+    "material": [
+      "plastic",
+      "cotton"
+    ],
     "symbol": "[",
     "color": "dark_gray",
     "armor": [
       {
-        "covers": [ "head" ],
+        "covers": [
+          "head"
+        ],
         "coverage": 10,
         "encumbrance": 2
       }
@@ -1794,7 +2807,9 @@
     "warmth": 5,
     "material_thickness": 1,
     "environmental_protection": 1,
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_hime",
@@ -1806,16 +2821,29 @@
     "volume": "1500 ml",
     "price": "98 USD",
     "armor": [
-      { "coverage": 80, "covers": [ "torso" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": ["leg_hip_l", "leg_hip_r" ],
+        "coverage": 80,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ],
         "coverage": 100
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_fundoshi",
@@ -1826,8 +2854,24 @@
     "weight": "28 g",
     "volume": "250 ml",
     "price": "22 USD",
-    "armor": [ { "coverage": 40, "covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_hip_l", "leg_hip_r" ] } ],
-    "flags": [ "VARSIZE", "SKINTIGHT", "FANCY" ]
+    "armor": [
+      {
+        "coverage": 40,
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ]
+      }
+    ],
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT",
+      "FANCY"
+    ]
   },
   {
     "//1": "ガイノイド_Talkの衣装だと靴を履いていて指が出ているかは確認できないが、ボカロの衣装だと出ている。",
@@ -1842,8 +2886,19 @@
     "price": "10 USD",
     "warmth": 2,
     "material_thickness": 1,
-    "armor": [ { "coverage": 45, "covers": [ "foot_l", "foot_r" ] } ],
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "armor": [
+      {
+        "coverage": 45,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      }
+    ],
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_boots_meikaers",
@@ -1854,25 +2909,37 @@
     "weight": "460 g",
     "volume": "1 L",
     "price": "105 USD",
-    "material": [ "cotton", "leather", "wood" ],
+    "material": [
+      "cotton",
+      "leather",
+      "wood"
+    ],
     "warmth": 20,
-    "flags": [ "VARSIZE", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_aliceband_mikoto",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "カチューシャ(鳴花ミコト)[voiro]",
     "description": "アリスバンドと呼ばれる頭部の装身具です。牛を模した角とリボンが付いています。",
     "weight": "80 g",
     "volume": "250 ml",
     "price": "12 USD",
-    "material": [ "plastic", "cotton" ],
+    "material": [
+      "plastic",
+      "cotton"
+    ],
     "symbol": "[",
     "color": "dark_gray",
     "armor": [
       {
-        "covers": [ "head" ],
+        "covers": [
+          "head"
+        ],
         "coverage": 10,
         "encumbrance": 2
       }
@@ -1880,7 +2947,9 @@
     "warmth": 5,
     "material_thickness": 1,
     "environmental_protection": 1,
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_dress_mikoto",
@@ -1907,10 +2976,14 @@
     "weight": "750 g",
     "volume": "1000 ml",
     "price": "110 USD",
-    "material": [ "leather" ],
+    "material": [
+      "leather"
+    ],
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 30,
         "encumbrance": 3
       }
@@ -1918,7 +2991,12 @@
     "warmth": 6,
     "material_thickness": 4,
     "environmental_protection": 2,
-    "flags": [ "BELTED", "STURDY", "WATER_FRIENDLY","TARDIS" ]
+    "flags": [
+      "BELTED",
+      "STURDY",
+      "WATER_FRIENDLY",
+      "TARDIS"
+    ]
   },
   {
     "id": "voiro_blouse_nozomi",
@@ -1929,7 +3007,9 @@
     "weight": "200 g",
     "volume": "750 ml",
     "price": "35 USD",
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_skirt_nozomi",
@@ -1940,7 +3020,9 @@
     "weight": "74 g",
     "volume": "250 ml",
     "price": "65 USD",
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_loafers_nozomi",
@@ -1951,22 +3033,31 @@
     "weight": "700 g",
     "volume": "1500 ml",
     "price": "80 USD",
-    "material": [ "leather" ],
-    "flags": [ "VARSIZE" ]
+    "material": [
+      "leather"
+    ],
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "//": "materialはニッケルが無いのでスティールで。",
     "id": "voiro_ornament_yuzuru",
     "type": "ARMOR",
     "copy-from": "fc_hairpin",
-    "category" : "other",
+    "category": "other",
     "name": "髪飾り(伊織弓鶴)[voiro]",
     "description": "鈴が連なった髪留め用の飾りです。鈴は鳴らないので心配ないですよ。",
     "weight": "40 g",
     "volume": "10 ml",
     "price": "5 USD",
-    "material": [ "steel" ],
-    "flags": [ "FANCY", "ZERO_WEIGHT" ]
+    "material": [
+      "steel"
+    ],
+    "flags": [
+      "FANCY",
+      "ZERO_WEIGHT"
+    ]
   },
   {
     "id": "voiro_dress_shirt_yuzuru",
@@ -1979,23 +3070,41 @@
     "price": "15 USD",
     "color": "white",
     "armor": [
-      { "covers": [ "torso" ], "coverage": 100, "encumbrance":5 },
-      { "covers": [ "arm_l", "arm_r" ], "coverage": 70, "encumbrance": 5 }
+      {
+        "covers": [
+          "torso"
+        ],
+        "coverage": 100,
+        "encumbrance": 5
+      },
+      {
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "coverage": 70,
+        "encumbrance": 5
+      }
     ]
   },
   {
     "id": "voiro_ornament_yuzuru2",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "飾り紐(伊織弓鶴)[voiro]",
     "description": "しめ縄をモチーフにした首から提げる飾り紐です。鈴は鳴らないので心配ありません。",
     "weight": "350 g",
     "volume": "250 ml",
     "price": "20 USD",
-    "material": [ "cotton", "steel" ],
+    "material": [
+      "cotton",
+      "steel"
+    ],
     "symbol": "[",
     "color": "yellow",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "//": "コットンパンツなのかジーンズなのか判別不明。最近の若者はジーンズあまり履かないのでコットンパンツで。",
@@ -2017,8 +3126,15 @@
     "weight": "900 g",
     "volume": "2 L",
     "price": "160 USD",
-    "material": [ "cotton", "leather","rubber" ],
-    "flags": [ "VARSIZE", "WATERPROOF" ]
+    "material": [
+      "cotton",
+      "leather",
+      "rubber"
+    ],
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF"
+    ]
   },
   {
     "id": "voiro_kimono_hal-o-roid",
@@ -2032,7 +3148,10 @@
     "to_hit": -5,
     "color": "blue",
     "material_thickness": 2,
-    "flags": [ "VARSIZE", "SUPER_FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "SUPER_FANCY"
+    ]
   },
   {
     "id": "voiro_setta_hal-o-roid",
@@ -2043,13 +3162,21 @@
     "volume": "1 L",
     "price": "400 USD",
     "to_hit": -2,
-    "melee_damage": { "bash": 2 },
-    "material": [ "leather", "cotton" ],
+    "melee_damage": {
+      "bash": 2
+    },
+    "material": [
+      "leather",
+      "cotton"
+    ],
     "symbol": "[",
     "color": "dark_gray",
     "armor": [
       {
-        "covers": [ "foot_l", "foot_r" ],
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ],
         "coverage": 50,
         "encumbrance": 10
       }
@@ -2057,7 +3184,11 @@
     "warmth": 5,
     "material_thickness": 2,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "WATERPROOF", "SUPER_FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF",
+      "SUPER_FANCY"
+    ]
   },
   {
     "id": "voiro_camisole_flower",
@@ -2070,11 +3201,16 @@
     "price": "40 USD",
     "armor": [
       {
-        "covers": [ "torso" ],
+        "covers": [
+          "torso"
+        ],
         "coverage": 40
       }
     ],
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_jacket_flower",
@@ -2085,11 +3221,22 @@
     "weight": "350 g",
     "volume": "3 L",
     "price": "130 USD",
-    "material": [ "cotton", "plastic" ],
+    "material": [
+      "cotton",
+      "plastic"
+    ],
     "color": "dark_gray",
     "warmth": 20,
     "material_thickness": 2,
-    "flags": [ "VARSIZE", "FANCY", "POCKETS", "OUTER", "HOOD", "WATERPROOF", "RAINPROOF" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY",
+      "POCKETS",
+      "OUTER",
+      "HOOD",
+      "WATERPROOF",
+      "RAINPROOF"
+    ]
   },
   {
     "id": "voiro_hot_pants_flower",
@@ -2102,7 +3249,11 @@
     "price": "30 USD",
     "color": "dark_gray",
     "material_thickness": 1,
-    "flags": [ "VARSIZE", "WATER_FRIENDLY", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "WATER_FRIENDLY",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_leg_warmers_flower",
@@ -2116,14 +3267,19 @@
     "color": "blue",
     "armor": [
       {
-        "covers": [ "leg_l", "leg_r" ],
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
         "coverage": 25,
         "encumbrance": 1
       }
     ],
     "warmth": 10,
     "material_thickness": 1,
-    "flags": [ "SKINTIGHT" ]
+    "flags": [
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_sandals_flower",
@@ -2138,21 +3294,32 @@
     "warmth": 5,
     "material_thickness": 2,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "WATER_FRIENDLY", "ALLOWS_NATURAL_ATTACKS", "FANCY" ]
+    "flags": [
+      "VARSIZE",
+      "WATER_FRIENDLY",
+      "ALLOWS_NATURAL_ATTACKS",
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_choker_flower",
     "type": "ARMOR",
-    "category" : "other",
+    "category": "other",
     "name": "チョーカー(flower)[voiro]",
     "description": "透き通るfのマークが付いたチョーカーです。",
     "weight": "20 g",
     "volume": "10 ml",
     "price": "38 USD",
-    "material": [ "leather", "glass" ],
+    "material": [
+      "leather",
+      "glass"
+    ],
     "symbol": "[",
     "color": "dark_gray",
-    "flags": [ "FANCY", "ZERO_WEIGHT" ]
+    "flags": [
+      "FANCY",
+      "ZERO_WEIGHT"
+    ]
   },
   {
     "id": "voiro_dress_shirt_zundamon",
@@ -2171,7 +3338,9 @@
     "price": "40 USD",
     "price_postapoc": "50 cent",
     "to_hit": 1,
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "symbol": "[",
     "looks_like": "shorts",
     "color": "light_gray",
@@ -2221,15 +3390,37 @@
     ],
     "warmth": 5,
     "material_thickness": 0.2,
-    "flags": [ "VARSIZE", "POCKETS" ],
+    "flags": [
+      "VARSIZE",
+      "POCKETS"
+    ],
     "armor": [
       {
-        "encumbrance": [ 2, 5 ],
+        "encumbrance": [
+          2,
+          5
+        ],
         "coverage": 100,
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_hip_l", "leg_hip_r" ]
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ]
       },
-      { "coverage": 50, "covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_upper_l", "leg_upper_r" ] }
+      {
+        "coverage": 50,
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_upper_l",
+          "leg_upper_r"
+        ]
+      }
     ]
   },
   {
@@ -2241,13 +3432,18 @@
     "weight": "900 g",
     "volume": "2 L",
     "price": "160 USD",
-    "flags": [ "VARSIZE", "WATERPROOF" ]
+    "flags": [
+      "VARSIZE",
+      "WATERPROOF"
+    ]
   },
   {
     "id": "voiro_hat_metan",
     "type": "ARMOR",
     "copy-from": "hat_cotton",
-    "name": { "str": "純白のホワイトブリム(四国めたん)[voiro]" },
+    "name": {
+      "str": "純白のホワイトブリム(四国めたん)[voiro]"
+    },
     "description": "真っ白のホワイトブリムです。どんな場所でも汚れない凄いブリムです。",
     "weight": "10 g",
     "volume": "250 ml",
@@ -2255,8 +3451,18 @@
     "price_postapoc": "50 cent",
     "color": "white",
     "warmth": 10,
-    "flags": [ "VARSIZE" ],
-    "armor": [ { "encumbrance": 10, "coverage": 25, "covers": [ "head" ] } ]
+    "flags": [
+      "VARSIZE"
+    ],
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 25,
+        "covers": [
+          "head"
+        ]
+      }
+    ]
   },
   {
     "id": "voiro_dress_metan",
@@ -2264,27 +3470,53 @@
     "type": "ARMOR",
     "copy-from": "dress",
     "looks_like": "dress",
-    "name": { "str": "純白のドレス(四国めたん)[voiro]", "str_pl": "純白のドレス(四国めたん)[voiro]" },
+    "name": {
+      "str": "純白のドレス(四国めたん)[voiro]",
+      "str_pl": "純白のドレス(四国めたん)[voiro]"
+    },
     "description": "真っ白のドレスです。どんな場所でも汚れない凄いドレスです。",
     "price": "180 USD",
     "color": "white",
     "warmth": 15,
-    "flags": [ "VARSIZE", "SUPER_FANCY" ],
-    "armor": [ { "encumbrance": 7, "coverage": 90, "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ] } ]
+    "flags": [
+      "VARSIZE",
+      "SUPER_FANCY"
+    ],
+    "armor": [
+      {
+        "encumbrance": 7,
+        "coverage": 90,
+        "covers": [
+          "torso",
+          "arm_l",
+          "arm_r",
+          "leg_l",
+          "leg_r"
+        ]
+      }
+    ]
   },
   {
     "id": "voiro_tights_metan",
     "type": "ARMOR",
     "copy-from": "tights",
-    "name": { "str_sp": "純白のタイツ(四国めたん)[voiro]" },
+    "name": {
+      "str_sp": "純白のタイツ(四国めたん)[voiro]"
+    },
     "description": "真っ白のタイツです。どんな場所でも汚れない凄いタイツです。",
-    "flags": [ "VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_dress_shoes_metan",
     "type": "ARMOR",
     "copy-from": "dress_shoes",
-    "name": { "str": "ドレスシューズ(四国めたん)[voiro]", "str_pl": "ドレスシューズ(四国めたん)[voiro]" },
+    "name": {
+      "str": "ドレスシューズ(四国めたん)[voiro]",
+      "str_pl": "ドレスシューズ(四国めたん)[voiro]"
+    },
     "description": "真っ白のドレスシューズです。どんな場所でも汚れない凄いドレスシューズです。"
   },
   {
@@ -2307,16 +3539,23 @@
     "copy-from": "sweater",
     "name": "カーディガン(春日部つむぎ)[voiro]",
     "description": "毛糸編み若しくはニットで作られた前開き式のトップスです。",
-    "material": [ "wool" ],
+    "material": [
+      "wool"
+    ],
     "warmth": 30,
     "material_thickness": 3,
-    "flags": [ "VARSIZE", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_necktie_tumugi",
     "type": "ARMOR",
     "copy-from": "tie_necktie",
-    "name": { "str": "ネクタイ(春日部つむぎ)" },
+    "name": {
+      "str": "ネクタイ(春日部つむぎ)"
+    },
     "description": "学生服用の黄色のネクタイです。ちょっと緩めてお洒落に!"
   },
   {
@@ -2339,10 +3578,19 @@
     "copy-from": "hat_cotton",
     "name": "ナースキャップ(雨晴はう)[voiro]",
     "description": "白い生地にハートのロゴが入ったナースキャップです。かわいいですね",
-    "armor": [ { "coverage": 35, "covers": [ "head" ] } ],
+    "armor": [
+      {
+        "coverage": 35,
+        "covers": [
+          "head"
+        ]
+      }
+    ],
     "warmth": 1,
     "material_thickness": 2,
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_nurse_clothes_hau",
@@ -2350,13 +3598,50 @@
     "copy-from": "tshirt",
     "name": "ナース服(雨晴はう)[voiro]",
     "description": "白い生地にピンクのラインの入ったナース服です。",
-    "armor": [ 
-      { "coverage": 75, "covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_hip_l", "leg_hip_r" ] },
-      { "coverage": 90, "covers": [ "torso" ] },
-      { "coverage": 100,"covers": [ "arm_l", "arm_r" ], "specifically_covers": [ "arm_shoulder_l", "arm_shoulder_r" ] },
-      { "coverage": 50, "covers": [ "arm_l", "arm_r" ], "specifically_covers": [ "arm_upper_l", "arm_upper_r" ] } 
+    "armor": [
+      {
+        "coverage": 75,
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ]
+      },
+      {
+        "coverage": 90,
+        "covers": [
+          "torso"
+        ]
+      },
+      {
+        "coverage": 100,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_shoulder_l",
+          "arm_shoulder_r"
+        ]
+      },
+      {
+        "coverage": 50,
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "specifically_covers": [
+          "arm_upper_l",
+          "arm_upper_r"
+        ]
+      }
     ],
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_glove_hau",
@@ -2364,7 +3649,9 @@
     "copy-from": "gloves_fingerless",
     "name": "指貫グローブ(雨晴はう)[voiro]",
     "description": "ちょっとハードな作業も大丈夫！な指貫グローブです。",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_socks_hau",
@@ -2373,15 +3660,36 @@
     "name": "ニーソックス(雨晴はう)[voiro]",
     "description": "純白のニーソックスです。彼女の心のようにまっしろです。",
     "armor": [
-      { "encumbrance": 5, "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r", "leg_knee_l", "leg_knee_r", "leg_upper_l", "leg_upper_r" ],
+        "encumbrance": 5,
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r",
+          "leg_knee_l",
+          "leg_knee_r",
+          "leg_upper_l",
+          "leg_upper_r"
+        ],
         "coverage": 30,
         "encumbrance": 4
       }
     ],
-    "flags": [ "FANCY","VARSIZE", "SKINTIGHT" ]
+    "flags": [
+      "FANCY",
+      "VARSIZE",
+      "SKINTIGHT"
+    ]
   },
   {
     "id": "voiro_hat_rithu",
@@ -2389,10 +3697,19 @@
     "copy-from": "hat_cotton",
     "name": "帽子(波音リツ)[voiro]",
     "description": "黒いおしゃれな帽子です",
-    "armor": [ { "coverage": 25, "covers": [ "head" ] } ],
+    "armor": [
+      {
+        "coverage": 25,
+        "covers": [
+          "head"
+        ]
+      }
+    ],
     "warmth": 1,
     "material_thickness": 2,
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_jacket_rithu",
@@ -2400,7 +3717,9 @@
     "copy-from": "jacket_jean",
     "name": "ジャケット(波音リツ)[voiro]",
     "description": "黒色のおしゃれなインナーとジャケットのセットです",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_skirt_rithu",
@@ -2408,7 +3727,9 @@
     "copy-from": "skirt",
     "name": "スカート(波音リツ)[voiro]",
     "description": "黒色のおしゃれなスカートです",
-    "flags": [ "FANCY" ]
+    "flags": [
+      "FANCY"
+    ]
   },
   {
     "id": "voiro_hair_ornaments_himari",
@@ -2444,17 +3765,26 @@
     "copy-from": "glasses_monocle",
     "name": "女子力スカウター(九州そら)[voiro]",
     "description": "左目に取り付ける女子力を測る機械です。今は女子力スカウターの代わりにカメラが内臓しています。",
-    "ammo": [ "battery" ],
-    "flags": [ "WATER_BREAK_ACTIVE" ],
+    "flags": [
+      "WATER_BREAK_ACTIVE"
+    ],
     "charges_per_use": 2,
-    "use_action": [ "CAMERA" ],
+    "use_action": [
+      "CAMERA"
+    ],
     "pocket_data": [
       {
         "pocket_type": "MAGAZINE_WELL",
         "rigid": true,
-        "flag_restriction": [ "BATTERY_LIGHT", "BATTERY_ULTRA_LIGHT" ],
+        "flag_restriction": [
+          "BATTERY_LIGHT",
+          "BATTERY_ULTRA_LIGHT"
+        ],
         "default_magazine": "light_battery_cell"
       }
+    ],
+    "tool_ammo": [
+      "battery"
     ]
   },
   {
@@ -2464,10 +3794,27 @@
     "name": "防護スーツ(九州そら)[voiro]",
     "description": "全身を守る為のスーツです…がどういうわけか露出が多いような…？",
     "armor": [
-      { "covers": [ "torso" ], "coverage": 60 },
-      { "coverage": 20, "covers": [ "leg_l", "leg_r" ], "specifically_covers": [ "leg_hip_l", "leg_hip_r" ] }
+      {
+        "covers": [
+          "torso"
+        ],
+        "coverage": 60
+      },
+      {
+        "coverage": 20,
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_hip_l",
+          "leg_hip_r"
+        ]
+      }
     ],
-    "flags": [ "VARSIZE" ]
+    "flags": [
+      "VARSIZE"
+    ]
   },
   {
     "id": "voiro_long_glove_sora",
@@ -2489,21 +3836,42 @@
     "copy-from": "mil_flight_suit",
     "name": "パイロットスーツ(結月ゆかり)[voiro]",
     "description": "全身を守る為のスーツです。かっこよさとオシャレさと機能を抑えた一品です。",
-    "material": [ "nomex","lycra","neoprene" ],
+    "material": [
+      "nomex",
+      "lycra",
+      "neoprene"
+    ],
     "price": "2000 USD",
     "price_postapoc": "2000 USD",
     "material_thickness": 3,
-    "flags": [ "VARSIZE","ALARMCLOCK","FANCY","RAD_RESIST" ],
+    "flags": [
+      "VARSIZE",
+      "ALARMCLOCK",
+      "FANCY",
+      "RAD_RESIST"
+    ],
     "relic_data": {
       "passive_effects": [
         {
           "has": "WORN",
           "condition": "ACTIVE",
           "values": [
-            { "value": "STRENGTH", "add": 10 },
-            { "value": "CLIMATE_CONTROL_HEAT", "add": 30 },
-            { "value": "CLIMATE_CONTROL_CHILL", "add": 30 },
-            { "value": "THIRST", "multiply": -0.5 }
+            {
+              "value": "STRENGTH",
+              "add": 10
+            },
+            {
+              "value": "CLIMATE_CONTROL_HEAT",
+              "add": 30
+            },
+            {
+              "value": "CLIMATE_CONTROL_CHILL",
+              "add": 30
+            },
+            {
+              "value": "THIRST",
+              "multiply": -0.5
+            }
           ]
         }
       ]
@@ -2540,13 +3908,38 @@
     "name": "制服(小春六花)[voiro]",
     "description": "日本の学生が着用する学生服です。ブレザーとセーラー服を合わせた見た目になっており、左腕部に二本のラインが入っています。",
     "copy-from": "blazer",
-    "material": [ "cotton" ],
+    "material": [
+      "cotton"
+    ],
     "warmth": 10,
     "armor": [
-      { "covers": [ "torso" ], "coverage": 85, "encumbrance": [ 12, 12 ] },
-      { "covers": [ "arm_l", "arm_r" ], "coverage": 85, "encumbrance": [ 12, 12 ] }
+      {
+        "covers": [
+          "torso"
+        ],
+        "coverage": 85,
+        "encumbrance": [
+          12,
+          12
+        ]
+      },
+      {
+        "covers": [
+          "arm_l",
+          "arm_r"
+        ],
+        "coverage": 85,
+        "encumbrance": [
+          12,
+          12
+        ]
+      }
     ],
-    "flags": [ "VARSIZE", "FANCY", "OUTER" ]
+    "flags": [
+      "VARSIZE",
+      "FANCY",
+      "OUTER"
+    ]
   },
   {
     "//": "初期状態で制服の上に表示させたいのでOUTERフラグ。",
@@ -2555,7 +3948,10 @@
     "name": "ネクタイ(小春六花)[voiro]",
     "description": "幅広の蝉型ネクタイであるアスコットタイをリボン結びにした物です。",
     "copy-from": "tie_necktie",
-    "flags": ["FANCY", "OUTER" ]
+    "flags": [
+      "FANCY",
+      "OUTER"
+    ]
   },
   {
     "id": "voiro_skirt_rikka",
@@ -2571,11 +3967,23 @@
     "name": "ハイソックス(小春六花)[voiro]",
     "description": "二本線が入った白いハイソックスです。",
     "copy-from": "socks",
-    "armor": [ 
-      { "coverage": 100, "covers": [ "foot_l", "foot_r" ] },
+    "armor": [
       {
-        "covers": [ "leg_l", "leg_r" ],
-        "specifically_covers": [ "leg_lower_l", "leg_lower_r" ],
+        "coverage": 100,
+        "covers": [
+          "foot_l",
+          "foot_r"
+        ]
+      },
+      {
+        "covers": [
+          "leg_l",
+          "leg_r"
+        ],
+        "specifically_covers": [
+          "leg_lower_l",
+          "leg_lower_r"
+        ],
         "coverage": 100
       }
     ],
@@ -2632,8 +4040,24 @@
     "name": "ゴーグル(モチノ・キョウコ)[voiro]",
     "description": "特注のゴーグルで、お洒落ながらも塗装・溶接にも使える実用性も兼ね備えた一品です",
     "copy-from": "goggles_welding",
-    "extend": { "flags": [ "FANCY","OUTER" ] },
-    "armor": [ { "encumbrance": 1, "coverage": 10, "covers": [ "head" ], "specifically_covers": [ "head_forehead" ] } ]
+    "extend": {
+      "flags": [
+        "FANCY",
+        "OUTER"
+      ]
+    },
+    "armor": [
+      {
+        "encumbrance": 1,
+        "coverage": 10,
+        "covers": [
+          "head"
+        ],
+        "specifically_covers": [
+          "head_forehead"
+        ]
+      }
+    ]
   },
   {
     "id": "voiro_shirt_mochiko",
@@ -2654,7 +4078,11 @@
     "type": "ARMOR",
     "name": "ナノスカート(モチノ・キョウコ)[voiro]",
     "description": "かなり短いスカートです。お洒落ですがかなり短いです…",
-    "extend": { "flags": [ "FANCY" ] },
+    "extend": {
+      "flags": [
+        "FANCY"
+      ]
+    },
     "copy-from": "nanoskirt"
   },
   {
@@ -2662,7 +4090,11 @@
     "type": "ARMOR",
     "name": "ニーソックス(モチノ・キョウコ)[voiro]",
     "description": "おしゃれなニーソックスです",
-    "extend": { "flags": [ "FANCY" ] },
+    "extend": {
+      "flags": [
+        "FANCY"
+      ]
+    },
     "copy-from": "voiro_socks_hau"
   }
 ]

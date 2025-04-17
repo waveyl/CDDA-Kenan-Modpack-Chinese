@@ -9,10 +9,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "KIRITAN",
@@ -31,10 +36,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "IA",
@@ -53,10 +63,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "AKARI",
@@ -75,10 +90,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "YUKARI",
@@ -97,10 +117,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "AKANE",
@@ -119,10 +144,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "AOI",
@@ -141,10 +171,15 @@
     "volume": "300 ml",
     "weight": "150 g",
     "price": "6000 USD",
-    "material": [ "paper", "leather" ],
+    "material": [
+      "paper",
+      "leather"
+    ],
     "symbol": ";",
     "color": "green",
-    "flags": [ "SINGLE_USE" ],
+    "flags": [
+      "SINGLE_USE"
+    ],
     "use_action": {
       "type": "place_npc",
       "npc_class_id": "TUMUGI",
@@ -159,13 +194,19 @@
     "category": "books",
     "symbol": ",",
     "color": "white",
-    "name": { "str": "折りたたまれたメモ用紙" },
+    "name": {
+      "str": "折りたたまれたメモ用紙"
+    },
     "description": "丁寧に折りたたまれたメモです。なぜか文字が書いてある側が外向きに折りたたまれていました。\n『あかりへ、わたしは日本ごがうまいじゃないからみじかく書きます.1,これをよんだらすぐポッケの中のくすりをのんださい. 2,バットが車こにあるます. つかってください. 3,もしわたしが生きていなかたら、その時はやいてください. 4, やくのがいやなら大じょうぶです. ただ、できれば家に火をつけてからにげてください. 5,これでぜんぶです. Good luck!』",
     "price": "0 cent",
     "price_postapoc": "0 cent",
     "looks_like": "survnote",
-    "material": [ "paper" ],
-    "flags": [ "TRADER_AVOID" ],
+    "material": [
+      "paper"
+    ],
+    "flags": [
+      "TRADER_AVOID"
+    ],
     "weight": "3 g",
     "volume": "10 ml",
     "use_action": {
@@ -182,13 +223,19 @@
     "category": "books",
     "symbol": ",",
     "color": "white",
-    "name": { "str": "誰かに宛てられた手紙" },
+    "name": {
+      "str": "誰かに宛てられた手紙"
+    },
     "description": "誰かに宛てて書かれた手紙のようです。別の誰かが翻訳しようと努力した後が残されています。\n『Akari, ich schreibe dies in meiner Muttersprache, weil ich nicht möchte, dass du dies liest, wenn ich es könnte. Ich bin sicher, dass Sie, als Sie Akaris Geschichte hörten oder dies lasen, über mich gelacht hätten, weil ich so dumm war, mein Leben zum Schutz anderer hinzugeben. Ich war eigentlich ein Fan ihres Blogs. Akari war meiner Tochter sehr ähnlich, die ich durch einen Unfall verloren habe. Nachdem ich meine Tochter bei dem Unfall verloren hatte, verließ ich mein Heimatland und ging in ein Forschungsinstitut in dieser Stadt, um dort zu forschen. Ich wusste, dass Akari kurz vor dem Kataklysmus in diese Stadt gekommen war, und ich fühlte mich verpflichtet, ihr zu helfen (als ob ich meine Tochter retten wollte). Nachdem ich sie gerettet hatte, unterhielten wir uns und ich war wirklich überrascht. Ihre Gesten gaben mir das Gefühl, dass meine Tochter so gewesen wäre, wenn sie so alt geworden wäre wie ich. Es war nur für ein paar Stunden, aber mein Herz wurde durch den Kontakt mit Akari gerettet. Also habe ich Akari mit meinem Leben beschützt. Ich hoffe, dass Sie diesen Brief lesen und Akari genauso beschützen werden wie ich es getan habe. Schließlich, wenn möglich. Ich möchte, dass Sie Akari etwas sagen. Akari, bitte iss viel, lache viel und lebe fröhlich. Von Elena.』",
     "price": "0 cent",
     "price_postapoc": "0 cent",
     "looks_like": "survnote",
-    "material": [ "paper" ],
-    "flags": [ "TRADER_AVOID" ],
+    "material": [
+      "paper"
+    ],
+    "flags": [
+      "TRADER_AVOID"
+    ],
     "weight": "3 g",
     "volume": "10 ml",
     "use_action": {
@@ -204,14 +251,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(IA)" },
+    "name": {
+      "str": "恋人の写真(IA)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、照れたようにはにかむ笑顔を浮かべています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -220,14 +274,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(あかり)" },
+    "name": {
+      "str": "恋人の写真(あかり)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、花が咲くような笑顔で食事しています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -236,14 +297,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(茜)" },
+    "name": {
+      "str": "恋人の写真(茜)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、満面の笑みでピースサインを作っています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -252,14 +320,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(葵)" },
+    "name": {
+      "str": "恋人の写真(葵)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、照れたように視線を反らし、ピースサインを作っています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -268,14 +343,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(きりたん)" },
+    "name": {
+      "str": "恋人の写真(きりたん)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、撮影主であるあなたに目線を合わせようと背伸びしています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -284,14 +366,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(つむぎ)" },
+    "name": {
+      "str": "恋人の写真(つむぎ)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、ウィンクしながらピースサインを作っています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -300,14 +389,21 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真(ゆかり)" },
+    "name": {
+      "str": "恋人の写真(ゆかり)"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の彼女は、投げキッスをしています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
@@ -316,21 +412,30 @@
     "type": "GENERIC",
     "looks_like": "family_photo",
     "category": "other",
-    "name": { "str": "恋人の写真" },
+    "name": {
+      "str": "恋人の写真"
+    },
     "description": "恋人と一緒に撮影した思い出の写真です。写真の中の恋人は、穏やかな表情でピースサインをしています。",
     "weight": "12 mg",
     "volume": "1 ml",
     "price": "8 USD",
     "price_postapoc": "0 cent",
-    "flags": [ "BANK_NOTE_SHAPED", "PAPER_SHAPED" ],
-    "material": [ "paper" ],
+    "flags": [
+      "BANK_NOTE_SHAPED",
+      "PAPER_SHAPED"
+    ],
+    "material": [
+      "paper"
+    ],
     "symbol": "*",
     "color": "light_gray"
   },
   {
     "id": "copper_locket",
     "type": "ARMOR",
-    "name": { "str": "copper locket" },
+    "name": {
+      "str": "copper locket"
+    },
     "copy-from": "copper_locket",
     "pocket_data": [
       {
@@ -339,7 +444,7 @@
         "max_contains_weight": "12 mg",
         "max_contains_volume": "1 ml",
         "description": "Slot for a photograph",
-        "item_restriction": [ 
+        "item_restriction": [
           "wallet_photo",
           "lovers_photo_ia",
           "lovers_photo_akari",
@@ -349,14 +454,16 @@
           "lovers_photo_tumugi",
           "lovers_photo_yukari",
           "lovers_photo_voiro"
-          ]
+        ]
       }
     ]
   },
   {
     "id": "gold_locket",
     "type": "ARMOR",
-    "name": { "str": "gold locket" },
+    "name": {
+      "str": "gold locket"
+    },
     "copy-from": "gold_locket",
     "pocket_data": [
       {
@@ -365,7 +472,7 @@
         "max_contains_weight": "12 mg",
         "max_contains_volume": "1 ml",
         "description": "Slot for a photograph",
-        "item_restriction": [ 
+        "item_restriction": [
           "wallet_photo",
           "lovers_photo_ia",
           "lovers_photo_akari",
@@ -375,14 +482,16 @@
           "lovers_photo_tumugi",
           "lovers_photo_yukari",
           "lovers_photo_voiro"
-          ]
+        ]
       }
     ]
   },
   {
     "id": "platinum_locket",
     "type": "ARMOR",
-    "name": { "str": "platinum locket" },
+    "name": {
+      "str": "platinum locket"
+    },
     "copy-from": "platinum_locket",
     "pocket_data": [
       {
@@ -391,7 +500,7 @@
         "max_contains_weight": "12 mg",
         "max_contains_volume": "1 ml",
         "description": "Slot for a photograph",
-        "item_restriction": [ 
+        "item_restriction": [
           "wallet_photo",
           "lovers_photo_ia",
           "lovers_photo_akari",
@@ -401,14 +510,16 @@
           "lovers_photo_tumugi",
           "lovers_photo_yukari",
           "lovers_photo_voiro"
-          ]
+        ]
       }
     ]
   },
   {
     "id": "silver_locket",
     "type": "ARMOR",
-    "name": { "str": "silver locket" },
+    "name": {
+      "str": "silver locket"
+    },
     "copy-from": "silver_locket",
     "pocket_data": [
       {
@@ -417,7 +528,7 @@
         "max_contains_weight": "12 mg",
         "max_contains_volume": "1 ml",
         "description": "Slot for a photograph",
-        "item_restriction": [ 
+        "item_restriction": [
           "wallet_photo",
           "lovers_photo_ia",
           "lovers_photo_akari",
@@ -427,7 +538,7 @@
           "lovers_photo_tumugi",
           "lovers_photo_yukari",
           "lovers_photo_voiro"
-          ]
+        ]
       }
     ]
   }

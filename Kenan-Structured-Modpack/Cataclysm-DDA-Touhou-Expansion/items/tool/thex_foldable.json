@@ -2,7 +2,9 @@
   {
     "id": "wooden_screen_folded",
     "type": "TOOL",
-    "name": { "str": "wooden screen (folded)" },
+    "name": {
+      "str": "wooden screen (folded)"
+    },
     "description": "An Oriental-style folding screen, now folded.",
     "volume": "2000 ml",
     "weight": "3000 g",
@@ -10,9 +12,19 @@
     "//": "180 x 165 x 5 cm",
     "price": "150 USD",
     "price_postapoc": "10 USD",
-    "to_hit": { "balance": "clumsy", "grip": "none", "length": "long", "surface": "any" },
-    "melee_damage": { "bash": 12 },
-    "material": [ "paper", "wood" ],
+    "to_hit": {
+      "balance": "clumsy",
+      "grip": "none",
+      "length": "long",
+      "surface": "any"
+    },
+    "melee_damage": {
+      "bash": 12
+    },
+    "material": [
+      "paper",
+      "wood"
+    ],
     "symbol": "/",
     "looks_like": "2x4",
     "color": "brown"
