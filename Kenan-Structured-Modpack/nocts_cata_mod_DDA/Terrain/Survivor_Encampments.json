@@ -1,7 +1,6 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment" ],
     "//": "Variant one, literally left to the wolves.  Rural appearance, chance of a horse-drawn vehicle left behind.",
     "weight": 1000,
@@ -85,9 +84,9 @@
       "place_toilets": [ { "x": 19, "y": 19 } ],
       "mapping": {
         "B": { "items": { "item": "bed", "chance": 75 } },
-        "F": { "items": [ { "item": "fridge", "chance": 75 }, { "item": "fridgesnacks", "chance": 75 } ] },
+        "F": { "items": [ { "item": "SUS_fridge", "chance": 75 }, { "item": "SUS_fridge_snacks", "chance": 75 } ] },
         "b": { "items": { "item": "mansion_bookcase", "chance": 100 } },
-        "o": { "items": { "item": "oven", "chance": 50 } },
+        "o": { "items": { "item": "SUS_oven", "chance": 50 } },
         "t": { "items": { "item": "kitchen", "chance": 25 } },
         "d": { "items": { "item": "dresser", "chance": 90 } },
         "n": {
@@ -121,7 +120,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_roof" ],
     "weight": 1000,
     "object": {
@@ -157,7 +155,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_robotics" ],
     "//": "Variant two, house and equipment sheds.  These are infested with renegade robots.",
     "weight": 1000,
@@ -273,7 +270,7 @@
             { "item": "survival_armor", "chance": 50 }
           ]
         },
-        "F": { "items": [ { "item": "fridge", "chance": 75 }, { "item": "fridgesnacks", "chance": 75 } ] },
+        "F": { "items": [ { "item": "SUS_fridge", "chance": 75 }, { "item": "SUS_fridge_snacks", "chance": 75 } ] },
         "R": { "items": { "item": "gas_charging_rack", "chance": 75 } },
         "W": { "items": [ { "item": "energy_weapon_armory", "chance": 75 }, { "item": "energy_weapon_armory", "chance": 50 } ] },
         "b": { "items": { "item": "mansion_bookcase", "chance": 100 } },
@@ -284,7 +281,7 @@
             { "item": "bionic_power_storage_mil", "chance": 50 }
           ]
         },
-        "o": { "items": { "item": "oven", "chance": 50 } },
+        "o": { "items": { "item": "SUS_oven", "chance": 50 } },
         "n": {
           "items": [
             { "item": "cannedfood", "chance": 50 },
@@ -318,7 +315,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_robotics_roof" ],
     "weight": 1000,
     "object": {
@@ -354,7 +350,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_bandits" ],
     "//": "Variant three, hostile NPCs.  Slightly closer to the traditional encampment layout.",
     "weight": 1000,
@@ -459,7 +454,7 @@
         "b": { "items": { "item": "mansion_bookcase", "chance": 100 } }
       },
       "place_loot": [
-        { "group": "oven", "x": [ 19, 20 ], "y": 8, "chance": 90, "repeat": 2 },
+        { "group": "SUS_oven", "x": [ 19, 20 ], "y": 8, "chance": 90, "repeat": 2 },
         { "group": "power_tools", "x": [ 17, 19 ], "y": 10, "chance": 75, "repeat": 3 },
         { "group": "supplies_reagents_lab", "x": [ 17, 19 ], "y": 10, "chance": 75, "repeat": 3 },
         { "group": "tools_gunsmith", "x": [ 16, 18 ], "y": 14, "chance": 75, "repeat": 3 },
@@ -488,7 +483,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_bandits_roof" ],
     "weight": 1000,
     "object": {
@@ -524,7 +518,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_overrun" ],
     "//": "Variant four, zombie takeover.  Incomplete version based off the original design, implies they were struggling with an outbreak while still under construction.",
     "weight": 1000,
@@ -613,7 +606,7 @@
       "mapping": {
         "~": { "item": [ { "item": "ash", "chance": 30, "amount": [ 25, 50 ] }, { "item": "bone_human", "chance": 10 } ] },
         "B": { "items": { "item": "bed", "chance": 75 } },
-        "C": { "items": [ { "item": "oven", "chance": 50 } ] },
+        "C": { "items": [ { "item": "SUS_oven", "chance": 50 } ] },
         "D": {
           "items": [
             { "item": "dresser", "chance": 90 },
@@ -650,7 +643,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_overrun_roof" ],
     "weight": 1000,
     "object": {
@@ -686,7 +678,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_2" ],
     "//": "Prepper NPCs variant.",
     "weight": 1000,
@@ -788,7 +779,7 @@
       "place_toilets": [ { "x": 16, "y": 20 }, { "x": 18, "y": 20 }, { "x": 20, "y": 20 } ],
       "mapping": {
         "B": { "items": { "item": "bed", "chance": 75 } },
-        "C": { "items": [ { "item": "oven", "chance": 90 } ] },
+        "C": { "items": [ { "item": "SUS_oven", "chance": 90 } ] },
         "D": {
           "items": [
             { "item": "dresser", "chance": 90 },
@@ -850,7 +841,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_2_roof" ],
     "weight": 1000,
     "object": {
@@ -886,7 +876,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_Lot_Preppers" ],
     "//": "Buffer space for inhabited survivor encampment, used to spawn players outside them in the relevant scenario.",
     "weight": 1000,
@@ -926,7 +915,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "Survivor_Encampment_Lot_Generic" ],
     "//": "Used for all other encampment variants to ensure that players in the relevant scenario never spawn at a hostile camp.",
     "weight": 1000,

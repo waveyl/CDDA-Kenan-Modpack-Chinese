@@ -111,94 +111,74 @@
   {
     "id": "stealth_cloak_f",
     "copy-from": "acs_74_stealth_cloak_on",
-    "type": "ARMOR",
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
     "name": "obsolete stealth cloak"
   },
   {
     "id": "stealth_cloak",
     "copy-from": "acs_74_stealth_cloak_on",
-    "type": "ARMOR",
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
     "name": "obsolete stealth cloak (on)"
   },
   {
     "id": "flesh_blade_on",
     "copy-from": "flesh_blade",
-    "type": "ARMOR",
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
     "name": "obsolete biological sword"
   },
   {
     "id": "mold_metal",
-    "type": "TOOL",
+    "type": "ITEM",
+	"subtypes": [ "TOOL" ],
     "color": "light_gray",
     "symbol": ";",
     "name": "metal mold",
     "description": "This is a makeshift mold made from plastic.  It could be shaped and used to craft items made of metal.",
     "price": "10 USD",
     "material": "plastic",
-    "weight": "4 g",
-    "volume": "3750 ml"
+    "weight": "4g",
+    "volume": "15ml"
   },
   {
     "id": "encyclopedia_barter",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Barter"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Barter" },
     "description": "The bartering volume of the Rebuilding Civilization encyclopedia.  This book contains everything from what supplies are worth more after the cataclysm to what economic system to use in your new society in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "speech",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "speech",
     "read_fun": -5
   },
   {
     "id": "c_mutagen_super_soldier",
     "type": "vitamin",
     "vit_type": "counter",
-    "name": {
-      "str": "Nano-mutagenic Serum"
-    },
+    "name": { "str": "Nano-mutagenic Serum" },
     "excess": "c_mutagen_super_soldier",
     "min": 0,
     "max": 2500,
     "rate": "1 h",
-    "disease_excess": [
-      [
-        100,
-        500
-      ],
-      [
-        501,
-        2199
-      ],
-      [
-        2200,
-        2500
-      ]
-    ]
+    "disease_excess": [ [ 100, 500 ], [ 501, 2199 ], [ 2200, 2500 ] ]
   },
   {
     "type": "effect_type",
     "id": "c_mutagen_super_soldier",
-    "name": [
-      "Light Nano-mutagenic Exposure",
-      "Nano-mutagenic Exposure",
-      "Heavy Nano-mutagenic Exposure"
-    ],
+    "name": [ "Light Nano-mutagenic Exposure", "Nano-mutagenic Exposure", "Heavy Nano-mutagenic Exposure" ],
     "desc": [
       "You've exposed yourself to a targeted mutagenic treatment, capable of heavily altering your body.",
       "You've treated yourself with a potent targeted mutagenic treatment, steadily rewriting your DNA.",
@@ -219,757 +199,607 @@
   },
   {
     "id": "encyclopedia_mechanics_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Mechanics"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Mechanics" },
     "description": "The mechanics volume of the Rebuilding Civilization encyclopedia.  This book contains everything from simple machines to the inner workings of submarine engines in extremly fine detail no practical exam.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "mechanics",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "mechanics",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_fabrication_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Fabrication"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Fabrication" },
     "description": "The fabrication volume of the Rebuilding Civilization encyclopedia.  This book contains everything from creating how to create simple stone tools to the creation of the pyramids of Egypt in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "fabrication",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "fabrication",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_archery_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Archery"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Archery" },
     "description": "The archery volume of the Rebuilding Civilization encyclopedia.  This book contains everything from correct positioning to the usage of advanced bows in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "archery",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "archery",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_barter_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Barter"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Barter" },
     "description": "The bartering volume of the Rebuilding Civilization encyclopedia.  This book contains everything from what supplies are worth more after the cataclysm to what economic system to use in your new society in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "speech",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "speech",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_bashing_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Bashing Weapons"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Bashing Weapons" },
     "description": "The bashing weapons volume of the Rebuilding Civilization encyclopedia.  This book contains everything from self defense with a pipe to the proper swinging technique for a sledge hammer in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "bashing",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "bashing",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_computer_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Computers"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Computers" },
     "description": "The computer volume of the Rebuilding Civilization encyclopedia.  This book contains everything from basic programing to cyber security algorithms in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "computer",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "computer",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_cooking_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Cooking"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Cooking" },
     "description": "The cooking volume of the Rebuilding Civilization encyclopedia.  This book contains everything from cooking small game to basic chemistry in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "cooking",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "cooking",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_cutting_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Cutting Weapons"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Cutting Weapons" },
     "description": "The cutting weapons volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using a glass shiv to medieval swordsmanship in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "cutting",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "cutting",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_dodge_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Dodging"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Dodging" },
     "description": "The dodging volume of the Rebuilding Civilization encyclopedia.  This book contains everything from dancing for beginners to parkour in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "dodge",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "dodge",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_driving_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Driving"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Driving" },
     "description": "The driving volume of the Rebuilding Civilization encyclopedia.  This book contains everything from acquiring a driving license to professional racing in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "driving",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "driving",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_electronics_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Electronics"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Electronics" },
     "description": "The electronics volume of the Rebuilding Civilization encyclopedia.  This book contains everything from simple circuits to military robotics in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "electronics",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "electronics",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_firstaid_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: First Aid"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: First Aid" },
     "description": "The first aid volume of the Rebuilding Civilization encyclopedia.  This book contains everything from proper bandage application to exploratory surgery in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "firstaid",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "firstaid",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_gun_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Marksmanship"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Marksmanship" },
     "description": "The marksmanship volume of the Rebuilding Civilization encyclopedia.  This book contains everything from proper iron sight aiming to military sniper techniques in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "gun",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "gun",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_launcher_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Launchers"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Launchers" },
     "description": "The launchers volume of the Rebuilding Civilization encyclopedia.  This book contains everything from the use of spraycan flamethrowers to recoiless rifles in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "launcher",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "launcher",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_melee_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Melee Combat"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Melee Combat" },
     "description": "The melee combat volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using a branch to martial arts techniques in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "melee",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "melee",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_pistol_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str": "Rebuilding Civilization: Pistols",
-      "str_pl": "Rebuilding Civilization: Pistols"
-    },
+    "name": { "str": "Rebuilding Civilization: Pistols", "str_pl": "Rebuilding Civilization: Pistols" },
     "description": "The pistols volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using zip pistols to laser pistols in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "pistol",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "pistol",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_rifle_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Rifles"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Rifles" },
     "description": "The rifles volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using zip rifles to laser rifles in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "rifle",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "rifle",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_shotgun_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Shotguns"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Shotguns" },
     "description": "The shotguns volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using zip shotguns to laser scatter guns in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "shotgun",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "shotgun",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_smg_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Sub Machineguns"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Sub Machineguns" },
     "description": "The sub machineguns volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using makeshift smgs to automatic laser carbines in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "smg",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "smg",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_speech_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Speech"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Speech" },
     "description": "The speech volume of the Rebuilding Civilization encyclopedia.  This book contains everything from recruiting survivors to running for political office in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "speech",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "speech",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_stabbing_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Piercing Weapons"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Piercing Weapons" },
     "description": "The piercing weapons volume of the Rebuilding Civilization encyclopedia.  This book contains everything from using switchblades to spear combat in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "stabbing",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "stabbing",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_survival_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Survival"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Survival" },
     "description": "The survival volume of the Rebuilding Civilization encyclopedia.  This book contains everything from camping to survival on a deserted island in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "survival",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "survival",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_swimming_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Swimming"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Swimming" },
     "description": "The swimming volume of the Rebuilding Civilization encyclopedia.  This book contains everything from recreational swimming to crossing rivers in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "swimming",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "swimming",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_tailor_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Tailoring"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Tailoring" },
     "description": "The tailoring volume of the Rebuilding Civilization encyclopedia.  This book contains everything from fixing clothing tears to fashion designing in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "tailor",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "tailor",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_throw_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Throwing"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Throwing" },
     "description": "The throwing volume of the Rebuilding Civilization encyclopedia.  This book contains everything from throwing stones to spear hunting in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "throw",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "throw",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_traps_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Traps"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Traps" },
     "description": "The traps volume of the Rebuilding Civilization encyclopedia.  This book contains everything from spike pits to disarming landmines in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "traps",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "traps",
     "read_fun": -5
   },
   {
     "id": "encyclopedia_unarmed_advance",
-    "type": "BOOK",
+    "type": "ITEM",
+	"subtypes": [ "BOOK" ],
     "looks_like": "textbook_chemistry",
-    "name": {
-      "str_sp": "Rebuilding Civilization: Unarmed Combat"
-    },
+    "name": { "str_sp": "Rebuilding Civilization: Unarmed Combat" },
     "description": "The unarmed volume of the Rebuilding Civilization encyclopedia.  This book contains everything from self defense techniques to MMA fighting in fine detail.  This book is so technical, longwinded and dry that even bookworms and fast readers would find it hard to read.  Literally any other book on the subject would be a more efficient way to learn but if the books you have are missing specific information then this is a good substitute until you find something better.",
     "weight": "1800 g",
     "volume": "2000 ml",
     "price": "100 USD",
     "price_postapoc": "10 USD",
-    "melee_damage": {
-      "bash": 4
-    },
-    "material": [
-      "paper"
-    ],
+    "melee_damage": { "bash": 4 },
+    "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
+    "read_skill": "unarmed",
     "required_level": 0,
     "max_level": 10,
     "intelligence": 12,
     "time": "180 m",
-    "read_skill": "unarmed",
     "read_fun": -5
   },
   {
     "id": "c_flesh_pistol_regen",
     "type": "SPELL",
-    "name": {
-      "str": "Weave Magazine"
-    },
+    "name": { "str": "Weave Magazine" },
     "description": "Creates a small fleshwoven magazine.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "A tendril slithers from the biological pistol and jabs into you, draining something before a small magazine of living flesh weaves itself together and sloughs off the weapon.",
-    "extra_effects": [
-      {
-        "id": "c_flesh_pistol_regen_2",
-        "hit_self": true
-      }
-    ],
-    "flags": [
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "extra_effects": [ { "id": "c_flesh_pistol_regen_2", "hit_self": true } ],
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "flesh_pistol_magazine",
@@ -982,18 +812,10 @@
   {
     "id": "c_flesh_pistol_regen_2",
     "type": "SPELL",
-    "name": {
-      "str": "Fleshweaving Side Effect"
-    },
+    "name": { "str": "Fleshweaving Side Effect" },
     "description": "Small amount of extra hunger.",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "SILENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "SILENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "c_flesh_magazine_side_effect",
@@ -1003,26 +825,12 @@
   {
     "id": "c_flesh_smg_regen",
     "type": "SPELL",
-    "name": {
-      "str": "Weave Magazine"
-    },
+    "name": { "str": "Weave Magazine" },
     "description": "Creates a fleshwoven magazine.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "A tendril slithers from the biological sub-machinegun and jabs into you, draining something before a small magazine of living flesh weaves itself together and sloughs off the weapon.",
-    "extra_effects": [
-      {
-        "id": "c_flesh_smg_regen_2",
-        "hit_self": true
-      }
-    ],
-    "flags": [
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "extra_effects": [ { "id": "c_flesh_smg_regen_2", "hit_self": true } ],
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "flesh_smg_magazine",
@@ -1035,18 +843,10 @@
   {
     "id": "c_flesh_smg_regen_2",
     "type": "SPELL",
-    "name": {
-      "str": "Fleshweaving Side Effect"
-    },
+    "name": { "str": "Fleshweaving Side Effect" },
     "description": "Small amount of extra hunger.",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "SILENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "SILENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "c_flesh_magazine_side_effect",
@@ -1056,26 +856,12 @@
   {
     "id": "c_flesh_rifle_regen",
     "type": "SPELL",
-    "name": {
-      "str": "Weave Magazine"
-    },
+    "name": { "str": "Weave Magazine" },
     "description": "Creates a fleshwoven magazine.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "A tendril slithers from the biological rifle and jabs into you, draining something before a small magazine of living flesh weaves itself together and sloughs off the weapon.",
-    "extra_effects": [
-      {
-        "id": "c_flesh_rifle_regen_2",
-        "hit_self": true
-      }
-    ],
-    "flags": [
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "extra_effects": [ { "id": "c_flesh_rifle_regen_2", "hit_self": true } ],
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "flesh_rifle_magazine",
@@ -1088,18 +874,10 @@
   {
     "id": "c_flesh_rifle_regen_2",
     "type": "SPELL",
-    "name": {
-      "str": "Fleshweaving Side Effect"
-    },
+    "name": { "str": "Fleshweaving Side Effect" },
     "description": "Small amount of extra hunger.",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "SILENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "SILENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "c_flesh_magazine_side_effect",
@@ -1109,26 +887,12 @@
   {
     "id": "c_flesh_lmg_regen",
     "type": "SPELL",
-    "name": {
-      "str": "Weave Magazine"
-    },
+    "name": { "str": "Weave Magazine" },
     "description": "Creates a fleshwoven magazine.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "A tendril slithers from the biological machinegun and jabs into you, draining something before a small magazine of living flesh weaves itself together and sloughs off the weapon.",
-    "extra_effects": [
-      {
-        "id": "c_flesh_lmg_regen_2",
-        "hit_self": true
-      }
-    ],
-    "flags": [
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "extra_effects": [ { "id": "c_flesh_lmg_regen_2", "hit_self": true } ],
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "flesh_lmg_magazine",
@@ -1141,19 +905,10 @@
   {
     "id": "c_flesh_lmg_regen_2",
     "type": "SPELL",
-    "name": {
-      "str": "Fleshweaving Side Effect"
-    },
+    "name": { "str": "Fleshweaving Side Effect" },
     "description": "Small amount of extra hunger.",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "SILENT",
-      "RANDOM_DURATION",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "SILENT", "RANDOM_DURATION", "NO_HANDS", "NO_LEGS" ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "c_flesh_magazine_side_effect",
@@ -1163,26 +918,12 @@
   {
     "id": "c_flesh_shotgun_regen",
     "type": "SPELL",
-    "name": {
-      "str": "Weave Magazine"
-    },
+    "name": { "str": "Weave Magazine" },
     "description": "Creates a fleshwoven magazine.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "A tendril slithers from the biological scattergun and jabs into you, draining something before a small magazine of living flesh weaves itself together and sloughs off the weapon.",
-    "extra_effects": [
-      {
-        "id": "c_flesh_shotgun_regen_2",
-        "hit_self": true
-      }
-    ],
-    "flags": [
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "extra_effects": [ { "id": "c_flesh_shotgun_regen_2", "hit_self": true } ],
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "flesh_shotgun_magazine",
@@ -1195,18 +936,10 @@
   {
     "id": "c_flesh_shotgun_regen_2",
     "type": "SPELL",
-    "name": {
-      "str": "Fleshweaving Side Effect"
-    },
+    "name": { "str": "Fleshweaving Side Effect" },
     "description": "Small amount of extra hunger.",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "SILENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "SILENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "attack",
     "shape": "blast",
     "effect_str": "c_flesh_magazine_side_effect",
@@ -1217,294 +950,154 @@
     "type": "effect_type",
     "id": "c_flesh_magazine_side_effect",
     "max_duration": "1 m",
-    "base_mods": {
-      "hunger_min": [
-        1
-      ]
-    }
+    "base_mods": { "hunger_min": [ 1 ] }
   },
   {
     "id": "flesh_pistol_magazine",
-    "type": "MAGAZINE",
-    "name": {
-      "str": "fleshwoven pistol magazine"
-    },
+    "type": "ITEM",
+	"subtypes": [ "MAGAZINE" ],
+    "name": { "str": "fleshwoven pistol magazine" },
     "description": "A chunk of woven sinew and mutated bone, that feels like it's holding some sort of liquid.  It was grown for use with the biological pistol.",
     "weight": "200 g",
     "volume": "200 ml",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [
-      "battery"
-    ],
+    "ammo_type": [ "battery" ],
     "count": 10,
     "capacity": 10,
-    "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE",
-        "rigid": true,
-        "ammo_restriction": {
-          "battery": 10
-        }
-      }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 10 } } ],
     "reload_time": 100,
-    "flags": [
-      "MAG_COMPACT",
-      "MAG_DESTROY",
-      "NO_UNLOAD"
-    ]
+    "flags": [ "MAG_COMPACT", "MAG_DESTROY", "NO_UNLOAD" ]
   },
   {
     "id": "flesh_smg_magazine",
-    "type": "MAGAZINE",
-    "name": {
-      "str": "fleshwoven SMG magazine"
-    },
+    "type": "ITEM",
+	"subtypes": [ "MAGAZINE" ],
+    "name": { "str": "fleshwoven SMG magazine" },
     "description": "A chunk of woven sinew and mutated bone, that feels like it's holding some sort of liquid.  It was grown for use with the biological sub-machinegun.",
     "weight": "600 g",
     "volume": "600 ml",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [
-      "battery"
-    ],
+    "ammo_type": [ "battery" ],
     "count": 30,
     "capacity": 30,
-    "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE",
-        "rigid": true,
-        "ammo_restriction": {
-          "battery": 30
-        }
-      }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 30 } } ],
     "reload_time": 100,
-    "flags": [
-      "MAG_COMPACT",
-      "MAG_DESTROY",
-      "NO_UNLOAD"
-    ]
+    "flags": [ "MAG_COMPACT", "MAG_DESTROY", "NO_UNLOAD" ]
   },
   {
     "id": "flesh_rifle_magazine",
-    "type": "MAGAZINE",
-    "name": {
-      "str": "fleshwoven rifle magazine"
-    },
+    "type": "ITEM",
+	"subtypes": [ "MAGAZINE" ],
+    "name": { "str": "fleshwoven rifle magazine" },
     "description": "A chunk of woven sinew and mutated bone, that feels like it's holding some sort of liquid.  It was grown for use with the biological rifle.",
     "weight": "300 g",
     "volume": "300 ml",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [
-      "battery"
-    ],
+    "ammo_type": [ "battery" ],
     "count": 15,
     "capacity": 15,
-    "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE",
-        "rigid": true,
-        "ammo_restriction": {
-          "battery": 15
-        }
-      }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 15 } } ],
     "reload_time": 100,
-    "flags": [
-      "MAG_COMPACT",
-      "MAG_DESTROY",
-      "NO_UNLOAD"
-    ]
+    "flags": [ "MAG_COMPACT", "MAG_DESTROY", "NO_UNLOAD" ]
   },
   {
     "id": "flesh_lmg_magazine",
-    "type": "MAGAZINE",
-    "name": {
-      "str": "fleshwoven LMG magazine"
-    },
+    "type": "ITEM",
+	"subtypes": [ "MAGAZINE" ],
+    "name": { "str": "fleshwoven LMG magazine" },
     "description": "A small chunk of woven sinew and mutated bone, that feels like it's holding some sort of liquid.  It was grown for use with the biological machinegun.",
     "weight": "1 kg",
     "volume": "1 L",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [
-      "battery"
-    ],
+    "ammo_type": [ "battery" ],
     "count": 50,
     "capacity": 50,
-    "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE",
-        "rigid": true,
-        "ammo_restriction": {
-          "battery": 50
-        }
-      }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 50 } } ],
     "reload_time": 100,
-    "flags": [
-      "MAG_BULKY",
-      "MAG_DESTROY",
-      "NO_UNLOAD"
-    ]
+    "flags": [ "MAG_BULKY", "MAG_DESTROY", "NO_UNLOAD" ]
   },
   {
     "id": "flesh_shotgun_magazine",
-    "type": "MAGAZINE",
-    "name": {
-      "str": "fleshwoven shotgun magazine"
-    },
+    "type": "ITEM",
+	"subtypes": [ "MAGAZINE" ],
+    "name": { "str": "fleshwoven shotgun magazine" },
     "description": "A small chunk of woven sinew and mutated bone, that feels like it's holding some sort of liquid.  It was grown for use with the biological scattergun.",
     "weight": "400 g",
     "volume": "400 ml",
-    "material": [
-      "flesh"
-    ],
+    "material": [ "flesh" ],
     "symbol": "#",
     "color": "light_gray",
-    "ammo_type": [
-      "battery"
-    ],
+    "ammo_type": [ "battery" ],
     "count": 20,
     "capacity": 20,
-    "pocket_data": [
-      {
-        "pocket_type": "MAGAZINE",
-        "rigid": true,
-        "ammo_restriction": {
-          "battery": 20
-        }
-      }
-    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 20 } } ],
     "reload_time": 100,
-    "flags": [
-      "MAG_COMPACT",
-      "MAG_DESTROY",
-      "NO_UNLOAD"
-    ]
+    "flags": [ "MAG_COMPACT", "MAG_DESTROY", "NO_UNLOAD" ]
   },
   {
     "id": "c_stealth_cloak",
     "type": "enchantment",
     "has": "WORN",
     "condition": "ALWAYS",
-    "values": [
-      {
-        "value": "SPEED",
-        "add": -20
-      },
-      {
-        "value": "STRENGTH",
-        "add": -4
-      },
-      {
-        "value": "DEXTERITY",
-        "add": -4
-      }
-    ],
-    "ench_effects": [
-      {
-        "effect": "invisibility",
-        "intensity": 1
-      }
-    ]
+    "values": [ { "value": "SPEED", "add": -20 }, { "value": "STRENGTH", "add": -4 }, { "value": "DEXTERITY", "add": -4 } ],
+    "ench_effects": [ { "effect": "invisibility", "intensity": 1 } ]
   },
   {
-    "type": "GENERIC",
+    "type": "ITEM",
     "//": "pseudo item, used as fuel type for atomic battery CBM",
     "id": "c_atomic_battery_power",
     "symbol": "?",
     "color": "white",
-    "name": {
-      "str": "Alphavoltaic Power",
-      "str_pl": "none"
-    },
+    "name": { "str": "Alphavoltaic Power", "str_pl": "none" },
     "description": "seeing this is a bug",
     "stackable": true,
     "volume": "0 ml",
-    "material": [
-      "c_atomic_battery_power"
-    ],
-    "flags": [
-      "PSEUDO",
-      "PERPETUAL"
-    ]
+    "material": [ "c_atomic_battery_power" ],
+    "flags": [ "PSEUDO", "PERPETUAL" ]
   },
   {
     "id": "bio_atomic_battery_2",
     "type": "bionic",
-    "name": {
-      "str": "Obsolete CBM"
-    },
+    "name": { "str": "Obsolete CBM" },
     "description": "This is a now-unneeded holdover from back when Atomic Battery had to work around code bugs and would only generate power when turned off instead of when turned on.",
-    "flags": [
-      "BIONIC_SHOCKPROOF"
-    ]
+    "flags": [ "BIONIC_SHOCKPROOF" ]
   },
   {
     "id": "bio_atomic_battery_2",
     "copy-from": "bionic_general",
-    "type": "BIONIC_ITEM",
-    "name": {
-      "str": "Obsolete CBM"
-    },
+    "type": "ITEM",
+	"subtypes": [ "BIONIC_ITEM" ],
+    "name": { "str": "Obsolete CBM" },
     "description": "This is a now-unneeded holdover from back when Atomic Battery had to work around code bugs and would only generate power when turned off instead of when turned on."
   },
   {
     "id": "hydrogen_convertor",
-    "type": "GUNMOD",
-    "name": {
-      "str": "obsolete gunmod"
-    },
+    "type": "ITEM",
+	"subtypes": [ "GUNMOD" ],
+    "name": { "str": "obsolete gunmod" },
     "description": "This item has been dummied out from the DDA version of Cata++, as pocket data has been set in such a way that ammo conversion gunmods no longer work as well as they used to, requiring overrides for any relevent weapon to prevent errors from occurring (and maybe compatibility with other mods that add more plasma weapons impossible without added patchmods).",
     "weight": "380 g",
     "volume": "250 ml",
     "integral_volume": "0 ml",
     "price": "1000 USD",
     "price_postapoc": "5 USD",
-    "material": [
-      "steel"
-    ],
+    "material": [ "steel" ],
     "symbol": ":",
     "color": "light_gray",
     "location": "emitter",
-    "mod_targets": [
-      "pistol",
-      "rifle",
-      "launcher"
-    ],
+    "mod_targets": [ "pistol", "rifle", "launcher" ],
     "install_time": "30 m",
-    "min_skills": [
-      [
-        "weapon",
-        3
-      ],
-      [
-        "electronics",
-        2
-      ]
-    ],
-    "acceptable_ammo": [
-      "plasma"
-    ],
-    "ammo_modifier": [
-      "c_hydrogen"
-    ]
+    "min_skills": [ [ "weapon", 3 ], [ "electronics", 2 ] ],
+    "acceptable_ammo": [ "plasma" ],
+    "ammo_modifier": [ "c_hydrogen" ]
   },
   {
     "result": "hydrogen_convertor",
@@ -1609,47 +1202,35 @@
   {
     "id": "shmap",
     "category": "maps",
-    "type": "GENERIC",
+    "type": "ITEM",
     "symbol": ";",
     "color": "blue",
     "looks_like": "survivormap",
-    "name": {
-      "str_sp": "Bugout Location Directions"
-    },
+    "name": { "str_sp": "Bugout Location Directions" },
     "description": "A map and set of directions, leading to somebody's rendezvous point.  The name scribbled in one corner seems faintly familiar.",
-    "material": [
-      "paper"
-    ],
+    "material": [ "paper" ],
     "weight": "30 g",
     "volume": "250 ml",
     "to_hit": -1,
     "use_action": {
       "type": "reveal_map",
       "radius": 180,
-      "terrain": [
-        "Survivor_Holdout_1"
-      ],
+      "terrain": [ "Survivor_Holdout_1" ],
       "message": "Thoroughly poring over the map, you memorize the location."
     }
   },
   {
     "id": "surcan",
-    "type": "TOOL",
+    "type": "ITEM",
+	"subtypes": [ "TOOL" ],
     "color": "light_gray",
     "symbol": ",",
     "looks_like": "can_medium",
-    "name": {
-      "str": "survival kit in a can",
-      "str_pl": "survival kits in cans"
-    },
+    "name": { "str": "survival kit in a can", "str_pl": "survival kits in cans" },
     "description": "A large tin can held together by a tab and seal.  Remove the seal to split the container into two smaller cans and reveal its contents.  It contains carefully packed survival items with a list of them on the side of the can.  You could not possibly put its contents back together.",
     "price": "6 USD",
-    "material": [
-      "steel"
-    ],
-    "flags": [
-      "WATERPROOF"
-    ],
+    "material": [ "steel" ],
+    "flags": [ "WATERPROOF" ],
     "weight": "103 g",
     "volume": "500 ml",
     "to_hit": -1
@@ -1669,16 +1250,11 @@
     "looks_like": "field",
     "mondensity": 0,
     "extras": "field",
-    "flags": [
-      "NO_ROTATE"
-    ]
+    "flags": [ "NO_ROTATE" ]
   },
   {
-    "type": "mapgen",
-    "method": "json",
-    "om_terrain": [
-      "b_field"
-    ],
+	"type": "mapgen",
+    "om_terrain": [ "b_field" ],
     "weight": 1000,
     "object": {
       "rows": [
@@ -1707,78 +1283,68 @@
         ",,,..,,,,,,,,,,,,,,,,,,.",
         ",,,.,,,,.,,,,,,,,,,,,,,,"
       ],
-      "terrain": {
-        ",": "t_grass",
-        ".": "t_dirt"
-      }
+      "terrain": { ",": "t_grass", ".": "t_dirt" }
     }
   },
   {
     "id": "fancy_house_coat",
     "copy-from": "house_coat",
     "repairs_like": "house_coat",
-    "type": "ARMOR",
-    "name": {
-      "str": "designer bathrobe"
-    },
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
+    "name": { "str": "designer bathrobe" },
     "description": "An outer garment of absorbent, towel-like material traditionally worn to cover one's nakedness to and from the bath.  It makes you wish you had running water to bathe with.  This one has a golden logo of a now irrelevant fashion company sewn on."
   },
   {
     "id": "fancy_bra",
     "copy-from": "bra",
     "repairs_like": "bra",
-    "type": "ARMOR",
-    "name": {
-      "str": "designer bra"
-    },
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
+    "name": { "str": "designer bra" },
     "description": "A luxurious designer bra.  Serves its purpose and feels good on you."
   },
   {
     "id": "fancy_panties",
     "copy-from": "panties",
     "repairs_like": "panties",
-    "type": "ARMOR",
-    "name": {
-      "str_sp": "designer panties"
-    },
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
+    "name": { "str_sp": "designer panties" },
     "description": "A luxurious set of designer panties. Preserves your modesty and feels good on you."
   },
   {
     "id": "fancy_briefs",
     "copy-from": "briefs",
     "repairs_like": "briefs",
-    "type": "ARMOR",
-    "name": {
-      "str_sp": "designer briefs"
-    },
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
+    "name": { "str_sp": "designer briefs" },
     "description": "A pair of designer briefs.  Comfortable and fashionable underwear worn by men."
   },
   {
     "id": "fancy_boxer_shorts",
     "copy-from": "boxer_shorts",
     "repairs_like": "boxer_shorts",
-    "type": "ARMOR",
-    "name": {
-      "str_sp": "designer boxer shorts"
-    },
+    "type": "ITEM",
+	"subtypes": [ "ARMOR" ],
+    "name": { "str_sp": "designer boxer shorts" },
     "description": "Men's designer boxer shorts.  Much more fashionable than briefs and just as comfortable."
   },
   {
     "id": "fancy_boxer_briefs",
     "copy-from": "boxer_briefs",
     "repairs_like": "boxer_briefs",
-    "type": "ARMOR",
-    "name": {
-      "str_sp": "designer boxer briefs"
-    },
+    "type": "ITEM",
+	"subtypes": [ "TOOL" ],
+    "name": { "str_sp": "designer boxer briefs" },
     "description": "The age-old question, boxers or briefs?  Your answer?  Yes, the fancy kind."
   },
   {
     "id": "mutagenic_ampoule",
-    "type": "COMESTIBLE",
-    "name": {
-      "str": "mutagenic hemoampoule"
-    },
+    "type": "ITEM",
+	"subtypes": [ "COMESTIBLE" ],
+    "name": { "str": "mutagenic hemoampoule" },
     "description": "A resinous capsule filled with what looks like congealed blood, mixed with mutagenic compounds.  Not as strong as mutagenic serum, but will require a syringe to use.",
     "price": "1000 USD",
     "price_postapoc": "50 cent",
@@ -1791,30 +1357,19 @@
     "healthy": -2,
     "addiction_potential": 6,
     "addiction_type": "mutagen",
-    "flags": [
-      "NO_INGEST"
-    ],
+    "flags": [ "NO_INGEST" ],
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You inject the mutagenic hemoampoule's contents.",
-      "tools_needed": {
-        "syringe": -1
-      },
-      "vitamins": [
-        [
-          "mutagen",
-          450,
-          550
-        ]
-      ]
+      "tools_needed": { "syringe": -1 },
+      "vitamins": [ [ "mutagen", 450, 550 ] ]
     }
   },
   {
     "id": "purified_ampoule",
-    "type": "COMESTIBLE",
-    "name": {
-      "str": "purified hemoampoule"
-    },
+    "type": "ITEM",
+	"subtypes": [ "COMESTIBLE" ],
+    "name": { "str": "purified hemoampoule" },
     "description": "A resinous capsule filled with what looks like congealed blood, mixed with stabilizing compounds.  Mimics the effects of purifier, but requires a syringe to use.",
     "price": "6000 USD",
     "price_postapoc": "5 USD",
@@ -1828,78 +1383,38 @@
     "addiction_potential": 8,
     "addiction_type": "mutagen",
     "tool": "syringe",
-    "flags": [
-      "NO_INGEST"
-    ],
+    "flags": [ "NO_INGEST" ],
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You inject the purified hemoampoule's contents.",
-      "tools_needed": {
-        "syringe": -1
-      },
-      "vitamins": [
-        [
-          "mutagen_human",
-          450,
-          550
-        ],
-        [
-          "mutagen",
-          125
-        ]
-      ]
+      "tools_needed": { "syringe": -1 },
+      "vitamins": [ [ "mutagen_human", 450, 550 ], [ "mutagen", 125 ] ]
     }
   },
   {
     "id": "c_infusion",
     "type": "SPELL",
-    "name": {
-      "str": "Hemocatalyzed Infusion"
-    },
+    "name": { "str": "Hemocatalyzed Infusion" },
     "description": "Creates a bio-ampoule filled with mutagen, adds additional side effects.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "",
-    "flags": [
-      "NO_EXPLOSION_SFX",
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "flags": [ "NO_EXPLOSION_SFX", "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "mutagenic_ampoule",
     "//": "Reuses the pain effect Biostim calls for.",
-    "extra_effects": [
-      {
-        "id": "c_biostim_pain",
-        "hit_self": true
-      },
-      {
-        "id": "c_hemo_damage",
-        "hit_self": true
-      }
-    ],
+    "extra_effects": [ { "id": "c_biostim_pain", "hit_self": true }, { "id": "c_hemo_damage", "hit_self": true } ],
     "min_duration": 1,
     "max_duration": 1
   },
   {
     "id": "c_hemo_damage",
     "type": "SPELL",
-    "name": {
-      "str": "Hemocatalyst Damage"
-    },
+    "name": { "str": "Hemocatalyst Damage" },
     "description": "Adds the damaging side effect to the infuser and defuser.",
     "message": "",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "NO_EXPLOSION_SFX",
-      "SILENT"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "NO_EXPLOSION_SFX", "SILENT" ],
     "effect": "attack",
     "shape": "blast",
     "min_damage": 10,
@@ -1909,34 +1424,15 @@
   {
     "id": "c_defusion",
     "type": "SPELL",
-    "name": {
-      "str": "Hemocatalyzed Defusion"
-    },
+    "name": { "str": "Hemocatalyzed Defusion" },
     "description": "Creates a bio-ampoule filled with purifer, adds additional side effects.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "message": "",
-    "flags": [
-      "NO_EXPLOSION_SFX",
-      "SILENT",
-      "PERMANENT",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "flags": [ "NO_EXPLOSION_SFX", "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
     "effect": "spawn_item",
     "shape": "blast",
     "effect_str": "purified_ampoule",
-    "extra_effects": [
-      {
-        "id": "c_biostim_pain",
-        "hit_self": true
-      },
-      {
-        "id": "c_hemo_damage",
-        "hit_self": true
-      }
-    ],
+    "extra_effects": [ { "id": "c_biostim_pain", "hit_self": true }, { "id": "c_hemo_damage", "hit_self": true } ],
     "min_duration": 1,
     "max_duration": 1
   }

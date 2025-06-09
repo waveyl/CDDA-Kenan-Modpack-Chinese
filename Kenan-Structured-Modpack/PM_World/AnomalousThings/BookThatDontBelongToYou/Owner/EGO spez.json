@@ -14,20 +14,14 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Invoke Bond",
     "description": "Activate your bond with EGO 9:2, strengthening you and wreathing you in flame.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "effect_on_condition",
     "effect_str": "92_stage_1_activation",
     "shape": "blast",
     "magic_type": "EGO_Invocation",
     "min_aoe": 0,
     "max_aoe": 0,
-    "min_duration": {
-      "math": [
-        "600 + (600 * (u_spell_level('EGO_92')^2))"
-      ]
-    },
+    "min_duration": { "math": ["600 + (600 * (u_spell_level('EGO_92')^2))"] },
     "duration_increment": 0,
     "base_casting_time": 200,
     "final_casting_time": 50,
@@ -39,53 +33,19 @@
     "energy_source": "STAMINA",
     "difficulty": 3,
     "max_level": 30,
-    "flags": [
-      "SILENT",
-      "CONCENTRATE",
-      "NON_MAGICAL",
-      "NO_EXPLOSION_SFX",
-      "NO_HANDS",
-      "NO_LEGS"
-    ]
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_HANDS", "NO_LEGS" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_stage_1_activation",
-    "condition": {
-      "not": {
-        "u_has_effect": "EGO_CD"
-      }
-    },
+    "condition": { "not": { "u_has_effect": "EGO_CD" } },
     "effect": [
+      { "u_add_effect": "EGO_CD", "duration":  { "math": ["300 + (6 * (u_spell_level('EGO_92_invoke')^2))"] } },
+      { "math": [ "u_vitamin('emotion') -= 20" ] },
       {
-        "u_add_effect": "EGO_CD",
-        "duration": {
-          "math": [
-            "300 + (6 * (u_spell_level('EGO_92_invoke')^2))"
-          ]
-        }
+        "u_cast_spell": { "id": "EGO_92_success", "hit_self": true, "min_level": { "math": [ "u_spell_level('EGO_92_invoke')" ] } }
       },
-      {
-        "math": [
-          "u_vitamin('emotion') -= 20"
-        ]
-      },
-      {
-        "u_cast_spell": {
-          "id": "EGO_92_success",
-          "hit_self": true,
-          "min_level": {
-            "math": [
-              "u_spell_level('EGO_92_invoke')"
-            ]
-          }
-        }
-      },
-      {
-        "math": [
-          "u_health() -= 3"
-        ]
-      },
+      { "math": [ "u_health() -= 3" ] },
       {
         "u_add_morale": "ego_morale",
         "bonus": -10,
@@ -95,23 +55,12 @@
       },
       {
         "run_eocs": "clear_spell_92",
-        "time_in_future": {
-          "math": [
-            "6 + (6 * (u_spell_level('EGO_92_invoke')^2))"
-          ]
-        }
+        "time_in_future": { "math": ["6 + (6 * (u_spell_level('EGO_92_invoke')^2))"] }
       }
     ],
     "false_effect": [
-      {
-        "u_message": "EGO on cooldown!",
-        "type": "bad"
-      },
-      {
-        "math": [
-          "u_health() -= 1"
-        ]
-      },
+      { "u_message": "EGO on cooldown!", "type": "bad" },
+      { "math": [ "u_health() -= 1" ] },
       {
         "u_add_morale": "ego_morale",
         "bonus": -6,
@@ -126,19 +75,13 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 stage 1 activation",
     "description": "Разжигает внутреннее пламя, на короткое время даруя силу и стойкость к огню.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "spawn_item",
     "effect_str": "EGO_92_aura",
     "shape": "blast",
     "min_aoe": 0,
     "max_aoe": 0,
-    "min_duration": {
-      "math": [
-        "600 + (600 * (u_spell_level('EGO_92')^2))"
-      ]
-    },
+    "min_duration": { "math": ["600 + (600 * (u_spell_level('EGO_92')^2))"] },
     "duration_increment": 0,
     "base_casting_time": 0,
     "final_casting_time": 0,
@@ -148,14 +91,7 @@
     "energy_source": "NONE",
     "difficulty": 3,
     "max_level": 30,
-    "flags": [
-      "SILENT",
-      "CONCENTRATE",
-      "NON_MAGICAL",
-      "NO_EXPLOSION_SFX",
-      "NO_HANDS",
-      "NO_LEGS"
-    ]
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_HANDS", "NO_LEGS" ]
   },
   {
     "id": "EGO_92_aura",
@@ -164,309 +100,88 @@
     "description": "A spiral of flame wreaths you, enhancing your capabilities beyond that of mortality. May your foes be burned as they strike at you, and warmth be your ally, not your foe.",
     "weight": "0 g",
     "volume": "0 ml",
-    "material": [
-      "wind"
-    ],
+    "material": [ "wind" ],
     "symbol": "0",
     "color": "white",
-    "flags": [
-      "ZERO_WEIGHT",
-      "NO_TAKEOFF"
-    ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "id": "EGO_92_stage_1_ench"
-        },
-        {
-          "id": "EGO_92_stage_2_ench"
-        },
-        {
-          "id": "EGO_92_stage_3_ench"
-        },
-        {
-          "id": "EGO_92_invoke_ench"
-        },
-        {
-          "id": "EGO_92_invoke_ench3"
-        }
-      ]
-    }
+    "flags": [ "ZERO_WEIGHT", "NO_TAKEOFF" ],
+    "relic_data": { "passive_effects": [ { "id": "EGO_92_stage_1_ench" }, { "id": "EGO_92_stage_2_ench" }, { "id": "EGO_92_stage_3_ench" }, { "id": "EGO_92_invoke_ench" }, { "id": "EGO_92_invoke_ench3" } ] }
   },
   {
     "type": "enchantment",
     "id": "EGO_92_stage_1_ench",
     "has": "WORN",
-    "condition": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') < 10"
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "92_weak_strike",
-        "once_in": 2
-      }
-    ],
-    "mutations": [
-      "EGO_92_mutation_stage_1"
-    ],
+    "condition": { "math": [ "u_spell_level('EGO_92_invoke') < 10" ] },
+    "hit_you_effect": [ { "id": "92_weak_strike", "once_in": 2 } ],
+    "mutations": [ "EGO_92_mutation_stage_1" ],
     "values": [
-      {
-        "value": "LUMINATION",
-        "add": {
-          "math": [
-            "u_spell_level('EGO_92_invoke') * 2"
-          ]
-        }
-      },
-      {
-        "value": "CLIMATE_CONTROL_HEAT",
-        "add": 20
-      },
-      {
-        "value": "CLIMATE_CONTROL_CHILL",
-        "add": 10
-      }
+      { "value": "LUMINATION", "add": { "math": [ "u_spell_level('EGO_92_invoke') * 2" ] } },
+      { "value": "CLIMATE_CONTROL_HEAT", "add": 20 },
+      { "value": "CLIMATE_CONTROL_CHILL", "add": 10 }
     ],
-    "incoming_damage_mod": [
-      {
-        "type": "heat",
-        "add": {
-          "math": [
-            "u_spell_level('EGO_92_invoke') * -1.2"
-          ]
-        }
-      }
-    ]
+    "incoming_damage_mod": [ { "type": "heat", "add": { "math": [ "u_spell_level('EGO_92_invoke') * -1.2" ] } } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_stage_2_ench",
     "has": "WORN",
-    "condition": {
-      "and": [
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') >= 10"
-          ]
-        },
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') < 20"
-          ]
-        }
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "92_strike_hook_2"
-      }
-    ],
-    "mutations": [
-      "EGO_92_mutation_stage_2"
-    ],
+    "condition": { "and": [ { "math": [ "u_spell_level('EGO_92_invoke') >= 10" ] }, { "math": [ "u_spell_level('EGO_92_invoke') < 20" ] } ] },
+    "hit_you_effect": [ { "id": "92_strike_hook_2" } ],
+    "mutations": [ "EGO_92_mutation_stage_2" ],
     "values": [
-      {
-        "value": "LUMINATION",
-        "add": {
-          "math": [
-            "20 + u_spell_level('EGO_92_invoke') * 2"
-          ]
-        }
-      },
-      {
-        "value": "CLIMATE_CONTROL_HEAT",
-        "add": 50
-      },
-      {
-        "value": "CLIMATE_CONTROL_CHILL",
-        "add": 20
-      }
+      { "value": "LUMINATION", "add": { "math": [ "20 + u_spell_level('EGO_92_invoke') * 2" ] } },
+      { "value": "CLIMATE_CONTROL_HEAT", "add": 50 },
+      { "value": "CLIMATE_CONTROL_CHILL", "add": 20 }
     ],
-    "incoming_damage_mod": [
-      {
-        "type": "heat",
-        "add": {
-          "math": [
-            "-12 + u_spell_level('EGO_92_invoke') * -1.3"
-          ]
-        }
-      }
-    ]
+    "incoming_damage_mod": [ { "type": "heat", "add": { "math": [ "-12 + u_spell_level('EGO_92_invoke') * -1.3" ] } } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_stage_3_ench",
     "has": "WORN",
-    "condition": {
-      "and": [
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') >= 20"
-          ]
-        },
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') < 25"
-          ]
-        }
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "92_strike_hook_3"
-      }
-    ],
-    "mutations": [
-      "EGO_92_mutation_stage_3"
-    ],
+    "condition": { "and": [ { "math": [ "u_spell_level('EGO_92_invoke') >= 20" ] }, { "math": [ "u_spell_level('EGO_92_invoke') < 25" ] } ] },
+    "hit_you_effect": [ { "id": "92_strike_hook_3" } ],
+    "mutations": [ "EGO_92_mutation_stage_3" ],
     "values": [
-      {
-        "value": "LUMINATION",
-        "add": {
-          "math": [
-            "40 + u_spell_level('EGO_92_invoke') * 2"
-          ]
-        }
-      },
-      {
-        "value": "CLIMATE_CONTROL_HEAT",
-        "add": 80
-      },
-      {
-        "value": "CLIMATE_CONTROL_CHILL",
-        "add": 60
-      }
+      { "value": "LUMINATION", "add": { "math": [ "40 + u_spell_level('EGO_92_invoke') * 2" ] } },
+      { "value": "CLIMATE_CONTROL_HEAT", "add": 80 },
+      { "value": "CLIMATE_CONTROL_CHILL", "add": 60 }
     ],
-    "incoming_damage_mod": [
-      {
-        "type": "heat",
-        "add": {
-          "math": [
-            "-30 * u_spell_level('EGO_92_invoke') "
-          ]
-        }
-      }
-    ]
+    "incoming_damage_mod": [ { "type": "heat", "add": { "math": [ "-30 * u_spell_level('EGO_92_invoke') " ] } } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_invoke_ench",
     "has": "WORN",
-    "condition": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') >= 25"
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "92_strike_hook_4"
-      },
-      {
-        "id": "cinder_stack",
-        "hit_self": true,
-        "once_in": 6
-      }
-    ],
-    "mutations": [
-      "EGO_92_mutation_stage_4"
-    ],
+    "condition": { "math": [ "u_spell_level('EGO_92_invoke') >= 25" ] },
+    "hit_you_effect": [ { "id": "92_strike_hook_4" }, { "id": "cinder_stack", "hit_self": true, "once_in": 6 } ],
+    "mutations": [ "EGO_92_mutation_stage_4" ],
     "values": [
-      {
-        "value": "LUMINATION",
-        "add": {
-          "math": [
-            "60 + u_spell_level('EGO_92_invoke') * 5"
-          ]
-        }
-      },
-      {
-        "value": "CLIMATE_CONTROL_HEAT",
-        "add": 500
-      },
-      {
-        "value": "CLIMATE_CONTROL_CHILL",
-        "add": 75
-      }
+      { "value": "LUMINATION", "add": { "math": [ "60 + u_spell_level('EGO_92_invoke') * 5" ] } },
+      { "value": "CLIMATE_CONTROL_HEAT", "add": 500 },
+      { "value": "CLIMATE_CONTROL_CHILL", "add": 75 }
     ],
-    "incoming_damage_mod": [
-      {
-        "type": "heat",
-        "add": {
-          "math": [
-            "-300 * u_spell_level('EGO_92_invoke')"
-          ]
-        }
-      }
-    ]
+    "incoming_damage_mod": [ { "type": "heat", "add": { "math": [ "-300 * u_spell_level('EGO_92_invoke')" ] } } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_invoke_ench1",
     "has": "WIELD",
-    "condition": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') >= 25"
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "92_sword_strike2"
-      }
-    ]
+    "condition": { "math": [ "u_spell_level('EGO_92_invoke') >= 25" ] },
+    "hit_you_effect": [ { "id": "92_sword_strike2" } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_invoke_ench2",
     "has": "WIELD",
-    "condition": {
-      "and": [
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') >= 25"
-          ]
-        },
-        {
-          "not": {
-            "u_has_effect": "cinders",
-            "intensity": 10
-          }
-        }
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "cinder_stack",
-        "hit_self": true,
-        "once_in": 3
-      }
-    ]
+    "condition": { "and": [ { "math": [ "u_spell_level('EGO_92_invoke') >= 25" ] }, { "not": { "u_has_effect": "cinders", "intensity": 10 } } ] },
+    "hit_you_effect": [ { "id": "cinder_stack", "hit_self": true, "once_in": 3 } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_invoke_ench3",
     "has": "WORN",
-    "condition": {
-      "and": [
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') >= 25"
-          ]
-        },
-        {
-          "math": [
-            "u_spell_level('EGO_92_invoke') >= 25"
-          ]
-        }
-      ]
-    },
-    "hit_you_effect": [
-      {
-        "id": "92_flame_hook_4",
-        "once_in": 3
-      }
-    ]
+    "condition": { "and": [ { "math": [ "u_spell_level('EGO_92_invoke') >= 25" ] }, { "math": [ "u_spell_level('EGO_92_invoke') >= 25" ] } ] },
+    "hit_you_effect": [ { "id": "92_flame_hook_4", "once_in": 3 } ]
   },
   {
     "type": "mutation",
@@ -487,12 +202,7 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "spells_learned": [
-      [
-        "92_sword_weak_hook",
-        1
-      ]
-    ]
+    "spells_learned": [ [ "92_sword_weak_hook", 1 ] ]
   },
   {
     "type": "mutation",
@@ -503,20 +213,8 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "flags": [
-      "PROPHET_RESIST",
-      "HEAT_IMMUNE"
-    ],
-    "spells_learned": [
-      [
-        "92_sword_normal_hook",
-        1
-      ],
-      [
-        "92_armor_normal_hook",
-        1
-      ]
-    ]
+    "flags": [ "PROPHET_RESIST", "HEAT_IMMUNE" ],
+    "spells_learned": [ [ "92_sword_normal_hook", 1 ], [ "92_armor_normal_hook", 1 ] ]
   },
   {
     "type": "mutation",
@@ -527,21 +225,8 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "flags": [
-      "PROPHET_RESIST",
-      "HEAT_IMMUNE",
-      "CLIMATE_CONTROL"
-    ],
-    "spells_learned": [
-      [
-        "92_sword_empower_hook",
-        1
-      ],
-      [
-        "92_armor_empower_hook",
-        1
-      ]
-    ]
+    "flags": [ "PROPHET_RESIST", "HEAT_IMMUNE", "CLIMATE_CONTROL" ],
+    "spells_learned": [ [ "92_sword_empower_hook", 1 ], [ "92_armor_empower_hook", 1 ] ]
   },
   {
     "id": "92_weak_strike",
@@ -550,23 +235,10 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "NO_EXPLOSION_SFX"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_SFX" ],
     "max_level": 1,
-    "min_damage": {
-      "math": [
-        "1 + 0.2 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_damage": { "math": [ "1 + 0.2 * u_spell_level('EGO_92_invoke')" ] },
     "max_damage": 3,
     "min_range": 1,
     "max_range": 1,
@@ -575,17 +247,9 @@
     "min_aoe": 0,
     "max_aoe": 0,
     "spell_class": "EGO_92",
-    "base_casting_time": {
-      "math": [
-        "200 - 15 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "200 - 15 * u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 50,
-    "base_energy_cost": {
-      "math": [
-        "3000 - 50 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_energy_cost": { "math": [ "3000 - 50 * u_spell_level('EGO_92_invoke')" ] },
     "final_energy_cost": 500,
     "energy_increment": -50,
     "damage_type": "heat",
@@ -598,9 +262,7 @@
     "type": "SPELL",
     "name": "[ט] Imperfect EGO 9:2 - Summon sword ",
     "description": "Call forth the imperfect blade of a prophet.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "spawn_item",
     "effect_str": "92_sword_weak_item",
     "shape": "blast",
@@ -608,11 +270,7 @@
     "max_range": 0,
     "min_aoe": 0,
     "max_aoe": 0,
-    "min_duration": {
-      "math": [
-        "2500 + 75 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_duration": { "math": [ "2500 + 75 * u_spell_level('EGO_92_invoke')" ] },
     "max_duration": 10000,
     "base_casting_time": 80,
     "final_casting_time": 80,
@@ -623,20 +281,13 @@
     "message": "*A clot of flame appears in your hand, forms a sword and solidifies into a solid form*",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_FAIL",
-      "NO_LEGS",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_HANDS" ]
   },
   {
     "id": "92_sword_weak_item",
     "type": "TOOL",
     "category": "weapons",
-    "name": {
-      "str": "<color_blue>Sword of Prophet</color>"
-    },
+    "name": { "str": "<color_blue>Sword of Prophet</color>" },
     "description": "desc",
     "looks_like": "ego_teth",
     "weight": "2119 g",
@@ -646,39 +297,12 @@
     "color": "light_gray",
     "price": "0 USD",
     "price_postapoc": "0 USD",
-    "material": [
-      {
-        "type": "flesh",
-        "portion": 1.1
-      },
-      {
-        "type": "b_steel",
-        "portion": 160
-      }
-    ],
-    "flags": [
-      "ALWAYS_TWOHAND",
-      "DURABLE_MELEE",
-      "SHEATH_SWORD",
-      "REACH_ATTACK"
-    ],
-    "techniques": [
-      "WBLOCK_1"
-    ],
-    "to_hit": {
-      "grip": "weapon",
-      "length": "long",
-      "surface": "line",
-      "balance": "good"
-    },
-    "weapon_category": [
-      "GREAT_SWORDS"
-    ],
-    "melee_damage": {
-      "heat": 19,
-      "cut": 6,
-      "bash": 2
-    }
+    "material": [ { "type": "flesh", "portion": 1.1 }, { "type": "b_steel", "portion": 160 } ],
+    "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "SHEATH_SWORD", "REACH_ATTACK" ],
+    "techniques": [ "WBLOCK_1" ],
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "line", "balance": "good" },
+    "weapon_category": [ "GREAT_SWORDS" ],
+    "melee_damage": { "heat": 19, "cut": 6, "bash": 2 }
   },
   {
     "id": "92_strike_hook_2",
@@ -687,30 +311,12 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "NO_EXPLOSION_SFX",
-      "IGNITE_FLAMMABLE"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_SFX", "IGNITE_FLAMMABLE" ],
     "max_level": 10,
-    "min_damage": {
-      "math": [
-        "3 + 0.3 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_damage": { "math": [ "3 + 0.3 * u_spell_level('EGO_92_invoke')" ] },
     "max_damage": 6,
-    "min_pierce": {
-      "math": [
-        "0.3 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_pierce": { "math": [ "0.3 * u_spell_level('EGO_92_invoke')" ] },
     "max_pierce": 3,
     "min_range": 1,
     "max_range": 1,
@@ -719,26 +325,20 @@
     "min_aoe": 0,
     "max_aoe": 0,
     "spell_class": "EGO_92",
-    "base_casting_time": {
-      "math": [
-        "200 - 5 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "200 - 5 * u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 100,
     "base_energy_cost": 140,
     "damage_type": "heat",
     "sound_description": "fush",
     "message": "Wshh!",
     "energy_source": "NONE"
-  },
+  },  
   {
     "id": "92_sword_normal_hook",
     "type": "SPELL",
     "name": "9:2 sword summon true",
     "description": " technical desc",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "min_damage": 1,
     "max_damage": 1,
     "effect": "spawn_item",
@@ -752,27 +352,16 @@
     "spell_class": "EGO_92",
     "base_energy_cost": 750,
     "final_energy_cost": 750,
-    "min_duration": {
-      "math": [
-        "1000 + 2300 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_duration": { "math": [ "1000 + 2300 * u_spell_level('EGO_92_invoke')" ] },
     "max_duration": 24000,
     "message": "A clot of flame appears in your hand, forms a sword and solidifies into a solid form.",
-    "flags": [
-      "SILENT",
-      "NO_FAIL",
-      "NO_LEGS",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_HANDS" ]
   },
   {
     "id": "92_sword_item",
     "type": "TOOL",
     "category": "weapons",
-    "name": {
-      "str": "<color_blue>Sword of Prophet</color>"
-    },
+    "name": { "str": "<color_blue>Sword of Prophet</color>" },
     "description": "desc",
     "weight": "2319 g",
     "volume": "3250 ml",
@@ -782,80 +371,27 @@
     "looks_like": "ego_teth",
     "price": "0 USD",
     "price_postapoc": "0 USD",
-    "material": [
-      {
-        "type": "prophet_flesh",
-        "portion": 1.1
-      },
-      {
-        "type": "b_steel",
-        "portion": 160
-      }
-    ],
-    "flags": [
-      "ALWAYS_TWOHAND",
-      "DURABLE_MELEE",
-      "SHEATH_SWORD",
-      "REACH_ATTACK"
-    ],
-    "techniques": [
-      "WBLOCK_1",
-      "BRUTAL"
-    ],
-    "to_hit": {
-      "grip": "weapon",
-      "length": "long",
-      "surface": "line",
-      "balance": "good"
-    },
-    "weapon_category": [
-      "GREAT_SWORDS"
-    ],
-    "melee_damage": {
-      "heat": 29,
-      "cut": 6,
-      "bash": 2,
-      "prophet_heat": 15
-    },
-    "relic_data": {
-      "passive_effects": [
-        {
-          "id": "EGO_92_stage_3_ench1"
-        },
-        {
-          "id": "EGO_92_stage_3_ench2"
-        }
-      ]
-    }
+    "material": [ { "type": "prophet_flesh", "portion": 1.1 }, { "type": "b_steel", "portion": 160 } ],
+    "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "SHEATH_SWORD", "REACH_ATTACK" ],
+    "techniques": [ "WBLOCK_1", "BRUTAL" ],
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "line", "balance": "good" },
+    "weapon_category": [ "GREAT_SWORDS" ],
+    "melee_damage": { "heat": 29, "cut": 6, "bash": 2, "prophet_heat": 15 },
+    "relic_data": { "passive_effects": [ { "id": "EGO_92_stage_3_ench1" }, { "id": "EGO_92_stage_3_ench2" } ] }
   },
   {
     "type": "enchantment",
     "id": "EGO_92_stage_3_ench1",
     "has": "WIELD",
     "condition": "ALWAYS",
-    "hit_you_effect": [
-      {
-        "id": "92_sword_strike"
-      }
-    ]
+    "hit_you_effect": [ { "id": "92_sword_strike" } ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_stage_3_ench2",
     "has": "WIELD",
-    "condition": {
-      "not": {
-        "u_has_effect": "cinders",
-        "intensity": 5
-      }
-    },
-    "hit_you_effect": [
-      {
-        "id": "cinder_stack",
-        "hit_self": true,
-        "once_in": 4
-      }
-    ]
+    "condition": { "not": { "u_has_effect": "cinders", "intensity": 5 } },
+    "hit_you_effect": [ { "id": "cinder_stack", "hit_self": true, "once_in": 4 } ]
   },
   {
     "id": "92_sword_strike",
@@ -864,29 +400,11 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "IGNITE_FLAMMABLE",
-      "NO_EXPLOSION_SFX"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "IGNITE_FLAMMABLE", "NO_EXPLOSION_SFX" ],
     "max_level": 1,
-    "min_damage": {
-      "math": [
-        "u_effect_intensity('cinders') * 2"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "u_effect_intensity('cinders') * 2"
-      ]
-    },
+    "min_damage": { "math": [ "u_effect_intensity('cinders') * 2" ] },
+    "max_damage": { "math": [ "u_effect_intensity('cinders') * 2" ] },
     "min_range": 1,
     "max_range": 1,
     "range_increment": 0,
@@ -907,9 +425,7 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Summon armor",
     "description": "Call forth the armor of a prophet.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "spawn_item",
     "effect_str": "92_armor_normal_item",
     "shape": "blast",
@@ -917,11 +433,7 @@
     "max_range": 0,
     "min_aoe": 0,
     "max_aoe": 0,
-    "min_duration": {
-      "math": [
-        "1000 + 2300 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_duration": { "math": [ "1000 + 2300 * u_spell_level('EGO_92_invoke')" ] },
     "max_duration": 24000,
     "base_casting_time": 80,
     "final_casting_time": 80,
@@ -932,66 +444,32 @@
     "difficulty": 0,
     "max_level": 1,
     "message": "The flame enveloped you, but it does not burn, after which the armor of the Prophet materialized on you.",
-    "flags": [
-      "SILENT",
-      "NO_FAIL",
-      "NO_LEGS",
-      "NO_ARMS",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_ARMS", "NO_HANDS" ]
   },
   {
     "id": "92_armor_normal_item",
     "type": "ARMOR",
-    "name": {
-      "str": "EGO Armor of 9:2"
-    },
+    "name": { "str": "EGO Armor of 9:2" },
     "description": " desc of 9:2 coat",
     "weight": "3842 g",
     "volume": "500 ml",
     "price": "0 cent",
     "looks_like": "ego_teth",
     "price_postapoc": "0 cent",
-    "material": [
-      "prophet_flesh"
-    ],
+    "material": [ "prophet_flesh" ],
     "symbol": "[",
     "color": "dark_gray",
     "warmth": 20,
     "material_thickness": 2.2,
     "environmental_protection": 15,
-    "flags": [
-      "AURA",
-      "WATER_FRIENDLY",
-      "PROPHET_RESIST",
-      "UNRESTRICTED"
-    ],
+    "flags": [ "AURA", "WATER_FRIENDLY", "PROPHET_RESIST", "UNRESTRICTED" ],
     "armor": [
       {
         "coverage": 100,
-        "covers": [
-          "head",
-          "mouth",
-          "eyes",
-          "torso",
-          "arm_l",
-          "arm_r",
-          "hand_l",
-          "hand_r",
-          "leg_l",
-          "leg_r",
-          "foot_l",
-          "foot_r"
-        ]
+        "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
       }
     ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "id": "EGO_92_stage_3_ench_armor"
-        }
-      ]
-    }
+    "relic_data": { "passive_effects": [ { "id": "EGO_92_stage_3_ench_armor" } ] }
   },
   {
     "type": "enchantment",
@@ -999,62 +477,24 @@
     "has": "WORN",
     "condition": "ALWAYS",
     "values": [
-      {
-        "value": "ARMOR_ALL",
-        "multiply": {
-          "math": [
-            "1 + u_effect_intensity('cinders') * 0.1"
-          ]
-        }
-      },
-      {
-        "value": "SPEED",
-        "add": {
-          "math": [
-            "4 * u_effect_intensity('cinders')"
-          ]
-        }
-      }
+      { "value": "ARMOR_ALL", "multiply": { "math": [ "1 + u_effect_intensity('cinders') * 0.1" ] } },
+      { "value": "SPEED", "add": { "math": [ "4 * u_effect_intensity('cinders')" ] } }
     ],
-    "hit_me_effect": [
-      {
-        "id": "92_retal"
-      }
-    ]
+    "hit_me_effect": [ { "id": "92_retal" } ]
   },
   {
     "id": "92_retal",
     "type": "SPELL",
     "name": "9:2 retaliation",
     "description": "hit your enemy back by fire",
-    "valid_targets": [
-      "hostile"
-    ],
-    "flags": [
-      "NO_EXPLOSION_SFX",
-      "SILENT",
-      "NO_PROJECTILE",
-      "IGNITE_FLAMMABLE",
-      "NO_EXPLOSION_SFX"
-    ],
+    "valid_targets": [ "hostile" ],
+    "flags": [ "NO_EXPLOSION_SFX", "SILENT", "NO_PROJECTILE", "IGNITE_FLAMMABLE", "NO_EXPLOSION_SFX" ],
     "effect": "attack",
     "shape": "blast",
     "damage_type": "heat",
-    "min_damage": {
-      "math": [
-        "u_effect_intensity('cinders') * 2"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "u_effect_intensity('cinders') * 2"
-      ]
-    },
-    "damage_increment": {
-      "math": [
-        "u_effect_intensity('cinders') * 2"
-      ]
-    },
+    "min_damage": { "math": [ "u_effect_intensity('cinders') * 2" ] },
+    "max_damage": { "math": [ "u_effect_intensity('cinders') * 2" ] },
+    "damage_increment": { "math": [ "u_effect_intensity('cinders') * 2" ] },
     "min_range": 3,
     "max_range": 3,
     "range_increment": 1,
@@ -1068,29 +508,12 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "NO_EXPLOSION_SFX"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_SFX" ],
     "max_level": 1,
-    "min_damage": {
-      "math": [
-        "3 + 0.3 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_damage": { "math": [ "3 + 0.3 * u_spell_level('EGO_92_invoke')" ] },
     "max_damage": 6,
-    "min_pierce": {
-      "math": [
-        "3 + 0.3 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_pierce": { "math": [ "3 + 0.3 * u_spell_level('EGO_92_invoke')" ] },
     "max_pierce": 6,
     "min_range": 1,
     "max_range": 1,
@@ -1099,18 +522,10 @@
     "min_aoe": 0,
     "max_aoe": 0,
     "spell_class": "EGO_92",
-    "base_casting_time": {
-      "math": [
-        "100 - 5 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "100 - 5 * u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 100,
     "casting_time_increment": -5,
-    "base_energy_cost": {
-      "math": [
-        "3000 - 50 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_energy_cost": { "math": [ "3000 - 50 * u_spell_level('EGO_92_invoke')" ] },
     "final_energy_cost": 500,
     "damage_type": "heat",
     "sound_description": "fush",
@@ -1121,17 +536,8 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 Stage 4 Explosion",
     "description": "Erupt into flames like a glorious phoenix.",
-    "valid_targets": [
-      "self",
-      "ground"
-    ],
-    "flags": [
-      "NO_PROJECTILE",
-      "IGNITE_FLAMMABLE",
-      "RANDOM_DAMAGE",
-      "NO_HANDS",
-      "NO_LEGS"
-    ],
+    "valid_targets": [ "self", "ground" ],
+    "flags": [ "NO_PROJECTILE", "IGNITE_FLAMMABLE", "RANDOM_DAMAGE", "NO_HANDS", "NO_LEGS" ],
     "difficulty": 0,
     "max_level": 10,
     "effect": "attack",
@@ -1162,23 +568,12 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Gaze",
     "description": "desc",
-    "valid_targets": [
-      "hostile",
-      "ally"
-    ],
+    "valid_targets": [ "hostile", "ally" ],
     "effect": "effect_on_condition",
     "effect_str": "92_gaze_hook_eoc",
     "shape": "blast",
-    "min_range": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') * 3.5"
-      ]
-    },
-    "max_range": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') * 3.5"
-      ]
-    },
+    "min_range": { "math": [ "u_spell_level('EGO_92_invoke') * 3.5" ] },
+    "max_range": { "math": [ "u_spell_level('EGO_92_invoke') * 3.5" ] },
     "min_aoe": 0,
     "max_aoe": 0,
     "min_duration": 200,
@@ -1191,14 +586,7 @@
     "energy_source": "STAMINA",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "CONCENTRATE",
-      "NON_MAGICAL",
-      "NO_EXPLOSION_SFX",
-      "NO_HANDS",
-      "NO_LEGS"
-    ]
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_HANDS", "NO_LEGS" ]
   },
   {
     "id": "92_gaze",
@@ -1207,17 +595,8 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile",
-      "self"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS"
-    ],
+    "valid_targets": [ "ally", "hostile", "self" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS" ],
     "max_level": 15,
     "min_damage": 0,
     "max_damage": 40,
@@ -1225,16 +604,8 @@
     "min_duration": 6000,
     "max_duration": 6000,
     "effect_str": "92_gaze_effect",
-    "min_range": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') * 3.5"
-      ]
-    },
-    "max_range": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') * 3.5"
-      ]
-    },
+    "min_range": { "math": [ "u_spell_level('EGO_92_invoke') * 3.5" ] },
+    "max_range": { "math": [ "u_spell_level('EGO_92_invoke') * 3.5" ] },
     "range_increment": 0,
     "difficulty": 0,
     "min_dot": 0,
@@ -1254,12 +625,8 @@
   {
     "type": "effect_type",
     "id": "92_gaze_effect",
-    "name": [
-      "Under the Gaze"
-    ],
-    "desc": [
-      "You were watched"
-    ],
+    "name": [ "Under the Gaze" ],
+    "desc": [ "You were watched" ],
     "apply_message": "Someone looked at you with malevolent intentions.",
     "rating": "neutral",
     "max_duration": "1 m",
@@ -1269,12 +636,8 @@
   {
     "type": "effect_type",
     "id": "GAZE_CD",
-    "name": [
-      "Cooldown of Gaze"
-    ],
-    "desc": [
-      "Avert your eyes, and wait a minute."
-    ],
+    "name": [ "Cooldown of Gaze" ],
+    "desc": [ "Avert your eyes, and wait a minute." ],
     "apply_message": " desc",
     "rating": "neutral",
     "max_duration": "1 m",
@@ -1284,33 +647,17 @@
   {
     "type": "effect_on_condition",
     "id": "92_gaze_hook_eoc",
-    "condition": {
-      "not": {
-        "npc_has_effect": "GAZE_CD"
-      }
-    },
+    "condition": { "not": { "npc_has_effect": "GAZE_CD" } },
     "effect": [
-      {
-        "npc_add_effect": "GAZE_CD",
-        "duration": "1 minutes"
-      },
+      { "npc_add_effect": "GAZE_CD", "duration": "1 minutes" },
       {
         "u_cast_spell": {
           "id": "92_gaze",
-          "min_level": {
-            "math": [
-              "(n_spell_level('EGO_92_invoke') / 2) + n_effect_intensity('cinders')"
-            ]
-          }
+          "min_level": { "math": [ "(n_spell_level('EGO_92_invoke') / 2) + n_effect_intensity('cinders')" ] }
         }
       }
     ],
-    "false_effect": [
-      {
-        "message": "Gaze on cooldown!",
-        "type": "bad"
-      }
-    ]
+    "false_effect": [ { "message": "Gaze on cooldown!", "type": "bad" } ]
   },
   {
     "type": "effect_on_condition",
@@ -1319,25 +666,13 @@
     "required_event": "character_kills_monster",
     "condition": {
       "and": [
-        {
-          "npc_has_effect": "92_gaze_effect"
-        },
-        {
-          "math": [
-            "u_monsters_nearby('mon_candle_allied', 'attitude': 'friendly') <= 4"
-          ]
-        }
+        { "npc_has_effect": "92_gaze_effect" },
+        { "math": [ "u_monsters_nearby('mon_candle_allied', 'attitude': 'friendly') <= 4" ] }
       ]
     },
     "effect": [
-      {
-        "npc_location_variable": {
-          "global_val": "var_gaze_victim_loc"
-        }
-      },
-      {
-        "npc_lose_effect": "92_gaze_effect"
-      },
+      { "npc_location_variable": { "global_val": "var_gaze_victim_loc" } },
+      { "npc_lose_effect": "92_gaze_effect" },
       {
         "run_eocs": [
           {
@@ -1352,9 +687,7 @@
                 "friendly": true,
                 "spawn_message": "candle spawned from enemy from your gaze",
                 "spawn_message_plural": "candles spawned from enemy from your gaze",
-                "target_var": {
-                  "global_val": "var_gaze_victim_loc"
-                }
+                "target_var": { "global_val": "var_gaze_victim_loc" }
               }
             ]
           }
@@ -1367,11 +700,7 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Live Flame",
     "description": "live flame hook to eoc",
-    "valid_targets": [
-      "self",
-      "hostile",
-      "ally"
-    ],
+    "valid_targets": [ "self", "hostile", "ally" ],
     "effect": "effect_on_condition",
     "effect_str": "92_live_flame",
     "shape": "blast",
@@ -1389,20 +718,14 @@
     "energy_source": "STAMINA",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [
-      "SILENT"
-    ]
+    "flags": [ "SILENT" ]
   },
   {
     "id": "92_flame_apply",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Live Flame",
     "description": "live flame apply effect",
-    "valid_targets": [
-      "self",
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "self", "ally", "hostile" ],
     "effect": "attack",
     "effect_str": "92_live_flame_effect",
     "shape": "blast",
@@ -1423,10 +746,7 @@
     "difficulty": 0,
     "max_level": 1,
     "damage_type": "prophet_heat",
-    "flags": [
-      "SILENT",
-      "NO_EXPLOSION_SFX"
-    ]
+    "flags": [ "SILENT", "NO_EXPLOSION_SFX" ]
   },
   {
     "type": "effect_on_condition",
@@ -1436,26 +756,14 @@
         {
           "not": {
             "u_has_effect": "92_live_flame_effect",
-            "intensity": {
-              "math": [
-                "5 - u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-              ]
-            }
+            "intensity": { "math": [ "5 - u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] }
           }
         }
       ]
     },
-    "effect": [
-      {
-        "u_cast_spell": {
-          "id": "92_flame_apply"
-        }
-      }
-    ],
+    "effect": [ { "u_cast_spell": { "id": "92_flame_apply" } } ],
     "false_effect": [
-      {
-        "u_lose_effect": "92_live_flame_effect"
-      },
+      { "u_lose_effect": "92_live_flame_effect" },
       {
         "u_cast_spell": {
           "id": "92_flame_explosion",
@@ -1467,14 +775,8 @@
           "hit_self": true
         }
       },
-      {
-        "message": "<color_red>*loud explosion*</color>"
-      },
-      {
-        "u_make_sound": "explosion",
-        "volume": 33,
-        "type": "destructive_activity"
-      }
+      { "message": "<color_red>*loud explosion*</color>" },
+      { "u_make_sound": "explosion", "volume": 33, "type": "destructive_activity" }
     ]
   },
   {
@@ -1482,11 +784,7 @@
     "type": "SPELL",
     "name": "Live flame explosion",
     "description": "detonate living flame on target",
-    "valid_targets": [
-      "self",
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "self", "ally", "hostile" ],
     "effect": "attack",
     "effect_str": "92_live_flame_effect",
     "shape": "blast",
@@ -1507,26 +805,15 @@
     "difficulty": 0,
     "max_level": 15,
     "damage_type": "prophet_heat",
-    "extra_effects": [
-      {
-        "id": "92_flame_secondary_explosion"
-      }
-    ],
-    "flags": [
-      "LOUD",
-      "IGNITE_FLAMMABLE"
-    ]
+    "extra_effects": [ { "id": "92_flame_secondary_explosion" } ],
+    "flags": [ "LOUD", "IGNITE_FLAMMABLE" ]
   },
   {
     "id": "92_flame_secondary_explosion",
     "type": "SPELL",
     "name": "Living flame secondary explosion",
     "description": "detonate living flame on targets covered by explosion",
-    "valid_targets": [
-      "self",
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "self", "ally", "hostile" ],
     "effect": "effect_on_condition",
     "effect_str": "92_live_flame_secondary",
     "shape": "blast",
@@ -1544,9 +831,7 @@
     "energy_source": "STAMINA",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [
-      "SILENT"
-    ]
+    "flags": [ "SILENT" ]
   },
   {
     "type": "effect_on_condition",
@@ -1554,32 +839,14 @@
     "condition": {
       "not": {
         "u_has_effect": "92_live_flame_effect",
-        "intensity": {
-          "math": [
-            "5 - u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-          ]
-        }
+        "intensity": { "math": [ "5 - u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] }
       }
     },
     "false_effect": [
-      {
-        "u_lose_effect": "92_live_flame_effect"
-      },
-      {
-        "u_cast_spell": {
-          "id": "92_flame_explosion_secondary",
-          "min_level": 6,
-          "hit_self": true
-        }
-      },
-      {
-        "message": "<color_red>*loud explosion*</color>"
-      },
-      {
-        "npc_make_sound": "explosion",
-        "volume": 26,
-        "type": "destructive_activity"
-      }
+      { "u_lose_effect": "92_live_flame_effect" },
+      { "u_cast_spell": { "id": "92_flame_explosion_secondary", "min_level": 6, "hit_self": true } },
+      { "message": "<color_red>*loud explosion*</color>" },
+      { "npc_make_sound": "explosion", "volume": 26, "type": "destructive_activity" }
     ]
   },
   {
@@ -1587,11 +854,7 @@
     "type": "SPELL",
     "name": "Live flame explosion",
     "description": "detonate living flame on target",
-    "valid_targets": [
-      "self",
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "self", "ally", "hostile" ],
     "effect": "attack",
     "shape": "blast",
     "min_range": 1,
@@ -1611,39 +874,28 @@
     "difficulty": 0,
     "max_level": 15,
     "damage_type": "prophet_heat",
-    "flags": [
-      "LOUD",
-      "IGNITE_FLAMMABLE"
-    ]
+    "flags": [ "LOUD", "IGNITE_FLAMMABLE" ]
   },
   {
     "type": "effect_type",
     "id": "92_live_flame_effect",
-    "name": [
-      "<color_red>Live Flame</color>"
-    ],
-    "desc": [
-      "Living flame dances on you harmlesly"
-    ],
+    "name": [ "<color_red>Live Flame</color>" ],
+    "desc": [ "Living flame dances on you harmlesly" ],
     "max_intensity": 5,
     "rating": "bad",
     "show_in_info": true,
     "int_add_val": 1,
-    "base_mods": {},
-    "immune_flags": [
-      "PROPHET_RESIST",
-      "PROPHET_MINION"
-    ],
-    "scaling_mods": {}
+    "base_mods": {  },
+    "immune_flags": [ "PROPHET_RESIST", "PROPHET_MINION" ],
+    "scaling_mods": {  }
   },
+  
   {
     "id": "92_sword_empower_hook",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Summon sword and grimoire",
     "description": "Call forth the blade and grimoire of a True Prophet.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "spawn_item",
     "effect_str": "92_sword_item_empower",
     "shape": "blast",
@@ -1651,11 +903,7 @@
     "max_range": 0,
     "min_aoe": 0,
     "max_aoe": 0,
-    "min_duration": {
-      "math": [
-        "6000 + 7200 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_duration": { "math": [ "6000 + 7200 * u_spell_level('EGO_92_invoke')" ] },
     "max_duration": 78000,
     "base_casting_time": 35,
     "final_casting_time": 35,
@@ -1666,23 +914,13 @@
     "difficulty": 0,
     "max_level": 1,
     "message": "A clot of flame appears in your hand, forms a sword and solidifies into a solid form.",
-    "flags": [
-      "SILENT",
-      "CONCENTRATE",
-      "NON_MAGICAL",
-      "NO_EXPLOSION_SFX",
-      "NO_LEGS",
-      "NO_FAIL",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_LEGS", "NO_FAIL", "NO_HANDS" ]
   },
   {
     "id": "92_sword_item_empower",
     "type": "TOOL",
     "category": "weapons",
-    "name": {
-      "str": "<color_blue>Sword of Prophet</color>"
-    },
+    "name": { "str": "<color_blue>Sword of Prophet</color>" },
     "description": "desc",
     "weight": "1420 g",
     "volume": "3250 ml",
@@ -1692,67 +930,21 @@
     "looks_like": "ego_teth",
     "price": "0 USD",
     "price_postapoc": "0 USD",
-    "material": [
-      {
-        "type": "prophet_flesh",
-        "portion": 1.1
-      },
-      {
-        "type": "b_steel",
-        "portion": 160
-      }
-    ],
-    "flags": [
-      "ALWAYS_TWOHAND",
-      "DURABLE_MELEE",
-      "SHEATH_SWORD",
-      "REACH_ATTACK"
-    ],
-    "techniques": [
-      "WBLOCK_1",
-      "SEARING_STROKE",
-      "LONGING",
-      "92_KNOWLEDGE",
-      "92_IMMOLATE"
-    ],
-    "to_hit": {
-      "grip": "weapon",
-      "length": "long",
-      "surface": "line",
-      "balance": "good"
-    },
-    "weapon_category": [
-      "GREAT_SWORDS"
-    ],
-    "melee_damage": {
-      "heat": 50,
-      "cut": 15,
-      "bash": 10,
-      "prophet_heat": 25
-    },
+    "material": [ { "type": "prophet_flesh", "portion": 1.1 }, { "type": "b_steel", "portion": 160 } ],
+    "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "SHEATH_SWORD", "REACH_ATTACK" ],
+    "techniques": [ "WBLOCK_1", "SEARING_STROKE", "LONGING", "92_KNOWLEDGE", "92_IMMOLATE" ],
+    "to_hit": { "grip": "weapon", "length": "long", "surface": "line", "balance": "good" },
+    "weapon_category": [ "GREAT_SWORDS" ],
+    "melee_damage": { "heat": 50, "cut": 15, "bash": 10, "prophet_heat": 25 },
     "relic_data": {
       "passive_effects": [
-        {
-          "id": "EGO_92_stage_3_ench1"
-        },
-        {
-          "id": "EGO_92_stage_3_ench2"
-        },
-        {
-          "id": "EGO_92_sword_spellbook_0"
-        },
-        {
-          "id": "EGO_92_sword_spellbook_1"
-        },
-        {
-          "id": "EGO_92_sword_spellbook_2"
-        },
-        {
-          "id": "EGO_92_sword_spellbook_3"
-        },
-        {
-          "id": "EGO_92_sword_spellbook_4"
-        }
+        { "id": "EGO_92_stage_3_ench1" },
+        { "id": "EGO_92_stage_3_ench2" },
+        { "id": "EGO_92_sword_spellbook_0" },
+        { "id": "EGO_92_sword_spellbook_1" },
+        { "id": "EGO_92_sword_spellbook_2" },
+        { "id": "EGO_92_sword_spellbook_3" },
+        { "id": "EGO_92_sword_spellbook_4" }
       ]
     }
   },
@@ -1760,66 +952,36 @@
     "type": "enchantment",
     "id": "EGO_92_sword_spellbook_0",
     "has": "WIELD",
-    "condition": {
-      "math": [
-        "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') <= 0"
-      ]
-    },
-    "mutations": [
-      "EGO_92_sword_spellbook_0_mutation"
-    ]
+    "condition": { "math": [ "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') <= 0" ] },
+    "mutations": [ "EGO_92_sword_spellbook_0_mutation" ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_sword_spellbook_1",
     "has": "WIELD",
-    "condition": {
-      "math": [
-        "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') == 1"
-      ]
-    },
-    "mutations": [
-      "EGO_92_sword_spellbook_1_mutation"
-    ]
+    "condition": { "math": [ "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') == 1" ] },
+    "mutations": [ "EGO_92_sword_spellbook_1_mutation" ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_sword_spellbook_2",
     "has": "WIELD",
-    "condition": {
-      "math": [
-        "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') == 2"
-      ]
-    },
-    "mutations": [
-      "EGO_92_sword_spellbook_2_mutation"
-    ]
+    "condition": { "math": [ "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') == 2" ] },
+    "mutations": [ "EGO_92_sword_spellbook_2_mutation" ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_sword_spellbook_3",
     "has": "WIELD",
-    "condition": {
-      "math": [
-        "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') == 3"
-      ]
-    },
-    "mutations": [
-      "EGO_92_sword_spellbook_3_mutation"
-    ]
+    "condition": { "math": [ "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') == 3" ] },
+    "mutations": [ "EGO_92_sword_spellbook_3_mutation" ]
   },
   {
     "type": "enchantment",
     "id": "EGO_92_sword_spellbook_4",
     "has": "WIELD",
-    "condition": {
-      "math": [
-        "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 4"
-      ]
-    },
-    "mutations": [
-      "EGO_92_sword_spellbook_4_mutation"
-    ]
+    "condition": { "math": [ "u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 4" ] },
+    "mutations": [ "EGO_92_sword_spellbook_4_mutation" ]
   },
   {
     "type": "mutation",
@@ -1830,16 +992,7 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "spells_learned": [
-      [
-        "92_small_summon",
-        1
-      ],
-      [
-        "92_binding_flame",
-        1
-      ]
-    ]
+    "spells_learned": [ [ "92_small_summon", 1 ], [ "92_binding_flame", 1 ] ]
   },
   {
     "type": "mutation",
@@ -1850,16 +1003,7 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "spells_learned": [
-      [
-        "92_line_strike",
-        1
-      ],
-      [
-        "92_gaze_explode_hook",
-        1
-      ]
-    ]
+    "spells_learned": [ [ "92_line_strike", 1 ], [ "92_gaze_explode_hook", 1 ] ]
   },
   {
     "type": "mutation",
@@ -1870,16 +1014,7 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "spells_learned": [
-      [
-        "92_medium_summon",
-        1
-      ],
-      [
-        "92_flame_manifestation",
-        1
-      ]
-    ]
+    "spells_learned": [ [ "92_medium_summon", 1 ], [ "92_flame_manifestation", 1 ] ]
   },
   {
     "type": "mutation",
@@ -1890,16 +1025,7 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "spells_learned": [
-      [
-        "92_reignite",
-        1
-      ],
-      [
-        "92_fluidity",
-        1
-      ]
-    ]
+    "spells_learned": [ [ "92_reignite", 1 ], [ "92_fluidity", 1 ] ]
   },
   {
     "type": "mutation",
@@ -1910,16 +1036,7 @@
     "starting_trait": false,
     "purifiable": false,
     "valid": false,
-    "spells_learned": [
-      [
-        "92_big_summon",
-        1
-      ],
-      [
-        "92_evaporize",
-        1
-      ]
-    ]
+    "spells_learned": [ [ "92_big_summon", 1 ], [ "92_evaporize", 1 ] ]
   },
   {
     "id": "92_sword_strike2",
@@ -1928,29 +1045,11 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "NO_EXPLOSION_SFX",
-      "IGNITE_FLAMMABLE"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_SFX", "IGNITE_FLAMMABLE" ],
     "max_level": 1,
-    "min_damage": {
-      "math": [
-        "n_effect_intensity('cinders') * 2"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "n_effect_intensity('cinders') * 2"
-      ]
-    },
+    "min_damage": { "math": [ "n_effect_intensity('cinders') * 2" ] },
+    "max_damage": { "math": [ "n_effect_intensity('cinders') * 2" ] },
     "min_range": 1,
     "max_range": 1,
     "range_increment": 0,
@@ -1971,9 +1070,7 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Summon armor",
     "description": "Call forth the armor of a True Prophet.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "spawn_item",
     "effect_str": "92_armor_empower_item",
     "shape": "blast",
@@ -1981,11 +1078,7 @@
     "max_range": 0,
     "min_aoe": 0,
     "max_aoe": 0,
-    "min_duration": {
-      "math": [
-        "6000 + 7200 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_duration": { "math": [ "6000 + 7200 * u_spell_level('EGO_92_invoke')" ] },
     "max_duration": 78000,
     "base_casting_time": 80,
     "final_casting_time": 80,
@@ -1995,64 +1088,32 @@
     "energy_source": "STAMINA",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_ARMS",
-      "NO_FAIL",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_ARMS", "NO_FAIL", "NO_HANDS" ]
   },
   {
     "id": "92_armor_empower_item",
     "type": "ARMOR",
-    "name": {
-      "str": "EGO Armor of 9:2"
-    },
+    "name": { "str": "EGO Armor of 9:2" },
     "description": " desc of 9:2 coat",
     "weight": "3842 g",
     "volume": "500 ml",
     "price": "0 cent",
     "price_postapoc": "0 cent",
-    "material": [
-      "prophet_flesh"
-    ],
+    "material": [ "prophet_flesh" ],
     "symbol": "[",
     "color": "dark_gray",
     "warmth": 20,
     "looks_like": "ego_teth",
     "material_thickness": 4,
     "environmental_protection": 20,
-    "flags": [
-      "AURA",
-      "WATER_FRIENDLY",
-      "UNRESTRICTED"
-    ],
+    "flags": [ "AURA", "WATER_FRIENDLY", "UNRESTRICTED" ],
     "armor": [
       {
         "coverage": 100,
-        "covers": [
-          "head",
-          "mouth",
-          "eyes",
-          "torso",
-          "arm_l",
-          "arm_r",
-          "hand_l",
-          "hand_r",
-          "leg_l",
-          "leg_r",
-          "foot_l",
-          "foot_r"
-        ]
+        "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
       }
     ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "id": "EGO_92_invoke_ench_armor"
-        }
-      ]
-    }
+    "relic_data": { "passive_effects": [ { "id": "EGO_92_invoke_ench_armor" } ] }
   },
   {
     "type": "enchantment",
@@ -2060,60 +1121,24 @@
     "has": "WORN",
     "condition": "ALWAYS",
     "values": [
-      {
-        "value": "ARMOR_ALL",
-        "multiply": {
-          "math": [
-            "1 + u_effect_intensity('cinders') * 0.4"
-          ]
-        }
-      },
-      {
-        "value": "SPEED",
-        "add": {
-          "math": [
-            "6.5 * u_effect_intensity('cinders')"
-          ]
-        }
-      }
+      { "value": "ARMOR_ALL", "multiply": { "math": [ "1 + u_effect_intensity('cinders') * 0.4" ] } },
+      { "value": "SPEED", "add": { "math": [ "6.5 * u_effect_intensity('cinders')" ] } }
     ],
-    "hit_me_effect": [
-      {
-        "id": "92_retal2"
-      }
-    ]
+    "hit_me_effect": [ { "id": "92_retal2" } ]
   },
   {
     "id": "92_retal2",
     "type": "SPELL",
     "name": "9:2 retaliation",
     "description": "hit your enemy back by fire",
-    "valid_targets": [
-      "hostile"
-    ],
-    "flags": [
-      "NO_EXPLOSION_SFX",
-      "SILENT",
-      "NO_PROJECTILE"
-    ],
+    "valid_targets": [ "hostile" ],
+    "flags": [ "NO_EXPLOSION_SFX", "SILENT", "NO_PROJECTILE" ],
     "effect": "attack",
     "shape": "blast",
     "damage_type": "heat",
-    "min_damage": {
-      "math": [
-        "u_effect_intensity('cinders') * 7"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "u_effect_intensity('cinders') * 7"
-      ]
-    },
-    "damage_increment": {
-      "math": [
-        "u_effect_intensity('cinders') * 7"
-      ]
-    },
+    "min_damage": { "math": [ "u_effect_intensity('cinders') * 7" ] },
+    "max_damage": { "math": [ "u_effect_intensity('cinders') * 7" ] },
+    "damage_increment": { "math": [ "u_effect_intensity('cinders') * 7" ] },
     "min_range": 3,
     "max_range": 3,
     "range_increment": 1,
@@ -2127,28 +1152,11 @@
     "description": " desc",
     "effect": "attack",
     "shape": "blast",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "NO_EXPLOSION_SFX"
-    ],
-    "min_damage": {
-      "math": [
-        "2 + 2 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "valid_targets": [ "ally", "hostile" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_SFX" ],
+    "min_damage": { "math": [ "2 + 2 * u_spell_level('EGO_92_invoke')" ] },
     "max_damage": 15,
-    "min_pierce": {
-      "math": [
-        "5 + 5 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_pierce": { "math": [ "5 + 5 * u_spell_level('EGO_92_invoke')" ] },
     "max_pierce": 20,
     "min_range": 1,
     "max_range": 1,
@@ -2157,11 +1165,7 @@
     "min_aoe": 1,
     "max_aoe": 1,
     "spell_class": "EGO_92",
-    "base_casting_time": {
-      "math": [
-        "200 - 5 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "200 - 5 * u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 100,
     "base_energy_cost": 140,
     "damage_type": "heat",
@@ -2177,16 +1181,8 @@
     "effect": "effect_on_condition",
     "effect_str": "cinders_apply",
     "shape": "blast",
-    "valid_targets": [
-      "self"
-    ],
-    "flags": [
-      "LOUD",
-      "SOMATIC",
-      "NO_LEGS",
-      "NO_HANDS",
-      "NO_EXPLOSION_SFX"
-    ],
+    "valid_targets": [ "self" ],
+    "flags": [ "LOUD", "SOMATIC", "NO_LEGS", "NO_HANDS", "NO_EXPLOSION_SFX" ],
     "max_level": 1,
     "min_range": 1,
     "max_range": 1,
@@ -2206,19 +1202,14 @@
   {
     "id": "cinders_apply",
     "type": "effect_on_condition",
-    "effect": {
-      "u_add_effect": "cinders",
-      "duration": "10 minutes"
-    }
+    "effect": { "u_add_effect": "cinders", "duration": "10 minutes" }
   },
   {
     "id": "92_live_flame_toggle",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 Live Flame Toggle",
     "description": "Ignites an inner flame, granting strength and resilience to fire for a short time.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "effect_on_condition",
     "effect_str": "92_live_flame_toggle_eoc",
     "shape": "blast",
@@ -2237,48 +1228,21 @@
     "energy_source": "STAMINA",
     "difficulty": 0,
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_ARMS",
-      "NO_FAIL"
-    ]
+    "flags": [ "SILENT", "NO_ARMS", "NO_FAIL" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_live_flame_toggle_eoc",
-    "condition": {
-      "compare_string": [
-        "yes",
-        {
-          "u_val": "living_flame_on"
-        }
-      ]
-    },
+    "condition": { "compare_string": [ "yes", { "u_val": "living_flame_on" } ] },
     "effect": [
-      {
-        "u_add_var": "living_flame_off",
-        "value": "yes"
-      },
-      {
-        "u_lose_var": "living_flame_on"
-      },
-      {
-        "message": "Living Flame disabled.",
-        "type": "bad"
-      }
+      { "u_add_var": "living_flame_off", "value": "yes" },
+      { "u_lose_var": "living_flame_on" },
+      { "message": "Living Flame disabled.", "type": "bad" }
     ],
     "false_effect": [
-      {
-        "u_add_var": "living_flame_on",
-        "value": "yes"
-      },
-      {
-        "u_lose_var": "living_flame_off"
-      },
-      {
-        "message": "Living Flame enabled.",
-        "type": "good"
-      }
+      { "u_add_var": "living_flame_on", "value": "yes" },
+      { "u_lose_var": "living_flame_off" },
+      { "message": "Living Flame enabled.", "type": "good" }
     ]
   },
   {
@@ -2296,9 +1260,7 @@
       "Cinders: 9",
       "Cinders: 10"
     ],
-    "desc": [
-      "Stacks of \"Cinders\""
-    ],
+    "desc": [ "Stacks of \"Cinders\"" ],
     "rating": "good",
     "max_intensity": 10,
     "int_add_val": 1,
@@ -2310,46 +1272,17 @@
     "name": "<color_red>Searing Stroke</color>",
     "melee_allowed": true,
     "weighting": 2,
-    "skill_requirements": [
-      {
-        "name": "melee",
-        "level": 2
-      }
-    ],
+    "skill_requirements": [ { "name": "melee", "level": 2 } ],
     "description": "40% move cost, 80% damage, need 1 candle",
-    "messages": [
-      "You attack trough %s",
-      "<npcname> attack trough %s"
-    ],
-    "attack_vectors": [
-      "vector_null"
-    ],
-    "condition": {
-      "math": [
-        "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 1"
-      ]
-    },
+    "messages": [ "You attack trough %s", "<npcname> attack trough %s" ],
+    "attack_vectors": [ "vector_null" ],
+    "condition": { "math": [ "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 1" ] },
     "condition_desc": "40% move cost, 80% damage, need 1 candle",
     "mult_bonuses": [
-      {
-        "stat": "movecost",
-        "scale": 0.4
-      },
-      {
-        "stat": "damage",
-        "type": "heat",
-        "scale": 0.8
-      },
-      {
-        "stat": "damage",
-        "type": "prophet_heat",
-        "scale": 0.8
-      },
-      {
-        "stat": "damage",
-        "type": "cut",
-        "scale": 0.8
-      }
+      { "stat": "movecost", "scale": 0.4 },
+      { "stat": "damage", "type": "heat", "scale": 0.8 },
+      { "stat": "damage", "type": "prophet_heat", "scale": 0.8 },
+      { "stat": "damage", "type": "cut", "scale": 0.8 }
     ]
   },
   {
@@ -2358,30 +1291,14 @@
     "name": "<color_red>Longing...</color>",
     "melee_allowed": true,
     "weighting": 1,
-    "skill_requirements": [
-      {
-        "name": "melee",
-        "level": 3
-      }
-    ],
+    "skill_requirements": [ { "name": "melee", "level": 3 } ],
     "description": "Explosion on crit",
-    "messages": [
-      "You iginte air around %s",
-      "<npcname> iginte air around %s"
-    ],
-    "attack_vectors": [
-      "vector_null"
-    ],
-    "condition": {
-      "math": [
-        "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 2"
-      ]
-    },
+    "messages": [ "You iginte air around %s", "<npcname> iginte air around %s" ],
+    "attack_vectors": [ "vector_null" ],
+    "condition": { "math": [ "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 2" ] },
     "condition_desc": "Need 2 candle, 3 melee",
     "crit_tec": true,
-    "eocs": [
-      "92_longing_eoc"
-    ]
+    "eocs": [ "92_longing_eoc" ]
   },
   {
     "type": "technique",
@@ -2389,29 +1306,13 @@
     "name": "<color_red>Knowledge</color>",
     "melee_allowed": true,
     "weighting": 1,
-    "skill_requirements": [
-      {
-        "name": "melee",
-        "level": 5
-      }
-    ],
+    "skill_requirements": [ { "name": "melee", "level": 5 } ],
     "description": "Stack \"Knowledge\" on target, if 3 stacks - player restore stamina",
-    "messages": [
-      "You attack through %s",
-      "<npcname> attack through %s"
-    ],
-    "attack_vectors": [
-      "vector_null"
-    ],
-    "condition": {
-      "math": [
-        "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 3"
-      ]
-    },
+    "messages": [ "You attack through %s", "<npcname> attack through %s" ],
+    "attack_vectors": [ "vector_null" ],
+    "condition": { "math": [ "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 3" ] },
     "condition_desc": "Need 3 candle, 5 melee",
-    "eocs": [
-      "92_knowledge_eoc"
-    ]
+    "eocs": [ "92_knowledge_eoc" ]
   },
   {
     "type": "technique",
@@ -2420,42 +1321,16 @@
     "melee_allowed": true,
     "weighting": -2,
     "crit_tec": true,
-    "skill_requirements": [
-      {
-        "name": "melee",
-        "level": 7
-      }
-    ],
+    "skill_requirements": [ { "name": "melee", "level": 7 } ],
     "description": "You deal huge ammount of fire damage",
-    "messages": [
-      "You scorch %s to the ground",
-      "<npcname> scorch %s to the ground"
-    ],
-    "attack_vectors": [
-      "vector_null"
-    ],
-    "condition": {
-      "math": [
-        "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 4"
-      ]
-    },
+    "messages": [ "You scorch %s to the ground", "<npcname> scorch %s to the ground" ],
+    "attack_vectors": [ "vector_null" ],
+    "condition": { "math": [ "n_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') >= 4" ] },
     "condition_desc": "Need 4 candle, 7 melee",
     "mult_bonuses": [
-      {
-        "stat": "damage",
-        "type": "heat",
-        "scale": 3
-      },
-      {
-        "stat": "damage",
-        "type": "prophet_heat",
-        "scale": 3
-      },
-      {
-        "stat": "damage",
-        "type": "cut",
-        "scale": 3
-      }
+      { "stat": "damage", "type": "heat", "scale": 3 },
+      { "stat": "damage", "type": "prophet_heat", "scale": 3 },
+      { "stat": "damage", "type": "cut", "scale": 3 }
     ]
   },
   {
@@ -2463,11 +1338,7 @@
     "type": "SPELL",
     "name": "Longing explosion",
     "description": "explode target on crit",
-    "valid_targets": [
-      "self",
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "self", "ally", "hostile" ],
     "effect": "attack",
     "shape": "blast",
     "min_range": 1,
@@ -2487,68 +1358,28 @@
     "difficulty": 0,
     "max_level": 15,
     "damage_type": "heat",
-    "flags": [
-      "LOUD",
-      "IGNITE_FLAMMABLE"
-    ]
+    "flags": [ "LOUD", "IGNITE_FLAMMABLE" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_longing_eoc",
-    "effect": [
-      {
-        "u_cast_spell": {
-          "id": "92_longing_explosion",
-          "min_level": {
-            "math": [
-              "n_spell_level('EGO_92_invoke')"
-            ]
-          }
-        }
-      }
-    ]
+    "effect": [ { "u_cast_spell": { "id": "92_longing_explosion", "min_level": { "math": [ "n_spell_level('EGO_92_invoke')" ] } } } ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_knowledge_eoc",
-    "condition": {
-      "math": [
-        "u_effect_intensity('92_knowledge_effect')",
-        "==",
-        "3"
-      ]
-    },
+    "condition": { "math": [ "u_effect_intensity('92_knowledge_effect')", "==", "3" ] },
     "effect": [
-      {
-        "npc_cast_spell": {
-          "id": "92_knowledge_spell",
-          "min_level": {
-            "math": [
-              "n_spell_level('EGO_92_invoke')"
-            ]
-          }
-        }
-      },
-      {
-        "u_lose_effect": "92_knowledge_effect"
-      }
+      { "npc_cast_spell": { "id": "92_knowledge_spell", "min_level": { "math": [ "n_spell_level('EGO_92_invoke')" ] } } },
+      { "u_lose_effect": "92_knowledge_effect" }
     ],
-    "false_effect": [
-      {
-        "u_add_effect": "92_knowledge_effect",
-        "duration": "1 minutes"
-      }
-    ]
+    "false_effect": [ { "u_add_effect": "92_knowledge_effect", "duration": "1 minutes" } ]
   },
   {
     "type": "effect_type",
     "id": "92_knowledge_effect",
-    "name": [
-      "<color_red>Knowledge</color>"
-    ],
-    "desc": [
-      "Knowledge of prophet"
-    ],
+    "name": [ "<color_red>Knowledge</color>" ],
+    "desc": [ "Knowledge of prophet" ],
     "rating": "bad",
     "max_intensity": 3,
     "int_add_val": 1,
@@ -2559,11 +1390,7 @@
     "type": "SPELL",
     "name": " 9:2 Knowledge",
     "description": "restore stamina",
-    "valid_targets": [
-      "self",
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "self", "ally", "hostile" ],
     "effect": "recover_energy",
     "shape": "blast",
     "min_range": 1,
@@ -2581,35 +1408,20 @@
     "energy_source": "STAMINA",
     "difficulty": 0,
     "max_level": 10,
-    "flags": [
-      "LOUD",
-      "NO_EXPLOSION_SFX"
-    ]
+    "flags": [ "LOUD", "NO_EXPLOSION_SFX" ]
   },
   {
     "id": "92_small_summon",
     "type": "SPELL",
-    "name": {
-      "str": "[ט] EGO 9:2 - Draw small fire symbol"
-    },
+    "name": { "str": "[ט] EGO 9:2 - Draw small fire symbol" },
     "description": "Summon desc. Summon 1 symbol and + 1 for every one candle.",
     "spell_class": "EGO_92",
-    "valid_targets": [
-      "ground"
-    ],
+    "valid_targets": [ "ground" ],
     "effect": "summon",
     "effect_str": "mon_scatter_v1",
     "shape": "blast",
-    "min_damage": {
-      "math": [
-        "1 + u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "1 + u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "min_damage": { "math": [ "1 + u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "max_damage": { "math": [ "1 + u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "min_range": 30,
     "max_range": 30,
     "min_aoe": 2,
@@ -2618,35 +1430,17 @@
     "max_duration": 500,
     "max_level": 1,
     "difficulty": -11,
-    "base_casting_time": {
-      "math": [
-        "150 / u_spell_level('EGO_92_invoke')"
-      ]
-    },
-    "base_energy_cost": {
-      "math": [
-        "2500 - 150 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "150 / u_spell_level('EGO_92_invoke')" ] },
+    "base_energy_cost": { "math": [ "2500 - 150 * u_spell_level('EGO_92_invoke')" ] },
     "energy_source": "STAMINA",
-    "flags": [
-      "NO_FAIL",
-      "NO_HANDS",
-      "NO_LEGS",
-      "HOSTILE_SUMMON",
-      "RANDOM_AOE",
-      "RANDOM_DURATION"
-    ]
+    "flags": [ "NO_FAIL", "NO_HANDS", "NO_LEGS", "HOSTILE_SUMMON", "RANDOM_AOE", "RANDOM_DURATION" ]
   },
   {
     "id": "92_binding_flame",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Binding flame ",
     "description": "You bind your target with chains of flame.",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
     "effect": "attack",
     "effect_str": "92_binding_flame_effect",
     "shape": "blast",
@@ -2656,55 +1450,26 @@
     "max_aoe": 0,
     "min_duration": 1000,
     "max_duration": 1000,
-    "base_casting_time": {
-      "math": [
-        "200 / u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "200 / u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 50,
     "casting_time_increment": -15,
     "spell_class": "EGO_92",
-    "base_energy_cost": {
-      "math": [
-        "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "final_energy_cost": {
-      "math": [
-        "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "base_energy_cost": { "math": [ "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "final_energy_cost": { "math": [ "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "energy_increment": -50,
     "energy_source": "STAMINA",
     "difficulty": 4,
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_EXPLOSION_SFX",
-      "NO_FAIL",
-      "NO_ARMS",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_EXPLOSION_SFX", "NO_FAIL", "NO_ARMS", "NO_HANDS" ]
   },
   {
     "type": "effect_type",
     "id": "92_binding_flame_effect",
-    "name": [
-      "<color_red>Binding Flame</color>"
-    ],
-    "desc": [
-      "Knwoledge of prophet"
-    ],
+    "name": [ "<color_red>Binding Flame</color>" ],
+    "desc": [ "Knwoledge of prophet" ],
     "rating": "bad",
     "max_intensity": 1,
-    "base_mods": {
-      "speed_mod": [
-        -80
-      ],
-      "dodge_mod": [
-        -2
-      ]
-    },
+    "base_mods": { "speed_mod": [ -80 ], "dodge_mod": [ -2 ] },
     "show_in_info": true
   },
   {
@@ -2712,163 +1477,65 @@
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Flame Strike ",
     "description": "desc. You cast line of flame",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
     "effect": "attack",
     "shape": "line",
-    "min_range": {
-      "math": [
-        "5 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') * 2)"
-      ]
-    },
-    "max_range": {
-      "math": [
-        "5 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') * 2 )"
-      ]
-    },
-    "min_aoe": {
-      "math": [
-        "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 2)"
-      ]
-    },
-    "max_aoe": {
-      "math": [
-        "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 2)"
-      ]
-    },
-    "min_damage": {
-      "math": [
-        "9 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "9 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "base_casting_time": {
-      "math": [
-        "300 - 25 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_range": { "math": [ "5 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') * 2)" ] },
+    "max_range": { "math": [ "5 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') * 2 )" ] },
+    "min_aoe": { "math": [ "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 2)" ] },
+    "max_aoe": { "math": [ "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 2)" ] },
+    "min_damage": { "math": [ "9 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "max_damage": { "math": [ "9 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "base_casting_time": { "math": [ "300 - 25 * u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 50,
     "casting_time_increment": -15,
     "spell_class": "EGO_92",
-    "base_energy_cost": {
-      "math": [
-        "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60)"
-      ]
-    },
-    "final_energy_cost": {
-      "math": [
-        "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60)"
-      ]
-    },
+    "base_energy_cost": { "math": [ "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60)" ] },
+    "final_energy_cost": { "math": [ "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60)" ] },
     "energy_increment": -50,
     "energy_source": "STAMINA",
     "difficulty": 4,
     "damage_type": "heat",
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_FAIL",
-      "NO_ARMS",
-      "IGNITE_FLAMMABLE",
-      "NO_FAIL",
-      "NO_HANDS",
-      "NO_LEGS"
-    ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_ARMS", "IGNITE_FLAMMABLE", "NO_FAIL", "NO_HANDS", "NO_LEGS" ]
   },
   {
     "id": "92_gaze_explode_hook",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Explode Gaze",
     "description": "desc. gaze on target explode, delete stack of gaze from target. deal huge damage",
-    "valid_targets": [
-      "ally",
-      "hostile"
-    ],
+    "valid_targets": [ "ally", "hostile" ],
     "effect": "effect_on_condition",
     "effect_str": "92_gaze_explode_eoc",
     "shape": "blast",
-    "min_range": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') * 3.5"
-      ]
-    },
-    "max_range": {
-      "math": [
-        "u_spell_level('EGO_92_invoke') * 3.5"
-      ]
-    },
-    "base_casting_time": {
-      "math": [
-        "300 - 25 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "min_range": { "math": [ "u_spell_level('EGO_92_invoke') * 3.5" ] },
+    "max_range": { "math": [ "u_spell_level('EGO_92_invoke') * 3.5" ] },
+    "base_casting_time": { "math": [ "300 - 25 * u_spell_level('EGO_92_invoke')" ] },
     "final_casting_time": 50,
     "casting_time_increment": -15,
     "spell_class": "EGO_92",
-    "base_energy_cost": {
-      "math": [
-        "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "final_energy_cost": {
-      "math": [
-        "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "base_energy_cost": { "math": [ "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "final_energy_cost": { "math": [ "3000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "energy_increment": -50,
     "energy_source": "STAMINA",
     "difficulty": 4,
     "damage_type": "heat",
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_EXPLOSION_SFX",
-      "NO_FAIL",
-      "NO_ARMS",
-      "IGNITE_FLAMMABLE",
-      "NO_LEGS",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_EXPLOSION_SFX", "NO_FAIL", "NO_ARMS", "IGNITE_FLAMMABLE", "NO_LEGS", "NO_HANDS" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_gaze_explode_eoc",
-    "condition": {
-      "u_has_effect": "92_gaze_effect"
-    },
-    "effect": [
-      {
-        "u_lose_effect": "92_gaze_effect"
-      },
-      {
-        "u_cast_spell": {
-          "id": "92_gaze_explode",
-          "hit_self": true
-        }
-      }
-    ],
-    "false_effect": [
-      {
-        "message": "Target is not under Gaze!"
-      }
-    ]
+    "condition": { "u_has_effect": "92_gaze_effect" },
+    "effect": [ { "u_lose_effect": "92_gaze_effect" }, { "u_cast_spell": { "id": "92_gaze_explode", "hit_self": true } } ],
+    "false_effect": [ { "message": "Target is not under Gaze!" } ]
   },
   {
     "id": "92_gaze_explode",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Explode Gaze",
     "description": "Gaze on target explodes, delete a stack of gaze from target and deal huge damage.",
-    "valid_targets": [
-      "ally",
-      "hostile",
-      "self"
-    ],
+    "valid_targets": [ "ally", "hostile", "self" ],
     "effect": "attack",
     "shape": "blast",
     "min_range": 1,
@@ -2890,40 +1557,20 @@
     "difficulty": 4,
     "damage_type": "prophet_heat",
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "RANDOM_DAMAGE",
-      "RANDOM_AOE",
-      "IGNITE_FLAMMABLE",
-      "NO_FAIL",
-      "NO_HANDS",
-      "NO_LEGS"
-    ]
+    "flags": [ "SILENT", "RANDOM_DAMAGE", "RANDOM_AOE", "IGNITE_FLAMMABLE", "NO_FAIL", "NO_HANDS", "NO_LEGS" ]
   },
   {
     "id": "92_medium_summon",
     "type": "SPELL",
-    "name": {
-      "str": "[ט] EGO 9:2 - Draw fire symbol"
-    },
+    "name": { "str": "[ט] EGO 9:2 - Draw fire symbol" },
     "description": "Summon desc. Summon 1 medium symbol and + 1 if there is 4 candles.",
     "spell_class": "EGO_92",
-    "valid_targets": [
-      "ground"
-    ],
+    "valid_targets": [ "ground" ],
     "effect": "summon",
     "effect_str": "mon_fire_sphere_1",
     "shape": "blast",
-    "min_damage": {
-      "math": [
-        "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 4)"
-      ]
-    },
-    "max_damage": {
-      "math": [
-        "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 4)"
-      ]
-    },
+    "min_damage": { "math": [ "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 4)" ] },
+    "max_damage": { "math": [ "1 + (u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly') / 4)" ] },
     "min_range": 30,
     "max_range": 30,
     "min_aoe": 1,
@@ -2932,49 +1579,22 @@
     "max_duration": 500,
     "max_level": 1,
     "difficulty": -11,
-    "base_casting_time": {
-      "math": [
-        "300 - 25 * u_spell_level('EGO_92_invoke')"
-      ]
-    },
-    "base_energy_cost": {
-      "math": [
-        "3000 / u_spell_level('EGO_92_invoke')"
-      ]
-    },
+    "base_casting_time": { "math": [ "300 - 25 * u_spell_level('EGO_92_invoke')" ] },
+    "base_energy_cost": { "math": [ "3000 / u_spell_level('EGO_92_invoke')" ] },
     "energy_source": "STAMINA",
-    "flags": [
-      "NO_FAIL",
-      "NO_HANDS",
-      "NO_LEGS",
-      "HOSTILE_SUMMON",
-      "RANDOM_AOE",
-      "RANDOM_DURATION"
-    ]
+    "flags": [ "NO_FAIL", "NO_HANDS", "NO_LEGS", "HOSTILE_SUMMON", "RANDOM_AOE", "RANDOM_DURATION" ]
   },
   {
     "id": "92_flame_manifestation",
     "type": "SPELL",
-    "name": {
-      "str": "[ט] EGO 9:2 - Flame manifestation"
-    },
+    "name": { "str": "[ט] EGO 9:2 - Flame manifestation" },
     "description": "You teleport at point and then air explodes around you.",
     "spell_class": "EGO_92",
-    "valid_targets": [
-      "ground"
-    ],
+    "valid_targets": [ "ground" ],
     "effect": "short_range_teleport",
     "shape": "blast",
-    "min_range": {
-      "math": [
-        "6 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "max_range": {
-      "math": [
-        "6 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "min_range": { "math": [ "6 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "max_range": { "math": [ "6 * u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "min_aoe": 0,
     "max_aoe": 0,
     "min_duration": 400,
@@ -2983,33 +1603,16 @@
     "difficulty": -11,
     "base_casting_time": 0,
     "base_energy_cost": 0,
-    "extra_effects": [
-      {
-        "id": "death_fire_sphere_2",
-        "hit_self": true,
-        "max_level": 1
-      }
-    ],
+    "extra_effects": [ { "id": "death_fire_sphere_2", "hit_self": true, "max_level": 1 } ],
     "energy_source": "STAMINA",
-    "flags": [
-      "NO_FAIL",
-      "NO_HANDS",
-      "NO_LEGS",
-      "TARGET_TELEPORT",
-      "IGNITE_FLAMMABLE",
-      "NO_FAIL"
-    ]
+    "flags": [ "NO_FAIL", "NO_HANDS", "NO_LEGS", "TARGET_TELEPORT", "IGNITE_FLAMMABLE", "NO_FAIL" ]
   },
   {
     "id": "92_reignite",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Reignite",
     "description": "You consume all stacks of living flame from targets and heal.",
-    "valid_targets": [
-      "ally",
-      "hostile",
-      "self"
-    ],
+    "valid_targets": [ "ally", "hostile", "self" ],
     "effect": "effect_on_condition",
     "effect_str": "92_reignite_eoc",
     "shape": "blast",
@@ -3027,50 +1630,26 @@
     "energy_source": "STAMINA",
     "difficulty": 4,
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_ARMS",
-      "NO_EXPLOSION_SFX",
-      "NO_FAIL",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_ARMS", "NO_EXPLOSION_SFX", "NO_FAIL", "NO_HANDS" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_reignite_eoc",
-    "condition": {
-      "u_has_effect": "92_live_flame_effect"
-    },
-    "effect": [
-      {
-        "u_lose_effect": "92_live_flame_effect"
-      },
-      {
-        "npc_cast_spell": {
-          "id": "92_reignite_heal",
-          "hit_self": true
-        }
-      }
-    ]
+    "condition": { "u_has_effect": "92_live_flame_effect" },
+    "effect": [ { "u_lose_effect": "92_live_flame_effect" }, { "npc_cast_spell": { "id": "92_reignite_heal", "hit_self": true } } ]
   },
   {
     "id": "92_fluidity",
     "type": "SPELL",
     "name": "[ט] EGO 9:2 - Fluidity of Flame",
     "description": "Restore pain at cost of high stamina, also increase evade.",
-    "valid_targets": [
-      "self"
-    ],
+    "valid_targets": [ "self" ],
     "effect": "effect_on_condition",
     "effect_str": "92_fluidity_eoc",
     "shape": "blast",
     "min_range": 0,
     "max_range": 0,
-    "base_casting_time": {
-      "math": [
-        "300 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "base_casting_time": { "math": [ "300 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "min_aoe": 0,
     "max_aoe": 0,
     "min_pierce": 100,
@@ -3080,74 +1659,36 @@
     "final_casting_time": 10,
     "casting_time_increment": -15,
     "spell_class": "EGO_92",
-    "base_energy_cost": {
-      "math": [
-        "12000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "final_energy_cost": {
-      "math": [
-        "12000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "base_energy_cost": { "math": [ "12000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "final_energy_cost": { "math": [ "12000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "energy_source": "STAMINA",
     "difficulty": 4,
     "damage_type": "true",
     "max_level": 1,
-    "flags": [
-      "SILENT",
-      "NO_FAIL",
-      "NO_ARMS",
-      "NO_EXPLOSION_SFX",
-      "NO_HANDS"
-    ]
+    "flags": [ "SILENT", "NO_FAIL", "NO_ARMS", "NO_EXPLOSION_SFX", "NO_HANDS" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_fluidity_eoc",
-    "effect": [
-      {
-        "u_add_effect": "92_live_flame_effect",
-        "duration": "10 s"
-      },
-      {
-        "math": [
-          "u_pain()",
-          "/=",
-          "3"
-        ]
-      }
-    ]
+    "effect": [ { "u_add_effect": "92_live_flame_effect", "duration": "10 s" }, { "math": [ "u_pain()", "/=", "3" ] } ]
   },
   {
     "type": "effect_type",
     "id": "92_fluidity_effect",
-    "name": [
-      "<color_red>Fluidity of Flame</color>"
-    ],
-    "desc": [
-      "It's nigh impossible to hit you."
-    ],
+    "name": [ "<color_red>Fluidity of Flame</color>" ],
+    "desc": [ "It's nigh impossible to hit you." ],
     "rating": "good",
     "max_intensity": 1,
-    "base_mods": {
-      "dodge_mod": [
-        20
-      ]
-    },
+    "base_mods": { "dodge_mod": [ 20 ] },
     "show_in_info": true
   },
   {
     "id": "92_big_summon",
     "type": "SPELL",
-    "name": {
-      "str": "[ט] EGO 9:2 - Draw big fire symbol"
-    },
+    "name": { "str": "[ט] EGO 9:2 - Draw big fire symbol" },
     "description": "Summon desc. Summon 1 big symbol.",
     "spell_class": "EGO_92",
-    "valid_targets": [
-      "ground"
-    ],
+    "valid_targets": [ "ground" ],
     "effect": "summon",
     "effect_str": "mon_fire_sphere_2",
     "shape": "blast",
@@ -3161,25 +1702,10 @@
     "max_duration": 500,
     "max_level": 1,
     "difficulty": -11,
-    "base_casting_time": {
-      "math": [
-        "300 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "base_energy_cost": {
-      "math": [
-        "12000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "base_casting_time": { "math": [ "300 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "base_energy_cost": { "math": [ "12000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "energy_source": "STAMINA",
-    "flags": [
-      "NO_FAIL",
-      "NO_HANDS",
-      "NO_LEGS",
-      "HOSTILE_SUMMON",
-      "RANDOM_AOE",
-      "RANDOM_DURATION"
-    ]
+    "flags": [ "NO_FAIL", "NO_HANDS", "NO_LEGS", "HOSTILE_SUMMON", "RANDOM_AOE", "RANDOM_DURATION" ]
   },
   {
     "id": "92_evaporize",
@@ -3187,9 +1713,7 @@
     "name": "[ט] EGO 9:2 - Evaporize",
     "description": "A lot of damage in cone. Apply Living Flame stack on targets.",
     "spell_class": "EGO_92",
-    "valid_targets": [
-      "hostile"
-    ],
+    "valid_targets": [ "hostile" ],
     "effect": "attack",
     "effect_str": "92_live_flame_effect",
     "shape": "cone",
@@ -3204,48 +1728,20 @@
     "max_range": 3,
     "max_level": 1,
     "difficulty": -12,
-    "base_casting_time": {
-      "math": [
-        "450 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
-    "base_energy_cost": {
-      "math": [
-        "20000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')"
-      ]
-    },
+    "base_casting_time": { "math": [ "450 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
+    "base_energy_cost": { "math": [ "20000 / u_monsters_nearby('mon_candle_allied', 'radius': 60, 'attitude': 'friendly')" ] },
     "energy_source": "STAMINA",
-    "flags": [
-      "IGNITE_FLAMMABLE",
-      "NO_FAIL",
-      "SOMATIC",
-      "RANDOM_AOE",
-      "RANDOM_DAMAGE",
-      "NO_HANDS"
-    ]
+    "flags": [ "IGNITE_FLAMMABLE", "NO_FAIL", "SOMATIC", "RANDOM_AOE", "RANDOM_DAMAGE", "NO_HANDS" ]
   },
   {
     "type": "effect_on_condition",
     "id": "92_chat",
-    "recurrence": [
-      "40 turns",
-      "160 turns"
-    ],
-    "condition": {
-      "u_is_wearing": "EGO_92_aura"
-    },
-    "deactivate_condition": {
-      "not": {
-        "u_is_wearing": "EGO_92_aura"
-      }
-    },
-    "effect": [
-      {
-        "switch": {
-          "math": [
-            "u_spell_level('EGO_92_invoke')"
-          ]
-        },
+    "recurrence": [ "40 turns", "160 turns" ],
+    "condition": { "u_is_wearing": "EGO_92_aura" },
+    "deactivate_condition": { "not": { "u_is_wearing": "EGO_92_aura" } },
+    "effect": [ 
+      { 
+        "switch": { "math": [ "u_spell_level('EGO_92_invoke')" ] },
         "cases": [
           {
             "case": 0,
@@ -3256,15 +1752,13 @@
                   "The world is laid bare.",
                   "They shall all be shown the light."
                 ],
-                "target_var": {
-                  "u_val": "quote"
-                }
+                "target_var": { "u_val": "quote" }
               }
             ]
           },
           {
             "case": 10,
-            "effect": [
+            "effect": [ 
               {
                 "set_string_var": [
                   "These people walk in the darkness.",
@@ -3273,15 +1767,13 @@
                   "A candle for every lost soul.",
                   "We shall alight the fuel that ends this apocalypse."
                 ],
-                "target_var": {
-                  "u_val": "quote"
-                }
+                "target_var": { "u_val": "quote" }
               }
             ]
           },
           {
             "case": 20,
-            "effect": [
+            "effect": [ 
               {
                 "set_string_var": [
                   "The people walking in darkness have seen a great light.",
@@ -3291,15 +1783,13 @@
                   "Together we shall bring the light, the fire.",
                   "Even in this dark age, the darkness receeds as humans grow few."
                 ],
-                "target_var": {
-                  "u_val": "quote"
-                }
+                "target_var": { "u_val": "quote" }
               }
             ]
           },
           {
             "case": 25,
-            "effect": [
+            "effect": [ 
               {
                 "set_string_var": [
                   "You are the true prophet, the one whom brings the light.",
@@ -3308,18 +1798,13 @@
                   "And so we shall bring a light to the darkest of days.",
                   "And the world is left ablaze."
                 ],
-                "target_var": {
-                  "u_val": "quote"
-                }
+                "target_var": { "u_val": "quote" }
               }
             ]
           }
         ]
       },
-      {
-        "message": "<color_light_red>\"<u_val:quote>\"</color>",
-        "type": "mixed"
-      }
+      { "message": "<color_light_red>\"<u_val:quote>\"</color>", "type": "mixed" } 
     ]
   }
 ]
