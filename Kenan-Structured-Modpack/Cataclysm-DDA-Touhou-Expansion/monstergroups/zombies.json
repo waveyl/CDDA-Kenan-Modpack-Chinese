@@ -1,6 +1,6 @@
 [
   {
-    "id": "GROUP_PARK_SCENIC",
+    "name": "GROUP_PARK_SCENIC",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 75, "starts": "2 days" },
@@ -13,7 +13,7 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_ROOF_ZOMBIE",
+    "name": "GROUP_ROOF_ZOMBIE",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 75, "starts": "2 days" },
@@ -26,7 +26,7 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_PARK_PLAYGROUND",
+    "name": "GROUP_PARK_PLAYGROUND",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 75, "starts": "2 days" },
@@ -39,7 +39,7 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_PARK_DOG",
+    "name": "GROUP_PARK_DOG",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 25, "starts": "2 days" },
@@ -53,7 +53,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_ZOMBIE",
+    "name": "GROUP_ZOMBIE",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 750, "starts": "2 days" },
       { "group": "GROUP_FAIRY", "weight": 250, "pack_size": [ 2, 3 ], "cost_multiplier": 3, "starts": "2 days" },
@@ -66,7 +66,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_ZOMBIE_GASSTATION",
+    "name": "GROUP_ZOMBIE_GASSTATION",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 75, "starts": "2 days" },
       { "group": "GROUP_FAIRY", "weight": 25, "pack_size": [ 2, 3 ], "cost_multiplier": 3, "starts": "2 days" },
@@ -79,7 +79,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_VANILLA_ONLY_HUMANS",
+    "name": "GROUP_VANILLA_ONLY_HUMANS",
     "//": "only human zombies, used in the refugee center",
     "default": "mon_zombie",
     "monsters": [
@@ -94,7 +94,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_VANILLA",
+    "name": "GROUP_VANILLA",
     "default": "mon_zombie",
     "//": "Normalized to 1000",
     "monsters": [
@@ -110,7 +110,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_POLICE",
+    "name": "GROUP_POLICE",
     "//": "+30% cops, much higher chance of paramilitary people",
     "default": "mon_zombie",
     "monsters": [
@@ -121,7 +121,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_POLICE_EXTRA",
+    "name": "GROUP_POLICE_EXTRA",
     "//": "100% cops, 0% civilians",
     "default": "mon_zombie",
     "monsters": [
@@ -132,7 +132,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_HOUSE",
+    "name": "GROUP_HOUSE",
     "//": "+15% child",
     "monsters": [
       { "group": "GROUP_FAIRY_BLOB", "weight": 80, "starts": "2 days" },
@@ -144,7 +144,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_PREPPER_HOUSE",
+    "name": "GROUP_PREPPER_HOUSE",
     "default": "mon_zombie",
     "monsters": [
       { "group": "GROUP_FAIRY_BLOB", "weight": 45, "starts": "2 days" },
@@ -156,7 +156,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_GROCERY",
+    "name": "GROUP_GROCERY",
     "//": "+15% fat",
     "monsters": [
       { "group": "GROUP_FAIRY", "weight": 100, "starts": "2 days" },
@@ -170,7 +170,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_PUBLICWORKERS",
+    "name": "GROUP_PUBLICWORKERS",
     "monsters": [
       { "group": "GROUP_FAIRY_BLOB", "weight": 100, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 300, "starts": "35 days" }
@@ -179,7 +179,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_SMALL_STATION",
+    "name": "GROUP_SMALL_STATION",
     "monsters": [
       { "group": "GROUP_FAIRY_BLOB", "weight": 200, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 400, "starts": "35 days" }
@@ -188,7 +188,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_LARGE_STATION",
+    "name": "GROUP_LARGE_STATION",
     "monsters": [
       { "group": "GROUP_FAIRY_BLOB", "weight": 200, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 400, "starts": "35 days" }
@@ -197,7 +197,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_ZOMBIE_PRISON",
+    "name": "GROUP_ZOMBIE_PRISON",
     "default": "mon_zombie_prisoner",
     "monsters": [
       { "group": "GROUP_FAIRY_BLOB", "weight": 50, "starts": "2 days" },
@@ -207,15 +207,17 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_ZOMBIE_COP",
-    "monsters": [ { "monster": "mon_fairy_urban1", "weight": 200, "pack_size": [ 1, 2 ] } ],
+    "name": "GROUP_ZOMBIE_COP",
+    "monsters": [
+      { "monster": "mon_fairy_urban1", "weight": 200, "pack_size": [ 1, 2 ] }
+    ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_MANSION",
+    "name": "GROUP_MANSION",
     "type": "monstergroup",
     "monsters": [
-      { "group": "GROUP_FAIRY", "weight": 250, "starts": "2 days" },
+	  { "group": "GROUP_FAIRY", "weight": 250, "starts": "2 days" },
       { "group": "GROUP_FAIRY", "weight": 50, "pack_size": [ 2, 3 ], "cost_multiplier": 3, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 50, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 200, "starts": "35 days" }
@@ -223,10 +225,10 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_MALL",
+    "name": "GROUP_MALL",
     "type": "monstergroup",
     "monsters": [
-      { "group": "GROUP_FAIRY", "weight": 200, "starts": "2 days" },
+	  { "group": "GROUP_FAIRY", "weight": 200, "starts": "2 days" },
       { "group": "GROUP_FAIRY", "weight": 50, "pack_size": [ 2, 3 ], "cost_multiplier": 3, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 200, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 400, "starts": "35 days" },
@@ -236,23 +238,27 @@
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_FIRE",
+    "name": "GROUP_FIRE",
     "type": "monstergroup",
-    "monsters": [ { "monster": "mon_fairy_urban3", "weight": 200 } ],
+    "monsters": [
+      { "monster": "mon_fairy_urban3", "weight": 200 }
+    ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_HOTEL_GYM",
+    "name": "GROUP_HOTEL_GYM",
     "type": "monstergroup",
-    "monsters": [ { "monster": "mon_fairy_urban4", "weight": 200, "cost_multiplier": 2 } ],
+    "monsters": [
+      { "monster": "mon_fairy_urban4", "weight": 200, "cost_multiplier": 2 }
+    ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_BEACH",
+    "name": "GROUP_BEACH",
     "type": "monstergroup",
     "//": "Zombies/ferals that could be found on the beach/riverside.",
     "monsters": [
-      { "group": "GROUP_FAIRY", "weight": 150, "starts": "2 days" },
+	  { "group": "GROUP_FAIRY", "weight": 150, "starts": "2 days" },
       { "group": "GROUP_FAIRY", "weight": 50, "pack_size": [ 2, 3 ], "cost_multiplier": 3, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 50, "starts": "2 days" },
       { "group": "GROUP_FAIRY_BLOB", "weight": 150, "starts": "35 days" },
@@ -262,7 +268,7 @@
     "//2": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_CIVILIAN_NO_FERAL",
+    "name": "GROUP_CIVILIAN_NO_FERAL",
     "//": "Civilians/Normal people that died, represents a lot of different common professions.  No children, dogs or ferals.",
     "type": "monstergroup",
     "monsters": [
@@ -272,7 +278,7 @@
     "//2": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
-    "id": "GROUP_FOOTBALL",
+    "name": "GROUP_FOOTBALL",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_fairy_urban4", "weight": 50, "starts": "2 days" },

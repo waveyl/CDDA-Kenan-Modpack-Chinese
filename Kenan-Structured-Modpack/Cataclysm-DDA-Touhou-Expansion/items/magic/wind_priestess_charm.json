@@ -7,7 +7,7 @@
     "volume": "5 ml",
     "weight": "10 g",
     "longest_side": "3 cm",
-    "price_postapoc": "250 USD",
+    "price_postapoc": 25000,
     "to_hit": { "balance": "neutral", "grip": "none", "length": "hand", "surface": "any" },
     "melee_damage": { "bash": 1 },
     "material": [ "steel" ],
@@ -16,7 +16,6 @@
     "color": "green",
     "armor": [ { "covers": [ "head" ], "specifically_covers": [ "head_crown" ], "coverage": 0, "encumbrance": 0 } ],
     "relic_data": { "passive_effects": [ { "id": "ench_wind_priestess_charm" } ] },
-    "flags": [ "FANCY", "SEMITANGIBLE", "SKINTIGHT", "TRADER_AVOID", "UNBREAKABLE" ],
-    "max_worn": 1
+    "flags": [ "FANCY", "ONLY_ONE", "SEMITANGIBLE", "SKINTIGHT", "TRADER_AVOID", "UNBREAKABLE" ]
   }
 ]

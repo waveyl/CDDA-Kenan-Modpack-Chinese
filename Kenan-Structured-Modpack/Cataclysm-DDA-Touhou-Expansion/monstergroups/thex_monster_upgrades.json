@@ -1,13 +1,16 @@
 [
   {
-    "id": "GROUP_FAIRY_UPGRADE",
-    "type": "monstergroup",
+    "name": "GROUP_FAIRY_UPGRADE",
+	"type": "monstergroup",
     "default": "mon_fairy_urban2",
-    "monsters": [ { "group": "GROUP_FAIRY_BLOB", "weight": 100 }, { "group": "GROUP_FAIRY_URBAN", "weight": 100 } ]
+    "monsters": [
+      { "group": "GROUP_FAIRY_BLOB", "weight": 100 },
+      { "group": "GROUP_FAIRY_URBAN", "weight": 100 }
+    ]
   },
   {
-    "id": "GROUP_TSUKUMOGAMI_TALKINGDOLL_UPGRADE",
-    "type": "monstergroup",
+    "name": "GROUP_TSUKUMOGAMI_TALKINGDOLL_UPGRADE",
+	"type": "monstergroup",
     "default": "mon_tsukumogami_talking_doll_2",
     "monsters": [
       { "monster": "mon_tsukumogami_talking_doll_2", "weight": 90 },

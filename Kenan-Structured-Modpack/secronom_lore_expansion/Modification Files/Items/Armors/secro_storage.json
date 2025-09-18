@@ -124,8 +124,7 @@
       }
     ],
     "warmth": 10,
-    "flags": [ "BELTED", "WATERPROOF", "OVERSIZE" ],
-    "max_worn": 1,
+    "flags": [ "BELTED", "WATERPROOF", "ONLY_ONE", "OVERSIZE" ],
     "material_thickness": 1,
     "armor": [ { "encumbrance": [ 16, 65 ], "coverage": 50, "covers": [ "torso" ] } ]
   }

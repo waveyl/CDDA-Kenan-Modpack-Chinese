@@ -1,28 +1,16 @@
 [
   {
-    "id": "GROUP_THERIODONTIA_LIGHT",
+    "name": "GROUP_THERIODONTIA_LIGHT",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_inostrancevia", "weight": 65, "pack_size": [ 1, 1 ], "starts": "2 days" },
-      {
-        "monster": "mon_nochnitsa",
-        "weight": 600,
-        "pack_size": [ 1, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      },
+      { "monster": "mon_nochnitsa", "weight": 600, "pack_size": [ 1, 4 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_pristerognathus", "weight": 500, "pack_size": [ 1, 4 ], "starts": "2 days" },
-      {
-        "monster": "mon_viatkogorgon",
-        "weight": 800,
-        "pack_size": [ 3, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      }
+      { "monster": "mon_viatkogorgon", "weight": 800, "pack_size": [ 3, 4 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] }
     ]
   },
   {
-    "id": "GROUP_THERIODONTIA_HEAVY",
+    "name": "GROUP_THERIODONTIA_HEAVY",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_pampaphoneus", "weight": 200, "pack_size": [ 1, 3 ], "starts": "2 days" },
@@ -32,7 +20,7 @@
     ]
   },
   {
-    "id": "GROUP_WILDLIFE_AQUATIC_ALL",
+    "name": "GROUP_WILDLIFE_AQUATIC_ALL",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_aegirocassis", "weight": 100, "pack_size": [ 1, 1 ], "starts": "2 days" },
@@ -64,7 +52,7 @@
     "//": "All things that live IN water should go here, more for listing than for spawning purposes"
   },
   {
-    "id": "GROUP_WILDLIFE_AQUATIC_DANGER",
+    "name": "GROUP_WILDLIFE_AQUATIC_DANGER",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_anomalocaris", "weight": 100, "pack_size": [ 1, 3 ], "starts": "2 days" },
@@ -81,7 +69,7 @@
     "//": "Things that live IN water AND would attack you"
   },
   {
-    "id": "GROUP_WILDLIFE_AQUATIC_FISHABLE",
+    "name": "GROUP_WILDLIFE_AQUATIC_FISHABLE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_aegirocassis", "weight": 100, "pack_size": [ 1, 1 ], "starts": "2 days" },
@@ -108,7 +96,7 @@
     "//": "Things that live IN water AND are fishable"
   },
   {
-    "id": "GROUP_WILDLIFE_CAVE",
+    "name": "GROUP_WILDLIFE_CAVE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_glossotherium", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
@@ -120,7 +108,7 @@
     ]
   },
   {
-    "id": "GROUP_WILDLIFE_SWAMPY_ALL",
+    "name": "GROUP_WILDLIFE_SWAMPY_ALL",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_arthropleura", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
@@ -152,7 +140,7 @@
     "//": "All things that prefer or are limited to swampy environments (including coasts) should go here, more for listing than for spawning purposes"
   },
   {
-    "id": "GROUP_WILDLIFE_SWAMPY_DANGER",
+    "name": "GROUP_WILDLIFE_SWAMPY_DANGER",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_eryops", "weight": 100, "pack_size": [ 1, 3 ], "starts": "2 days" },
@@ -169,7 +157,7 @@
     "//": "All things that prefer or are limited to swampy environments (including coasts) AND would be dangerous to have around should go here"
   },
   {
-    "id": "GROUP_WILDLIFE_SWAMPY_GENERIC",
+    "name": "GROUP_WILDLIFE_SWAMPY_GENERIC",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_arthropleura", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
@@ -193,7 +181,7 @@
     "//": "All things that prefer or are limited to swampy environments (including coasts) AND are not dangerous to have around should go here"
   },
   {
-    "id": "GROUP_WILDLIFE_TERRESTRIAL_ALL",
+    "name": "GROUP_WILDLIFE_TERRESTRIAL_ALL",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_pederpes", "weight": 100, "pack_size": [ 2, 5 ], "starts": "2 days" },
@@ -235,20 +223,14 @@
       { "monster": "mon_pampaphoneus", "weight": 100, "pack_size": [ 1, 1 ], "starts": "2 days" },
       { "monster": "mon_inostrancevia", "weight": 100, "pack_size": [ 1, 1 ], "starts": "2 days" },
       { "monster": "mon_moschorhinus", "weight": 100, "pack_size": [ 2, 4 ], "starts": "2 days" },
-      {
-        "monster": "mon_nochnitsa",
-        "weight": 300,
-        "pack_size": [ 1, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      },
+      { "monster": "mon_nochnitsa", "weight": 300, "pack_size": [ 1, 4 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_pristerognathus", "weight": 100, "pack_size": [ 3, 4 ], "starts": "2 days" },
       { "monster": "mon_chupacabra", "weight": 50, "pack_size": [ 1, 1 ], "starts": "2 days" }
     ],
     "//": "All things that can walk on land AND can't swim should go on this list, more for listing than for spawning purposes"
   },
   {
-    "id": "GROUP_WILDLIFE_TERRESTRIAL_DANGER",
+    "name": "GROUP_WILDLIFE_TERRESTRIAL_DANGER",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_andrewsarchus", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
@@ -272,7 +254,7 @@
     "//": "Things that can walk on land AND can't swim AND would be dangerous to have around"
   },
   {
-    "id": "GROUP_WILDLIFE_TERRESTRIAL_GENERIC",
+    "name": "GROUP_WILDLIFE_TERRESTRIAL_GENERIC",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_anatosuchus", "weight": 100, "pack_size": [ 1, 3 ], "starts": "2 days" },
@@ -300,21 +282,9 @@
       { "monster": "mon_weigeltisaurus", "weight": 100, "pack_size": [ 1, 5 ], "starts": "2 days" },
       { "monster": "mon_cotylorhynchus", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_lystrosaurus", "weight": 100, "pack_size": [ 1, 12 ], "starts": "2 days" },
-      {
-        "monster": "mon_nochnitsa",
-        "weight": 300,
-        "pack_size": [ 1, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      },
+      { "monster": "mon_nochnitsa", "weight": 300, "pack_size": [ 1, 4 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_pristerognathus", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
-      {
-        "monster": "mon_viatkogorgon",
-        "weight": 300,
-        "pack_size": [ 1, 3 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      },
+      { "monster": "mon_viatkogorgon", "weight": 300, "pack_size": [ 1, 3 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_chupacabra", "weight": 50, "pack_size": [ 1, 2 ], "starts": "2 days" }
     ],
     "//": "Things that can walk on land AND can't swim AND are not dangerous to have around"

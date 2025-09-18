@@ -120,9 +120,15 @@
     }
   },
   {
-    "id": "trash",
+    "id": "SUS_trash_trashcan",
     "type": "item_group",
-    "copy-from": "trash",
+    "copy-from": "SUS_trash_trashcan",
+    "extend": { "items": [ { "item": "zweiflyer_item", "prob": 12 } ] }
+  },
+  {
+    "id": "SUS_trash_floor",
+    "type": "item_group",
+    "copy-from": "SUS_trash_floor",
     "extend": { "items": [ { "item": "zweiflyer_item", "prob": 12 } ] }
   },
   {
@@ -161,7 +167,7 @@
   {
     "id": "supplies_electronics",
     "type": "item_group",
-    "subtype": "collection",
+    "subtype": "distribution",
     "copy-from": "supplies_electronics",
     "extend": { "entries": [ { "item": "internet_sim_card", "prob": 7 } ] }
   }

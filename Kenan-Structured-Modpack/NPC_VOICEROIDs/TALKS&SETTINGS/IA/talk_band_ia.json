@@ -69,13 +69,13 @@
         "topic": "TALK_DONE",
         "condition": {
           "and": [
-            { "not": { "compare_string": [ "yes", { "npc_val": "already_shot_flag_photographed" } ] } },
+            { "not": { "npc_has_var": "already_shot", "type": "flag", "context": "photographed", "value": "yes" } },
             { "npc_has_any_trait": [ "band_lv4", "band_lv5" ] },
             { "or": [ { "u_has_item": "camera" }, { "u_has_item": "camera_pro" } ] }
           ]
         },
         "effect": [
-          { "npc_add_var": "already_shot_flag_photographed", "value": "yes" },
+          { "npc_add_var": "already_shot", "type": "flag", "context": "photographed", "value": "yes" },
           {
             "u_message": "あなたがおもむろにカメラを向けると、<npc_name>は慌ててポーズを取ってくれました！",
             "popup": true
@@ -224,6 +224,7 @@
           "buttercream",
           "maple_candy",
           "sandwich_sauce",
+          "sandwich_sauce_wheat_free",
           "onion_rings"
         ],
         "response": { "text": "<topic_item>", "topic": "TALK_EAT_ITEMS_+1" }
@@ -254,7 +255,7 @@
           "almond_milk",
           "cranberry_juice",
           "lemonade",
-          "milk_coffee_sweetened"
+          "milk_coffee_sweeteeened"
         ],
         "response": { "text": "<topic_item>", "topic": "TALK_EAT_ITEMS_+3" }
       },

@@ -61,7 +61,7 @@
     ],
     "encumbrance_always": [ [ "hand_l", 20 ], [ "hand_r", 20 ] ],
     "encumbrance_covered": [ [ "hand_l", 30 ], [ "hand_r", 30 ] ],
-    "enchantments": [ { "melee_damage_bonus": [ { "type": "bash", "add": 2 }]}],
+    "enchantments": [ { "values": [ { "value": "ITEM_DAMAGE_BASH", "add": 2 }]}],
     "attacks": [
       {
         "attack_text_u": "You slap %s with your tendrils",
@@ -116,11 +116,9 @@
     "armor": [ { "parts": [ "arm_l", "arm_r" ], "bash": 6 } ],
     "enchantments": [
       {
-        "melee_damage_bonus": [
-          { "type": "bash", "add": 5.5}
-        ],
         "values": [
-          { "value": "DEXTERITY", "add": -2 }
+          { "value": "DEXTERITY", "add": -2 },
+          { "value": "ITEM_DAMAGE_BASH", "add": 5.5}
         ]
       }
     ],
@@ -197,12 +195,10 @@
     "armor": [ { "parts": [ "arm_l", "arm_r" ], "bash": 1 }, { "parts": "ALL", "bash": 2 } ],
     "enchantments": [
       {
-        "melee_damage_bonus": [
-          { "type": "bash", "add": 1.5}
-        ],
         "values": [
           { "value": "DEXTERITY", "add": 1 },
-          { "value": "ATTACK_SPEED", "multiply": 0.05 }
+          { "value": "ATTACK_SPEED", "multiply": 0.05 },
+          { "value": "ITEM_DAMAGE_BASH", "add": 1.5 }
         ]
       }
     ],
@@ -223,11 +219,9 @@
     "armor": [ { "parts": [ "arm_l", "arm_r" ], "bash": 4 } ],
     "enchantments": [
       {
-        "melee_damage_bonus": [
-          { "type": "bash", "add": 4}
-        ],
         "values": [
-          { "value": "STRENGTH", "add": 2 }
+          { "value": "STRENGTH", "add": 2 },
+          { "value": "ITEM_DAMAGE_BASH", "add": 4 }
         ]
       }
     ],
@@ -275,7 +269,7 @@
       "SECRO_BLADE_SERRATED_THRESHOLD"
     ],
     "encumbrance_always": [ [ "hand_l", 100 ] ],
-    "enchantments": [ { "melee_damage_bonus": [ { "type": "bash", "add": 6 } ] } ],
+    "enchantments": [ { "values": [ { "value": "ITEM_DAMAGE_BASH", "add": 6 } ] } ],
     "armor": [ { "parts": "arm_l", "bash": 10, "cut": 10, "stab": 10 } ],
     "category": [ "SECRONOM_EX" ]
   },
@@ -297,11 +291,9 @@
     "armor": [ { "parts": "arm_l", "bash": 6, "cut": 6, "stab": 6 } ],
     "enchantments": [
       {
-        "melee_damage_bonus": [
-          { "type": "cut", "add": 8 }
-        ],
         "values": [
-          { "value": "ATTACK_SPEED", "multiply": 0.1 }
+          { "value": "ATTACK_SPEED", "multiply": 0.1 },
+          { "value": "ITEM_DAMAGE_CUT", "add": 8 }
         ]
       }
     ],
@@ -325,12 +317,10 @@
     "armor": [ { "parts": "arm_l", "bash": 14, "cut": 14, "stab": 14 } ],
     "enchantments": [
       {
-        "melee_damage_bonus": [
-          { "type": "cut", "add": 5.5 },
-          { "type": "bash", "add": 5.5 }
-        ],
         "values": [
-          { "value": "ATTACK_SPEED", "multiply": -0.05 }
+          { "value": "ATTACK_SPEED", "multiply": -0.05 },
+          { "value": "ITEM_DAMAGE_BASH", "add": 5.5 },
+          { "value": "ITEM_DAMAGE_CUT", "add": 5.5 }
         ]
       }
     ],

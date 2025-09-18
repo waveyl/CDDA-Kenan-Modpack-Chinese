@@ -1,11 +1,11 @@
 [
   {
-    "id": "GROUP_BAR",
+    "name": "GROUP_BAR",
     "type": "monstergroup",
     "monsters": [ { "monster": "mon_chupacabra_small", "weight": 666, "pack_size": [ 1, 2 ], "starts": "2 days" } ]
   },
   {
-    "id": "GROUP_GHOSTS_CITY",
+    "name": "GROUP_GHOSTS_CITY",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_lallorona", "weight": 100, "starts": "2 days" },
@@ -14,7 +14,7 @@
     "//": "Ghosts, spectres that would spawn individually in cities and towns, outside and inside buildings. NOT around forests or fields"
   },
   {
-    "id": "GROUP_MIB",
+    "name": "GROUP_MIB",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_mib_1", "weight": 100 },
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_ALL",
+    "name": "GROUP_YOUKAI_ALL",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_chupacabra", "weight": 100, "pack_size": [ 2, 3 ], "starts": "2 days" },
@@ -33,27 +33,9 @@
       { "monster": "mon_enfield_horror", "weight": 100, "starts": "2 days", "conditions": [ "NIGHT" ] },
       { "monster": "mon_gevaudan", "weight": 100, "starts": "2 days", "conditions": [ "DAWN", "NIGHT", "DUSK" ] },
       { "monster": "mon_jackalope", "weight": 100, "starts": "2 days" },
-      {
-        "monster": "mon_jinmenken",
-        "weight": 100,
-        "pack_size": [ 1, 2 ],
-        "starts": "2 days",
-        "conditions": [ "NIGHT", "DUSK" ]
-      },
-      {
-        "monster": "mon_kunekune",
-        "weight": 100,
-        "pack_size": [ 1, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DAWN", "DAY" ]
-      },
-      {
-        "monster": "mon_nightcrawler",
-        "weight": 100,
-        "pack_size": [ 2, 5 ],
-        "starts": "2 days",
-        "conditions": [ "NIGHT" ]
-      },
+      { "monster": "mon_jinmenken", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days", "conditions": [ "NIGHT", "DUSK" ] },
+      { "monster": "mon_kunekune", "weight": 100, "pack_size": [ 1, 4 ], "starts": "2 days", "conditions": [ "DAWN", "DAY" ] },
+      { "monster": "mon_nightcrawler", "weight": 100, "pack_size": [ 2, 5 ], "starts": "2 days", "conditions": [ "NIGHT" ] },
       { "monster": "mon_olgoi", "weight": 100, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_sasquatch", "weight": 100, "starts": "2 days" },
       { "monster": "mon_yeti", "weight": 100, "starts": "2 days" },
@@ -80,16 +62,10 @@
     "//": "All youkai should go on this list, more for listing than for spawning purposes"
   },
   {
-    "id": "GROUP_YOUKAI_CITY",
+    "name": "GROUP_YOUKAI_CITY",
     "type": "monstergroup",
     "monsters": [
-      {
-        "monster": "mon_jinmenken",
-        "weight": 400,
-        "pack_size": [ 1, 2 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      },
+      { "monster": "mon_jinmenken", "weight": 400, "pack_size": [ 1, 2 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_lallorona", "weight": 50, "starts": "2 days", "conditions": [ "DAWN", "NIGHT", "DUSK" ] },
       { "monster": "mon_lallorona", "weight": 100, "starts": "20 days", "conditions": [ "DAWN", "NIGHT", "DUSK" ] },
       { "monster": "mon_skinwalker_witch", "weight": 25, "starts": "20 days", "conditions": [ "DUSK", "NIGHT" ] },
@@ -98,16 +74,10 @@
     "//": "Youkai that would spawn in cities, outside buildings"
   },
   {
-    "id": "GROUP_YOUKAI_CITY_DUMPSTER",
+    "name": "GROUP_YOUKAI_CITY_DUMPSTER",
     "type": "monstergroup",
     "monsters": [
-      {
-        "monster": "mon_jinmenken",
-        "weight": 300,
-        "pack_size": [ 1, 2 ],
-        "starts": "2 days",
-        "conditions": [ "DUSK", "NIGHT" ]
-      },
+      { "monster": "mon_jinmenken", "weight": 300, "pack_size": [ 1, 2 ], "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "group": "GROUP_YOUKAI_ONI_LESSER", "weight": 100, "pack_size": [ 1, 4 ], "starts": "2 days" },
       { "group": "GROUP_YOUKAI_ONI_LESSER", "weight": 33, "pack_size": [ 1, 4 ], "starts": "20 days" },
       { "group": "GROUP_YOUKAI_ONI_LESSER", "weight": 66, "pack_size": [ 1, 4 ], "starts": "40 days" }
@@ -115,7 +85,7 @@
     "//": "Youkai that would spawn around dumpsters, trash, etc"
   },
   {
-    "id": "GROUP_YOUKAI_FOREST",
+    "name": "GROUP_YOUKAI_FOREST",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_chupacabra", "weight": 66, "pack_size": [ 1, 2 ], "starts": "2 days" },
@@ -126,13 +96,7 @@
       { "monster": "mon_gevaudan", "weight": 11, "starts": "2 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
       { "monster": "mon_gevaudan", "weight": 11, "starts": "20 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
       { "monster": "mon_gevaudan", "weight": 11, "starts": "40 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
-      {
-        "monster": "mon_kunekune",
-        "weight": 66,
-        "pack_size": [ 1, 3 ],
-        "starts": "2 days",
-        "conditions": [ "DAWN", "DAY" ]
-      },
+      { "monster": "mon_kunekune", "weight": 66, "pack_size": [ 1, 3 ], "starts": "2 days", "conditions": [ "DAWN", "DAY" ] },
       { "monster": "mon_olgoi", "weight": 33, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_sasquatch", "weight": 33, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_mapinguari", "weight": 33, "starts": "2 days" },
@@ -149,17 +113,11 @@
     "//": "Youkai that would spawn in forests and some fields, NOT cities or nearby human dwellings"
   },
   {
-    "id": "GROUP_YOUKAI_OPENFIELD",
+    "name": "GROUP_YOUKAI_OPENFIELD",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_chupacabra", "weight": 166, "pack_size": [ 1, 3 ], "starts": "2 days" },
-      {
-        "monster": "mon_kunekune",
-        "weight": 266,
-        "pack_size": [ 1, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DAWN", "DAY" ]
-      },
+      { "monster": "mon_kunekune", "weight": 266, "pack_size": [ 1, 4 ], "starts": "2 days", "conditions": [ "DAWN", "DAY" ] },
       { "monster": "mon_olgoi", "weight": 100, "starts": "2 days" },
       { "monster": "mon_lallorona", "weight": 33, "starts": "2 days", "conditions": [ "DAWN", "NIGHT", "DUSK" ] },
       { "monster": "mon_lallorona", "weight": 66, "starts": "20 days", "conditions": [ "DAWN", "NIGHT", "DUSK" ] },
@@ -168,27 +126,15 @@
     "//": "Youkai that would spawn on open fields (ignoring soft, walkable vegetation), like crops and tall grass, NOT covered terrain like woods"
   },
   {
-    "id": "GROUP_YOUKAI_TOWN",
+    "name": "GROUP_YOUKAI_TOWN",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_chupacabra", "weight": 150, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_chupacabra_small", "starts": "2 days" },
       { "monster": "mon_enfield_horror", "weight": 100, "starts": "2 days", "conditions": [ "NIGHT" ] },
       { "monster": "mon_gevaudan", "weight": 33, "starts": "2 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
-      {
-        "monster": "mon_kunekune",
-        "weight": 125,
-        "pack_size": [ 1, 4 ],
-        "starts": "2 days",
-        "conditions": [ "DAWN", "DAY" ]
-      },
-      {
-        "monster": "mon_nightcrawler",
-        "weight": 100,
-        "pack_size": [ 2, 5 ],
-        "starts": "2 days",
-        "conditions": [ "NIGHT" ]
-      },
+      { "monster": "mon_kunekune", "weight": 125, "pack_size": [ 1, 4 ], "starts": "2 days", "conditions": [ "DAWN", "DAY" ] },
+      { "monster": "mon_nightcrawler", "weight": 100, "pack_size": [ 2, 5 ], "starts": "2 days", "conditions": [ "NIGHT" ] },
       { "monster": "mon_sasquatch", "weight": 65, "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_mapinguari", "weight": 65, "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
       { "monster": "mon_yeti", "weight": 65, "starts": "2 days", "conditions": [ "DUSK", "NIGHT" ] },
@@ -201,7 +147,7 @@
     "//": "Youkai that would spawn on the outskirts of cities, on towns, around lone houses, etc."
   },
   {
-    "id": "GROUP_YOUKAI_ONI_ALL",
+    "name": "GROUP_YOUKAI_ONI_ALL",
     "type": "monstergroup",
     "monsters": [
       { "group": "GROUP_YOUKAI_ONI_LESSER", "weight": 100, "pack_size": [ 2, 5 ], "starts": "2 days" },
@@ -212,7 +158,7 @@
     "//2": "mon_oni_humanoid should spawn most of the time alone, and very few times in pairs, never with the other two kinds"
   },
   {
-    "id": "GROUP_YOUKAI_ONI_LESSER",
+    "name": "GROUP_YOUKAI_ONI_LESSER",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_oni_lesser_1", "weight": 100, "starts": "2 days" },
@@ -223,7 +169,7 @@
     "//": "Spawns only one of each, when individual lesser oni are required"
   },
   {
-    "id": "GROUP_YOUKAI_ONI_MEDIUM",
+    "name": "GROUP_YOUKAI_ONI_MEDIUM",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_oni_medium_1", "weight": 100, "starts": "2 days" },
@@ -233,7 +179,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_ONI_HUMANOID",
+    "name": "GROUP_YOUKAI_ONI_HUMANOID",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_oni_humanoid_1", "weight": 100, "starts": "2 days" },
@@ -241,7 +187,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_SKINWALKER",
+    "name": "GROUP_YOUKAI_SKINWALKER",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_skinwalker_twig", "weight": 133 },
@@ -250,7 +196,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_SKINWALKER_TRANSFORM",
+    "name": "GROUP_YOUKAI_SKINWALKER_TRANSFORM",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_skinwalker_witch_bear", "weight": 100 },
@@ -261,7 +207,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_SCARECROW",
+    "name": "GROUP_YOUKAI_SCARECROW",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_scarecrow_inactive", "weight": 100, "starts": "2 days" },
@@ -269,7 +215,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_ALL",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_ALL",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_computer_possessed", "weight": 100, "starts": "2 days" },
@@ -284,7 +230,7 @@
     "//": "All tsukumogami should go on this list, equal weight and expected base values, more for listing than for spawning purposes"
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_DOLLS",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_DOLLS",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_tsukumogami_talking_doll_1", "weight": 300, "starts": "2 days" },
@@ -293,7 +239,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_AIRPLANE",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_AIRPLANE",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_tsukumogami_seat_airplane_1", "weight": 200, "starts": "2 days" },
@@ -302,7 +248,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_ARMCHAIRS",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_tsukumogami_armchair_1", "weight": 200, "starts": "2 days" },
@@ -311,7 +257,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_CHAIRS",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_tsukumogami_seat_chair_1", "weight": 200, "starts": "2 days" },
@@ -320,7 +266,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_STOOLS",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_SEAT_STOOLS",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_tsukumogami_seat_stool_1", "weight": 200, "starts": "2 days" },
@@ -329,7 +275,7 @@
     ]
   },
   {
-    "id": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES",
+    "name": "GROUP_YOUKAI_TSUKUMOGAMI_TABLES",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_tsukumogami_table_1", "weight": 200, "starts": "2 days" },
@@ -338,7 +284,7 @@
     ]
   },
   {
-    "id": "GROUP_GHOSTS_and_YOUKAI_FOREST",
+    "name": "GROUP_GHOSTS_and_YOUKAI_FOREST",
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_lallorona", "weight": 100, "starts": "2 days" },
@@ -351,13 +297,7 @@
       { "monster": "mon_gevaudan", "weight": 11, "starts": "2 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
       { "monster": "mon_gevaudan", "weight": 11, "starts": "20 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
       { "monster": "mon_gevaudan", "weight": 11, "starts": "40 days", "conditions": [ "DAWN", "DUSK", "NIGHT" ] },
-      {
-        "monster": "mon_kunekune",
-        "weight": 66,
-        "pack_size": [ 1, 2 ],
-        "starts": "2 days",
-        "conditions": [ "DAWN", "DAY" ]
-      },
+      { "monster": "mon_kunekune", "weight": 66, "pack_size": [ 1, 2 ], "starts": "2 days", "conditions": [ "DAWN", "DAY" ] },
       { "monster": "mon_olgoi", "weight": 33, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_sasquatch", "weight": 33, "pack_size": [ 1, 2 ], "starts": "2 days" },
       { "monster": "mon_mapinguari", "weight": 33, "starts": "2 days" },

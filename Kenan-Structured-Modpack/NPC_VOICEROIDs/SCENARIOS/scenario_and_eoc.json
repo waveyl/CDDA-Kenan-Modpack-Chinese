@@ -20,6 +20,7 @@
   {
     "type": "effect_on_condition",
     "id": "scenario_voiro",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_voiro", "om_terrain": "cabin_voiro" }
     ]
@@ -38,8 +39,9 @@
   {
     "type": "effect_on_condition",
     "id": "scenario_love_is_over",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
-      { "u_add_var": "love_is_over_flag_love_is_over", "value": "yes" }
+      { "u_add_var": "love_is_over", "type": "flag", "context": "love_is_over", "value": "yes" }
     ]
   },
   {
@@ -47,12 +49,12 @@
     "id": "EOC_scenario_love_is_over",
     "eoc_type": "EVENT",
     "required_event": "game_begin",
-    "condition": { "compare_string": [ "yes", { "u_val": "love_is_over_flag_love_is_over" } ] },
-    "deactivate_condition": { "not": { "compare_string": [ "yes", { "u_val": "love_is_over_flag_love_is_over" } ] } },
+    "condition": { "u_has_var": "love_is_over", "type": "flag", "context": "love_is_over", "value": "yes" },
+    "deactivate_condition": { "not": { "u_has_var": "love_is_over", "type": "flag", "context": "love_is_over", "value": "yes" } },
     "effect": [
       { "open_dialogue": { "topic": "TALK_CHOICE_NPC_1" } },
-      { "run_eocs": "EOC_love_is_over_infected", "time_in_future": "1 seconds" },
-      { "u_lose_var": "love_is_over_flag_love_is_over" }
+      { "queue_eocs": "EOC_love_is_over_infected", "time_in_future": "1 seconds" },
+      { "u_lose_var": "love_is_over", "type": "flag", "context": "love_is_over" }
     ]
   },
   {
@@ -66,6 +68,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_IA",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_ia", "om_terrain": "cabin_voiro" }
     ]
@@ -73,6 +76,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_AOI",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_aoi", "om_terrain": "cabin_voiro" }
     ]
@@ -80,6 +84,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_AKANE",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_akane", "om_terrain": "cabin_voiro" }
     ]
@@ -87,6 +92,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_AKARI",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_akari", "om_terrain": "cabin_voiro" }
     ]
@@ -94,6 +100,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_KIRITAN",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_kiritan", "om_terrain": "cabin_voiro" }
     ]
@@ -101,6 +108,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_TUMUGI",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_tumugi", "om_terrain": "cabin_voiro" }
     ]
@@ -108,6 +116,7 @@
   {
     "type": "effect_on_condition",
     "id": "EOC_LOVE_IS_OVER_YUKARI",
+    "eoc_type": "SCENARIO_SPECIFIC",
     "effect": [
       { "mapgen_update": "scenario_spawn_yukari", "om_terrain": "cabin_voiro" }
     ]

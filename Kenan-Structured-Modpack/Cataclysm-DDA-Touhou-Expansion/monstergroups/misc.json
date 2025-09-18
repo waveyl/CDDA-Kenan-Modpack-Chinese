@@ -1,7 +1,7 @@
 [
   {
     "type": "monstergroup",
-    "id": "GROUP_DOMESTIC",
+    "name": "GROUP_DOMESTIC",
     "default": "mon_dog",
     "is_animal": true,
     "monsters": [
@@ -18,7 +18,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_SAFE",
+    "name": "GROUP_SAFE",
     "is_safe": true,
     "is_animal": true,
     "monsters": [
@@ -43,21 +43,15 @@
   },
   {
     "type": "monstergroup",
-    "id": "DUMP_ANIMALS",
+    "name": "DUMP_ANIMALS",
     "monsters": [
-      {
-        "monster": "mon_jinmenken",
-        "weight": 150,
-        "pack_size": [ 1, 3 ],
-        "starts": "2 days",
-        "conditions": [ "NIGHT", "DUSK" ]
-      }
+      { "monster": "mon_jinmenken", "weight": 150, "pack_size": [ 1, 3 ], "starts": "2 days", "conditions": [ "NIGHT", "DUSK" ] }
     ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_SEWER",
+    "name": "GROUP_SEWER",
     "//": "Freqs sum to 555 since there's no way to define spawn chance for map extras",
     "monsters": [
       { "monster": "mon_pholiderpeton", "weight": 20, "cost_multiplier": 2, "starts": "2 days" },
@@ -73,7 +67,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_YOUR_FEARS",
+    "name": "GROUP_YOUR_FEARS",
     "//": "For monsters, spawned by hallucinator effects.  Must represent the awful monsters the player want never see.  Put here every asshole you want.",
     "monsters": [
       { "monster": "mon_andrewsarchus" },
@@ -130,7 +124,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_CAMP_HUNTING",
+    "name": "GROUP_CAMP_HUNTING",
     "//": "Special group with hardcoded reference in basecamp::hunting_results. Does not actually spawn anywhere, used solely to determine returns from camp hunting mission.",
     "//2": "This group always has a chance of being the result, regardless of mission type.",
     "monsters": [
@@ -154,7 +148,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_CAMP_TRAPPING",
+    "name": "GROUP_CAMP_TRAPPING",
     "//": "Special group with hardcoded reference in basecamp::hunting_results. Does not actually spawn anywhere, used solely to determine returns from camp hunting mission.",
     "//2": "This group can only be picked from when the trapping mission is used, in addition to GROUP_CAMP_HUNTING.",
     "monsters": [
@@ -175,7 +169,7 @@
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_CAMP_HUNTING_LARGE",
+    "name": "GROUP_CAMP_HUNTING_LARGE",
     "//": "Special group with hardcoded reference in basecamp::hunting_results. Does not actually spawn anywhere, used solely to determine returns from camp hunting mission.",
     "//2": "This group can only be picked from when the hunt large animals mission is used, in addition to GROUP_CAMP_HUNTING.",
     "monsters": [

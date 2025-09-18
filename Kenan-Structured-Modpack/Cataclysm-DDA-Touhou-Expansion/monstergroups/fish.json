@@ -1,30 +1,18 @@
 [
   {
     "type": "monstergroup",
-    "id": "GROUP_FISH",
+    "name": "GROUP_FISH",
     "default": "mon_fish_whitefish",
     "is_animal": true,
     "monsters": [
-      {
-        "group": "GROUP_WILDLIFE_AQUATIC_FISHABLE",
-        "weight": 350,
-        "cost_multiplier": 1,
-        "pack_size": [ 1, 2 ],
-        "starts": "2 days"
-      },
-      {
-        "group": "GROUP_WILDLIFE_AQUATIC_DANGER",
-        "weight": 35,
-        "cost_multiplier": 1,
-        "pack_size": [ 1, 1 ],
-        "starts": "2 days"
-      }
+      { "group": "GROUP_WILDLIFE_AQUATIC_FISHABLE", "weight": 350, "cost_multiplier": 1, "pack_size": [ 1, 2 ], "starts": "2 days" },
+      { "group": "GROUP_WILDLIFE_AQUATIC_DANGER", "weight": 35, "cost_multiplier": 1, "pack_size": [ 1, 1 ], "starts": "2 days" }
     ],
     "//": "Currently monstergroups extend by default instead of replacing (discussion at #68032), so this adds those monsters instead of replacing the whole list"
   },
   {
     "type": "monstergroup",
-    "id": "GROUP_STOCKED_POND",
+    "name": "GROUP_STOCKED_POND",
     "is_animal": true,
     "monsters": [
       { "monster": "mon_chasmataspis", "weight": 30, "pack_size": [ 1, 5 ], "starts": "2 days" },
