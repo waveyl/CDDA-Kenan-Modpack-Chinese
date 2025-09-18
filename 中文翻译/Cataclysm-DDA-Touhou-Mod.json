@@ -10438,9 +10438,9 @@
  {
   "key": "be36cba3d8a39867e6bb4ac58e8432de",
   "original": "Shoot web at a target location.  You can entangle a creature or target and pull it towards you, or <color_light_blue>pull yourself</color> towards it, if they're too heavy or your footing is not stable enough.  If using on empty terrain, you will pull yourself forward.",
-  "translation": "Shoot web at a target location.  You can entangle a creature or target and pull it towards you, or <color_light_blue>pull yourself</color> towards it, if they're too heavy or your footing is not stable enough.  If using on empty terrain, you will pull yourself forward.",
+  "translation": "向目标地点发射蛛网。  你可以用蛛网缠绕目标，并将其拉向自己。或者，当你立足点不稳或对方过重时， <color_light_blue>把你自己拉向目标</color> 。  当瞄准空地时，则会将自身向前牵引。",
   "context": "ID: yamame_damnedrope\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_yamame.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→yamame_damnedrope\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "1f1c895a3a5769fb25e4cd5bcac7c7f1",
@@ -13233,15 +13233,15 @@
  {
   "key": "92328f61f332cb52ae3926a64a672036",
   "original": "Use your Extendo arm v.4.2c to pull a nearby target or item.  \n<color_yellow>Warning:</color> May fail if used on unstable footing.  May fail if the target's mass is bigger than the user's.",
-  "translation": "Use your Extendo arm v.4.2c to pull a nearby target or item.  \n<color_yellow>Warning:</color> May fail if used on unstable footing.  May fail if the target's mass is bigger than the user's.",
+  "translation": "使用你的延展臂v.4.2c拉住附近的一个目标或物品。  \n<color_yellow>注意</color>：立足点不平稳的时候可能会失败。  目标重量大于使用者时可能会失败。",
   "context": "ID: nitori_extendo_arm\n位于 /Kenan-Structured-Modpack/Cataclysm-DDA-Touhou-Mod/spells/touhou_spells_nitori.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Cataclysm-DDA-Touhou-Mod→SPELL→nitori_extendo_arm\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "f3defedd0211ceee60ce06edcc5950dc",
   "original": "Use your Extendo arm v.4.2c to pull a nearby target or item.  \nCaution: May fail if used on unstable footing.  May fail if the target's mass is bigger than the user's.",
-  "translation": "Use your Extendo arm v.4.2c to pull a nearby target or item.  \nCaution: May fail if used on unstable footing.  May fail if the target's mass is bigger than the user's.",
-  "stage": 1
+  "translation": "使用你的延展臂v.4.2c拉住附近的一个目标或物品。  \n注意：立足点不平稳的时候可能会失败。  目标重量大于使用者时可能会失败。",
+  "stage": 3
  },
  {
   "key": "bd9552b26f50708b72d5c567c34fd803",

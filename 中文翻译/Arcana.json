@@ -74,7 +74,7 @@
  {
   "key": "5f951f2a7699ac2be0c4705ee48b25e5",
   "original": "\"All is known to one who watches and listens with patience…\"  You cast %s!",
-  "translation": "“耐心观察和倾听的人都知道……”你施放了 %s！",
+  "translation": "“耐心观察和倾听的人终将全知全觉……” 你施放了 %s！",
   "context": "ID: arcana_magic_insight\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_magic_signs.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_magic_insight\n",
   "stage": 1
  },
@@ -2089,9 +2089,9 @@
  {
   "key": "abbd56a37f103ae6bb46555e2e6b056c",
   "original": "<npcname> drives their weapon hard into %s",
-  "translation": "<npcname>把他们的武器硬塞进%s",
+  "translation": "<npcname>用武器刺入%s",
   "context": "ID: tec_cleansingflame_blade_flare\n位于 /Kenan-Structured-Modpack/Arcana/techniques.json\n类型为 technique\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→technique→tec_cleansingflame_blade_flare\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "561b1d615cbab5e4febdfd1fc934dbf7",
@@ -2267,7 +2267,7 @@
  {
   "key": "efb62d21ea2f94d00a060dbeae102926",
   "original": "A book discussing the histories of a few peculiar cults and religious orders, and their conflicts during the years up until shortly before the cataclysm.  It describes a number of peculiar rituals and concepts based on the philosophies of the major groups mentioned, along with musing on their respective strengths and flaws.\n\"Athame, hammer, and chalice.  Stalking and warring over trifling powers, as the Blind World pursued the End of All.  All things are, and shall be, as was written...\"",
-  "translation": "一本书讨论了一些特殊的邪教和宗教秩序的历史，以及它们在大灾难前几年的冲突。它描述了一些特殊的仪式和概念的基础上所提到的主要群体的哲学，以及思考他们各自的优点和缺点。\n“仪式刀，锤子和圣杯。为了琐碎的权力而纠缠和斗争，如同盲目的世界追求一切的终结。一切事物都是，将来也将是，正如所写的那样……”",
+  "translation": "本书讨论了一些特殊的邪教和宗教秩序的历史，以及它们在大灾难前几年的冲突。它描述了一些特殊的仪式和概念，以书中提到的主要群体的哲学为基础，思考了他们各自的优点和缺点。\n“仪式刀，锤子和圣杯。为了琐碎的权力而纠缠和斗争，如同盲目的世界追求一切的终结。一切事物现在是，将来也会是，如本书所写的那样……”",
   "stage": 3
  },
  {
@@ -3048,7 +3048,7 @@
   "original": "A local cult that used to infest this area's rural regions, and their effects on our community led to our own group being formed.  Like us, before things boiled over there were some initial supernatural effects, and with that came ways of using it to one's benefit.  Their rituals went from simple murder to something dangerous to more than just their victims.",
   "translation": "当地农村曾有一伙邪教十分猖獗，受其影响才让我们自发地组织起来。与我们的遭遇类似，最初发生了一些超自然效应，紧接着有人借此谋利，事情才发展到无法挽回的地步。他们的仪式从单纯的谋杀演变成对大众都带来威胁的事情。",
   "context": "ID: TALK_CF_REP_SANGUINE_QUERY\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SANGUINE_QUERY\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "6ce596e95cda7ab1d01131598c5e9dee",
@@ -3490,7 +3490,7 @@
   "original": "A religious order.  Of many faiths, along many paths.  We were never that large in size, mostly just a few local communities united by the depredations of a cult.  Before any of these arcane goings-on happened, but when the cracks in the Veil began to show its effects, we adapted just as the Sanguine Order did.",
   "translation": "一个宗教组织。有许多信仰，也有许多分支。我们的规模从未很大，大多数只是一些因某个邪教的侵扰而联合起来的地方社区。在这些神秘事件发生之前，但当帷幕的裂缝开始显现其影响时，我们就像猩红教派一样做出了反应。",
   "context": "ID: TALK_CF_REP_CF_QUERY\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_CF_QUERY\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "43433d3cbbebcb4ae05975834e370bfc",
@@ -4195,7 +4195,7 @@
   "key": "9c7dfeaabe31d211f17abca0dfe7d6ce",
   "original": "A strange book with a trident motif on the cover, describing the morbid rituals of some otherworldly cult, preaching of He From Beyond The Veil.  The level of detail these rituals go into is disturbing, yet informative.\n\"Through my visions, I saw rolling fog sweep across the valleys of a thousand worlds.  I witnessed the decay of countless cities, built by endless unnamed things.  And there, shadows coalesced into form, a presence to guide me...\"",
   "translation": "一本封面上绘着三叉图案的怪异之书，书中描述了一些超自然的邪教变态仪式，宣扬一位帷幕之外的神祇，这些繁琐仪式令人感到不安。\n“透过我的视界，我看到浓密的雾笼罩着千山万水。我见证了无数由无名之物建造成的城市的衰落。在那儿，阴影融合升华为一种新的形式，形成一种指引我的存在…”",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "8ea3b123bb8379853e824cfbc156f729",
@@ -10384,7 +10384,7 @@
  {
   "key": "30800084eec27b9bcd3bff168f79284b",
   "original": "GHOST TOWN BLOODBATH - VIGILANTES SUSPECTED: State Police have uncovered the remains of a clash between a suspected cult and a local gang, in a former Appalachian mining town.  \"We first suspected that it was just a drug ring in the wrong place at the wrong time.\" says the Deputy Superintendent.  \"But there are definitely signs that someone else got involved as well, and destroyed a lot of evidence afterward.\"",
-  "translation": "幽灵镇上的血腥监狱-涉嫌犯罪者：州警察在一个前阿巴拉契亚采矿小镇发现了一个可疑的邪教组织与当地帮派之间的冲突遗骸。“我们首先怀疑这只是在错误地点的一个毒品圈。副校长说，\"时间错了。”但是，肯定有迹象表明有人也卷入其中，并随后销毁了许多证据。",
+  "translation": "幽灵镇上的血腥监狱-涉嫌犯罪者：州警察在一个前阿巴拉契亚采矿小镇发现了一个可疑的邪教组织与当地帮派之间的冲突遗骸。“我们首先怀疑这只是在错误时间出现在错误地点的一个毒品圈，”副警长说道，“但是，肯定有迹象表明其他人也卷入其中，他们随后销毁了许多证据。”",
   "stage": 3
  },
  {
@@ -11242,7 +11242,7 @@
  {
   "key": "d44bcd3309b94cbed652a95533537757",
   "original": "Hell if I know.  Some kind cult book, that Ms. McKinnon lady was making sure I'd turn them in to someone working for her instead of the Grandmaster.  Guessin' she doesn't trust him not to go burning them.",
-  "translation": "天晓得呢。那是一本邪教徒的书，麦金农女士确保我会把它们交给她的人而不是宗师。估计她不相信他不会把这些玩意儿一把火烧掉。",
+  "translation": "天晓得呢。那是一本邪教徒的书，麦金农女士确保我会把它们交给她的人而不是宗师。估计她相信他会把这些玩意儿一把火烧掉。",
   "context": "ID: TALK_MERCHANT_CF_AUX_BOUNTY_BOOKS_CHALICE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MERCHANT_CF_AUX.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MERCHANT_CF_AUX_BOUNTY_BOOKS_CHALICE\n",
   "stage": 3
  },
@@ -12342,7 +12342,7 @@
  {
   "key": "b56f71de7dd6e1632a96c431b1be674b",
   "original": "I had thought from your alterations that you were familiar with them.  They were the ones that developed the practices that you yourself have benefited from.  A band of murderous cultists, even before all this started and they found ways to exploit these anomalies.",
-  "translation": "我原以为从你的变化可以看出，你对他们相当熟悉。就是那些开发出你现在所受益的实践方法的家伙。一伙在这一切开始之前就已存在的凶残邪教徒，他们甚至找到了利用这些异常现象的方法。",
+  "translation": "从你的变化来看，我原以为你对他们相当熟悉。就是那些开发出你也实践过的获利方法的家伙。一群凶残邪教徒，甚至在这一切开始之前，他们就找到了利用这些异常现象的方法。",
   "context": "ID: TALK_CF_REP_SANGUINE_QUERY\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_SANGUINE_QUERY\n",
   "stage": 3
  },
@@ -25948,7 +25948,7 @@
  {
   "key": "8c952efe9c09ee67dae7fc9413caac92",
   "original": "The Sanguine Order, as far as I've been able to discern, has been almost wiped out.  Thank the gods for that.  I've heard barely anything of the Keepers, possibly for the best given we weren't often on speaking terms with each other.  Handful of cults here and there no doubt, but I'm not aware of any others to get tangled up in the bickering and squabbling of the old days.  Likely individuals out there surely, still dabbling in potentially dangerous magic with no one to guide them.",
-  "translation": "据我所知，猩红教派几乎已被消灭。感谢上帝。我几乎听不到守誓者的任何消息，这样可能更好，因为我们并不经常交流。毫无疑问，小团体的邪教无处不在，但我不知道还有没有其他的家伙在为那些陈年烂事争吵。肯定还有这样的人在外面，在毫无指导的情况下涉猎那些潜在危险的魔法。",
+  "translation": "据我所知，猩红教派几乎已被消灭。感谢上帝。我几乎听不到守誓者的任何消息，这样可能更好，因为我们并不经常交流。毫无疑问，小团体的邪教无处不在，但我不知道还有没有其他的家伙在为那些陈年烂事吵吵闹闹。肯定还有这样的人在外面，在无人引导的情况下贸然涉猎那些潜在危险的魔法。",
   "context": "ID: TALK_CF_GM_ARCANISTS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_GM.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_GM_ARCANISTS\n",
   "stage": 3
  },
@@ -26100,7 +26100,7 @@
  {
   "key": "88c41a90894d702c41f8b099a49aa300",
   "original": "The broken leftovers of a bloodthirsty pseudo-cult, from before the cataclysm.  The remainder still pursue the studies that led them down their murderous path, gleaming what little they can from past failures.",
-  "translation": "大灾变前嗜血的伪邪教的残存者。剩下的人仍在继续追求引导他们走上杀戮之路的研究，从过去的失败中汲取一点微光。",
+  "translation": "起源于大灾变前的嗜血伪邪教的残存者。残存者仍然痴迷于带他们走上嗜杀之路的密宗，从过去的失败中汲取少得可怜的教训。",
   "context": "ID: sanguine_order_remnant\n位于 /Kenan-Structured-Modpack/Arcana/npcs/factions.json\n类型为 faction\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→faction→sanguine_order_remnant\n",
   "stage": 3
  },
@@ -26597,7 +26597,7 @@
   "key": "4da77df876e00d6c96dea2b9eea22b63",
   "original": "The mirror needs essence to function.",
   "translation": "镜子需要源质才能发挥作用。",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "8b4f103c8647dd2952e2ad17d2177f5f",
@@ -30936,7 +30936,7 @@
  {
   "key": "c9ebd104567744811ed07a9413a9ad51",
   "original": "We've taken to referring to certain supernatural events as such, and the methods some have found to exploit these effects.  Things may have reached their boiling point rather recently, but less-disruptive events have been happening here and there for a bit before all this.  Given things like strange monsters being called from gods-know-where, cultists fueling rituals with blood, and the like, it's hard not to refer to such as magical, even if there is some manner of logic to it.  Here.  This may help you make sense of what we've had to deal with, to some extent.",
-  "translation": "我们提到了某些超自然事件，以及一些人发现的利用这些效应的方法。事情可能在最近才达到沸点，但在这之前，破坏性较小的事件在这里和那里已经发生了一段时间。考虑到一些事情，比如说从神灵那里召唤怪兽，邪教者用鲜血为仪式加油等等，很难不提及魔法，即使有某种逻辑。在这里。在某种程度上，这可能有助于你理解我们必须处理的事情。",
+  "translation": "我们提到了某些超自然事件，以及一些人发现的利用这些效应的方法。事情可能在最近才达到极点，但在这之前，破坏性较小的事件在许多地方已经发生了。考虑到比方说，从天知道哪里召唤来怪兽，和邪教徒用鲜血为仪式助兴等等这类事件，即使事件本身有某种逻辑，也很难不提及魔法。在这里。在某种程度上，这可能有助于你理解我们必须处理的事情。",
   "context": "ID: TALK_CF_REP_ARCANE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_ARCANE\n",
   "stage": 1
  },
@@ -31286,9 +31286,9 @@
  {
   "key": "ad7c89977ab3ed7cabe7d70e371b77b5",
   "original": "What about more exotic books?",
-  "translation": "那更多的异域的书呢？",
+  "translation": "那更多异界的书呢？",
   "context": "ID: TALK_HERMIT_SCHOLAR\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_HERMIT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_HERMIT_SCHOLAR\n",
-  "stage": 1
+  "stage": 3
  },
  {
   "key": "60acfc79297f249bad87321c7d9e0fa4",
@@ -33872,10 +33872,16 @@
   "stage": 3
  },
  {
+  "key": "313b40477c353519e3cf059691e1339a",
+  "original": "You have a pair of large, scale-covered wings.  Provides immunity to falling damage and ability to glide.  Your muscles have adapted to support their movements, improving your strength and stamina further.  Still prevents wearing non-fabric gear on the torso, and a bit more taxing on your dexterity, but they're now less encumbering and don't hinder dodging.",
+  "translation": "You have a pair of large, scale-covered wings.  Provides immunity to falling damage and ability to glide.  Your muscles have adapted to support their movements, improving your strength and stamina further.  Still prevents wearing non-fabric gear on the torso, and a bit more taxing on your dexterity, but they're now less encumbering and don't hinder dodging.",
+  "context": "ID: ARCANA_DRAGONWINGS\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONWINGS\n",
+  "stage": 1
+ },
+ {
   "key": "9185c7e754006d166f909fcfc020081a",
   "original": "You have a pair of large, scale-covered wings.  While you are still unable to fly, it does make you immune to falling damage.  Your muscles have adapted to support their movements, improving your strength and stamina further.  Still prevents wearing non-fabric gear on the torso, and a bit more taxing on your dexterity, but they're now less encumbering and don't hinder dodging.",
   "translation": "你拥有一对覆盖着鳞片的大翅膀。虽然你还无法飞行，但这使你免受坠落伤害。你的肌肉已经适应支撑它们的运动，这进一步提高了你的力量和耐力。虽然你无法在躯干上穿戴非织物装备，并且对你的敏捷度有些影响，但现在它们不再那么笨重，也不会妨碍闪避。",
-  "context": "ID: ARCANA_DRAGONWINGS\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_dragonblood.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→ARCANA_DRAGONWINGS\n",
   "stage": 3
  },
  {
