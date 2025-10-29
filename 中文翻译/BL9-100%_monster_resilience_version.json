@@ -1564,7 +1564,7 @@
     "key": "b8cb78c38f322465d04b02a1578dc729",
     "original": "A small bush of delicious raspberries.  Watch out for its thorns!",
     "translation": "一小丛长着美味树莓的灌木丛。当心上面的刺！",
-    "stage": 3,
+    "stage": 5,
     "context": "ID: f_BL9shrub_raspberry\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9shrub_raspberry\n"
   },
   {
@@ -6856,7 +6856,7 @@
     "key": "a8a020c47dbbaaf11817cd79112dfb4b",
     "original": "raspberry bush",
     "translation": "树莓丛",
-    "stage": 3,
+    "stage": 5,
     "context": "ID: f_BL9shrub_raspberry\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Furniture-Terrain/furniture.json\n类型为 furniture\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→furniture→f_BL9shrub_raspberry\n"
   },
   {
@@ -9986,21 +9986,21 @@
   {
     "key": "27af21852f180c4527a89a09ad1b8a61",
     "original": "You feel a boost in dexterity (+3 dex) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴上这件特殊的神器时，你会感觉敏捷增加了（+3 dex），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "当你戴上这件特殊的神器时，你会感觉敏捷增加了（+3敏捷），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_DEX1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX1\n"
   },
   {
     "key": "e8518fb107dffd484e59a5bd5060d6f4",
     "original": "You feel a boost in dexterity (<color_light_blue>+3 dex</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你激活这个特殊的神器时，你会感觉到灵巧度的提升（<color_light_blue>+3 dex </color>），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
+    "translation": "当你激活这个特殊的神器时，你会感觉到灵巧度的提升（<color_light_blue>+3敏捷 </color>），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
     "stage": 3,
     "context": "ID: BL9_dex1_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex1_ring\n"
   },
   {
     "key": "0f41f505b81a64e78abb48de10d9f9f1",
     "original": "You feel a boost in health (+25% to health) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴上这件特殊的神器时，你会感觉到健康水平提高了（+25%），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "当你戴上这件特殊的神器时，你会感觉到健康水平提高了（+25%健康），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_HP1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP1\n"
   },
@@ -10021,91 +10021,91 @@
   {
     "key": "4cc508b4511d89138cf2922acb8dde42",
     "original": "You feel a boost in intelligence (<color_light_blue>+3 int</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到智力的提升（<color_light_blue> +3 int </color>），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到智力的提升（<color_light_blue> +3智力 </color>），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_int1_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int1_pendant\n"
   },
   {
     "key": "716f52a8475a87fa4046bd738fd0882a",
     "original": "You feel a boost in perception (+3 per) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴着这个特殊的神器时，你会感觉到感知力的提升（+3%），感觉你不是被一个实体控制而是被一个实体引导，或者你认为…",
+    "translation": "当你戴着这个特殊的神器时，你会感觉到感知力的提升（+3感知），感觉你不是被一个实体控制而是被一个实体引导，或者你认为…",
     "stage": 3,
     "context": "ID: BL9_PER1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER1\n"
   },
   {
     "key": "8728c845a7bc504c919f5c8f2619d11c",
     "original": "You feel a boost in perception (<color_light_blue>+3 per</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到知觉的提升（<color_light_blue>+3/</color>），感觉不是你被控制而是被一个实体引导，或者你认为是这样…",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到知觉的提升（<color_light_blue>+3感知</color>），感觉不是你被控制而是被一个实体引导，或者你认为是这样…",
     "stage": 3,
     "context": "ID: BL9_per1_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per1_brooch\n"
   },
   {
     "key": "08bfb79b015ac6be89ad0adacef2c3a5",
     "original": "You feel a boost in strength (+3 str) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你穿着这件特殊的神器时，你会感觉力量增加了（+3弦），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "当你穿着这件特殊的神器时，你会感觉力量增加了（+3力量），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_STR1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR1\n"
   },
   {
     "key": "08af47344dce018a6f701e629e653b99",
     "original": "You feel a boost in strength (<color_light_blue>+3 str</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到力量的提升（<color_light_blue> +3 str </color>），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到力量的提升（<color_light_blue> +3力量 </color>），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_str1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str1_bangle\n"
   },
   {
     "key": "00bb9d8354aee6b5c3279535511a7e6c",
     "original": "You feel a boost in your vision and hearing (+5 to overmap sight, +25% to hearing) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴着这个特殊的神器时，你的视觉和听觉感觉得到了提升（5%的视力和25%的听力），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
+    "translation": "当你戴着这个特殊的神器时，你的视觉和听觉感觉得到了提升（+5大地图视力，+25%听力），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
     "stage": 3,
     "context": "ID: BL9_PER_ELEVATEDSENSE1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_ELEVATEDSENSE1\n"
   },
   {
     "key": "896bcc36659ad1a7f55c484f83c23f27",
     "original": "You feel a boost in your vision and hearing (<color_light_blue>+5 to overmap sight, +25% to hearing</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你激活这个特殊的神器时，你的视觉和听觉感觉得到了提升（<color_light_blue>+5代表视觉过度，25%代表听觉</color>），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
+    "translation": "当你激活这个特殊的神器时，你的视觉和听觉感觉得到了提升（<color_light_blue>+5大地图视力，+25%听力</color>），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
     "stage": 3,
     "context": "ID: BL9_per_elevatedsense1_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_elevatedsense1_brooch\n"
   },
   {
     "key": "2a994905c511d8c11b066eac4b7977c9",
     "original": "You feel a boost in your vision and hearing which is beyond your imagination or conception (+25 to overmap sight, +95% to hearing) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴着这个特殊的神器时，你感觉到你的视觉和听觉得到了提升，这超出了你的想象和想象（+25%超过视觉，95%超过听觉），感觉不是你被一个实体控制而是被一个实体引导，或者你认为是这样的…",
+    "translation": "当你戴着这个特殊的神器时，你感觉到你的视觉和听觉得到了提升，这超出了你的想象和想象（+25大地图视力，+95%听力），感觉不是你被一个实体控制而是被一个实体引导，或者你认为是这样的…",
     "stage": 3,
     "context": "ID: BL9_PER_ELEVATEDSENSE3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_ELEVATEDSENSE3\n"
   },
   {
     "key": "a5393f9312ec08782b2eec09a2c40cc3",
     "original": "You feel a boost in your vision and hearing which is beyond your imagination or conception (<color_light_blue>+25 to overmap sight, +95% to hearing</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你感觉到你的视觉和听觉得到了提升，这超出了你的想象或概念（<color_light_blue> +25比视力好，</color>+95比听力好），一旦你激活了这个特殊的神器，你会觉得你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你感觉到你的视觉和听觉得到了提升，这超出了你的想象或概念（<color_light_blue> +25大地图视力，</color>+95%听力），一旦你激活了这个特殊的神器，你会觉得你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_per_elevatedsense3_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_elevatedsense3_brooch\n"
   },
   {
     "key": "c498c547077c5fae22a579fcedb3d666",
     "original": "You feel an incredible boost in dexterity (+6 dex) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴着这个特殊的神器时，你会感觉到一个不可思议的灵巧度提升（+6 dex），感觉不是你被一个实体控制而是被一个实体引导，或者你认为…",
+    "translation": "当你戴着这个特殊的神器时，你会感觉到一个不可思议的灵巧度提升（+6敏捷），感觉不是你被一个实体控制而是被一个实体引导，或者你认为…",
     "stage": 3,
     "context": "ID: BL9_DEX2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX2\n"
   },
   {
     "key": "344a3e7df6a1363992c4bc6a55c72daf",
     "original": "You feel an incredible boost in dexterity (<color_light_blue>+6 dex</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到灵活性有了惊人的提升(<color_light_blue> +6 dex </color>)，感觉上你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到灵活性有了惊人的提升(<color_light_blue> +6敏捷 </color>)，感觉上你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 1,
     "context": "ID: BL9_dex2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex2_ring\n"
   },
   {
     "key": "d32ff9b8632505275f850ed514be1f58",
     "original": "You feel an incredible boost in health (+55% to health) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你穿着这件特殊的神器时，你会感到健康状况有了惊人的提升（+55%），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "当你穿着这件特殊的神器时，你会感到健康状况有了惊人的提升（+55%健康），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_HP2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP2\n"
   },
   {
     "key": "259cec99adbca7cd0edb15caf4f23fc7",
     "original": "You feel an incredible boost in health (<color_light_blue>+35% to health</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到你的健康水平有了惊人的提升（<color_light_blue> +35%到</color>）。这种感觉就好像你不是被一个实体所控制，而是被一个实体所引导，或者你是这么认为的...",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到你的健康水平有了惊人的提升（<color_light_blue> +35%健康</color>）。这种感觉就好像你不是被一个实体所控制，而是被一个实体所引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_hp2_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp2_necklace\n"
   },
@@ -10119,63 +10119,63 @@
   {
     "key": "de6da0db1725730692f0cc96a275f69c",
     "original": "You feel an incredible boost in intelligence (<color_light_blue>+6 int</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到智力有了惊人的提升（<color_light_blue> +6 int </color>），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到智力有了惊人的提升（<color_light_blue> +6智力 </color>），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_int2_pendant\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_int2_pendant\n"
   },
   {
     "key": "f60886b1fc1f8d2706b4db09976e813d",
     "original": "You feel an incredible boost in perception (+6 per) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你穿着这件特殊的神器时，你会感觉到一种不可思议的感知提升（+6%），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "当你穿着这件特殊的神器时，你会感觉到一种不可思议的感知提升（+6感知），感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_PER2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER2\n"
   },
   {
     "key": "c9aee58a78ca015a242df4e9a331cc7c",
     "original": "You feel an incredible boost in perception (<color_light_blue>+6 per</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你激活这个特殊的神器时，你会感觉到一个不可思议的感知力提升（<color_light_blue>+6/</color>），感觉不是你被一个实体所控制，而是你认为的某个实体所引导…",
+    "translation": "当你激活这个特殊的神器时，你会感觉到一个不可思议的感知力提升（<color_light_blue>+6感知</color>），感觉不是你被一个实体所控制，而是你认为的某个实体所引导…",
     "stage": 3,
     "context": "ID: BL9_per2_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per2_brooch\n"
   },
   {
     "key": "1f8c1db18194c001ed3b8fad05a6ebcf",
     "original": "You feel an incredible boost in strength (+6 str) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你戴上这件特殊的神器时，你会感觉到力量有了惊人的提升（+6 str），这感觉不像是你被一个实体所控制，而是被一个实体所引导，或者你是这么认为的...",
+    "translation": "当你戴上这件特殊的神器时，你会感觉到力量有了惊人的提升（+6力量），这感觉不像是你被一个实体所控制，而是被一个实体所引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_STR2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR2\n"
   },
   {
     "key": "35875c76ca36cf3cf2aa57a1b4f945c2",
     "original": "You feel an incredible boost in strength (<color_light_blue>+6 str</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "一旦你激活了这个特殊的神器，你会感觉到一种难以置信的力量提升（<color_light_blue> +6 str </color>），这感觉不像是你被一个实体所控制，而是被一个实体所引导，或者你是这么认为的...",
+    "translation": "一旦你激活了这个特殊的神器，你会感觉到一种难以置信的力量提升（<color_light_blue> +6力量 </color>），这感觉不像是你被一个实体所控制，而是被一个实体所引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_str2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str2_bangle\n"
   },
   {
     "key": "93467237dc22bbe6ac31c7aeaa64d01c",
     "original": "You feel an incredible boost in your vision and hearing (+10 to overmap sight, +55% to hearing) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你佩戴这种特殊的神器时，你会感觉到你的视觉和听觉得到了难以置信的提升（视觉增加10%，听觉增加55%），感觉你不是被某个实体控制而是被它引导，或者你是这么认为的...",
+    "translation": "当你佩戴这种特殊的神器时，你会感觉到你的视觉和听觉得到了难以置信的提升（+10大地图视力，+55%听力），感觉你不是被某个实体控制而是被它引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_PER_ELEVATEDSENSE2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_ELEVATEDSENSE2\n"
   },
   {
     "key": "35191cd4cf9272a34aa58d289c866c4e",
     "original": "You feel an incredible boost in your vision and hearing (<color_light_blue>+10 to overmap sight, +55% to hearing</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "当你激活这个特殊的神器时，你的视觉和听觉都会得到难以置信的提升（<color_light_blue>+10代表视觉过度，55%代表听觉</color>），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
+    "translation": "当你激活这个特殊的神器时，你的视觉和听觉都会得到难以置信的提升（<color_light_blue>+10大地图视力，+55%听力</color>），感觉不是被一个实体控制而是被一个实体引导，或者你认为…",
     "stage": 3,
     "context": "ID: BL9_per_elevatedsense2_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_elevatedsense2_brooch\n"
   },
   {
     "key": "0f33a2d02a2555f5b55f66c916c760c7",
     "original": "You feel that an invisible aura surrounds you which boosts your stealth (+15 to stealth, +15% to scent reduction, +15% to noise reduction) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你感觉到一种无形的光环包围着你，这会提升你的隐身能力（隐身能力+15%，气味减少+15%，噪音减少+15%），当你戴着这个特殊的神器时，感觉不是你被一个实体控制，而是被一个你认为是的实体所引导…",
+    "translation": "你感觉到一种无形的光环包围着你，这会提升你的隐身能力（+15隐身能力，+15%气味减少，+15%噪音减少），当你戴着这个特殊的神器时，感觉不是你被一个实体控制，而是被一个你认为是的实体所引导…",
     "stage": 3,
     "context": "ID: BL9_PER_STEALTHAURA1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_STEALTHAURA1\n"
   },
   {
     "key": "deda86efd737a5b1306e3d5a42f5ae97",
     "original": "You feel that an invisible aura surrounds you which boosts your stealth (<color_light_blue>+15 to stealth, +15% to scent reduction, +15% to noise reduction</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你感觉到一种无形的光环包围着你，这会提升你的隐身能力（<color_light_blue>+15到隐身能力，+15%到气味减少，+15%到噪音减少</color>）一旦你激活了这个特殊的神器，你会感觉到你不是被一个实体控制，而是被一个实体引导，或者你认为是这样的…",
+    "translation": "你感觉到一种无形的光环包围着你，这会提升你的隐身能力（<color_light_blue>+15隐身能力，+15%气味减少，+15%噪音减少</color>）一旦你激活了这个特殊的神器，你会感觉到你不是被一个实体控制，而是被一个实体引导，或者你认为是这样的…",
     "stage": 3,
     "context": "ID: BL9_per_stealthaura1_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_stealthaura1_brooch\n"
   },
@@ -10183,69 +10183,69 @@
     "key": "df8e17aabbee4a27feae12c3f0d10931",
     "original": "You feel that an invisible aura surrounds you which increases your stealth beyond your imagination or conception (+65 to stealth, +85% to scent reduction, +85% to noise reduction) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
     "translation": "你感觉到一种无形的光环包围着你，这使你的隐身能力超出了你的想象或概念（+65%隐身，+85%嗅觉降低，+85%噪音降低）当你戴着这个特殊的神器时，感觉不是你被控制而是被一个实体引导，或者你认为是这样的…",
-    "stage": 3,
+    "stage": 5,
     "context": "ID: BL9_PER_STEALTHAURA3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_STEALTHAURA3\n"
   },
   {
     "key": "35b674be2562d6ba48d481985a236895",
     "original": "You feel that an invisible aura surrounds you which increases your stealth beyond your imagination or conception (<color_light_blue>+65 to stealth, +85% to scent reduction, +85% to noise reduction</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你感觉到一种无形的光环围绕着你，这会使你的隐身能力超出你的想象或概念（<color_light_blue>+65到隐身能力，+85%到气味减少，+85%到噪音减少</color>）一旦你激活了这个特殊的神器，你会感觉到你不是被一个实体控制，而是被一个实体引导，或者你认为是这样的…",
+    "translation": "你感觉到一种无形的光环围绕着你，这会使你的隐身能力超出你的想象或概念（<color_light_blue>+65隐身能力，+85%气味减少，+85%噪音减少</color>）一旦你激活了这个特殊的神器，你会感觉到你不是被一个实体控制，而是被一个实体引导，或者你认为是这样的…",
     "stage": 3,
     "context": "ID: BL9_per_stealthaura3_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_stealthaura3_brooch\n"
   },
   {
     "key": "cc6ae2a91cbba0cbcff3d8f38019e6e3",
     "original": "You feel that an invisible aura surrounds you which incredibly boosts your stealth (+35 to stealth, +45% to scent reduction, +45% to noise reduction) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你感觉到一个无形的光环围绕着你，这极大地增强了你的隐身能力（+35%隐身，+45%减香，+45%减噪）。当你佩戴这个特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你感觉到一个无形的光环围绕着你，这极大地增强了你的隐身能力（+35%隐身，+45%气味减少，+45%噪音减少）。当你佩戴这个特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_PER_STEALTHAURA2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_PER_STEALTHAURA2\n"
   },
   {
     "key": "be838eef8922e9017529e85e4ddb41e1",
     "original": "You feel that an invisible aura surrounds you which incredibly boosts your stealth (<color_light_blue>+35 to stealth, +45% to scent reduction, +45% to noise reduction</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你会感觉到一个无形的光环围绕着你，这极大地增强了你的隐身能力（<color_light_blue> +35隐身，45减香，45减噪</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "你会感觉到一个无形的光环围绕着你，这极大地增强了你的隐身能力（<color_light_blue> +35隐身，+45%气味减少，+45%噪音减少</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_per_stealthaura2_brooch\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_per_stealthaura2_brooch\n"
   },
   {
     "key": "973964152278545e746f374397ad2ba6",
     "original": "You feel that you can endure the hardships of Cataclysm better (+55% to maximal carry weight, -25% to fatigue, +215 to bleed resistance) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以更好地忍受大灾变的苦难（+55%的最大负重，-25%的疲劳，+215%的抗出血性），当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得你可以更好地忍受大灾变的苦难（+55%最大负重，-25%疲劳，+215%抗出血性），当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_STR_ENDURANCE1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ENDURANCE1\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ENDURANCE1"
   },
   {
     "key": "1d247a40cf419ca95b0d1873ce3f4448",
     "original": "You feel that you can endure the hardships of Cataclysm better (<color_light_blue>+25% to maximal carry weight, -15% to fatigue, +215 to bleed resistance</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以更好地忍受大灾变的苦难（<color_light_blue> +25%到最大负重，-15%到疲劳，+215到出血抗性</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "你觉得你可以更好地忍受大灾变的苦难（<color_light_blue> +25%最大负重，-15%疲劳，+215出血抗性</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_str_endurance1_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_endurance1_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_endurance1_bangle"
   },
   {
     "key": "ec66c60c8a1589a8b3ea38effd015490",
     "original": "You feel that you can endure the hardships of Cataclysm with little to no struggle or problem (+145% to maximal carry weight, -80% to fatigue, +500 to bleed resistance) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以忍受大灾变的苦难，几乎没有挣扎或问题（+145%到最大承载重量，-80%到疲劳，+500到流血抵抗），当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "你觉得你可以忍受大灾变的苦难，几乎没有挣扎或问题（+145%最大承载重量，-80%疲劳，+500流血抵抗），当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_STR_ENDURANCE3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ENDURANCE3\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ENDURANCE3"
   },
   {
     "key": "6a8220e8db33122dbeac3c1d78e11a86",
     "original": "You feel that you can endure the hardships of Cataclysm with little to no struggle or problem (<color_light_blue>+90% to maximal carry weight, -65% to fatigue, +500 to bleed resistance</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以忍受大灾变的苦难，几乎没有挣扎或问题（<color_light_blue> +90%到最大负重，-65%到疲劳，+500到流血抵抗</color>）。一旦你激活这个特殊的神器，感觉你不是被控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "你觉得你可以忍受大灾变的苦难，几乎没有挣扎或问题（<color_light_blue> +90%最大负重，-65%疲劳，+500流血抵抗</color>）。一旦你激活这个特殊的神器，感觉你不是被控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_str_endurance3_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_endurance3_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_endurance3_bangle"
   },
   {
     "key": "4f7cbede6cb8c5a5716fdfda027b75c7",
     "original": "You feel that you can endure the hardships of Cataclysm with much greater efficiency (+95% to maximal carry weight, -45% to fatigue, +325 to bleed resistance) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以以更高的效率忍受大灾变的苦难（+95%的最大承载重量，-45%的疲劳，+325的抗出血性），当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得你可以以更高的效率忍受大灾变的苦难（+95%最大承载重量，-45%疲劳，+325出血抗性），当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_STR_ENDURANCE2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_STR_ENDURANCE2\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_STR_ENDURANCE2"
   },
   {
     "key": "da591e6f4d8dc8fbd18875d42e40a592",
     "original": "You feel that you can endure the hardships of Cataclysm with much greater efficiency (<color_light_blue>+55% to maximal carry weight, -35% to fatigue, +325 to bleed resistance</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以以更高的效率忍受大灾变的苦难（<color_light_blue> +55%到最大负重，-35%到疲劳，+325到流血抵抗</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得你可以以更高的效率忍受大灾变的苦难（<color_light_blue> +55%最大负重，-35%疲劳，+325流血抵抗</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_str_endurance2_bangle\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_str_endurance2_bangle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=BL9_str_endurance2_bangle"
   },
@@ -10259,21 +10259,21 @@
   {
     "key": "d3525cd9471d0c9655434999f7196147",
     "original": "You feel that you can move better on all surfaces and clear obstacles more efficiently (<color_light_blue>+15% to speed on all surfaces, +15% to swimming speed</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以在所有表面上更好地移动，更有效地清除障碍物（<color_light_blue> +15%的速度在所有表面上，15%的速度在游泳速度</color>上）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得你可以在所有表面上更好地移动，更有效地清除障碍物（<color_light_blue> +15%所有表面的速度，+15%游泳速度</color>）。一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_dex_agility1_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_agility1_ring\n"
   },
   {
     "key": "8cf0ae064cedae68f853bcbbb2721c2a",
     "original": "You feel that you can move much better on all surfaces and clear obstacles with incredible efficiency (+55% to speed on all surfaces, +55% to swimming speed) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以在所有表面上移动得更好，并且以难以置信的效率清除障碍物（在所有表面上的速度为+55%，游泳速度为+55%），当你戴着这个特殊的神器时，感觉不是你被控制而是被一个实体引导，或者你认为是这样的…",
+    "translation": "你觉得你可以在所有表面上移动得更好，并且以难以置信的效率清除障碍物（+55%所有表面速度，+55%游泳速度），当你戴着这个特殊的神器时，感觉不是你被控制而是被一个实体引导，或者你认为是这样的…",
     "stage": 3,
     "context": "ID: BL9_DEX_AGILITY2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_AGILITY2\n"
   },
   {
     "key": "cdf725832b05440bb2644399afe0c142",
     "original": "You feel that you can move much better on all surfaces and clear obstacles with incredible efficiency (<color_light_blue>+35% to speed on all surfaces, +35% to swimming speed</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你可以在所有表面上移动得更好，并以令人难以置信的效率清除障碍物（所有表面上的速度为<color_light_blue> +35%，游泳速度为</color>+35%）。一旦你激活了这个特定的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这样认为的...",
+    "translation": "你觉得你可以在所有表面上移动得更好，并以令人难以置信的效率清除障碍物（+35%所有表面速度<color_light_blue>，+35%游泳速度</color>）。一旦你激活了这个特定的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这样认为的...",
     "stage": 3,
     "context": "ID: BL9_dex_agility2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_agility2_ring\n"
   },
@@ -10287,14 +10287,14 @@
   {
     "key": "b1018f7a88103795b1cb9ad970f14026",
     "original": "You feel that you can stay awake longer now (-35% to fatigue, +48% to fatigue regeneration, small boost to healing and stamina) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你现在可以保持更长时间的清醒（35%是疲劳，48%是疲劳再生，对治疗和耐力有很小的促进作用）。当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得你现在可以保持更长时间的清醒（-35%疲劳，+48%疲劳再生，对治疗和耐力有很小的促进作用）。当你穿着这件特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_HP_WAKEFUL_MIND1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_HP_WAKEFUL_MIND1\n"
   },
   {
     "key": "d004cc1ec3ffcb7eafcb3ba11f0254dd",
     "original": "You feel that you can stay awake longer now (<color_light_blue>-35% to fatigue, +48% to fatigue regeneration</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你现在可以保持更长时间的清醒（疲劳<color_light_blue> -35%，疲劳再生</color>+48%），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "你觉得你现在可以保持更长时间的清醒（<color_light_blue> -35%疲劳，+48%疲劳再生</color>），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_hp_wakeful_mind1_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_wakeful_mind1_necklace\n"
   },
@@ -10315,7 +10315,7 @@
   {
     "key": "026ec47bc6249065b7620f40478a689f",
     "original": "You feel that you can stay awake much longer amount of time now (<color_light_blue>-77% to fatigue, +105% to fatigue regeneration</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你现在可以保持清醒更长的时间（疲劳<color_light_blue> -77%，疲劳再生</color>+105%），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得你现在可以保持清醒更长的时间（<color_light_blue>-77%疲劳，+105%疲劳再生</color>），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_hp_wakeful_mind2_necklace\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_hp_wakeful_mind2_necklace\n"
   },
@@ -10329,7 +10329,7 @@
   {
     "key": "a373de6396e1017774f8f7271eef3e94",
     "original": "You feel that you've become incredibly athletic and energetic (<color_light_blue>+55% to max stamina, +35% to stamina regeneration</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得自己变得异常健壮和精力充沛（最大耐力<color_light_blue> +55%，耐力再生</color>+35%），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得自己变得异常健壮和精力充沛（<color_light_blue> +55%最大耐力，+35%耐力再生</color>），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_dex_energeticness2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_energeticness2_ring\n"
   },
@@ -10343,7 +10343,7 @@
   {
     "key": "62d46ffc03587d2202f71e15f78cc34b",
     "original": "You feel that you've become incredibly quicker and much more deft (<color_light_blue>+2 to dodge, +35% to action points</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得自己变得更加敏捷和灵巧（闪避<color_light_blue> +2，行动点</color>+35%），一旦你激活了这个特殊的神器，你会觉得你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
+    "translation": "你觉得自己变得更加敏捷和灵巧（<color_light_blue>闪避+2，行动点+35%</color>），一旦你激活了这个特殊的神器，你会觉得你不是被一个实体控制而是被一个实体引导，或者你是这么想的...",
     "stage": 3,
     "context": "ID: BL9_dex_deftness2_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_deftness2_ring\n"
   },
@@ -10357,14 +10357,14 @@
   {
     "key": "d171248f6adbc6460944e176803f4c2d",
     "original": "You feel that you've become inhumanly athletic and energetic (<color_light_blue>+90% to max stamina, +65% to stamina regeneration</color>) once you ACTIVATE this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得自己变得没有人性，精力充沛（<color_light_blue> +最大耐力90%，耐力再生</color>+65%），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
+    "translation": "你觉得自己变得没有人性，精力充沛（<color_light_blue> 最大耐力+90%，耐力再生+65%</color>），一旦你激活了这个特殊的神器，感觉你不是被一个实体控制而是被一个实体引导，或者你是这么认为的...",
     "stage": 3,
     "context": "ID: BL9_dex_energeticness3_ring\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/artifacts.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→TOOL→BL9_dex_energeticness3_ring\n"
   },
   {
     "key": "ac3eaed1b93f6d55580182ba180376d3",
     "original": "You feel that you've become more athletic and energetic (+45% to max stamina, +25% to stamina regeneration) while wearing this particular artifact, it feels not as if you're controlled but guided by an entity or so you think...",
-    "translation": "你觉得你变得更加运动和精力充沛（+45%到最大耐力，+25%到耐力再生）当你戴着这个特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导或者你认为…",
+    "translation": "你觉得你变得更加运动和精力充沛（+45%最大耐力，+25%耐力再生）当你戴着这个特殊的神器时，感觉你不是被一个实体控制而是被一个实体引导或者你认为…",
     "stage": 3,
     "context": "ID: BL9_DEX_ENERGETICNESS1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Monsters/mon_mutations.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→mutation→BL9_DEX_ENERGETICNESS1\n"
   },
@@ -19255,14 +19255,14 @@
     "key": "cdd0e13ce3274ac738ac9d35c1aa3e85",
     "original": "The sole purpose of BL9 Safety Bases is to make safe areas for people to live, work, love, procreate, make families, have children, adopt children, live as a civilization in. Even without active Energy Shield, these are still relatively safe areas to live in, try to do things that I have listed. However, to ensure protection from all living horrors of Cataclysm, we need actually to have active Energy Shield hopefully. You can still try to do things from this list whenever you want to. Just try to help me with cleaning, alright? Humans along with 'Alliance' are not that different. Both make a lot of mess when they eat or have a sexual intercourse. Don't ask me how I know this",
     "translation": "BL9安全基地的唯一目的是为人们提供生活、工作、相爱、繁衍、建立家庭、生儿育女、领养孩童以及作为文明生存的安全区域。即使没有启用能量护盾，这些地方仍是相对安全的生活区，可以尝试实现我列出的种种生活目标。然而，为了确保抵御大灾变中所有活着的恐怖威胁，我们实际上需要激活能量护盾，希望如此。无论何时，你都可以尝试完成这份清单上的事项。只不过，帮我打扫卫生的时候多用点心，好吗？人类与“联盟”在这方面并无太大差异，他们在进食或进行性行为时都会弄得一团糟。别问我怎么知道的。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: TALK_BL9_BASE_ANDROID2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/NPC/BL9_Base_Android.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→talk_topic→TALK_BL9_BASE_ANDROID2\n"
   },
   {
     "key": "9996b448e371bee24118576bf66a6710",
     "original": "The sole purpose of BL9 Safety Bases is to make safe areas for people to live, work, love, procreate, make families, have children, adopt children, live as a civilization in. Thanks to your work, we have an active Energy Shield now, which makes an already relatively safe area a beacon of hope, civilization for people, for you also. My masters advise you to make this your permanent, safe home here. Try to do things that I have listed. Try to do what, in the past, was a luxury, but thanks to your work now is accessible, is what all people should strive for hopefully. Just try to help me with cleaning, alright? Humans along with 'Alliance' are not that different. Both make a lot of mess when they eat or have a sexual intercourse. Don't ask me how I know this",
     "translation": "BL9安全基地的唯一宗旨是为人们提供生活、工作、恋爱、繁衍、组建家庭、养育子女或领养子女的庇护所，让文明得以延续。在您的努力下，我们现已激活了能量护盾，这使得本就相对安全的区域成为了希望的灯塔，为人们，也为您自己，点亮了文明的曙光。我的主人建议您将这里作为永久和安全的家园。请尝试去做那些我列举的事情，尝试去做那些在过去被视为奢侈，而如今因您的努力变得触手可及的事情，希望所有人都能为此而努力。就请您帮我一起打扫卫生，好吗？人类与“联盟”在这方面并无太大差异，他们在进食或进行性行为时都会弄得一团糟。别问我怎么知道这些的。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: TALK_BL9_BASE_ANDROID2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/NPC/BL9_Base_Android.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→talk_topic→TALK_BL9_BASE_ANDROID2\n"
   },
   {
@@ -19584,7 +19584,7 @@
     "key": "f7ae401a557ea72e4e0880b4942c3048",
     "original": "What do you mean? You don't like quality of writing? Meh, most of what I do here is analyze bunch of romantic sexual fantasy novels honestly. Being a female android who likes to read a lot, this is pretty disgusting. Though uh who am I to judge? I'm just an android made for your use hopefully \\n \\n    The type of stuff I read often is 'I have learned that my husband orc is cheating on me with my sister, who is apparently my brother, who likes to shapeshift into moose, whereas my twin elven children have jaws which do not resemble elves, which only means that their father, my sister's or brother's husband, is not a pure-blooded elf!'. I think that some of our agents like these types of novels, which is why I have stored in my storage system so many of them.\\n \\n    This stuff, however, seems like it's genuinely based on real survivors who are not into weird fetishes! Except for this narcissist guy, who seems like he would have a sexual intercourse with his own thoughts about his superiority to other humans",
     "translation": "你的意思是不满意我的文字水平？哎，坦白讲，我在这里大多是在研究一堆充满浪漫情色幻想的小说。作为一位爱读书的女性机器人，这其实挺倒胃口的。不过，我又算哪根葱来评判呢？我只是一个为了服务你而存在的机器人，但愿如此——\\n    \\n      我经常接触的那些故事，比如“我发现我的兽人配偶竟然与我的姐姐（其实是变身为人的哥哥）有染，而这位兄长还热衷于变化成驼鹿，同时，我的一对精灵血统的子女，下巴特征并不符合精灵族貌，这只能说明，他们父亲——我那姐/兄的伴侣，并非纯正精灵血统！”我想我们有些特工对这类小说情有独钟，因此我才在我的储存系统里收录了大量此类作品。\\n    \\n      然而，这些内容看起来却是基于真实幸存者的经历，他们并没有什么怪异的癖好！除了一位极度自恋的家伙，他似乎会因自己优于他人的想法而陷入自我迷恋的境地。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: TALK_BL9_BASE_ANDROID3_JOKE\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/NPC/BL9_Base_Android.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→talk_topic→TALK_BL9_BASE_ANDROID3_JOKE\n"
   },
   {
@@ -19745,7 +19745,7 @@
     "key": "f3fd83ce97dd8d25984beeee931d0a00",
     "original": "Whoever finds this map - THIS IS A DISTRESS SIGNAL. Long-time survivors, we are in need of your help. This map contains locations of BL9 Safety Bases, where you need to go to receive further instructions. All explanations will be provided to you by one of our Base Androids or via printed intel along with journals, which can be found in BL9 Safety Bases, BL9 Libraries, BL9 Bookstores. If you want to help us, go to one of BL9 Safety Bases, where you need to talk to one of our Base Androids to receive further instructions",
     "translation": "无论谁找到这张地图——这是一则求救信号。长期生存者们，我们急需你们的帮助。此地图标注了BL9安全基地的位置，你需要前往这些基地以获取更多指令。所有说明将由我们的基地机器人或通过打印的情报资料，以及可在BL9安全基地、BL9图书馆、BL9书店中找到的日志提供。若你愿意帮助我们，请前往任意一个BL9安全基地，与基地机器人交谈以获取下一步指示。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: BL9_locationsmap\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/generic.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_locationsmap\n"
   },
   {
@@ -21431,7 +21431,7 @@
   {
     "key": "e34472217f5b517fdec5848d497319a3",
     "original": "Hmm, let's continue this. What a name for a journal, I like this soft side of his, hah. This man is essentially definition of reliability, formidability. Where do I continue? Aha, yes, That City events. Was I surprised that there was conspiracy involved? Not really. That scum we thought we had killed in that mansion was cunning, devious, just like that woman who changed God knows how many employers. Organization's founder, that was behind events of that mansion along with That City, was no less of a mad man. The more ambitious they were, the more fucked up their ideas were. Some wanted regional power, some wanted riches, some wanted world domination, whereas some were so fucked up in terms of their ideas that I'm glad we've killed them.\\n \\n   Him and his superiors had a simple plan. First, retrieve whatever of their horrible work they left there, then leave no witnesses thanks to their bio-soldiers hunters, then let government do their job of nuking city so that nobody would know of this. These bastards' arrogance, huh? No way, fuckers. Not only me with some good people have escaped safely, we have also managed to destroy a lot of these bio-soldiers with all of these hunters. I've acquired plenty of intel to learn that fucker from that mansion was alive, plotting to continue work of his superiors. He later killed them, betrayed everyone he knew.\\n \\n    I can tell you more, there were bioweapons with all kinds of private mutants armies in many parts of the world essentially. Private military organizations, rich, power craving people, cultists, all sorts of madmen. All tied to someone bigger than them. Then Cataclysm happened. Still, me, my partner with other agents have luckily managed to assemble our team again",
-    "translation": "Hmm, let's continue this. What a name for a journal, I like this soft side of his, hah. This man is essentially definition of reliability, formidability. Where do I continue? Aha, yes, That City events. Was I surprised that there was conspiracy involved? Not really. That scum we thought we had killed in that mansion was cunning, devious, just like that woman who changed God knows how many employers. Organization's founder, that was behind events of that mansion along with That City, was no less of a mad man. The more ambitious they were, the more fucked up their ideas were. Some wanted regional power, some wanted riches, some wanted world domination, whereas some were so fucked up in terms of their ideas that I'm glad we've killed them.\\n \\n   Him and his superiors had a simple plan. First, retrieve whatever of their horrible work they left there, then leave no witnesses thanks to their bio-soldiers hunters, then let government do their job of nuking city so that nobody would know of this. These bastards' arrogance, huh? No way, fuckers. Not only me with some good people have escaped safely, we have also managed to destroy a lot of these bio-soldiers with all of these hunters. I've acquired plenty of intel to learn that fucker from that mansion was alive, plotting to continue work of his superiors. He later killed them, betrayed everyone he knew.\\n \\n    I can tell you more, there were bioweapons with all kinds of private mutants armies in many parts of the world essentially. Private military organizations, rich, power craving people, cultists, all sorts of madmen. All tied to someone bigger than them. Then Cataclysm happened. Still, me, my partner with other agents have luckily managed to assemble our team again",
+    "translation": "嗯，我们继续吧。这日记的名字真不错，我喜欢他这种温和的一面，哈哈。这个人本质上就是可靠、可畏的代名词。我该从哪里继续？啊哈，对了，那座城市的事件。我是不是很惊讶这里面有阴谋？不太惊讶。我们以为在那栋豪宅里杀死的那个人渣狡猾阴险，就像那个天知道换了多少雇主的女人一样。那个组织的创始人，也就是那座豪宅和那座城市事件的幕后黑手，同样是个疯子。他们越有野心，他们的想法就越糟糕。有些人想要地区权力，有些人想要财富，有些人想要征服世界，而有些人的想法如此糟糕，以至于我很高兴我们杀了他们。\\n\\n 他和他的上级有一个简单的计划。首先，取回他们留下的任何可怕的东西，至于他们的生化战士猎人，则不能留下任何证人，然后让政府完成他们的城市核爆工作，这样就没有人知道这件事。这些混蛋的傲慢，哈？不可能，混蛋。不仅我和一些好人安全逃脱了，我们还成功摧毁了许多这些生物战士和所有这些猎人。我获得了大量情报，得知那个宅邸里的混蛋还活着，正在策划继续他上级的工作。他后来杀死了他们，背叛了他认识的所有人。我可以告诉你更多，世界上许多地方都有生物武器和各种私人变种人军队。私人军事组织、富人、权力上瘾者、邪教徒，各种各样的疯子。他们都与一个比他们更强大的人联系在一起。然后大灾变发生了。尽管如此，我，我和其他特工的搭档，幸运地重新组建了我们的团队。",
     "stage": 1,
     "context": "ID: BL9_milpartners_journal2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_milpartners_journal2\n"
   },
@@ -21473,7 +21473,7 @@
   {
     "key": "2459cdbc2bd855e6d63b2e3dbd2f60be",
     "original": "If you have not found any of BL9 Safety Bases, you need to find at least one of them, this is important. If you have not found Strange Merchant, you need to find at least one of his transmitters to call him to trade, to answer your questions, this is important. If you are in any of BL9 Safety Bases currently, you need to talk to Base Android for her to answer your questions as well via her built-in system which stores categorized various optional intel along with journals which she can read which we have collected. They are optional to read honestly, but I suggest you to read them if you care more than just about loot from structures of our enemies in general. In order to explore BL9 locations safely, YOU SHOULD ASK BASE ANDROID ABOUT ORDER OF EXPLORATION when talking to her, this is important.\\n \\n    Initial BL9 recipes for BL9 weapons ammo, for BL9 melee weapons are unlocked whereas stronger versions are unlocked upon reaching particular levels of fabrication along with mechanics that are 5 of each along with 8 of each. So first two tiers of BL9-infused goods are sold by BL9 Strange Merchant. He sells them for Gold, Platinum Coins Combinations, which can be crafted via BL9 recipes from normal Gold, Platinum Coins which you can find when killing enemies, clearing BL9 locations. To unlock sci-fi ranged weapons, sci-fi melee weapons with unique effects to use against enemies, sci-fi armor, artifacts that grant mutually inclusive mutations that improve stats, skills, abilities, along with third tier of more common weapons that you can buy from Strange Merchant, craft, BL9 locations should be fully explored.\\n \\n    If we want to 'unfuck', save us, give us a guarantee to survive, live, love, procreate, you need to find Shield Generator which I have devised. This valuable machine is located in Mobile 'Alliance' Base. Bring it to BL9 Safety Base Android system which upon your orders according to how I have programmed it will activate Shield Generator to generate a Protective Shield hopefully. May God keep you, keep all of us safe, bring you, bring all of us luck hopefully as well",
-    "translation": "If you have not found any of BL9 Safety Bases, you need to find at least one of them, this is important. If you have not found Strange Merchant, you need to find at least one of his transmitters to call him to trade, to answer your questions, this is important. If you are in any of BL9 Safety Bases currently, you need to talk to Base Android for her to answer your questions as well via her built-in system which stores categorized various optional intel along with journals which she can read which we have collected. They are optional to read honestly, but I suggest you to read them if you care more than just about loot from structures of our enemies in general. In order to explore BL9 locations safely, YOU SHOULD ASK BASE ANDROID ABOUT ORDER OF EXPLORATION when talking to her, this is important.\\n \\n    Initial BL9 recipes for BL9 weapons ammo, for BL9 melee weapons are unlocked whereas stronger versions are unlocked upon reaching particular levels of fabrication along with mechanics that are 5 of each along with 8 of each. So first two tiers of BL9-infused goods are sold by BL9 Strange Merchant. He sells them for Gold, Platinum Coins Combinations, which can be crafted via BL9 recipes from normal Gold, Platinum Coins which you can find when killing enemies, clearing BL9 locations. To unlock sci-fi ranged weapons, sci-fi melee weapons with unique effects to use against enemies, sci-fi armor, artifacts that grant mutually inclusive mutations that improve stats, skills, abilities, along with third tier of more common weapons that you can buy from Strange Merchant, craft, BL9 locations should be fully explored.\\n \\n    If we want to 'unfuck', save us, give us a guarantee to survive, live, love, procreate, you need to find Shield Generator which I have devised. This valuable machine is located in Mobile 'Alliance' Base. Bring it to BL9 Safety Base Android system which upon your orders according to how I have programmed it will activate Shield Generator to generate a Protective Shield hopefully. May God keep you, keep all of us safe, bring you, bring all of us luck hopefully as well",
+    "translation": "如果你还没有找到任何 BL9 安全基地，你需要至少找到其中一个，这一点很重要。如果你还没有找到奇怪的商人，你需要至少找到他的一个发射器来呼叫他进行交易，回答你的问题，这一点很重要。如果你目前在任何 BL9 安全基地，你还需要通过它的内置系统与 Base Android 交谈，让它回答你的问题。这些系统包含一些商店，将各种可选情报以及我们收集的日志进行分类。诚实地说，这些日志是可选的，但我建议你阅读它们，如果你不仅仅是对从我们敌人的建筑物中掠夺的战利品感兴趣的话。为了安全地探索 BL9 地点，在与 Base Android 交谈时，你应该询问它探索的顺序，这一点很重要。\\n\\n 初始 BL9 武器弹药配方，因为 BL9 近战武器是未解锁的，而更强大的版本在达到特定制造水平后才会解锁，同时需要 5 种机制和 8 种机制。因此，BL9灌注的前两层商品由 BL9 奇异商人出售。他以金币、白金币组合的价格出售，这些商品可以通过 BL9 配方从普通的金币、白金币中制造，你可以在杀死敌人、清理 BL9 地点时找到这些金币。为了解锁科幻远程武器、具有独特效果的近战武器以对抗敌人、科幻盔甲、赋予相互包容性变异的神器，这些变异可以提高属性、技能、能力，以及第三层更常见的武器，你可以从奇异商人、工艺品、BL9 地点购买，这些都应该被充分探索。\\n\\n 如果我们想要 “解脱”, 拯救我们，给我们生存、生活、爱情、繁衍的保证，你需要找到我设计的护盾生成器。这个宝贵的机器位于移动 “联盟” 基地。把它带到 BL9 安全基地 Android 系统，根据我的编程，当你下达命令时，它会激活护盾生成器，希望能生成一个保护盾。愿上帝保佑你，保护我们所有人的安全，带你来，也希望带给我们所有人好运。",
     "stage": 1,
     "context": "ID: BL9_davran_journal5\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_davran_journal5\n"
   },
@@ -21564,7 +21564,7 @@
   {
     "key": "2c0b7d665d4ee587d91f4a3694b7b980",
     "original": "Interesting, let's talk about our newly assembled team of former military agents. Clearly, Cataclysm happened, however, our training, our experience, our stubbornness really saved our asses. Each of involved agents had a safety plan, in case of global threat that would significantly damage or mostly destroy communications systems. Special safezones located across the entire world for agents from various countries. Back then, 4 of us were stationed in North America. This includes me, my partner, also my sister along with her police officer survivor, hah. They became a couple, their first 'survivors date' taught them how to care for each other real good.\\n \\n   My partner wants us to stay here, to help local survivor structures with more mundane stuff that requires more concentration. Clearing local areas, handling logistics, making safe routes, expanding survivors' structures, helping find safe sources of water. Forget about secret vile organizations, eh? That's what younger professionals are for, right? My sister with her police officer promoted to a government agent, so, leave this shit for them to investigate?\\n \\n    Maybe she is right, we need to care for each other, settle down together, help local survivors, ensure our own safety hopefully. We should also convince our couple of adventurers to do the same. Maybe not. No, not now. Cults, 'THEY', 'True Superiors', this fucker is still out there. Unless we get help from survivors. Maybe we have a chance to settle down, survive, live together hopefully as well",
-    "translation": "Interesting, let's talk about our newly assembled team of former military agents. Clearly, Cataclysm happened, however, our training, our experience, our stubbornness really saved our asses. Each of involved agents had a safety plan, in case of global threat that would significantly damage or mostly destroy communications systems. Special safezones located across the entire world for agents from various countries. Back then, 4 of us were stationed in North America. This includes me, my partner, also my sister along with her police officer survivor, hah. They became a couple, their first 'survivors date' taught them how to care for each other real good.\\n \\n   My partner wants us to stay here, to help local survivor structures with more mundane stuff that requires more concentration. Clearing local areas, handling logistics, making safe routes, expanding survivors' structures, helping find safe sources of water. Forget about secret vile organizations, eh? That's what younger professionals are for, right? My sister with her police officer promoted to a government agent, so, leave this shit for them to investigate?\\n \\n    Maybe she is right, we need to care for each other, settle down together, help local survivors, ensure our own safety hopefully. We should also convince our couple of adventurers to do the same. Maybe not. No, not now. Cults, 'THEY', 'True Superiors', this fucker is still out there. Unless we get help from survivors. Maybe we have a chance to settle down, survive, live together hopefully as well",
+    "translation": "有趣的是，让我们谈谈我们新组建的前军事特工团队。显然，大灾变发生了，然而，我们的训练、经验和坚韧不拔真的救了我们的命。每个参与的特工都有一个安全计划，以防全球性威胁对通信系统造成重大破坏或基本摧毁。特殊安全区遍布全球，为来自不同国家的特工提供服务。当时，我们四个人驻扎在北美。这包括我、我的搭档，还有我妹妹和她的幸存者警官，哈哈。他们成为了一对，他们的第一次 “幸存者约会” 教会了他们如何真正地互相关心。我的搭档希望我们留在这里，帮助当地幸存者组织完成更平凡的任务，这些任务需要更多的专注。清理当地区域，处理后勤，制定安全路线，扩大幸存者组织，帮助找到安全的水源。忘掉秘密邪恶组织吧，嗯？这就是年轻专业人士的工作，对吧？我妹妹和她的警官晋升为政府特工，所以，把这些破事留给他们去调查？\\n\\n 也许她说得对，我们需要互相关心，一起安顿下来，帮助当地的幸存者，确保我们自己的安全。我们也应该说服我们的两个冒险者也这么做。也许不行。不，现在不行。邪教，“他们”,“真正的上等人”, 这个混蛋还在外面。除非我们得到幸存者的帮助。也许我们还有机会安顿下来，生存下来，也有希望一起生活。",
     "stage": 1,
     "context": "ID: BL9_milpartners_journal3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_milpartners_journal3\n"
   },
@@ -21830,14 +21830,14 @@
   {
     "key": "c08432805aec79303fe8aac3e3c29464",
     "original": "My dear describes my motives pretty clearly. We've survived a horrifying incident in That City full of shady bastards behind it essentially. We've travelled across the world, fought madmen along with their creations. My dear warned me though that eventually we can uncover things that will make government treat us differently. I convinced him though that our usefulness simply matters much more to them than our knowledge, as long as we have no objections to working for them. Then Cataclysm happened. Governments were gone. No united control. Only individual organizations remained. Some new, some remnants of former organizations. All have different motives.\\n \\n    Even though there is a lot of work we have in terms of rebuilding everything, I've convinced my dear for us to become hunters of some sorts. We investigate activities of strange local cults, military formations. If we suspect them to have not particularly friendly motives, we carefully check their structures. Usually they clearly are hostile, attack everyone on sight, however some really are altruistic. Latter are much more discreet, not because it is their intention. They achieve their goals only by communicating with, helping people. They are forced into hiding, especially in New England area because of Strange Cults, 'THEM', 'True Superiors', 'Alliance'. Should not we help them to fend them off to keep everyone safe?\\n \\n    They all diligently hunt for BL9, all of these bastards. Even altruistic organizations that we've contacted convince us of BL9 not being a bioweapon, huh? I mean, pretty much everything around, The Blob, Mycus, Triffids, can be considered bioweapons, pretty much not safe for majority of people. BL9, as our allies state, can be modified, to be used as protection against other hostile microorganisms, they even have proof of this. I don't know, my brother would not agree, but if there are no alternative options. This potentially can be used as means to protect all of us, our offspring, hopefully as well",
-    "translation": "My dear describes my motives pretty clearly. We've survived a horrifying incident in That City full of shady bastards behind it essentially. We've travelled across the world, fought madmen along with their creations. My dear warned me though that eventually we can uncover things that will make government treat us differently. I convinced him though that our usefulness simply matters much more to them than our knowledge, as long as we have no objections to working for them. Then Cataclysm happened. Governments were gone. No united control. Only individual organizations remained. Some new, some remnants of former organizations. All have different motives.\\n \\n    Even though there is a lot of work we have in terms of rebuilding everything, I've convinced my dear for us to become hunters of some sorts. We investigate activities of strange local cults, military formations. If we suspect them to have not particularly friendly motives, we carefully check their structures. Usually they clearly are hostile, attack everyone on sight, however some really are altruistic. Latter are much more discreet, not because it is their intention. They achieve their goals only by communicating with, helping people. They are forced into hiding, especially in New England area because of Strange Cults, 'THEM', 'True Superiors', 'Alliance'. Should not we help them to fend them off to keep everyone safe?\\n \\n    They all diligently hunt for BL9, all of these bastards. Even altruistic organizations that we've contacted convince us of BL9 not being a bioweapon, huh? I mean, pretty much everything around, The Blob, Mycus, Triffids, can be considered bioweapons, pretty much not safe for majority of people. BL9, as our allies state, can be modified, to be used as protection against other hostile microorganisms, they even have proof of this. I don't know, my brother would not agree, but if there are no alternative options. This potentially can be used as means to protect all of us, our offspring, hopefully as well",
+    "translation": "我亲爱的非常清楚地描述了我的动机。我们在那座城市里经历了一场可怕的事件，事件背后基本上都是些阴险的混蛋。我们走遍了世界各地，与疯子和他们的创造物战斗。尽管我亲爱的警告我，最终我们可能会发现一些事情，让政府对我们不同对待。但我说服了他，只要我们不反对为他们工作，我们的用处对他们来说比我们的知识更重要。然后大灾变发生了。政府消失了。没有统一的控制。只有个别组织留了下来。有些是新的，有些是旧组织的残余。所有人都有不同的动机。\\n\\n 尽管我们在重建一切方面还有很多工作要做，但我说服了我亲爱的，让我们成为某种猎人。我们调查奇怪的地方邪教和军事组织的活动。如果我们怀疑他们没有特别友好的动机，我们就会仔细检查他们的结构。通常他们明显怀有敌意，会攻击任何看到的人，但有些人确实是无私的。后者要谨慎得多，不是因为这是他们的本意。他们只有通过与人交流、帮助他人才能实现自己的目标。他们被迫躲藏，特别是在新英格兰地区，因为那里有奇异教派、“他们”、“真正的上级”、“联盟”。我们难道不应该帮助他们抵御他们，以确保所有人的安全吗？\\n\\n 这些混蛋，他们都在孜孜不倦地寻找 BL9。即使是我们联系过的利他主义组织也让我们相信 BL9 不是生物武器，对吧？我是说，周围的几乎所有东西，包括变形怪、马卡斯、三尖树, 都可以被视为生物武器，对大多数人来说并不安全。正如我们的盟友所说，BL9 可以被改造，用来防御其他敌对微生物，他们甚至有证据证明这一点。我不知道，我哥哥可能不会同意，但如果没有其他选择的话。这可能被用作保护我们所有人的手段，我们的后代，希望也能如此。",
     "stage": 1,
     "context": "ID: BL9_advencouple_journal4\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_advencouple_journal4\n"
   },
   {
     "key": "f5acc7ff8da73bc754d393dfec429f3c",
     "original": "My father taught me one very important thing when I was a young girl. He told me that it is wrong to think in absolutes. Has he done something significant in his life with this way of thinking? Maybe. Maybe not. What I know is that his advice greatly helps me in my work. My work is not just means of acquiring money. It helps me to prevent people who think in absolutes from shaping the world in a way that they like. This is especially important if we are talking about genetical experiments related to unknown microorganisms which have many uses. From healthy drugs, protection, extending lives of people to bioweapons. Don't ask me how I got in this field of work. Let's just say that I have received plenty of military experience to work as a professional mercenary spy.\\n \\n    I've heard of reputation of organization behind incidents in that mansion along with That City. No doubt that extremists were among it's leaders, intending to work on advanced bioweapons research. I was offered a job by an unknown man, who described himself as a former research scientist in that organization, who had changed his ways. My job was to intercept military, sent by that organization to kill their main scientist, stationed in That City's laboratory. My goal was not to save that scientist. Like I was told, scum simply wanted to sell property of their organization to highest bidder essentially. My task was to steal this property from military then bring it to my employer.\\n \\n    As a careful person I am, I waited for a perfect opportunity to ambush them. However, my stealth approach was interrupted by hordes of mutants, attacking both me along with military. The whole city went to shit within a few minutes. I had to run for my life essentially. However, I am a quite intelligent girl. I knew that lab must have contained various intelligence, notes, diaries, maybe even something more important. This scientist devoted himself to his work entirely. There must have been another sample in that laboratory. I managed to find both, though, it was very difficult to do based on what I've seen there honestly",
-    "translation": "My father taught me one very important thing when I was a young girl. He told me that it is wrong to think in absolutes. Has he done something significant in his life with this way of thinking? Maybe. Maybe not. What I know is that his advice greatly helps me in my work. My work is not just means of acquiring money. It helps me to prevent people who think in absolutes from shaping the world in a way that they like. This is especially important if we are talking about genetical experiments related to unknown microorganisms which have many uses. From healthy drugs, protection, extending lives of people to bioweapons. Don't ask me how I got in this field of work. Let's just say that I have received plenty of military experience to work as a professional mercenary spy.\\n \\n    I've heard of reputation of organization behind incidents in that mansion along with That City. No doubt that extremists were among it's leaders, intending to work on advanced bioweapons research. I was offered a job by an unknown man, who described himself as a former research scientist in that organization, who had changed his ways. My job was to intercept military, sent by that organization to kill their main scientist, stationed in That City's laboratory. My goal was not to save that scientist. Like I was told, scum simply wanted to sell property of their organization to highest bidder essentially. My task was to steal this property from military then bring it to my employer.\\n \\n    As a careful person I am, I waited for a perfect opportunity to ambush them. However, my stealth approach was interrupted by hordes of mutants, attacking both me along with military. The whole city went to shit within a few minutes. I had to run for my life essentially. However, I am a quite intelligent girl. I knew that lab must have contained various intelligence, notes, diaries, maybe even something more important. This scientist devoted himself to his work entirely. There must have been another sample in that laboratory. I managed to find both, though, it was very difficult to do based on what I've seen there honestly",
+    "translation": "我父亲在我还是个小女孩的时候教会了我一件非常重要的事情。他告诉我，用绝对的方式思考是错误的。他用这种思维方式在生活中做过什么重要的事情吗？也许有，也许没有。我所知道的是，他的建议对我的工作帮助很大。我的工作不仅仅是赚钱的手段。它帮助我阻止那些用绝对方式思考的人按照他们喜欢的方式塑造世界。如果我们谈论的是与未知微生物相关的基因实验，这一点尤其重要，因为这些微生物有多种用途。从健康药物、保护、延长生命到生物武器。别问我是如何进入这个领域的。这么说吧，我获得了足够的军事经验，成为了一名专业的雇佣间谍。我听说过那座豪宅和那座城市事件背后的组织声誉。毫无疑问，极端分子是其领导人之一，打算从事先进的生物武器研究。一个陌生人向我提供了一份工作，他自称是那个组织的前研究科学家，但已经改变了行事方式。我的任务是拦截那个组织派来刺杀他们驻扎在那座城市实验室里的主要科学家的军队。我的目标不是救那个科学家。正如我被告知的那样，那些人渣实际上只是想把他们组织的财产卖给出价最高的人。我的任务是从军队那里偷走这些财产，然后带给我的雇主。作为一个谨慎的人，我等待着完美的机会伏击他们。然而，我的潜行被一群变异人打断了，他们攻击了我和军队。整座城市在几分钟内就陷入了混乱。我实际上不得不逃命。然而，我是一个相当聪明的女孩。我知道那个实验室里一定有各种情报、笔记、日记，甚至可能是更重要的东西。这位科学家全身心地投入到工作中。那个实验室里一定还有另一个样本。尽管如此，我还是设法找到了两个样本，但基于我在那里所看到的情况，这确实非常困难。",
     "stage": 1,
     "context": "ID: BL9_mercenaryspy_journal1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_mercenaryspy_journal1\n"
   },
@@ -21900,7 +21900,7 @@
   {
     "key": "e4ed231efec37005931649afe8091f95",
     "original": "She is right, my honey really managed to rescue that scientist's daughter. Strange child, immune to That City's bioweapons, as she stated herself. That's what her father told her when injecting her with all kinds of shit. Her bruises were healing up at an extreme rate. The whole shit was really a conspiracy with shady people involved. This is what government told me later on. Hunter brute, horribly mutated scientist, stolen samples of bioweapons, shady female spy. That spy really did save my life multiple times, helping me to destroy this brute, but she clearly had her own motives there. Every time our paths crossed, I always knew that she had some errands to do, provided by her new employers. Whatever, we made it safe, now about events after That City essentially.\\n \\n    Let's just say that government has become interested in two barely trained survivors going through so much shit successfully. We've been 'offered' government agents jobs. Not much choice, considering what we've seen. Then these were times of my duty in various parts of the world. Strangely, current New England prominent factions of madmen that are obsessed with BL9 symbiote really remind me of what I've seen in Europe. Is that some kind of a bullshit trend? As years went by, I tried to convince my engineer girl to let me talk government out of her further involvement. I've been seeing more and more shit that I didn't get killed for only because I'm too useful to kill essentially.\\n \\n    Honey is too stubborn, she wanted to delve even deeper into this. Saving people from madmen with bioweapons is more important than building complex electromechanical systems. That's what she says. When Cataclysm happened, this tight grip was gone. So now we hunt for remnants of these madmen, whereas her brother with his partner try to rebuild everything in local areas. It's a fucking mess, but at least we've got each other to survive hopefully as well",
-    "translation": "She is right, my honey really managed to rescue that scientist's daughter. Strange child, immune to That City's bioweapons, as she stated herself. That's what her father told her when injecting her with all kinds of shit. Her bruises were healing up at an extreme rate. The whole shit was really a conspiracy with shady people involved. This is what government told me later on. Hunter brute, horribly mutated scientist, stolen samples of bioweapons, shady female spy. That spy really did save my life multiple times, helping me to destroy this brute, but she clearly had her own motives there. Every time our paths crossed, I always knew that she had some errands to do, provided by her new employers. Whatever, we made it safe, now about events after That City essentially.\\n \\n    Let's just say that government has become interested in two barely trained survivors going through so much shit successfully. We've been 'offered' government agents jobs. Not much choice, considering what we've seen. Then these were times of my duty in various parts of the world. Strangely, current New England prominent factions of madmen that are obsessed with BL9 symbiote really remind me of what I've seen in Europe. Is that some kind of a bullshit trend? As years went by, I tried to convince my engineer girl to let me talk government out of her further involvement. I've been seeing more and more shit that I didn't get killed for only because I'm too useful to kill essentially.\\n \\n    Honey is too stubborn, she wanted to delve even deeper into this. Saving people from madmen with bioweapons is more important than building complex electromechanical systems. That's what she says. When Cataclysm happened, this tight grip was gone. So now we hunt for remnants of these madmen, whereas her brother with his partner try to rebuild everything in local areas. It's a fucking mess, but at least we've got each other to survive hopefully as well",
+    "translation": "她说得对，我的亲爱的真的成功救出了那个科学家的女儿。一个奇怪的孩子，对那座城市的生物武器免疫，正如她自己所说。这是她父亲在给她注射各种废物时告诉她的。她的瘀伤正在以极快的速度愈合。整件事真的是一个阴谋，有可疑的人参与其中。这是政府后来告诉我的。残忍的猎人，可怕的变种科学家，偷来的生物武器样本，可疑的女间谍。那个间谍确实多次救过我的命，帮助我摧毁了这个残忍的家伙，但她显然有自己的目的。每次我们擦肩而过，我总是知道她有些任务要完成，由她的新雇主提供。无论如何，我们确保了安全，现在主要是关于那座城市之后发生的事情。\\n\\n 这么说吧，政府对两个几乎没有受过训练的幸存者成功经历了那么多糟糕的事情感兴趣。我们已经被 “提供” 了政府特工的工作。考虑到我们所看到的，没有太多选择。然后是我在世界各地执行任务的时候。奇怪的是，当前新英格兰地区那些痴迷于 BL9 共生体的著名疯子派系，真的让我想起了我在欧洲看到的情况。这是某种狗屁趋势吗？随着时间的推移，我试图说服我的工程师女朋友让我说服政府不要进一步介入。我看到了越来越多的狗屁，我没有因此被杀，仅仅是因为我太有用了，本质上不应该杀人。\\n\\n 亲爱的太固执了，她想要更深入地研究这件事。用生物武器从疯子手中拯救人们比建造复杂的电气机械系统更重要。这是她的说法。当大灾变发生时，这种紧密的联系消失了。所以现在我们在寻找这些疯子的残余，而她的兄弟和他的搭档则试图重建当地的一切。这真是一团糟，但至少我们还有希望彼此生存下去。",
     "stage": 1,
     "context": "ID: BL9_advencouple_journal3\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_advencouple_journal3\n"
   },
@@ -21914,7 +21914,7 @@
   {
     "key": "40d0433d14241314456d2fa4cf4b96c8",
     "original": "So now I believe that you can guess `THEIR` plan - to create an army of perfectly obedient bio-soldiers to eradicate anyone that stands on their way and conquer these lands and try to take on the other regions, maybe even the whole world \\n \\n     They MUST be stopped! They are posing a threat to our and other remaining altruistic organizations. We do our best to help survivors, counter The Blob, establish SOME form of civilization, basic at least, grow in power without spilling blood of innocents or turning everyone into controlled puppets...",
-    "translation": "So now I believe that you can guess `THEIR` plan - to create an army of perfectly obedient bio-soldiers to eradicate anyone that stands on their way and conquer these lands and try to take on the other regions, maybe even the whole world \\n \\n     They MUST be stopped! They are posing a threat to our and other remaining altruistic organizations. We do our best to help survivors, counter The Blob, establish SOME form of civilization, basic at least, grow in power without spilling blood of innocents or turning everyone into controlled puppets...",
+    "translation": "所以现在我相信你能猜到“它”们的计划 —— 创造一支完全服从的生物战士军队，消灭任何阻碍他们的人，征服这些土地，并试图接管其他地区，甚至可能是整个世界。\\n\\n 他们必须被阻止！他们正在对我们和其他剩余的利他主义组织构成威胁。我们尽最大努力帮助幸存者，对抗变形怪, 建立某种形式的文明，至少是基本的，在不让无辜者流血或将所有人变成受控傀儡的情况下增强力量......",
     "stage": 1,
     "context": "ID: BL9_agent_journal10\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_journal10\n"
   },
@@ -22089,14 +22089,14 @@
   {
     "key": "80ed073845d6ee18d9956826618900b6",
     "original": "Usually we are not interested in projects of these savages. Majority of them are either mindless mutants, used for killing, or power hungry fools, obsessed with domination of local areas. They don't even care about improving living conditions for their own people. However, there are a few human scientists, who have told me about their most experienced scientist. It is the leader of 'True Superiors' organization at the same time essentially. Humans are feeble, mostly are worthless. But not this man. Even I, representative of a superior race, fear this man. It's like he is not even a man at this point. So what they said is that on their Militarized Island, with instructions made by this man, they developed a Super Soldier.\\n \\n    I came to Militarized Island to see quality of their work. It was pretty good, still, lacking many features that we could add. It was obviously a carefully made humanoid amalgamation of mutated animals that each of our 'Alliance' races brought here. Later when I wanted to talk with these scientists about our own, Davranides' projects, they told me that this man knows that I was one of the few Davranides scientists who showed interest in Super Soldier Project. Scientists said that this man insists that we enhance this project further. I said that I am not sure, but scientists simply replied. They said that Davranides will take on this work if 'Alliance' as a whole values their safety on Earth essentially. We don't want to make enemies out of our allies. We continued this project ourselves. Enhanced versions can be found in various impact sites Cave Systems, whereas experimental enhanced versions can be found in our own Mobile Bases",
-    "translation": "Usually we are not interested in projects of these savages. Majority of them are either mindless mutants, used for killing, or power hungry fools, obsessed with domination of local areas. They don't even care about improving living conditions for their own people. However, there are a few human scientists, who have told me about their most experienced scientist. It is the leader of 'True Superiors' organization at the same time essentially. Humans are feeble, mostly are worthless. But not this man. Even I, representative of a superior race, fear this man. It's like he is not even a man at this point. So what they said is that on their Militarized Island, with instructions made by this man, they developed a Super Soldier.\\n \\n    I came to Militarized Island to see quality of their work. It was pretty good, still, lacking many features that we could add. It was obviously a carefully made humanoid amalgamation of mutated animals that each of our 'Alliance' races brought here. Later when I wanted to talk with these scientists about our own, Davranides' projects, they told me that this man knows that I was one of the few Davranides scientists who showed interest in Super Soldier Project. Scientists said that this man insists that we enhance this project further. I said that I am not sure, but scientists simply replied. They said that Davranides will take on this work if 'Alliance' as a whole values their safety on Earth essentially. We don't want to make enemies out of our allies. We continued this project ourselves. Enhanced versions can be found in various impact sites Cave Systems, whereas experimental enhanced versions can be found in our own Mobile Bases",
+    "translation": "通常我们对这些野蛮人的项目不感兴趣。他们中的大多数要么是没有思想的变异人，用来杀戮，要么是渴望权力的傻瓜，痴迷于统治当地区域。他们甚至不关心改善自己人民的生活条件。然而，有一些人类科学家告诉我，他们最有经验的科学家是谁。他实际上同时是 “真正的上等人” 组织的领导人。人类很弱小，大多毫无价值。但这个人不同。即使是我，一个优等种族的代表，也害怕这个人。就好像他现在甚至不是一个人。所以他们说，在他们的军事化岛上，根据这个人的指示，他们开发了一个超级士兵。\\n\\n 我来到军事化岛，检查他们的工作质量。它仍然相当不错，但缺乏许多我们可以添加的特征。显然，这是一个精心制作的变异动物人形混合体，由我们每个 “联盟” 种族带到这里。后来，当我想和这些科学家谈谈我们自己的达夫拉尼德斯项目时，他们告诉我，这个人知道我是少数几个对超级士兵项目表现出兴趣的达夫拉尼德斯科学家之一。科学家们说，这个人坚持要求我们进一步加强这个项目。我说我不确定，但科学家们只是简单地回答了。他们说，如果 “联盟” 作为一个整体本质上重视他们在地球上的安全，达夫拉尼德斯将接受这项工作。我们不想把盟友变成敌人。我们自己继续了这个项目。加强版可以在各种冲击地点的洞穴系统中找到，而实验性加强版可以在我们自己的移动基地中找到。",
     "stage": 1,
     "context": "ID: BL9_davran_journal4\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_davran_journal4\n"
   },
   {
     "key": "9bfea633cbafbe969f9906914e677534",
     "original": "We are led by one of the brightest minds that exists during our times. The only way to rebuild this world is to create disciplined, fully obedient people, that will not dare to question our leadership, ranging from regular civilians to physically enhanced soldiers and even mutated amalgamations to use as our elite soldiers. With BL9 that's very much possible. These who will not bow down to us to accept us as leaders will be forced to infuse themselves with our own modified version of BL9\\n \\n    Also, based on BL9's properties, it counters The Blob, Triffids, Mycus entirely. This in addition to the fact that it's absolutely benign, hardly a weapon, but with a few tweaks, of course, it can be turned into a true weapon. With huge amounts of resources, weapons, materials, workforce including scientists and engineers, we can expand as an organization. Maybe even assert dominance across local areas. With more hosts, maybe even across entire country, possibly even across the world",
-    "translation": "We are led by one of the brightest minds that exists during our times. The only way to rebuild this world is to create disciplined, fully obedient people, that will not dare to question our leadership, ranging from regular civilians to physically enhanced soldiers and even mutated amalgamations to use as our elite soldiers. With BL9 that's very much possible. These who will not bow down to us to accept us as leaders will be forced to infuse themselves with our own modified version of BL9\\n \\n    Also, based on BL9's properties, it counters The Blob, Triffids, Mycus entirely. This in addition to the fact that it's absolutely benign, hardly a weapon, but with a few tweaks, of course, it can be turned into a true weapon. With huge amounts of resources, weapons, materials, workforce including scientists and engineers, we can expand as an organization. Maybe even assert dominance across local areas. With more hosts, maybe even across entire country, possibly even across the world",
+    "translation": "我们由我们这个时代最聪明的头脑之一领导。重建这个世界的唯一方法是创造一群纪律严明、完全服从的人，他们不敢质疑我们的领导，从普通平民到身体强化的士兵，甚至是用作我们精锐士兵的变异融合体。对于 BL9 来说，这是非常可能的。那些不愿向我们低头接受我们作为领导者的人，将被迫接受我们自己改良版的 BL9。\\n\\n 此外，根据 BL9 的特性，它完全对抗变形怪、三尖树和马卡斯。除此之外，它绝对是良性的，几乎不能算是武器，但只要稍加调整，当然，它可以变成真正的武器。拥有大量的资源、武器、材料，以及包括科学家和工程师在内的劳动力，我们可以扩大组织规模。也许甚至可以在本地区建立统治地位。拥有更多宿主，也许甚至可以覆盖整个国家，甚至可能覆盖全世界。",
     "stage": 1,
     "context": "ID: BL9_theirsoldier_journal1\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_theirsoldier_journal1\n"
   },
@@ -22152,7 +22152,7 @@
   {
     "key": "6c2745252f0c40aa0d7b03acffc6ff58",
     "original": "You have either managed to find or return to any of BL9 Safety Bases, it is good that you are here, safe! Proceed to Control Sector to talk to Base Android, responsible for safe work of all systems in this particular BL9 Safety Base. You can talk to Base Android to ask her various questions. She has a built-in system which makes her able to read various intel along with journals which we have collected. They are all optional to read, but are advised to read in general. They are all categorized, which only means that she will read them, based on your choices of questions categories along with your questions in general. You can go to Leisure Center to get a beverage or a drink from there. You might wonder why here there is nobody of our organization's representatives? Answer is simple. Safety. You probably understand that we are aware of all kinds of inhabitants roaming around. This includes benevolent survivors, hopefully, you are one of these survivors. At the same time these can be bandits, murderers, maniacs, double agents of Strange Cult, 'THEM', 'True Superiors', 'Alliance' obviously. We prefer not to give any chance to either of these horrible bastards to try to weaken or damage our organization.\\n \\n    The most important journal for you to read is 'Instructions for Survivors' which is a must for survival of survivors who are interested in helping our organization achieve it's goal types which we concentrate on for survival of humanity in general. Key goal of our organization is to bring hope, safety, civilization that will guarantee survival, possibility of procreation to survivors hopefully as well",
-    "translation": "You have either managed to find or return to any of BL9 Safety Bases, it is good that you are here, safe! Proceed to Control Sector to talk to Base Android, responsible for safe work of all systems in this particular BL9 Safety Base. You can talk to Base Android to ask her various questions. She has a built-in system which makes her able to read various intel along with journals which we have collected. They are all optional to read, but are advised to read in general. They are all categorized, which only means that she will read them, based on your choices of questions categories along with your questions in general. You can go to Leisure Center to get a beverage or a drink from there. You might wonder why here there is nobody of our organization's representatives? Answer is simple. Safety. You probably understand that we are aware of all kinds of inhabitants roaming around. This includes benevolent survivors, hopefully, you are one of these survivors. At the same time these can be bandits, murderers, maniacs, double agents of Strange Cult, 'THEM', 'True Superiors', 'Alliance' obviously. We prefer not to give any chance to either of these horrible bastards to try to weaken or damage our organization.\\n \\n    The most important journal for you to read is 'Instructions for Survivors' which is a must for survival of survivors who are interested in helping our organization achieve it's goal types which we concentrate on for survival of humanity in general. Key goal of our organization is to bring hope, safety, civilization that will guarantee survival, possibility of procreation to survivors hopefully as well",
+    "translation": "你已经成功找到或回到了任何 BL9 安全基地，很高兴你在这里，安全！前往控制区与 Base Android 交谈，它负责这个特定 BL9 安全基地所有系统的安全工作。你可以与 Base Android 交谈，询问它各种问题。它有一个内置系统，使它能够阅读各种信息，以及我们收集的日志。这些都是可选的，但建议一般性阅读。它们都是分类的，这仅仅意味着它会阅读它们，基于你选择的问题类别以及你的一般性问题。你可以去休闲中心买一杯饮料或饮料。你可能想知道为什么这里没有我们组织的代表？答案很简单。安全。你可能已经理解，我们意识到各种各样的居民在周围游荡。这其中包括善良的幸存者，希望你也是其中之一。同时，这些人可能是强盗、杀人犯、疯子、奇异教派的双重间谍，“他们”、“真正的上级”、“联盟”, 这些都是显而易见的。我们不愿给这些可怕的混蛋任何机会，让他们试图削弱或损害我们的组织。您需要阅读的最重要期刊是 “幸存者指南”, 这对于那些有兴趣帮助我们组织实现其目标类型的幸存者来说是必不可少的，这些目标类型是我们为了全人类的生存而专注的。我们组织的主要目标是为幸存者带来希望、安全、文明，以确保生存和繁衍的可能性。",
     "stage": 1,
     "context": "ID: BL9_agent_journal2\n位于 /Kenan-Structured-Modpack/BL9-100%_monster_resilience_version/Items/lore.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#BL9-100%25_monster_resilience_version→GENERIC→BL9_agent_journal2\n"
   },
