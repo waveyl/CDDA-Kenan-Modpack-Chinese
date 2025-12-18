@@ -89,7 +89,7 @@
   "original": "\"All things are of nature, born from the mother who shines upon both finite and infinite.\"  Would you truly wish harm upon the blessing we have been given?",
   "translation": "\"万物皆源于自然，诞生于那位照耀有限与无限的母亲之手。”你真的希望破坏我们得到的祝福吗？",
   "context": "ID: TALK_MARLOSS_VOICE_INTERLOPERS_CLEANSINGFLAME\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MARLOSS_VOICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MARLOSS_VOICE_INTERLOPERS_CLEANSINGFLAME\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c4563c068a7038bd7dc545415934f6d2",
@@ -107,9 +107,9 @@
  {
   "key": "b173c1a5965ca16ceba37f4bb2dbacf3",
   "original": "\"Any otherworldly monster must be returned to its true domain, living or dead.\"  That is my duty.  Do not interfere.",
-  "translation": "“所有的异界怪物都必须被送还至其原生之地，不论生死。”这是我的使命，不要干涉。",
+  "translation": "“所有的异界魔物都必须被送还至其原生之地，不论生死。”这是我的责任，不要干涉。",
   "context": "ID: TALK_MARLOSS_VOICE_INTERLOPERS\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_MARLOSS_VOICE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_MARLOSS_VOICE_INTERLOPERS\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "531d9c3be082bc2a61a53882c1bd4048",
@@ -162,7 +162,7 @@
   "original": "\"Bring judgment to our enemies, for they bring only suffering.\"\nUnknowable forces have given you a fourth gift, that can blast an area with divine flames.  (( Remember to bind the \"spellcasting\" key! ))",
   "translation": "“为我等之敌带来审判，因他们带来的仅有苦难。”\n不可名状之力赐予你第四份礼物，以此唤出圣火轰炸一片区域。（记得绑定“施法”键！）",
   "context": "ID: SPELL_FIRE2\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_paragon.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SPELL_FIRE2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2a5aa24a8e3eff066a2ecd7b8930274e",
@@ -175,7 +175,7 @@
   "original": "\"But your spirit shall face these trials as stone faces the flame, unyielding to the inferno.\"\nUnknowable forces have given you a fourth gift, that can grant resistance to fire and smoke.  (( Remember to bind the \"spellcasting\" key! ))",
   "translation": "“你的灵魂面临考验，一如磐石直面烈焰，命中注定傲然于炼狱之炎。”\n不可名状之力赐予你第四个礼物，帮助你抵御烈火与浓烟。（记得绑定“施法”键！）",
   "context": "ID: SPELL_FLAMEARMOR2\n位于 /Kenan-Structured-Modpack/Arcana/mutations/mutations_paragon.json\n类型为 mutation\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→mutation→SPELL_FLAMEARMOR2\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2c7866054a58b601d7d379ac351e0dd7",
@@ -202,14 +202,14 @@
   "original": "\"Cast aside the veil of reality.\"  You feel yanked in a non-existent direction!",
   "translation": "“撕碎现实的帷幕吧。”你觉得自己被拉向了一个根本不存在的方向！",
   "context": "ID: arcana_item_scroll_subversion\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_scroll_subversion\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "2eee55b618db8fe19cc4355fd39d34ba",
   "original": "\"Cast aside the veil, and behold the truth.\"",
-  "translation": "“拂帷幕，真相现。”",
+  "translation": "“穿破帷幕，真相显现。”",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/monsters/speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→speech→mon_archon→12\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "337ccb118c2f349ea56f2aec5aaf3f22",
@@ -281,7 +281,7 @@
   "key": "2434f606a2f746eb1a960125002f2f1c",
   "original": "\"Dōnēs nobis virtus...\"  You cast %s!",
   "translation": "“赐我勇气……”你施放了 %s！",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "e3454fdbf1dd9c1e11fb129562b89f9c",
@@ -301,7 +301,7 @@
   "original": "\"Ecce, sanguinem magum!\"",
   "translation": "“看哪，魔法之血！”",
   "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Arcana/monsters/speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→speech→mon_mi_go→17\n",
-  "stage": 3
+  "stage": 5
  },
  {
   "key": "c90ac21c9dafbe14d7f4e9e0a821a280",
@@ -3067,7 +3067,7 @@
   "key": "4693dc1728ca4c1e1aeed0991ef72e92",
   "original": "A local settlement in a fortified roadside church.  It's not too far from the refugee center.",
   "translation": "在一个有防御工事的路边教堂里的当地居民点。离难民中心不远。",
-  "context": "ID: TALK_RANCH_CROP_OVERSEER_CF_REP_MISSION_4_CONTACT\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_CROP_OVERSEER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_CROP_OVERSEER_CF_REP_MISSION_4_CONTACT\n",
+  "context": "ID: TALK_ROBOFAC_FREE_MERCHANT_CF_REP_MISSION_4_TRADE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_ROBOFAC_FREE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_ROBOFAC_FREE_MERCHANT_CF_REP_MISSION_4_TRADE\n",
   "stage": 3
  },
  {
@@ -13732,7 +13732,7 @@
   "key": "7be9771988a9c2c7ad514460ad3f43eb",
   "original": "I'll just be going…",
   "translation": "我要告辞了……",
-  "context": "ID: TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_SPLINTER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_SPLINTER\n",
+  "context": "ID: TALK_BLOOD_MAGE_SHRIKE_ROGUE_WHERE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_BLOOD_MAGE_SHRIKE_ROGUE.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_BLOOD_MAGE_SHRIKE_ROGUE_WHERE\n",
   "stage": 3
  },
  {
@@ -16300,7 +16300,7 @@
   "key": "34f6aa1c94d7e696a12c0ff3f150cd7c",
   "original": "Let's trade then.",
   "translation": "那么让我们交易吧。",
-  "context": "ID: TALK_CF_REP_TRADE\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_TRADE\n",
+  "context": "ID: TALK_CF_SEEKER_DO\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_SEEKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_SEEKER_DO\n",
   "stage": 5
  },
  {
@@ -19950,7 +19950,7 @@
   "key": "11bdc82c9f1248c19a1467dca88c537c",
   "original": "Okay…",
   "translation": "好吧……",
-  "context": "ID: TALK_CF_REP_PRELUDE_GEM\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_REP.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_REP_PRELUDE_GEM\n",
+  "context": "ID: TALK_CF_SEEKER_SPIRITUAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_CF_SEEKER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_CF_SEEKER_SPIRITUAL\n",
   "stage": 5
  },
  {
@@ -25076,7 +25076,7 @@
   "key": "c5cd303c50af8240babf17b1dd3ed11f",
   "original": "Temporal Stimulation",
   "translation": "时间刺激",
-  "context": "ID: temporal_stimulation_effect\n位于 /Kenan-Structured-Modpack/Arcana/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→effect_type→temporal_stimulation_effect\n",
+  "context": "ID: bio_temporal_stimulation\n位于 /Kenan-Structured-Modpack/Arcana/bionics.json\n类型为 bionic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→bionic→bio_temporal_stimulation\n",
   "stage": 3
  },
  {
@@ -25242,7 +25242,7 @@
   "key": "5d41cc17ced2fc2c258f4f0e7765350c",
   "original": "Thank you.  I should go check on them.",
   "translation": "非常感谢。我应该去看看。",
-  "context": "ID: TALK_RANCH_CROP_OVERSEER_CF_REP_MISSION_4_DEAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_RANCH_CROP_OVERSEER.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_RANCH_CROP_OVERSEER_CF_REP_MISSION_4_DEAL\n",
+  "context": "ID: TALK_ROBOFAC_FREE_MERCHANT_CF_REP_MISSION_4_DEAL\n位于 /Kenan-Structured-Modpack/Arcana/npcs/TALK_ROBOFAC_FREE_MERCHANT.json\n类型为 talk_topic\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→talk_topic→TALK_ROBOFAC_FREE_MERCHANT_CF_REP_MISSION_4_DEAL\n",
   "stage": 3
  },
  {
@@ -33427,7 +33427,7 @@
   "key": "081d077ae09667e92f73ca6d8249c8ce",
   "original": "You feel yanked in a non-existent direction!",
   "translation": "你觉得自己被拉向了一个不存在的方向！",
-  "context": "ID: arcana_react_satchel_teleport\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_react.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_react_satchel_teleport\n",
+  "context": "ID: arcana_item_spatial_displacement\n位于 /Kenan-Structured-Modpack/Arcana/spells/spells_item.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Arcana→SPELL→arcana_item_spatial_displacement\n",
   "stage": 1
  },
  {
