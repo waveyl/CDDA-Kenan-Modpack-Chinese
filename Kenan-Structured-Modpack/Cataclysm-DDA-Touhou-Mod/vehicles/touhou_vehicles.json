@@ -24,8 +24,11 @@
       { "x": -1, "y": 0, "parts": [ "frame_corpsecart", "wheel_corpsecart", "seat_corpsecart", "controls_corpsecart" ] }
     ],
     "items": [ { "x": 0, "y": 0, "chance": 50, "items": [ "corpse_ash" ] } ],
-    "//": "This is working almost as intended. The engine consumes corpses, however I cannot limit it to be only human or human-derived corpses",
-    "//2": "The fun thing is that this works with no fuel_data set in either flesh or hflesh . Which is not supposed to happen"
+    "//": "Just discovered the undocumented ammo_data field lol corpses can be loaded again, and revival shouldn't break",
+    "//note": "I was wrong, merely using copy-from the corpse items also breaks their revival",
+    "//note2": "Thus, the whole file has to be deleted, as merely renaming as corpses.json_ it doesn't prevent loading. Last version 0.9.7.8b",
+    "//2": "However I cannot limit the engine accepting only human or human-derived corpses",
+    "//3": "The fun thing is that this works with no fuel_data set in either flesh or hflesh . Which is not supposed to happen"
   },
   {
     "id": "keystone_floating",

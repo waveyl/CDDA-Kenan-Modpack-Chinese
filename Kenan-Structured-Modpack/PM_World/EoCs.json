@@ -56,7 +56,7 @@
   {
     "type": "effect_on_condition",
     "id": "summon_npc1",
-    "effect": [ { "u_spawn_npc": "kr_npc", "real_count": 1, "min_radius": 1, "max_radius": 3 } ]
+    "effect": [ { "u_spawn_npc": "pm_test_npc", "real_count": 1, "min_radius": 1, "max_radius": 3 } ]
   },
   {
     "type": "effect_on_condition",
@@ -115,6 +115,44 @@
   },
   {
     "type": "effect_on_condition",
+    "id": "wellprawn_effect",
+    "effect": [
+      { "u_cast_spell": { "id": "light_heal", "min_level": 1, "max_level": 4 } },
+      {
+        "u_add_morale": "morale_food_good",
+        "bonus": 5,
+        "max_bonus": 20,
+        "duration": "5 minutes",
+        "decay_start": "1 minutes"
+      },
+      { "u_message": "Your mood and health is slightly improved!", "type": "good" },
+	  { "run_eocs": "soda_ego_evolve" }
+    ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "soda_ego_evolve",
+    "effect": [
+      { 
+        "if": { "math": [ "u_spell_level('EGO_soda')", "==", "-1" ] },
+        "then": [
+          { "math": [ "u_spell_level('EGO_soda')", "=", "1" ] },
+          {
+            "u_message": "You feel the drink connect to you.. Like really connect, an absolute understanding of prawn-based soda. An energy thrumming through your body, expanding, changing, an ego that's not entirely your own settling within the depths of your mind. You could call on it, if you really wished to. Somehow, in the flicker of your mind, you recognise that energy. Soda.",
+            "popup": true
+          }
+        ],
+        "else": [ 
+          { "math": [ "u_spell_level('EGO_soda')", "+=", "1" ] },
+          {
+            "u_message": "The delighful taste of shrimp floods you, burning a chorus of flavour in your mind. You feel your bond with Soda strengthening."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "effect_on_condition",
     "id": "well_abduct",
     "effect": [
       { "u_spawn_monster": "mon_wellcheers", "real_count": [ 2, 4 ], "min_radius": [ 5, 7 ], "max_radius": [ 11, 24 ] },
@@ -125,30 +163,58 @@
   {
     "type": "effect_on_condition",
     "id": "well_random",
-    "effect": {
-      "weighted_list_eocs": [
+    "effect": [
+      { 
+        "weighted_list_eocs": [
         [ { "id": "well_hook_eff1", "effect": { "run_eocs": "well_effect" } }, 18 ],
         [ { "id": "well_hook_abd1", "effect": { "run_eocs": "well_abduct" } }, 1 ]
-      ]
-    }
+      ] 
+      },
+      { 
+        "if": { "math": [ "u_spell_level('EGO_soda') > -1" ] },
+        "then": [ { "math": [ "u_spell_exp('EGO_soda') += 2" ] }, { "u_message": "You feel Soda resonate, dancing in your subconcious as you drink down more glorious WellCheers."} ]
+      }
+    ]
   },
   {
     "type": "effect_on_condition",
     "id": "wellcherry_random",
-    "effect": {
-      "weighted_list_eocs": [
+    "effect": [
+      { 
+        "weighted_list_eocs": [
         [ { "id": "well_hook_eff2", "effect": { "run_eocs": "wellcherry_effect" } }, 18 ],
         [ { "id": "well_hook_abd2", "effect": { "run_eocs": "well_abduct" } }, 1 ]
-      ]
-    }
+      ] 
+      },
+      { 
+        "if": { "math": [ "u_spell_level('EGO_soda') > -1" ] },
+        "then": [ { "math": [ "u_spell_exp('EGO_soda') += 3" ] }, { "u_message": "You feel Soda resonate, dancing in your subconcious as you drink down more glorious WellCheers."} ]
+      }
+    ]
   },
   {
     "type": "effect_on_condition",
     "id": "wellgrape_random",
-    "effect": {
-      "weighted_list_eocs": [
+    "effect": [
+      { 
+        "weighted_list_eocs": [
         [ { "id": "well_hook_eff3", "effect": { "run_eocs": "wellgrape_effect" } }, 18 ],
         [ { "id": "well_hook_abd3", "effect": { "run_eocs": "well_abduct" } }, 1 ]
+      ] 
+      },
+      { 
+        "if": { "math": [ "u_spell_level('EGO_soda') > -1" ] },
+        "then": [ { "math": [ "u_spell_exp('EGO_soda') += 5" ] }, { "u_message": "You feel Soda resonate, dancing in your subconcious as you drink down more glorious WellCheers."} ]
+      }
+    ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "wellprawn_random",
+    "effect": {
+      "weighted_list_eocs": [
+        [ { "id": "well_hook_eff4", "effect": { "run_eocs": "wellprawn_effect" } }, 12 ],
+        [ { "id": "well_hook_abd4", "effect": { "run_eocs": "well_abduct" } }, 3 ]
       ]
     }
   },
@@ -166,5 +232,35 @@
     "type": "effect_on_condition",
     "id": "test_location_finder_mission",
     "effect": [ { "assign_mission": "TEST_FIND" } ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "COMP_REFUGEE_CENTER_MAIN",
+    "dynamic_line": "The computer awaits input…",
+    "responses": [ { "text": "Zw&i ma!2gge", "topic": "COMP_FIND_ZWEI" } ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "COMP_FIND_ZWEI",
+    "dynamic_line": "We are re;dy to provide protection servic(,! *approximate coordinates appear on the screen*",
+    "responses": [
+      {
+        "text": "Make a note of the location.",
+        "topic": "COMP_REFUGEE_CENTER_MAIN",
+        "condition": { "not": { "u_has_mission": "MISSION_REACH_ZWEI" } },
+        "effect": [ { "assign_mission": "MISSION_REACH_ZWEI" } ]
+      },
+      { "text": "Press any key.", "topic": "COMP_REFUGEE_CENTER_MAIN" }
+    ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "increase_sin",
+    "effect": [ { "math": [ "u_vitamin('SIN')", "+=", "1" ] }, { "u_message": "SINER!", "type": "bad" } ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "decrease_sin",
+    "effect": [ { "math": [ "u_vitamin('SIN')", "-=", "1" ] }, { "u_message": "UNSINER!", "type": "good" } ]
   }
 ]

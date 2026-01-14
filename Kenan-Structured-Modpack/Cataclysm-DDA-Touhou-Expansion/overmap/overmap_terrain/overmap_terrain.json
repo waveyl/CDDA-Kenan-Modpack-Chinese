@@ -12,10 +12,11 @@
   {
     "type": "overmap_terrain",
     "id": [ "hunter_shack", "hunter_shack_1" ],
+    "vision_levels": "isolated_building",
     "name": "swamp shack",
     "sym": "+",
     "color": "i_cyan",
-    "see_cost": 5,
+    "see_cost": "high",
     "flags": [ "SOURCE_SAFETY", "SOURCE_FOOD" ],
     "spawns": { "group": "GROUP_hunter_shack", "population": [ 1, 1 ], "chance": 16 }
   },
@@ -36,16 +37,17 @@
       "fort_4c"
     ],
     "copy-from": "generic_bastion_fort",
-    "see_cost": 5,
     "flags": [ "REQUIRES_PREDECESSOR" ],
     "spawns": { "group": "GROUP_fort", "population": [ 1, 1 ], "chance": 10 }
   },
   {
     "type": "overmap_terrain",
     "id": [ "lumbermill_0_0_ocu", "lumbermill_0_1_ocu", "lumbermill_1_0_ocu", "lumbermill_1_1_ocu" ],
+    "vision_levels": "isolated_building",
     "name": "lumbermill",
     "sym": "L",
     "color": "i_green",
+    "see_cost": "high",
     "flags": [ "SOURCE_CONSTRUCTION", "SOURCE_FABRICATION" ],
     "spawns": { "group": "GROUP_lumbermill", "population": [ 1, 1 ], "chance": 10 }
   }

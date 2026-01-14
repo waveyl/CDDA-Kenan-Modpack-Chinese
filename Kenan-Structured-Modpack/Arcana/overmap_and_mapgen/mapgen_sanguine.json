@@ -1,7 +1,6 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "island_temple_roof" ],
     "weight": 250,
     "object": {
@@ -37,7 +36,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "island_temple_1" ],
     "weight": 250,
     "object": {
@@ -75,7 +74,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "island_temple_b_1" ],
     "weight": 250,
     "object": {
@@ -123,7 +122,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "island_temple_b_2" ],
     "weight": 250,
     "object": {
@@ -138,9 +137,9 @@
         "...==  ===.......===    ",
         "+===   =...........=    ",
         "i=    ==...IgggI...==   ",
-        ".=    =a...g~~~g...8=   ",
-        "X======b...g~;~g.Z.a=   ",
-        "......=a...g~~~g...[=   ",
+        ".=    =a...g~~~g.Z.8=   ",
+        "X======b...g~;~g...a=   ",
+        "......=a...g~~~g.K.[=   ",
         "g~~~~.==...IgggI...==   ",
         "g~~~~..X...........=    ",
         "...~~~.===.......===    ",
@@ -172,7 +171,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "island_temple_b_3" ],
     "weight": 250,
     "object": {
@@ -190,9 +189,9 @@
         "    ===.......===.~~~...",
         "    =...........X..~~~~g",
         "   ==...IgggI...==.~~~~g",
-        "   =[...g~~~g...a=......",
-        "   =a.Z.g~;~g...b=======",
-        "   =8...g~~~g...a=      ",
+        "   =[.P.g~~~g...a=......",
+        "   =a...g~;~g...b=======",
+        "   =8.Z.g~~~g...a=      ",
         "   ==...IgggI...==      ",
         "    =...........=       ",
         "    ===.......===       ",
@@ -215,7 +214,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "island_temple_b_4" ],
     "weight": 250,
     "object": {

@@ -255,7 +255,7 @@
     "key": "25eadef84c9838f59402f19c4c5e9423",
     "original": "\"please put on your hard-hat.\"",
     "translation": "“请戴上安全帽。”",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: undefined\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/speech.json\n类型为 speech\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→speech→mon_protectron_construction→4\n"
   },
   {
@@ -296,14 +296,14 @@
   {
     "key": "d622743f1d5e8cfb00ea7624b533f366",
     "original": "%s raises their spear menacingly.",
-    "translation": "%s凶狠地举起长矛。",
-    "stage": 1,
+    "translation": "%s 凶狠地举起了长矛。",
+    "stage": 3,
     "context": "ID: style_gecko\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→martial_art→style_gecko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_gecko"
   },
   {
     "key": "fdd1792f2437036b3c227ecb24ace478",
     "original": "'Protect the people at a minute's notice.' That was the original idea. But now General Becker is a zombie, the Minutemen are a scattered memory, and all the people you were trying to protect are dead.",
-    "translation": "“一分钟就保护人民。”这是最初的想法。但现在贝克尔将军是个丧尸，义勇军只是一个零散的记忆，你试图保护的所有人都死了。",
+    "translation": "“一分钟内保护人民。”这是你最初的想法。但现在贝克尔将军是只丧尸，义勇军只是一个零散的记忆，你试图保护的所有人都死了。",
     "stage": 1,
     "context": "ID: minuteman\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/professions/other_professions.json\n类型为 profession\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→profession→minuteman\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=minuteman"
   },
@@ -1403,7 +1403,7 @@
     "key": "9faa6142d81beb12f2183d7acdbe2d00",
     "original": "A box full of gears and cogs, meant to be used with a crank action mechanism or similar clockwork weapon.",
     "translation": "一个装有传动装置和齿轮的盒子，用于曲柄机构或类似的发条武器。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: homemade_gearbox\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→homemade_gearbox\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=homemade_gearbox"
   },
   {
@@ -1738,7 +1738,7 @@
   {
     "key": "f450529a3e5779e75a928490b2b99707",
     "original": "A fist-sized egg from a radscorpion.  Incredibly gross.",
-    "translation": "蝎子拳头般大小的蛋，太恶心了。",
+    "translation": "拳头大的辐射蝎蛋。太恶心了。",
     "stage": 3,
     "context": "ID: egg_radscorpion\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→egg_radscorpion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=egg_radscorpion"
   },
@@ -1829,14 +1829,14 @@
   {
     "key": "b9cd0c982838a705e6251750bcbf4053",
     "original": "A handmade .223 rifle that utilizes a bolt-action mechanism.",
-    "translation": "一种手工制造的.223步枪，使用一个霰弹作用机构。",
+    "translation": "手工制造的.223步枪，使用栓动机构。",
     "stage": 3,
     "context": "ID: rifle_bolt_223\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_223"
   },
   {
     "key": "6f663d57fb7b65ffb5757178f01d9f9f",
     "original": "A handmade .223 rifle that utilizes a lever-action mechanism.",
-    "translation": "一种手工制造的.223步枪，使用杠杆作用机构。",
+    "translation": "一种手工制造的.223步枪，使用杠杆机构。",
     "stage": 3,
     "context": "ID: rifle_lever_223\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_lever_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_lever_223"
   },
@@ -1920,7 +1920,7 @@
   {
     "key": "cabbbad444e30b79537b4c44b421f47f",
     "original": "A handmade 7.62 rifle that utilizes a bolt-action mechanism.",
-    "translation": "一种手工制作的7.62步枪，采用霰弹作用机制。",
+    "translation": "一种手工制作的7.62步枪，采用栓动构件。",
     "stage": 3,
     "context": "ID: rifle_bolt_762\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_762\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_762"
   },
@@ -1997,7 +1997,7 @@
   {
     "key": "8f04bde3eda8a42896e7b670fa644c1b",
     "original": "A homemade bolt-action mechanism, used in sniper rifles.",
-    "translation": "一种自制的霰弹作用机构，用于狙击步枪。",
+    "translation": "一种自制的栓动枪机，用于狙击步枪。",
     "stage": 3,
     "context": "ID: mechanism_homemade_bolt\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_bolt"
   },
@@ -2242,8 +2242,8 @@
   {
     "key": "9113a2a72a9d10d2da86f6e723a1e8c5",
     "original": "A light, wooden grip for a firearm.",
-    "translation": "一种轻的木制枪柄。",
-    "stage": 1,
+    "translation": "一个轻质木握把。",
+    "stage": 3,
     "context": "ID: wooden_grip_handmade\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→wooden_grip_handmade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_grip_handmade"
   },
   {
@@ -2292,7 +2292,7 @@
     "key": "93c92c9ccbad53157e503f92da1d6085",
     "original": "A massive shell filled with gunpowder and pellets.",
     "translation": "装满火药和弹丸的巨大炮弹。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: punt_shot_basic\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/ammo/shotgun.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→punt_shot_basic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punt_shot_basic"
   },
   {
@@ -3173,8 +3173,8 @@
   {
     "key": "a64a62d2aced5c2f9957d9a43c4fe2d7",
     "original": "A weird looking blue berry.",
-    "translation": "一个奇怪的蓝色浆果。",
-    "stage": 1,
+    "translation": "一个长相奇怪的蓝色浆果。",
+    "stage": 3,
     "context": "ID: mutfruit\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/capital_comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→mutfruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutfruit"
   },
   {
@@ -3685,14 +3685,14 @@
     "key": "dfa5ec4c71244257b475ccfaf4691a09",
     "original": "Atomic Radio",
     "translation": "原子无线电",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: radio_atomic\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→vehicle_part→radio_atomic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=radio_atomic"
   },
   {
     "key": "54dbcab86919b9137984ddf79ec996be",
     "original": "Atomic TV",
     "translation": "原子电视",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: television_atomic\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→vehicle_part→television_atomic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=television_atomic"
   },
   {
@@ -3866,8 +3866,8 @@
   {
     "key": "e7496932841f4e0ea34e4abe30a3d9b3",
     "original": "Cannonball",
-    "translation": "炮弹",
-    "stage": 1,
+    "translation": "炮弹弹丸",
+    "stage": 3,
     "context": "ID: cannonball\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/ammo_heavy.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→cannonball\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cannonball"
   },
   {
@@ -3908,15 +3908,15 @@
   {
     "key": "ae14efeaf7b31bfbde6cd95143ce253e",
     "original": "Chef Protectron",
-    "translation": "厨师长Protectron",
-    "stage": 1,
+    "translation": "主厨安保机器人",
+    "stage": 3,
     "context": "ID: mon_protectron_takahashi\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/monsters/robots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_protectron_takahashi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_protectron_takahashi"
   },
   {
     "key": "c21a3f7e75435db11fdbc569e0558174",
     "original": "Chinese Commando Hat",
     "translation": "中国突击队帽",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: hat_peoples\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→ARMOR→hat_peoples\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hat_peoples"
   },
   {
@@ -4013,8 +4013,8 @@
   {
     "key": "5ced32a52a9ee8aaa913f4f72742132b",
     "original": "Cowboy Repeaters",
-    "translation": "牛仔中继器",
-    "stage": 1,
+    "translation": "牛仔步枪",
+    "stage": 3,
     "context": "ID: cowboy_repeater\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/gun_cowboy.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→cowboy_repeater\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cowboy_repeater"
   },
   {
@@ -4041,8 +4041,8 @@
   {
     "key": "18cb8b2d370b867ac40f7dd5453f280f",
     "original": "DKS-501",
-    "translation": "DKS-501型",
-    "stage": 1,
+    "translation": "DKS-501狙击步枪",
+    "stage": 3,
     "context": "ID: dks501\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/gun_556.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→dks501\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dks501"
   },
   {
@@ -4083,8 +4083,8 @@
   {
     "key": "6d9572d36835e2c919cb815987936389",
     "original": "Dehydrated gecko flakes.  With proper storage, this dried food will remain edible for an incredibly long time.",
-    "translation": "脱水壁虎片。经过适当的储存，这种干食品将在难以置信的长时间内保持可食用。",
-    "stage": 1,
+    "translation": "一些片状的壁虎肉片。如果储存妥善，这种干燥的食物可以保存非常长的时间。",
+    "stage": 3,
     "context": "ID: dry_meat_gecko\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/mutant_meats.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→dry_meat_gecko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=dry_meat_gecko"
   },
   {
@@ -4161,7 +4161,7 @@
     "key": "45d83e531a77eda72b5f26584aa010d1",
     "original": "Dragon's Fury",
     "translation": "龙之怒",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: style_chosenone\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→martial_art→style_chosenone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_chosenone"
   },
   {
@@ -4196,21 +4196,21 @@
     "key": "46061e596f516ed376d7fbcf2004008e",
     "original": "Enclave X-01 Power Armor",
     "translation": "Enclave X-01动力装甲",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: power_armor_x01\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/armor _power.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→TOOL_ARMOR→power_armor_x01\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_x01"
   },
   {
     "key": "2176cb2ae6d829add3303b35f9baf79f",
     "original": "Enclave X-01 Power Armor (on)",
     "translation": "Enclave X-01动力装甲（开启）",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: power_armor_x01_on\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/armor _power.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→TOOL_ARMOR→power_armor_x01_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_x01_on"
   },
   {
     "key": "4321644d96f6da3bcd39239ff9d83ac0",
     "original": "Enclave X-01 Power Armors (on)",
-    "translation": "Enclave X-01电源铠装（开）",
-    "stage": 1,
+    "translation": "Enclave X-01动力装甲（开启）",
+    "stage": 3,
     "context": "ID: power_armor_x01_on\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/armor _power.json\n类型为 TOOL_ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→TOOL_ARMOR→power_armor_x01_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=power_armor_x01_on"
   },
   {
@@ -4251,15 +4251,15 @@
   {
     "key": "b5f4153b66448c7a708c1ca96c871b1b",
     "original": "Explosive Rocket",
-    "translation": "爆炸火箭",
-    "stage": 1,
+    "translation": "爆破火箭",
+    "stage": 3,
     "context": "ID: bbrocket\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/ammo_heavy.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→bbrocket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bbrocket"
   },
   {
     "key": "95186617a6d5ae9bf687d524a459bfdb",
     "original": "Explosive cannonball",
-    "translation": "爆炸性炮弹",
-    "stage": 1,
+    "translation": "爆破炮弹",
+    "stage": 3,
     "context": "ID: cannonball_explosive\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/ammo_heavy.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→cannonball_explosive\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cannonball_explosive"
   },
   {
@@ -4273,7 +4273,7 @@
     "key": "49d5d2d4fef3eb4d160f764dede06ae5",
     "original": "Facist's Hat",
     "translation": "护工帽",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: hat_general_black\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→ARMOR→hat_general_black\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=hat_general_black"
   },
   {
@@ -4315,7 +4315,7 @@
     "key": "5f9f6afdc12e7d1c59c744efe9dd59d8",
     "original": "Firework Rocket",
     "translation": "烟花火箭",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: firework_rocket\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/ammo/launcher.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→firework_rocket\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=firework_rocket"
   },
   {
@@ -4378,7 +4378,7 @@
     "key": "f7d214dd9689046156362696d4c556dc",
     "original": "Gecko Skin",
     "translation": "壁虎皮",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: leather_gecko\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/materials.json\n类型为 material\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→material→leather_gecko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=leather_gecko"
   },
   {
@@ -4433,8 +4433,8 @@
   {
     "key": "989326ec2d29b3172c96931ad6c755ae",
     "original": "Golden Gecko",
-    "translation": "黄金蜥蜴",
-    "stage": 1,
+    "translation": "金壁虎",
+    "stage": 3,
     "context": "ID: mon_gecko_gold\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/monsters/reptiles.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_gecko_gold\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_gecko_gold"
   },
   {
@@ -5231,7 +5231,7 @@
   {
     "key": "7db0d7cb232d548c41e80adcd07d1c23",
     "original": "Processed and irradiated devilled eggs. Theyre good, though!",
-    "translation": "经过加工和辐照的脱蛋。不过他们很好！",
+    "translation": "经过加工和辐照的脱壳蛋。不过他们很好！",
     "stage": 1,
     "context": "ID: eggs_devilled_fallout\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/capital_comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→eggs_devilled_fallout\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eggs_devilled_fallout"
   },
@@ -5245,8 +5245,8 @@
   {
     "key": "aea303e4556f07725c9e093f7c47dc3d",
     "original": "Protectron Subway Steward",
-    "translation": "地铁管家",
-    "stage": 1,
+    "translation": "地铁安保机器人",
+    "stage": 3,
     "context": "ID: mon_protectron_subway\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/monsters/robots.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_protectron_subway\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_protectron_subway"
   },
   {
@@ -6092,7 +6092,7 @@
   {
     "key": "ab9c7780438046a02b916c29e2a1c134",
     "original": "This is a Jimmy Hats brand condom, a very reliable brand.  This one contains phosophorous red dye #5 and has a yummy cinnamon bun flavor... or so you heard.",
-    "translation": "这是一个吉米帽子品牌的避孕套，一个非常可靠的品牌。这一个含有磷光红色染料#5，有一个美味的肉桂面包味道…或者你听说了。",
+    "translation": "这是一个吉米帽子品牌的避孕套，一个非常可靠的品牌。这一个含有磷光红色染料#5，有着美味的肉桂面包味道…或者你听说了。",
     "stage": 1,
     "context": "ID: condom_jimmy_red\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/clutter.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→condom_jimmy_red\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=condom_jimmy_red"
   },
@@ -6100,13 +6100,13 @@
     "key": "346ba621772b938d33af21f6f51f81fe",
     "original": "This is a Jimmy Hats brand condom, a very reliable brand. This one contains phosphorous green dye #2 and is slathered in spermicidal lubricant for added protection.",
     "translation": "这是一个吉米帽子品牌的避孕套，一个非常可靠的品牌。这种含有磷绿染料#2，涂上杀精润滑剂以增加保护。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: condom_jimmy_green\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/clutter.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→condom_jimmy_green\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=condom_jimmy_green"
   },
   {
     "key": "9e5f077d9fe9a21b737160bc0fed7220",
     "original": "This is a Jimmy Hats brand condom, a very reliable brand. This one is ribbed for her pleasure.",
-    "translation": "这是一个吉米帽子品牌的避孕套，一个非常可靠的品牌。这一个是为了取悦她。",
+    "translation": "这是一个吉米帽子品牌的避孕套，一个非常可靠的品牌。这款是女用避孕套。",
     "stage": 1,
     "context": "ID: condom_jimmy_blue\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/clutter.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→condom_jimmy_blue\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=condom_jimmy_blue"
   },
@@ -6589,8 +6589,8 @@
   {
     "key": "7acee43456fd36dbfb1fb38a42e03be7",
     "original": "You are make yourself harder to hit by bobbing and weaving as you move.\\n\\n+1.0 Dodge skill.\\nLasts for 1 turns.  Stacks 2 times.",
-    "translation": "你通过反复移动来变得更加难以击中。\\n\\n闪避技能 +1。\\n持续 1 回合，可叠加 2 次。",
-    "stage": 5,
+    "translation": "你通过反复移动来变得更加难以击中。\\n\\n闪避技能+1。\\n持续 1 回合，可叠加 2 次。",
+    "stage": 3,
     "context": "ID: style_boxing_newreno\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→martial_art→style_boxing_newreno\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_boxing_newreno"
   },
   {
@@ -7016,8 +7016,8 @@
   {
     "key": "8624dc954279e220592fa504f23efac0",
     "original": "alien sheet metal",
-    "translation": "异形金属板",
-    "stage": 1,
+    "translation": "外星合金板",
+    "stage": 3,
     "context": "ID: zetan_sheet\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/Alien Stuff (Delete if you don't like it)/scraps.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→zetan_sheet\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=zetan_sheet"
   },
   {
@@ -7037,7 +7037,7 @@
   {
     "key": "1183b6c800583eb0af629ed43bf8decf",
     "original": "antifungal ant",
-    "translation": "抗真菌剂",
+    "translation": "抗真菌蚁",
     "stage": 1,
     "context": "ID: mon_ant_antifungal\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/FEV Experimentation/Antifungal Ants/antifungal_ants.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_ant_antifungal\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_ant_antifungal"
   },
@@ -7087,14 +7087,14 @@
     "key": "66e370d9670b454134b26ba3f8a720e6",
     "original": "atomic radio",
     "translation": "原子无线电",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: radio_atomic\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→radio_atomic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=radio_atomic"
   },
   {
     "key": "e97554d8ab022562ae06b68654ec8200",
     "original": "atomic television",
     "translation": "原子电视",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: television_atomic\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/vehicle_parts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→television_atomic\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=television_atomic"
   },
   {
@@ -7170,64 +7170,64 @@
   {
     "key": "f9084082585e204cf21bd473ee089eb3",
     "original": "bolt action mechanism",
-    "translation": "霰弹作用机构",
-    "stage": 1,
+    "translation": "栓动机构",
+    "stage": 3,
     "context": "ID: mechanism_homemade_bolt\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_bolt\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_bolt"
   },
   {
     "key": "66396688f9781972f699f014650753b6",
     "original": "bolt-action .223 rifle",
-    "translation": "霰弹作用.223口径 步枪",
+    "translation": "栓动式.223步枪",
     "stage": 3,
     "context": "ID: rifle_bolt_223\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_223"
   },
   {
     "key": "2854df6c83908e91ea408566554fa933",
     "original": "bolt-action .223 rifles",
-    "translation": "霰弹作用.223口径 步枪",
+    "translation": "栓动式.223步枪",
     "stage": 3,
     "context": "ID: rifle_bolt_223\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_223\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_223"
   },
   {
     "key": "c6b8fbb88f2c2ddd6f49214fe3a34471",
     "original": "bolt-action .308 rifle",
-    "translation": "308步枪",
-    "stage": 1,
+    "translation": "栓动式.308步枪",
+    "stage": 3,
     "context": "ID: rifle_bolt_308\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_308\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_308"
   },
   {
     "key": "7594bc813cdc29ab437ddcbf575a6564",
     "original": "bolt-action .308 rifles",
-    "translation": "霰弹作用。308步枪",
-    "stage": 1,
+    "translation": "栓动式.308步枪",
+    "stage": 3,
     "context": "ID: rifle_bolt_308\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_308\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_308"
   },
   {
     "key": "e62508e55c69be473452b094b40bf633",
     "original": "bolt-action .50 rifle",
-    "translation": "50来复枪",
-    "stage": 1,
+    "translation": "栓动式.50步枪",
+    "stage": 3,
     "context": "ID: rifle_bolt_50\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_50"
   },
   {
     "key": "eab98802a94350f2021e15ab89964479",
     "original": "bolt-action .50 rifles",
-    "translation": "50支步枪",
-    "stage": 1,
+    "translation": "栓动式.50步枪",
+    "stage": 3,
     "context": "ID: rifle_bolt_50\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_50\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_50"
   },
   {
     "key": "4bdfa8be7f947674e7796a53a63b3946",
     "original": "bolt-action 7.62 rifle",
-    "translation": "霰弹作用7.62步枪",
-    "stage": 1,
+    "translation": "栓动式7.62步枪",
+    "stage": 3,
     "context": "ID: rifle_bolt_762\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_762\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_762"
   },
   {
     "key": "9e991839a2eafd3b4a8cda4287b0c4a0",
     "original": "bolt-action 7.62 rifles",
-    "translation": "霰弹作用7.62步枪",
-    "stage": 1,
+    "translation": "栓动式7.62步枪",
+    "stage": 3,
     "context": "ID: rifle_bolt_762\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/rifle.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→rifle_bolt_762\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rifle_bolt_762"
   },
   {
@@ -7248,28 +7248,28 @@
     "key": "7e3fed5b16b9b4cc2837272a6d5aec11",
     "original": "bottlecaps",
     "translation": "瓶盖",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: cap_bottle\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/clutter.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→cap_bottle\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cap_bottle"
   },
   {
     "key": "ef05b830018f7bfe409d900e1a0173c2",
     "original": "boxing gloves",
     "translation": "拳击手套",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: gloves_boxing\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→gloves_boxing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gloves_boxing"
   },
   {
     "key": "8165ced21337160b6861d39ac92fe1e6",
     "original": "broken Chef Protectron",
-    "translation": "坏厨师保护龙",
-    "stage": 1,
+    "translation": "主厨安保机器人（损坏）",
+    "stage": 3,
     "context": "ID: broken_protectron_takahashi\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/broken_bots.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→broken_protectron_takahashi\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_protectron_takahashi"
   },
   {
     "key": "e53b4b95665fe081b287260a7e19d262",
     "original": "broken Construction Protectron",
-    "translation": "破损的建筑防护罩",
-    "stage": 1,
+    "translation": "建筑安保机器人（损坏）",
+    "stage": 3,
     "context": "ID: broken_protectron_construction\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/broken_bots.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→broken_protectron_construction\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_protectron_construction"
   },
   {
@@ -7282,15 +7282,15 @@
   {
     "key": "61e610554e63c0a7a0999748a7ea3149",
     "original": "broken Fire Protectron",
-    "translation": "破损的防火装置",
-    "stage": 1,
+    "translation": "消防保卫机器人（损坏）",
+    "stage": 3,
     "context": "ID: broken_protectron_fire\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/broken_bots.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→broken_protectron_fire\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_protectron_fire"
   },
   {
     "key": "54e07c58520d40008184629ac0845498",
     "original": "broken Protectron",
-    "translation": "坏掉的保卫机器人",
-    "stage": 3,
+    "translation": "保卫机器人（损坏）",
+    "stage": 5,
     "context": "ID: broken_protectron\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/broken_bots.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→broken_protectron\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_protectron"
   },
   {
@@ -7303,15 +7303,15 @@
   {
     "key": "116d8922e2267236d07f03ae57fd637f",
     "original": "broken Protectron Subway Steward",
-    "translation": "地铁管家",
-    "stage": 1,
+    "translation": "地铁安保机器人（损坏）",
+    "stage": 3,
     "context": "ID: broken_protectron_subway\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/broken_bots.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→broken_protectron_subway\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_protectron_subway"
   },
   {
     "key": "2f8d00c7d73b4f1b3855689fa8b2b721",
     "original": "broken Protectron?",
-    "translation": "坏了的Protectron？",
-    "stage": 1,
+    "translation": "保卫机器人?（损坏）",
+    "stage": 3,
     "context": "ID: broken_protectron_fisto\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/broken_bots.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→broken_protectron_fisto\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=broken_protectron_fisto"
   },
   {
@@ -7324,8 +7324,8 @@
   {
     "key": "7e4f7b77869b0cc046737a362ed58e78",
     "original": "cannon casing",
-    "translation": "炮筒",
-    "stage": 1,
+    "translation": "炮弹弹壳",
+    "stage": 3,
     "context": "ID: cannon_casing\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/casing.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→cannon_casing\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cannon_casing"
   },
   {
@@ -7345,8 +7345,8 @@
   {
     "key": "498265201b1810157d85acfdd1e47361",
     "original": "cargo freezer",
-    "translation": "货物冷冻柜",
-    "stage": 1,
+    "translation": "货物冰柜",
+    "stage": 3,
     "context": "ID: minifreezer_cargo\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→vehicle_part→minifreezer_cargo\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=minifreezer_cargo"
   },
   {
@@ -7359,15 +7359,15 @@
   {
     "key": "045f5aa6491333134f167e3d75072ea5",
     "original": "cave rat",
-    "translation": "洞穴老鼠",
-    "stage": 1,
+    "translation": "穴居鼠",
+    "stage": 3,
     "context": "ID: mon_cave_rat\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/monsters/rats.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_cave_rat\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_cave_rat"
   },
   {
     "key": "7809fe750a924e24e572427efaf09626",
     "original": "chinese jumpsuit",
     "translation": "中式连身衣",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: jumpsuit_china\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/armor.json\n类型为 ARMOR\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→ARMOR→jumpsuit_china\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=jumpsuit_china"
   },
   {
@@ -7450,15 +7450,15 @@
   {
     "key": "407067db5437be16340a4aea6f2c4fea",
     "original": "crank action mechanism",
-    "translation": "曲柄机构",
-    "stage": 1,
+    "translation": "曲柄构件",
+    "stage": 3,
     "context": "ID: mechanism_homemade_crank\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_crank\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_crank"
   },
   {
     "key": "0cca47a3a87bc6de00eff82f5ecd887b",
     "original": "crashed UFO",
-    "translation": "坠毁的不明飞行物",
-    "stage": 1,
+    "translation": "坠毁的UFO",
+    "stage": 3,
     "context": "ID: ufo_zetan\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/Alien Stuff (Delete if you don't like it)/zetan_craft.json\n类型为 vehicle\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→vehicle→ufo_zetan\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=ufo_zetan"
   },
   {
@@ -7485,14 +7485,14 @@
   {
     "key": "9b0a2130901de351c7d2962a0c7d3ace",
     "original": "deck of 'tragic' cards",
-    "translation": "一副“悲剧”牌",
+    "translation": "“悲剧”牌",
     "stage": 1,
     "context": "ID: deck_of_tragic_cards\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/clutter.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→deck_of_tragic_cards\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=deck_of_tragic_cards"
   },
   {
     "key": "9cae8b6ce845cfa1424f501148d78c24",
     "original": "decks of 'tragic' cards",
-    "translation": "一副副“悲剧”牌",
+    "translation": "“悲剧”牌",
     "stage": 1,
     "context": "ID: deck_of_tragic_cards\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/clutter.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→deck_of_tragic_cards\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=deck_of_tragic_cards"
   },
@@ -7506,8 +7506,8 @@
   {
     "key": "9c5c80ab39493bc8f792511c52880a76",
     "original": "deluxe survival omelette",
-    "translation": "豪华生存煎蛋",
-    "stage": 1,
+    "translation": "豪华生存蛋卷",
+    "stage": 3,
     "context": "ID: omelette_survival_deluxe\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→omelette_survival_deluxe\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=omelette_survival_deluxe"
   },
   {
@@ -7527,8 +7527,8 @@
   {
     "key": "13bd5d36c435d85dbb478452da9f6b1a",
     "original": "double-barreled 140mm tank gun",
-    "translation": "双管140毫米坦克炮",
-    "stage": 1,
+    "translation": "140mm 双管坦克炮",
+    "stage": 3,
     "context": "ID: mounted_tank_140mm\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/vehicle_parts.json\n类型为 vehicle_part\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→vehicle_part→mounted_tank_140mm\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mounted_tank_140mm"
   },
   {
@@ -7576,8 +7576,8 @@
   {
     "key": "2e0925367dcda7fae81ea172f3ed8edf",
     "original": "eye of gecko",
-    "translation": "壁虎之眼",
-    "stage": 1,
+    "translation": "壁虎眼",
+    "stage": 3,
     "context": "ID: eye_gecko\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/mutant_meats.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→eye_gecko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=eye_gecko"
   },
   {
@@ -7612,14 +7612,14 @@
     "key": "66f1e43582d558e2aa46f45087c457ad",
     "original": "firework launcher",
     "translation": "烟花发射器",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: surv_firework_launcher\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/launcher.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→surv_firework_launcher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_firework_launcher"
   },
   {
     "key": "21f8ffeb9b9c7f834749a076fda2288a",
     "original": "firework launchers",
     "translation": "烟花发射器",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: surv_firework_launcher\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/guns/launcher.json\n类型为 GUN\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GUN→surv_firework_launcher\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=surv_firework_launcher"
   },
   {
@@ -7639,15 +7639,15 @@
   {
     "key": "5482c822ee095ab103eaffe7d58062b4",
     "original": "fruitless semi-vegan survival omelette",
-    "translation": "无果半素食生存煎蛋",
-    "stage": 1,
+    "translation": "无果半素食生存蛋卷",
+    "stage": 3,
     "context": "ID: omelette_survival_vegan_nofruit\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→omelette_survival_vegan_nofruit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=omelette_survival_vegan_nofruit"
   },
   {
     "key": "9dba68395f850a0e2255035aa0cab35e",
     "original": "fruitless survival omelette",
-    "translation": "无果生存煎蛋",
-    "stage": 1,
+    "translation": "无果生存蛋卷",
+    "stage": 3,
     "context": "ID: omelette_survival_fruitless\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→omelette_survival_fruitless\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=omelette_survival_fruitless"
   },
   {
@@ -8269,7 +8269,7 @@
   {
     "key": "02a902fe74bb92a9d31b91b6c9443bbc",
     "original": "lever action mechanism",
-    "translation": "杠杆机构",
+    "translation": "杠杆构件",
     "stage": 3,
     "context": "ID: mechanism_homemade_lever\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_lever\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_lever"
   },
@@ -8780,8 +8780,8 @@
   {
     "key": "719d1363e58d1b1318570257812510cc",
     "original": "plain gecko steak",
-    "translation": "普通壁虎牛排",
-    "stage": 1,
+    "translation": "普通壁虎肉排",
+    "stage": 3,
     "context": "ID: meat_gecko_cooked\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/mutant_meats.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→meat_gecko_cooked\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meat_gecko_cooked"
   },
   {
@@ -8850,7 +8850,7 @@
   {
     "key": "4c10ccbc5c7149640656d921dbe3d38c",
     "original": "pump action mechanism",
-    "translation": "泵动机构",
+    "translation": "泵动构件",
     "stage": 3,
     "context": "ID: mechanism_homemade_pump\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→mechanism_homemade_pump\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mechanism_homemade_pump"
   },
@@ -8899,7 +8899,7 @@
   {
     "key": "a2da74a0d50d16a7e547302da13d18b6",
     "original": "punt slug",
-    "translation": "平底船",
+    "translation": "平底船独头弹",
     "stage": 1,
     "context": "ID: punt_shot_slug\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/ammo/shotgun.json\n类型为 AMMO\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→AMMO→punt_shot_slug\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=punt_shot_slug"
   },
@@ -8913,15 +8913,15 @@
   {
     "key": "2c4b752a8355e92164e0967858739278",
     "original": "radscorpion",
-    "translation": "蝎子",
-    "stage": 1,
+    "translation": "辐射蝎",
+    "stage": 3,
     "context": "ID: mon_radscorpion\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/monsters/arthropods.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→MONSTER→mon_radscorpion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_radscorpion"
   },
   {
     "key": "df84f05ec001ab52104e373a2a5c5622",
     "original": "radscorpion egg",
-    "translation": "蝎子蛋",
-    "stage": 1,
+    "translation": "辐射蝎蛋",
+    "stage": 3,
     "context": "ID: egg_radscorpion\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/egg.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→egg_radscorpion\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=egg_radscorpion"
   },
   {
@@ -9047,7 +9047,7 @@
     "key": "0260aa3fbb4568c7a7427178696a1d50",
     "original": "revolver cylinder",
     "translation": "左轮弹仓",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: cylinder_revolver_part\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→cylinder_revolver_part\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cylinder_revolver_part"
   },
   {
@@ -9082,7 +9082,7 @@
     "key": "fc8c5e3b63bf54bb99f80ad79a4dea74",
     "original": "serrated spear",
     "translation": "锯齿矛",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: spear_fallout\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/melee.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→spear_fallout\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=spear_fallout"
   },
   {
@@ -9284,7 +9284,7 @@
   {
     "key": "18e5d4e32614887d321f4437df843df0",
     "original": "wooden handmade grip",
-    "translation": "自制木枪柄",
+    "translation": "自制木握把",
     "stage": 3,
     "context": "ID: wooden_grip_handmade\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Gunsmith's_Guru/items/gunparts.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→wooden_grip_handmade\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=wooden_grip_handmade"
   },
@@ -9663,8 +9663,8 @@
   {
     "key": "31ff09fc85405ddc3b7591a862ac98c1",
     "original": "You plan your attack far in advance relying on your intution instead of your speed to strike true. Intelligence increases Accuracy instead of Dexterity.\\n\\nAccuracy increased by 25%% of Intelligence but decreased by 25%% of Dexterity. /n/n +1.5x Bashing",
-    "translation": "你通过直觉而非速度提前计划好攻击以正中目标。智力将取代敏捷决定你的命中率。\\n\\n命中按智力的 25% 增加，同时按敏捷的 25%减少。",
-    "stage": 1,
+    "translation": "你通过直觉而非速度提前计划好攻击以正中目标。\\n\\n命中按智力的 25% 增加，同时按敏捷的 25% 减少。\\n钝击伤害按智力的 75% 增加，同时按力量的 75% 减少。",
+    "stage": 3,
     "context": "ID: style_chosenone\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→martial_art→style_chosenone\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_chosenone"
   },
   {
@@ -9803,8 +9803,8 @@
   {
     "key": "69cb7d75e274dceea3288fd8183a83e0",
     "original": "A resealable glass bottle, used to store sunset sarsaparilla.",
-    "translation": "玻璃瓶，用于储存日落沙拉。可重新密封",
-    "stage": 1,
+    "translation": "玻璃瓶，用于储存日落沙士。可被重新密封",
+    "stage": 3,
     "context": "ID: bottle_glass_sarsaparilla\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/containers.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→bottle_glass_sarsaparilla\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bottle_glass_sarsaparilla"
   },
   {
@@ -10482,8 +10482,8 @@
   {
     "key": "b30eb547eff50284a4e853315f91a689",
     "original": "You drink some Nuka-Cola Victory.",
-    "translation": "你喝了一些胜利核子可乐。",
-    "stage": 1,
+    "translation": "你喝了些核子胜利可乐。",
+    "stage": 3,
     "context": "ID: cola_nuka_victory\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestibles.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→cola_nuka_victory\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=cola_nuka_victory"
   },
   {
@@ -10539,21 +10539,21 @@
     "key": "99a6b201a9e03f97182537068c0c6616",
     "original": "You take some Rad-X.",
     "translation": "你服下了一些抗辐宁。",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: rad_x\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/med.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→rad_x\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=rad_x"
   },
   {
     "key": "45aa7fd794850fd0af45a89fb5481caa",
     "original": "carrot flower",
     "translation": "胡萝卜花",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: carrot_flower\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/other.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→carrot_flower\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=carrot_flower"
   },
   {
     "key": "ca6d23a509af2436781186e90cc3121f",
     "original": "carrot flowers",
     "translation": "胡萝卜花",
-    "stage": 1,
+    "stage": 3,
     "context": "ID: carrot_flower\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/comestible/other.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→COMESTIBLE→carrot_flower\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=carrot_flower"
   },
   {
@@ -10573,8 +10573,8 @@
   {
     "key": "8ab3b3a20e3231deeeac788329e3a096",
     "original": "sunset sarsaparilla bottle",
-    "translation": "夕阳沙士瓶",
-    "stage": 1,
+    "translation": "日落沙士瓶",
+    "stage": 3,
     "context": "ID: bottle_glass_sarsaparilla\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/Items/containers.json\n类型为 GENERIC\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→GENERIC→bottle_glass_sarsaparilla\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bottle_glass_sarsaparilla"
   },
   {
@@ -10608,8 +10608,8 @@
   {
     "key": "5630f6b25f5c2f2da6f4ac5c5ba9bb8c",
     "original": "You have baited the attack, time for the kill.\\n\\nx3 damage for a turn.",
-    "translation": "你已经诱敌深入，是时候大开杀戒了。\\n\\n一回合 x3 伤害。",
-    "stage": 1,
+    "translation": "你已经诱敌深入，是时候大开杀戒了。\\n\\n一回合内，伤害×3 。",
+    "stage": 3,
     "context": "ID: style_gecko\n位于 /Kenan-Structured-Modpack/Fallout_CDDA/martialarts.json\n类型为 martial_art\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Fallout_CDDA→martial_art→style_gecko\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=style_gecko"
   },
   {

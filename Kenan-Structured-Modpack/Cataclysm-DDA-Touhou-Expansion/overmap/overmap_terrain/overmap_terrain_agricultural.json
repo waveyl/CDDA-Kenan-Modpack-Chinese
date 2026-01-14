@@ -60,7 +60,7 @@
     ],
     "copy-from": "generic_rural_building",
     "name": "farm field",
-    "see_cost": 2,
+    "see_cost": "none",
     "extras": "agricultural",
     "looks_like": "farm_5",
     "spawns": { "group": "GROUP_FOREST_and_YOUKAI_SCARECROW", "population": [ 0, 2 ], "chance": 16 }
@@ -71,7 +71,7 @@
     "copy-from": "generic_rural_building",
     "name": "hay field",
     "color": "brown",
-    "see_cost": 2,
+    "see_cost": "none",
     "extras": "agricultural",
     "looks_like": "ranch_camp_76",
     "spawns": { "group": "GROUP_FOREST_and_YOUKAI_SCARECROW", "population": [ 0, 2 ], "chance": 16 }

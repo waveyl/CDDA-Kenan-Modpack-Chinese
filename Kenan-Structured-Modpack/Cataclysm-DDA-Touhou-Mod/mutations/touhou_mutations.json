@@ -17,14 +17,39 @@
       { "part": "ARM_R", "neutral": 3 },
       { "part": "TORSO", "neutral": 3 }
     ],
-    "enchantments": [
-      {
-        "condition": "ALWAYS",
-        "values": [ { "value": "PAIN", "multiply": -0.16 }, { "value": "STAMINA_REGEN_MOD", "add": 0.25 } ]
-      }
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "STAMINA_REGEN_MOD", "add": 0.25 }
+        ],
+        "mutations": [ "CELESTIAL_CONSTITUTION" ]
+      } 
     ],
-    "cancels": [ "FLIMSY", "FLIMSY2", "FLIMSY3", "PAINRESIST", "THICKSKIN", "THINSKIN", "TOUGH", "TOUGH2", "TOUGH3" ],
-    "//": "Maybe replace the passive pain resist for pain resist/reduction while fighting"
+    "cancels": [ "FLIMSY", "FLIMSY2", "FLIMSY3", "PAINRESIST", "THICKSKIN", "THINSKIN", "TOUGH", "TOUGH2", "TOUGH3" ]
+  },
+  {
+    "id": "CELESTIAL_CONSTITUTION",
+    "type": "mutation",
+    "name": { "str": "Celestial constitution" },
+    "description": "Reduced pain penalties go here instead of the base mutation. Pasive pain reduction at pain_removal_eoc ",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN", "multiply": -0.33 },
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.33 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.33 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.33 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.33 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
+    ]
   },
   {
     "id": "celestial_stance_mut",
@@ -35,23 +60,16 @@
     "player_display": false,
     "purifiable": false,
     "valid": false,
-    "enchantments": [
-      {
-        "condition": "ALWAYS",
-        "values": [ { "value": "KNOCKBACK_RESIST", "add": 100 }, { "value": "KNOCKDOWN_RESIST", "add": 100 } ]
-      }
-    ]
-  },
-  {
-    "id": "damnedrope_strength_mut",
-    "type": "mutation",
-    "name": { "str": "Spider strength (mutation)" },
-    "description": "Grants bonus str for the pull_target spell effect of yamame_damnedrope . Used at yamame_damnedrope_eoc ",
-    "points": 0,
-    "player_display": false,
-    "purifiable": false,
-    "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "STRENGTH", "add": 72 } ] } ]
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "KNOCKBACK_RESIST", "add": 100 },
+          { "value": "KNOCKDOWN_RESIST", "add": 100 } 
+        ] 
+      } 
+    ],
+    "//": "This is handled by tenko_celestial_stance_1_eoc and tenko_celestial_stance_2_eoc "
   },
   {
     "id": "GYOKUTO_SPECIES",
@@ -74,7 +92,8 @@
           { "value": "CARRY_WEIGHT", "multiply": -0.2 },
           { "value": "MOVE_COST", "multiply": -0.1 },
           { "value": "NIGHT_VIS", "multiply": 2 }
-        ]
+        ],
+        "mutations": [ "GYOKUTO_CONSTITUTION" ]
       }
     ],
     "cancels": [
@@ -96,6 +115,28 @@
       "DEFORMED3"
     ],
     "//": "This trait should also grant immunity to mental effects, like the taint and visuals effects"
+  },
+  {
+    "id": "GYOKUTO_CONSTITUTION",
+    "type": "mutation",
+    "name": { "str": "Gyokuto constitution" },
+    "description": "Reduced pain penalties go here instead of the base mutation. Pasive pain reduction at pain_removal_eoc ",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
+    ]
   },
   {
     "id": "GYOKUTO_TAIL",
@@ -135,8 +176,18 @@
     "valid": false,
     "ugliness": 2,
     "visibility": 8,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "CLIMATE_CONTROL_HEAT", "add": 35 } ] } ],
-    "anger_relations": [ [ "GHOST_TOUHOU", -20 ], [ "PHANTOM_TOUHOU", -20 ] ]
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "CLIMATE_CONTROL_HEAT", "add": 15 }
+        ] 
+      } 
+    ],
+    "anger_relations": [ 
+      [ "GHOST_TOUHOU", -20 ], 
+      [ "PHANTOM_TOUHOU", -20 ] 
+    ]
   },
   {
     "id": "HELLRAVEN_SPECIES",
@@ -152,13 +203,16 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "heat", "multiply": -0.66 }
+        ],
         "values": [
           { "value": "INTELLIGENCE", "add": -2 },
           { "value": "MAX_MANA", "add": 200 },
-          { "value": "ARMOR_HEAT", "multiply": -0.66 },
           { "value": "CLIMATE_CONTROL_CHILL", "add": 20 },
           { "value": "MOVE_COST", "multiply": -0.2 },
-          { "value": "WEAKNESS_TO_WATER", "add": 0.06 }
+          { "value": "WEAKNESS_TO_WATER", "add": 0.0166 },
+          { "value": "SWEAT_MULTIPLIER", "multiply": -1 }
         ]
       }
     ]
@@ -167,28 +221,85 @@
     "id": "HERMIT_SPECIES",
     "type": "mutation",
     "name": { "str": "Hermit" },
-    "description": "You're a practicioner of Taoist arts in search of immortality (among other things…).  Uncountable years of training and discipline have allowed you to trascend the mortal realm, although supernatural creatures now see you as an enemy, or better put, an exotic snack.",
+    "description": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training and discipline enabled you to trascend the mortal realm, with the small side effect of being seen as an enemy, or better put, an exotic snack by supernatural creatures.",
     "points": 0,
-    "player_display": false,
     "purifiable": false,
     "valid": false,
     "enchantments": [
       {
         "condition": "ALWAYS",
         "values": [
-          { "value": "CLIMATE_CONTROL_CHILL", "add": 50 },
-          { "value": "CLIMATE_CONTROL_HEAT", "add": 50 },
+          { "value": "CLIMATE_CONTROL_CHILL", "add": 20 },
+          { "value": "CLIMATE_CONTROL_HEAT", "add": 20 },
           { "value": "METABOLISM", "multiply": -0.66 }
-        ]
+        ],
+        "mutations": [ "HERMIT_CONSTITUTION" ]
       }
     ],
     "anger_relations": [
       [ "ONI_TOUHOU", 20 ],
+      [ "TSUKUMOGAMI_TOUHOU", 20 ],
+      [ "YOUKAI_BEAST_TOUHOU", 20 ],
       [ "YOUKAI_FEMALE_TOUHOU", 20 ],
       [ "YOUKAI_HOSTILE_TOUHOU", 20 ],
       [ "YOUKAI_NEUTRAL_TOUHOU", 20 ],
       [ "YOUKAI_PSEUDO_TOUHOU", 20 ],
       [ "YOUKAI_SKINWALKER_TOUHOU", 20 ]
+    ]
+  },
+  {
+    "id": "WICKED_HERMIT",
+    "type": "mutation",
+    "name": { "str": "Wicked hermit" },
+    "description": "You're a practicioner of Taoist arts in search of immortality (among other goals…).  Uncountable years of training enabled you to trascend the mortal realm… although Heaven hath rejected you due your egotistical and uncaring nature.  Supernatural creatures see you as an enemy, or better put, an exotic snack.",
+    "points": 0,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "CLIMATE_CONTROL_CHILL", "add": 20 },
+          { "value": "CLIMATE_CONTROL_HEAT", "add": 20 },
+          { "value": "METABOLISM", "multiply": -0.66 }
+        ],
+        "mutations": [ "HERMIT_CONSTITUTION", "SPIRITUAL", "LIAR" ]
+      }
+    ],
+    "anger_relations": [
+      [ "ONI_TOUHOU", 20 ],
+      [ "TSUKUMOGAMI_TOUHOU", 20 ],
+      [ "YOUKAI_BEAST_TOUHOU", 20 ],
+      [ "YOUKAI_FEMALE_TOUHOU", 20 ],
+      [ "YOUKAI_HOSTILE_TOUHOU", 20 ],
+      [ "YOUKAI_NEUTRAL_TOUHOU", 20 ],
+      [ "YOUKAI_PSEUDO_TOUHOU", 20 ],
+      [ "YOUKAI_SKINWALKER_TOUHOU", 20 ]
+    ],
+    "flags": [ "PSYCHOPATH" ],
+    "//": "Not sure if LIAR works from flags, so it's set above"
+  },
+  {
+    "id": "HERMIT_CONSTITUTION",
+    "type": "mutation",
+    "name": { "str": "Hermit constitution" },
+    "description": "Reduced pain penalties go here instead of the base mutation. Pasive pain reduction at pain_removal_eoc ",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
     ]
   },
   {
@@ -201,19 +312,65 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [ { "values": [ { "value": "MENDING_MODIFIER", "multiply": 1 }, { "value": "REGEN_HP_AWAKE", "multiply": 2 } ] } ],
-    "cancels": [
-      "ASTHMA",
-      "CHAOTIC_BAD",
-      "UNSTABLE",
-      "CHEMIMBALANCE",
-      "DISIMMUNE",
-      "DISRESISTANT",
-      "EATPOISON",
-      "INFIMMUNE",
-      "INFRESIST"
+    "enchantments": [
+      {
+        "values": [
+          { "value": "MENDING_MODIFIER", "multiply": 1 },
+          { "value": "REGEN_HP_AWAKE", "multiply": 2 }
+        ]
+      }
+    ],
+    "cancels": [ 
+      "ASTHMA", 
+      "CHAOTIC_BAD", 
+      "UNSTABLE", 
+      "CHEMIMBALANCE", 
+      "DISIMMUNE", 
+      "DISRESISTANT", 
+      "EATPOISON", 
+      "INFIMMUNE", 
+      "INFRESIST" 
     ],
     "flags": [ "BIO_IMMUNE", "INFECTION_IMMUNE", "NO_DISEASE", "NO_RADIATION", "PARAIMMUNE", "POISRESIST" ]
+  },
+  {
+    "id": "HUMAN_SPECIES",
+    "type": "mutation",
+    "name": { "str": "Human" },
+    "description": "You're a human.  Not particularly remarkable.",
+    "points": 0,
+    "profession": true,
+    "purifiable": false,
+    "starting_trait": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "mutations": [ "HUMAN_CONSTITUTION" ]
+      } 
+    ]
+  },
+  {
+    "id": "HUMAN_CONSTITUTION",
+    "type": "mutation",
+    "name": { "str": "Human constitution" },
+    "description": "Reduced pain penalties go here instead of the base mutation. Pasive pain reduction at pain_removal_eoc ",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.25 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
+    ]
   },
   {
     "id": "KAPPA_SPECIES",
@@ -242,9 +399,11 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "cold", "multiply": -0.33 },
+          { "type": "heat", "multiply": 0.33 }
+        ],
         "values": [
-          { "value": "ARMOR_COLD", "multiply": -0.33 },
-          { "value": "ARMOR_HEAT", "multiply": 0.33 },
           { "value": "CRAFTING_SPEED_MULTIPLIER", "multiply": 0.2 },
           { "value": "MOVECOST_SWIM_MOD", "multiply": -0.33 },
           { "value": "SOCIAL_INTIMIDATE", "add": -4 },
@@ -272,12 +431,15 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "cold", "multiply": 0.33 },
+          { "type": "heat", "multiply": -0.33 }
+        ],
         "values": [
-          { "value": "ARMOR_COLD", "multiply": 0.33 },
-          { "value": "ARMOR_HEAT", "multiply": -0.33 },
           { "value": "CLIMATE_CONTROL_CHILL", "add": 20 },
           { "value": "FALL_DAMAGE", "multiply": -0.33 },
-          { "value": "WEAKNESS_TO_WATER", "add": 0.06 }
+          { "value": "WEAKNESS_TO_WATER", "add": 0.0166 },
+          { "value": "SWEAT_MULTIPLIER", "multiply": -1 }
         ]
       }
     ],
@@ -299,9 +461,11 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "cold", "multiply": 0.33 },
+          { "type": "heat", "multiply": -0.33 }
+        ],
         "values": [
-          { "value": "ARMOR_COLD", "multiply": 0.33 },
-          { "value": "ARMOR_HEAT", "multiply": -0.33 },
           { "value": "CARRY_WEIGHT", "multiply": -0.66 },
           { "value": "CLIMATE_CONTROL_CHILL", "add": 20 },
           { "value": "FALL_DAMAGE", "multiply": -0.66 },
@@ -311,13 +475,16 @@
           { "value": "MOVE_COST", "multiply": -0.1 },
           { "value": "SOCIAL_PERSUADE", "add": -4 },
           { "value": "STAMINA_REGEN_MOD", "add": 0.2 },
-          { "value": "WEAKNESS_TO_WATER", "add": 0.12 }
+          { "value": "WEAKNESS_TO_WATER", "add": 0.0333 },
+          { "value": "SWEAT_MULTIPLIER", "multiply": -1 }
         ]
       },
-      {
-        "condition": { "not": "u_has_weapon" },
-        "values": [ { "value": "ITEM_DAMAGE_CUT", "add": { "math": [ "rng( 2, 4 )" ] } } ]
-      }
+      { 
+        "condition": { "not": "u_has_weapon" }, 
+        "melee_damage_bonus": [ 
+          { "type": "cut", "add": { "math": [ "rng( 2, 4 )" ] } } 
+        ]
+      } 
     ],
     "transform": { "target": "KASHA_SPECIES", "active": false, "moves": 100 },
     "extend": { "flags": [ "SMALL" ] }
@@ -358,26 +525,66 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "vitamins_absorb_multi": [
-      [ "cured_meat", [ [ "calcium", 0.5 ], [ "iron", 0.5 ], [ "vitA", 0.5 ], [ "vitB", 0.5 ], [ "vitC", 0.5 ] ] ],
-      [ "flesh", [ [ "calcium", 0.5 ], [ "iron", 0.5 ], [ "vitA", 0.5 ], [ "vitB", 0.5 ], [ "vitC", 0.5 ] ] ],
+    "triggers": [
       [
-        "processed_food",
-        [ [ "calcium", 0.85 ], [ "iron", 0.85 ], [ "vitA", 0.85 ], [ "vitB", 0.85 ], [ "vitC", 0.85 ] ]
-      ],
-      [ "veggy", [ [ "calcium", 0.9 ], [ "iron", 0.9 ], [ "vitA", 0.9 ], [ "vitB", 0.9 ], [ "vitC", 0.9 ] ] ]
-    ]
+        {
+          "condition": {
+            "and": [
+              { "u_has_trait": "LUNARDIET" },
+              { "math": [ "u_vitamin('impurity')", ">", "504" ] }
+            ]
+          }
+        }
+      ]
+    ],
+    "vitamins_absorb_multi": [
+      [ "cured_meat", [ [ "calcium", 0.1 ], [ "iron", 0.1 ], [ "vitA", 0.1 ], [ "vitB", 0.1 ], [ "vitC", 0.1 ] ] ],
+      [ "flesh", [ [ "calcium", 0.1 ], [ "iron", 0.1 ], [ "vitA", 0.1 ], [ "vitB", 0.1 ], [ "vitC", 0.1 ] ] ],
+      [ "processed_food", [ [ "calcium", 0.65 ], [ "iron", 0.65 ], [ "vitA", 0.65 ], [ "vitB", 0.65 ], [ "vitC", 0.65 ] ] ],
+      [ "veggy", [ [ "calcium", 0.8 ], [ "iron", 0.8 ], [ "vitA", 0.8 ], [ "vitB", 0.8 ], [ "vitC", 0.8 ] ] ]
+    ],
+    "transform": { "target": "IMPURE" }
+  },
+  {
+    "id": "IMPURE",
+    "type": "mutation",
+    "name": { "str": "Impure" },
+    "description": "Well, that's it.  You've gained impurity.  The good news is that Earthly food doesn't feel as… empty anymore.",
+    "points": 0,
+    "profession": false,
+    "purifiable": false,
+    "starting_trait": false,
+    "valid": true,
+    "triggers": [
+      [
+        {
+          "condition": {
+            "and": [
+              { "u_has_trait": "IMPURE" },
+              { "math": [ "u_vitamin('impurity')", "<=", "503" ] }
+            ]
+          }
+        }
+      ]
+    ],
+    "transform": { "target": "LUNARDIET" }
   },
   {
     "id": "MENREIKI_SPECIES",
     "type": "mutation",
     "name": { "str": "Menreiki" },
     "points": 0,
-    "description": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your inner self, which is in turn compossed of 66 Noh masks turned youkai.",
+    "description": "You are a Menreiki, a subspecies of Tsukumogami.  Your humanoid form is the subconcious proyection of your self, which is in turn compossed of 66 Noh masks turned youkai.",
     "profession": false,
     "purifiable": false,
     "starting_trait": false,
-    "valid": true
+    "valid": true,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "mutations": [ "YOUKAI_CONSTITUTION" ]
+      }
+    ]
   },
   {
     "id": "MYSTERIOUS",
@@ -401,8 +608,8 @@
     "starting_trait": false,
     "valid": false,
     "visibility": 2,
-    "//": "I need to set the penalty (and bonus) of eating human flesh to 0",
-    "cancels": [ "PSYCHOPATH", "PACIFIST" ]
+    "cancels": [ "PSYCHOPATH", "PACIFIST" ],
+    "//": "I need to set the penalty (and bonus) of eating human flesh to 0"
   },
   {
     "id": "OARFISH_SPECIES",
@@ -414,6 +621,12 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "mutations": [ "YOUKAI_CONSTITUTION" ]
+      }
+    ],
     "flags": [ "ELECTRIC_IMMUNE" ]
   },
   {
@@ -455,7 +668,12 @@
     "starting_trait": false,
     "valid": false,
     "active": true,
-    "enchantments": [ { "condition": "ALWAYS", "mutations": [ "WEB_WALKER" ] } ],
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "mutations": [ "WEB_WALKER" ]
+      }
+    ],
     "transform": { "target": "TSUCHIGUMO_SPECIES_active", "active": false, "moves": 100 },
     "//": "This needs some sort of small bonus over the active form below, so she has a reason to switch forms at all"
   },
@@ -482,7 +700,7 @@
       }
     ],
     "transform": { "target": "TSUCHIGUMO_SPECIES", "active": false, "moves": 100 },
-    "extend": { "flags": [ "CLIMB_NO_LADDER", "LARGE", "WEB_RAPPEL" ] }
+    "extend": { "flags": [ "CLIMB_NO_LADDER", "LARGE" ] }
   },
   {
     "id": "VAMPIRE_SPECIES",
@@ -500,21 +718,24 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "stab", "multiply": 1 }
+        ],
         "values": [
           { "value": "DEXTERITY", "add": 2 },
           { "value": "INTELLIGENCE", "add": 2 },
           { "value": "PERCEPTION", "add": 2 },
           { "value": "STRENGTH", "add": 2 },
-          { "value": "ARMOR_STAB", "multiply": 1 },
           { "value": "MENDING_MODIFIER", "multiply": 1 },
-          { "value": "MOVE_COST", "multiply": -0.2 },
           { "value": "NIGHT_VIS", "multiply": 7 },
           { "value": "REGEN_HP_AWAKE", "multiply": 2 },
           { "value": "SOCIAL_INTIMIDATE", "add": 4 },
           { "value": "SOCIAL_PERSUADE", "add": 4 },
-          { "value": "WEAKNESS_TO_WATER", "add": 0.12 }
+          { "value": "SPEED", "multiply": 0.2 },
+          { "value": "WEAKNESS_TO_WATER", "add": 0.0333 },
+          { "value": "SWEAT_MULTIPLIER", "multiply": -1 }
         ],
-        "mutations": [ "CANNIBAL", "SUNBURN" ]
+        "mutations": [ "YOUKAI_CONSTITUTION" ]
       }
     ],
     "cancels": [
@@ -531,51 +752,29 @@
       "VEGETARIAN",
       "HERBIVORE"
     ],
+    "flags": [ "CANNIBAL", "HEMOVORE", "SUNBURN" ],
     "//": "Health regen should be double or triple that by 'digesting' human blood, and reduce to zero at tier 4 blood hunger",
     "//2": "I need to set the penalty (and bonus) of eating human flesh to 0"
   },
   {
-    "id": "VAMPIRE_BAT_REMI",
+    "id": "YAMAME_COUNTER_MUT",
     "type": "mutation",
-    "name": { "str": "Vampire shapeshifting (human)" },
-    "description": "Your nature allows you to shapeshift, although almost completely as your bat wings are still visible.  Currently, you're posing as a human.  Activate the mutation to switch to youkai form.",
+    "name": { "str": "" },
+    "description": "",
     "points": 0,
-    "profession": true,
+    "player_display": false,
     "purifiable": false,
-    "starting_trait": false,
     "valid": false,
-    "active": true,
-    "activated_eocs": [ "WINGS_BAT_REMI_activate" ],
-    "ugliness": 1,
-    "visibility": 8,
-    "transform": { "target": "VAMPIRE_BAT_REMI_active", "active": false, "moves": 100 },
-    "cancels": [ "WINGS_BAT", "WINGS_BIRD", "WINGS_BUTTERFLY", "WINGS_INSECT", "WINGS_STUB" ]
-  },
-  {
-    "id": "VAMPIRE_BAT_REMI_active",
-    "type": "mutation",
-    "name": { "str": "Vampire shapeshifting (bat)" },
-    "copy-from": "VAMPIRE_BAT_REMI",
-    "description": "If nothing else revealed you're a vampire, this will surely do.  You're currently transformed into bat form.  Activate the mutation to switch to human form.",
-    "active": true,
-    "ugliness": 4,
-    "visibility": 6,
-    "encumbrance_always": [ [ "hand_l", 30 ], [ "hand_r", 30 ] ],
-    "override_look": { "id": "mon_bat", "tile_category": "monster" },
-    "enchantments": [
+    "processed_eocs": [ 
       {
-        "condition": "ALWAYS",
-        "ench_effects": [ { "effect": "remi_levitation", "intensity": 1 } ],
-        "values": [
-          { "value": "CARRY_WEIGHT", "multiply": -0.66 },
-          { "value": "FOOTSTEP_NOISE", "multiply": -0.8 },
-          { "value": "MELEE_DAMAGE", "multiply": -0.5 },
-          { "value": "METABOLISM", "multiply": -0.5 }
+        "id": "YAMAME_COUNTER_MUT_eoc",
+        "effect": [
+          { "u_lose_trait": "YAMAME_COUNTER_MUT" },
+          { "run_eocs": [ "yamame_miasmaburst_stored_eoc" ], "time_in_future": "30 s" }
         ]
       }
     ],
-    "transform": { "target": "VAMPIRE_BAT_REMI", "active": false, "moves": 100 },
-    "extend": { "flags": [ "SMALL" ] }
+    "//": "Dummy mutation, used to queue the EOC"
   },
   {
     "id": "YOUKAI_SPECIES",
@@ -588,16 +787,42 @@
     "starting_trait": false,
     "valid": false,
     "visibility": 1,
-    "enchantments": [
-      {
-        "condition": "ALWAYS",
-        "values": [ { "value": "NIGHT_VIS", "multiply": 2 }, { "value": "SOCIAL_INTIMIDATE", "add": 4 } ],
-        "mutations": [ "CANNIBAL" ]
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "NIGHT_VIS", "multiply": 2 },
+          { "value": "SOCIAL_INTIMIDATE", "add": 4 }
+        ],
+        "mutations": [ "YOUKAI_CONSTITUTION" ]
       }
     ],
     "cancels": [ "MORE_PAIN", "MORE_PAIN2", "MORE_PAIN3", "PACIFIST", "PAINRESIST", "PSYCHOPATH", "VEGETARIAN", "HERBIVORE" ],
+    "flags": [ "CANNIBAL" ],
     "//": "I need to set the penalty (and bonus) of eating human flesh to 0",
     "//2": "There are peaceful youkai, so I need to further divide this into subspecies such as 'Vampire' "
+  },
+  {
+    "id": "YOUKAI_CONSTITUTION",
+    "type": "mutation",
+    "name": { "str": "Youkai constitution" },
+    "description": "Reduced pain penalties go here instead of the base mutation. Pasive pain reduction at pain_removal_eoc ",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.66 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.66 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.66 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.66 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
+    ]
   },
   {
     "id": "SPIRIT_USER",
@@ -609,8 +834,14 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "REGEN_MANA", "multiply": 11 } ] } ],
-    "cancels": [  ],
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "REGEN_MANA", "multiply": 11 }
+        ]
+      }
+    ],
     "//": "This equals a full mana pool every 40 minutes or so"
   },
   {
@@ -623,8 +854,14 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "REGEN_MANA", "multiply": 5 } ] } ],
-    "cancels": [  ],
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "REGEN_MANA", "multiply": 5 }
+        ]
+      }
+    ],
     "//": "This equals a full mana pool every 1 h 20 minutes or so. Should have some extra benefit to compensate, but what?"
   },
   {
@@ -637,62 +874,90 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "REGEN_MANA", "multiply": 3 } ] } ],
-    "cancels": [  ],
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "REGEN_MANA", "multiply": 3 }
+        ]
+      }
+    ],
     "//": "This equals a full mana pool every 2 h or so"
   },
   {
-    "id": "WINGS_HELLRAVEN",
+    "id": "WINGS_TOUHOU_VAMPIRE",
+    "type": "mutation",
+    "name": { "str": "Vampire shapeshifting" },
+    "description": "Your nature allows you to shapeshift between humanoid and bat forms.  Activating this trait allows you to switch back and forth, enabling flight.  \nSwitch cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
+    "points": 0,
+    "profession": true,
+    "purifiable": false,
+    "starting_trait": false,
+    "valid": false,
+    "active": true,
+    "activated_eocs": [ "wings_activate_eoc" ],
+    "activation_msg": "",
+    "ugliness": 1,
+    "visibility": 8,
+    "cancels": [ "WINGS_BAT", "WINGS_BIRD", "WINGS_BUTTERFLY", "WINGS_INSECT", "WINGS_STUB" ]
+  },
+  {
+    "id": "WINGS_TOUHOU_VAMPIRE_bat_mode",
+    "type": "mutation",
+    "name": { "str": "Bat form" },
+    "description": "If nothing else revealed you're a vampire, this will surely do.  You're currently in bat form.",
+    "points": 0,
+    "purifiable": false,
+    "valid": false,
+    "ugliness": 3,
+    "visibility": -2,
+    "encumbrance_always": [ [ "hand_l", 50 ], [ "hand_r", 50 ] ],
+    "override_look": { "id": "mon_bat", "tile_category": "monster" },
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "CARRY_WEIGHT", "multiply": -0.66 },
+          { "value": "FOOTSTEP_NOISE", "multiply": -0.8 },
+          { "value": "MELEE_DAMAGE", "multiply": -0.5 },
+          { "value": "METABOLISM", "multiply": -0.5 }
+        ]
+      }
+    ],
+    "flags": [ "SMALL" ]
+  },
+  {
+    "id": "WINGS_TOUHOU_HELLRAVEN",
     "type": "mutation",
     "name": { "str": "Hell raven wings" },
-    "description": "You have a pair of large raven wings.  Activate the mutation to spread your wings, enabling you to fly.",
+    "description": "You have a pair of large raven wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
     "points": 0,
     "profession": true,
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
     "active": true,
-    "activated_eocs": [ "WINGS_HELLRAVEN_activate" ],
+    "activated_eocs": [ "wings_activate_eoc" ],
+    "activation_msg": "",
     "ugliness": 2,
     "visibility": 8,
-    "transform": { "target": "WINGS_HELLRAVEN_spread", "active": false, "moves": 100 },
     "cancels": [ "WINGS_BAT", "WINGS_BIRD", "WINGS_BUTTERFLY", "WINGS_INSECT", "WINGS_STUB" ]
   },
   {
-    "id": "WINGS_HELLRAVEN_spread",
-    "type": "mutation",
-    "name": { "str": "Hell raven wings (flight)" },
-    "copy-from": "WINGS_HELLRAVEN",
-    "description": "Your wings are now prepared for flying.  Activate the mutation to fold your wings, disabling flight.",
-    "active": true,
-    "enchantments": [ { "condition": "ALWAYS", "ench_effects": [ { "effect": "utsuho_levitation", "intensity": 1 } ] } ],
-    "transform": { "target": "WINGS_HELLRAVEN", "active": false, "moves": 100 }
-  },
-  {
-    "id": "WINGS_TENGUCROW",
+    "id": "WINGS_TOUHOU_TENGUCROW",
     "type": "mutation",
     "name": { "str": "Crow wings" },
-    "description": "You have a pair of relatively small crow wings.  Activate the mutation to enable flight.",
+    "description": "You have a pair of relatively small crow wings.  Activating this trait allows you to spread and close your wings, enabling flight.  \nActivation cost: <color_light_blue>111</color> stamina.  Drains stamina while active.  Cast again to toggle.",
     "points": 0,
     "profession": true,
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
     "active": true,
-    "activated_eocs": [ "WINGS_TENGUCROW_activate" ],
+    "activated_eocs": [ "wings_activate_eoc" ],
+    "activation_msg": "",
     "visibility": 4,
-    "transform": { "target": "WINGS_TENGUCROW_spread", "msg_transform": "You prepare your wings to fly.", "active": false, "moves": 100 },
     "cancels": [ "WINGS_BAT", "WINGS_BIRD", "WINGS_BUTTERFLY", "WINGS_INSECT", "WINGS_STUB" ]
-  },
-  {
-    "id": "WINGS_TENGUCROW_spread",
-    "type": "mutation",
-    "name": { "str": "Crow wings (flight)" },
-    "copy-from": "WINGS_TENGUCROW",
-    "description": "Your wings are now prepared for flying.  Activate to disable flight.",
-    "active": true,
-    "enchantments": [ { "condition": "ALWAYS", "ench_effects": [ { "effect": "aya_levitation", "intensity": 1 } ] } ],
-    "transform": { "target": "WINGS_TENGUCROW", "msg_transform": "You relax your wings.", "active": false, "moves": 100 }
   },
   {
     "id": "YATAGARASU_VESSEL",
@@ -704,11 +969,14 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [
-      {
-        "condition": "ALWAYS",
-        "values": [ { "value": "CLIMATE_CONTROL_CHILL", "add": 15 }, { "value": "CLIMATE_CONTROL_HEAT", "add": 20 } ]
-      }
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "CLIMATE_CONTROL_CHILL", "add": 25 },
+          { "value": "CLIMATE_CONTROL_HEAT", "add": 500 }
+        ] 
+      } 
     ],
     "flags": [ "GLARE_RESIST", "HEAT_IMMUNE", "NO_RADIATION", "PARAIMMUNE" ]
   },
@@ -722,11 +990,22 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [
-      { "condition": "ALWAYS", "values": [ { "value": "DEXTERITY", "add": 2 }, { "value": "INTELLIGENCE", "add": 1 } ] },
-      { "condition": { "u_has_move_mode": "run" }, "values": [ { "value": "MOVE_COST", "multiply": -0.1 } ] }
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "DEXTERITY", "add": 2 }, 
+          { "value": "INTELLIGENCE", "add": 1 }
+        ] 
+      },
+      { 
+        "condition": { "u_has_move_mode": "run" }, 
+        "values": [ 
+          { "value": "MOVE_COST", "multiply": -0.1 }
+        ] 
+      }
     ],
-    "//": "Aya's base ms is 100 * 0.8 = 80, or 100 * 0.7 * 0.5 = 35 if running. Do note same MOVE_COST stack additively, not multiplicatively"
+    "//": "Aya's base ms is 100 * 0.8 = 80, or 100 * 0.7 * 0.5 = 35 if running (and not flying). Do note same MOVE_COST stack additively, not multiplicatively"
   },
   {
     "id": "PROF_FLAN",
@@ -742,13 +1021,16 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
+        "melee_damage_bonus": [ 
+          { "type": "bash", "add": { "math": [ "rng( 0.75, 2.25 )" ] } } 
+        ],
         "values": [
           { "value": "STRENGTH", "add": 2 },
-          { "value": "ITEM_DAMAGE_BASH", "add": { "math": [ "rng( 3, 5 )" ] } },
           { "value": "OVERKILL_DAMAGE", "multiply": -4 }
         ]
       }
-    ]
+    ],
+    "//WIP": ""
   },
   {
     "id": "PROF_IKU",
@@ -773,12 +1055,16 @@
     "starting_trait": false,
     "valid": false,
     "armor": [ { "parts": "ALL", "soul": 2 } ],
-    "anger_relations": [ [ "GHOST_TOUHOU", -20 ], [ "JIANGSHI_TOUHOU", -20 ], [ "PHANTOM_TOUHOU", -20 ] ]
+    "anger_relations": [ 
+      [ "GHOST_TOUHOU", -20 ], 
+      [ "JIANGSHI_TOUHOU", -20 ], 
+      [ "PHANTOM_TOUHOU", -20 ] 
+    ]
   },
   {
     "id": "PROF_KASEN",
     "type": "mutation",
-    "name": { "str": "Wild hermit" },
+    "name": { "str": "One armed wild hermit" },
     "description": "You're a self-proclaimed hermit, one of the Sages of Gensokyo, and [REDACTED].",
     "points": 0,
     "profession": true,
@@ -799,10 +1085,17 @@
           { "value": "METABOLISM", "multiply": 1.16 },
           { "value": "SOCIAL_LIE", "add": -99 }
         ],
-        "mutations": [ "KI_STRIKE", "TOLERANCE" ]
+        "mutations": [ "TOLERANCE" ]
+      },
+      {
+        "condition": { "not": "u_has_weapon" },
+        "melee_damage_bonus": [ 
+          { "type": "bash", "add": { "math": [ "u_skill('unarmed') * 2" ] } } 
+        ]
       }
     ],
     "//": "This overrides the HERMIT_SPECIES -66% metabolism -> total +50%",
+    "//6": "Default KI_STRIKE , no reason just to not forget she has bonus dmg",
     "anger_relations": [
       [ "AMPHIBIAN", -25 ],
       [ "BIRD", -25 ],
@@ -810,40 +1103,15 @@
       [ "MAMMAL", -25 ],
       [ "MOLLUSK", -25 ],
       [ "REPTILE", -25 ],
-      [ "WORM", -25 ]
+      [ "WORM", -25 ],
+      [ "YOUKAI_BEAST_TOUHOU", -20 ]
     ],
-    "cancels": [
-      "ARM_FEATHERS",
-      "BARBS",
-      "BENDY1",
-      "BURROW",
-      "BURROWLARGE",
-      "CLAWS",
-      "CLAWS_RAT",
-      "CLAWS_RETRACT",
-      "CLAWS_ST",
-      "CLAWS_TENTACLE",
-      "CRUSTACEAN_CLAW",
-      "NAILS",
-      "PAWS",
-      "PAWS_LARGE",
-      "PAWS_LITTLE",
-      "SLIME_HANDS",
-      "TALONS",
-      "WEBBED",
-      "CLUMSY",
-      "LIGHT_BONES",
-      "LIGHTWEIGHT",
-      "NO_RIGHT_ARM",
-      "PRETTY",
-      "UGLY",
-      "DEFORMED",
-      "DEFORMED2",
-      "DEFORMED3"
-    ],
-    "//2": "Overrides the current WIP mutation NO_RIGHT_ARM ",
-    "//3": "The restricts_gear field is not set, as while it makes sense it cannot be removed by equipping kasen_bandages , or at least I don't know how to remove the field via enchantments",
-    "//4": "Currently, while arm_stub_r can be added, it immediately breaks after starting (no actual effect). Also, it displays the un-handed right arm, and while kasen_bandages grants the proper arm + hand, smashing stuff proccs the stub smash_message instead of the restored limb"
+    "//2": "Overrides the HERMIT_SPECIES +20 anger vs YOUKAI_BEAST_TOUHOU ",
+    "cancels": [ "ARM_FEATHERS", "BARBS", "BENDY1", "BURROW", "BURROWLARGE", "CLAWS", "CLAWS_RAT", "CLAWS_RETRACT", "CLAWS_ST", "CLAWS_TENTACLE", "CRUSTACEAN_CLAW", "NAILS", "PAWS", "PAWS_LARGE", "PAWS_LITTLE", "SLIME_HANDS", "TALONS", "WEBBED",
+    "CLUMSY", "LIGHT_BONES", "LIGHTWEIGHT", "NO_RIGHT_ARM", "PRETTY", "UGLY", "DEFORMED", "DEFORMED2", "DEFORMED3" ],
+    "//3": "Overrides the current WIP mutation NO_RIGHT_ARM ",
+    "//4": "The restricts_gear field is not set, as while it makes sense it cannot be removed by equipping kasen_bandages , or at least I don't know how to remove the field via enchantments",
+    "//5": "Currently, while arm_stub_r can be added, it immediately breaks after starting (no actual effect). Also, it displays the un-handed right arm, and while kasen_bandages grants the proper arm + hand, smashing stuff proccs the stub smash_message instead of the restored limb"
   },
   {
     "id": "PROF_KOKORO",
@@ -856,20 +1124,69 @@
     "starting_trait": false,
     "valid": false,
     "initial_ma_styles": [ "style_kokoro" ],
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "CARDIO_MULTIPLIER", "multiply": 0.25 } ] } ],
-    "cancels": [
-      "JEKYLL",
-      "SEASONAL_AFFECTIVE",
-      "GOODCARDIO",
-      "GOODCARDIO2",
-      "OPTIMISTIC",
-      "BADKNEES",
-      "REALLYBADKNEES",
-      "BADCARDIO",
-      "BADTEMPER",
-      "MOODSWINGS"
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "CARDIO_MULTIPLIER", "multiply": 0.25 }
+        ]
+      } 
     ],
-    "flags": [  ]
+    "cancels": [ "JEKYLL", "SEASONAL_AFFECTIVE", "GOODCARDIO", "GOODCARDIO2", "OPTIMISTIC", "BADKNEES", "REALLYBADKNEES", "BADCARDIO", "BADTEMPER", "MOODSWINGS" ],
+    "flags": [ "KOKORO_WEBS" ]
+  },
+  {
+    "id": "KOKORO_MORALE_1",
+    "type": "mutation",
+    "name": { "str": "Kokoro mood" },
+    "description": "This is Kokoro's default mood, which is hidden.  If she gets upset enough, it transforms into below, used to activate its EOC",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "triggers": [
+      [
+        {
+          "condition": { "math": [ "u_val('morale')", "!=", "0" ] },
+          "msg_on": { "text": "", "rating": "mixed" }
+        }
+      ]
+    ],
+    "transform": { "target": "KOKORO_MORALE_2" },
+    "//": "Based on the approach of MISAKA_MOOD_1 "
+  },
+  {
+    "id": "KOKORO_MORALE_2",
+    "type": "mutation",
+    "name": { "str": "" },
+    "description": "",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "processed_eocs": [ 
+      {
+        "id": "KOKORO_MORALE_2_1_eoc",
+        "condition": { "math": [ "u_val('morale')", ">", "0" ] },
+        "effect": [ 
+          { "u_add_morale": "morale_kokoro", "bonus": -1, "max_bonus": -200, "capped": true },
+          { "math": [ "var_kokoro_instability", "+=", "1" ] },
+          { "math": [ "u_val('mana')", "+=", "rand(25)" ] },
+          { "u_lose_trait": "KOKORO_MORALE_2" },
+          { "u_add_trait": "KOKORO_MORALE_1" }
+        ]
+      },
+      {
+        "id": "KOKORO_MORALE_2_2_eoc",
+        "condition": { "math": [ "u_val('morale')", "<", "0" ] },
+        "effect": [ 
+          { "u_add_morale": "morale_kokoro", "bonus": 1, "max_bonus": 200, "capped": true },
+          { "math": [ "var_kokoro_instability", "+=", "1" ] },
+          { "math": [ "u_val('mana')", "+=", "rand(25)" ] },
+          { "u_lose_trait": "KOKORO_MORALE_2" },
+          { "u_add_trait": "KOKORO_MORALE_1" }
+        ]
+      }
+    ],
+    "//": "Dummy mutation, used only for the EOC effects"
   },
   {
     "id": "PROF_MEILING",
@@ -889,11 +1206,20 @@
           { "value": "SLEEPINESS_REGEN", "multiply": 0.25 },
           { "value": "SLEEPINESS", "multiply": 0.25 },
           { "value": "SLEEPY", "add": 25 }
+        ],
+        "mutations": [ "DEFT", "HEAVYSLEEPER" ]
+      },
+      {
+        "condition": { "not": "u_has_weapon" },
+        "melee_damage_bonus": [ 
+          { "type": "bash", "add": { "math": [ "( u_skill('swimming') * 1.546 + u_skill('melee') * 1.546 + u_skill('unarmed') * 1.546 - 8.34 ) * 0.5" ] } } 
         ]
       }
     ],
     "cancels": [ "EASYSLEEPER", "EASYSLEEPER2", "HEAVYSLEEPER2", "INSOMNIA", "SLEEPY", "SLEEPY2" ],
-    "flags": [ "DEFT", "HEAVYSLEEPER" ]
+    "//": "Not sure if DEFT and HEAVYSLEEPER work from flags, so it's set above",
+    "//2": "Bonus dmg ( 4 - 38 )/2",
+    "//3": "Half bonus dmg here, the other half at meiling_tigerrelease . This is to make her total bonus conditional with her mana regen. Breakpoint vs KI_STRIKE at 7 for each skill (28 vs 29)"
   },
   {
     "id": "PROF_MOKOU",
@@ -906,9 +1232,130 @@
     "starting_trait": false,
     "valid": false,
     "initial_ma_styles": [ "style_mokou" ],
-    "enchantments": [ { "condition": "ALWAYS", "mutations": [ "KI_STRIKE" ] } ],
+    "enchantments": [
+      {
+        "condition": { "not": "u_has_weapon" },
+        "melee_damage_bonus": [ 
+          { "type": "bash", "add": { "math": [ "( ( u_skill('melee') + u_skill('unarmed') ) * mokou_stance_jmath() )" ] } } 
+        ]
+      }
+    ],
     "cancels": [ "NOPAIN", "PAINRESIST" ],
-    "flags": [ "HEAT_IMMUNE" ]
+    "flags": [ "HEAT_IMMUNE" ],
+    "//": "Bonus melee scales as KI_STRIKE , plus pain modifier"
+  },
+  {
+    "id": "MOKOU_STANCE",
+    "type": "mutation",
+    "name": { "str": "Combat stance" },
+    "description": "You have a very high pain tolerance… until you reach your limit.  You can switch between two stances: Belay and Release.  \n<color_light_red>Belay</color> stance has greatly increased pain resistances, and a minor pain-scaling bonus modifier to all damaging abilities.  \n<color_light_red>Release</color> stance has minor pain resistances, a large pain-scaling bonus modifier to all damaging abilities, and drains pain after every attack.  \nReaching your <color_red>pain limit</color> disables stance passives until you fully recover.  \nActivate to toggle between stances.",
+    "points": 0,
+    "player_display": true,
+    "purifiable": false,
+    "valid": false,
+    "active": true,
+    "activated_is_setup": false,
+    "activated_eocs": [ "mokou_stance_eoc" ],
+    "activation_msg": ""
+  },
+  {
+    "id": "MOKOU_STANCE_BELAY",
+    "type": "mutation",
+    "name": { "str": "" },
+    "description": "",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.8 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.8 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.8 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.8 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
+    ],
+    "triggers": [
+      [
+        {
+          "condition": { "math": [ "u_pain()", ">", "140" ] },
+          "msg_on": { "text": "", "rating": "mixed" }
+        }
+      ]
+    ],
+    "transform": { "target": "MOKOU_STANCE_cooldown" },
+    "//": "Pain threshold is based on: Severe pain ( >=70 ), falling down 2 stories equals ~200 pain"
+  },
+  {
+    "id": "MOKOU_STANCE_RELEASE",
+    "type": "mutation",
+    "name": { "str": "" },
+    "description": "",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "PAIN", "multiply": -0.2 },
+          { "value": "PAIN_PENALTY_MOD_DEX", "multiply": -0.2 },
+          { "value": "PAIN_PENALTY_MOD_INT", "multiply": -0.2 },
+          { "value": "PAIN_PENALTY_MOD_PER", "multiply": -0.2 },
+          { "value": "PAIN_PENALTY_MOD_STR", "multiply": -0.2 },
+          { "value": "PAIN_PENALTY_MOD_SPEED", "multiply": -0.66 }
+        ]
+      }
+    ],
+    "triggers": [
+      [
+        {
+          "condition": { "math": [ "u_pain()", ">", "140" ] },
+          "msg_on": { "text": "", "rating": "mixed" }
+        }
+      ]
+    ],
+    "transform": { "target": "MOKOU_STANCE_cooldown" },
+    "//": "The small PAIN enchant is a demerit for Mokou, as she relies on u_pain() for bonus scaling"
+  },
+  {
+    "id": "MOKOU_STANCE_cooldown",
+    "type": "mutation",
+    "name": { "str": "" },
+    "description": "",
+    "points": 0,
+    "player_display": false,
+    "purifiable": false,
+    "valid": false,
+    "time": "60 s",
+    "processed_eocs": [ 
+      {
+        "id": "MOKOU_STANCE_cooldown_eoc",
+        "condition": { "math": [ "u_pain()", "<=", "0" ] },
+        "effect": [ 
+          {
+            "run_eocs": [
+              {
+                "id": "MOKOU_STANCE_reset_eoc",
+                "condition": { "u_has_trait": "MOKOU_STANCE_cooldown" },
+                "effect": [
+                  { "u_lose_trait": "MOKOU_STANCE_cooldown" },
+                  { "u_add_trait": "MOKOU_STANCE_BELAY" },
+                  { "u_message": "You have recovered from pain.  You can switch stances again.", "type": "mixed" }
+                ]
+              }
+            ],
+            "time_in_future": [ "5 m", "15 m" ]
+          }
+        ]
+      }
+    ],
+    "//": "Dummy mutation, used only for the EOC effects"
   },
   {
     "id": "PROF_NITORI",
@@ -931,7 +1378,15 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "INTELLIGENCE", "add": -1 }, { "value": "MAX_MANA", "add": 100 } ] } ]
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "INTELLIGENCE", "add": -1 },
+          { "value": "MAX_MANA", "add": 100 }
+        ]
+      }
+    ]
   },
   {
     "id": "PROF_REISEN",
@@ -954,8 +1409,13 @@
     "starting_trait": false,
     "valid": false,
     "ugliness": -1,
-    "cancels": [ "STYLISH" ],
-    "flags": [ "SQUEAMISH", "TABLEMANNERS" ]
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "mutations": [ "SQUEAMISH", "TABLEMANNERS" ]
+      }
+    ],
+    "cancels": [ "STYLISH" ]
   },
   {
     "id": "PROF_SAKUYA",
@@ -966,7 +1426,12 @@
     "player_display": false,
     "purifiable": false,
     "valid": false,
-    "flags": [ "SQUEAMISH", "TABLEMANNERS" ]
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "mutations": [ "SQUEAMISH", "TABLEMANNERS" ]
+      }
+    ]
   },
   {
     "id": "PROF_SEIGA",
@@ -976,8 +1441,7 @@
     "points": 0,
     "player_display": false,
     "purifiable": false,
-    "valid": false,
-    "flags": [  ]
+    "valid": false
   },
   {
     "id": "PROF_TENKO",
@@ -990,7 +1454,12 @@
     "starting_trait": false,
     "valid": false,
     "initial_ma_styles": [ "style_celestial_brawling_tenko" ],
-    "flags": [ "HATES_BOOKS", "SLOWLEARNER" ]
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "mutations": [ "HATES_BOOKS" ]
+      }
+    ]
   },
   {
     "id": "PROF_UDONGE",
@@ -1001,7 +1470,14 @@
     "player_display": false,
     "purifiable": false,
     "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "NIGHT_VIS", "multiply": 1 } ] } ]
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "NIGHT_VIS", "multiply": 1 }
+        ] 
+      } 
+    ]
   },
   {
     "id": "PROF_YAMAME",
@@ -1013,7 +1489,14 @@
     "purifiable": false,
     "starting_trait": false,
     "valid": false,
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "ARMOR_BIO", "multiply": -0.33 } ] } ],
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "incoming_damage_mod": [ 
+          { "type": "bio", "multiply": -0.33 }
+        ] 
+      } 
+    ],
     "anger_relations": [
       [ "ONI_TOUHOU", -25 ],
       [ "YOUKAI_FEMALE_TOUHOU", -25 ],
@@ -1035,6 +1518,13 @@
     "starting_trait": false,
     "valid": false,
     "initial_ma_styles": [ "style_youmu" ],
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "SOCIAL_LIE", "add": -4 } ] } ]
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "SOCIAL_LIE", "add": -4 }
+        ]
+      } 
+    ]
   }
 ]

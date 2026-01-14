@@ -1,9 +1,9 @@
 [
  {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "rc_hideout" ],
-	"weight": "500",
+	"weight": 500,
     "object": {
       "fill_ter": "t_floor",
       "rows": [
@@ -32,6 +32,7 @@
             "________________________",
             "________________________"
             ],
+      "faction_owner": [ { "id": "rusted_chains", "x": [ 0, 23 ], "y": [ 0, 23 ] } ],
 			"place_npcs": [
         { "class": "jikan_npc", "x": 1, "y": 3 },
 		{ "class": "rc_npc_bartender", "x": 16, "y": 2 },
@@ -68,9 +69,9 @@
  },
  {
 "type": "mapgen",
-"method": "json",
+
 "om_terrain": [ "rc_hideout_roof"] ,
-"weight": "500",
+"weight": 500,
 "object": {
 	"fill_ter": "t_flat_roof",
 	 "rows": [

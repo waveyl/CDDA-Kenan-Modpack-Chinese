@@ -1,5 +1,56 @@
 [
   {
+    "id": "iku_long_scarf",
+    "type": "TOOL_ARMOR",
+    "category": "clothing",
+    "name": { "str": "oarfish scarf", "str_pl": "oarfish scarves" },
+    "description": "A really long, frilly scarf, worn over the mouth for warmth.  It's long enough to handle nonstandard facial features, accommodate your hands, and whip people to death.  Use it to loosen it if you get too warm. Seems to be a reference to something.",
+    "repairs_like": "scarf_long",
+    "weight": "300 g",
+    "volume": "1000 ml",
+    "price": 3000,
+    "price_postapoc": 200,
+    "to_hit": { "balance": "good", "grip": "weapon", "length": "hand", "surface": "every" },
+    "melee_damage": { "bash": 12, "cut": 12 },
+    "material": [ "cotton" ],
+    "material_thickness": 4,
+    "environmental_protection": 2,
+    "symbol": "[",
+    "looks_like": "scarf_long",
+    "color": "red_white",
+    "warmth": 30,
+    "use_action": { "type": "transform", "target": "iku_long_scarf_loose", "menu_text": "Loosen", "msg": "You loosen your %s." },
+    "armor": [ { "covers": [ "mouth" ], "coverage": 85, "encumbrance": [ 4, 8 ] } ],
+    "weapon_category": [ "WHIPS" ],
+    "flags": [ "DURABLE_MELEE", "MAGIC_FOCUS", "OUTER", "OVERSIZE", "REACH_ATTACK", "REACH3", "WHIP" ]
+  },
+  {
+    "id": "iku_long_scarf_loose",
+    "type": "TOOL_ARMOR",
+    "category": "clothing",
+    "name": { "str": "oarfish scarf (loose)", "str_pl": "oarfish scarves (loose)" },
+    "description": "A really long, frilly scarf, worn over the mouth for warmth.  It's long enough to handle nonstandard facial features, accommodate your hands, and whip people to death.  Use it to wear it tighter if you get too cold. Seems to be a reference to something.",
+    "repairs_like": "scarf_long",
+    "weight": "300 g",
+    "volume": "1000 ml",
+    "price": 3000,
+    "price_postapoc": 200,
+    "to_hit": { "balance": "good", "grip": "weapon", "length": "long", "surface": "every" },
+    "melee_damage": { "bash": 12, "cut": 12 },
+    "material": [ "cotton" ],
+    "material_thickness": 4,
+    "environmental_protection": 1,
+    "symbol": "[",
+    "looks_like": "scarf_long_loose",
+    "color": "red_white",
+    "warmth": 15,
+    "use_action": { "type": "transform", "target": "iku_long_scarf", "menu_text": "Wrap tighter", "msg": "You wrap your scarf tighter." },
+    "revert_to": "iku_long_scarf",
+    "armor": [ { "covers": [ "mouth" ], "coverage": 35, "encumbrance": [ 0, 2 ] } ],
+    "weapon_category": [ "WHIPS" ],
+    "flags": [ "ALLOWS_NATURAL_ATTACKS", "DURABLE_MELEE", "MAGIC_FOCUS", "OUTER", "OVERSIZE", "REACH_ATTACK", "REACH3", "WHIP" ]
+  },
+  {
     "id": "kappa_crowbar",
     "type": "TOOL",
     "name": { "str": "kappa crowbar", "str_pl": "kappa crowbars" },
@@ -92,7 +143,7 @@
     "looks_like": "baton",
     "color": "yellow",
     "techniques": [ "WBLOCK_1" ],
-    "use_action": { "type": "transform", "menu_text": "Summon Sword", "msg": "You summon your sword.", "target": "tenshi_jian_extended" },
+    "use_action": { "type": "transform", "target": "tenshi_jian_extended", "menu_text": "Summon Sword", "msg": "You summon your sword.", "need_wielding": true },
     "flags": [ "DURABLE_MELEE", "MAGIC_FOCUS", "TRADER_AVOID" ]
   },
   {
@@ -115,9 +166,9 @@
     "looks_like": "jian",
     "color": "red",
     "techniques": [ "WBLOCK_2" ],
-    "weapon_category": [ "JAPANESE_SWORDS", "SHORT_SWORDS" ],
-    "use_action": { "menu_text": "Dismiss Sword", "type": "transform", "target": "tenshi_jian", "msg": "You dismiss your sword." },
-    "flags": [ "DURABLE_MELEE", "MAGIC_FOCUS", "SHEATH_SWORD", "STURDY", "TRADER_AVOID" ]
+    "weapon_category": [ "MEDIUM_SWORDS" ],
+    "use_action": { "menu_text": "Dismiss Sword", "type": "transform", "target": "tenshi_jian", "msg": "You dismiss your sword.", "need_wielding": true },
+    "flags": [ "DURABLE_MELEE", "LIGHT_16", "MAGIC_FOCUS", "SHEATH_SWORD", "STURDY", "TRADER_AVOID" ]
   },
   {
     "id": "youmu_hakurouken",
@@ -136,7 +187,7 @@
     "color": "light_gray",
     "techniques": [ "VORPAL", "WBLOCK_2" ],
     "qualities": [ [ "CUT", 1 ], [ "BUTCHER", 4 ] ],
-    "weapon_category": [ "JAPANESE_SWORDS", "SHORT_SWORDS" ],
+    "weapon_category": [ "MEDIUM_SWORDS" ],
     "flags": [ "DURABLE_MELEE", "MAGIC_FOCUS", "SHEATH_SWORD" ],
     "//": " For me, 'send phantoms to Nirvana' is synonymous with 'instakill phantoms' "
   },
@@ -161,7 +212,8 @@
     "color": "light_gray",
     "techniques": [ "VORPAL", "WBLOCK_1", "WIDE" ],
     "qualities": [ [ "CUT", 1 ] ],
-    "weapon_category": [ "GREAT_SWORDS", "JAPANESE_SWORDS", "LONG_SWORDS" ],
-    "flags": [ "DURABLE_MELEE", "MAGIC_FOCUS", "SHEATH_SWORD" ]
+    "weapon_category": [ "GREAT_SWORDS", "LONG_SWORDS" ],
+    "flags": [ "DURABLE_MELEE", "MAGIC_FOCUS", "SHEATH_SWORD" ],
+    "//3": "The weapon category GREAT_SWORDS is kept for no particular reason"
   }
 ]

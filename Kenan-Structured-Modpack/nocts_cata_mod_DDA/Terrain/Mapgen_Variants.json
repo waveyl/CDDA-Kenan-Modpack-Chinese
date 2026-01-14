@@ -1,7 +1,6 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "bunker" ],
     "object": {
       "rows": [
@@ -37,7 +36,7 @@
         "+": "t_chaingate_l",
         "=": "t_chaingate_o",
         ",": "t_floor",
-        "-": "t_chainfence_h",
+        "-": "t_chainfence",
         "/": "t_concrete_wall",
         "0": "t_window",
         "6": "t_card_military",
@@ -45,7 +44,7 @@
         "D": "t_door_metal_locked",
         "I": "t_ballistic_glass",
         "M": "t_wall_metal",
-        "|": "t_chainfence_v"
+        "|": "t_chainfence"
       },
       "furniture": { "#": "f_table" },
       "place_monster": [
@@ -68,7 +67,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "mil_base_5e" ],
     "weight": 250,
     "object": {
@@ -101,7 +99,7 @@
       ],
       "palettes": [ "mil_base_palette" ],
       "items": {
-        "t": [ { "item": "trash_cart", "chance": 75, "repeat": [ 1, 10 ] } ],
+        "t": [ { "item": "SUS_trash_floor_light", "chance": 75, "repeat": [ 1, 10 ] } ],
         "#": [ { "item": "SUS_office_desk", "chance": 10, "repeat": [ 1, 2 ] } ],
         "$": [ { "item": "SUS_office_filing_cabinet", "chance": 50, "repeat": [ 1, 5 ] } ],
         "O": [ { "item": "mil_base_books", "chance": 30, "repeat": [ 1, 5 ] } ],
@@ -124,7 +122,7 @@
         { "group": "lmil_armor_collection", "x": 10, "y": 9, "chance": 75, "repeat": 1 },
         { "item": "UPS_off", "x": 10, "y": 10, "chance": 75, "repeat": 1 },
         { "item": "plut_cell", "x": 10, "y": 10, "chance": 75, "repeat": 5 },
-        { "item": "medium_atomic_battery_cell", "x": 10, "y": 11, "chance": 75, "repeat": 10 },
+        { "item": "medium_atomic_battery_cell_rechargeable", "x": 10, "y": 11, "chance": 75, "repeat": 10 },
         { "item": "plasma", "x": 10, "y": 12, "chance": 75, "repeat": 2 },
         { "item": "modular_m4_carbine", "variant": "modular_m4a1", "x": 12, "y": [ 9, 11 ], "magazine": 100, "chance": 75, "repeat": 30 },
         { "item": "modular_m16_auto_rifle", "variant": "acr", "x": 12, "y": 9, "magazine": 100, "chance": 75, "repeat": 8 },

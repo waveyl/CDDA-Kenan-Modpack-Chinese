@@ -7,7 +7,7 @@
   },
   {
     "type": "profession",
-    "ident": "brave_of_the_king",
+    "id": "brave_of_the_king",
     "name": "Brave of the King",
     "description": "Elite infantry of ancient Egypt and bodyguards of the Pharaoh.  While armor was uncommon due to desert conditions, such equipment did see increased usage during the New Kingdom period.",
     "points": 4,
@@ -28,7 +28,7 @@
   },
   {
     "type": "profession",
-    "ident": "hoplite",
+    "id": "hoplite",
     "name": "Hoplite",
     "description": "Heavy infantry of the ancient Greek city-states, before the shift towards the Macedonean phalanx.  Well-trained for combat in formation, but less effective when outmaneuvered or on broken ground.",
     "points": 5,
@@ -59,7 +59,7 @@
   },
   {
     "type": "profession",
-    "ident": "legionary",
+    "id": "legionary",
     "name": "Legionary",
     "description": "Roman heavy infantry, after the military reforms that standardized the legion's equipment.  Trained to act in formation with javelin and sword, well-known for their field fortifications as well.",
     "points": 5,
@@ -94,7 +94,7 @@
   },
   {
     "type": "profession",
-    "ident": "viking",
+    "id": "viking",
     "name": "Viking",
     "description": "The infamous pirates of the early medieval period, raiders and explorers from various Scandinavian countries.",
     "points": 4,
@@ -116,6 +116,7 @@
           "boots_larmor",
           "helmet_nasal",
           "backpack",
+          "axe_ring",
           "shield_banded",
           "waterskin"
         ],
@@ -127,7 +128,7 @@
   },
   {
     "type": "profession",
-    "ident": "man_at_arms",
+    "id": "man_at_arms",
     "name": { "male": "Man-at-Arms", "female": "Woman-at-Arms" },
     "description": "Early medieval heavy cavalry of various countries in Europe, whether noble-born or of common blood.  While knights traditionally were men-at-arms, not every man-at-arms was a knight.",
     "points": 7,
@@ -139,7 +140,6 @@
       { "level": 3, "name": "melee" }
     ],
     "traits": [ "PROF_MAN_AT_ARMS" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "items": [
@@ -150,7 +150,7 @@
           "socks",
           "boots_larmor",
           "helmet_plate",
-          "gloves_leather",
+          "gauntlets_larmor",
           "backpack",
           "shield_leather",
           "waterskin"
@@ -163,7 +163,7 @@
   },
   {
     "type": "profession",
-    "ident": "horse_archer",
+    "id": "horse_archer",
     "name": "Horse Archer",
     "description": "The famed light cavalry of the Mongol Empire.  Best known for their skill as mounted archers.",
     "points": 6,
@@ -175,7 +175,6 @@
       { "level": 3, "name": "gun" },
       { "level": 1, "name": "melee" }
     ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "items": [
@@ -188,8 +187,7 @@
           "backpack",
           "waterskin",
           "fur_rollmat",
-          "pot",
-          "horse_tack"
+          "pot"
         ],
         "entries": [
           { "item": "recurbow", "custom-flags": [ "auto_wield" ] },
@@ -201,7 +199,7 @@
   },
   {
     "type": "profession",
-    "ident": "samurai",
+    "id": "samurai",
     "name": "Samurai",
     "description": "Warrior nobility of feudal Japan.  Known originally as masters of the horse and bow, they become famous for their swordsmanship in later eras.",
     "points": 7,
@@ -216,7 +214,6 @@
       { "level": 2, "name": "melee" }
     ],
     "traits": [ "PROF_SAMURAI" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "//": "All this work just to avoid layering oddities? Madness.",
     "items": {
       "male": {
@@ -229,8 +226,7 @@
           "tabi_dress",
           "bastsandals",
           "backpack",
-          "waterskin",
-          "horse_tack"
+          "waterskin"
         ],
         "entries": [ { "item": "katana", "container-item": "scabbard" }, { "item": "compositebow", "custom-flags": [ "auto_wield" ] } ]
       },
@@ -246,8 +242,7 @@
           "bastsandals",
           "backpack",
           "waterskin",
-          "compositebow",
-          "horse_tack"
+          "compositebow"
         ],
         "entries": [ { "item": "naginata", "custom-flags": [ "auto_wield" ] } ]
       },
@@ -258,7 +253,7 @@
   },
   {
     "type": "profession",
-    "ident": "karoliner",
+    "id": "karoliner",
     "name": "Carolean",
     "description": "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units included musketeers in addition to cavalry, pikemen, and grendadiers.",
     "points": 4,
@@ -298,7 +293,7 @@
   },
   {
     "type": "profession",
-    "ident": "husaria",
+    "id": "husaria",
     "name": "Winged Hussar",
     "description": "Heavy cavalry associated with the Polish-Lithanian Commonwealth during the 16th to 18th centuries.  Known for their ornate armor including decorative wings, making any arrival a fashionable one.",
     "points": 7,
@@ -310,7 +305,6 @@
       { "level": 2, "name": "survival" }
     ],
     "traits": [ "PROF_HUSARIA" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "ammo": 100,
@@ -321,12 +315,11 @@
           "tunic",
           "cuirass_lightplate",
           "armguard_lightplate",
-          "gloves_leather",
+          "gauntlets_larmor",
           "helmet_szyszak",
           "wings_ornamental",
           "backpack",
-          "waterskin",
-          "horse_tack"
+          "waterskin"
         ],
         "entries": [
           { "item": "spear_steel", "custom-flags": [ "auto_wield" ] },
@@ -337,7 +330,7 @@
   },
   {
     "type": "profession",
-    "ident": "chevalier",
+    "id": "chevalier",
     "name": { "male": "Chevalier", "female": "Chevalière" },
     "description": "European heavy cavalry of the late medieval period, by which time plate armor had reached its battlefield peak.  The importance of knights as heavy cavalry would persist until professional armies became predominant in Europe.",
     "points": 8,
@@ -350,7 +343,6 @@
       { "level": 1, "name": "survival" }
     ],
     "traits": [ "PROF_CHEVALIER" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "items": [
@@ -364,8 +356,7 @@
           "qt_helm_close",
           "armor_qt_lightplate",
           "backpack",
-          "waterskin",
-          "horse_tack"
+          "waterskin"
         ],
         "entries": [
           { "item": "halberd", "custom-flags": [ "auto_wield" ] },

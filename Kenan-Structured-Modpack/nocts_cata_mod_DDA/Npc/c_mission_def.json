@@ -8,15 +8,15 @@
     "goal_condition": {
       "or": [
         { "u_has_item": "badge_bio_weapon_evy" },
-        { "u_has_var": "searching_for_msci", "type": "dialogue", "context": "evelynn", "value": "yes" }
+        { "compare_string": [ "yes", { "u_val": "c_searching_for_msci" } ] }
       ]
     },
     "difficulty": 6,
     "value": 60000,
     "start": {
-      "assign_mission_target": { "om_terrain": "Bio_Weapon_Lab_2", "om_special": "Bio_Weapon_Lab_s", "reveal_radius": 3, "search_range": 600, "z": 0 }
+      "assign_mission_target": { "om_terrain": "Bio_Weapon_Lab_2", "om_special": "Bio_Weapon_Lab_s", "reveal_radius": 3, "z": 0 }
     },
-    "end": { "effect": { "u_add_var": "proven_worthy", "type": "dialogue", "context": "router", "value": "yes" } },
+    "end": { "effect": { "u_add_var": "c_var_proven_worthy", "value": "yes" } },
     "count": 1,
     "origins": [ "ORIGIN_SECONDARY" ],
     "dialogue": {
@@ -41,12 +41,12 @@
     "item": "badge_bio_weapon_apophis",
     "start": {
       "effect": { "u_add_effect": "router_mission", "duration": "PERMANENT" },
-      "assign_mission_target": { "om_terrain": "Unknown_Lab_4", "om_special": "Unknown_Lab_s", "reveal_radius": 3, "search_range": 600, "z": 0 }
+      "assign_mission_target": { "om_terrain": "Unknown_Lab_4", "om_special": "Unknown_Lab_s", "reveal_radius": 3, "z": 0 }
     },
     "end": {
       "effect": [
-        { "u_add_var": "apophis_dead", "type": "dialogue", "context": "router", "value": "yes" },
-        { "npc_add_var": "apophis_dead", "type": "dialogue", "context": "router", "value": "yes" }
+        { "u_add_var": "c_var_apophis_dead", "value": "yes" },
+        { "npc_add_var": "c_var_apophis_dead", "value": "yes" }
       ]
     },
     "count": 1,
@@ -73,12 +73,11 @@
     "origins": [ "ORIGIN_SECONDARY" ],
     "destination": "makeshift_command_center_b",
     "start": {
-      "effect": [ "follow", { "u_add_var": "searching_for_msci", "type": "dialogue", "context": "evelynn", "value": "yes" } ],
+      "effect": [ "follow", { "u_add_var": "c_searching_for_msci", "value": "yes" } ],
       "assign_mission_target": {
         "om_terrain": "makeshift_command_center_2",
         "om_special": "makeshift_command_center_s",
         "reveal_radius": 3,
-        "search_range": 360,
         "z": 0
       }
     },

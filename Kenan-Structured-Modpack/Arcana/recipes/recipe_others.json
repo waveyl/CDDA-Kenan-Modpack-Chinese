@@ -145,7 +145,7 @@
       [ [ "paper", 20 ], [ "tanbark", 1 ], [ "birchbark", 1 ], [ "willowbark", 1 ] ],
       [ [ "material_sand", 50 ], [ "clay_lump", 5 ], [ "rock", 5 ] ],
       [ [ "ash", 25 ], [ "withered", 5 ] ],
-      [ [ "essence", 1 ], [ "bone_human", 10 ], [ "bone_demihuman", 15 ], [ "bone", 20 ], [ "bone_tainted", 30 ] ]
+      [ [ "essence", 1 ], [ "arcana_bone_standard", 5, "LIST" ] ]
     ],
     "delete_flags": [ "HIDDEN_HALLU", "HIDDEN_POISON", "BAD_TASTE", "CANNIBALISM" ],
     "flags": [ "BLIND_EASY", "ALLOW_ROTTEN" ]
@@ -629,7 +629,7 @@
     "qualities": [ { "id": "CONTAIN", "level": 1 } ],
     "tools": [ [ [ "book_syncretism", -1 ], [ "book_hexenhammer", -1 ], [ "book_bloodmagic", -1 ], [ "book_sacrifice", -1 ] ] ],
     "components": [
-      [ [ "wax", 1 ], [ "any_tallow", 4, "LIST" ], [ "edible_lard", 1, "LIST" ] ],
+      [ [ "wax", 1 ], [ "any_tallow", 4, "LIST" ], [ "edible_tallow", 1, "LIST" ] ],
       [ [ "cordage_short", 1, "LIST" ] ],
       [ [ "flame_talisman", 1 ] ],
       [ [ "salt", 20 ] ],

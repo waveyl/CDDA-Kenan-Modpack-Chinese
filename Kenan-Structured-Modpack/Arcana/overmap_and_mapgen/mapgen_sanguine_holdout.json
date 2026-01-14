@@ -1,18 +1,18 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "sanguine_holdout_1" ],
     "weight": 100,
     "object": {
       "rows": [
         ",,,,,,,,,,,,,,,,,,,,,,,,",
-        ",,,PPPPPPPPPPGGGGGPPPP,,",
-        ",,,P%,,%%%%%,,,,,,!,%P,,",
-        ",,,P%,,,,,,,,,,,,,,,%P,,",
-        ",,,P%,|-www-|,,,,,,,%P,,",
-        ",,,P,,|CsfCn|EEEEE,,%P,,",
-        ",,|-w-|o....+EEEEE,,,P,,",
+        ",,,YYYYYYYYYYGGGGGYYYY,,",
+        ",,,Y%,,%%%%%,,,,,,!,%Y,,",
+        ",,,Y%,,,,,,,,,,,,,,,%Y,,",
+        ",,,Y%,|-www-|,,,,,,,%Y,,",
+        ",,,Y,,|CsfCn|EEEEE,,%Y,,",
+        ",,|-w-|o....+EEEEE,,,Y,,",
         ",,|t.&|C...n|-www-|-w-|,",
         ",?|t..+....n|D....+..{|,",
         ",,|..s|.....+.....+..{|,",
@@ -34,7 +34,7 @@
       "palettes": [ "arcana_palette" ],
       "mapping": {
         "]": { "items": { "item": "mansion_bookcase" } },
-        "f": { "items": [ { "item": "fridgesnacks", "chance": 30 }, { "item": "fridge", "chance": 50 } ] },
+        "f": { "items": [ { "item": "SUS_fridge_snacks", "chance": 30 }, { "item": "SUS_fridge", "chance": 50 } ] },
         "n": { "items": [ { "item": "cannedfood", "chance": 50 }, { "item": "cannedfood", "chance": 25 } ] },
         "{": { "items": [ { "item": "butcher_tools", "chance": 50 }, { "item": "butcher_tools", "chance": 50 } ] }
       },
@@ -54,7 +54,7 @@
           [ "t_shrub_rose", 25 ]
         ],
         "G": "t_palisade_gate",
-        "P": "t_palisade",
+        "Y": "t_palisade",
         "W": "t_window_boarded",
         "w": "t_window_domestic"
       },
@@ -71,7 +71,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "sanguine_holdout_b1" ],
     "weight": 100,
     "object": {
@@ -146,18 +146,18 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "sanguine_holdout_2" ],
     "weight": 100,
     "object": {
       "rows": [
         ",,,,,,,,,,,,,,,,,,,,,,,,",
-        ",,,PPPPPPPPPPGGGGGPPPP,,",
-        ",,,P%,,%%%%%,,,,,,!,%P,,",
-        ",,,P%,,,,,,,,,,,,,,,%P,,",
-        ",,,P%,|-www-|,,,,,,,%P,,",
-        ",,,P,,|}..DB|EEEEE,,%P,,",
-        ",,|---|h...B|EEEEE,,,P,,",
+        ",,,YYYYYYYYYYGGGGGYYYY,,",
+        ",,,Y%,,%%%%%,,,,,,!,%Y,,",
+        ",,,Y%,,,,,,,,,,,,,,,%Y,,",
+        ",,,Y%,|-www-|,,,,,,,%Y,,",
+        ",,,Y,,|}..DB|EEEEE,,%Y,,",
+        ",,|---|h...B|EEEEE,,,Y,,",
         ",,|&.s|dd...|-w+w-|---|,",
         ",?|...+.....|BD...|s.&|,",
         ",,|tt.|.....|B....+...|,",
@@ -191,7 +191,7 @@
             { "item": "antique_rare", "chance": 50 }
           ]
         },
-        "f": { "items": [ { "item": "fridgesnacks", "chance": 30 }, { "item": "fridge", "chance": 50 } ] },
+        "f": { "items": [ { "item": "SUS_fridge_snacks", "chance": 30 }, { "item": "SUS_fridge", "chance": 50 } ] },
         "n": { "items": [ { "item": "cannedfood", "chance": 50 }, { "item": "cannedfood", "chance": 25 } ] }
       },
       "place_loot": [
@@ -216,7 +216,7 @@
           [ "t_shrub_rose", 25 ]
         ],
         "G": "t_palisade_gate",
-        "P": "t_palisade",
+        "Y": "t_palisade",
         "W": "t_window_boarded",
         "w": "t_window_domestic"
       },
@@ -230,7 +230,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "sanguine_holdout_roof" ],
     "weight": 100,
     "object": {

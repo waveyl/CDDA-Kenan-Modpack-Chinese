@@ -1,7 +1,7 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ [ "lab_arcane_1_1", "lab_arcane_1_2", "lab_arcane_1_3" ], [ "lab_arcane_1_4", "lab_arcane_1_5", "lab_arcane_1_6" ] ],
     "weight": 1000,
     "object": {
@@ -114,7 +114,7 @@
       },
       "toilets": { "T": {  } },
       "items": {
-        "^": { "item": "file_room", "chance": 70, "repeat": 5 },
+        "^": { "item": "SUS_office_filing_cabinet", "chance": 70, "repeat": 5 },
         "B": [ { "item": "textbooks", "chance": 50 }, { "item": "manuals", "chance": 50 } ],
         "C": [
           { "item": "chem_lab", "chance": 10 },
@@ -133,10 +133,10 @@
           { "item": "tools_science", "chance": 10 },
           { "item": "teleport", "chance": 5 }
         ],
-        "d": { "item": "office_supplies", "chance": 70, "repeat": 3 },
+        "d": { "item": "SUS_office_supplies", "chance": 70, "repeat": 3 },
         "e": { "item": "book_mag_tech", "chance": 25, "repeat": 2 },
         "l": { "item": "cop_armory", "chance": 25, "repeat": 4 },
-        "t": { "item": "floor_trash", "chance": 50, "repeat": 3 },
+        "t": { "item": "SUS_trash_floor_light" },
         "r": { "item": "mechanics", "chance": 25, "repeat": 5 },
         "s": { "item": "cleaning", "chance": 50, "repeat": 5 }
       },
@@ -176,7 +176,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ [ "lab_arcane_2_1", "lab_arcane_2_2", "lab_arcane_2_3" ], [ "lab_arcane_2_4", "lab_arcane_2_5", "lab_arcane_2_6" ] ],
     "weight": 1000,
     "object": {
@@ -316,23 +316,23 @@
       ],
       "items": {
         "@": { "item": "bed", "chance": 50, "repeat": 2 },
-        "^": { "item": "file_room", "chance": 70, "repeat": 5 },
+        "^": { "item": "SUS_office_filing_cabinet", "chance": 70, "repeat": 5 },
         "B": [ { "item": "textbooks", "chance": 50 }, { "item": "manuals", "chance": 50 } ],
         "D": { "item": "lab_dorm", "chance": 50, "repeat": 5 },
-        "F": { "item": "fridgesnacks", "chance": 25, "repeat": 5 },
+        "F": { "item": "SUS_fridge_snacks", "chance": 25, "repeat": 5 },
         "O": [
           { "item": "cannedfood", "chance": 50, "repeat": 2 },
-          { "item": "pasta", "chance": 25, "repeat": 3 },
+          { "item": "pasta_ingredients", "chance": 25, "repeat": 3 },
           { "item": "dry_goods", "chance": 25, "repeat": 3 }
         ],
-        "d": { "item": "office_supplies", "chance": 70, "repeat": 3 },
-        "o": { "item": "oven", "chance": 50, "repeat": 2 },
-        "t": { "item": "floor_trash", "chance": 50, "repeat": 3 },
+        "d": { "item": "SUS_office_supplies", "chance": 70, "repeat": 3 },
+        "o": { "item": "SUS_oven", "chance": 50, "repeat": 2 },
+        "t": { "item": "SUS_trash_floor_light" },
         "s": { "item": "cleaning", "chance": 50, "repeat": 5 }
       },
       "place_loot": [
         { "group": "cop_armory", "x": 18, "y": [ 15, 16 ], "chance": 25, "repeat": 8 },
-        { "group": "military", "x": [ 17, 18 ], "y": 20, "chance": 50, "repeat": 3 },
+        { "group": "guns_milspec", "x": [ 17, 18 ], "y": 20, "chance": 50, "repeat": 3 },
         { "group": "drugs_soldier", "x": [ 19, 20 ], "y": 20, "chance": 50, "repeat": 3 },
         { "group": "hazmat_suits", "x": 34, "y": 4, "chance": 25 },
         { "group": "hazmat_masks", "x": 34, "y": 4, "chance": 25 },
@@ -350,7 +350,7 @@
         { "group": "hardware_clothing", "x": [ 59, 63 ], "y": 19, "chance": 50, "repeat": 6 },
         { "group": "groce_ingredient", "x": [ 22, 23 ], "y": 23, "chance": 50, "repeat": 6 },
         { "group": "kitchen_nonfood", "x": 22, "y": [ 25, 27 ], "chance": 25, "repeat": 5 },
-        { "group": "oven", "x": 22, "y": [ 25, 27 ], "chance": 25, "repeat": 5 },
+        { "group": "SUS_oven", "x": 22, "y": [ 25, 27 ], "chance": 25, "repeat": 5 },
         { "group": "groce_ingredient", "x": 24, "y": 23, "chance": 50, "repeat": 2 },
         { "group": "dishes_utility", "x": 28, "y": [ 30, 37 ], "chance": 25, "repeat": 10 },
         { "group": "vending_food_items", "x": [ 40, 41 ], "y": 41, "chance": 40, "repeat": 5 },
@@ -379,7 +379,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ [ "lab_arcane_3_1", "lab_arcane_3_2", "lab_arcane_3_3" ], [ "lab_arcane_3_4", "lab_arcane_3_5", "lab_arcane_3_6" ] ],
     "weight": 1000,
     "object": {
@@ -533,10 +533,10 @@
         "B": [ { "item": "textbooks", "chance": 50 }, { "item": "manuals", "chance": 50 } ],
         "C": [
           { "item": "cannedfood", "chance": 25, "repeat": 3 },
-          { "item": "pasta", "chance": 10, "repeat": 3 },
+          { "item": "pasta_ingredients", "chance": 10, "repeat": 3 },
           { "item": "dry_goods", "chance": 10, "repeat": 3 }
         ],
-        "F": { "item": "fridgesnacks", "chance": 25, "repeat": 5 },
+        "F": { "item": "SUS_fridge_snacks", "chance": 25, "repeat": 5 },
         "H": { "item": "mut_lab", "chance": 25, "repeat": 5 },
         "O": [
           { "item": "tools_science", "chance": 50 },
@@ -546,10 +546,10 @@
           { "item": "lab_magitech_other", "chance": 5 },
           { "item": "supplies_mechanics", "chance": 25 }
         ],
-        "d": { "item": "office_supplies", "chance": 70, "repeat": 3 },
+        "d": { "item": "SUS_office_supplies", "chance": 70, "repeat": 3 },
         "f": [ { "item": "supplies_reagents_lab", "chance": 25, "repeat": 3 }, { "item": "lab_misc_anomalous_items", "chance": 10 } ],
-        "o": { "item": "oven", "chance": 50, "repeat": 2 },
-        "t": { "item": "floor_trash", "chance": 50, "repeat": 3 },
+        "o": { "item": "SUS_oven", "chance": 50, "repeat": 2 },
+        "t": { "item": "SUS_trash_floor_light" },
         "s": { "item": "cleaning", "chance": 50, "repeat": 5 }
       },
       "place_loot": [
@@ -580,7 +580,7 @@
         { "group": "army_personal_locker", "x": 35, "y": 36, "chance": 50, "repeat": 4 },
         { "group": "army_personal_locker", "x": 35, "y": 38, "chance": 50, "repeat": 4 },
         { "group": "army_personal_locker", "x": 35, "y": 40, "chance": 50, "repeat": 4 },
-        { "group": "military", "x": 69, "y": [ 39, 41 ], "chance": 25, "repeat": 5 },
+        { "group": "guns_milspec", "x": 69, "y": [ 39, 41 ], "chance": 25, "repeat": 5 },
         { "item": "note_arcane_lab_sector_two", "x": [ 11, 14 ], "y": 15 },
         { "item": "note_arcane_lab_sector_two", "x": 17, "y": [ 16, 18 ] },
         { "item": "note_arcane_lab_sector_two", "x": [ 38, 39 ], "y": 3 },
@@ -612,7 +612,7 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ [ "lab_arcane_4_1", "lab_arcane_4_2", "lab_arcane_4_3" ], [ "lab_arcane_4_4", "lab_arcane_4_5", "lab_arcane_4_6" ] ],
     "weight": 1000,
     "object": {
@@ -796,12 +796,12 @@
           { "item": "book_survival", "chance": 25 },
           { "item": "manuals", "chance": 25 }
         ],
-        "F": { "item": "fridgesnacks", "chance": 25, "repeat": 5 },
+        "F": { "item": "SUS_fridge_snacks", "chance": 25, "repeat": 5 },
         "L": { "item": "army_personal_locker", "chance": 50, "repeat": 4 },
         "O": { "item": "lab_magitech_general", "chance": 50, "repeat": 3 },
-        "d": { "item": "office_supplies", "chance": 70, "repeat": 3 },
-        "o": { "item": "oven", "chance": 50, "repeat": 2 },
-        "t": { "item": "floor_trash", "chance": 50, "repeat": 3 },
+        "d": { "item": "SUS_office_supplies", "chance": 70, "repeat": 3 },
+        "o": { "item": "SUS_oven", "chance": 50, "repeat": 2 },
+        "t": { "item": "SUS_trash_floor_light"},
         "s": { "item": "cleaning", "chance": 50, "repeat": 5 }
       },
       "place_loot": [
@@ -836,8 +836,8 @@
         { "group": "supplies_reagents_lab", "x": 45, "y": [ 31, 33 ], "chance": 50, "repeat": 5 },
         { "group": "hazmat_suits", "x": 45, "y": [ 40, 44 ], "chance": 25, "repeat": 5 },
         { "group": "hazmat_masks", "x": 45, "y": [ 40, 44 ], "chance": 25, "repeat": 5 },
-        { "group": "military", "x": 51, "y": [ 29, 31 ], "chance": 25, "repeat": 5 },
-        { "group": "military", "x": [ 63, 65 ], "y": 43, "chance": 25, "repeat": 5 },
+        { "group": "guns_milspec", "x": 51, "y": [ 29, 31 ], "chance": 25, "repeat": 5 },
+        { "group": "guns_milspec", "x": [ 63, 65 ], "y": 43, "chance": 25, "repeat": 5 },
         { "group": "vending_food_items", "x": 57, "y": 33, "chance": 50, "repeat": 5 },
         { "group": "vending_drink_items", "x": 58, "y": 33, "chance": 50, "repeat": 5 },
         { "item": "note_arcane_lab_sector_three", "x": 17, "y": [ 16, 17 ] },
@@ -886,13 +886,13 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "nested_mapgen_id": "lab_arcane_4_4_rads",
     "object": { "mapgensize": [ 12, 12 ], "set": [ { "square": "radiation", "amount": 50, "x": 0, "y": 0, "x2": 0, "y2": 11 } ] }
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "nested_mapgen_id": "lab_arcane_4_5_rads",
     "object": {
       "mapgensize": [ 12, 12 ],

@@ -5,7 +5,8 @@
     "name": [ "Blood thirst (low)" ],
     "desc": [ "It's been some time since you consumed human blood.  You feel a small discomfort, but it's nothing serious." ],
     "rating": "mixed",
-    "apply_message": "You feel slightly uncomfortable."
+    "apply_message": "You feel slightly uncomfortable.",
+    "removes_effects": [ "bloodthirst_medium", "bloodthirst_high", "bloodthirst_veryhigh" ]
   },
   {
     "id": "bloodthirst_medium",
@@ -14,7 +15,16 @@
     "desc": [ "You're thirsty.  It's starting to hurt you." ],
     "rating": "mixed",
     "apply_message": "You're thirsty for blood.",
-    "base_mods": { "pain_amount": [ 1, 2 ], "pain_chance": [ 8000, 16000 ], "speed_mod": [ -5 ] }
+    "base_mods": { "pain_amount": [ 1, 2 ], "pain_chance": [ 8000, 16000 ] },
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": -0.05 }
+        ] 
+      }
+    ],
+    "removes_effects": [ "bloodthirst_low", "bloodthirst_high", "bloodthirst_veryhigh" ]
   },
   {
     "id": "bloodthirst_high",
@@ -29,9 +39,17 @@
       "dex_mod": [ -1 ],
       "int_mod": [ -1 ],
       "per_mod": [ -1 ],
-      "str_mod": [ -1 ],
-      "speed_mod": [ -15 ]
-    }
+      "str_mod": [ -1 ]
+    },
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": -0.1 }
+        ] 
+      }
+    ],
+    "removes_effects": [ "bloodthirst_low", "bloodthirst_medium", "bloodthirst_veryhigh" ]
   },
   {
     "id": "bloodthirst_veryhigh",
@@ -46,9 +64,17 @@
       "dex_mod": [ -2 ],
       "int_mod": [ -2 ],
       "per_mod": [ -2 ],
-      "str_mod": [ -2 ],
-      "speed_mod": [ -25 ]
-    }
+      "str_mod": [ -2 ]
+    },
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": -0.2 }
+        ] 
+      }
+    ],
+    "removes_effects": [ "bloodthirst_low", "bloodthirst_medium", "bloodthirst_high" ]
   },
   {
     "id": "cure_disease",
@@ -68,20 +94,22 @@
       "spores",
       "tapeworm",
       "tetanus",
-      "toxin_buildup"
+      "toxin_buildup",
+      "icy_pyrexia",
+      "scarlet_plague",
+      "volatile_rot" 
     ],
     "//": "Mostly infectious diseases, not sure if 'non-living' things like poison (proteins) should go here"
   },
   {
-    "id": "damnedrope_strength_effect",
+    "id": "darksphere_speed_effect",
     "type": "effect_type",
     "name": [ "" ],
     "desc": [ "" ],
     "rating": "good",
-    "base_mods": { "str_mod": [ 72 ] },
-    "enchantments": [ { "values": [ { "value": "STRENGTH", "add": 72 } ] } ],
-    "//": "This effect is used for yamame_damnedrope, so she can have extra STR to pull enemies, otherwise her default STR only allows pulling small/light stuff",
-    "//2": "The formula at #52155 is y = (10/3)*x - (20/3), where y is the weight in kg of the target and x is the STR of the caster. 8 + 72 str equals 260 kg"
+    "base_mods": { "speed_mod": [ 33 ] },
+    "max_intensity": 3,
+    "max_effective_intensity": 3
   },
   {
     "id": "dash_levitation",
@@ -89,18 +117,79 @@
     "name": [ "" ],
     "desc": [ "" ],
     "rating": "good",
-    "flags": [ "LEVITATION" ],
+    "flags": [ "FEATHER_FALL", "ITEM_WATERPROOFING", "LEVITATION", "WATERWALKING" ],
     "//": "This effect is used in dashes, so the caster can 'jump' between z-level falls without dropping, breaking some bones, and moving to the end position"
+  },
+  {
+    "id": "dash_meiling_tag_effect",
+    "type": "effect_type",
+    "name": [ "" ],
+    "desc": [ "" ],
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "//": "Dummy effect, used by dash_meiling_eoc "
+  },
+  {
+    "id": "flight_hellraven_effect",
+    "type": "effect_type",
+    "name": [ "Hell raven wings (flight)" ],
+    "desc": [ "You're flying." ],
+    "rating": "good",
+    "flags": [ "CLIMB_FLYING", "ITEM_WATERPROOFING", "LEVITATION", "WATERWALKING" ]
+  },
+  {
+    "id": "flight_tengucrow_effect",
+    "type": "effect_type",
+    "name": [ "Crow wings (flight)" ],
+    "desc": [ "You're flying.  Also increases your movement speed when not running." ],
+    "rating": "good",
+    "enchantments": [ 
+      { 
+        "condition": { "not": { "u_has_move_mode": "run" } }, 
+        "values": [ 
+          { "value": "MOVE_COST", "multiply": -0.15 }
+        ] 
+      }
+    ],
+    "flags": [ "CLIMB_FLYING", "ITEM_WATERPROOFING", "LEVITATION", "WATERWALKING" ],
+    "//": "Aya's base ms is 100 * 0.8 = 80, or 100 * 0.65 = 65 if flying (and not running). Do note same enchantments stack additively, not multiplicatively"
+  },
+  {
+    "id": "flight_vampire_effect",
+    "type": "effect_type",
+    "name": [ "Bat form (flight)" ],
+    "desc": [ "You're flying.  Also increases your movement speed." ],
+    "apply_message": "You shapeshift into a bat.",
+    "rating": "good",
+    "enchantments": [
+      {
+        "condition": { "not": { "u_has_move_mode": "run" } }, 
+        "values": [
+          { "value": "MOVE_COST", "multiply": -0.3 }
+        ]
+      }
+    ],
+    "flags": [ "CLIMB_FLYING", "ITEM_WATERPROOFING", "LEVITATION", "WATERWALKING" ],
+    "//": "~1.5 total movement speed, up from the 1.2x movement speed from base vampires"
   },
   {
     "id": "icy_pyrexia",
     "type": "effect_type",
     "name": [ "Icy pyrexia (disease)" ],
-    "desc": [ "Your limbs feel cold and rigid.  Movement speed is reduced." ],
+    "desc": [ "Your limbs feel cold and rigid.  Actions are slowed down." ],
     "show_in_info": true,
-    "base_mods": { "dex_mod": [ -4 ], "speed_mod": [ -17 ] },
+    "base_mods": { "dex_mod": [ -4 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "SPEED", "multiply": -0.15 }
+        ] 
+      } 
+    ],
+    "//": "This is intended to reduce both ms and attack speed"
   },
   {
     "id": "icy_pyrexia_counter",
@@ -112,7 +201,13 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
-        "intermittent_activation": { "effects": [ { "spell_effects": [ { "id": "yamame_disease_icypyrexia2_2" } ], "frequency": "1 s" } ] }
+        "intermittent_activation": 
+          { 
+            "effects": [ 
+              { "spell_effects": [ { "id": "yamame_disease_icypyrexia2_2" } ], "frequency": "1 s" }
+          ] 
+        },
+        "mutations": [ "YAMAME_COUNTER_MUT" ]
       }
     ]
   },
@@ -123,18 +218,32 @@
     "desc": [ "Lumination effect for kaenbyou_immolate " ],
     "show_in_info": true,
     "rating": "bad",
-    "enchantments": [ { "condition": "ALWAYS", "values": [ { "value": "LUMINATION", "add": 36 } ] } ]
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "LUMINATION", "add": 12 } 
+        ] 
+      } 
+    ]
   },
   {
     "id": "parry_effect",
     "type": "effect_type",
     "name": [ "" ],
     "desc": [ "" ],
+    "max_duration": "2 s",
     "rating": "good",
     "max_intensity": 1,
     "max_effective_intensity": 1,
-    "enchantments": [ { "values": [ { "value": "FORCEFIELD", "add": 1 } ] } ],
-    "max_duration": "2 s",
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "FORCEFIELD", "add": 1 } 
+        ] 
+      }
+    ],
     "//": "Parry effect for some pseudo-melee spells"
   },
   {
@@ -145,7 +254,15 @@
     "show_in_info": true,
     "base_mods": { "bash_mod": [ -2 ], "cut_mod": [ -2 ], "hit_mod": [ -1 ], "str_mod": [ -2 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "REGEN_HP", "multiply": -0.5 } 
+        ] 
+      } 
+    ]
   },
   {
     "id": "scarlet_plague_counter",
@@ -157,7 +274,13 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
-        "intermittent_activation": { "effects": [ { "spell_effects": [ { "id": "yamame_disease_scarletplague2_2" } ], "frequency": "1 s" } ] }
+        "intermittent_activation": 
+          { 
+            "effects": [ 
+              { "spell_effects": [ { "id": "yamame_disease_scarletplague2_2" } ], "frequency": "1 s" }
+          ] 
+        },
+        "mutations": [ "YAMAME_COUNTER_MUT" ]
       }
     ]
   },
@@ -172,19 +295,73 @@
     "max_effective_intensity": 1
   },
   {
-    "id": "smoke",
     "type": "effect_type",
-    "name": [ { "ctxt": "inhaled", "str": "Smoke" } ],
-    "desc": [ "You've inhaled a lungful of thick smoke." ],
-    "apply_message": "You inhale a lungful of thick smoke.",
-    "rating": "bad",
-    "miss_messages": [ [ "Your lungs burn from the smoke.", 1 ] ],
-    "harmful_cough": true,
-    "max_duration": "10 m",
-    "base_mods": { "str_mod": [ -1 ], "dex_mod": [ -1 ], "cough_chance": [ 10 ] },
+    "id": "smoke_eyes",
+    "name": [ "Little Eye Irritation", "Minor Eye Irritation", "Huge Eye Irritation", "Bad Eye Irritation" ],
+    "desc": [
+      "Your eyes are mildly irritated.",
+      "Your eyes are watering.",
+      "Your eyes sting badly and tears stream from them continuously.",
+      "You can barely see anything due to your massive eye irritation and the flood of tears streaming from them."
+    ],
+    "apply_message": [
+      [ "Your eyes are mildly irritated.", "bad" ],
+      [ "Your eyes are watering.", "bad" ],
+      [ "Your eyes sting badly and tears stream from them continuously.", "bad" ],
+      [
+        "You can barely see anything due to your massive eye irritation and the flood of tears streaming from them.",
+        "bad"
+      ]
+    ],
+    "miss_messages": [ [ "Your eyes sting and tear from the irritation.", 1 ] ],
+    "max_duration": "3 m",
+    "max_intensity": 4,
+    "int_decay_tick": 40,
+    "resist_effects": [ "steroid_eye", "PAINRESIST" ],
+    "base_mods": { "per_mod": [ -1, 0 ], "pain_amount": [ 2, 0 ] },
+    "scaling_mods": { "per_mod": [ -1 ], "pain_amount": [ 2, 1 ] },
+    "limb_score_mods": [
+      { "limb_score": "vision", "modifier": 0.8, "resist_modifier": 1.0, "scaling": -0.2, "resist_scaling": -0.15 },
+      { "limb_score": "night_vis", "modifier": 0.8, "resist_modifier": 1.0, "scaling": -0.2, "resist_scaling": -0.15 }
+    ],
+    "flags": [ "EFFECT_LIMB_SCORE_MOD" ],
     "show_in_info": true,
     "immune_flags": [ "PROF_MOKOU" ],
-    "//": "Exactly the same effect, only adds immunity for Mokou"
+    "//": "Only adds immunity for Mokou"
+  },
+  {
+    "type": "effect_type",
+    "id": "smoke_lungs",
+    "name": [ "Inhaled Some Smoke", "Inhaled Plenty of Smoke", "Smoke Inhalation", "Bad Smoke Inhalation" ],
+    "desc": [
+      "You draw in a faint whiff of smoke.",
+      "A noticeable volume of smoke fills your lungs.",
+      "A dense cloud of smoke enters your lungs.",
+      "You inhale an overwhelming volume of smoke."
+    ],
+    "apply_message": [
+      [ "You draw in a faint whiff of smoke.", "bad" ],
+      [ "A noticeable volume of smoke fills your lungs.", "bad" ],
+      [ "A dense cloud of smoke enters your lungs.", "bad" ],
+      [ "You inhale an overwhelming volume of smoke.", "bad" ]
+    ],
+    "miss_messages": [ [ "Your lungs burn from the smoke.", 1 ] ],
+    "harmful_cough": true,
+    "max_duration": "3 m",
+    "max_intensity": 4,
+    "int_decay_tick": 40,
+    "scaling_mods": { "str_mod": [ -1 ], "dex_mod": [ -1 ], "cough_chance": [ 10 ] },
+    "limb_score_mods": [
+      { "limb_score": "breathing", "resist_modifier": 1, "scaling": -0.25 },
+      { "limb_score": "reaction", "resist_modifier": 1, "scaling": -0.1 },
+      { "limb_score": "balance", "resist_modifier": 1, "scaling": -0.1 },
+      { "limb_score": "lift", "resist_modifier": 1, "scaling": -0.1 },
+      { "limb_score": "manip", "resist_modifier": 1, "scaling": -0.1 }
+    ],
+    "flags": [ "EFFECT_LIMB_SCORE_MOD" ],
+    "show_in_info": true,
+    "immune_flags": [ "PROF_MOKOU" ],
+    "//": "Only adds immunity for Mokou"
   },
   {
     "id": "volatile_rot",
@@ -205,19 +382,15 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
-        "intermittent_activation": { "effects": [ { "spell_effects": [ { "id": "yamame_disease_volatilerot2_2" } ], "frequency": "1 s" } ] }
+        "intermittent_activation": 
+          { 
+            "effects": [ 
+              { "spell_effects": [ { "id": "yamame_disease_volatilerot2_2" } ], "frequency": "1 s" }
+          ] 
+        },
+        "mutations": [ "YAMAME_COUNTER_MUT" ]
       }
     ]
-  },
-  {
-    "id": "aya_levitation",
-    "type": "effect_type",
-    "name": [ "Crow wings (flight) (effect)" ],
-    "desc": [ "Allows you to fly over ledges.  Also increases your movement speed." ],
-    "rating": "good",
-    "base_mods": { "speed_mod": [ 33 ] },
-    "flags": [ "LEVITATION" ],
-    "//": "~1.66 total movement speed, up from ~1.33 movement speed from base Aya"
   },
   {
     "id": "aya_mspeed",
@@ -227,7 +400,16 @@
     "apply_message": "Your movement speed is greatly increased.",
     "remove_message": "You move as usual again.",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 200 ] }
+    "enchantments": [ 
+      { 
+        "condition": "ALWAYS", 
+        "values": [ 
+          { "value": "MOVE_COST", "multiply": -0.4 }
+        ] 
+      }
+    ],
+    "//": "Aya's base ms is 100 * 0.8 = 80, or 100 * 0.4 = 40 if having this effect. Do note same MOVE_COST stack additively, not multiplicatively",
+    "//2": "This should make her total ms x2"
   },
   {
     "id": "kaenbyou_soulshatter",
@@ -261,6 +443,13 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "bash", "multiply": 0.1 },
+          { "type": "cut", "multiply": 0.1 },
+          { "type": "stab", "multiply": 0.1 },
+          { "type": "bullet", "multiply": 0.1 }
+        ],
         "values": [
           { "value": "STRENGTH", "add": 2 },
           { "value": "INTELLIGENCE", "add": -2 },
@@ -269,11 +458,7 @@
           { "value": "ATTACK_NOISE", "multiply": 0.16 },
           { "value": "OVERKILL_DAMAGE", "multiply": -2 },
           { "value": "WEAPON_DISPERSION", "multiply": 0.16 },
-          { "value": "MELEE_DAMAGE", "multiply": 0.11 },
-          { "value": "ARMOR_BASH", "multiply": 0.1 },
-          { "value": "ARMOR_CUT", "multiply": 0.1 },
-          { "value": "ARMOR_STAB", "multiply": 0.1 },
-          { "value": "ARMOR_BULLET", "multiply": 0.1 }
+          { "value": "MELEE_DAMAGE", "multiply": 0.11 }
         ]
       }
     ]
@@ -287,6 +472,13 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "bash", "multiply": 0.2 },
+          { "type": "cut", "multiply": 0.2 },
+          { "type": "stab", "multiply": 0.2 },
+          { "type": "bullet", "multiply": 0.2 }
+        ],
         "values": [
           { "value": "STRENGTH", "add": 4 },
           { "value": "INTELLIGENCE", "add": -2 },
@@ -295,11 +487,7 @@
           { "value": "ATTACK_NOISE", "multiply": 0.33 },
           { "value": "OVERKILL_DAMAGE", "multiply": -4 },
           { "value": "WEAPON_DISPERSION", "multiply": 0.33 },
-          { "value": "MELEE_DAMAGE", "multiply": 0.22 },
-          { "value": "ARMOR_BASH", "multiply": 0.2 },
-          { "value": "ARMOR_CUT", "multiply": 0.2 },
-          { "value": "ARMOR_STAB", "multiply": 0.2 },
-          { "value": "ARMOR_BULLET", "multiply": 0.2 }
+          { "value": "MELEE_DAMAGE", "multiply": 0.22 }
         ]
       }
     ]
@@ -313,12 +501,13 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
         "values": [
           { "value": "INTELLIGENCE", "add": 2 },
           { "value": "STRENGTH", "add": -2 },
           { "value": "SOCIAL_LIE", "add": 4 },
           { "value": "SOCIAL_PERSUADE", "add": 4 },
-          { "value": "MOVE_COST", "multiply": -0.1 },
+          { "value": "SPEED", "multiply": 0.1 },
           { "value": "RANGED_DAMAGE", "multiply": 0.1 },
           { "value": "FOOTSTEP_NOISE", "multiply": -0.2 }
         ]
@@ -334,12 +523,13 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
         "values": [
           { "value": "INTELLIGENCE", "add": 4 },
           { "value": "STRENGTH", "add": -2 },
           { "value": "SOCIAL_LIE", "add": 8 },
           { "value": "SOCIAL_PERSUADE", "add": 4 },
-          { "value": "MOVE_COST", "multiply": -0.2 },
+          { "value": "SPEED", "multiply": 0.2 },
           { "value": "RANGED_DAMAGE", "multiply": 0.2 },
           { "value": "FOOTSTEP_NOISE", "multiply": -0.33 }
         ]
@@ -355,6 +545,7 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
         "values": [
           { "value": "DEXTERITY", "add": 2 },
           { "value": "PERCEPTION", "add": -2 },
@@ -376,6 +567,7 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
         "values": [
           { "value": "DEXTERITY", "add": 4 },
           { "value": "PERCEPTION", "add": -2 },
@@ -397,17 +589,20 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "bash", "multiply": -0.11 },
+          { "type": "cut", "multiply": -0.11 },
+          { "type": "stab", "multiply": -0.11 },
+          { "type": "bullet", "multiply": -0.11 }
+        ],
         "values": [
           { "value": "PERCEPTION", "add": 2 },
           { "value": "DEXTERITY", "add": -2 },
           { "value": "SOCIAL_LIE", "add": 4 },
           { "value": "SOCIAL_PERSUADE", "add": 4 },
           { "value": "PAIN", "multiply": 0.05 },
-          { "value": "ATTACK_SPEED", "multiply": -0.1 },
-          { "value": "ARMOR_BASH", "multiply": -0.11 },
-          { "value": "ARMOR_CUT", "multiply": -0.11 },
-          { "value": "ARMOR_STAB", "multiply": -0.11 },
-          { "value": "ARMOR_BULLET", "multiply": -0.11 }
+          { "value": "ATTACK_SPEED", "multiply": -0.1 }
         ]
       }
     ]
@@ -421,17 +616,20 @@
     "rating": "mixed",
     "enchantments": [
       {
+        "condition": "ALWAYS",
+        "incoming_damage_mod": [
+          { "type": "bash", "multiply": -0.22 },
+          { "type": "cut", "multiply": -0.22 },
+          { "type": "stab", "multiply": -0.22 },
+          { "type": "bullet", "multiply": -0.22 }
+        ],
         "values": [
           { "value": "PERCEPTION", "add": 4 },
           { "value": "DEXTERITY", "add": -2 },
           { "value": "SOCIAL_LIE", "add": 4 },
           { "value": "SOCIAL_PERSUADE", "add": 8 },
           { "value": "PAIN", "multiply": 0.1 },
-          { "value": "ATTACK_SPEED", "multiply": -0.16 },
-          { "value": "ARMOR_BASH", "multiply": -0.22 },
-          { "value": "ARMOR_CUT", "multiply": -0.22 },
-          { "value": "ARMOR_STAB", "multiply": -0.22 },
-          { "value": "ARMOR_BULLET", "multiply": -0.22 }
+          { "value": "ATTACK_SPEED", "multiply": -0.16 }
         ]
       }
     ]
@@ -447,11 +645,19 @@
   {
     "id": "kokoro_unleash_anger_effect",
     "type": "effect_type",
-    "name": [ "Melancholy (effect)" ],
-    "desc": [ "You feel sad." ],
-    "base_mods": { "bash_mod": [ 2 ], "cut_mod": [ 2 ], "speed_mod": [ 20 ] },
+    "name": [ "Anger (effect)" ],
+    "desc": [ "You feel enraged!" ],
+    "base_mods": { "bash_mod": [ 2 ], "cut_mod": [ 2 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": 0.2 }
+        ]
+      }
+    ]
   },
   {
     "id": "kokoro_unleash_determination_effect",
@@ -477,9 +683,17 @@
     "type": "effect_type",
     "name": [ "Melancholy (effect)" ],
     "desc": [ "You feel sad." ],
-    "base_mods": { "bash_mod": [ -2 ], "cut_mod": [ -2 ], "dodge_mod": [ -1 ], "speed_mod": [ -20 ] },
+    "base_mods": { "bash_mod": [ -2 ], "cut_mod": [ -2 ], "dodge_mod": [ -1 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": -0.2 }
+        ]
+      }
+    ]
   },
   {
     "id": "meiling_qiheal_effect",
@@ -492,7 +706,32 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
-        "intermittent_activation": { "effects": [ { "spell_effects": [ { "id": "meiling_qiheal2" } ], "frequency": "1 s" } ] }
+        "intermittent_activation": 
+          { 
+            "effects": [ 
+              { "spell_effects": [ { "id": "meiling_qiheal2" } ], "frequency": "1 s" }
+          ] 
+        }
+      }
+    ]
+  },
+  {
+    "id": "mokou_cauterize_effect",
+    "type": "effect_type",
+    "name": [ "Cauterize (effect)" ],
+    "desc": [ "Healing…" ],
+    "show_in_info": true,
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "intermittent_activation": 
+          { 
+            "effects": [ 
+              { "spell_effects": [ { "id": "mokou_cauterize2" } ], "frequency": "1 s" }
+          ] 
+        }
       }
     ]
   },
@@ -791,16 +1030,6 @@
     "//": "Should remove all 'external' or imposed effects, focused on movement speed effects"
   },
   {
-    "id": "remi_levitation",
-    "type": "effect_type",
-    "name": [ "Bat wings (flight) (effect)" ],
-    "desc": [ "Allows you to fly over ledges.  Also increases your movement speed." ],
-    "rating": "good",
-    "base_mods": { "speed_mod": [ 25 ] },
-    "flags": [ "LEVITATION" ],
-    "//": "~1.5 total movement speed, up from the 1.25x movement speed from base vampires"
-  },
-  {
     "id": "sakuya_contraction_effect",
     "type": "effect_type",
     "name": [ "Temporal contraction (effect)" ],
@@ -809,7 +1038,14 @@
     "apply_message": "The world seems to accelerate around you!",
     "remove_message": "Time is flowing normally again.",
     "rating": "mixed",
-    "base_mods": { "speed_mod": [ -50 ] }
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": -0.5 }
+        ]
+      }
+    ]
   },
   {
     "id": "sakuya_dilation_effect",
@@ -819,7 +1055,15 @@
     "apply_message": "You start moving to superhuman speeds.",
     "remove_message": "You move normally again.",
     "rating": "good",
-    "base_mods": { "dex_mod": [ 1 ], "speed_mod": [ 65 ] }
+    "base_mods": { "dex_mod": [ 1 ] },
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": 0.5 }
+        ]
+      }
+    ]
   },
   {
     "id": "sakuya_maidsecret_effect",
@@ -828,7 +1072,14 @@
     "desc": [ "You're focused…" ],
     "apply_message": "You focus to extend your ability…",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 35 ] }
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": 0.35 }
+        ]
+      }
+    ]
   },
   {
     "id": "sakuya_quickrest_effect",
@@ -844,12 +1095,39 @@
     "id": "sakuya_timestop_effect",
     "type": "effect_type",
     "name": [ "Time stop (effect)" ],
-    "desc": [ "Test effect for sakuya_timestop " ],
+    "desc": [ "" ],
+    "show_in_info": true,
+    "max_duration": "9 s",
     "apply_message": "Time is frozen.  Is it as if the entire world has stopped.",
     "remove_message": "Thus, time is flowing again.",
+    "rating": "bad",
+    "max_intensity": 1,
+    "max_effective_intensity": 1,
+    "flags": [
+      "CANNOT_ATTACK",
+      "CANNOT_CHANGE_TEMPERATURE",
+      "CANNOT_MOVE",
+      "FREEZE_EFFECTS"
+    ],
+    "//": "Similar to effect_xedra_time_freeze , removing the CANNOT_GAIN_EFFECTS and CANNOT_TAKE_DAMAGE so it's more like DIO's time stop"
+  },
+  {
+    "id": "sakuya_timestop_self_effect",
+    "type": "effect_type",
+    "name": [ "Time stop (effect)" ],
+    "desc": [ "Time is frozen." ],
     "rating": "good",
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "MOVE_COST", "multiply": -1 }
+        ]
+      }
+    ],
+    "//note": "WARNING: This 'freezes' EOCs due negating move cost! DO NOT USE SEPARATED FROM THE MAIN EOC"
   },
   {
     "id": "seiga_corpsecurse_effect",
@@ -861,15 +1139,37 @@
     "max_effective_intensity": 1
   },
   {
+    "id": "seiga_corpsecurse_dot_effect",
+    "type": "effect_type",
+    "name": [ "Curse of corpses (curse)" ],
+    "desc": [ "" ],
+    "show_in_info": true,
+    "base_mods": {
+      "hurt_amount": [ 1 ],
+      "hurt_chance": [ 1 ],
+      "hurt_tick": [ 1 ],
+      "hurt_min": [ 1 ]
+    },
+    "max_intensity": 1,
+    "max_effective_intensity": 1
+  },
+  {
     "id": "seiga_cripple_effect_short",
     "type": "effect_type",
     "name": [ "Cripple (curse)" ],
     "desc": [ "Cripple (curse)" ],
     "show_in_info": true,
     "max_duration": "10 s",
-    "base_mods": { "speed_mod": [ -60 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": -0.4 }
+        ]
+      }
+    ]
   },
   {
     "id": "seiga_cripple_effect_long",
@@ -878,9 +1178,16 @@
     "desc": [ "Cripple (curse)" ],
     "show_in_info": true,
     "max_duration": "60 s",
-    "base_mods": { "speed_mod": [ -20 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": -0.2 }
+        ]
+      }
+    ]
   },
   {
     "id": "seiga_frenzy",
@@ -894,14 +1201,21 @@
       "per_mod": [ 1 ],
       "dex_mod": [ 1 ],
       "int_mod": [ -4 ],
-      "speed_mod": [ 35 ],
       "hit_mod": [ 3 ],
       "dodge_mod": [ 3 ],
       "bash_mod": [ 4, 8 ],
       "cut_mod": [ 4, 8 ]
     },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": 0.35 }
+        ]
+      }
+    ]
   },
   {
     "id": "seiga_heal",
@@ -913,7 +1227,12 @@
     "enchantments": [
       {
         "condition": "ALWAYS",
-        "intermittent_activation": { "effects": [ { "spell_effects": [ { "id": "seiga_chidrain3" } ], "frequency": "1 s" } ] }
+        "intermittent_activation": 
+          { 
+            "effects": [ 
+              { "spell_effects": [ { "id": "seiga_chidrain3" } ], "frequency": "1 s" }
+          ] 
+        }
       }
     ]
   },
@@ -922,95 +1241,114 @@
     "type": "effect_type",
     "name": [ "Hermit walk (speed)" ],
     "desc": [ "Movement speed is increased." ],
-    "apply_message": "Your movement speed is slightly increased.",
+    "apply_message": "Your movement speed is increased.",
     "remove_message": "You move normally again.",
     "rating": "good",
-    "base_mods": { "speed_mod": [ 25 ] },
-    "flags": [ "LEVITATION" ]
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "MOVE_COST", "multiply": -0.2 }
+        ]
+      }
+    ],
+    "flags": [ "ITEM_WATERPROOFING", "LEVITATION", "WATERWALKING" ]
   },
   {
     "id": "seiga_shikaisen_effect",
     "type": "effect_type",
     "name": [ "Shikaisen ritual (effect)" ],
-    "desc": [
-      "You have placed a replacement for yourself somewhere, which will immediately activate to protect you from lethal harm."
-    ],
+    "desc": [ "You have placed a replacement for yourself somewhere, which will immediately activate to protect you from lethal harm." ],
     "max_intensity": 1,
     "max_effective_intensity": 1,
     "//": "Dummy effect, used to detect she has a double somewhere"
   },
   {
-    "id": "udonge_barrierwave",
+    "id": "udonge_barrierwave_effect",
     "type": "effect_type",
     "name": [ "Barrier wave (effect)" ],
     "desc": [ "Ignoring incoming attacks." ],
     "rating": "good",
     "enchantments": [
-      { "values": [ { "value": "FORCEFIELD", "add": 1 } ] },
-      { "condition": "ALWAYS", "hit_me_effect": [ { "id": "udonge_warrierwave_vfx", "hit_self": true } ] }
-    ],
-    "removes_effects": [ "udonge_insight", "udonge_mfortitude", "udonge_perception", "udonge_stealth" ]
+      { 
+        "condition": "ALWAYS",
+        "values": [ 
+          { "value": "FORCEFIELD", "add": 1 } 
+        ] 
+      },
+      {
+        "condition": "ALWAYS",
+        "hit_me_effect": [ { "id": "udonge_warrierwave_vfx", "hit_self": true } ]
+      }
+    ]
   },
   {
-    "id": "udonge_insight",
+    "id": "udonge_insight_effect",
     "type": "effect_type",
     "name": [ "Wavelength manipulation (Insight)" ],
     "desc": [ "You're concentrated…" ],
     "apply_message": "Mental processes become focused.",
     "remove_message": "You relax your thoughts.",
     "rating": "good",
-    "base_mods": { "int_mod": [ 2 ], "pkill_amount": [ -1 ], "stim_amount": [ 2 ] },
-    "removes_effects": [ "udonge_barrierwave", "udonge_mfortitude", "udonge_perception", "udonge_stealth" ]
+    "base_mods": { "pkill_amount": [ -1 ] },
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "INTELLIGENCE", "multiply": 0.2 }
+        ]
+      }
+    ]
   },
   {
-    "id": "udonge_mfortitude",
+    "id": "udonge_mfortitude_effect",
     "type": "effect_type",
     "name": [ "Wavelength manipulation (Mental fortitude)" ],
     "desc": [ "You clear your mind from external interferences, returning your brain waves to a basal state." ],
     "apply_message": "You enter a mindfulness-like state.",
     "remove_message": "You relax your thoughts.",
     "rating": "good",
-    "removes_effects": [
-      "fearparalyze",
-      "taint",
-      "tindrift",
-      "visuals",
-      "udonge_barrierwave",
-      "udonge_insight",
-      "udonge_perception",
-      "udonge_stealth"
+    "removes_effects": [ 
+      "amigara", 
+      "fearparalyze", 
+      "hallu", 
+      "hallucination_attacks", 
+      "pd_dex_bad", 
+      "pd_int_bad", 
+      "pd_per_bad", 
+      "pd_str_bad", 
+      "taint", 
+      "tindrift", 
+      "visuals" 
     ]
   },
   {
-    "id": "udonge_perception",
+    "id": "udonge_perception_effect",
     "type": "effect_type",
     "name": [ "Wavelength manipulation (Perception)" ],
     "desc": [ "Awareness is greatly increased." ],
     "apply_message": "You harness the shadows that stride between the worlds.",
     "remove_message": "Your vision becomes normal again.",
     "rating": "good",
-    "base_mods": { "per_mod": [ 2 ] },
-    "removes_effects": [ "udonge_barrierwave", "udonge_insight", "udonge_mfortitude", "udonge_stealth" ],
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "PERCEPTION", "multiply": 0.2 }
+        ]
+      }
+    ],
     "flags": [ "INFRARED", "NIGHT_VISION", "SUPER_HEARING" ]
   },
   {
-    "id": "udonge_stealth",
+    "id": "udonge_stealth_effect",
     "type": "effect_type",
     "name": [ "Wavelength manipulation (Stealth)" ],
     "desc": [ "Become imperceptible to those around you." ],
     "apply_message": "Your wavelength becomes minimal, turning you invisible.",
     "remove_message": "You become perceptible again.",
     "rating": "good",
-    "removes_effects": [ "udonge_barrierwave", "udonge_insight", "udonge_mfortitude", "udonge_perception" ],
     "flags": [ "INVISIBLE", "NO_SCENT" ]
-  },
-  {
-    "id": "utsuho_levitation",
-    "type": "effect_type",
-    "name": [ "Hell raven wings (flight) (effect)" ],
-    "desc": [ "Allows you to fly over ledges." ],
-    "rating": "good",
-    "flags": [ "LEVITATION" ]
   },
   {
     "id": "youmu_knee_slasher_slow",
@@ -1018,18 +1356,32 @@
     "name": [ "Knee slasher (effect)" ],
     "desc": [ "Movement speed is reduced." ],
     "show_in_info": true,
-    "base_mods": { "speed_mod": [ -20 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "MOVE_COST", "multiply": 0.2 }
+        ]
+      }
+    ]
   },
   {
     "id": "youmumyon2_slasheternal2_slow",
     "type": "effect_type",
     "name": [ "Phantom aura (effect)" ],
-    "desc": [ "Movement speed is reduced." ],
+    "desc": [ "Actions are slowed down." ],
     "show_in_info": true,
-    "base_mods": { "speed_mod": [ -25 ] },
     "max_intensity": 1,
-    "max_effective_intensity": 1
+    "max_effective_intensity": 1,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [
+          { "value": "SPEED", "multiply": -0.2 }
+        ]
+      }
+    ]
   }
 ]

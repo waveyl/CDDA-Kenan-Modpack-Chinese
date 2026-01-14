@@ -12,20 +12,13 @@
       "check_sees": true,
       "check_sees_radius": 3
     },
-    "trail": { "field_type": "fd_electricity", "intensity_min": 2, "intensity_max": 3, "chance": 100 },
-    "do_emp_blast": true
-  },
-  {
-    "id": "LIGHTNING_JUDGMENT_LESSER",
-    "type": "ammo_effect",
-    "trail": { "field_type": "fd_electricity", "intensity_min": 2, "intensity_max": 3, "chance": 100 },
     "do_emp_blast": true
   },
   {
     "id": "NAPALM_CLAW",
     "type": "ammo_effect",
     "aoe": { "field_type": "fd_fire", "intensity_min": 1, "intensity_max": 2, "radius": 2 },
-    "explosion": { "power": 1750, "distance_factor": 0.2 }
+    "explosion": { "power": 3000, "distance_factor": 0.2 }
   },
   {
     "id": "AMMO_DRAGONFIRE_ARCANA",
@@ -141,11 +134,6 @@
     "id": "ARCANA_BANE_FUNG",
     "type": "ammo_effect",
     "aoe": { "field_type": "fd_fungicidal_gas", "intensity_min": 1, "intensity_max": 3, "radius": 5, "chance": 25 }
-  },
-  {
-    "id": "ARCANA_BANE_NUKE",
-    "type": "ammo_effect",
-    "aoe": { "field_type": "fd_nuke_gas", "intensity_min": 1, "intensity_max": 3, "radius": 5, "chance": 25 }
   },
   {
     "id": "ARCANA_BANE_TEAR",

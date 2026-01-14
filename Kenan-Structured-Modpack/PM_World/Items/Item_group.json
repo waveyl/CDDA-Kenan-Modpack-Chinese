@@ -79,7 +79,7 @@
     "type": "item_group",
     "id": "vending_drink_items",
     "copy-from": "vending_drink_items",
-    "extend": { "items": [ [ "wellcheers", 15 ], [ "cherry_wellcheers", 15 ], [ "grape_wellcheers", 15 ] ] }
+    "extend": { "items": [ [ "wellcheers", 25 ], [ "cherry_wellcheers", 25 ], [ "grape_wellcheers", 20 ] ] }
   },
   {
     "type": "item_group",
@@ -92,7 +92,8 @@
           "distribution": [
             { "item": "wellcheers", "prob": 50 },
             { "item": "cherry_wellcheers", "prob": 50 },
-            { "item": "grape_wellcheers", "prob": 50 }
+            { "item": "grape_wellcheers", "prob": 50 },
+            { "item": "zweiflyer_item", "prob": 40 }
           ]
         }
       ]
@@ -103,5 +104,71 @@
     "type": "item_group",
     "subtype": "collection",
     "entries": [ { "item": "skin_prophecy", "prob": 100 } ]
+  },
+  {
+    "type": "item_group",
+    "id": "manuals",
+    "copy-from": "manuals",
+    "extend": {
+      "items": [
+        { "item": "resjournalrisk", "prob": 30 },
+        { "item": "resjournalego", "prob": 30 },
+        { "item": "resjournaldistortion", "prob": 30 },
+        { "item": "resjournalabnormality", "prob": 30 },
+        { "item": "resjournalenk", "prob": 50 }
+      ]
+    }
+  },
+  {
+    "id": "SUS_trash_trashcan",
+    "type": "item_group",
+    "copy-from": "SUS_trash_trashcan",
+    "extend": { "items": [ { "item": "zweiflyer_item", "prob": 12 } ] }
+  },
+  {
+    "id": "SUS_trash_floor",
+    "type": "item_group",
+    "copy-from": "SUS_trash_floor",
+    "extend": { "items": [ { "item": "zweiflyer_item", "prob": 12 } ] }
+  },
+  {
+    "id": "shrimp_drop",
+    "type": "item_group",
+    "subtype": "collection",
+    "entries": [ { "item": "prawn_wellcheers", "count": [ 1, 1 ], "prob": 20 } ]
+  },
+  {
+    "id": "doubt_drop",
+    "type": "item_group",
+    "subtype": "collection",
+    "entries": [ { "item": "rustedlance_item", "count": [ 1, 1 ], "prob": 40 } ]
+  },
+  {
+    "id": "SUS_junk_drawer",
+    "type": "item_group",
+    "subtype": "collection",
+    "copy-from": "SUS_junk_drawer",
+    "extend": { "entries": [ { "item": "zweiflyer_item", "prob": 12 } ] }
+  },
+  {
+    "id": "SUS_office_desk",
+    "type": "item_group",
+    "subtype": "collection",
+    "copy-from": "SUS_office_desk",
+    "extend": { "entries": [ { "item": "internet_sim_card", "prob": 5 } ] }
+  },
+  {
+    "id": "SUS_science_personal_effects",
+    "type": "item_group",
+    "subtype": "collection",
+    "copy-from": "SUS_science_personal_effects",
+    "extend": { "entries": [ { "item": "internet_sim_card", "prob": 3 } ] }
+  },
+  {
+    "id": "supplies_electronics",
+    "type": "item_group",
+    "subtype": "distribution",
+    "copy-from": "supplies_electronics",
+    "extend": { "entries": [ { "item": "internet_sim_card", "prob": 7 } ] }
   }
 ]

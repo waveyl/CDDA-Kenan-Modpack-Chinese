@@ -1,0 +1,741 @@
+[
+  {
+    "type": "mutation",
+    "id": "EGO_Soda",
+    "name": "[ז] EGO Soda",
+    "points": 0,
+    "description": "You have bonded with Soda, for better, or for worse.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "id": "EGO_soda",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Invoke Bond",
+    "description": "Activate your bond with Soda, strengthening you and granting you the ability to give enemies the slip. However, any contact with an EGO takes a toll.",
+    "valid_targets": [ "self" ],
+    "effect": "effect_on_condition",
+    "effect_str": "soda_activation",
+    "shape": "blast",
+    "magic_type": "EGO_Invocation",
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": ["600 + (400 * (u_spell_level('EGO_soda')^2))"] },
+    "duration_increment": 0,
+    "base_casting_time": 200,
+    "final_casting_time": 25,
+    "casting_time_increment": -5,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 3000,
+    "final_energy_cost": 500,
+    "energy_increment": -100,
+    "difficulty": 3,
+    "max_level": 30,
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_HANDS", "NO_LEGS" ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "soda_activation",
+    "condition": { "not": { "u_has_effect": "EGO_CD" } },
+    "effect": [
+      { "u_add_effect": "EGO_CD", "duration": { "math": ["300 + (4 * (u_spell_level('EGO_soda')^2))"] } },
+      { "math": [ "u_vitamin('emotion') -= 20" ] },
+      {
+        "u_cast_spell": { "id": "EGO_soda_success", "hit_self": true, "min_level": { "math": [ "u_spell_level('EGO_soda')" ] } }
+      },
+      { "math": [ "u_health() -= 3" ] },
+      {
+        "u_add_morale": "ego_morale",
+        "bonus": -10,
+        "max_bonus": -200,
+        "duration": "15 minutes",
+        "decay_start": "5 minutes"
+      },
+      {
+        "run_eocs": "clear_spells_soda",
+        "time_in_future": { "math": ["6 + (4 * (u_spell_level('EGO_soda')^2))"] }
+      },
+      { "run_eocs": "soda_chat" }
+    ],
+    "false_effect": [
+      { "u_message": "EGO on cooldown!..", "type": "bad" },
+      { "math": [ "u_health() -= 1" ] },
+      {
+        "u_add_morale": "ego_morale",
+        "bonus": -6,
+        "max_bonus": -200,
+        "duration": "15 minutes",
+        "decay_start": "5 minutes"
+      }
+    ]
+  },
+  {
+    "id": "EGO_soda_success",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda Invoke Bond",
+    "description": "",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "EGO_soda_aura",
+    "shape": "blast",
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": ["600 + (400 * (u_spell_level('EGO_soda')^2))"] },
+    "base_casting_time": 0,
+    "final_casting_time": 0,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 0,
+    "final_energy_cost": 0,
+    "energy_source": "NONE",
+    "difficulty": 3,
+    "max_level": 30,
+    "flags": [ "SILENT", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_HANDS", "NO_LEGS" ]
+  },
+  {
+    "id": "EGO_soda_aura",
+    "type": "ITEM",
+    "subtypes": [ "ARMOR", "ARTIFACT" ],
+    "name": "[ז] EGO Soda Aura",
+    "description": "You feel Soda's presence in your mind, alien, twisting and writhing, yet granting you power beyond any mere mortal. While the bond is active you sense you'll be harder to knock down, better at dodging, and find it easier to throw items.",
+    "weight": "0 g",
+    "volume": "0 ml",
+    "material": [ "wind" ],
+    "symbol": "0",
+    "color": "white",
+    "flags": [ "ZERO_WEIGHT", "NO_TAKEOFF" ],
+    "passive_effects": [ { "id": "EGO_soda_stage_1" }, { "id": "EGO_soda_stage_2" }, { "id": "EGO_soda_stage_3" }, { "id": "EGO_soda_stage_4" } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "EGO_soda_stage_1",
+    "has": "WORN",
+    "condition": { "math": [ "u_spell_level('EGO_soda') < 10" ] },
+    "mutations": [ "EGO_soda_mutation_stage_1" ],
+    "values": [
+      { "value": "THROW_STR", "add": { "math": [ "u_spell_level('EGO_soda') / 2" ] } },
+      { "value": "SCENT_MASK", "add": 100 },
+      { "value": "DODGE_CHANCE", "add": { "math": [ "u_spell_level('EGO_soda') / 4" ] } },
+      { "value": "KNOCKDOWN_RESIST", "add": 10 }
+    ]
+  },
+  {
+    "type": "enchantment",
+    "id": "EGO_soda_stage_2",
+    "has": "WORN",
+    "condition": { "and": [ { "math": [ "u_spell_level('EGO_soda') >= 10" ] }, { "math": [ "u_spell_level('EGO_soda') < 20" ] } ] },
+    "mutations": [ "EGO_soda_mutation_stage_2" ],
+    "values": [
+      { "value": "THROW_STR", "add": { "math": [ "u_spell_level('EGO_soda')" ] } },
+      { "value": "SCENT_MASK", "add": 150 },
+      { "value": "DODGE_CHANCE", "add": { "math": [ "u_spell_level('EGO_soda') / 3" ] } },
+      { "value": "KNOCKDOWN_RESIST", "add": 20 }
+    ]
+  },
+  {
+    "type": "enchantment",
+    "id": "EGO_soda_stage_3",
+    "has": "WORN",
+    "condition": { "and": [ { "math": [ "u_spell_level('EGO_soda') >= 20" ] }, { "math": [ "u_spell_level('EGO_soda') < 25" ] } ] },
+    "mutations": [ "EGO_soda_mutation_stage_3" ],
+    "values": [
+      { "value": "THROW_STR", "add": { "math": [ "u_spell_level('EGO_soda') * 1.5" ] } },
+      { "value": "SCENT_MASK", "add": 200 },
+      { "value": "DODGE_CHANCE", "add": { "math": [ "u_spell_level('EGO_soda') / 2" ] } },
+      { "value": "KNOCKDOWN_RESIST", "add": 30 }
+    ]
+  },
+  {
+    "type": "enchantment",
+    "id": "EGO_soda_stage_4",
+    "has": "WORN",
+    "condition": { "math": [ "u_spell_level('EGO_soda') >= 25" ] },
+    "mutations": [ "EGO_soda_mutation_stage_4" ],
+    "values": [
+      { "value": "THROW_STR", "add": { "math": [ "u_spell_level('EGO_soda') * 2" ] } },
+      { "value": "SCENT_MASK", "add": 250 },
+      { "value": "DODGE_CHANCE", "add": { "math": [ "u_spell_level('EGO_soda')" ] } },
+      { "value": "KNOCKDOWN_RESIST", "add": 40 }
+    ]
+  },
+  {
+    "type": "mutation",
+    "id": "EGO_soda_mutation_stage_1",
+    "name": "[ז] Imperfect Soda manifestation",
+    "points": 0,
+    "description": "EGO Soda mutation desc",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false
+  },
+  {
+    "type": "mutation",
+    "id": "EGO_soda_mutation_stage_2",
+    "name": "[ז] Imperfect Soda manifestation",
+    "points": 0,
+    "description": "EGO Soda mutation desc",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "spells_learned": [ [ "EGO_soda_summon_can_weak", 1 ] ]
+  },
+  {
+    "type": "mutation",
+    "id": "EGO_soda_mutation_stage_3",
+    "name": "[ז] EGO Soda manifestation",
+    "points": 0,
+    "description": "EGO Soda mutation desc",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "spells_learned": [ [ "EGO_soda_summon_can_normal", 1 ], [ "EGO_soda_summon_armour_normal", 1 ], [ "EGO_soda_summon_net_normal", 1 ], [ "EGO_soda_summon_wellcheers", 1 ] ]
+  },
+  {
+    "type": "mutation",
+    "id": "EGO_soda_mutation_stage_4",
+    "name": "[ז] EGO Soda manifestation",
+    "points": 0,
+    "description": "EGO Soda mutation desc",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "spells_learned": [ [ "EGO_soda_summon_can_empower", 1 ], [ "EGO_soda_summon_armour_empower", 1 ], [ "EGO_soda_summon_net_empower", 1 ], [ "EGO_soda_summon_wellcheers", 1 ] ]
+  },
+  {
+    "id": "EGO_soda_summon_can_weak",
+    "type": "SPELL",
+    "name": "[ז] Imperfect EGO Soda - Summon WellCheersBomb",
+    "description": "Call forth a WellCheers can from the aether - one primed to be thrown at those who offend the might of WellCheers.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_can_weak_item_act",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "2500 + (75 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 10000,
+    "duration_increment": 75,
+    "base_casting_time": 80,
+    "final_casting_time": 80,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 200,
+    "final_energy_cost": 200,
+    "energy_source": "STAMINA",
+    "message": "Swiping your hand through the air, a cold metal touches your skin, the icy, refreshing touch of WellCheers.",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "PERMANENT", "NO_HANDS" ]
+  },
+  {
+    "id": "soda_can_weak_item_act",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
+    "name": { "str": "<color_red>Primed Can of WellCheers</color>" },
+    "description": "A can of delightfully refreshing WellCheers, but one you know not to taste - it is primed for destruction, tab pulled, it'll explode soon.",
+    "looks_like": "can_drink",
+    "symbol": "w",
+    "color": "light_gray",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
+    "melee_damage": { "bash": 2 },
+    "thrown_damage": [ { "damage_type": "bash", "amount": 6 } ],
+    "passive_effects": [ { "id": "can_throwing_ench" } ],
+    "countdown_interval": "5 seconds",
+    "flags": [
+      "SPAWN_ACTIVE"
+    ],
+    "countdown_action": {
+      "type": "explosion",
+      "fields_radius": 1,
+      "fields_type": "fd_acid",
+      "fields_min_intensity": 1,
+      "fields_max_intensity": 1
+    },
+    "copy-from": "well_can"
+  },
+  {
+    "type": "enchantment",
+    "id": "can_throwing_ench",
+    "has": "WIELD",
+    "condition": "ALWAYS",
+    "skills": [ { "value": "throw", "add": 1 } ]
+  },
+  {
+    "id": "EGO_soda_summon_can_normal",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon WellCheersBomb",
+    "description": "Call forth a delectably deadly can of WellCheers.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_can_item_act",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "2500 + (2300 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 24000,
+    "duration_increment": 2300,
+    "base_casting_time": 80,
+    "final_casting_time": 80,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 150,
+    "final_energy_cost": 150,
+    "energy_source": "STAMINA",
+    "message": "Swiping your hand through the air, a cold metal touches your skin, the icy, refreshing touch of WellCheers.",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "PERMANENT", "NO_HANDS" ]
+  },
+  {
+    "id": "soda_can_item_act",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
+    "name": { "str": "<color_red>Primed Can of WellCheers</color>" },
+    "description": "A can of delightfully refreshing WellCheers, but one you know not to taste - it is primed for destruction, tab pulled, it'll explode soon.",
+    "looks_like": "can_drink",
+    "symbol": "w",
+    "color": "light_gray",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
+    "melee_damage": { "bash": 2 },
+    "thrown_damage": [ { "damage_type": "bash", "amount": 8 } ],
+    "passive_effects": [ { "id": "can_throwing_ench_2" } ],
+    "countdown_interval": "5 seconds",
+    "flags": [
+      "SPAWN_ACTIVE"
+    ],
+    "countdown_action": {
+      "type": "explosion",
+      "fields_radius": 1,
+      "fields_type": "fd_acid",
+      "fields_min_intensity": 1,
+      "fields_max_intensity": 2
+    },
+    "copy-from": "well_can"
+  },
+  {
+    "type": "enchantment",
+    "id": "can_throwing_ench_2",
+    "has": "WIELD",
+    "condition": "ALWAYS",
+    "skills": [ { "value": "throw", "add": 2 } ]
+  },
+  {
+    "id": "EGO_soda_summon_net_normal",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon Shrimping Net",
+    "description": "Call forth a net with which to fuel the WellCheers need for shrimp.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_net_item",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "2500 + (2300 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 24000,
+    "duration_increment": 2300,
+    "base_casting_time": 80,
+    "final_casting_time": 80,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 150,
+    "final_energy_cost": 150,
+    "energy_source": "STAMINA",
+    "message": "Woven cord patches itself together into your outstretched hand, until a pristine woven net is formed.",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_HANDS" ]
+  },
+  {
+    "id": "soda_net_item",
+    "type": "ITEM",
+    "subtypes": [ "AMMO", "ARTIFACT" ],
+    "name": { "str": "<color_red>Shrimping Net</color>" },
+    "description": "A woven tangle of cord forming an incredibly light net, yet you can sense its desire to cling, wrap and tangle.",
+    "looks_like": "net",
+    "symbol": "n",
+    "material": "b_silk",
+    "color": "light_gray",
+    "weight": "600 g",
+    "volume": "1500 ml",
+    "ammo_type": "thrown",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
+    "flags": [
+      "TANGLE"
+    ],
+    "melee_damage": { "bash": 2 },
+    "thrown_damage": [ { "damage_type": "bash", "amount": 12 } ],
+    "passive_effects": [ { "id": "can_throwing_ench_2" } ]
+  },
+  {
+    "id": "EGO_soda_summon_armour_normal",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon Armour",
+    "description": "Call forth the armour of a shrimp. The shrimp. WellCheers Shrimp.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_armor_normal_item",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "2500 + (2300 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 24000,
+    "duration_increment": 2300,
+    "base_casting_time": 80,
+    "final_casting_time": 80,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 750,
+    "final_energy_cost": 750,
+    "energy_source": "STAMINA",
+    "message": "The plating of a shrimp envelops you, though formed into the clothing of a shrimper.",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_ARMS", "NO_HANDS" ]
+  },
+  {
+    "id": "soda_armor_normal_item",
+    "type": "ITEM",
+    "subtypes": [ "ARMOR" ],
+    "name": { "str": "<color_red>EGO Armor of Soda</color>" },
+    "description": "The waxy fabric of a shrimper's overcoat and yet somehow stronger despite the thickness. something about it feels off whenever you look at it for too long, almost as if the waxiness is biological, moving, and shifting to better protect the wearer.",
+    "weight": "3842 g",
+    "volume": "500 ml",
+    "price": "0 cent",
+    "looks_like": "ego_zayin",
+    "price_postapoc": "0 cent",
+    "material": [ "shrimp_flesh" ],
+    "symbol": "[",
+    "color": "dark_gray",
+    "warmth": 5,
+    "material_thickness": 1.6,
+    "environmental_protection": 5,
+    "flags": [ "AURA", "WATER_FRIENDLY", "UNRESTRICTED" ],
+    "armor": [
+      {
+        "coverage": 100,
+        "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
+      }
+    ]
+  },
+  {
+    "id": "EGO_soda_summon_can_empower",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon WellCheersBomb",
+    "description": "Call forth the most delighful, refreshingly dangerous can of WellCheers within the known universe.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_can_item_empower_act",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "6000 + (7200 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 78000,
+    "duration_increment": 7200,
+    "base_casting_time": 35,
+    "final_casting_time": 35,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 100,
+    "final_energy_cost": 100,
+    "energy_source": "STAMINA",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "CONCENTRATE", "NON_MAGICAL", "NO_EXPLOSION_SFX", "NO_LEGS", "NO_FAIL", "PERMANENT", "NO_HANDS" ]
+  },
+  {
+    "id": "soda_can_item_empower_act",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
+    "name": { "str": "<color_red>Primed Can of WellCheers</color>" },
+    "description": "A can of delightfully refreshing WellCheers, but one you know not to taste - it is primed for destruction, tab pulled, it'll explode soon.",
+    "looks_like": "can_drink",
+    "symbol": "w",
+    "color": "light_gray",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
+    "melee_damage": { "bash": 2 },
+    "thrown_damage": [ { "damage_type": "cut", "amount": 10 } ],
+    "passive_effects": [ { "id": "can_throwing_ench_3" } ],
+    "countdown_interval": "5 seconds",
+    "flags": [
+      "SPAWN_ACTIVE"
+    ],
+    "countdown_action": {
+      "type": "explosion",
+      "fields_radius": 2,
+      "do_flashbang": true,
+      "fields_type": "fd_acid",
+      "fields_min_intensity": 2,
+      "fields_max_intensity": 3
+    },
+    "copy-from": "well_can"
+  },
+  {
+    "type": "enchantment",
+    "id": "can_throwing_ench_3",
+    "has": "WIELD",
+    "condition": "ALWAYS",
+    "skills": [ { "value": "throw", "add": 3 } ]
+  },
+  {
+    "id": "EGO_soda_summon_net_empower",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon Shrimping Net",
+    "description": "Call forth a net with which to fuel the WellCheers need for shrimp.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_net_empower_item",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "6000 + (7200 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 24000,
+    "duration_increment": 2300,
+    "base_casting_time": 80,
+    "final_casting_time": 80,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 150,
+    "final_energy_cost": 150,
+    "energy_source": "STAMINA",
+    "message": "Woven cord patches itself together into your outstretched hand, until a pristine woven net is formed.",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_HANDS" ]
+  },
+  {
+    "id": "soda_net_empower_item",
+    "type": "ITEM",
+    "subtypes": [ "AMMO", "ARTIFACT" ],
+    "name": { "str": "<color_red>Shrimping Net</color>" },
+    "description": "A woven tangle of cord forming an incredibly light net, yet you can sense its desire to cling, wrap and tangle.",
+    "looks_like": "net",
+    "symbol": "n",
+    "material": "b_silk",
+    "color": "light_gray",
+    "weight": "600 g",
+    "volume": "1500 ml",
+    "ammo_type": "thrown",
+    "price": "0 USD",
+    "price_postapoc": "0 USD",
+    "flags": [
+      "TANGLE"
+    ],
+    "melee_damage": { "bash": 2 },
+    "thrown_damage": [ { "damage_type": "bash", "amount": 18 } ],
+    "passive_effects": [ { "id": "can_throwing_ench_3" } ]
+  },
+  {
+    "id": "EGO_soda_summon_armour_empower",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon Armour",
+    "description": "Call forth the armour of a shrimp. The shrimp. WellCheers Shrimp.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "soda_armor_empowered_item",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": { "math": [ "6000 + (7200 * u_spell_level('EGO_soda'))" ] },
+    "max_duration": 78000,
+    "duration_increment": 7200,
+    "base_casting_time": 80,
+    "final_casting_time": 80,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 250,
+    "final_energy_cost": 250,
+    "energy_source": "STAMINA",
+    "message": "The plating of a shrimp envelops you, though formed into the clothing of a dredger.",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_ARMS", "NO_HANDS", "INTEGRATED" ]
+  },
+  {
+    "id": "soda_armor_empowered_item",
+    "type": "ITEM",
+    "subtypes": [ "ARMOR" ],
+    "name": { "str": "<color_red>EGO Armor of Soda</color>" },
+    "description": "The waxy fabric of a shrimper's overcoat and yet somehow stronger despite the thickness. something about it feels off whenever you look at it for too long, almost as if the waxiness is biological, moving, and shifting to better protect the wearer.",
+    "weight": "3842 g",
+    "volume": "500 ml",
+    "price": "0 cent",
+    "looks_like": "ego_zayin",
+    "price_postapoc": "0 cent",
+    "material": [ "shrimp_flesh" ],
+    "symbol": "[",
+    "color": "dark_gray",
+    "warmth": 5,
+    "material_thickness": 2.1,
+    "environmental_protection": 10,
+    "flags": [ "AURA", "WATER_FRIENDLY", "UNRESTRICTED" ],
+    "armor": [
+      {
+        "coverage": 100,
+        "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ]
+      }
+    ]
+  },
+  {
+    "id": "EGO_soda_summon_wellcheers",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon Can of WellCheers",
+    "description": "Manifest an actual can of WellCheers that doesn't, you know, explode. It is ephemeral however, and will not last long if not consumed. Manifesting such a thing from the aether is very taxing in the long term.",
+    "valid_targets": [ "self" ],
+    "effect": "effect_on_condition",
+    "effect_str": "soda_summon_wellcheers_eoc",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": 20000,
+    "max_duration": 20000,
+    "base_casting_time": 200,
+    "final_casting_time": 200,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 250,
+    "final_energy_cost": 250,
+    "energy_source": "STAMINA",
+    "difficulty": 3,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_LEGS", "NO_ARMS", "NO_HANDS" ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "soda_summon_wellcheers_eoc",
+    "effect": [
+	  { "u_cast_spell": { "id": "soda_summon_wellcheers_true", "min_level": 1 } },
+	  { "math": [ "u_health() -= 5" ] },
+      {
+        "message": "A delightfully refreshing beverage materialises into your hand. You feel.. A little more weary from the effort.",
+        "type": "mixed"
+      }
+    ]
+  },
+  {
+    "id": "soda_summon_wellcheers_true",
+    "type": "SPELL",
+    "name": "[ז] EGO Soda - Summon Can of WellCheers",
+    "description": "Manifest an actual drink of WellCheers that doesn't, you know, explode. Just make sure you have a can or other bottle on you! Manifesting such a thing from the aether is very taxing in the long term.",
+    "valid_targets": [ "self" ],
+    "effect": "spawn_item",
+    "effect_str": "wellcheers",
+    "shape": "blast",
+    "min_range": 0,
+    "max_range": 0,
+    "min_aoe": 0,
+    "max_aoe": 0,
+    "min_duration": 1000,
+    "max_duration": 1000,
+    "base_casting_time": 200,
+    "final_casting_time": 200,
+    "spell_class": "EGO_Soda",
+    "base_energy_cost": 250,
+    "final_energy_cost": 250,
+    "energy_source": "STAMINA",
+    "difficulty": 0,
+    "max_level": 1,
+    "flags": [ "SILENT", "NO_FAIL", "NO_LEGS", "NO_ARMS", "NO_HANDS" ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "soda_chat",
+    "recurrence": [ "40 turns", "160 turns" ],
+    "condition": { "u_is_wearing": "EGO_soda_aura" },
+    "deactivate_condition": { "not": { "u_is_wearing": "EGO_soda_aura" } },
+    "effect": [ 
+      { 
+        "switch": { "math": [ "u_spell_level('EGO_soda')" ] },
+        "cases": [
+          {
+            "case": 0,
+            "effect": [
+              {
+                "set_string_var": [
+                  "Prawn.",
+                  "Prawn, Prawn.",
+                  "PRAWN, PRAWN. Prawn."
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          },
+          {
+            "case": 10,
+            "effect": [ 
+              {
+                "set_string_var": [
+                  "Prawn. Prawn.",
+                  "The delicious taste of WellCheers!",
+                  "Some humans just get unlucky..",
+                  "Our Mascot, Our Mascot!",
+                  "Find the Cans, open them!"
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          },
+          {
+            "case": 20,
+            "effect": [ 
+              {
+                "set_string_var": [
+                  "We should show the world our flavour!",
+                  "WellCheers, the taste you'll never forget!",
+                  "Everyone should know our name!",
+                  "Stinky zombies can't know the delight of WellCheers.",
+                  "You're squishy! Squishy, right?",
+                  "We should drag someone off, when they're asleep...",
+                  "Did you hear that?"
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          },
+          {
+            "case": 25,
+            "effect": [ 
+              {
+                "set_string_var": [
+                  "Prawn is the best flavour, you agree, right? Right?",
+                  "All our flavours, and we're the best!",
+                  "We should drag someone off, when they're asleep...",
+                  "We'll give you the strength to show the world how amazing we are!",
+                  "Hey, hey, listen...!",
+                  "Fizz goes the can, byebye goes the bad...~"
+                ],
+                "target_var": { "u_val": "quote" }
+              }
+            ]
+          }
+        ]
+      },
+      { "message": "<color_light_red>\"<u_val:quote>\"</color>", "type": "mixed" } 
+    ]
+  },
+  {
+    "type": "effect_on_condition",
+    "id": "clear_spells_soda",
+    "effect": [
+      { "math": [ "u_spell_level('EGO_soda_summon_can_weak') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_can_normal') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_armour_normal') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_net_normal') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_wellcheers') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_can_empower') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_armour_empower') = -1" ] },
+      { "math": [ "u_spell_level('EGO_soda_summon_net_empower') = -1" ] }
+    ]
+  }
+]

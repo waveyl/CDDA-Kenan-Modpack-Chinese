@@ -9,11 +9,10 @@
         "om_terrain": "lab_ab_surface",
         "om_special": "Lab_abbandoned",
         "reveal_radius": 1,
-        "random": false,
-        "search_range": 2400
+        "random": false
       }
     },
-    "end": { "effect": [ { "u_add_var": "u_scouted_bunker", "type": "mission", "context": "completed", "value": "yes" } ] },
+    "end": { "effect": [ { "u_add_var": "mission_completed_u_scouted_bunker", "value": "yes" } ] },
     "difficulty": 2,
     "value": 0,
     "origins": [ "ORIGIN_SECONDARY" ],
@@ -28,5 +27,19 @@
       "success_lie": "Hm.  The escoltin' our way be less.  This'n'll yark at the Scythy mayhaps.",
       "failure": "Fine an' fine.  Come back to this'n if you like to try again."
     }
+  },
+  {
+    "id": "MISSION_REACH_ZWEI",
+    "type": "mission_definition",
+    "name": { "str": "Reach the source of the 'Zwei' organisation." },
+    "goal": "MGOAL_GO_TO_TYPE",
+    "difficulty": 1,
+    "value": 0,
+    "start": {
+      "assign_mission_target": { "om_terrain": "zwei_office0", "om_special": "Zwei_main_office", "random": false }
+    },
+    "origins": [ "ORIGIN_COMPUTER" ],
+    "destination": "zwei_office0",
+    "end": { "effect": [ { "u_add_var": "found_zwei", "value": "yes" } ] }
   }
 ]

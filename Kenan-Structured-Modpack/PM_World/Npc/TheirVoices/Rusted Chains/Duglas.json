@@ -1,51 +1,65 @@
 [
-    {
+  {
     "type": "talk_topic",
     "id": "TALK_DUGLAS_RC",
-    "dynamic_line": "Hey bro, why the fuck are you hanging around here?",
+    "dynamic_line": {
+      "compare_string": [ "yes", { "u_val": "accepted_ryan_mission" } ],
+      "yes": [ "Back already?", "What is it?", "What ya needin'?" ],
+      "no": "Hey bro, why the fuck are you hanging around here?"
+    },
     "responses": [
-      { "text": "There's no need to be so rude. Are you always this unfriendly?", "topic": "TALK_DUGLAS_RC_2"},
-      {"text": "Never mind", "topic": "TALK_DONE"}
+      { "text": "There's no need to be so rude. Are you always this unfriendly?", "topic": "TALK_DUGLAS_RC_2", "condition": { "not": { "compare_string": [ "yes", { "u_val": "accepted_ryan_mission" } ] } } },
+      { "text": "I want to buy myself something, do you have anything to offer?",  "topic": "TRADE_DUGLAS", "condition": { "compare_string": [ "yes", { "u_val": "u_not_available" } ] } },
+      { "text": "Do you have any more work for me?",  "topic": "TALK_MISSION_LIST", "condition": { "math": [ "u_vitamin('rc_rank') > 0" ] } },
+      { "text": "About the mission…", "topic": "TALK_MISSION_INQUIRE", "condition": "has_assigned_mission" },
+      { "text": "About one of those missions…", "topic": "TALK_MISSION_LIST_ASSIGNED", "condition": "has_many_assigned_missions" },
+      { "text": "Can you teach me how to fight properly?",  "topic": "TALK_DUGLAS_FIGHTING_STYLE", "condition": { "compare_string": [ "yes", { "u_val": "teach_rc_style" } ] } },
+      { "text": "Never mind.", "topic": "TALK_DONE" }
     ]
   },
   {
     "type": "talk_topic",
     "id": "TALK_DUGLAS_RC_2",
-    "dynamic_line": "What...? Hey, either say what you need or fuck off before your teeth fall out",
+    "dynamic_line": "What...? Hey, either say what you need or fuck off before your teeth fall out.",
     "responses": [
-      { "text": "I came for the adrenaline. Maybe you have some interesting suggestions?", "topic": "TALK_DUGLAS_RC_MISSION"},
-      { "text":"I want to buy myself something, do you have anything to offer?",  "topic": "TRADE_DUGLAS"},
-      { "text": "Okay, I'm leaving", "topic": "TALK_DONE"}
+      { "text": "I came for the adrenaline. Maybe you have some interesting suggestions?", "topic": "TALK_MISSION_LIST", "condition": { "not": { "compare_string": [ "yes", { "u_val": "u_accepted_ryan_mission" } ] } } },
+      { "text": "I want to buy myself something, do you have anything to offer?",  "topic": "TRADE_DUGLAS" },
+      { "text": "Okay, I'm leaving", "topic": "TALK_DONE" }
     ]
   },
   {
-    "type":"talk_topic",
-    "id": "TALK_DUGLAS_RC_MISSION",
-    "dynamic_line": "Listen, I have something to do. Not complicated. One son of a whore needs to be killed.",
-    "responses": [
-        { "text" : "Yes, I'm ready. Tell me the details", "topic" :"MISSION_DETAILS_DUGLAS_RC"},
-        { "text" :  "No, I changed my mind",   "topic" : "EVENT_FIGHT_DUGLAS"}
-    
-  
-]
-},
-{
-    "type": "talk_topic",
-    "id": "MISSION_DETAILS_DUGLAS_RC",
-    "dynamic_line": "That's great. Some asshole stole my money. Find this fucking creature. I think I last saw him in *Place*, his name is Ryan. When you're done, come back.",
-    "responses": [
-      { "text": "Sounds interesting. I'm taking this on", "topic": "ACCEPT_MISSION_DUGLAS"},
-      { "text": "I changed my mind, I don't want to take on this matter", "topic": "EVENT_FIGHT_DUGLAS"}
-      
-    ] 
-},
-{
     "type" :"talk_topic",
     "id" : "EVENT_FIGHT_DUGLAS",
     "dynamic_line" : "Then why the hell are you bothering me? Get out of here!",
     "responses" :[
-        {"text" : "Calm down. Why are you so nervous?", "topic" : "FIGHT_DUGLAS"},
-        {"text" : "Alright, i'm leaving", "topic" : "TALK_DONE"}
+        { "text": "Calm down. Why are you so nervous?", "topic" : "FIGHT_DUGLAS" },
+        { "text": "Alright, I'm leaving", "topic" : "TALK_DONE" }
     ]
-}
+  },
+  {
+    "type" :"talk_topic",
+    "id" : "FIGHT_DUGLAS",
+    "dynamic_line" : "Why? WHY!? You asked for it!!",
+    "speaker_effect": {
+      "effect": "hostile"
+    },
+    "responses" :[
+        { "text": "...", "topic" : "TALK_DONE" }
+    ]
+  },
+  {
+    "type": "talk_topic",
+    "id": "TALK_DUGLAS_FIGHTING_STYLE",
+    "dynamic_line": "You finally ready to learn how to fight properly? Took you long enough! Your old moves were ass. Here, let me teach you how to punch proper..\n*Duglas takes time teaching you how to fight using the Rusted Chains martial art.*",
+    "speaker_effect": {
+      "effect": [
+        { "u_learn_martial_art": "chains_martial" },
+        { "u_message": "You have been taught the Rusted Chain's martial art." },
+        { "u_lose_var": "teach_rc_style" }
+      ]
+    },
+    "responses": [
+      { "text": "Nice.", "topic": "TALK_DONE" }
+    ]
+  }
 ]

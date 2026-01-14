@@ -139,8 +139,12 @@
       "stamina_chance": [ 6 ],
       "sleepiness_min": [ 1 ],
       "sleepiness_tick": [ 300 ],
-      "sleepiness_chance": [ 6, 12 ]
-    }
+      "sleepiness_chance": [ 6, 12 ],
+      "hit_mod": [ -1, 0 ],
+      "dodge_mod": [ -1, 0 ],
+      "bash_mod": [ 5 ]
+    },
+    "show_in_info": true
   },
   {
     "type": "effect_type",
@@ -165,8 +169,13 @@
       "stamina_tick": [ 30 ],
       "stamina_chance": [ 6, 12 ],
       "sleepiness_min": [ -1 ],
-      "sleepiness_chance": [ 12 ]
-    }
+      "sleepiness_chance": [ 12 ],
+      "hit_mod": [ 2 ],
+      "dodge_mod": [ 2 ],
+      "bash_mod": [ -2, -1 ],
+      "cut_mod": [ -2, -1 ]
+    },
+    "show_in_info": true
   },
   {
     "type": "effect_type",
@@ -178,6 +187,8 @@
     "removes_effects": [
       "poison",
       "badpoison",
+      "venom_dmg",
+      "venom_weaken",
       "infected",
       "fungus",
       "bleed",
@@ -271,9 +282,10 @@
       "dex_mod": [ -1, 0 ],
       "hurt_min": [ 2, 1 ],
       "hurt_chance": [ 2, 3 ],
-      "hit_mod": [ -2 ],
-      "dodge_mod": [ -3 ]
-    }
+      "hit_mod": [ -1, 0 ],
+      "dodge_mod": [ -1, 0 ]
+    },
+    "show_in_info": true
   },
   {
     "type": "effect_type",
@@ -470,9 +482,7 @@
     "type": "effect_type",
     "id": "poison_ward",
     "name": [ "Ward Against Poison" ],
-    "desc": [
-      "Protection against toxic gas and venom, suppresses the effect of radiation sickness while reducing accumulated radiation steadily."
-    ],
+    "desc": [ "Protection against toxic gas and venom, steadily reduces accumulated radiation." ],
     "remove_message": "You feel a momentary weakness as the protective magic fades.",
     "removes_effects": [
       "stung",
@@ -481,9 +491,9 @@
       "paralyzepoison",
       "teargas",
       "migo_atmosphere",
+      "tpollen",
       "venom_dmg",
-      "venom_weaken",
-      "irradiated"
+      "venom_weaken"
     ],
     "max_duration": "120 m",
     "max_intensity": 120,
@@ -500,9 +510,9 @@
       "paralyzepoison",
       "teargas",
       "migo_atmosphere",
+      "tpollen",
       "venom_dmg",
-      "venom_weaken",
-      "irradiated"
+      "venom_weaken"
     ],
     "max_duration": "5 s"
   },
@@ -558,8 +568,9 @@
     "max_duration": "120 m",
     "max_intensity": 120,
     "int_dur_factor": "1 m",
-    "base_mods": { "str_mod": [ 1 ] },
-    "scaling_mods": { "str_mod": [ 0.0825 ] }
+    "base_mods": { "str_mod": [ 1 ], "bash_mod": [ 1 ] },
+    "scaling_mods": { "str_mod": [ 0.0825 ], "bash_mod": [ 0.0825 ] },
+    "show_in_info": true
   },
   {
     "type": "effect_type",
@@ -572,8 +583,15 @@
     "max_duration": "120 m",
     "max_intensity": 120,
     "int_dur_factor": "1 m",
-    "base_mods": { "dex_mod": [ 1 ], "speed_mod": [ 3 ], "stamina_min": [ 1 ] },
-    "scaling_mods": { "dex_mod": [ 0.0825 ], "speed_mod": [ 0.38 ], "stamina_min": [ 0.08 ] }
+    "base_mods": { "dex_mod": [ 1 ], "speed_mod": [ 5 ], "stamina_min": [ 1 ], "hit_mod": [ 1 ], "dodge_mod": [ 1 ] },
+    "scaling_mods": {
+      "dex_mod": [ 0.0825 ],
+      "speed_mod": [ 0.38 ],
+      "stamina_min": [ 0.08 ],
+      "hit_mod": [ 0.0825 ],
+      "dodge_mod": [ 0.0825 ]
+    },
+    "show_in_info": true
   },
   {
     "type": "effect_type",
@@ -660,6 +678,8 @@
       "downed",
       "poison",
       "badpoison",
+      "venom_dmg",
+      "venom_weaken",
       "smoke",
       "boomered",
       "glowing",
@@ -676,6 +696,8 @@
       "downed",
       "poison",
       "badpoison",
+      "venom_dmg",
+      "venom_weaken",
       "smoke",
       "boomered",
       "glowing",
@@ -689,7 +711,7 @@
     "type": "effect_type",
     "id": "dragonblood_clarity",
     "name": [ "Revenant Blood" ],
-    "desc": [ "Immunity to poisons, radiation, and fungus." ],
+    "desc": [ "Immunity to poisons, parasites, and fungus of all kinds; steadily reduces accumulated radiation." ],
     "remove_message": "The protective effect of your sanguine mark fades, leaving a momentary itch in your veins.",
     "//": "Food poisoning and food parasites are already covered by Metabolic Adaptability.",
     "removes_effects": [
@@ -699,9 +721,9 @@
       "paralyzepoison",
       "teargas",
       "migo_atmosphere",
+      "tpollen",
       "venom_dmg",
       "venom_weaken",
-      "irradiated",
       "spores",
       "fungus",
       "dermatik",
@@ -1111,6 +1133,8 @@
       "bleed",
       "poison",
       "badpoison",
+      "venom_dmg",
+      "venom_weaken",
       "spores",
       "fungus",
       "redcells_anemia",
@@ -1187,7 +1211,8 @@
       "poison",
       "badpoison",
       "teargas",
-      "migo_atmosphere"
+      "migo_atmosphere",
+      "tpollen"
     ],
     "flags": [ "FEATHER_FALL", "COLD_IMMUNE" ]
   },
@@ -1221,7 +1246,19 @@
     "max_duration": "30 m",
     "max_intensity": 30,
     "int_dur_factor": "1 m",
-    "removes_effects": [ "poison", "badpoison", "bite", "infected", "fungus", "bleed", "common_cold", "flu", "tetanus" ],
+    "removes_effects": [
+      "poison",
+      "badpoison",
+      "venom_dmg",
+      "venom_weaken",
+      "bite",
+      "infected",
+      "fungus",
+      "bleed",
+      "common_cold",
+      "flu",
+      "tetanus"
+    ],
     "base_mods": {
       "stamina_min": [ 25 ],
       "pain_min": [ -1 ],

@@ -1,7 +1,8 @@
 [
   {
     "id": "unbio_laser_gun",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "symbol": "(",
     "looks_like": "v29",
     "color": "magenta",
@@ -25,7 +26,8 @@
   },
   {
     "id": "unbio_chain_lightning",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "symbol": "(",
     "looks_like": "v29",
     "color": "magenta",
@@ -49,7 +51,8 @@
   },
   {
     "id": "flesh_pistol",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "symbol": "(",
     "looks_like": "flesh_rifle",
     "color": "red",
@@ -72,21 +75,20 @@
     "durability": 8,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "2-rd. burst", 2 ] ],
     "valid_mod_locations": [ [ "accessories", 1 ], [ "sling", 1 ] ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "has": "WIELD",
-          "condition": "ALWAYS",
-          "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
-          "ench_effects": [ { "effect": "c_flesh_pistol_side_effect", "intensity": 1 } ],
-          "mutations": [ "SCHIZOPHRENIC", "ROT1", "PRED1" ]
-        }
-      ]
-    }
+    "passive_effects": [
+      {
+        "has": "WIELD",
+        "condition": "ALWAYS",
+        "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
+        "ench_effects": [ { "effect": "c_flesh_pistol_side_effect", "intensity": 1 } ],
+        "mutations": [ "SCHIZOPHRENIC", "ROT1", "PRED1" ]
+      }
+    ]
   },
   {
     "id": "flesh_smg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "symbol": "(",
     "looks_like": "flesh_rifle",
     "color": "red",
@@ -109,29 +111,28 @@
     "durability": 8,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 3 ], [ "AUTO", "auto", 5 ] ],
     "valid_mod_locations": [ [ "accessories", 1 ], [ "sling", 1 ] ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "has": "WIELD",
-          "condition": "ALWAYS",
-          "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
-          "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
-          "ench_effects": [ { "effect": "c_flesh_smg_side_effect", "intensity": 1 } ],
-          "hit_me_effect": [
-            {
-              "id": "c_flesh_hit_effect",
-              "once_in": 3,
-              "message": "A surge of energy courses from your weapon, empowering you further!",
-              "npc_message": "A jolt of strange energy envelops %1$s!"
-            }
-          ]
-        }
-      ]
-    }
+    "passive_effects": [
+      {
+        "has": "WIELD",
+        "condition": "ALWAYS",
+        "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
+        "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
+        "ench_effects": [ { "effect": "c_flesh_smg_side_effect", "intensity": 1 } ],
+        "hit_me_effect": [
+          {
+            "id": "c_flesh_hit_effect",
+            "once_in": 3,
+            "message": "A surge of energy courses from your weapon, empowering you further!",
+            "npc_message": "A jolt of strange energy envelops %1$s!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "flesh_rifle",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "symbol": "(",
     "color": "red",
     "name": { "str": "biological rifle" },
@@ -154,29 +155,28 @@
     "durability": 8,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 3 ] ],
     "valid_mod_locations": [ [ "accessories", 1 ], [ "sling", 1 ] ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "has": "WIELD",
-          "condition": "ALWAYS",
-          "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
-          "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
-          "ench_effects": [ { "effect": "c_flesh_rifle_side_effect", "intensity": 1 } ],
-          "hit_me_effect": [
-            {
-              "id": "c_flesh_hit_effect",
-              "once_in": 3,
-              "message": "A surge of energy courses from your weapon, empowering you further!",
-              "npc_message": "A jolt of strange energy envelops %1$s!"
-            }
-          ]
-        }
-      ]
-    }
+    "passive_effects": [
+      {
+        "has": "WIELD",
+        "condition": "ALWAYS",
+        "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
+        "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
+        "ench_effects": [ { "effect": "c_flesh_rifle_side_effect", "intensity": 1 } ],
+        "hit_me_effect": [
+          {
+            "id": "c_flesh_hit_effect",
+            "once_in": 3,
+            "message": "A surge of energy courses from your weapon, empowering you further!",
+            "npc_message": "A jolt of strange energy envelops %1$s!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "flesh_lmg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "symbol": "(",
     "looks_like": "flesh_rifle",
     "color": "red",
@@ -199,29 +199,28 @@
     "durability": 8,
     "modes": [ [ "DEFAULT", "semi", 5 ], [ "BURST", "low auto", 5 ], [ "AUTO", "high auto", 10 ] ],
     "valid_mod_locations": [ [ "accessories", 1 ], [ "sling", 1 ] ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "has": "WIELD",
-          "condition": "ALWAYS",
-          "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
-          "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
-          "ench_effects": [ { "effect": "c_flesh_lmg_side_effect", "intensity": 1 } ],
-          "hit_me_effect": [
-            {
-              "id": "c_flesh_hit_effect",
-              "once_in": 3,
-              "message": "A surge of energy courses from your weapon, empowering you further!",
-              "npc_message": "A jolt of strange energy envelops %1$s!"
-            }
-          ]
-        }
-      ]
-    }
+    "passive_effects": [
+      {
+        "has": "WIELD",
+        "condition": "ALWAYS",
+        "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
+        "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
+        "ench_effects": [ { "effect": "c_flesh_lmg_side_effect", "intensity": 1 } ],
+        "hit_me_effect": [
+          {
+            "id": "c_flesh_hit_effect",
+            "once_in": 3,
+            "message": "A surge of energy courses from your weapon, empowering you further!",
+            "npc_message": "A jolt of strange energy envelops %1$s!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "flesh_shotgun",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "symbol": "(",
     "color": "red",
     "looks_like": "flesh_rifle",
@@ -256,29 +255,28 @@
     "durability": 8,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "2-rd. burst", 2 ] ],
     "valid_mod_locations": [ [ "accessories", 1 ], [ "sling", 1 ] ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "has": "WIELD",
-          "condition": "ALWAYS",
-          "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
-          "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
-          "ench_effects": [ { "effect": "c_flesh_scattergun_side_effect", "intensity": 1 } ],
-          "hit_me_effect": [
-            {
-              "id": "c_flesh_hit_effect",
-              "once_in": 3,
-              "message": "A surge of energy courses from your weapon, empowering you further!",
-              "npc_message": "A jolt of strange energy envelops %1$s!"
-            }
-          ]
-        }
-      ]
-    }
+    "passive_effects": [
+      {
+        "has": "WIELD",
+        "condition": "ALWAYS",
+        "values": [ { "value": "STRENGTH", "add": -2 }, { "value": "DEXTERITY", "add": -2 }, { "value": "PERCEPTION", "add": 4 } ],
+        "mutations": [ "SCHIZOPHRENIC", "ROT2", "PRED2", "INFRARED", "ELECTRORECEPTORS" ],
+        "ench_effects": [ { "effect": "c_flesh_scattergun_side_effect", "intensity": 1 } ],
+        "hit_me_effect": [
+          {
+            "id": "c_flesh_hit_effect",
+            "once_in": 3,
+            "message": "A surge of energy courses from your weapon, empowering you further!",
+            "npc_message": "A jolt of strange energy envelops %1$s!"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "sur_pnu_lmg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "color": "dark_gray",
     "symbol": "(",
     "looks_like": "tihar",
@@ -301,12 +299,11 @@
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 3 ], [ "auto", "auto", 10 ] ],
     "clip_size": 100,
     "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "pebble": 100 } } ],
-    "reload": 6000,
+    "reload": 2000,
     "loudness": 20,
     "valid_mod_locations": [
       [ "accessories", 3 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "barrel", 1 ],
       [ "muzzle", 1 ],
       [ "rail", 1 ],
@@ -318,7 +315,8 @@
   },
   {
     "id": "ups_rifle",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "color": "yellow",
     "symbol": "(",
     "looks_like": "laser_rifle",
@@ -341,19 +339,12 @@
     "durability": 7,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 5 ] ],
     "loudness": 12,
-    "valid_mod_locations": [
-      [ "accessories", 2 ],
-      [ "sling", 1 ],
-      [ "grip", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
-    ]
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "sling", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ]
   },
   {
     "id": "ups_rifle_crank",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "color": "yellow",
     "symbol": "(",
     "looks_like": "ups_rifle",
@@ -399,7 +390,8 @@
   },
   {
     "id": "surv_battery_pistol",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "color": "light_red",
     "symbol": "{",
     "looks_like": "v29",
@@ -414,7 +406,7 @@
     "to_hit": -1,
     "ammo_effects": [ "LIGHTNING" ],
     "flags": [ "NON_FOULING", "NEEDS_NO_LUBE" ],
-    "ammo_to_fire": 20,
+    "ammo_to_fire": 10,
     "ammo": [ "battery" ],
     "pocket_data": [
       {
@@ -423,15 +415,7 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [
-          "light_plus_battery_cell",
-          "light_minus_battery_cell",
-          "light_battery_cell",
-          "light_atomic_battery_cell",
-          "light_minus_atomic_battery_cell",
-          "light_minus_disposable_cell",
-          "light_disposable_cell"
-        ]
+        "item_restriction": [ "medium_battery_cell" ]
       }
     ],
     "skill": "pistol",
@@ -446,7 +430,8 @@
   },
   {
     "id": "surv_battery_rifle",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "color": "light_red",
     "symbol": "{",
     "looks_like": "laser_rifle",
@@ -461,16 +446,16 @@
     "to_hit": -1,
     "ammo_effects": [ "LIGHTNING" ],
     "flags": [ "NON_FOULING", "NEEDS_NO_LUBE" ],
-    "ammo_to_fire": 50,
+    "ammo_to_fire": 20,
     "ammo": [ "battery" ],
     "pocket_data": [
       {
-        "magazine_well": "300 ml",
+        "magazine_well": "400 ml",
         "pocket_type": "MAGAZINE_WELL",
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "medium_battery_cell", "medium_plus_battery_cell", "medium_atomic_battery_cell", "medium_disposable_cell" ]
+        "item_restriction": [ "heavy_battery_cell" ]
       }
     ],
     "skill": "rifle",
@@ -484,7 +469,6 @@
     "valid_mod_locations": [
       [ "accessories", 3 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "barrel", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
@@ -495,7 +479,8 @@
   {
     "id": "surv_full_223",
     "copy-from": "rifle_base",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "surv_carbine_223",
     "name": { "str": "survivor's .223 assault rifle" },
     "description": "A (mostly) homemade assault rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .223 cartridge via its custom-made magazine, and can accept certain STANAG magazines of equal or lesser capacity.",
@@ -528,7 +513,8 @@
   {
     "id": "surv_full_22",
     "copy-from": "smg_base",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "sten",
     "name": { "str": "survivor's .22 SMG" },
     "description": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the .22 cartridge via its custom-made magazine.",
@@ -561,7 +547,8 @@
   {
     "id": "surv_full_9mm",
     "copy-from": "surv_full_22",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's 9mm SMG" },
     "description": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the 9mm cartridge via its custom-made magazine, or can accept lower-capacity makeshift STEN magazines.",
     "ammo": [ "9mm" ],
@@ -580,7 +567,8 @@
   {
     "id": "surv_full_45",
     "copy-from": "surv_full_22",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's .45 SMG" },
     "description": "A (mostly) homemade SMG built from a full auto receiver.  While still lower quality than most pre-cataclysm SMGs, it's superior to many other homemade weapons.  Takes the .45 cartridge via its custom-made magazine, and can accept lower-capacity makeshift variants of the MAC-10 magazine.",
     "ammo": [ "45" ],
@@ -599,7 +587,8 @@
   {
     "id": "surv_full_308",
     "copy-from": "surv_full_223",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's .308 battle rifle" },
     "description": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .308 cartridge via its custom-made magazine, and compatible with magazines from the old M14 rifle.",
     "ammo": [ "308" ],
@@ -618,7 +607,8 @@
   {
     "id": "surv_full_762",
     "copy-from": "surv_full_223",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's 7.62x39 assault rifle" },
     "description": "A (mostly) homemade assault rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the 7.62x39mm cartridge via its custom-made magazine, and can accept any AK-pattern magazine of equal or lesser capacity.",
     "ammo": [ "762" ],
@@ -637,7 +627,8 @@
   {
     "id": "surv_full_762R",
     "copy-from": "surv_full_223",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's 7.62x54 battle rifle" },
     "description": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the 7.62x54mmR cartridge via its custom-made magazine.",
     "ammo": [ "762R" ],
@@ -656,7 +647,8 @@
   {
     "id": "surv_full_3006",
     "copy-from": "surv_full_223",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's .30-06 battle rifle" },
     "description": "A (mostly) homemade automatic rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .30-06 cartridge via its custom-made magazine, and can accept magazines from the BAR of comparable capacity.",
     "ammo": [ "3006" ],
@@ -675,7 +667,8 @@
   {
     "id": "surv_full_12",
     "copy-from": "shotgun_base",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "saiga_12",
     "name": { "str": "survivor's full-auto shotgun" },
     "description": "A (mostly) homemade full auto shotgun built from a full auto receiver.  While still lower quality than most pre-cataclysm shotguns, it's superior to many other homemade weapons.  Takes the 12 gauge cartridge via its custom-made magazine, and can accept lower-capacity variants of the Saiga 12 magazine.",
@@ -708,7 +701,8 @@
   {
     "id": "surv_lmg_308",
     "copy-from": "surv_full_308",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "m60",
     "weapon_category": [ "MACHINE_GUNS", "AUTOLOADING" ],
     "name": { "str": "survivor's .308 GPMG" },
@@ -738,7 +732,8 @@
   {
     "id": "surv_lmg_762",
     "copy-from": "surv_lmg_308",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's 7.62x39 LMG" },
     "description": "A (mostly) homemade LMG built from a full auto receiver.  Although well-made, its high volume of fire makes reliability and accuracy an issue.  Takes the 7.62x39 cartridge via a belt feed.",
     "ammo": [ "762" ],
@@ -757,7 +752,8 @@
   {
     "id": "surv_lmg_223",
     "copy-from": "surv_lmg_308",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's .223 LMG" },
     "description": "A (mostly) homemade LMG built from a full auto receiver.  Although well-made, its high volume of fire makes reliability and accuracy an issue.  Takes the .223 cartridge via a belt feed.",
     "ammo": [ "223" ],
@@ -776,7 +772,8 @@
   {
     "id": "surv_lmg_762R",
     "copy-from": "surv_lmg_308",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's 7.62x54 GPMG" },
     "description": "A (mostly) homemade GPMG built from a full auto receiver.  Although well-made, its high volume of fire makes reliability and accuracy an issue.  Takes the 7.62x54R cartridge via a belt feed.",
     "ammo": [ "762R" ],
@@ -795,7 +792,8 @@
   {
     "id": "surv_lmg_3006",
     "copy-from": "surv_lmg_308",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's .30-06 GPMG" },
     "description": "A (mostly) homemade GPMG built from a full auto receiver.  Although well-made, its high volume of fire makes reliability and accuracy an issue.  Takes the .30-06 cartridge via a belt feed.",
     "ammo": [ "3006" ],
@@ -814,7 +812,8 @@
   {
     "id": "surv_full_50",
     "copy-from": "surv_full_223",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "m107a1",
     "name": { "str": "survivor's .50 automatic AMR" },
     "description": "A beast of a (mostly) homemade anti-materiel rifle built from a full auto receiver.  While still lower quality than most pre-cataclysm rifles, it's superior to many other homemade weapons.  Takes the .50 BMG cartridge via its custom-made magazine, or can accept lower-capacity Barret magazines.",
@@ -841,7 +840,8 @@
   },
   {
     "id": "survbow",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "symbol": "(",
     "color": "brown",
     "looks_like": "compositebow",
@@ -888,7 +888,8 @@
   {
     "id": "greatbow_makeshift",
     "looks_like": "compgreatbow",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "ARMOR", "GUN" ],
     "symbol": "(",
     "color": "yellow",
     "name": { "str": "makeshift greatbow" },
@@ -913,17 +914,15 @@
     "volume": "5 L",
     "longest_side": "198 cm",
     "price_postapoc": "30 USD",
-    "armor_data": {
-      "armor": [
-        {
-          "material": [ { "type": "steel", "covered_by_mat": 100, "thickness": 1.0 } ],
-          "encumbrance": 30,
-          "coverage": 10,
-          "covers": [ "torso" ],
-          "specifically_covers": [ "torso_hanging_back" ]
-        }
-      ]
-    },
+    "armor": [
+      {
+        "material": [ { "type": "steel", "covered_by_mat": 100, "thickness": 1.0 } ],
+        "encumbrance": 30,
+        "coverage": 10,
+        "covers": [ "torso" ],
+        "specifically_covers": [ "torso_hanging_back" ]
+      }
+    ],
     "reload_noise_volume": 4,
     "loudness": 25,
     "durability": 7,
@@ -939,7 +938,8 @@
   },
   {
     "id": "surv_sniper",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "symbol": "(",
     "color": "brown",
     "looks_like": "longrifle_flintlock",
@@ -971,8 +971,6 @@
       [ "muzzle", 1 ],
       [ "barrel", 1 ],
       [ "bore", 1 ],
-      [ "grip", 1 ],
-      [ "muzzle", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
@@ -981,7 +979,8 @@
   },
   {
     "id": "neo_laser_pistol",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "v29",
     "symbol": "(",
     "color": "dark_gray",
@@ -992,14 +991,14 @@
     "material": [ "superalloy", "steel" ],
     "ammo_effects": [ "LASER", "INCENDIARY" ],
     "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ],
-    "ammo_to_fire": 20,
+    "ammo_to_fire": 25,
     "skill": "pistol",
     "ammo": [ "battery" ],
     "weight": "720 g",
     "volume": "1 L",
     "melee_damage": { "bash": 4 },
     "to_hit": -2,
-    "ranged_damage": { "damage_type": "heat", "amount": 16, "armor_penetration": 5 },
+    "ranged_damage": { "damage_type": "heat", "amount": 20, "armor_penetration": 5 },
     "dispersion": 30,
     "range": 15,
     "recoil": 5,
@@ -1023,13 +1022,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "light_minus_atomic_battery_cell", "light_atomic_battery_cell", "light_atomic_battery_cell_rechargeable" ]
+        "item_restriction": [ "light_atomic_battery_cell_rechargeable" ]
       }
     ]
   },
   {
     "id": "neo_laser_pistol_ups",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "v29",
     "symbol": "(",
     "color": "dark_gray",
@@ -1045,13 +1045,13 @@
     "volume": "1 L",
     "melee_damage": { "bash": 4 },
     "to_hit": -2,
-    "ranged_damage": { "damage_type": "heat", "amount": 16, "armor_penetration": 5 },
+    "ranged_damage": { "damage_type": "heat", "amount": 20, "armor_penetration": 5 },
     "dispersion": 30,
     "range": 15,
     "recoil": 10,
     "loudness": 8,
     "durability": 10,
-    "energy_drain": "20 kJ",
+    "energy_drain": "25 kJ",
     "built_in_mods": [ "laser_sight" ],
     "valid_mod_locations": [
       [ "accessories", 2 ],
@@ -1065,7 +1065,8 @@
   },
   {
     "id": "akro_laser_smg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "needlegun",
     "symbol": "(",
     "color": "dark_gray",
@@ -1076,25 +1077,24 @@
     "material": [ "superalloy", "steel" ],
     "ammo_effects": [ "LASER", "INCENDIARY" ],
     "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ],
-    "ammo_to_fire": 20,
+    "ammo_to_fire": 25,
     "ammo": [ "battery" ],
     "skill": "smg",
     "weight": "2680 g",
     "volume": "1500 ml",
     "melee_damage": { "bash": 10 },
     "to_hit": -2,
-    "ranged_damage": { "damage_type": "heat", "amount": 16, "armor_penetration": 5 },
+    "ranged_damage": { "damage_type": "heat", "amount": 20, "armor_penetration": 5 },
     "range": 20,
     "recoil": 10,
     "loudness": 8,
     "durability": 10,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 5 ], [ "AUTO", "auto", 10 ] ],
     "reload": 200,
-    "built_in_mods": [ "rail_laser_sight", "pistol_grip", "grip" ],
+    "built_in_mods": [ "rail_laser_sight" ],
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
@@ -1109,13 +1109,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "light_atomic_battery_cell", "light_minus_atomic_battery_cell", "light_atomic_battery_cell_rechargeable" ]
+        "item_restriction": [ "light_atomic_battery_cell_rechargeable" ]
       }
     ]
   },
   {
     "id": "akro_laser_smg_ups",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "needlegun",
     "symbol": "(",
     "color": "dark_gray",
@@ -1131,18 +1132,17 @@
     "volume": "1500 ml",
     "melee_damage": { "bash": 10 },
     "to_hit": -2,
-    "ranged_damage": { "damage_type": "heat", "amount": 16, "armor_penetration": 5 },
+    "ranged_damage": { "damage_type": "heat", "amount": 20, "armor_penetration": 5 },
     "range": 20,
     "recoil": 10,
     "loudness": 8,
     "durability": 10,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 5 ], [ "AUTO", "auto", 10 ] ],
-    "energy_drain": "20 kJ",
-    "built_in_mods": [ "rail_laser_sight", "pistol_grip", "grip" ],
+    "energy_drain": "25 kJ",
+    "built_in_mods": [ "rail_laser_sight" ],
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
@@ -1153,7 +1153,8 @@
   },
   {
     "id": "arc_laser_rifle",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "symbol": "(",
     "color": "dark_gray",
     "looks_like": "laser_rifle",
@@ -1178,11 +1179,9 @@
     "durability": 10,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 3 ], [ "AUTO", "auto", 5 ] ],
     "reload": 200,
-    "built_in_mods": [ "pistol_grip", "grip" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
@@ -1197,13 +1196,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "medium_atomic_battery_cell", "medium_atomic_battery_cell_rechargeable" ]
+        "item_restriction": [ "medium_atomic_battery_cell_rechargeable" ]
       }
     ]
   },
   {
     "id": "arc_laser_rifle_ups",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "symbol": "(",
     "color": "dark_gray",
     "looks_like": "laser_rifle",
@@ -1226,11 +1226,9 @@
     "durability": 10,
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "burst", 3 ], [ "AUTO", "auto", 5 ] ],
     "energy_drain": "50 kJ",
-    "built_in_mods": [ "pistol_grip", "grip" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
@@ -1241,7 +1239,8 @@
   },
   {
     "id": "krx_laser_lmg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "laser_cannon",
     "symbol": "(",
     "color": "dark_gray",
@@ -1284,13 +1283,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "heavy_atomic_battery_cell", "heavy_atomic_battery_cell_rechargeable" ]
+        "item_restriction": [ "heavy_atomic_battery_cell_rechargeable" ]
       }
     ]
   },
   {
     "id": "krx_laser_lmg_ups",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "laser_cannon",
     "symbol": "(",
     "color": "dark_gray",
@@ -1326,7 +1326,8 @@
   },
   {
     "id": "mx_laser_sniper",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "laser_rifle",
     "symbol": "(",
     "color": "dark_gray",
@@ -1335,7 +1336,7 @@
     "price": "18000 USD",
     "price_postapoc": "60 USD",
     "material": [ "superalloy", "steel" ],
-    "ammo_effects": [ "DRAW_LASER_BEAM", "EMP", "INCENDIARY" ],
+    "ammo_effects": [ "LASER", "EMP", "INCENDIARY" ],
     "flags": [ "ALWAYS_TWOHAND", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ],
     "ammo_to_fire": 100,
     "ammo": [ "battery" ],
@@ -1354,7 +1355,6 @@
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 2 ],
       [ "stock", 1 ],
@@ -1369,18 +1369,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [
-          "medium_atomic_battery_cell",
-          "heavy_atomic_battery_cell",
-          "medium_atomic_battery_cell_rechargeable",
-          "heavy_atomic_battery_cell_rechargeable"
-        ]
+        "item_restriction": [ "medium_atomic_battery_cell_rechargeable", "heavy_atomic_battery_cell_rechargeable" ]
       }
     ]
   },
   {
     "id": "mx_laser_sniper_ups",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "laser_rifle",
     "symbol": "(",
     "color": "dark_gray",
@@ -1389,7 +1385,7 @@
     "price": "18000 USD",
     "price_postapoc": "90 USD",
     "material": [ "superalloy", "steel" ],
-    "ammo_effects": [ "DRAW_LASER_BEAM", "EMP", "INCENDIARY" ],
+    "ammo_effects": [ "LASER", "EMP", "INCENDIARY" ],
     "flags": [ "ALWAYS_TWOHAND", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "USE_UPS" ],
     "skill": "rifle",
     "weight": "2950 g",
@@ -1406,7 +1402,6 @@
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 2 ],
       [ "stock", 1 ],
@@ -1417,7 +1412,8 @@
   },
   {
     "id": "xarm_laser_shotgun",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "rm20",
     "symbol": "(",
     "color": "dark_gray",
@@ -1441,13 +1437,12 @@
     "loudness": 14,
     "dispersion": 300,
     "durability": 8,
-    "built_in_mods": [ "rail_laser_sight", "pistol_grip" ],
+    "built_in_mods": [ "rail_laser_sight" ],
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "2-rd. burst", 2 ] ],
     "reload": 250,
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "sights", 1 ],
       [ "rail", 1 ],
       [ "stock", 1 ],
@@ -1462,13 +1457,14 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [ "medium_atomic_battery_cell", "medium_atomic_battery_cell_rechargeable" ]
+        "item_restriction": [ "medium_atomic_battery_cell_rechargeable" ]
       }
     ]
   },
   {
     "id": "xarm_laser_shotgun_ups",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "rm20",
     "symbol": "(",
     "color": "dark_gray",
@@ -1490,13 +1486,12 @@
     "loudness": 14,
     "dispersion": 300,
     "durability": 8,
-    "built_in_mods": [ "rail_laser_sight", "pistol_grip" ],
+    "built_in_mods": [ "rail_laser_sight" ],
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "2-rd. burst", 2 ] ],
     "energy_drain": "100 kJ",
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "sights", 1 ],
       [ "rail", 1 ],
       [ "stock", 1 ],
@@ -1507,7 +1502,8 @@
   },
   {
     "id": "br_bolt_rifle_elec",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "compcrossbow",
     "symbol": "(",
     "color": "dark_gray",
@@ -1538,7 +1534,6 @@
       [ "dampening", 1 ],
       [ "mechanism", 4 ],
       [ "sling", 1 ],
-      [ "grip", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ],
@@ -1547,7 +1542,8 @@
   },
   {
     "id": "mk_ionic_cannon",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "laser_cannon",
     "symbol": "(",
     "color": "dark_gray",
@@ -1577,7 +1573,8 @@
   },
   {
     "id": "mk_ionic_cannon_plut",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "looks_like": "mk_ionic_cannon",
     "symbol": "(",
     "color": "dark_gray",
@@ -1610,7 +1607,8 @@
     "id": "flamethrower_surv",
     "copy-from": "flamethrower_base",
     "looks_like": "flamethrower",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "survivor's flamethrower" },
     "//": "Most stats are in between regular flamethrower and obsoleted simple flamethrower.  Integral mag because multiple ammo types.  No burst fire, less range and a damage penalty, but it uses half as much fuel as normal.",
     "description": "A makeshift flamethrower, charged from a integral fuel tank using a hand-cranked pump.  While homemade, it is higher-quality than most makeshift weapons, and can run on just about any fuel of suitable viscosity.  It uses considerably less fuel per gout of flame, at the expense of power and range.",
@@ -1644,10 +1642,9 @@
         }
       }
     ],
-    "reload": 4,
+    "reload": 1000,
     "valid_mod_locations": [
       [ "accessories", 1 ],
-      [ "grip", 1 ],
       [ "sling", 1 ],
       [ "rail mount", 1 ],
       [ "stock mount", 1 ],
@@ -1660,7 +1657,8 @@
   {
     "id": "c_mi_go_beam_salvaged",
     "looks_like": "v29",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN", "ARTIFACT" ],
     "name": { "str": "salvaged stun emitter" },
     "description": "A mi-go beam weapon repurposed for human use using pre-cataclysm developments in bio-technology, crudely interfacing artificial nerves with wiring and converting it into a bulky pistol.  Its strange lens fires short-ranged beams that deal low damage, but are highly effective at stunning targets.  Wielding it gives a faint sense of focus, like it's almost but not quite alive.",
     "weight": "1500 g",
@@ -1679,21 +1677,20 @@
     "loudness": 10,
     "ammo_effects": [ "C_DAZZLER_BURST", "LARGE_BEANBAG", "BLINDS_EYES", "PARALYZEPOISON" ],
     "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ],
-    "relic_data": {
-      "passive_effects": [
-        {
-          "has": "WIELD",
-          "condition": "ALWAYS",
-          "values": [ { "value": "STRENGTH", "add": -1 }, { "value": "DEXTERITY", "add": -1 }, { "value": "PERCEPTION", "add": 2 } ],
-          "ench_effects": [ { "effect": "c_flesh_pistol_side_effect", "intensity": 1 } ]
-        }
-      ]
-    }
+    "passive_effects": [
+      {
+        "has": "WIELD",
+        "condition": "ALWAYS",
+        "values": [ { "value": "STRENGTH", "add": -1 }, { "value": "DEXTERITY", "add": -1 }, { "value": "PERCEPTION", "add": 2 } ],
+        "ench_effects": [ { "effect": "c_flesh_pistol_side_effect", "intensity": 1 } ]
+      }
+    ]
   },
   {
     "id": "c_mi_go_rifle_salvaged",
     "looks_like": "sur_pnu_lmg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "name": { "str": "salvaged resin rifle" },
     "description": "A mi-go weapon that projects pieces of hardened alien resin at high velocities, its exotic controls stripped down it fit human anatomy.  The product of pre-cataclysm biotechnology applied to solve an outside-context problem.  Although it relies on special ammunition, it is relatively easy to mold resin or metal into compatible projectiles, and it packs a decent punch with very little noise.",
     "weight": "4200 g",
@@ -1716,7 +1713,8 @@
   {
     "id": "omnitech_plasma_pistol",
     "looks_like": "v29",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "reload_noise_volume": 10,
     "symbol": "(",
     "color": "light_blue",
@@ -1750,6 +1748,6 @@
       }
     ],
     "reload": 450,
-    "valid_mod_locations": [ [ "accessories", 2 ], [ "grip", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ]
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ]
   }
 ]

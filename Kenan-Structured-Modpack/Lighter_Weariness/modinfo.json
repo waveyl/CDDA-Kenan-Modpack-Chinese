@@ -11,14 +11,12 @@
   {
     "type": "EXTERNAL_OPTION",
     "name": "WEARY_BMR_MULT",
-    "info": "What portion of BMR is used as the base for determining weariness threshold.",
     "stype": "float",
     "value": 4.32
   },
   {
     "type": "EXTERNAL_OPTION",
     "name": "WEARY_RECOVERY_MULT",
-    "info": "What percentage of calorie intake and expenditure is reduced during each reduction tick.",
     "stype": "float",
     "value": 0.4
   }

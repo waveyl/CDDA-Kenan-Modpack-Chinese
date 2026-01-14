@@ -87,100 +87,135 @@
     "//note": "This can be added without issues. However, it immediately breaks after starting (no actual effect). Also, it displays the un-handed right arm, and while kasen_bandages grants the proper arm + hand, smashing stuff proccs the stub smash_message instead of the restored limb"
   },
   {
-    "id": "wip_soulshard_eoc",
+    "id": "kokoro_morale_eoc_OLD",
     "type": "effect_on_condition",
-    "//eoc_type": "EVENT",
-    "//required_event": "character_kills_monster",
     "condition": {
-      "and": [ 
-        { 
-          "or": [ 
-            { "u_has_trait": "KASHA_SPECIES" }, 
-            { "u_has_trait": "KASHA_SPECIES_active" }
-          ]
-        },
-        { 
-          "or": [ 
-            { "npc_has_species": "FERAL" }, 
-            { "npc_has_species": "HUMAN" }, 
-            { "npc_has_species": "NETHER" }, 
-            { "npc_has_species": "ZOMBIE" } 
-          ] 
-        }
+      "and": [
+        { "u_has_trait": "PROF_KOKORO_morale" },
+        { "not": { "math": [ "u_val('morale')", "==", "0" ] } }
       ]
     },
-    "effect": [ { "u_spawn_item": "soul_shard_item", "count": 1, "suppress_message": true } ],
-    "//": "Simple EOC checks when a Kasha kills anything, if it's humanoid or close enough it grants the item",
-    "//2": "Seems dots from spells are not proccing character_kills_monster events (#71408)",
-    "//3": "This doesn't work as there's no proper way to limit how many shards can Kaenbyou accumulate. The optimal way would be to just remove any number of soulshards past the limit, but currently there's no EOC that can do that. I tried adding a spoils_in timer but seems the minimum time for the item to disappear is ~5 min, and also she has to drop the items from her inventory for them to actually despawn. That's clunky and leads to inventory flood and micromanagement tedium",
-    "//note": " try u_consume_item to delete items/charges"
-  },
-  {
-    "id": "soul_shard_item",
-    "type": "COMESTIBLE",
-    "name": { "str": "soul shard", "str_pl": "soul shards" },
-    "description": "The crystallized fragment of a human soul.",
-    "volume": "10 ml",
-    "weight": "5 g",
-    "phase": "solid",
-    "material": [ "glass" ],
-    "symbol": "=",
-    "calories": 0,
-    "color": "pink",
-    "comestible_type": "INVALID",
-    "spoils_in": "1 s",
-    "flags": [ "INEDIBLE", "NO_AUTO_CONSUME", "NO_INGEST", "TRADER_AVOID" ]
-  },
-  {
-    "id": "wip_rin_kaenbyou",
-    "type": "profession",
-    "name": " ",
-    "description": " ",
-    "points": 4,
-    "items": {
-      "both": {
-        "entries": [ { "item": "wip_kaenbyou_leg_lace", "contents-group": "nested_soulshards" } ]
-      }
-    }
-  },
-  {
-    "id": "wip_kaenbyou_leg_lace",
-    "type": "ARMOR",
-    "category": "armor",
-    "name": { "str": "leg lace", "str_pl": "leg laces" },
-    "copy-from": "kaenbyou_leg_lace",
-    "description": " ",
-    "pocket_data": [
+    "effect": [
       {
-        "pocket_type": "CONTAINER",
-        "max_contains_volume": "160 ml",
-        "max_contains_weight": "80 g",
-        "max_item_length": "20 cm",
-        "volume_multiplier": 0,
-        "weight_multiplier": 0,
-        "moves": 50,
-        "fire_protection": true,
-        "spoil_multiplier": 0.0,
-        "item_restriction": [ "soul_shard_item" ]
-      }
-    ]
-  },
-  {
-    "id": "nested_soulshards",
-    "type": "item_group",
-    "subtype": "collection",
-    "entries": [ { "item": "soul_shard_item", "count": [ 4, 4 ] } ]
-  },
-  {
-    "id": "spell_components_soulshard_1",
-    "type": "requirement",
-    "components": [ [ [ "soul_shard_item", 1 ] ] ],
-    "//": "For kaenbyou_soulfire and kaenbyou_soulshatter "
-  },
-  {
-    "id": "spell_components_soulshard_2",
-    "type": "requirement",
-    "components": [ [ [ "soul_shard_item", 2 ] ] ],
-    "//": "For kaenbyou_blazingwheel "
+        "run_eocs": [
+          {
+            "id": "kokoro_morale_add",
+            "condition": { "math": [ "u_val('morale')", "<", "0" ] },
+            "effect": [
+              { "math": [ "u_val('morale')", "+=", "1" ] },
+              { "math": [ "var_kokoro_instability", "+=", "1" ] },
+              { "math": [ "u_val('mana')", "+=", "2" ] }
+            ]
+          },
+          {
+            "id": "kokoro_morale_remove",
+            "condition": { "math": [ "u_val('morale')", ">", "0" ] },
+            "effect": [
+              { "math": [ "u_val('morale')", "-=", "1" ] },
+              { "math": [ "var_kokoro_instability", "+=", "1" ] },
+              { "math": [ "u_val('mana')", "+=", "2" ] }
+            ]
+          }
+        ]
+      },
+      { "u_lose_morale": "morale_food_good" },
+      { "u_lose_morale": "morale_food_hot" },
+      { "u_lose_morale": "morale_chat" },
+      { "u_lose_morale": "morale_ate_with_table" },
+      { "u_lose_morale": "morale_ate_without_table" },
+      { "u_lose_morale": "morale_music" },
+      { "u_lose_morale": "morale_honey" },
+      { "u_lose_morale": "morale_game" },
+      { "u_lose_morale": "morale_marloss" },
+      { "u_lose_morale": "morale_mutagen" },
+      { "u_lose_morale": "morale_feeling_good" },
+      { "u_lose_morale": "morale_support" },
+      { "u_lose_morale": "morale_photos" },
+      { "u_lose_morale": "morale_craving_nicotine" },
+      { "u_lose_morale": "morale_craving_caffeine" },
+      { "u_lose_morale": "morale_craving_alcohol" },
+      { "u_lose_morale": "morale_craving_opiate" },
+      { "u_lose_morale": "morale_craving_speed" },
+      { "u_lose_morale": "morale_craving_cocaine" },
+      { "u_lose_morale": "morale_craving_crack" },
+      { "u_lose_morale": "morale_craving_mutagen" },
+      { "u_lose_morale": "morale_craving_diazepam" },
+      { "u_lose_morale": "morale_craving_marloss" },
+      { "u_lose_morale": "morale_food_bad" },
+      { "u_lose_morale": "morale_cannibal" },
+      { "u_lose_morale": "morale_demicannibal" },
+      { "u_lose_morale": "morale_vegetarian" },
+      { "u_lose_morale": "morale_antiveggy" },
+      { "u_lose_morale": "morale_meatarian" },
+      { "u_lose_morale": "morale_antimeat" },
+      { "u_lose_morale": "morale_antifruit" },
+      { "u_lose_morale": "morale_lactose" },
+      { "u_lose_morale": "morale_antijunk" },
+      { "u_lose_morale": "morale_antiwheat" },
+      { "u_lose_morale": "morale_sweettooth" },
+      { "u_lose_morale": "morale_no_digest" },
+      { "u_lose_morale": "morale_wet" },
+      { "u_lose_morale": "morale_dried_off" },
+      { "u_lose_morale": "morale_cold" },
+      { "u_lose_morale": "morale_hot" },
+      { "u_lose_morale": "morale_feeling_bad" },
+      { "u_lose_morale": "morale_bad_protein_bar" },
+      { "u_lose_morale": "morale_killed_innocent" },
+      { "u_lose_morale": "morale_killed_friend" },
+      { "u_lose_morale": "morale_killed_monster" },
+      { "u_lose_morale": "morale_mutilate_corpse" },
+      { "u_lose_morale": "morale_mutagen_elf" },
+      { "u_lose_morale": "morale_mutagen_chimera" },
+      { "u_lose_morale": "morale_mutagen_mutation" },
+      { "u_lose_morale": "morale_moodswing" },
+      { "u_lose_morale": "morale_book" },
+      { "u_lose_morale": "morale_comfy" },
+      { "u_lose_morale": "morale_scream" },
+      { "u_lose_morale": "morale_perm_masochist" },
+      { "u_lose_morale": "morale_perm_radiophile" },
+      { "u_lose_morale": "morale_perm_noface" },
+      { "u_lose_morale": "morale_perm_fpmode_on" },
+      { "u_lose_morale": "morale_perm_hoarder" },
+      { "u_lose_morale": "morale_perm_fancy" },
+      { "u_lose_morale": "morale_perm_optimist" },
+      { "u_lose_morale": "morale_perm_badtemper" },
+      { "u_lose_morale": "morale_perm_numb" },
+      { "u_lose_morale": "morale_perm_constrained" },
+      { "u_lose_morale": "morale_perm_nomad" },
+      { "u_lose_morale": "morale_game_found_kitten" },
+      { "u_lose_morale": "morale_haircut" },
+      { "u_lose_morale": "morale_shave" },
+      { "u_lose_morale": "morale_vomited" },
+      { "u_lose_morale": "morale_play_with_pet" },
+      { "u_lose_morale": "morale_pyromania_startfire" },
+      { "u_lose_morale": "morale_pyromania_nearfire" },
+      { "u_lose_morale": "morale_pyromania_nofire" },
+      { "u_lose_morale": "morale_killer_has_killed" },
+      { "u_lose_morale": "morale_killer_need_to_kill" },
+      { "u_lose_morale": "morale_perm_filthy" },
+      { "u_lose_morale": "morale_butcher" },
+      { "u_lose_morale": "morale_gravedigger" },
+      { "u_lose_morale": "morale_funeral" },
+      { "u_lose_morale": "morale_tree_communion" },
+      { "u_lose_morale": "morale_accomplishment" },
+      { "u_lose_morale": "morale_failure" },
+      { "u_lose_morale": "morale_perm_debug" },
+      { "u_lose_morale": "morale_nightmare" },
+      { "u_lose_morale": "morale_migo_bio_tech" },
+      { "u_lose_morale": "morale_impossible_shape" },
+      { "u_lose_morale": "morale_afs_drugs" },
+      { "u_lose_morale": "morale_social" },
+      { "u_lose_morale": "morale_asocial" },
+      { "u_lose_morale": "morale_bile" },
+      { "u_lose_morale": "morale_sunrise" },
+      { "u_lose_morale": "morale_sunset" }
+    ],
+    "false_effect": [ 
+      { "u_add_trait": "PROF_KOKORO" },
+      { "u_lose_trait": "PROF_KOKORO_morale" }
+    ],
+    "//": "Turns morale into mana, only for Kokoro, deactivates if her morale is zero, also removes ALL morale_type , except for morale_perm_debug ",
+    "//2": "Works good enough to remove endpoint morale like 'protein rations', but for continous stuff like 'wet' it keeps removing as long as she's wet",
+    "//3": "Replaced by the approach of KOKORO_MORALE_1 . Kept here because the list may be useful"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "lab_ab_surface" ],
-    "weight": "500",
+    "weight": 500,
     "object": {
       "fill_ter": "t_concrete",
       "rows": [
@@ -53,9 +53,9 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "lab_ab_surface_roof" ],
-    "weight": "500",
+    "weight": 500,
     "object": {
       "fill_ter": "t_concrete",
       "rows": [
@@ -89,16 +89,16 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ "lab_ab_mid" ],
-    "weight": "500",
+    "weight": 500,
     "object": {
       "fill_ter": "t_concrete",
       "rows": [
         "                        ",
-        "         NNN            ",
-        "         N_N            ",
-        "        NNTNN           ",
+        "       NNNNNNN          ",
+        "       N_..._N          ",
+        "       NNNTNNN          ",
         "       NN...NN          ",
         "       N..N..N          ",
         "       NN...NN          ",
@@ -140,9 +140,9 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [ [ "lab_ab_lt", "lab_ab_mt2", "lab_ab_mt1", "lab_ab_rt" ], [ "lab_ab_lb", "lab_ab_mb2", "lab_ab_mb1", "lab_ab_rb" ] ],
-    "weight": "500",
+    "weight": 500,
     "object": {
       "fill_ter": "t_concrete",
       "rows": [
@@ -150,16 +150,16 @@
         "                 N///1.....qN       NNNNNNNv NN.^NNNNNNN       Nq.....1///N                     ",
         "                 N///1.....qN       NqqqqqN . ..^NqqqqqN       Nq.....1///N                     ",
         "                 N///1....NNN       N`````N`N..N,,,,,,,N       NNN ...1///N                     ",
-        "                 N0//1....Z=N       N```````NTTN,,,,,,,N       N T ...1//0N                     ",
-        "                 NNNNNNNNNzZNNNNNNNNNNNNNNNNN==NNNNNNNNNNNNNNNNNTNNNNNNNNNN                     ",
+        "                 N0//1....H=N       N```````NTTN,,,,,,,N       N T ...1//0N                     ",
+        "                 NNNNNNNNNtHNNNNNNNNNNNNNNNNN==NNNNNNNNNNNNNNNNNTNNNNNNNNNN                     ",
         "                         N=====0====0========= ========0====0=====N                             ",
         "                         N=====000000==================000000=====N                             ",
-        "                 NNNNNNNNNbZNNNNNNNNWWWWWWWWW==WWWWWWWWWNNNNNNNNHtNNNNNNNNN                     ",
-        "                 N0//1....Z=N               W[ W               N=H....1//0N                     ",
-        "                 N///1....NNN                                  NNN....1/+/N                     ",
-        "                 N///1.....qN                                  Nq.....1///N                     ",
-        "                 N///1.....qN                                  Nq.....1///N                     ",
-        "                 NNNNNNNNNNNN                                  NNNNNNNNNNNN                     ",
+        "                 NNNNNNNNNzZNNNNNNNNNtHWWWWWW==WWWWWWWWWNNNNNNNNHtNNNNNNNNN                     ",
+        "                 N0//1....Z=N0//1....H=N    W[ W               N=H....1//0N                     ",
+        "                 N///1....NNN///1....NNN                       NNN....1/+/N                     ",
+        "                 N///1.....qN///1.....qN                       Nq.....1///N                     ",
+        "                 N///1.....qN///1.....qN                       Nq.....1///N                     ",
+        "                 NNNNNNNNNNNNNNNNNNNNNNN                       NNNNNNNNNNNN                     ",
         "                                                                                                ",
         "                                                                                                ",
         "                                                                                                ",
@@ -196,10 +196,15 @@
         "                                                                                                "
       ],
       "place_npcs": [  ],
-      "place_monster": [ { "monster": "mon_birb", "x": 19, "y": 2 } ],
-      "items": {
-	"+": { "item": "skin_book_placement", "chance": 100 }
-			},
+      "place_monster": [ 
+        { "monster": "mon_birb", "x": 19, "y": 2 },
+        { "monster": "mon_void_dream", "x": 30, "y": 10 } 
+      ],
+      "place_item": [
+        { "item": "p_bird_book", "x": 27, "y": 2, "amount": 1, "chance": 100 },
+        { "item": "soda_book", "x": 27, "y": 12, "amount": 1, "chance": 100 }
+      ],
+      "items": { "+": { "item": "skin_book_placement", "chance": 100 } },
       "terrain": {
         "N": "t_wall_bulkhead",
         "Z": "t_strconc_wall_g",
@@ -258,12 +263,12 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
+    
     "om_terrain": [
       [ "lab_ab_second_lt", "lab_ab_second_mt2", "lab_ab_second_mt1", "lab_ab_second_rt" ],
       [ "lab_ab_second_lb", "lab_ab_second_mb2", "lab_ab_second_mb1", "lab_ab_second_rb" ]
     ],
-    "weight": "500",
+    "weight": 500,
     "object": {
       "fill_ter": "t_metal_floor",
       "rows": [
@@ -273,9 +278,9 @@
         "                 N///1....NNN       N`````N N..N,  , ,,N            N===6=====6==               ",
         "                 N0//1....  N       N```````NTTN ,,  ,,N          NNN=====***=====N             ",
         "                 NNNNNNNNN TNNNNNNNNNNNNNNNNN==NNNNNNNNNNNNNNNNNNNN6N=============N             ",
-        "                         N   ==0====0 ======== ========0====0====0 =T===1=====1===N             ",
-        "                         N= ===000000==== === == ======000000=== 0 =T======**=====N             ",
-        "                 NNNNNNNNNN  NNNNNNNNNNNNNNNN =NNNNNNNNNNNNNNNN NNN6N==== ========N             ",
+        "                         N   ==0====0 ======== ========0====0====08=T===1=====1===N             ",
+        "                         N= ===000000==== === == ======000000=== 08=T======**=====N             ",
+        "                 NNNNNNNNNN  NNNNNNNNNNNNNNNN =NNNNNNNNNNNNNNNN NN?6N==== ========N             ",
         "                 N0//1....T=N               NT N                  NNN======*==== =N             ",
         "                 N///1....NNN                                       N== 1===*=1===N             ",
         "                 N///1.....qN                                       N=== =**======N             ",
@@ -322,6 +327,7 @@
         "N": "t_wall_bulkhead",
         "L": "t_wall_metal",
         "l": "t_strconc_wall_w",
+        "?": "t_l_corp_card_reader_he",
         "W": "t_brick_wall",
         "z": "t_strconc_wall_r",
         "T": "t_door_metal_bulkhead_c",
@@ -343,7 +349,8 @@
         "4": "t_floor_olight",
         "5": "t_carpet_metal_red",
         "6": "t_current_trans",
-        "2": "t_marble_floor"
+        "2": "t_marble_floor",
+        "8": "t_concrete_wall_y"
       },
       "furniture": {
         "q": "f_locker",
